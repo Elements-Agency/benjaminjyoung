@@ -1,11 +1,14 @@
 <header id="header">
   <h1><a href="/about">{{ .Params.heading | default .Site.Title }}</a></h1>
+  
   {{ with .Params.description }}
     <p>{{ . }}</p>
   {{ end }}
+
   {{ with .Site.Params.location }}
-    <p><i class="fa fa-map-pin"></i> {{ . }}</p> 
+    <p><i class="icon fa fa-map-pin"><span class="label">Located in</span></i> {{ . }}</p> 
   {{ end }}
+
   <ul class="icons">
     <li><a href="#" class="icon brands fa-facebook"><span class="label">Facebook</span></a></li>
     <li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>

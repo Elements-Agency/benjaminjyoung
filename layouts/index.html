@@ -29,7 +29,7 @@
           {{ $thumbnail := $thumbnail.Resize "360x webp q75" }}
 
           <a class="thumbnail" href="{{ $full.RelPermalink }}" data-position="center">
-            <img src="{{ $thumbnail.RelPermalink }}" alt="" />
+            <img src="{{ $thumbnail.RelPermalink }}" alt="{{ .Params.alt }}" title='{{ .Title }} ({{ .Date| time.Format "2006" }}) by {{ .Site.Copyright }}' />
           </a>
 
           <h2>
