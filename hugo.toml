@@ -1,3 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://benjaminjyoung.com/'
 languageCode = 'en-us'
 title = 'Paintings by Benjamin J. Young'
+copyright = 'Benjamin J. Young'
+[params]
+  commentoEnable = true
