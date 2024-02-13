@@ -852,7 +852,7 @@ input, select, textarea {
 			top: 0;
 			width: 4em;
 			height: 4em;
-			background-image: url("images/close-small-alt.svg");
+			background-image: url("/images/close-small-alt.svg");
 			background-repeat: no-repeat;
 			background-size: 32px 32px;
 			cursor: pointer;
@@ -934,6 +934,11 @@ input, select, textarea {
 		#header h1 {
 			font-size: 2.25em;
 			font-weight: 700;
+		}
+
+		#header a, #header a:visited, #header a:active {
+			text-decoration: none;
+			border-bottom: none;
 		}
 
 /* Footer */
@@ -1141,7 +1146,7 @@ input, select, textarea {
 				top: 0;
 				width: 4em;
 				height: 4em;
-				background-image: url("images/close.svg");
+				background-image: url("/images/close.svg");
 				background-repeat: no-repeat;
 				background-size: 64px 64px;
 				cursor: pointer;
@@ -1158,7 +1163,7 @@ input, select, textarea {
 				width: 6em;
 				height: 6em;
 				margin-top: -3em;
-				background-image: url("images/arrow.svg");
+				background-image: url("/images/arrow.svg");
 				background-position: center;
 				background-repeat: no-repeat;
 				background-size: contain;
@@ -1220,7 +1225,7 @@ input, select, textarea {
 				width: 100%;
 				height: 100%;
 				background-repeat: no-repeat;
-				background-size: cover;
+				background-size: contain;
 				opacity: 0;
 			}
 
@@ -1240,7 +1245,7 @@ input, select, textarea {
 				left: 50%;
 				width: 3em;
 				height: 3em;
-				background-image: url("images/spinner.svg");
+				background-image: url("/images/spinner.svg");
 				background-position: center;
 				background-repeat: no-repeat;
 				background-size: contain;
@@ -1261,7 +1266,7 @@ input, select, textarea {
 		}
 
 			body.fullscreen #viewer .inner .toggle {
-				background-image: url("images/open.svg");
+				background-image: url("/images/open.svg");
 			}
 
 		body.is-preload-1 #viewer {
@@ -1291,7 +1296,7 @@ input, select, textarea {
 					-webkit-transition: opacity 0.75s ease;
 					-ms-transition: opacity 0.75s ease;
 					transition: opacity 0.75s ease;
-					background-image: url("images/open.svg");
+					background-image: url("/images/open.svg");
 					opacity: 0;
 					right: 0;
 				}
@@ -1310,12 +1315,12 @@ input, select, textarea {
 
 			#viewer .inner .nav-next,
 			#viewer .inner .nav-previous {
-				background-image: url("images/arrow-small.svg");
+				background-image: url("/images/arrow-small.svg");
 				background-size: 32px 32px;
 			}
 
 			body.fullscreen #viewer .inner .toggle {
-				background-image: url("images/open-small.svg");
+				background-image: url("/images/open-small.svg");
 			}
 
 		}
@@ -1335,7 +1340,7 @@ input, select, textarea {
 			}
 
 				#viewer .inner .toggle {
-					background-image: url("images/close-small.svg") !important;
+					background-image: url("/images/close-small.svg") !important;
 					background-size: 32px 32px;
 				}
 
@@ -1348,3 +1353,12 @@ input, select, textarea {
 				}
 
 		}
+
+	.navigation ul {
+		list-style: none;
+	}
+
+	.navigation li {
+		display: inline-block;
+		font-weight: bold;
+	}

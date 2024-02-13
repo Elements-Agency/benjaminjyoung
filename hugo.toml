@@ -2,5 +2,25 @@ baseURL = 'https://benjaminjyoung.com/'
 languageCode = 'en-us'
 title = 'Paintings by Benjamin J. Young'
 copyright = 'Benjamin J. Young'
+
 [params]
   commentoEnable = true
+  location = "Canton, Ohio. USA."
+
+[menus]
+[[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+[[menus.main]]
+    name = 'About'
+    pageRef = '/about'
+    weight = 20
+[[menus.main]]
+    name = 'Artwork'
+    pageRef = '/artwork'
+    weight = 30
+[[menus.main]]
+    name = 'Contact'
+    pageRef = '/contact'
+    weight = 40

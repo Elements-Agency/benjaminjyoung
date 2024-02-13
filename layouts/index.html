@@ -17,20 +17,36 @@
     {{ $section_name := index (.Site.Params.mainSections) 0 }}
 
     <section id="thumbnails">
-      {{ $n_posts := $.Param "recent_posts_number" | default 3 }}
+      {{ $n_posts := $.Param "recent_posts_number" | default 12 }}
 
       {{/* Range through the first $n_posts items of the section */}}
       {{ range (first $n_posts $section) }}
         <article>
-          <a class="thumbnail" href="https://html5up.net/uploads/demos/lens/images/fulls/01.jpg" data-position="left center"><img src="https://html5up.net/uploads/demos/lens/images/thumbs/01.jpg" alt="" /></a>
-          <h2>{{ .Title }}</h2>
-          <p>{{ .Summary }}</p>
-          <a href="{{ .RelPermalink }}">Read More</a>
+          {{ $full := .Resources.GetMatch "painting.jpg" }}
+          {{ $full := $full.Resize "1600x webp q90" }}
+          {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
+          {{ $thumbnail := $thumbnail.Fill "360x300 Center" }}
+          {{ $thumbnail := $thumbnail.Resize "360x webp q75" }}
+
+          <a class="thumbnail" href="{{ $full.RelPermalink }}" data-position="center">
+            <img src="{{ $thumbnail.RelPermalink }}" alt="" />
+          </a>
+
+          <h2>
+            <a href="{{ .RelPermalink }}">
+              {{ .Title }}
+              <em>({{ .Date| time.Format "2006" }})</em>
+            </a>
+          </h2>
+          <p><em>{{ .Description }}</em> &nbsp; <a href="{{ .RelPermalink }}">Read More &gt;</a></p>
         </article>
       {{ end }}
     </section>
   {{ end }}
 
   <br>
-  <a href="/artwork" class="button">View All Artwork</a>
+  <p style="text-align: center;">
+    <a href="/artwork" class="button">View All Artwork</a>
+  </p>
+
 {{ end }}

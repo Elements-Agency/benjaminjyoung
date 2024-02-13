@@ -1,4 +1,6 @@
 <footer id="footer" role="contentinfo">
+  {{ partial "site-navigation.html" . }}
+
   <ul class="copyright">
     <li>
       &copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006"}}. {{ end }}
