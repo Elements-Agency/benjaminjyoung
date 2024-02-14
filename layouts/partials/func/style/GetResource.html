@@ -13,7 +13,7 @@
 */}}
 {{ $resource := dict }}
 {{ with resources.Get (print "/css/" .) }}
-  {{ $resource = . }}
+  {{ $resource = (. | resources.Minify) }}
 {{ end }}
 
 {{ return $resource }}

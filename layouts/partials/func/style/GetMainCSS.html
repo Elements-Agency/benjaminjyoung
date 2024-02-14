@@ -18,7 +18,7 @@
 {{/* We add locale css files to the slice in the proper order */}}
 {{ range slice "_styles.css" }}
   {{ with partialCached "func/style/GetResource" . . }}
-    {{ $assets_to_concat = $assets_to_concat | append . }}
+    {{ $assets_to_concat = $assets_to_concat | append (. | resources.Minify) }}
   {{ end }}
 {{ end }}
 
@@ -35,7 +35,7 @@ css asset directory we (unless condition below) add to aforementioned slice */}}
           {{ partial "func/warn" (printf "Processing of stylesheet %s of type %s has been skipped. You need Hugo Extended to process such files." .Name .MediaType.SubType) }}
         {{ end }}
       {{ else }}
-        {{ $assets_to_concat = $assets_to_concat | append . }}
+        {{ $assets_to_concat = $assets_to_concat | append (. | resources.Minify) }}
       {{ end }}
     {{ end }}
   {{ end }}

@@ -23,10 +23,10 @@
       {{ range (first $n_posts $section) }}
         <article>
           {{ $full := .Resources.GetMatch "painting.jpg" }}
-          {{ $full := $full.Resize "1600x webp q90" }}
+          {{ $full := $full.Fit "1600x1600 webp q85" }}
           {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
           {{ $thumbnail := $thumbnail.Fill "360x300 Center" }}
-          {{ $thumbnail := $thumbnail.Resize "360x webp q75" }}
+          {{ $thumbnail := $thumbnail.Resize "360x webp q60" }}
 
           <a class="thumbnail" href="{{ $full.RelPermalink }}" data-position="center">
             <img src="{{ $thumbnail.RelPermalink }}" alt="{{ .Params.alt }}" title='{{ .Title }} ({{ .Date| time.Format "2006" }}) by {{ .Site.Copyright }}' />
