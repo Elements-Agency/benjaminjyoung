@@ -6,14 +6,36 @@
   {{ end }}
 
   {{ with .Site.Params.location }}
-    <p><i class="icon fa fa-map-pin"><span class="label">Located in</span></i> {{ . }}</p> 
+    <address>
+      <p><i class="icon fa fa-map-pin"><span class="label">Located in</span></i> {{ . }}</p> 
+    </address>
   {{ end }}
 
   <ul class="icons">
-    <li><a href="#" class="icon brands fa-facebook"><span class="label">Facebook</span></a></li>
-    <li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
-    <li><a href="#" class="icon brands fa-pinterest"><span class="label">Pinterest</span></a></li>
-    <li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
-    <li><a href="#" class="icon brands fa-patreon"><span class="label">Patreon</span></a></li>
+    <li>
+      <a href="#" class="icon brands fa-facebook" target="_blank">
+        <span class="label">Facebook</span>
+      </a>
+    </li>
+    <li>
+      <a href="#" class="icon brands fa-instagram" target="_blank">
+        <span class="label">Instagram</span>
+      </a>
+    </li>
+    <li>
+      <a href="#" class="icon brands fa-pinterest" target="_blank">
+        <span class="label">Pinterest</span>
+      </a>
+    </li>
+    <li>
+      <a href="#" class="icon brands fa-twitter" target="_blank">
+        <span class="label">Twitter</span>
+      </a>
+    </li>
+    <li>
+      <a href="#" class="icon brands fa-patreon" target="_blank">
+        <span class="label">Patreon</span>
+      </a>
+    </li>
   </ul>
 </header>
