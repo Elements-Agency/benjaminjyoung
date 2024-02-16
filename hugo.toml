@@ -24,3 +24,15 @@ copyright = 'Benjamin J. Young'
     name = 'Contact'
     pageRef = '/contact'
     weight = 40
+
+
+[[deployment.matchers]]
+# Cache static assets for 1 year.
+pattern = "^.+\\.(js|css|svg|ttf|woff2)$"
+cacheControl = "max-age=31536000, no-transform, public"
+gzip = true
+
+[[deployment.matchers]]
+pattern = "^.+\\.(png|jpg|gif|webp)$"
+cacheControl = "max-age=31536000, no-transform, public"
+gzip = false
