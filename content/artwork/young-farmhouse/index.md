@@ -9,7 +9,21 @@ medium: Watercolor
 material: Cold Press Pulp Paper
 category: Impressionism
 subject: Landscape
-tags: [farm, house, home, swing, tree, architecture, painting, watercolor, impressionism, landscape]
+size: 12x9in (30.4x22.8cm)
+tags: [farm, house, brick, home, swing, walnut, swing, countryside, tree, architecture, painting, watercolor, impressionism, landscape]
 ---
 
-Where I grew up at.
+This **Young Farmhouse** painting portrays a rustic, rural scene. Dominating the left foreground is a large, dark brown walnut tree, its detailed bark texture suggesting an old and sturdy presence. From one of its branches, a swing with a wooden seat dangles, its ropes hanging limply, waiting for a visitor.
+
+Behind the tree, set in the middle ground, is a quaint brick house with multiple windows, exuding a cozy, lived-in feel. To the house's left, there is a small, white outbuilding with a single red window, that was once a chicken coupe but now acts as a shed. These structures are nestled within a green landscape with patches of darker and lighter shades, indicating the undulating terrain.
+
+Further back, the scene opens to a golden field, which could be a harvested crop, bordered by a dense tree line that marks the edge of a forest. The trees are evergreens, standing tall and dark green against the horizon.
+
+The sky above is a pale blue, suggesting an overcast day, with the light not quite bright enough to cast strong shadows. I have included various details like the foliage at the base of the tree and the texture of the grass, which add depth and realism to the scene.
+
+The painting has a feeling of tranquility and nostalgia, evoking memories of childhood summers or quiet life in the countryside. The overall style combines elements of [realism with a touch of impressionism](https://study.com/academy/lesson/realism-impressionism-overview-differences-examples.html), seen in the way the grass and foliage are rendered with loose brushwork.
+
+The subject and inspiration is that of my family's 1875 brick farmhouse.
+
+[Read About the Inspiration >>](./inspiration/)
+[See the Process >>](./process/)
