@@ -25,6 +25,7 @@ copyright = 'Benjamin J. Young'
     pageRef = '/contact'
     weight = 40
 
+googleAnalytics = 'G-LKWC4KDVH8'
 
 [[deployment.matchers]]
 # Cache static assets for 1 year.
