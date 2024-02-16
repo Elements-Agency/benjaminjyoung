@@ -25,8 +25,8 @@
           {{ $full := .Resources.GetMatch "painting.jpg" }}
           {{ $full := $full.Fit "1600x1600 webp q85" }}
           {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
-          {{ $thumbnail := $thumbnail.Fill "240x200 Center" }}
-          {{ $thumbnail := $thumbnail.Resize "240x webp q60" }}
+          {{ $thumbnail := $thumbnail.Fill "210x175 Center" }}
+          {{ $thumbnail := $thumbnail.Resize "210x webp q60" }}
 
           <a class="thumbnail" href="{{ $full.RelPermalink }}" data-position="center">
             <img src="{{ $thumbnail.RelPermalink }}" width="100%" height="auto" alt="{{ .Params.alt }}" title='{{ .Title }} ({{ .Date| time.Format "2006" }}) by {{ .Site.Copyright }}' />
