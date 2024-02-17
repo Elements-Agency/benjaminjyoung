@@ -13,9 +13,9 @@ size: 9x12in (22.9x30.5cm)
 tags: [man, face, beard, self, portrait, painting, oil pastel, impressionism, self portrait]
 ---
 
-The Mac Reflections painting depicts a close-up [impressionism portrait of myself](https://www.incredibleart.org/lessons/middle/Lessons/8impaint.htm), rendered with a strong emphasis on texture and a limited color palette. My figure is either emerging from or sinking into a dark background, with light only faintly illuminating the right side of the face. The strokes are expressive and almost sculptural, creating an array of thick, impasto strokes that give the image a dynamic and tactile quality.
+The Mac Reflections painting depicts a close-up [impressionism portrait of myself](https://www.incredibleart.org/lessons/middle/Lessons/8impaint.htm), rendered with a strong emphasis on texture and a limited color palette, to show it's reflective nature. My figure is implied to be either emerging from or sinking into a dark background, with light only faintly illuminating the right side of the face. The strokes are expressive and almost sculptural, creating an array of thick, impasto strokes that give the image a dynamic and tactile quality.
 
-The choice of colors—dark browns, blacks, and touches of white—contribute to a somber and introspective atmosphere. My expression is pensive and subdued, with eyes cast downward and away from the viewer, adding to the painting’s introspective quality.
+The choice of colors—greys, blacks, and touches of white—contribute to a somber and introspective atmosphere. My expression is pensive and subdued, with eyes cast downward and away from the viewer, adding to the painting’s introspective quality.
 
 There is a sense of depth and dimension, despite the darkness that envelops the figure. The use of light and shadow is masterful, creating a lifelike representation that captures the complexity of human emotion.
 
