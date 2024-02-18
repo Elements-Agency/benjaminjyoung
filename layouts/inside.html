@@ -20,18 +20,16 @@
                 <p>{{ .Description }}</p>
             </header>
 
-            <article>
-              {{- .Content -}}
-            </article>
+            {{/*}}
+            {{ $full := .Resources.GetMatch "painting.jpg" }}
+            {{ $full := $full.Fit "1600x800 webp q85" }}
 
-            <section class="flex-ns flex-wrap justify-around mt5">
-              {{ range .Paginator.Pages }}
-                <div class="relative w-100 w-30-l mb4 bg-white">
-                  {{ .Render "summary" }}
-                </div>
-              {{ end }}
-            </section>
-            {{- template "_internal/pagination.html" . -}}
+            <a href="{{ $full.RelPermalink }}" data-position="center">
+            <img src="{{ $full.RelPermalink }}" width="1600" height="800" style="width:90%; height:auto;" alt="{{ .Params.alt }}" title='{{ .Title }} ({{ .Date| time.Format "2006" }}) by {{ .Site.Copyright }}' />
+            </a>
+            {{*/}}
+
+            {{ .Content }}
         </section>
     </div>
 

@@ -1,4 +1,5 @@
 ---
+layout: inside
 title: Artwork
 ---
 

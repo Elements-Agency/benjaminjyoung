@@ -1,22 +1,43 @@
+{{ define "styles" }}
+    {{ partial "inside-style.html" . }}
+{{ end }}
+
+{{ define "scripts" }}
+    {{ partial "inside-scripts.html" . }}
+{{ end }}
+
 {{ define "main" }}
-    {{ $data := .Data }}
-  <article class="cf pa3 pa4-m pa4-l">
-    <div class="measure-wide-l center f4 lh-copy nested-copy-line-height nested-links {{ $.Param "text_color" | default "mid-gray" }}">
-      {{ .Content }}
+    <div id="wrapper">
+    {{ block "header" . }}{{ partial "inside-header.html" .}}{{ end }}
+
+    {{ block "nav" . }}{{ partial "inside-navigation.html" .}}{{ end }}
+
+    <div id="main">
+        <section class="post">
+          {{ $data := .Data }}
+          <article class="cf pa3 pa4-m pa4-l">
+            <div class="measure-wide-l center f4 lh-copy nested-copy-line-height nested-links {{ $.Param "text_color" | default "mid-gray" }}">
+              {{ .Content }}
+            </div>
+          </article>
+          <div class="mw8 center">
+            <section class="ph4">
+              {{ range $term := .Data.Pages }}
+                <h2 class="f1">
+                  <a href="{{ $term.RelPermalink }}" class="link blue hover-black">
+                    {{ $.Data.Singular | humanize }}: {{ $term.LinkTitle }}
+                  </a>
+                </h2>
+                {{ range $term.Pages }}
+                  {{ .Render "summary" }}
+                {{ end }}
+              {{ end }}
+            </section>
+          </div>
+        </section>
     </div>
-  </article>
-  <div class="mw8 center">
-    <section class="ph4">
-      {{ range $term := .Data.Pages }}
-        <h2 class="f1">
-          <a href="{{ $term.RelPermalink }}" class="link blue hover-black">
-            {{ $.Data.Singular | humanize }}: {{ $term.LinkTitle }}
-          </a>
-        </h2>
-        {{ range $term.Pages }}
-          {{ .Render "summary" }}
-        {{ end }}
-      {{ end }}
-    </section>
+
+    {{ block "footer" . }}{{ partialCached "inside-footer.html" . }}{{ end }}
   </div>
+
 {{ end }}

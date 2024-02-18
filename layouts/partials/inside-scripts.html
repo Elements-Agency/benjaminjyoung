@@ -1,0 +1,21 @@
+{{ with resources.Get "js/jquery.js" | resources.Minify }}
+  <script src="{{ .RelPermalink }}"></script>
+{{ end }}
+{{ with resources.Get "js/scrollex.js" | resources.Minify }}
+  <script src="{{ .RelPermalink }}"></script>
+{{ end }}
+{{ with resources.Get "js/scrolly.js" | resources.Minify }}
+  <script src="{{ .RelPermalink }}"></script>
+{{ end }}
+{{ with resources.Get "js/browser.js" | resources.Minify }}
+  <script src="{{ .RelPermalink }}"></script>
+{{ end }}
+{{ with resources.Get "js/breakpoints.js" | resources.Minify }}
+  <script src="{{ .RelPermalink }}"></script>
+{{ end }}
+{{ with resources.Get "js/util.js" | resources.Minify }}
+  <script src="{{ .RelPermalink }}"></script>
+{{ end }}
+{{ with resources.Get "js/inside.js" | resources.Minify }}
+  <script src="{{ .RelPermalink }}"></script>
+{{ end }}

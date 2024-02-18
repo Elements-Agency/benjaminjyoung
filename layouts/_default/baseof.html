@@ -17,10 +17,12 @@
     {{ if and $production $public }}
       <meta name="robots" content="index, follow">
     {{ else }}
-      <meta name="robots" content="noindex, nofollow">
+      <!--<meta name="robots" content="noindex, nofollow">-->
     {{ end }}
 
-    {{ partial "site-style.html" . }}
+    {{ block "styles" . }}
+      {{ partial "inside-style.html" . }}
+    {{ end }}
 
     {{ block "favicon" . }}
       {{ partialCached "site-favicon.html" . }}
@@ -50,13 +52,11 @@
 	{{ block "head" . }}{{ partial "head-additions.html" . }}{{ end }}
   </head>
 
-  <body class="is-preload-0 is-preload-1 is-preload-2">
-    <div id="main">
-      {{ block "header" . }}{{ partial "site-header.html" .}}{{ end }}
-      {{ block "main" . }}{{ end }}
-      {{ block "footer" . }}{{ partialCached "site-footer.html" . }}{{ end }}
-    </div>
-    
-    {{ partial "site-scripts.html" . }}
+  <body class="is-preload is-preload-0 is-preload-1 is-preload-2">
+    {{ block "main" . }}{{ end }}
+
+    {{ block "scripts" . }}
+    {{ partial "inside-scripts.html" . }}
+    {{ end }}
   </body>
 </html>

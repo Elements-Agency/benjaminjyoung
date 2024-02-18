@@ -1,15 +1,31 @@
-{{ define "header" }}{{ partial "page-header.html" . }}{{ end }}
+{{ define "styles" }}
+    {{ partial "inside-style.html" . }}
+{{ end }}
+
+{{ define "scripts" }}
+    {{ partial "inside-scripts.html" . }}
+{{ end }}
+
 {{ define "main" }}
-  <div class="flex-l mt2 mw8 center">
-    <article class="center cf pv5 ph3 ph4-ns mw7">
-      <header>
-        <h1 class="f1">
-          {{ .Title }}
-        </h1>
-      </header>
-      <div class="nested-copy-line-height lh-copy f4 nested-links {{ $.Param "text_color" | default "mid-gray" }}">
-        {{ .Content }}
-      </div>
-    </article>
+  {{ $section := .Site.GetPage "section" .Section }}
+    <div id="wrapper">
+    {{ block "header" . }}{{ partial "inside-header.html" .}}{{ end }}
+
+    {{ block "nav" . }}{{ partial "inside-navigation.html" .}}{{ end }}
+
+    <div id="main">
+        <article class="post">
+            <header class="major">
+                <h1>{{ .Title }}</h1>
+            </header>
+
+            <div>
+              {{- .Content -}}
+              {{- partial "tags.html" . -}}
+            </div>
+        </section>
+    </div>
+
+    {{ block "footer" . }}{{ partialCached "inside-footer.html" . }}{{ end }}
   </div>
 {{ end }}

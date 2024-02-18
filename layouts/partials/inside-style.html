@@ -1,0 +1,19 @@
+{{ with partialCached "func/style/GetInsideCSS" "style/GetInsideCSS" }}
+  <link rel="stylesheet" href="{{ .RelPermalink }}" >
+{{ end }}
+
+{{ with partialCached "func/style/GetFontsCSS" "style/GetFontsCSS" }}
+  <link rel="stylesheet" href="{{ .RelPermalink }}" >
+{{ end }}
+
+{{ range site.Params.custom_css }}
+  {{ with partialCached "func/style/GetResource" . . }}{{ else }}
+    <link rel="stylesheet" href="{{ relURL (.) }}">
+  {{ end }}
+{{ end }}
+
+{{ with partialCached "func/style/GetNoscriptCSS" "style/GetNoinsideCSS" }}
+  <noscript>
+    <link rel="stylesheet" href="{{ .RelPermalink }}" >
+  </noscript>
+{{ end }}
