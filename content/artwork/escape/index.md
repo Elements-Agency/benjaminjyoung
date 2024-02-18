@@ -11,6 +11,7 @@ category: Impressionism
 subject: Landscape
 size: 14.1x10.2in (36x26cm)
 tags: [figure, snow, fence, field, tracks, painting, watercolor, impressionism, landscape]
+featured: true
 ---
 
 **Escape** is a painting that depicts a tranquil [winter scene](https://culturetourist.com/cultural-tourism/winter-in-art-20-most-beautiful-winter-themed-paintings/). A solitary figure is shown walking away from the viewer, journeying along a curved path that has been carved through the snow from what may have been a vehical. The figure is clad entirely in black, providing a stark contrast to the overwhelmingly white and gray/blue tones of the snowy landscape. To the right of the path, a line of fence posts gradually disappears into the distance, accentuating the depth of the scene and leading the eye towards a hazy background that suggests a forest or treeline shrouded in the mist of a cold winter day.

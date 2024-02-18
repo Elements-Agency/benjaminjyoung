@@ -11,6 +11,7 @@ category: Impressionism
 subject: Landscape
 size: 9x12in (22.8x30.4cm)
 tags: [tree, forrest, night, twilight, painting, watercolor, gouache, impressionism, landscape]
+featured: true
 ---
 
 **Fry's Tree** portrays a solitary, robust tree standing prominently in the center against a twilight or pre-dawn sky. Creating a [silhouette tree](https://www.themarginalian.org/2019/08/06/trees-at-night-art-young/) standing as the subject. The tree's branches are dense and leafy, suggesting a full summer or pre-fall foliage. The detailed rendering of the leaves and branches creates a lace-like pattern against the sky, which shifts from a dark blue at the top to lighter hues near the horizon, indicating dusk or the approach of nightfall.
