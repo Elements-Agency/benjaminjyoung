@@ -2,7 +2,7 @@
     {{ partial "inside-style.html" . }}
 
     {{ $bg := .Resources.GetMatch "painting.jpg" }}
-    {{ $bg := $bg.Fit "1600x920 webp q50" }}
+    {{ $bg := $bg.Fit "1600x1600 webp q50" }}
 
     <style>
       #wrapper > .bg {
@@ -55,7 +55,7 @@
               {{ $full := $full.Fit "920x680 webp q85" }}
 
               <a href="{{ $full.RelPermalink }}" data-position="center">
-              <img src="{{ $full.RelPermalink }}" width="1600" height="800" style="width:90%; height:auto;" alt="{{ .Params.alt }}" title='{{ .Title }} ({{ .Date| time.Format "2006" }}) by {{ .Site.Copyright }}' />
+                <img src="{{ $full.RelPermalink }}" width="1600" height="800" style="width:90%; height:auto;" alt="{{ .Params.alt }}" title='{{ .Title }} ({{ .Date| time.Format "2006" }}) by {{ .Site.Copyright }}' />
               </a>
             </section>
 
