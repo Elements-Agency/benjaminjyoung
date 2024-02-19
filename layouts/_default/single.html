@@ -46,7 +46,7 @@
               {{ $full := $full.Fit "1200x1200 webp q90" }}
 
               <a href="{{ $full.RelPermalink }}" data-position="center" style="display:block; border:#000 4px outset; box-shadow:0 0 30px rgba(0, 0, 0, 0.8); padding:0; background:#000; position:relative; z-index:2;">
-                <div style="border:#111 40px solid; box-shadow:inset 0 0 30px rgba(0, 0, 0, 1);">
+                <div class="framed" style="border:#111 40px solid; box-shadow:inset 0 0 30px rgba(0, 0, 0, 1);">
                   <img src="{{ $full.RelPermalink }}" width="1200" height="1200" style="display:block; width:100%; height:auto; border:#000 4px inset; position:relative; z-index:-1;" alt="{{ .Params.alt }}" title='{{ .Title }} ({{ .Date| time.Format "2006" }}) by {{ .Site.Copyright }}'>
                 </div>
               </a>
@@ -54,8 +54,22 @@
               <br>
 
               <div style="text-align:center; line-height:1.2em; position:relative; font-family:Arial;">
-                <span style="display:inline-block; text-align:left; color:#444; border:2px #a5a5a5 outset; background:#eee; box-shadow:0 0 7px rgba(0,0,0,0.4); padding:3em; text-shadow:0 0 7px f0c99c;">
-                  <span style="font-size:1.5em;">{{ .Params.author | default .Site.Params.author }}</span><br>
+                <div style="float:right; text-align:right;">
+                  {{ if .Params.purchase }}
+                    <br>
+                    <a href="{{ .Params.purchase }}" class="button pricetag" style="margin:1em 0.5em;">
+                     Purchase Original
+                    </a>
+                    <br>
+                  {{ end }}
+                  {{ if .Params.prints }}
+                    <a href="{{ .Params.prints }}" class="button pricetag" style="margin:1em 0.5em;">
+                      Order Prints
+                    </a>
+                  {{ end }}
+                </div>
+                <span class="infotag" style="display:inline-block; text-align:left; color:#444; border:2px #a5a5a5 outset; background:#eee; box-shadow:0 0 7px rgba(0,0,0,0.4); padding:3em; text-shadow:0 0 7px f0c99c;">
+                  <span class="info-title" style="font-size:1.5em;">{{ .Params.author | default .Site.Params.author }}</span><br>
                   American, 1990 - Current<br>
                   <br>
                   <strong>{{ .Title }}</strong>
@@ -69,6 +83,32 @@
 
             <article>
               <h2>About the {{ .Title }} Painting</h2>
+              <div class="specifications" style="float:right; border:1px solid #ccc; padding:2em; margin:0.5em 0 2em 3em;">
+                <h3>Specifications</h3>
+                <ul>
+                  <li>
+                    <strong>Title:</strong> {{ .Title }}
+                  </li>
+                  <li>
+                    <strong>Artist:</strong> {{ .Params.author | default .Site.Params.author }}
+                  </li>
+                  <li>
+                    <strong>Category:</strong> {{ .Params.category }}
+                  </li>
+                  <li>
+                    <strong>Size:</strong> {{ .Params.size }}
+                  </li>
+                  <li>
+                    <strong>Medium:</strong> {{ .Params.medium }}
+                  </li>
+                  <li>
+                    <strong>Material:</strong> {{ .Params.material }}
+                  </li>
+                  <li>
+                    <strong>Completed:</strong> {{ .Date | time.Format "January 2, 2006" }}
+                  </li>
+                </ul>
+              </div>
               <p>
                 {{/* Hugo uses Go's date formatting is set by example. Here are two formats */}}
                 {{ if not .Date.IsZero }}
