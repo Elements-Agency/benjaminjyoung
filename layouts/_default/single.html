@@ -37,26 +37,29 @@
                 </time>
                 {{end}}
                 <h1>{{- .Title -}}</h1>
-                {{ with .Params.author | default .Site.Params.author }}
-                <p class="tracked">
-                  {{ $.Render "by" }} <strong>
-                  {{- if reflect.IsSlice . -}}
-                      {{ delimit . ", " | markdownify }}
-                  {{- else -}}
-                      {{ . | markdownify }}
-                  {{- end -}}
-                  </strong>
-                </p>
-                {{ end }}
             </header>
 
-            <section>
+            <section style="text-align:center;">
               {{ $full := .Resources.GetMatch "painting.jpg" }}
-              {{ $full := $full.Fit "920x680 webp q85" }}
+              {{ $full := $full.Fit "1200x1200 webp q90" }}
 
-              <a href="{{ $full.RelPermalink }}" data-position="center">
-                <img src="{{ $full.RelPermalink }}" width="1600" height="800" style="width:90%; height:auto;" alt="{{ .Params.alt }}" title='{{ .Title }} ({{ .Date| time.Format "2006" }}) by {{ .Site.Copyright }}' />
+              <a href="{{ $full.RelPermalink }}" data-position="center" style="display:block; border:#000 4px outset; box-shadow:0 0 30px rgba(0, 0, 0, 0.8); padding:0; background:#000; position:relative; z-index:2;">
+                <div style="border:#111 40px solid; box-shadow:inset 0 0 30px rgba(0, 0, 0, 1);">
+                  <img src="{{ $full.RelPermalink }}" width="1200" height="1200" style="display:block; width:100%; height:auto; border:#000 4px inset; position:relative; z-index:-1;" alt="{{ .Params.alt }}" title='{{ .Title }} ({{ .Date| time.Format "2006" }}) by {{ .Site.Copyright }}'>
+                </div>
               </a>
+
+              <br>
+
+              <div style="text-align:center; line-height:1.2em; position:relative; font-family:Arial;">
+                <span style="display:inline-block; text-align:left; color:#444; border:2px #a5a5a5 outset; background:#eee; box-shadow:0 0 7px rgba(0,0,0,0.4); padding:3em; text-shadow:0 0 7px f0c99c;">
+                  <span style="font-size:1.5em;">{{ .Params.author | default .Site.Params.author }}</span><br>
+                  American, 1990 - Current<br>
+                  <br>
+                  <strong>{{ .Title }}</strong> {{ .Date | time.Format (default "2006" .Site.Params.date_format) }}<br>
+                  {{ .Params.medium }} on {{ .Params.material }}<br>
+                </span>
+              </div>
             </section>
 
             <article>
