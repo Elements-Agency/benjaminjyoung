@@ -1,7 +1,23 @@
-{{ define "header" }}
-  {{ partial "page-header.html" . }}
-{{ end }}
 {{ define "main" }}
+<div id="wrapper">
+  {{ block "header" . }}{{ partial "inside-header.html" .}}{{ end }}
+
+  {{ block "nav" . }}{{ partial "inside-navigation.html" .}}{{ end }}
+
+  <div id="main">
+      <section class="post">
+          <header class="major">
+            <h1>
+              Artwork Not Found
+            </h1>
+          </header>
+
+          <p>The website page or artwork you are looking for is not here. Prehaps go back to the gallery lobby, ask for directions from reception, and try again.</p>
+      </section>
+  </div>
+
+  {{ block "footer" . }}{{ partialCached "inside-footer.html" . }}{{ end }}
+</div>
     <article class="center cf pv5 measure-wide-l">
       <h1>
         Artwork not found.
