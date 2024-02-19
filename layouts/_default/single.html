@@ -46,7 +46,7 @@
               {{ $full := $full.Fit "1200x1200 webp q90" }}
 
               <a href="{{ $full.RelPermalink }}" data-position="center" style="display:block; border:#000 4px outset; box-shadow:0 0 30px rgba(0, 0, 0, 0.8); padding:0; background:#000; position:relative; z-index:2;">
-                <div class="framed" style="border:#111 40px solid; box-shadow:inset 0 0 30px rgba(0, 0, 0, 1);">
+                <div class="framed" style="border:#111 3vw solid; box-shadow:inset 0 0 30px rgba(0, 0, 0, 1);">
                   <img src="{{ $full.RelPermalink }}" width="1200" height="1200" style="display:block; width:100%; height:auto; border:#000 4px inset; position:relative; z-index:-1;" alt="{{ .Params.alt }}" title='{{ .Title }} ({{ .Date| time.Format "2006" }}) by {{ .Site.Copyright }}'>
                 </div>
               </a>
@@ -83,6 +83,16 @@
 
             <article>
               <h2>About the {{ .Title }} Painting</h2>
+
+              <p>
+                {{/* Hugo uses Go's date formatting is set by example. Here are two formats */}}
+                {{ if not .Date.IsZero }}
+                  <time class="date" {{ printf `datetime="%s"` (.Date.Format "2006-01-02T15:04:05Z07:00") | safeHTMLAttr }}>
+                    <em>{{- .Date | time.Format (default "January 2, 2006" .Site.Params.date_format) -}}</em>
+                  </time>
+                {{end}}
+              </p>
+
               <div class="specifications" style="float:right; border:1px solid #ccc; padding:2em; margin:0.5em 0 2em 3em;">
                 <h3>Specifications</h3>
                 <ul>
@@ -109,14 +119,7 @@
                   </li>
                 </ul>
               </div>
-              <p>
-                {{/* Hugo uses Go's date formatting is set by example. Here are two formats */}}
-                {{ if not .Date.IsZero }}
-                  <time class="date" {{ printf `datetime="%s"` (.Date.Format "2006-01-02T15:04:05Z07:00") | safeHTMLAttr }}>
-                    {{- .Date | time.Format (default "January 2, 2006" .Site.Params.date_format) -}}
-                  </time>
-                {{end}}
-              </p>
+
               {{- .Content -}}
 
               <strong>Tags:</strong>
