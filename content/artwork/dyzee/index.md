@@ -10,7 +10,7 @@ material: Cold Press Pulp Paper
 category: Abstract
 subject: Floral
 size: 9x12in (22.8x30.4cm)
-tags: [daisy, flower, watercolor, abstract, floral]
+tags: [daisy, flower, watercolor, semiabstract, floral]
 featured: true
 ---
 

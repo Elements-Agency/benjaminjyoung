@@ -10,7 +10,7 @@ material: Cold Press Pulp Paper
 category: Impressionism
 subject: Still Life
 size: 
-tags: [watermelon, slice, melon, juicy, food, watercolor, impressionism, still life]
+tags: [watermelon, slice, melon, juicy, food, watercolor, hybrid impressionism, still life]
 featured: true
 ---
 

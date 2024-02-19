@@ -15,20 +15,58 @@
     <div id="main">
         <section class="post">
             <header class="major">
-                <span class="date">({{ .Date| time.Format "April 25, 2006" }})</span>
                 <h1>{{ .Title }}</h1>
                 <p>{{ .Description }}</p>
             </header>
 
+            <h2>Styles</h2>
+            <ul>
+              <li>
+                <a href="/tags/impressionism" class="tag" title="Impressionism painting is broad/loose strokes. The focus more on relative color and lighting to create shapes and values.">
+                  Impressionism
+                  <i class="icon brands fa-question-circle">
+                    <span class="label">What is impressionism?</span>
+                  </i>
+                </a>
+              </li>
+              <li>
+                <a href="/tags/hybrid-impressionism" class="tag" title="Hybrid Impressionism painting is a mix between impressionism and realism, where realism is used strictly more on the focal points and impressionism everywhere else.">
+                  Hybrid Impressionism
+                  <i class="icon brands fa-question-circle">
+                    <span class="label">What is hybrid impressionism?</span>
+                  </i>
+                </a>
+              </li>
+              <li>
+                <a href="/tags/realism" class="tag" title="Realism is to paint to make the painting seems as real as possible.">
+                  Realism
+                  <i class="icon brands fa-question-circle">
+                    <span class="label">What is Realism?</span>
+                  </i>
+                </a>
+              </li>
+              <li>
+                <a href="/tags/semiabstract" class="tag" title="Semi-abstration is abstraction that still has a subect to captivate.">
+                  Semi-abstraction
+                  <i class="icon brands fa-question-circle">
+                    <span class="label">What is Semiabstract?</span>
+                  </i>
+                </a>
+              </li>
+            </ul>
+
             <article>
               {{- .Content -}}
             </article>
+
+            <hr>
 
             <section class="flex-ns flex-wrap justify-around mt5">
               {{ range .Paginator.Pages }}
                 <div class="relative w-100 w-30-l mb4 bg-white">
                   {{ .Render "summary" }}
                 </div>
+                <hr>
               {{ end }}
             </section>
             {{- template "_internal/pagination.html" . -}}

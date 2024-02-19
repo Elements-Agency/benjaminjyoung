@@ -26,16 +26,18 @@
 
     <div id="main">
         <section class="post">
-            <aside class="instapaper_ignoref b helvetica tracked ttu">
-              {{ .CurrentSection.Title }}
-            </aside>
+          {{/* Breadcrumbs */}}
+          {{ if .IsPage }}
+            <nav class="f7">
+              <a href="{{ .Site.BaseURL }}" class="link blue hover-black">Home</a>
+              <span class="mh1">/</span>
+              <a href="{{ .CurrentSection.RelPermalink }}" class="link blue hover-black">{{ .CurrentSection.Title }}</a>
+              <span class="mh1">/</span>
+              <a href="{{ .RelPermalink }}" class="link blue hover-black">{{ .Title }}</a>
+            </nav>
+          {{ end }}
+            <br>
             <header class="major">
-                {{/* Hugo uses Go's date formatting is set by example. Here are two formats */}}
-                {{ if not .Date.IsZero }}
-                <time class="date" {{ printf `datetime="%s"` (.Date.Format "2006-01-02T15:04:05Z07:00") | safeHTMLAttr }}>
-                  {{- .Date | time.Format (default "January 2, 2006" .Site.Params.date_format) -}}
-                </time>
-                {{end}}
                 <h1>{{- .Title -}}</h1>
             </header>
 
@@ -56,16 +58,28 @@
                   <span style="font-size:1.5em;">{{ .Params.author | default .Site.Params.author }}</span><br>
                   American, 1990 - Current<br>
                   <br>
-                  <strong>{{ .Title }}</strong> {{ .Date | time.Format (default "2006" .Site.Params.date_format) }}<br>
+                  <strong>{{ .Title }}</strong>
+                  {{ .Date | time.Format (default "2006" .Site.Params.date_format) }}<br>
                   {{ .Params.medium }} on {{ .Params.material }}<br>
                 </span>
               </div>
             </section>
 
-            <br>
+            <br><br>
 
             <article>
+              <h2>About the {{ .Title }} Painting</h2>
+              <p>
+                {{/* Hugo uses Go's date formatting is set by example. Here are two formats */}}
+                {{ if not .Date.IsZero }}
+                  <time class="date" {{ printf `datetime="%s"` (.Date.Format "2006-01-02T15:04:05Z07:00") | safeHTMLAttr }}>
+                    {{- .Date | time.Format (default "January 2, 2006" .Site.Params.date_format) -}}
+                  </time>
+                {{end}}
+              </p>
               {{- .Content -}}
+
+              <strong>Tags:</strong>
               {{- partial "tags.html" . -}}
             </article>
 

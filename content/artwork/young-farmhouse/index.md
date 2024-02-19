@@ -10,7 +10,7 @@ material: Cold Press Pulp Paper
 category: Impressionism
 subject: Landscape
 size: 12x9in (30.4x22.8cm)
-tags: [farm, house, brick, home, swing, walnut, swing, countryside, tree, architecture, watercolor, impressionism, landscape]
+tags: [farm, house, brick, home, swing, walnut, swing, countryside, tree, architecture, watercolor, hybrid impressionism, landscape]
 featured: true
 ---
 
