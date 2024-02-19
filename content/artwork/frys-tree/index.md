@@ -10,7 +10,7 @@ material: Cold Press Pulp Paper
 category: Impressionism
 subject: Landscape
 size: 9x12in (22.8x30.4cm)
-tags: [tree, forrest, night, twilight, painting, watercolor, gouache, impressionism, landscape]
+tags: [tree, forrest, night, twilight, watercolor, gouache, impressionism, landscape]
 featured: true
 ---
 

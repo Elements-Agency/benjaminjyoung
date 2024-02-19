@@ -10,7 +10,7 @@ material: Construction Paper
 category: Impressionism
 subject: Still Life
 size: 
-tags: [wine, bottle, jug, pitcher, tablecloth, table, backdrop, painting, oil pastel, impressionism, still life]
+tags: [wine, bottle, jug, pitcher, tablecloth, table, backdrop, oil pastel, impressionism, still life]
 featured: true
 ---
 

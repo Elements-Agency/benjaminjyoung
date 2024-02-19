@@ -10,7 +10,7 @@ material: Cold Press Cotton Paper
 category: Realism
 subject: Still Life
 size: 14.1x10.2in (36x26cm)
-tags: [lemon, lime, citrus, cup, mug, painting, gouache, watercolor, realism, still life]
+tags: [lemon, lime, citrus, cup, mug, gouache, watercolor, realism, still life]
 featured: true
 ---
 

@@ -10,7 +10,7 @@ material: Cold Press Pulp Paper
 category: Impressionism
 subject: Figure
 size: 9x12in (22.8x30.4cm)
-tags: [person, body, woman, girl, lady, reclining, painting, oil pastel, impressionism, figure]
+tags: [person, body, woman, girl, lady, reclining, oil pastel, impressionism, figure]
 featured: true
 ---
 

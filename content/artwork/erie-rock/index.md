@@ -10,7 +10,7 @@ material: Cold Press Cotton Paper
 category: Realism
 subject: Landscape
 size: 10.2inx14.1 (26x36cm)
-tags: []
+tags: [rock, lake, beach, water, landscape, watercolor, realism]
 featured: true
 ---
 
