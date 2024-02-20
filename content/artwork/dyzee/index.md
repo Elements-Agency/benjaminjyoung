@@ -7,7 +7,7 @@ alt: This is an abstract watercolor painting by Ben Young featuring dynamic blue
 type: Painting
 medium: Watercolor
 material: Cold Press Pulp Paper
-category: Abstract
+category: Semiabstract
 subject: Floral
 size: 9x12in (22.8x30.4cm)
 tags: [daisy, flower, watercolor, semiabstract, floral]

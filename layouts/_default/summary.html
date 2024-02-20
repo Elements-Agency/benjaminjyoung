@@ -2,7 +2,7 @@
   <div class="bg-white mb3 pa4 gray overflow-hidden">
     {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
     {{ $thumbnail := $thumbnail.Fill "250x250 Center" }}
-    {{ $thumbnail := $thumbnail.Resize "250x webp q60" }}
+    {{ $thumbnail := $thumbnail.Resize "250x webp q85" }}
 
     <a class="thumbnail" href="{{ .RelPermalink }}" data-position="center">
       <img src="{{ $thumbnail.RelPermalink }}" width="300px" height="300px" style="float:right; margin:3.5em 4em 2em;" alt="{{ .Params.alt }}" title='{{ .Title }} ({{ .Date| time.Format "2006" }}) by {{ .Site.Copyright }}' />
