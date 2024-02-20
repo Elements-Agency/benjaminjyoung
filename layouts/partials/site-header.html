@@ -1,5 +1,13 @@
+{{ $logo := resources.GetMatch "images/logo.png" }}
+{{ $logo := $logo.Fill "300x150 Center" }}
+{{ $logo := $logo.Resize "300x webp q85" }}
+
 <header id="header">
-  <h1><a href="/about">{{ .Params.heading | default .Site.Title }}</a></h1>
+  <h1>
+    <a href="/" class="logo">
+      <img src="{{ $logo.RelPermalink }}" width="300px" height="150px" title="Contemporary Artist {{ .Params.heading | default .Site.Title }}" alt="Paintings by Artist {{ .Params.heading | default .Site.Title }}">
+    </a>
+  </h1>
   
   {{ with .Params.description }}
     <p>{{ . }}</p>
