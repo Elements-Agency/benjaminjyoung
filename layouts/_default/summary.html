@@ -8,11 +8,11 @@
       <img src="{{ $thumbnail.RelPermalink }}" width="300px" height="300px" style="float:right; margin:3.5em 4em 2em;" alt="{{ .Params.alt }}" title='{{ .Title }} ({{ .Date| time.Format "2006" }}) by {{ .Site.Copyright }}' />
     </a>
 
-    <h1 class="f3 near-black" style="font-size:3em; margin-bottom:0.2em;">
+    <h2 class="f3 near-black" style="font-size:3em; margin-bottom:0.2em;">
       <a href="{{ .RelPermalink }}" class="link black dim">
         {{ .Title }}
       </a>
-    </h1>
+    </h2>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
       <p>
         <em>{{ .Date | time.Format "January 2, 2006" }}</em>
