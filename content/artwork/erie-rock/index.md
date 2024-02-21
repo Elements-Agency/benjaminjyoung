@@ -1,6 +1,6 @@
 ---
 title: Erie Rock
-description: This is a rare sight, a monolith rock that rarely comes in to sight on Lake Erie's shores near Cleveland, Ohio.
+description: Erie Rock is watercolor realism painting of a rare sight, a monolith rock that rarely comes in to sight on Lake Erie's shores near Cleveland, Ohio. A stone that stands guard to give a sense of contemplation and enuring beauty under it's overcast sky.
 author: Benjamin J. Young
 date: 2024-02-18
 alt: This watercolor painting by Ben Young is an ethereal and solitary stone monolith, crowned with verdant trees, rises from the misty waters of a tranquil lake, embodying a quiet testament to nature's enduring strength and mystery.
