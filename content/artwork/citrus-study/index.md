@@ -12,6 +12,7 @@ subject: Still Life
 size: 14.1x10.2in (36x26cm)
 tags: [lemon, lime, citrus, cup, mug, gouache, watercolor, realism, still life]
 featured: true
+prints: https://artistbenyoung.etsy.com/listing/1668772724/citrus-study-still-life
 ---
 
 The **Citrus Study** painting features a [still life composition](https://mymodernmet.com/what-is-still-life-painting-definition/) with three objects that appear on a table. On the left is a green lime, partially blending from green to a yellowish hue, indicating ripeness or a variation in color typical of certain lime varieties. In the middle, there's a red mug or cup with a visible handle on the right, suggesting it's meant for a right-handed person to pick up easily. The mug's rim is white, indicating the inside color and the reflection of light. On the right, there's a lemon with a bright yellow color, indicative of its ripeness and tartness. The background and surface are in muted dark tones, with the surface reflecting a bit of light, giving a sense of a shadowed room. The painting style is textured, with visible brushstrokes marks, which give it a tactile quality. The color palette is quite naturalistic, with a strong contrast between the brightly colored objects and the dark background, drawing attention to the subjects of the still life.
