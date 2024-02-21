@@ -26,6 +26,3 @@ The sky above is a pale blue, suggesting an overcast day, with the light not qui
 The painting has a feeling of tranquility and nostalgia, evoking memories of childhood summers or quiet life in the countryside. The overall style combines elements of [realism with a touch of impressionism](https://study.com/academy/lesson/realism-impressionism-overview-differences-examples.html), seen in the way the grass and foliage are rendered with loose brushwork.
 
 The subject and inspiration is that of my family's 1875 brick farmhouse.
-
-[Read About the Inspiration >>](./inspiration/)
-[See the Process >>](./process/)

@@ -24,6 +24,3 @@ There is a sense of depth and dimension, despite the darkness that envelops the 
 The overall effect is one of profound reflection, with the textured brushwork and dramatic chiaroscuro suggesting a moment captured in time, where the inner world of the subject is as significant as the outer representation. It’s a powerful image that invites the viewer to consider the subject’s thoughts and feelings.
 
 The inspiration came to me from seeing my reflection in the darkened and smugged glossy screen from Apple Macbook Pro.
-
-[Read About the Inspiration >>](./inspiration/)
-[See the Process >>](./process/)
