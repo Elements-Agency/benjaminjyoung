@@ -10,7 +10,7 @@ material: Cold Press Pulp Paper
 category: Realism
 subject: Animal
 size: 9x12in (22.8x30.4cm)
-tags: [bird, northern, red, cardinal, drawing, watercolor, pencil, realism, animal]
+tags: [bird, northern red cardinal, drawing, watercolor pencils, realism, animal art]
 featured: true
 ---
 

@@ -10,7 +10,7 @@ material: Cold Press Cotton Paper
 category: Impressionism
 subject: Landscape
 size: 14.1x10.2in (36x26cm)
-tags: [figure, snow, fence, field, tracks, watercolor, hybrid impressionism, landscape]
+tags: [human figure, snowy landscape, fence, open field, tire tracks, watercolor paint, hybrid impressionism, landscape art, cool tone, restrained pallette]
 featured: true
 ---
 

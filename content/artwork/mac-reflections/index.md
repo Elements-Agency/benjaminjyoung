@@ -10,7 +10,7 @@ material: Construction Paper
 category: Impressionism
 subject: Self Portrait
 size: 9x12in (22.9x30.5cm)
-tags: [man, face, beard, self, portrait, oil pastel, impressionism, self portrait]
+tags: [facial hair, beard, self portrait art, oil pastels, impressionism, dark tone, impressionist artist]
 featured: true
 prints: https://artistbenyoung.etsy.com/listing/1680323041/mac-reflections-self-portrait
 ---

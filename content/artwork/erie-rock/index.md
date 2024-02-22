@@ -10,7 +10,7 @@ material: Cold Press Cotton Paper
 category: Realism
 subject: Landscape
 size: 10.2inx14.1 (26x36cm)
-tags: [rock, lake, erie, great lakes, beach, water, landscape, watercolor, realism]
+tags: [rocks, lake erie, cleveland ohio, great lakes, beach, water waves, landscape art, watercolor paint, realism, overcast day, coastal landscape]
 featured: true
 prints: https://artistbenyoung.etsy.com/listing/1682533283/lake-erie-rock-cleveland-ohio-landscape
 ---

@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, minimum-scale=1">
     <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}{{if eq .Type "tags"}}Artwork on {{ .Site.Title }} that is categorized and tagged with the term of '{{.Title}}'{{end}}">
-    <meta name="keywords" content="{{ with .Params.keywords }}{{ delimit (apply . "printf" "%s" ".") ", " }}{{ end }}{{ with .Params.tags }}{{ delimit (apply . "printf" "%s" ".") ", " }}{{ end }}{{if eq .Type "tags"}}art, artwork, paintings, category, {{.Title}}{{end}}">
+    <meta name="keywords" content="{{ with .Params.keywords }}{{ delimit (apply . "printf" "%s" ".") ", " }}{{ end }}{{ with .Params.tags }}{{ delimit (apply . "printf" "%s" ".") ", " }}{{ end }}{{if eq .Type "tags"}}art, artwork, paintings, category, tags, {{.Title}}{{end}}">
     <meta name="author" content="{{ with .Params.author | default .Site.Author.name }}{{ . }}{{ end }}">
     {{ hugo.Generator }}
     

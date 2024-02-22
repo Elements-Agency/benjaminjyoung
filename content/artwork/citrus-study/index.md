@@ -10,7 +10,7 @@ material: Cold Press Cotton Paper
 category: Realism
 subject: Still Life
 size: 14.1x10.2in (36x26cm)
-tags: [lemon, lime, citrus, cup, mug, gouache, watercolor, realism, still life]
+tags: [yellow lemon, green lime, citrus fruit, coffee cup, ceramnic mug, gouache paint, watercolor paint, realism, still life art, vivid colors]
 featured: true
 prints: https://artistbenyoung.etsy.com/listing/1668772724/citrus-study-still-life
 ---

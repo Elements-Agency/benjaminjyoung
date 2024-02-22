@@ -10,7 +10,7 @@ material: Cold Press Pulp Paper
 category: Impressionism
 subject: Still Life
 size: 
-tags: [watermelon, slice, melon, juicy, food, watercolor, hybrid impressionism, still life]
+tags: [watermelon slice, juicy melon, food, summer colors, colorful spalshes, black seeds, watercolor paint, hybrid impressionism, still life art]
 featured: true
 prints: https://artistbenyoung.etsy.com/listing/1683213879/summer-watermelon-slice-canvas-painting
 ---

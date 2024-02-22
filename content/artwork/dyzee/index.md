@@ -10,7 +10,7 @@ material: Cold Press Pulp Paper
 category: Semiabstract
 subject: Floral
 size: 9x12in (22.8x30.4cm)
-tags: [daisy, flower, watercolor, semiabstract, floral]
+tags: [daisy flower, flower art, watercolor paint, semiabstract, floral abstract, splash accents, broad stokes, neutral tone]
 featured: false
 ---
 
