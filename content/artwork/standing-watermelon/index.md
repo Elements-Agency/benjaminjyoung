@@ -1,6 +1,6 @@
 ---
 title: Standing Watermelon
-description: Standing Watermelon was a simple study done, to test out my newly purchased watercolor pencil set, while also incorprating brustrokes of water and mixing to the piece.
+description: SStanding Watermelon is a simple study, testing my newly purchased watercolor pencil set, while also incorporating brushstrokes of water.
 author: Benjamin J. Young
 date: 2023-12-27
 alt: This watercolor artwork by Ben Young is a simple yet detailed depiction of a single slice of watermelon with a bright red flesh, black seeds, and a green rind, set against a plain background.

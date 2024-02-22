@@ -14,6 +14,10 @@
 
     <div id="main">
         <section class="post">
+          <header class="major">
+            <h1>{{ .Title }} Artwork</h1>
+            <p>{{ .Description }}</p>
+          </header>
           <article class="cf pa3 pa4-m pa4-l">
             <div class="measure-wide-l center f4 lh-copy nested-copy-line-height nested-links {{ $.Param "text_color" | default "mid-gray" }}">
               <p>{{ i18n "taxonomyPageList" . }}</p>

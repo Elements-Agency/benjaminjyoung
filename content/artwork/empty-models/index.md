@@ -1,6 +1,6 @@
 ---
 title: Empty Models
-description: Empty Models is my first attempt back at art, after an 18 year hiatius since childhood. It's a still life study after discovering some old oil pastels stored away in storage.
+description: Empty Models is a first peice back in art, after a 18 year hiatus since childhood. A still life study after discovering old oil pastels stored away in storage.
 author: Benjamin J. Young
 date: 2023-12-15
 alt: The oil pastel painting by Ben Young shows a textured still life composition of two green bottles, a green jug, and a brown bowl on a hung white fabric surface against a dark wooden background.
