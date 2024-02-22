@@ -2,21 +2,25 @@
     {{/* list of child pages */}}
     {{ $currentPage := . }}
     <ul class="links">
-        <li><a href="./">{{ .Title }}</a></li>
-
-        {{ range .Site.RegularPages }}
-            {{ if eq .Section "inside" }}
-                <li>
-                    <a href="{{ .RelPermalink }}"{{ if eq . $currentPage }} class="active"{{ end }}>{{ .Title }}</a>
-                </li>
-            {{ end }}
+        {{ range .Site.Menus.main }}
+            <li class="{{if strings.Contains $currentPage.RelPermalink .URL }}{{if ne .Name "Home"}}active{{end}}{{ end }}">
+                <a href="{{ .URL }}" title="{{ i18n "pageTitle" . }}">
+                    {{ .Name }}
+                </a>
+            </li>
         {{ end }}
     </ul>
     
     <ul class="icons">
-        <li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
-        <li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
-        <li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
-        <li><a href="#" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+        <li>
+            <a href="http://artistbenyoung.etsy.com/" class="icon brands after fa-etsy" title="Etsy" target="_blank">
+                Buy Prints <span class="label"> on Etsy</span>
+            </a>
+        </li>
+        <li>
+            <a href="#" class="icon brands after fa-patreon" title="Patreon" target="_blank">
+                <span class="label">Patreon</span> Support
+            </a>
+        </li>
     </ul>
 </nav>
