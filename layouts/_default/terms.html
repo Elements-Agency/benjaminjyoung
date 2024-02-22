@@ -12,26 +12,33 @@
 
     {{ block "nav" . }}{{ partial "inside-navigation.html" .}}{{ end }}
 
+
     <div id="main">
         <section class="post">
           {{ $data := .Data }}
           <article class="cf pa3 pa4-m pa4-l">
             <div class="measure-wide-l center f4 lh-copy nested-copy-line-height nested-links {{ $.Param "text_color" | default "mid-gray" }}">
-              {{ .Content }}
+              <h1>{{ .Title }}</h1>
+              <p>{{ .Content }}</p>
+              <p>Here is a list of all repeated tags, sorted by most used:</p>
             </div>
           </article>
           <div class="mw8 center">
             <section class="ph4">
-              {{ range $term := .Data.Pages }}
-                <h2 class="f1">
-                  <a href="{{ $term.RelPermalink }}" class="link blue hover-black">
-                    {{ $.Data.Singular | humanize }}: {{ $term.LinkTitle }}
-                  </a>
-                </h2>
-                {{ range $term.Pages }}
-                  {{ .Render "summary" }}
+              <ul>
+                {{ range $taxo := site.Taxonomies }}
+                  {{ $terms := $taxo.ByCount }}
+                  {{ $terms := where $terms "Count" "!=" 1}}
+                  {{ range $terms }}
+                    <li>
+                      <a href="/tags/{{.Term }}">
+                        {{.Term }}
+                      </a>
+                      : {{ .Count }} Posts
+                    </li>
+                  {{ end }}
                 {{ end }}
-              {{ end }}
+              </ul>
             </section>
           </div>
         </section>
