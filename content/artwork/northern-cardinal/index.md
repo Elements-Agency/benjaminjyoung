@@ -12,6 +12,7 @@ subject: Animal
 size: 9x12in (22.8x30.4cm)
 tags: [bird, northern red cardinal, drawing, watercolor pencils, realism, animal art]
 featured: true
+prints: https://artistbenyoung.etsy.com/listing/1669896136/northern-red-cardinal-bird-drawing-with
 ---
 
 Nortern Cardinal is a colored pencil drawing of a [Northern Cardinal](https://www.allaboutbirds.org/guide/Northern_Cardinal/overview) perched on a branch. The bird is depicted with a vibrant red plumage, which is characteristic of the male of the species. Its beak is orange-yellow, and the facial mask is black, extending from the beak around the eyes. The drawing captures the distinct crest of the cardinal, which is a pointy tuft of feathers on top of its head. The branch is rendered with a muted gray tone, contrasting with the bright red of the bird. The background is a soft, textured gray, allowing the cardinal to stand out prominently. The pencil strokes have created a sense of softness and detail, particularly in the feathers and the blending of colors.
