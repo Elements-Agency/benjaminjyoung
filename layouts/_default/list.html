@@ -20,33 +20,33 @@
             </header>
 
             <h2>Painting Styles</h2>
-            <ul>
-              <li>
-                <a href="/tags/impressionism" class="tag" title="Impressionism painting is broad/loose strokes. The focus more on relative color and lighting to create shapes and values.">
+            <ul style="list-style: none;">
+              <li style="display: inline-block;">
+                <a href="/tags/impressionism" class="button tag" title="Impressionism painting is broad/loose strokes. The focus more on relative color and lighting to create shapes and values.">
                   Impressionism
                   <i class="icon brands fa-question-circle">
                     <span class="label">What is impressionism?</span>
                   </i>
                 </a>
               </li>
-              <li>
-                <a href="/tags/hybrid-impressionism" class="tag" title="Hybrid Impressionism painting is a mix between impressionism and realism, where realism is used strictly more on the focal points and impressionism everywhere else.">
+              <li style="display: inline-block;">
+                <a href="/tags/hybrid-impressionism" class="button tag" title="Hybrid Impressionism painting is a mix between impressionism and realism, where realism is used strictly more on the focal points and impressionism everywhere else.">
                   Hybrid Impressionism
                   <i class="icon brands fa-question-circle">
                     <span class="label">What is hybrid impressionism?</span>
                   </i>
                 </a>
               </li>
-              <li>
-                <a href="/tags/realism" class="tag" title="Realism is to paint to make the painting seems as real as possible.">
+              <li style="display: inline-block;">
+                <a href="/tags/realism" class="button tag" title="Realism is to paint to make the painting seems as real as possible.">
                   Realism
                   <i class="icon brands fa-question-circle">
                     <span class="label">What is Realism?</span>
                   </i>
                 </a>
               </li>
-              <li>
-                <a href="/tags/semiabstract" class="tag" title="Semi-abstration is abstraction that still has a subect to captivate.">
+              <li style="display: inline-block;">
+                <a href="/tags/semiabstract" class="button tag" title="Semi-abstration is abstraction that still has a subect to captivate.">
                   Semi-abstraction
                   <i class="icon brands fa-question-circle">
                     <span class="label">What is Semiabstract?</span>
@@ -61,7 +61,7 @@
 
             <hr>
 
-            <section class="flex-ns flex-wrap justify-around mt5">
+            <section>
               {{ range .Paginator.Pages }}
                 <div class="relative w-100 w-30-l mb4 bg-white">
                   {{ .Render "summary" }}
@@ -69,7 +69,9 @@
                 <hr>
               {{ end }}
             </section>
-            {{- template "_internal/pagination.html" . -}}
+            <section style="text-align: center;">
+              {{- template "_internal/pagination.html" . -}}
+            </section>
         </section>
     </div>
 

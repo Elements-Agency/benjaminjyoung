@@ -18,13 +18,17 @@
 {{ $related := .Site.RegularPages.Related . | first 15 }}
 
 {{ with $related }}
-  <div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">
-    <h4>Related Artwork</h4>
-    <ul>
+  <div style="text-align:center;">
+    <h4 style="text-align: left;">Related Artwork</h4>
+    <ul style="list-style:none; display:inline-block; text-align:center;">
 	   {{ range . }}
-	     <li  class="mb2">
-          <a href="{{ .RelPermalink }}">
-            {{- .Title -}}
+	     <li style="list-style:none; display:inline-block; text-align:center;">
+          <a class="thumbnail" href="{{ .RelPermalink }}">
+            {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
+            {{ $thumbnail := $thumbnail.Fill "120x120 Center" }}
+            {{ $thumbnail := $thumbnail.Resize "120x webp q85" }}
+
+            <img src="{{ $thumbnail.RelPermalink }}" width="120px" height="120px" alt="{{- .Title -}}" title='{{ .Title }}' />
           </a>
         </li>
 	    {{ end }}
