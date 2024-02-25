@@ -1,16 +1,5 @@
 {{ define "styles" }}
     {{ partial "inside-style.html" . }}
-
-    {{ $bg := .Resources.GetMatch "painting.jpg" }}
-    {{ $bg := $bg.Fit "1600x1600 webp q50" }}
-
-    <style>
-      #wrapper > .bg {
-        background-image: url("../../images/overlay.png"),
-          linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),
-          url("{{ $bg.RelPermalink }}");
-      }
-    </style>
 {{ end }}
 
 {{ define "scripts" }}
