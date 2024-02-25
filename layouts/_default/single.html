@@ -44,20 +44,28 @@
 
               <div style="text-align:center; line-height:1.2em; position:relative; font-family:Arial;">
                 <div style="float:right; text-align:right;">
-                  {{ if .Params.purchase }}
-                    <br>
-                    <a href="{{ .Params.purchase }}" class="button pricetag" style="margin:1em 0.5em;">
-                     Purchase Original
+                  <h3 style="margin-bottom:0;">Purchase:</h3>
+                  {{ if .Params.original }}
+                    <a href="{{ .Params.original }}" class="button pricetag" style="margin:0.5em;">
+                     Original Painting
                     </a>
                     <br>
                   {{ end }}
                   {{ if .Params.prints }}
-                    <a href="{{ .Params.prints }}" class="button pricetag" style="margin:1em 0.5em;">
-                      Order Prints
+                    <a href="{{ .Params.prints }}" class="button pricetag" style="margin:0.5em;">
+                      Printed Copies
                     </a>
+                    <br>
                   {{ end }}
+                  {{ if .Params.digital }}
+                    <a href="{{ .Params.digital }}" class="button pricetag" style="margin:0.5em;">
+                      Digital Download
+                    </a>
+                    <br>
+                  {{ end }}
+                  <br>
                 </div>
-                <span class="infotag" style="display:inline-block; text-align:left; color:#444; border:2px #a5a5a5 outset; background:#eee; box-shadow:0 0 7px rgba(0,0,0,0.4); padding:3em; text-shadow:0 0 7px f0c99c;">
+                <span class="infotag" style="display:inline-block; margin-top:1em; text-align:left; color:#444; border:2px #a5a5a5 outset; background:#eee; box-shadow:0 0 7px rgba(0,0,0,0.4); padding:3em; text-shadow:0 0 7px f0c99c;">
                   <span class="info-title" style="font-size:1.5em;">{{ .Params.author | default .Site.Params.author }}</span><br>
                   American, 1990 - Current<br>
                   <br>

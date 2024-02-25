@@ -13,6 +13,7 @@ size: 10.2inx14.1 (26x36cm)
 tags: [rocks, lake erie, cleveland ohio, great lakes, beach, water waves, landscape art, watercolor paint, realism, overcast day, coastal landscape]
 featured: true
 prints: https://artistbenyoung.etsy.com/listing/1682533283/lake-erie-rock-cleveland-ohio-landscape
+digital: https://www.patreon.com/ArtistBenYoung/shop/erie-rock-digital-download-139714
 ---
 
 This evocative painting captures a unique and striking rock formation located along the shores of Lake Erie, near Cleveland, Ohio, portraying a natural monument that stands as a silent guardian amidst the lapping waves. The overcast sky suggests a typical Great Lakes ambiance, while the resilient trees on the rock's summit are a testament to nature's adaptability in the face of the elements. The artwork invites contemplation on the enduring beauty of Lake Erie's coastal landscape, subtly colored by the artist to reflect the area's serene yet dynamic character.

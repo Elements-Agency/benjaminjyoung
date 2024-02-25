@@ -12,6 +12,7 @@ subject: Figure
 size: 9x12in (22.8x30.4cm)
 tags: [female body, woman, reclining pose, oil pastels, impressionism, figure art]
 featured: true
+digital: https://www.patreon.com/ArtistBenYoung/shop/ms-cezanne-digital-download-139657
 ---
 
 The painting titled "Ms. Cezanne" features a woman reclined in a state of repose, stretching her arms above her head. Inspired by [Paul Cezanne's work](https://collection.barnesfoundation.org/objects/4819/Bather-at-the-Seashore-(Baigneuse-au-bord-de-la-mer)/). Rendered with loose, expressive pastel stroke, suggestive of an interest in capturing movement and form rather than strict realism. The color palette is rich and warm. With earthy tones of brown and ochre for the background and vibrant yellow and green highlighting what appears to be a natural setting. The woman’s skin is painted in naturalistic tones, with highlights and shadows adding to the three-dimensional effect. Using bold outlines in places to define the figure’s form. With an impressionistic feel, focusing on light and color to convey a mood rather than detailed precision. This painting exudes a sense of relaxation and connection with nature.

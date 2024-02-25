@@ -12,6 +12,7 @@ subject: Floral
 size: 9x12in (22.8x30.4cm)
 tags: [daisy flower, flower art, watercolor paint, semiabstract, floral abstract, splash accents, broad stokes, neutral tone]
 featured: false
+digital: https://www.patreon.com/ArtistBenYoung/shop/dyzee-digital-download-139644
 ---
 
 This **Dyzee** painting is an [abstract composition](https://www.artistsnetwork.com/art-inspiration/what-is-abstract-art/) dominated by fluid, dynamic strokes and splashes of paint. The color palette is primarily monochromatic, featuring different shades of blue and black, with a significant contrast provided by a central burst of olive or moss green. The expressive lines and shapes seem to swirl around this central point of color, creating a sense of movement that draws the eye inward. The splatters and spots of paint across the canvas add to the feeling of spontaneity and action, suggesting the artist worked quickly and with a degree of improvisation.

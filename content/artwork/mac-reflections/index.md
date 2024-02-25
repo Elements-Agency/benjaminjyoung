@@ -13,6 +13,7 @@ size: 9x12in (22.9x30.5cm)
 tags: [facial hair, beard, self portrait art, oil pastels, impressionism, dark tone, impressionist artist]
 featured: true
 prints: https://artistbenyoung.etsy.com/listing/1680323041/mac-reflections-self-portrait
+digital: https://www.patreon.com/ArtistBenYoung/shop/mac-reflections-digital-download-139666
 ---
 
 The Mac Reflections painting depicts a close-up [impressionism portrait of myself](https://www.incredibleart.org/lessons/middle/Lessons/8impaint.htm), rendered with a strong emphasis on texture and a limited color palette, to show it's reflective nature. My figure is implied to be either emerging from or sinking into a dark background, with light only faintly illuminating the right side of the face. The strokes are expressive and almost sculptural, creating an array of thick, impasto strokes that give the image a dynamic and tactile quality.
