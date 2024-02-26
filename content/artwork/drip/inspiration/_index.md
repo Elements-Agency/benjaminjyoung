@@ -1,0 +1,5 @@
+---
+title: Inspiration
+---
+
+Coming soon.
