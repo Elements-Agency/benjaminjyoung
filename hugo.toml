@@ -29,6 +29,59 @@ copyright = 'Benjamin J. Young'
   [services.googleAnalytics]
     ID = 'G-LKWC4KDVH8'
 
+[related]
+  includeNewer = true
+  threshold = 100
+  toLower = false
+[[related.indices]]
+    applyFilter = false
+    cardinalityThreshold = 20
+    name = 'tags'
+    pattern = ''
+    toLower = false
+    type = 'basic'
+    weight = 100
+[[related.indices]]
+    applyFilter = false
+    cardinalityThreshold = 0
+    name = 'subject'
+    pattern = ''
+    toLower = false
+    type = 'basic'
+    weight = 100
+[[related.indices]]
+    applyFilter = false
+    cardinalityThreshold = 0
+    name = 'tags'
+    pattern = ''
+    toLower = false
+    type = 'basic'
+    weight = 50
+[[related.indices]]
+    applyFilter = false
+    cardinalityThreshold = 0
+    name = 'medium'
+    pattern = ''
+    toLower = false
+    type = 'basic'
+    weight = 25
+[[related.indices]]
+    applyFilter = false
+    cardinalityThreshold = 0
+    name = 'category'
+    pattern = ''
+    toLower = false
+    type = 'basic'
+    weight = 25
+[[related.indices]]
+    applyFilter = false
+    cardinalityThreshold = 33
+    name = 'tags'
+    pattern = ''
+    toLower = false
+    type = 'basic'
+    weight = 25
+
 [[deployment.matchers]]
 # Cache static assets for 1 year.
 pattern = "^.+\\.(js|css|svg|ttf|woff2)$"
