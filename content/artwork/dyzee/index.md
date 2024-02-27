@@ -12,6 +12,7 @@ subject: Floral
 size: 9x12in (22.8x30.4cm)
 tags: [daisy flower, flower art, watercolor paint, semiabstract, floral abstract, splash accents, broad stokes, neutral tone]
 featured: false
+prints: https://artistbenyoung.etsy.com/listing/1671891210/daisy-semi-abstract-art-dyzee-watercolor
 digital: https://www.patreon.com/ArtistBenYoung/shop/dyzee-digital-download-139644
 ---
 
