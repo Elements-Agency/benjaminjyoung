@@ -28,7 +28,7 @@
       {{ $section_name := index (.Site.Params.mainSections) 0 }}
 
       <section id="thumbnails">
-        {{ $n_posts := $.Param "recent_posts_number" | default 12 }}
+        {{ $n_posts := $.Param "recent_posts_number" | default 120 }}
 
         {{/* Range through the first $n_posts items of the section where featured is true */}}
         {{ range (where (first $n_posts $section) "Params.featured" true) }}
