@@ -1,9 +1,9 @@
 ---
 title: AJ's Lily
-description: Coming soon.
+description: AJ's Lily is one of my first adult drawings, with graphite pencil realism, that is too personal to describe the reason behind.
 author: Benjamin J. Young
 date: 2023-12-17
-alt: Coming soon.
+alt: This pencil sketch portrays a delicately rendered lily with graceful petals and detailed stamen, exuding a sense of gentle elegance.
 type: Drawing
 medium: Graphite Pencil
 material: Cold Press Pulp Paper
@@ -14,4 +14,4 @@ tags: [coming soon]
 featured: false
 ---
 
-Coming soon.
+The **AJ's Lily** drawing is a pencil drawing that captures the delicate beauty of a lily flower in bloom. The flower stands out with its petals gracefully curving outward, showcasing the fine details of its texture and venation, while the stamens reach out from the center, detailed with care to convey their slender form and powdery pollen tips. Below the flower, the stem leads to a pair of leaves that frame the composition, their pointed tips adding to the overall elegance of the sketch. The artist's use of shading provides depth, highlighting the organic curves and giving the lily a lifelike appearance. The background is left unadorned, ensuring that all attention remains on the intricacies of the flower and its natural allure.
