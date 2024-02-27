@@ -17,3 +17,14 @@ digital: https://www.patreon.com/ArtistBenYoung/shop/erie-rock-digital-download-
 ---
 
 This evocative painting captures a unique and striking rock formation located along the shores of Lake Erie, near Cleveland, Ohio, portraying a natural monument that stands as a silent guardian amidst the lapping waves. The overcast sky suggests a typical Great Lakes ambiance, while the resilient trees on the rock's summit are a testament to nature's adaptability in the face of the elements. The artwork invites contemplation on the enduring beauty of Lake Erie's coastal landscape, subtly colored by the artist to reflect the area's serene yet dynamic character.
+
+## Inspiration ##
+
+This is a rare display on a low tide of Lake Erie, out of Lakewood Ohio. The photos were [featured in the news](https://fox59.com/news/national-world/photos-show-rare-phenomenon-on-lake-erie/).
+
+## Process ##
+
+This was a very labor intensive and detailed peice. Maybe stages of doing a layer, drying, and continuing on with the next step. I enjoyed the journey though and it's one of my favorite artworks.
+
+Watch the timelapse of the painting being created:
+{{< reel url="https://www.instagram.com/p/C3rgdrrA3oI/" account="Benjamin J. Young (@artistbenyoung)" >}}

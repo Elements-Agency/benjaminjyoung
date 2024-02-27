@@ -15,3 +15,11 @@ featured: false
 ---
 
 This is a striking monochrome painting that captures a moment of fluid eleganc, titled simply **Aqua**. It depicts a wine glass caught in the midst of a dynamic swirl, with the liquid inside defying gravity in a graceful arc that stretches above the rim. The movement is frozen in time, with the liquid's surface tension creating an almost sculptural form that reaches upwards. The artist has skillfully represented the play of light and shadow, giving the impression of a sparkling, translucent liquid. The glass's thin stem and stable base contrast with the liquid's volatility, providing a sense of balance to the composition. The simplicity of the background ensures all attention is focused on the interaction between the glass and its contents, highlighting the delicate beauty of a fleeting moment that would otherwise be missed.
+
+## Inspiration ##
+
+I was curious to try a study of trying to make realistic looking water and glass, using the new water soluable penciles I had just bought.
+
+## Process ##
+
+This only took about a hour to test and do, and was a test before continuing on to start [Drip](artwork/drip).

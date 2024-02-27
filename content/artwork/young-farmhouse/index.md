@@ -26,4 +26,13 @@ The sky above is a pale blue, suggesting an overcast day, with the light not qui
 
 The painting has a feeling of tranquility and nostalgia, evoking memories of childhood summers or quiet life in the countryside. The overall style combines elements of [realism with a touch of impressionism](https://study.com/academy/lesson/realism-impressionism-overview-differences-examples.html), seen in the way the grass and foliage are rendered with loose brushwork.
 
-The subject and inspiration is that of my family's 1875 brick farmhouse.
+## Inspiration ##
+
+The subject and inspiration is that of my [family's 1875 brick farmhouse](https://piketownship.net/our-history/).
+
+## Process ##
+
+This artwork took forever to do. Similar to [Fry's Tree](/artwork/frys-tree), the progress stretched out and the skills had developed past of when I started. I had to force myself to complete this one.
+
+Watch the timelapse of the painting being created:
+{{< reel url="https://www.instagram.com/p/C3j7Q9FAkf6/" account="Benjamin J. Young (@artistbenyoung)" >}}

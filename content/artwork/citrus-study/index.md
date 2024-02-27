@@ -18,4 +18,13 @@ digital: https://www.patreon.com/ArtistBenYoung/shop/citrus-study-digital-downlo
 
 The **Citrus Study** painting features a [still life composition](https://mymodernmet.com/what-is-still-life-painting-definition/) with three objects that appear on a table. On the left is a green lime, partially blending from green to a yellowish hue, indicating ripeness or a variation in color typical of certain lime varieties. In the middle, there's a red mug or cup with a visible handle on the right, suggesting it's meant for a right-handed person to pick up easily. The mug's rim is white, indicating the inside color and the reflection of light. On the right, there's a lemon with a bright yellow color, indicative of its ripeness and tartness. The background and surface are in muted dark tones, with the surface reflecting a bit of light, giving a sense of a shadowed room. The painting style is textured, with visible brushstrokes marks, which give it a tactile quality. The color palette is quite naturalistic, with a strong contrast between the brightly colored objects and the dark background, drawing attention to the subjects of the still life.
 
+## Inspiration ##
+
 This was done as a study to not only focus on lighting values, but my ability to blend water colors as well. Even with cheap paint used. The cheap paint may have resulted in extra work to keep fixing the condensed pigmented dried edges.
+
+## Process ##
+
+The study took honestly a few weeks. It was a lot of applying one layer or blending, waiting for the painting to dry, and then continuing on with the next layer or step. This would have been honestly much easier using oil paint, but I did not have the supplies on hand at the time and took it as a challenge to do the blending in watercolor.
+
+Watch the timelapse of the painting being created:
+{{< reel url="https://www.instagram.com/p/C3aFj71ssZR/" account="Benjamin J. Young (@artistbenyoung)" >}}

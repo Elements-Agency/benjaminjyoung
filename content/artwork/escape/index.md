@@ -22,4 +22,13 @@ The sky is overcast, painted in soft grays and colbolts that blend seamlessly wi
 
 The overall mood of the painting is one of solitude and silence, evoking a sense of introspection or the quiet beauty of nature in winter. The technique is done with watercolor, highlighting the fluidity of the colors and the soft gradients that suggest the chill and dampness of the snowy environment.
 
+## Inspiration ##
+
 The inspiration was simply because I do enjoy the peacefulness and tranquility of the snow. It was such a simple and minimimalistic idea and painting, but the outcome had a lot of depth.
+
+## Process ##
+
+This took a few stages of adding layers, but it still only took a few days at most to include drying times.
+
+Watch the timelapse of the painting being created:
+{{< reel url="https://www.instagram.com/p/C3pK2JvOevm/" account="Benjamin J. Young (@artistbenyoung)" >}}

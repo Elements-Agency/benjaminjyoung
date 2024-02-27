@@ -23,4 +23,13 @@ The color palette is quite naturalistic, with earthy tones for the tree and gras
 
 There's a sense of tranquility and solitude in this scene, as the tree stands alone in the quiet moments of transition between day and night. The painting style is detailed with a focus on texture, as seen in the strokes that define the tree's bark and leaves.
 
-The tree it's self is the lone tree that stands around a hiking trail bend at Fry Family Park, close to near my home.
+## Inspiration ##
+
+The tree it's self is the lone tree that stands around a hiking trail bend at [Fry Family Park](https://starkparks.com/parks/fry-family-park/), close to near my home.
+
+## Process ##
+
+This painting took way longer than I wanted it too. It took many layers to get the right color and value. I had to mix in gouche with the watercolors to sometimes get the opaque I desired. I began to tire of working on it, so the progress stretched out. By the time I decided for forcefully wrap it up, I felt my skills have drastically improved and the base of the painting did not meet my standards.
+
+Watch the timelapse of the painting being created:
+{{< reel url="https://www.instagram.com/p/C3hi4DjAYqg/" account="Benjamin J. Young (@artistbenyoung)" >}}

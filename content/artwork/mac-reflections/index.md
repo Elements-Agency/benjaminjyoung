@@ -24,4 +24,13 @@ There is a sense of depth and dimension, despite the darkness that envelops the 
 
 The overall effect is one of profound reflection, with the textured brushwork and dramatic chiaroscuro suggesting a moment captured in time, where the inner world of the subject is as significant as the outer representation. It’s a powerful image that invites the viewer to consider the subject’s thoughts and feelings.
 
+## Inspiration ##
+
 The inspiration came to me from seeing my reflection in the darkened and smugged glossy screen from Apple Macbook Pro.
+
+## Process ##
+
+This took a few days of stepping away from the art, getting a fresh pair of eyes, and continuing to develop the depth of the artwork.
+
+Watch the timelapse of the painting being created:
+{{< reel url="https://www.instagram.com/p/C3mpPeQgORk/" account="Benjamin J. Young (@artistbenyoung)" >}}
