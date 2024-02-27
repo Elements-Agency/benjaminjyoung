@@ -10,7 +10,7 @@ material: Printer Paper
 category: Realism
 subject: Figure
 size: 
-tags: [coming soon]
+tags: [persons hand, human anatomy, drawing, graphite pencil, realism, figure art]
 featured: false
 ---
 

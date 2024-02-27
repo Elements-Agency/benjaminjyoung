@@ -10,7 +10,7 @@ material: Cold Press Pulp Paper
 category: Realism
 subject: Floral
 size: 
-tags: [coming soon]
+tags: [flower, white lily, drawing, graphite pencil, realism, floral art]
 featured: false
 ---
 

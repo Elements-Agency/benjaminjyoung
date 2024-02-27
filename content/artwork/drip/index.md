@@ -10,7 +10,7 @@ material: Cold Press Pulp Paper
 category: Realism
 subject: Water
 size: 12x9in
-tags: [coming soon]
+tags: [water droplet, liquid ripples, painting, water soluable pencil, realism, water art]
 featured: false
 ---
 

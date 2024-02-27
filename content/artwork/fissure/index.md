@@ -10,7 +10,7 @@ material: Hot Press Cotton Paper
 category: Semiabstract
 subject: Abstract
 size: 
-tags: [coming soon]
+tags: [broad crack, watercolor paint, semiabstract, cracking abstract, running accents, broad stokes, earthy tone]
 featured: false
 ---
 
