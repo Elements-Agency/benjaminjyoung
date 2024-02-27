@@ -8,7 +8,7 @@ type: Painting
 medium: Water Soluable Graphite
 material: Cold Press Pulp Paper
 category: Realism
-subject: No Idea
+subject: Water
 size: 12x9in
 tags: [coming soon]
 featured: false
