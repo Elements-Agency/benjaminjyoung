@@ -4,6 +4,8 @@ description: Aqua is my second water painting done with Water Soluable Pencil, t
 author: Benjamin J. Young
 date: 2024-01-14
 alt: The painting displays an artistic monochrome sketch of a wine glass with its contents in mid-splash, creating an elegant and dynamic fluid motion captured in a still moment.
+images: ['painting.jpg']
+videos: []
 type: Painting
 medium: Water Soluable Graphite
 material: Cold Press Pulp Paper

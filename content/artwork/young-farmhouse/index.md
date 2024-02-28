@@ -4,6 +4,8 @@ description: The Young Farmhouse is that of my family's original farmhouse I gre
 author: Benjamin J. Young
 date: 2024-02-10
 alt: This painting by Ben Young captures a rustic rural scene with a prominent tree and swing in the foreground, and a brick house amidst green fields and trees in the background, evoking a tranquil, pastoral mood.
+images: ['painting.jpg']
+videos: ['https://www.instagram.com/p/C3j7Q9FAkf6/']
 type: Painting
 medium: Watercolor
 material: Cold Press Pulp Paper

@@ -4,6 +4,8 @@ description: Standing Watermelon is a simple study, testing my newly purchased w
 author: Benjamin J. Young
 date: 2023-12-27
 alt: This watercolor artwork by Ben Young is a simple yet detailed depiction of a single slice of watermelon with a bright red flesh, black seeds, and a green rind, set against a plain background.
+images: ['painting.jpg']
+videos: []
 type: Painting
 medium: Watercolor
 material: Cold Press Pulp Paper

@@ -4,6 +4,8 @@ description: Ms. Cezanne is my own rendition of Paul Cezanne's artwork, includin
 author: Benjamin J. Young
 date: 2024-01-20
 alt: The oil pastel painting by Ben Young portrays a woman reclining in a vibrant, natural setting, depicted with vivid colors and energetic, sketch-like strokes that create a lively and dynamic composition.
+images: ['painting.jpg']
+videos: ['https://www.instagram.com/p/C3lKtCjvEd5/']
 type: Painting
 medium: Oil Pastel
 material: Cold Press Pulp Paper

@@ -4,6 +4,8 @@ description: Empty Models is a first peice back in art, after a 18 year hiatus s
 author: Benjamin J. Young
 date: 2023-12-15
 alt: The oil pastel painting by Ben Young shows a textured still life composition of two green bottles, a green jug, and a brown bowl on a hung white fabric surface against a dark wooden background.
+images: ['painting.jpg']
+videos: [https://www.instagram.com/p/C3XZXDsuuum/]
 type: Painting
 medium: Oil Pastel
 material: Construction Paper

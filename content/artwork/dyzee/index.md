@@ -4,6 +4,8 @@ description: Dyzee is an attempt to explore abstract watercolor painting. But th
 author: Benjamin J. Young
 date: 2024-01-18
 alt: This is an abstract watercolor painting by Ben Young featuring dynamic blue and black brushstrokes, with splatters and washes creating a sense of movement, anchored by a central burst of yellow.
+images: ['painting.jpg']
+videos: []
 type: Painting
 medium: Watercolor
 material: Cold Press Pulp Paper

@@ -4,6 +4,8 @@ description: Northern Cardinal's name speaks for it's self on the subject of thi
 author: Benjamin J. Young
 date: 2024-01-25
 alt: This is a detailed colored pencil drawing by Ben Young of a vivid red cardinal perched on a snowy branch.
+images: ['painting.jpg']
+videos: ['https://www.instagram.com/p/C3fAU-6ON7E/']
 type: Drawing
 medium: Watercolor Pencil
 material: Cold Press Pulp Paper

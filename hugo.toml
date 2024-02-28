@@ -6,6 +6,13 @@ copyright = 'Benjamin J. Young'
 [params]
   commentoEnable = true
   location = "Canton, Ohio. USA."
+  [params.social]
+    facebook		= "artist.benjamin.young"
+    facebook_admin	= "61556301758002"  # This needs to be a page admin to get domain insights
+    twitter		    = "artistbenyoung"
+    twitter_domain	= "benjaminjyoung.com" # This domain shows in twitter cards as "View on `twitter_domain`"
+    pinterest		= "artistbenyoung"
+    instagram		= "artistbenyoung"
 
 [menus]
 [[menus.main]]

@@ -4,6 +4,8 @@ description: Escape is such a simple water color painting, set in a snowy vast f
 author: Benjamin J. Young
 date: 2024-02-09
 alt: This painting by Ben Young shows a solitary figure traverses a snowy path flanked by a fence, in a muted watercolor landscape shrouded in a hazy atmosphere.
+images: ['painting.jpg']
+videos: ['https://www.instagram.com/p/C3pK2JvOevm/']
 type: Painting
 medium: Watercolor
 material: Cold Press Cotton Paper

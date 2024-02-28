@@ -4,6 +4,8 @@ description: Fry's Tree is the lone tree at Fry Family Park, that stands out in 
 author: Benjamin J. Young
 date: 2024-01-19
 alt: In this evocative water color painting by Ben Young, a majestic tree stands prominently against a dusky sky, its intricate branches silhouetted by the soft glow of twilight.
+images: ['painting.jpg']
+videos: ['https://www.instagram.com/p/C3hi4DjAYqg/']
 type: Painting
 medium: Watercolor
 material: Cold Press Pulp Paper
