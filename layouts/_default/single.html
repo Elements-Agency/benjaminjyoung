@@ -136,7 +136,7 @@
 
                     <p>
                       <a href="{{ $.Params.original }}" onclick="fbq('track', 'ViewContent');" data-position="center">
-                        <img src="{{ $original.RelPermalink }}" alt="Buy the original {{ $.Title }}" title="Original {{ $.Title }}">
+                        <img src="{{ $original.RelPermalink }}" width="250px" height="250px" alt="Buy the original {{ $.Title }}" title="Original {{ $.Title }}">
                       </a>
                     </p>
 
@@ -151,7 +151,7 @@
 
                     <p>
                       <a href="{{ $.Params.prints }}" onclick="fbq('track', 'ViewContent');" data-position="center">
-                        <img src="{{ $print.RelPermalink }}" alt="Buy a print of {{ $.Title }}" title="Print of {{ $.Title }}">
+                        <img src="{{ $print.RelPermalink }}" width="250px" height="250px" alt="Buy a print of {{ $.Title }}" title="Print of {{ $.Title }}">
                       </a>
                     </p>
 
@@ -167,7 +167,7 @@
 
                     <p>
                       <a href="{{ .Params.digital }}" onclick="fbq('track', 'ViewContent');" data-position="center">
-                        <img src="{{ $digital.RelPermalink }}" alt="Digital Download for {{ .Title }}" title="Digital Download of {{ .Title }}">
+                        <img src="{{ $digital.RelPermalink }}" width="250px" height="250px" alt="Digital Download for {{ .Title }}" title="Digital Download of {{ .Title }}">
                       </a>
                     </p>
 

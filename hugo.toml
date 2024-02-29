@@ -31,6 +31,10 @@ copyright = 'Benjamin J. Young'
     name = 'Contact'
     pageRef = '/contact'
     weight = 40
+[[menus.main]]
+    name = 'Shop'
+    pageRef = '/Shop'
+    weight = 50
 
 [services]
   [services.googleAnalytics]

@@ -1,0 +1,90 @@
+{{ define "styles" }}
+    {{ partial "inside-style.html" . }}
+{{ end }}
+
+{{ define "scripts" }}
+    {{ partial "inside-scripts.html" . }}
+{{ end }}
+
+{{ define "main" }}
+    <div id="wrapper">
+    {{ block "header" . }}{{ partial "inside-header.html" .}}{{ end }}
+
+    {{ block "nav" . }}{{ partial "inside-navigation.html" .}}{{ end }}
+
+    <div id="main">
+        <section style="text-align:center;">
+
+            {{ .Content }}
+
+            {{/* Define a section to pull recent posts from. For Hugo 0.20 this will default to the section with the most number of pages. */}}
+            {{ $mainSections := .Site.Params.mainSections | default (slice "post") }}
+        
+            {{/* Create a variable with that section to use in multiple places. */}}
+            {{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
+        
+            {{/* Check to see if the section is defined for ranging through it */}}
+            {{ $section_count := len $section }}
+        
+            {{ if ge $section_count 1 }}
+              {{ $section_name := index (.Site.Params.mainSections) 0 }}
+        
+                {{ $n_posts := 120 }}
+
+                {{/*<h2>Originals</h2>
+                <p style="text-align:center;">Here is a list of originals still for sale, on <a href="#">Saatachi</a>.</p>
+
+                <ul>
+                    {{ range first $n_posts $section }}
+                        {{ with $original := .Resources.GetMatch "original.jpg" }}
+                            {{ $original := $original.Fill "200x200 q85" }}
+                            <li style="display:inline-block; padding:1em; text-align:center;">
+                                <a href="{{ .Params.original }}" onclick="fbq('track', 'ViewContent');" data-position="center">
+                                    <img src="{{ $original.RelPermalink }}" width="200px" height="200px"  alt="Buy the original {{ .Title }}" title="Original {{ .Title }}">
+                                </a>
+                            </li>
+                        {{ end }}
+                    {{ end }}
+                </ul>*/}}
+
+                <h2>Prints</h2>
+                <p style="text-align:center;">Here is a list of prints you can order, on <a href="https://artistbenyoung.etsy.com">Etsy</a>.</p>
+
+                <ul>
+                    {{ range $painting := first $n_posts $section }}
+                        {{ with $print := .Resources.GetMatch "print.jpg" }}
+                            {{ $print := $print.Fill "200x200 q85" }}
+                            <li style="display:inline-block; padding:1em; text-align:center;">
+                                <a href="{{ $painting.Params.prints }}" onclick="fbq('track', 'ViewContent');" data-position="center">
+                                    <img src="{{ $print.RelPermalink }}" width="200px" height="200px" alt="Buy a print of {{ $painting.Title }}" title="Print of {{ $painting.Title }}">
+                                </a>
+                            </li>
+                        {{ end }}
+                    {{ end }}
+                </ul>
+
+                {{/* <h2>Digital Downloads</h2>
+                <p style="text-align:center;">Here is a list of digital downloads, you can either buy or access with a subscription, on <a href="https://www.patreon.com/ArtistBenYoung/shop/">Patreon</a>.</p>
+
+                <ul>
+                    {{ range first $n_posts $section }}
+                        {{ with $digital := .Resources.GetMatch "painting.jpg" }}
+                            {{ $digital := $digital.Fill "200x200 q85" }}
+                            <li style="display:inline-block; padding:1em; text-align:center;">
+                                <a href="{{ .Params.digital }}" onclick="fbq('track', 'ViewContent');" data-position="center">
+                                    <img src="{{ $digital.RelPermalink }}" width="200px" height="200px"  alt="Download the digital scan of {{ .Title }}" title="Download {{ .Title }}">
+                                </a>
+                            </li>
+                        {{ end }}
+                    {{ end }}
+                </ul>*/}}
+
+            {{ end }}
+            
+        </section>
+    </div>
+
+    {{ block "footer" . }}{{ partialCached "inside-footer.html" . }}{{ end }}
+  </div>
+
+{{ end }}
