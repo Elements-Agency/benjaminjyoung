@@ -50,19 +50,19 @@
                   <div style="float:right; text-align:right;">
                     <h3 style="margin-bottom:0;">Purchase:</h3>
                     {{ if .Params.original }}
-                      <a href="{{ .Params.original }}" class="button pricetag" style="margin:0.5em;">
+                      <a href="{{ .Params.original }}" onclick="fbq('track', 'ViewContent');" class="button pricetag" style="margin:0.5em;">
                       Original Painting
                       </a>
                       <br>
                     {{ end }}
                     {{ if .Params.prints }}
-                      <a href="{{ .Params.prints }}" class="button pricetag" style="margin:0.5em;">
+                      <a href="{{ .Params.prints }}" onclick="fbq('track', 'ViewContent');" class="button pricetag" style="margin:0.5em;">
                         Printed Copies
                       </a>
                       <br>
                     {{ end }}
                     {{ if .Params.digital }}
-                      <a href="{{ .Params.digital }}" class="button pricetag" style="margin:0.5em;">
+                      <a href="{{ .Params.digital }}" onclick="fbq('track', 'ViewContent');" class="button pricetag" style="margin:0.5em;">
                         Digital Download
                       </a>
                       <br>
