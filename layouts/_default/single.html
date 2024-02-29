@@ -51,7 +51,7 @@
                     <h3 style="margin-bottom:0;">Purchase:</h3>
                     {{ if .Params.original }}
                       <a href="{{ .Params.original }}" onclick="fbq('track', 'ViewContent');" class="button pricetag" style="margin:0.5em;">
-                      Original Painting
+                        Original Painting
                       </a>
                       <br>
                     {{ end }}
@@ -123,6 +123,59 @@
               </div>
 
               {{- .Content -}}
+
+              <br style="clear:both;">
+
+              <h2 id="purchase">Purchase the {{ .Title }} Painting</h2>
+              <ul style="list-style:none; text-align:center;">
+
+                {{ with $original := .Resources.GetMatch "original.jpg" }}
+                  {{ $original := $original.Fit "250x250 q85" }}
+                  <li style="display:inline-block; padding:1em; text-align:center;">
+                    <h3>Original Painting</h3>
+
+                    <p>
+                      <a href="{{ $.Params.original }}" onclick="fbq('track', 'ViewContent');" data-position="center">
+                        <img src="{{ $original.RelPermalink }}" alt="Buy the original {{ $.Title }}" title="Original {{ $.Title }}">
+                      </a>
+                    </p>
+
+                    <a href="{{ $.Params.original }}" class="button">Buy on Saatachi</a>
+                  </li>
+                {{ end }}
+
+                {{ with $print := .Resources.GetMatch "print.jpg" }}
+                  {{ $print := $print.Fit "250x250 q85" }}
+                  <li style="display:inline-block; padding:1em; text-align:center;">
+                    <h3>Printed Copy</h3>
+
+                    <p>
+                      <a href="{{ $.Params.prints }}" onclick="fbq('track', 'ViewContent');" data-position="center">
+                        <img src="{{ $print.RelPermalink }}" alt="Buy a print of {{ $.Title }}" title="Print of {{ $.Title }}">
+                      </a>
+                    </p>
+
+                    <a href="{{ $.Params.prints }}" class="button">Buy on Etsy</a>
+                  </li>
+                {{ end }}
+
+                {{ if .Params.digital }}
+                  {{ $digital := .Resources.GetMatch "painting.jpg" }}
+                  {{ $digital := $digital.Fill "250x250 q85" }}
+                  <li style="display:inline-block; padding:1em; text-align:center;">
+                    <h3>Digital Download</h3>
+
+                    <p>
+                      <a href="{{ .Params.digital }}" onclick="fbq('track', 'ViewContent');" data-position="center">
+                        <img src="{{ $digital.RelPermalink }}" alt="Digital Download for {{ .Title }}" title="Digital Download of {{ .Title }}">
+                      </a>
+                    </p>
+
+                    <a href="{{ .Params.digital }}" class="button">Buy on Patreon</a>
+                  </li>
+                {{ end }}
+
+              </ul>
 
               <strong>Tags:</strong>
               {{- partial "tags.html" . -}}

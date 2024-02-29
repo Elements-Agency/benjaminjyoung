@@ -27,6 +27,8 @@ The color palette is quite naturalistic, with earthy tones for the tree and gras
 
 There's a sense of tranquility and solitude in this scene, as the tree stands alone in the quiet moments of transition between day and night. The painting style is detailed with a focus on texture, as seen in the strokes that define the tree's bark and leaves.
 
+[Buy the Painting >](#purchase)
+
 ## Inspiration ##
 
 The tree it's self is the lone tree that stands around a hiking trail bend at [Fry Family Park](https://starkparks.com/parks/fry-family-park/), close to near my home.

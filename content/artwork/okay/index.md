@@ -23,3 +23,5 @@ aliases: [/okay]
 The shading is subtle yet effective, providing a sense of depth and form to the hand. The pencil strokes vary in intensity, suggesting the play of light across the hand's surface. The fingernails are well-defined and the knuckles are gently implied by the contours of the lines.
 
 The background is minimalist, a textured grey that complements the graphite medium, ensuring that the hand is the focal point of the piece. The overall impression is one of a quiet moment captured on paper, with a tangible sense of the weight and presence of an okay hand sign.
+
+[Buy the Painting >](#purchase)
