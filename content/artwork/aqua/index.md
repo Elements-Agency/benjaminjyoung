@@ -15,6 +15,7 @@ size: 12x9in
 tags: [water splash, liquid spill, wine glass, painting, water soluable pencil, realism, water art]
 featured: false
 digital: https://www.patreon.com/ArtistBenYoung/shop/aqua-digital-download-143231
+aliases: [/aqua]
 ---
 
 This is a striking monochrome painting that captures a moment of fluid eleganc, titled simply **Aqua**. It depicts a wine glass caught in the midst of a dynamic swirl, with the liquid inside defying gravity in a graceful arc that stretches above the rim. The movement is frozen in time, with the liquid's surface tension creating an almost sculptural form that reaches upwards. The artist has skillfully represented the play of light and shadow, giving the impression of a sparkling, translucent liquid. The glass's thin stem and stable base contrast with the liquid's volatility, providing a sense of balance to the composition. The simplicity of the background ensures all attention is focused on the interaction between the glass and its contents, highlighting the delicate beauty of a fleeting moment that would otherwise be missed.

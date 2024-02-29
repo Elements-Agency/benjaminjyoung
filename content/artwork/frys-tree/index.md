@@ -16,6 +16,7 @@ tags: [tree subject, forrestry, night time, twilight, dusk, watercolor paint, go
 featured: true
 prints: https://artistbenyoung.etsy.com/listing/1670341658/dark-twilight-tree-silhouette
 digital: https://www.patreon.com/ArtistBenYoung/shop/frys-tree-digital-download-139651
+aliases: [/frys-tree]
 ---
 
 **Fry's Tree** portrays a solitary, robust tree standing prominently in the center against a twilight or pre-dawn sky. Creating a [silhouette tree](https://www.themarginalian.org/2019/08/06/trees-at-night-art-young/) standing as the subject. The tree's branches are dense and leafy, suggesting a full summer or pre-fall foliage. The detailed rendering of the leaves and branches creates a lace-like pattern against the sky, which shifts from a dark blue at the top to lighter hues near the horizon, indicating dusk or the approach of nightfall.

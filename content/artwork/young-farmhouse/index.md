@@ -16,6 +16,7 @@ tags: [farm house, brick home, child swing, walnut tree, countryside, architectu
 featured: true
 prints: https://artistbenyoung.etsy.com/listing/1682063641/young-farmhouse-landscape
 digital: https://www.patreon.com/ArtistBenYoung/shop/young-farmhouse-digital-download-139684
+aliases: [/young-farmhouse, /artwork/young-farmhome]
 ---
 
 This **Young Farmhouse** painting portrays a rustic, rural scene. Dominating the left foreground is a large, dark brown walnut tree, its detailed bark texture suggesting an old and sturdy presence. From one of its branches, a swing with a wooden seat dangles, its ropes hanging limply, waiting for a visitor.

@@ -15,6 +15,7 @@ size:
 tags: [persons hand, human anatomy, drawing, graphite pencil, realism, figure art]
 featured: false
 digital: https://www.patreon.com/ArtistBenYoung/shop/okay-digital-download-143247
+aliases: [/okay]
 ---
 
 **Okay** depicts a human hand, my hand, sketched in pencil with a focus on realism and attention to detail. It is positioned in a relaxed pose, resting to the side of my leg with the fingers slightly curled inward. I have taken care to render the textures and lines on the skin, showing the unique patterns and creases that can be found on a person’s palm and fingers.

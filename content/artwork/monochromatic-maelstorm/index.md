@@ -16,6 +16,7 @@ tags: [water swirl, water art, watercolor paint, semiabstract, water abstract, s
 featured: false
 prints: https://artistbenyoung.etsy.com/listing/1671903316/whirlpool-semi-abstract-art
 digital: https://www.patreon.com/ArtistBenYoung/shop/monochromatic-maelstorm-139678
+aliases: [/monochromatic-maelstorm, /artwork/monochromatic-maelstrom, /artwork/mono-chromatic-maelstorm]
 ---
 
 **Monochromatic Maelstorm** is an abstract painting. The color palette is primarily monochromatic, featuring different shades of black, gray, and white, with some areas where a deep, navy-like blue is present. The composition is dynamic, with fluid shapes and splatters distributed across the canvas. The use of black and blue creates a sense of depth and contrast against the lighter areas. There are also spots where the paint seems to have been allowed to drip or splatter freely, giving the piece a spontaneous and expressive feel.
