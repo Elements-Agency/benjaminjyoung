@@ -40,7 +40,7 @@
                             {{ $original := $original.Fill "200x200 q85" }}
                             <li style="display:inline-block; padding:1em; text-align:center;">
                                 <a href="{{ .Params.original }}" onclick="fbq('track', 'ViewContent');" data-position="center">
-                                    <img src="{{ $original.RelPermalink }}" width="200px" height="200px"  alt="Buy the original {{ .Title }}" title="Original {{ .Title }}">
+                                    <img src="{{ $original.RelPermalink }}" width="200px" height="200px" loading="lazy" alt="Buy the original {{ .Title }}" title="Original {{ .Title }}">
                                 </a>
                             </li>
                         {{ end }}
@@ -56,7 +56,7 @@
                             {{ $print := $print.Fill "200x200 q85" }}
                             <li style="display:inline-block; padding:1em; text-align:center;">
                                 <a href="{{ $painting.Params.prints }}" onclick="fbq('track', 'ViewContent');" data-position="center">
-                                    <img src="{{ $print.RelPermalink }}" width="200px" height="200px" alt="Buy a print of {{ $painting.Title }}" title="Print of {{ $painting.Title }}">
+                                    <img src="{{ $print.RelPermalink }}" width="200px" height="200px" loading="lazy" alt="Buy a print of {{ $painting.Title }}" title="Print of {{ $painting.Title }}">
                                 </a>
                             </li>
                         {{ end }}
@@ -72,7 +72,7 @@
                             {{ $digital := $digital.Fill "200x200 q85" }}
                             <li style="display:inline-block; padding:1em; text-align:center;">
                                 <a href="{{ .Params.digital }}" onclick="fbq('track', 'ViewContent');" data-position="center">
-                                    <img src="{{ $digital.RelPermalink }}" width="200px" height="200px"  alt="Download the digital scan of {{ .Title }}" title="Download {{ .Title }}">
+                                    <img src="{{ $digital.RelPermalink }}" width="200px" height="200px" loading="lazy" alt="Download the digital scan of {{ .Title }}" title="Download {{ .Title }}">
                                 </a>
                             </li>
                         {{ end }}

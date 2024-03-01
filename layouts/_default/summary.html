@@ -5,7 +5,7 @@
     {{ $thumbnail := $thumbnail.Resize "300x webp q90" }}
 
     <a class="thumbnail" href="{{ .RelPermalink }}" data-position="center">
-      <img src="{{ $thumbnail.RelPermalink }}" width="300px" height="300px" style="float:right; margin:3.5em 4em 2em;" alt="{{ .Params.alt }}" title='{{ .Title }} ({{ .Date| time.Format "2006" }}) by {{ .Site.Copyright }}' />
+      <img src="{{ $thumbnail.RelPermalink }}" width="300px" height="300px" loading="lazy" style="float:right; margin:3.5em 4em 2em;" alt="{{ .Params.alt }}" title='{{ .Title }} ({{ .Date| time.Format "2006" }}) by {{ .Site.Copyright }}' />
     </a>
 
     <h2 class="f3 near-black" style="font-size:3em; margin-bottom:0.2em;">

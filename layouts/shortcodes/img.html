@@ -1,1 +1,1 @@
-<img src="{{ .Get "src" }}" width="{{ .Get "width" }}" height="{{ .Get "height" }}" class="{{ .Get "class" }}" style="{{ .Get "style" }}" {{ if or (.Get "alt") (.Get "caption") }}alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" }}{{ end }}"{{ end }} >
+<img src="{{ .Get "src" }}" width="{{ .Get "width" }}" height="{{ .Get "height" }}" loading="lazy" class="{{ .Get "class" }}" style="{{ .Get "style" }}" {{ if or (.Get "alt") (.Get "caption") }}alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" }}{{ end }}"{{ end }} >
