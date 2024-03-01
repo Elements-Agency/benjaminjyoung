@@ -30,6 +30,3 @@ This was done as a study to not only focus on lighting values, but my ability to
 ### Process ###
 
 The study took honestly a few weeks. It was a lot of applying one layer or blending, waiting for the painting to dry, and then continuing on with the next layer or step. This would have been honestly much easier using oil paint, but I did not have the supplies on hand at the time and took it as a challenge to do the blending in watercolor.
-
-Watch the timelapse of the painting being created:
-{{< reel url="https://www.instagram.com/p/C3aFj71ssZR/" account="Benjamin J. Young (@artistbenyoung)" >}}

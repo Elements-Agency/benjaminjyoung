@@ -36,6 +36,3 @@ The inspiration came to me from seeing my reflection in the darkened and smugged
 ### Process ###
 
 This took a few days of stepping away from the art, getting a fresh pair of eyes, and continuing to develop the depth of the artwork.
-
-Watch the timelapse of the painting being created:
-{{< reel url="https://www.instagram.com/p/C3mpPeQgORk/" account="Benjamin J. Young (@artistbenyoung)" >}}

@@ -29,6 +29,3 @@ The inspiration was from specifically one of Paul Cezanne's [Bather paintings](h
 ### Process ###
 
 This took an evening to work on. It was meant to go quick and be expressive, to get that enjoyment of impressionism and force myself away from perfectionism.
-
-Watch the timelapse of the painting being created:
-{{< reel url="https://www.instagram.com/p/C3lKtCjvEd5/" account="Benjamin J. Young (@artistbenyoung)" >}}

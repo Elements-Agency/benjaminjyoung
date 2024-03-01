@@ -30,6 +30,3 @@ This is a rare display on a low tide of Lake Erie, out of Lakewood Ohio. The pho
 ### Process ###
 
 This was a very labor intensive and detailed peice. Many stages of doing a layer, drying, and continuing on with the next step. I enjoyed the journey though and it's one of my favorite artworks.
-
-Watch the timelapse of the painting being created:
-{{< reel url="https://www.instagram.com/p/C3rgdrrA3oI/" account="Benjamin J. Young (@artistbenyoung)" >}}

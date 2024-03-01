@@ -34,6 +34,3 @@ The inspiration was simply because I do enjoy the peacefulness and tranquility o
 ### Process ###
 
 This took a few stages of adding layers, but it still only took a few days at most to include drying times.
-
-Watch the timelapse of the painting being created:
-{{< reel url="https://www.instagram.com/p/C3pK2JvOevm/" account="Benjamin J. Young (@artistbenyoung)" >}}
