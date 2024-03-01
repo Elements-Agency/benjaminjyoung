@@ -2523,23 +2523,23 @@ input, select, textarea {
 	}
 
 	::-webkit-input-placeholder {
-		color: #909498 !important;
+		color: #676d74 !important;
 	}
 
 	:-moz-placeholder {
-		color: #909498 !important;
+		color: #676d74 !important;
 	}
 
 	::-moz-placeholder {
-		color: #909498 !important;
+		color: #676d74 !important;
 	}
 
 	:-ms-input-placeholder {
-		color: #909498 !important;
+		color: #676d74 !important;
 	}
 
 	.formerize-placeholder {
-		color: #909498 !important;
+		color: #676d74 !important;
 	}
 
 /* Icon */
@@ -3947,7 +3947,7 @@ input, select, textarea {
 		display: -ms-flex;
 		display: flex;
 		background-color: #f5f5f5;
-		color: #909498;
+		color: #676d74;
 		cursor: default;
 		position: relative;
 		margin: 0 auto;
@@ -4603,7 +4603,7 @@ input, select, textarea {
 			transition: color 0.2s ease-in-out;
 			-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 			border: 0;
-			color: #909498;
+			color: #676d74;
 			cursor: pointer;
 			display: block;
 			height: 3.25rem;
