@@ -12,6 +12,9 @@
   {{ end }}
 {{ end }}
 
+<link rel="preload" fetchpriority="high" as="image"  href="{{ .Store.Get "logo" }}" type="image/webp">
+<link rel="preload" fetchpriority="high" as="image"  href="/images/background.webp" type="image/webp">
+
 {{ with partialCached "func/style/GetNoscriptCSS" "style/GetNoinsideCSS" }}
   <noscript>
     <link rel="stylesheet" href="{{ .RelPermalink }}" >

@@ -10,6 +10,11 @@
     <meta name="keywords" content="{{ with .Params.keywords }}{{ delimit (apply . "printf" "%s" ".") ", " }}{{ end }}{{ with .Params.tags }}{{ delimit (apply . "printf" "%s" ".") ", " }}{{ end }}{{if eq .Type "tags"}}art, artwork, paintings, category, tags, {{.Title}}{{end}}">
     <meta name="author" content="{{ with .Params.author | default .Site.Author.name }}{{ . }}{{ end }}">
     {{ hugo.Generator }}
+
+    {{ $logo := resources.GetMatch "images/logo.png" }}
+    {{ $logo := $logo.Fill "400x200 Center" }}
+    {{ $logo := $logo.Resize "400x webp q80" }}
+    {{ .Store.Set "logo" $logo.Permalink }}
     
     {{/* NOTE: For Production make sure you add `HUGO_ENV="production"` before your build command */}}
     {{ $production := eq (getenv "HUGO_ENV") "production" | or (eq site.Params.env "production") }}
