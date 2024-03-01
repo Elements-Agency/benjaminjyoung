@@ -862,7 +862,7 @@ input, select, textarea {
 		}
 
 		body.is-preload-1 #main {
-			opacity: 0;
+			opacity: 0.1;
 			right: -2em;
 		}
 
@@ -910,7 +910,7 @@ input, select, textarea {
 				body.fullscreen #main {
 					left: auto !important;
 					right: auto !important;
-					opacity: 0;
+					opacity: 0.1;
 				}
 
 				#main .toggle {
@@ -1264,11 +1264,11 @@ input, select, textarea {
 			}
 
 		body.is-preload-1 #viewer {
-			opacity: 0;
+			opacity: 0.1;
 		}
 
 		body.is-preload-2 #viewer .slide {
-			opacity: 0;
+			opacity: 0.1;
 		}
 
 		@media screen and (max-width: 1280px) {

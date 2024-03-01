@@ -1,9 +1,9 @@
 {{ $logo := resources.GetMatch "images/logo.png" }}
-{{ $logo := $logo.Fill "400x200 Center" }}
-{{ $logo := $logo.Resize "400x webp q85" }}
+{{ $logo := $logo.Fill "600x300 Center" }}
+{{ $logo := $logo.Resize "600x webp q85" }}
 
 <header id="header" style="vertical-align:bottom; height:auto; padding-bottom:0;">
     <a href="/" class="logo" style="border:0 none;">
-        <img src="{{ $logo.RelPermalink }}" width="400px" height="200px" style="margin:0 2em;" title="Contemporary {{ .Params.heading | default .Site.Title }}" alt="Paintings by {{ .Params.heading | default .Site.Title }}" nopin="nopin">
+        <img src="{{ $logo.RelPermalink }}" width="600px" height="300px" style="margin:0 2em;" title="Contemporary {{ .Params.heading | default .Site.Title }}" alt="Paintings by {{ .Params.heading | default .Site.Title }}" nopin="nopin">
     </a>
 </header>
