@@ -23,11 +23,11 @@ The **Citrus Study** painting features a [still life composition](https://mymode
 
 [Buy the Painting >](#purchase)
 
-## Inspiration ##
+### Inspiration ###
 
 This was done as a study to not only focus on lighting values, but my ability to blend water colors as well. Even with cheap paint used. The cheap paint may have resulted in extra work to keep fixing the condensed pigmented dried edges.
 
-## Process ##
+### Process ###
 
 The study took honestly a few weeks. It was a lot of applying one layer or blending, waiting for the painting to dry, and then continuing on with the next layer or step. This would have been honestly much easier using oil paint, but I did not have the supplies on hand at the time and took it as a challenge to do the blending in watercolor.
 

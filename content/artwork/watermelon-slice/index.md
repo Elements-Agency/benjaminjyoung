@@ -23,10 +23,10 @@ Juicy! A [fruity painting](https://artincontext.org/famous-fruit-paintings/) tha
 
 [Buy the Painting >](#purchase)
 
-## Inspiration ##
+### Inspiration ###
 
 The inspiration for this artwork was simply to test my new water color pencil set, and use brushtrokes of water to blend the pigment.
 
-## Process ##
+### Process ###
 
 Quick study that took just a few hours one evening.

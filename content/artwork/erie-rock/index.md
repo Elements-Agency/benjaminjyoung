@@ -23,11 +23,11 @@ This evocative painting captures a unique and striking rock formation located al
 
 [Buy the Painting >](#purchase)
 
-## Inspiration ##
+### Inspiration ###
 
 This is a rare display on a low tide of Lake Erie, out of Lakewood Ohio. The photos were [featured in the news](https://fox59.com/news/national-world/photos-show-rare-phenomenon-on-lake-erie/).
 
-## Process ##
+### Process ###
 
 This was a very labor intensive and detailed peice. Many stages of doing a layer, drying, and continuing on with the next step. I enjoyed the journey though and it's one of my favorite artworks.
 

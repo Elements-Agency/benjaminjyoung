@@ -22,10 +22,10 @@ This is a striking monochrome painting that captures a moment of fluid eleganc, 
 
 [Buy the Painting >](#purchase)
 
-## Inspiration ##
+### Inspiration ###
 
 I was curious to try a study of trying to make realistic looking water and glass, using the new water soluable penciles I had just bought.
 
-## Process ##
+### Process ###
 
 This only took about a hour to test and do, and was a test before continuing on to start [Drip](artwork/drip).

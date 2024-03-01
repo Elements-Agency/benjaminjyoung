@@ -27,11 +27,11 @@ The overall mood of the painting is one of solitude and silence, evoking a sense
 
 [Buy the Painting >](#purchase)
 
-## Inspiration ##
+### Inspiration ###
 
 The inspiration was simply because I do enjoy the peacefulness and tranquility of the snow. It was such a simple and minimimalistic idea and painting, but the outcome had a lot of depth.
 
-## Process ##
+### Process ###
 
 This took a few stages of adding layers, but it still only took a few days at most to include drying times.
 

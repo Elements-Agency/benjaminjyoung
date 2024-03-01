@@ -44,19 +44,23 @@
                 <div class="frame" style="border:#111 3vw solid; box-shadow:inset 0 0 30px rgba(0, 0, 0, 1);">
                   <div class="frame-inside" style="border:#000 4px inset; position:relative; z-index:-1;">
                     <div class="mat" style="background:#fff; border:#fff 6vw solid; line-height:0.5em;">
+                      <br class="clear" style="clear:both;">
+                      
                       <img class="canvas" src="{{ $full.RelPermalink }}" width="800" height="800" style="display:block; width:100%; height:auto;" alt="{{ .Params.alt }}" title='{{ .Title }} ({{ .Date| time.Format "2006" }}) by {{ .Site.Copyright }}'>
-                      <br>
-                      <div class="info" style="font-size:0.5em; width:100%; line-height:1.5em; padding:0 0.5em;">
-                        <div class="author" style="float:left; text-align:left;">
-                          <strong class="title" style="font-size:1.5em;">
+                      
+                      <br class="clear" style="clear:both;">
+
+                      <div class="info" style="font-size:0.5em; width:100%; line-height:1.5em;">
+                        <div class="author" style="float:left; text-align:left; width:50%; padding:0 0.5em;">
+                          <strong class="title" style="font-size:1.2em;">
                             {{ .Params.author | default .Site.Params.author }}
                           </strong>
                           <br>
                           American, 1990 - Current
                         </div>
 
-                        <div class="description" style="float:right; text-align:right;">
-                          <span class="title" style="font-size:1.5em;">
+                        <div class="description" style="float:right; text-align:right; width:50%; padding:0 0.5em;">
+                          <span class="title" style="font-size:1.2em;">
                             <strong>
                               {{ .Title }}
                             </strong>
@@ -70,6 +74,8 @@
                           {{ .Params.medium }} on {{ .Params.material }}
                         </div>
                       </div>
+
+                      <br class="clear" style="clear:both;">
                     </div>
                   </div>
                 </div>
@@ -81,17 +87,17 @@
                 {{ if or (.Params.original) (.Params.prints) (.Params.digital) }}
                   <div style="text-align:center;">
                     {{ if .Params.original }}
-                      <a href="{{ .Params.original }}" onclick="fbq('track', 'ViewContent');" class="button pricetag" style="margin:0.5em;">
+                      <a href="{{ .Params.original }}" onclick="fbq('track', 'ViewContent');" class="button" style="margin:0.5em; padding:0 1em;">
                         Purchase
                       </a>
                     {{ end }}
                     {{ if .Params.prints }}
-                      <a href="{{ .Params.prints }}" onclick="fbq('track', 'ViewContent');" class="button pricetag" style="margin:0.5em;">
+                      <a href="{{ .Params.prints }}" onclick="fbq('track', 'ViewContent');" class="button" style="margin:0.5em; padding:0 1em;">
                         Order Prints
                       </a>
                     {{ end }}
                     {{ if .Params.digital }}
-                      <a href="{{ .Params.digital }}" onclick="fbq('track', 'ViewContent');" class="button pricetag" style="margin:0.5em;">
+                      <a href="{{ .Params.digital }}" onclick="fbq('track', 'ViewContent');" class="button" style="margin:0.5em; padding:0 1em;">
                         Download
                       </a>
                     {{ end }}
@@ -100,7 +106,7 @@
               </div>
             </section>
 
-            <br><br>
+            <br>
 
             <article>
               <h2>About the {{ .Title }} Painting</h2>

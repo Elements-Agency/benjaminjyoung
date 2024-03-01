@@ -29,11 +29,11 @@ The overall effect is one of profound reflection, with the textured brushwork an
 
 [Buy the Painting >](#purchase)
 
-## Inspiration ##
+### Inspiration ###
 
 The inspiration came to me from seeing my reflection in the darkened and smugged glossy screen from Apple Macbook Pro.
 
-## Process ##
+### Process ###
 
 This took a few days of stepping away from the art, getting a fresh pair of eyes, and continuing to develop the depth of the artwork.
 

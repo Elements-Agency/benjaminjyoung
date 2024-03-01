@@ -22,10 +22,10 @@ The **AJ's Lily** drawing is a pencil drawing that captures the delicate beauty 
 
 [Buy the Painting >](#purchase)
 
-## Inspiration ##
+### Inspiration ###
 
 The flower is that of a white lily. It was the favorite flower of my late Fiancee. We had planned to utilized them in our wedding.
 
-## Process ##
+### Process ###
 
 The intial drawing only took one evening. However, it was weeks until I came back to it, to fill in some better shading for my realism and shadowing.

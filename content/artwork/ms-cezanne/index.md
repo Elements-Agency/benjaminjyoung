@@ -22,11 +22,11 @@ The painting titled "Ms. Cezanne" features a woman reclined in a state of repose
 
 [Buy the Painting >](#purchase)
 
-## Inspiration ##
+### Inspiration ###
 
 The inspiration was from specifically one of Paul Cezanne's [Bather paintings](https://collection.barnesfoundation.org/objects/4819/Bather-at-the-Seashore-(Baigneuse-au-bord-de-la-mer)).
 
-## Process ##
+### Process ###
 
 This took an evening to work on. It was meant to go quick and be expressive, to get that enjoyment of impressionism and force myself away from perfectionism.
 

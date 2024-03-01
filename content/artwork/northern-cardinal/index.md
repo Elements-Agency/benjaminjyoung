@@ -23,11 +23,11 @@ Nortern Cardinal is a colored pencil drawing of a [Northern Cardinal](https://ww
 
 [Buy the Painting >](#purchase)
 
-## Inspiration ##
+### Inspiration ###
 
 The inspiration came to me one morning, after watching a Cardinal eat some seed I had left out on my back patio.
 
-## Process ##
+### Process ###
 
 Anytime I do realism such as this, it's quite time intensive. This artwork took a few weeks of stages of coming back to it and doing a little progress at a time.
 

@@ -25,10 +25,10 @@ The painting lacks defined forms or figures, which is typical of abstract art, w
 
 [Buy the Painting >](#purchase)
 
-## Inspiration ##
+### Inspiration ###
 
 I wanted to test working with the watercolor paints before moving on to attempt [Dyzee](/artwork/dyzee).
 
-## Process ##
+### Process ###
 
 Quick and easy. Two or three stages of layers and steps. I beleive it only took two days, if that.

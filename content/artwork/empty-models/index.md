@@ -22,11 +22,11 @@ aliases: [/empty-models]
 
 [Buy the Painting >](#purchase)
 
-## Inspiration ##
+### Inspiration ###
 
 This was my first painting, and it only happened after I stumbled upon an old art lesson book with some included oil pastels. I wanted to test what I could still accomplish.
 
-## Process ##
+### Process ###
 
 The majority of the artwork was done in two evenings. But that was the build the basic shapes. From there it took a week of coming back to it and fixing details or filling in imperfections. The old pastels I had on hand did not make things easier.
 

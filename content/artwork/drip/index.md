@@ -22,10 +22,10 @@ The **Drip** painting captures the ephemeral beauty of a single water droplet im
 
 [Buy the Painting >](#purchase)
 
-## Inspiration ##
+### Inspiration ###
 
 I was curious to try a study of trying to make realistic looking water, using the new water soluable penciles I had just bought.
 
-## Process ##
+### Process ###
 
 I spent an evening the next morning, trying to focus on the right amount of values and blending, to give it the best realism for my skill-level.

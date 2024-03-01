@@ -23,10 +23,10 @@ The **Fissure** abstract watercolor painting presents a compelling visual metaph
 
 [Buy the Painting >](#purchase)
 
-## Inspiration ##
+### Inspiration ###
 
 I just wanted to do another abstract painting, based on the emotions I wanted to express.
 
-## Process ##
+### Process ###
 
 The painting was quick and dirty. Pretty simple. The expression only lasted a hour.
