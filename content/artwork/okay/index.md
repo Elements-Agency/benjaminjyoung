@@ -15,6 +15,7 @@ size:
 tags: [persons hand, human anatomy, drawing, graphite pencil, realism, figure art]
 featured: false
 digital: https://www.patreon.com/ArtistBenYoung/shop/okay-digital-download-143247
+digitalprice: $5
 aliases: [/okay]
 ---
 

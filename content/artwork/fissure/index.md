@@ -16,6 +16,7 @@ tags: [broad crack, watercolor paint, semiabstract, cracking abstract, running a
 featured: false
 prints: https://artistbenyoung.etsy.com/listing/1686908955/fissure-semi-abstract-art-watercolor
 digital: https://www.patreon.com/ArtistBenYoung/shop/fissure-digital-download-143240
+digitalprice: $5
 aliases: [/fissure]
 ---
 

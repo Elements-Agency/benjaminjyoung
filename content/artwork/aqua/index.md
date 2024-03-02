@@ -15,6 +15,7 @@ size: 12x9in
 tags: [water splash, liquid spill, wine glass, painting, water soluable pencil, realism, water art]
 featured: false
 digital: https://www.patreon.com/ArtistBenYoung/shop/aqua-digital-download-143231
+digitalprice: $5
 aliases: [/aqua]
 ---
 

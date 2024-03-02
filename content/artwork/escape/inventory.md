@@ -24,7 +24,7 @@ work:
 
 base price: $282
 shipping price: $100
-sale price: $664
+sale price: $670
 local price: $390
 
 commission: 

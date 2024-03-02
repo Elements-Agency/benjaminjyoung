@@ -15,6 +15,7 @@ size:
 tags: [wine bottle, pitcher jub, tablecloth, dining table, cloth backdrop, oil pastels, impressionism, still life art, artwork study, neutral tone]
 featured: true
 digital: https://www.patreon.com/user/shop/empty-models-digital-download-139632
+digitalprice: $5
 aliases: [/empty-models]
 ---
 

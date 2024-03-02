@@ -15,6 +15,7 @@ size: 9x12in (22.8x30.4cm)
 tags: [female body, woman, reclining pose, oil pastels, impressionism, figure art]
 featured: true
 digital: https://www.patreon.com/ArtistBenYoung/shop/ms-cezanne-digital-download-139657
+digitalprice: $5
 aliases: [/ms-cezanne, /artwork/nip-slip]
 ---
 

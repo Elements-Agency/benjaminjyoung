@@ -15,6 +15,7 @@ size:
 tags: [flower, white lily, drawing, graphite pencil, realism, floral art]
 featured: false
 digital: https://www.patreon.com/ArtistBenYoung/shop/ajs-lily-digital-download-143229
+digitalprice: $5
 aliases: [/ajs-lily]
 ---
 

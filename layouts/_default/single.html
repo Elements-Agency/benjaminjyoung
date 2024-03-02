@@ -148,7 +148,7 @@
               </div>
 
               {{- .Content -}}
-              
+
               <ul id="purchase" style="list-style:none; text-align:center;">
 
                 {{ with $original := .Resources.GetMatch "original.jpg" }}
@@ -156,13 +156,21 @@
                   <li style="display:inline-block; padding:1em; text-align:center;">
                     <h3>Original Painting</h3>
 
-                    <p>
+                    <p style="text-align:center;">
                       <a href="{{ $.Params.original }}" onclick="fbq('track', 'ViewContent');" data-position="center">
                         <img src="{{ $original.RelPermalink }}" width="250px" height="250px" loading="lazy" alt="Buy the original {{ $.Title }}" title="Original {{ $.Title }}">
                       </a>
-                    </p>
 
-                    <a href="{{ $.Params.original }}" class="button">Purchase on Saatachi</a>
+                      <br>
+
+                      {{ if $.Params.originalprice }}
+                        <strong>Price:</strong> <em>{{ $.Params.originalprice }}</em>
+                      {{ end }}
+
+                      <br>
+
+                      <a href="{{ $.Params.original }}" class="button">Purchase on Saatachi</a>
+                    </p>
                   </li>
                 {{ end }}
 
@@ -171,13 +179,21 @@
                   <li style="display:inline-block; padding:1em; text-align:center;">
                     <h3>Printed Copy</h3>
 
-                    <p>
+                    <p style="text-align:center;">
                       <a href="{{ $.Params.prints }}" onclick="fbq('track', 'ViewContent');" data-position="center">
                         <img src="{{ $print.RelPermalink }}" width="250px" height="250px" loading="lazy" alt="Buy a print of {{ $.Title }}" title="Print of {{ $.Title }}">
                       </a>
-                    </p>
 
-                    <a href="{{ $.Params.prints }}" class="button">Order on Etsy</a>
+                      <br>
+
+                      {{ if $.Params.printsprice }}
+                        <strong>Price:</strong> <em>{{ $.Params.printsprice }}</em>
+                      {{ end }}
+
+                      <br>
+
+                      <a href="{{ $.Params.prints }}" class="button">Order on Etsy</a>
+                    </p>
                   </li>
                 {{ end }}
 
@@ -187,13 +203,21 @@
                   <li style="display:inline-block; padding:1em; text-align:center;">
                     <h3>Digital Download</h3>
 
-                    <p>
+                    <p style="text-align:center;">
                       <a href="{{ .Params.digital }}" onclick="fbq('track', 'ViewContent');" data-position="center">
                         <img src="{{ $digital.RelPermalink }}" width="250px" height="250px" loading="lazy" alt="Digital Download for {{ .Title }}" title="Digital Download of {{ .Title }}">
                       </a>
-                    </p>
 
-                    <a href="{{ .Params.digital }}" class="button">Download on Patreon</a>
+                      <br>
+
+                      {{ if $.Params.digitalprice }}
+                        <strong>Price:</strong> <em>{{ $.Params.digitalprice }}</em>
+                      {{ end }}
+
+                      <br>
+
+                      <a href="{{ .Params.digital }}" class="button">Download on Patreon</a>
+                    </p>
                   </li>
                 {{ end }}
 

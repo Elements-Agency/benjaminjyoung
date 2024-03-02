@@ -34,21 +34,21 @@
         
                 {{ $n_posts := 120 }}
 
-                {{/*<h2>Originals</h2>
-                <p style="text-align:center;">Here is a list of originals still for sale, on <a href="https://www.saatchiart.com/artistbenyoung">Saatachi</a>.</p>
+                <h2>Originals</h2>
+                <p style="text-align:center;">Here is a list of originals you can purchase, on <a href="https://artistbenyoung.etsy.com">Saatachi</a>.</p>
 
                 <ul>
-                    {{ range first $n_posts $section }}
+                    {{ range $painting := first $n_posts $section }}
                         {{ with $original := .Resources.GetMatch "original.jpg" }}
-                            {{ $original := $original.Fill "200x200 q85" }}
+                            {{ $original := $original.Fill "200x200 Top q85" }}
                             <li style="display:inline-block; padding:1em; text-align:center;">
-                                <a href="{{ .Params.original }}" onclick="fbq('track', 'ViewContent');" data-position="center">
-                                    <img src="{{ $original.RelPermalink }}" width="200px" height="200px" loading="lazy" alt="Buy the original {{ .Title }}" title="Original {{ .Title }}">
+                                <a href="{{ $original.Params.original }}" onclick="fbq('track', 'ViewContent');" data-position="center">
+                                    <img src="{{ $original.RelPermalink }}" width="200px" height="200px" loading="lazy" alt="Purchase the original of {{ $painting.Title }}" title="Origina {{ $painting.Title }}">
                                 </a>
                             </li>
                         {{ end }}
                     {{ end }}
-                </ul>*/}}
+                </ul>
 
                 <h2>Prints</h2>
                 <p style="text-align:center;">Here is a list of prints you can order, on <a href="https://artistbenyoung.etsy.com">Etsy</a>.</p>

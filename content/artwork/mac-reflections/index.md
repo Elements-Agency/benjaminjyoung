@@ -16,6 +16,7 @@ tags: [facial hair, beard, self portrait art, oil pastels, impressionism, dark t
 featured: true
 prints: https://artistbenyoung.etsy.com/listing/1680323041/mac-reflections-self-portrait
 digital: https://www.patreon.com/ArtistBenYoung/shop/mac-reflections-digital-download-139666
+digitalprice: $5
 aliases: [/mac-reflections]
 ---
 

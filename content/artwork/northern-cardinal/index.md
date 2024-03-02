@@ -16,6 +16,7 @@ tags: [bird, northern red cardinal, drawing, watercolor pencils, realism, animal
 featured: true
 prints: https://artistbenyoung.etsy.com/listing/1669896136/northern-red-cardinal-bird-drawing-with
 digital: https://www.patreon.com/ArtistBenYoung/shop/northern-cardinal-139662
+digitalprice: $5
 aliases: [/northern-cardinal, /artwork/rage-fueled-bird]
 ---
 
