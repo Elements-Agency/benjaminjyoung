@@ -42,7 +42,7 @@
                         {{ with $original := .Resources.GetMatch "original.jpg" }}
                             {{ $original := $original.Fill "200x200 Top q85" }}
                             <li style="display:inline-block; padding:1em; text-align:center;">
-                                <a href="{{ $original.Params.original }}" onclick="fbq('track', 'ViewContent');" data-position="center">
+                                <a href="{{ $painting.Params.original }}" onclick="fbq('track', 'ViewContent');" data-position="center">
                                     <img src="{{ $original.RelPermalink }}" width="200px" height="200px" loading="lazy" alt="Purchase the original of {{ $painting.Title }}" title="Origina {{ $painting.Title }}">
                                 </a>
                             </li>
