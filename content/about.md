@@ -20,11 +20,17 @@ Despite the traditional roots of impressionism and realism, Young infuses his wo
 
 ## Frequently Asked Questions ##
 
+### Do you offer copy prints? ###
+Yes, I try to offer prints for everywhere artwork I create in order to allow much more affordable access to my work for more people to enjoy. The more people I can get to enjoy my art is my overall goal.
+
 ### Who do you use for framing your original paintings? ###
 <a href="http://cyruscustom.com">Cyrus Custom Framing &amp; Art Gallery</a>, in Canton Ohio. It's the quality work I want to resonate that comes with owning one of my original paintings.
 
 ### How long have you been painting? ###
-Just a few months. Have not done any art since I was a child in middle school.
+Just a few months. I have not done any art since I was a child in middle school.
 
 ### Do you do commissions? ###
-Yes, if I like the idea of what you want me to paint. I'm a strong beleiver of not doing it, if I won't enjoy it. The emotions go in to my work and show.
+Yes, if I like the idea of what you want me to paint. I'm a strong beleiver of not doing it, if I won't enjoy it. The emotions go in to my work and do show.
+
+### Will you sell me [insert painting] for less than listed? ###
+Yes. Only if you are local where you can pickup an original painting, where I don't have to pay for shipping or commission on my original curator site. This applies to orignals only. Copy prints, I will not neogiate, as the profit margin is already too slim with my production costs.

@@ -29,3 +29,6 @@ The inspiration was from specifically one of Paul Cezanne's [Bather paintings](h
 ### Process ###
 
 This took an evening to work on. It was meant to go quick and be expressive, to get that enjoyment of impressionism and force myself away from perfectionism.
+
+
+## Purchase ##

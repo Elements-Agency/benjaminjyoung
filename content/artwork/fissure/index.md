@@ -30,3 +30,6 @@ I just wanted to do another abstract painting, based on the emotions I wanted to
 ### Process ###
 
 The painting was quick and dirty. Pretty simple. The expression only lasted a hour.
+
+
+## Purchase ##

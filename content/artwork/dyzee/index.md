@@ -32,3 +32,6 @@ I simply wanted to try my hand at abstract painting. I chose a Daisy flower to d
 ### Process ###
 
 This took a few stages of painting a layer and waiting for dry time. So it took a few days.
+
+
+## Purchase ##

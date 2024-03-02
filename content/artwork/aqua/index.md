@@ -29,3 +29,6 @@ I was curious to try a study of trying to make realistic looking water and glass
 ### Process ###
 
 This only took about a hour to test and do, and was a test before continuing on to start [Drip](artwork/drip).
+
+
+## Purchase ##

@@ -25,3 +25,6 @@ The shading is subtle yet effective, providing a sense of depth and form to the 
 The background is minimalist, a textured grey that complements the graphite medium, ensuring that the hand is the focal point of the piece. The overall impression is one of a quiet moment captured on paper, with a tangible sense of the weight and presence of an okay hand sign.
 
 [Buy the Painting >](#purchase)
+
+
+## Purchase ##

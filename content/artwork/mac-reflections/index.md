@@ -36,3 +36,6 @@ The inspiration came to me from seeing my reflection in the darkened and smugged
 ### Process ###
 
 This took a few days of stepping away from the art, getting a fresh pair of eyes, and continuing to develop the depth of the artwork.
+
+
+## Purchase ##

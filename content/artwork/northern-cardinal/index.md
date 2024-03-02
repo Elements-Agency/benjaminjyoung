@@ -30,3 +30,6 @@ The inspiration came to me one morning, after watching a Cardinal eat some seed 
 ### Process ###
 
 Anytime I do realism such as this, it's quite time intensive. This artwork took a few weeks of stages of coming back to it and doing a little progress at a time.
+
+
+## Purchase ##

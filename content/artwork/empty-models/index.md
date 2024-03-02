@@ -29,3 +29,6 @@ This was my first painting, and it only happened after I stumbled upon an old ar
 ### Process ###
 
 The majority of the artwork was done in two evenings. But that was the build the basic shapes. From there it took a week of coming back to it and fixing details or filling in imperfections. The old pastels I had on hand did not make things easier.
+
+
+## Purchase ##

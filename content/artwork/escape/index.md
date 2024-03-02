@@ -32,6 +32,18 @@ The overall mood of the painting is one of solitude and silence, evoking a sense
 
 The inspiration was simply because I do enjoy the peacefulness and tranquility of the snow. It was such a simple and minimimalistic idea and painting, but the outcome had a lot of depth.
 
+I was inspired by my love of snowy landscapes, and wanted to somehow convey not only the tranquility of it's emptiness but the peaceful and meditative feeling I can achieve that comes with muting silence being in a snowfall in the middle of no-where. The rolling landscape painted is what I am familiar with in the Appalachian Plateaus of Ohio. Whenever I meditate, I use a memory of sitting alone on an empty forrest hill, while the snowflakes fall, dampening any noise and providing a special type of silence I can't describe in words. This painting is an extension of those feelings of calmness for me.
+
+The challenge I took on with this piece was to stay simple as possible. Very few elements were included, and all but one of those features muted, to leave an isolating effect of the lone hiker to convey his possible struggle trudging through the snowy field. The figure's form is based on my own black deep winter attire, but it's ultimately up to the interpretation of the viewer to define who and what that figure's journey is about. That way the emotions that can hopefully resonate from cotton paper to the viewer's mind, are more easily relatable.
+
+[Buy the Painting >](#purchase)
+
 ### Process ###
 
 This took a few stages of adding layers, but it still only took a few days at most to include drying times.
+
+The artwork is painted with watercolor paint on Baohong's cold press cotton watercolor paper block. I used mainly my Princeton Velvetouch long round brush, but occassasionaly my Princeton Aqua Elite set for certain softer features (e.g. the wash).
+
+## Purchase ##
+
+The original painting is custom framed by [Cyrus Custom Framing](http://cyruscustom.com/) with a black solid wood frame to frame the painting, along with a gray slate mat to make the bright white snow stand out.

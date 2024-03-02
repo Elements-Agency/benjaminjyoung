@@ -148,11 +148,8 @@
               </div>
 
               {{- .Content -}}
-
-              <br style="clear:both;">
-
-              <h2 id="purchase">Purchase the {{ .Title }} Painting</h2>
-              <ul style="list-style:none; text-align:center;">
+              
+              <ul id="purchase" style="list-style:none; text-align:center;">
 
                 {{ with $original := .Resources.GetMatch "original.jpg" }}
                   {{ $original := $original.Fill "250x250 Top q85" }}
