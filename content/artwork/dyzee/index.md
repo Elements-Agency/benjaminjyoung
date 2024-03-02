@@ -16,6 +16,7 @@ tags: [daisy flower, flower art, watercolor paint, semiabstract, floral abstract
 featured: false
 prints: https://artistbenyoung.etsy.com/listing/1671891210/daisy-semi-abstract-art-dyzee-watercolor
 digital: https://www.patreon.com/ArtistBenYoung/shop/dyzee-digital-download-139644
+printsprice: $39
 digitalprice: $5
 aliases: [/dyzee]
 ---

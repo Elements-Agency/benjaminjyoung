@@ -16,6 +16,7 @@ tags: [tree subject, forrestry, night time, twilight, dusk, watercolor paint, go
 featured: true
 prints: https://artistbenyoung.etsy.com/listing/1670341658/dark-twilight-tree-silhouette
 digital: https://www.patreon.com/ArtistBenYoung/shop/frys-tree-digital-download-139651
+printsprice: $99
 digitalprice: $5
 aliases: [/frys-tree]
 ---
