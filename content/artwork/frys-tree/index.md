@@ -34,7 +34,9 @@ There's a sense of tranquility and solitude in this scene, as the tree stands al
 
 ### Inspiration ###
 
-The tree it's self is the lone tree that stands around a hiking trail bend at [Fry Family Park](https://starkparks.com/parks/fry-family-park/), close to near my home.
+[{{< img src="reference.webp" width="250px" height="297px" class="floatright" alt="Fry Tree Reference Photo" title="Refernece Photo" >}}](reference.jpg)
+
+The tree it's self is the lone tree that stands around a hiking trail bend at [Fry Family Park](https://starkparks.com/parks/fry-family-park/), close to near my home. This is a trail and park I frequently hike and visit, as it's the closest Stark Park to my home, in East Sparta Ohio. The photo I took that served as a reference was when I was hiking on winter, and caught the sky's twilight as a background to the tree. Creating not only a spooky, but awinspiring effect. It was something I had to paint.
 
 ### Process ###
 

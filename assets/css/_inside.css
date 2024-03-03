@@ -4684,3 +4684,15 @@ input, select, textarea {
 		border-radius: 500px;
 		margin: -4em 0 2em 3em;
 	}
+
+	.clear {
+		clear: both;
+	}
+	.floatright {
+		float: right;
+		padding: 0 1em 2em 2em;
+	}
+	.floatleft {
+		float: left;
+		padding: 0 2em 2em 1em;
+	}
