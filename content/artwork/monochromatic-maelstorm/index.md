@@ -16,6 +16,7 @@ tags: [water swirl, water art, watercolor paint, semiabstract, water abstract, s
 featured: false
 prints: https://artistbenyoung.etsy.com/listing/1671903316/whirlpool-semi-abstract-art
 digital: https://www.patreon.com/ArtistBenYoung/shop/monochromatic-maelstorm-139678
+printsprice: $39
 digitalprice: $5
 aliases: [/monochromatic-maelstorm, /artwork/monochromatic-maelstrom, /artwork/mono-chromatic-maelstorm]
 ---
