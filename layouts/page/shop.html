@@ -20,6 +20,8 @@
 
             {{ .Content }}
 
+            <br>
+
             {{/* Define a section to pull recent posts from. For Hugo 0.20 this will default to the section with the most number of pages. */}}
             {{ $mainSections := .Site.Params.mainSections | default (slice "post") }}
         
@@ -34,8 +36,13 @@
         
                 {{ $n_posts := 120 }}
 
-                <h2>Originals</h2>
-                <p style="text-align:center;">Here is a list of originals you can purchase, on <a href="https://artistbenyoung.etsy.com">Saatachi</a>.</p>
+                <h2 id="originals">Originals</h2>
+                <p style="text-align:center;">
+                    Here is a list of originals you can purchase, on my <a href="https://artistbenyoung.etsy.com">Saatachi gallery</a>.
+                    They all come proffessionally framed to protect the artwork, fit the style, properly highlight the painting, and ready to hang.
+                    Framing is done by <a href="http://cyruscustom.com">Cyrus Custom Framing</a> in Canton, Ohio.
+                    If you are local to Canton Ohio, please <a href="/contact">contact me</a> to neogiate better prices, since I won't have to deal with costly shipping or commission fees.
+                </p>
 
                 <ul>
                     {{ range $painting := first $n_posts $section }}
@@ -44,14 +51,25 @@
                             <li style="display:inline-block; padding:1em; text-align:center;">
                                 <a href="{{ $painting.Params.original }}" onclick="fbq('track', 'ViewContent');" data-position="center">
                                     <img src="{{ $original.RelPermalink }}" width="200px" height="200px" loading="lazy" alt="Purchase the original of {{ $painting.Title }}" title="Origina {{ $painting.Title }}">
+                                    <br>
+                                    <strong>{{ $painting.Title }}</strong>
+                                    <br>
+                                    Original: <em>{{ $painting.Params.originalprice }}</em>
                                 </a>
                             </li>
                         {{ end }}
                     {{ end }}
                 </ul>
 
-                <h2>Prints</h2>
-                <p style="text-align:center;">Here is a list of prints you can order, on <a href="https://artistbenyoung.etsy.com">Etsy</a>.</p>
+                <br>
+
+                <h2 id="prints">Prints</h2>
+                <p style="text-align:center;">
+                    Here is a list of prints you can order, on my <a href="https://artistbenyoung.etsy.com">Etsy store</a>.
+                    Their prices vary in material print types and sizes.
+                    I mainly offer prints on canvas, poster, and metal. Usually with framing as an option.
+                    If you want a print on a different material, or a custom size, please <a href="/contact">contact me</a>.
+                </p>
 
                 <ul>
                     {{ range $painting := first $n_posts $section }}
@@ -60,11 +78,17 @@
                             <li style="display:inline-block; padding:1em; text-align:center;">
                                 <a href="{{ $painting.Params.prints }}" onclick="fbq('track', 'ViewContent');" data-position="center">
                                     <img src="{{ $print.RelPermalink }}" width="200px" height="200px" loading="lazy" alt="Buy a print of {{ $painting.Title }}" title="Print of {{ $painting.Title }}">
+                                    <br>
+                                    <strong>{{ $painting.Title }}</strong>
+                                    <br>
+                                    Prints: <em>{{ $painting.Params.printsprice }}</em>
                                 </a>
                             </li>
                         {{ end }}
                     {{ end }}
                 </ul>
+
+                <br>
 
                 {{/* <h2>Digital Downloads</h2>
                 <p style="text-align:center;">Here is a list of digital downloads, you can either buy or access with a subscription, on <a href="https://www.patreon.com/ArtistBenYoung/shop/">Patreon</a>.</p>

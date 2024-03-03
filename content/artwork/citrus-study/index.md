@@ -16,7 +16,7 @@ tags: [yellow lemon, green lime, citrus fruit, coffee cup, ceramnic mug, gouache
 featured: true
 prints: https://artistbenyoung.etsy.com/listing/1668772724/citrus-study-still-life
 digital: https://www.patreon.com/ArtistBenYoung/shop/citrus-study-digital-download-139671
-printsprice: $39
+printsprice: $39-$119
 digitalprice: $5
 aliases: [/citrus-study]
 ---

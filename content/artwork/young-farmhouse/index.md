@@ -16,7 +16,7 @@ tags: [farm house, brick home, child swing, walnut tree, countryside, architectu
 featured: true
 prints: https://artistbenyoung.etsy.com/listing/1682063641/young-farmhouse-landscape
 digital: https://www.patreon.com/ArtistBenYoung/shop/young-farmhouse-digital-download-139684
-printsprice: $39
+printsprice: $39-$119
 digitalprice: $5
 aliases: [/young-farmhouse, /artwork/young-farmhome]
 ---

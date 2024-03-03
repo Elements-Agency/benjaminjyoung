@@ -1,5 +1,5 @@
 ---
-title: Watermelon Slice (prev. Standing Watermelon)
+title: Watermelon Slice
 description: Watermelon Slice is a simple study, testing my newly purchased watercolor pencil set, while also incorporating brushstrokes of water.
 author: Benjamin J. Young
 date: 2023-12-27
@@ -16,7 +16,7 @@ tags: [watermelon slice, juicy melon, food, summer colors, colorful spalshes, bl
 featured: true
 prints: https://artistbenyoung.etsy.com/listing/1683213879/summer-watermelon-slice-canvas-painting
 digital: https://www.patreon.com/user/shop/standing-watermelon-digital-download-139622
-printsprice: $39
+printsprice: $39-$69
 digitalprice: $5
 aliases: [/watermelon-slice, /artwork/standing-watermelon]
 ---
