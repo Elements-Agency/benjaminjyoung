@@ -34,7 +34,7 @@ The painting has a feeling of tranquility and nostalgia, evoking memories of chi
 
 ### Inspiration ###
 
-[{{< img src="reference.webp" width="250px" height="188px" class="floatright" alt="Young Farmhouse Reference Photo" title="Refernece Photo" >}}](reference.jpg)
+{{< img src="reference.webp" width="250px" height="188px" class="floatright" gallery="progress" alt="Young Farmhouse Reference Photo" title="Refernece Photo" link="reference.jpg" >}}
 
 The subject and inspiration is that of my [family's 1875 brick farmhouse](https://piketownship.net/our-history/). It was a house I spent a large part of my childhook in, being babysat my by aunt. Even past that, it always stood next to my own home and the center focal point of the frontage to our family's 64 acers of land. The fields and forrest you see backset to the house were the woods I grew up in exploring in my childhoos.
 

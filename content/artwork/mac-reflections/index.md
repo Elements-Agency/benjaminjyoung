@@ -33,7 +33,7 @@ The overall effect is one of profound reflection, with the textured brushwork an
 
 ### Inspiration ###
 
-[{{< img src="reference.webp" width="250px" height="271px" class="floatright" alt="Mac Reflections Reference Photo" title="Refernece Photo" >}}](reference.jpg)
+{{< img src="reference.webp" width="250px" height="271px" class="floatright" gallery="progress" alt="Mac Reflections Reference Photo" title="Refernece Photo" link="reference.jpg" >}}
 
 The inspiration came to me from seeing my reflection in the darkened and smugged glossy screen from Apple Macbook Pro. I really like the depth and effect of how it looked, so it struck me to try to convey that same emotion to paper. My choice was to stay with what I enjoy best, impressionism. Broad strokes of oil pastels is what I decided on, after already recently completing [Ms. Cezanne](/artwork/ms-cezanne/).
 

@@ -29,7 +29,7 @@ This evocative painting captures a unique and striking rock formation located al
 
 ### Inspiration ###
 
-[{{< img src="reference.webp" width="250px" height="333px" class="floatright" alt="Erie Rock Reference Photo" title="Refernece Photo" >}}](reference.jpg)
+{{< img src="reference.webp" width="250px" height="333px" class="floatright" gallery="progress" alt="Erie Rock Reference Photo" title="Refernece Photo" link="reference.jpg" >}}
 
 This is a rare display on a low tide of Lake Erie, out of Lakewood Ohio. The photos were [featured in the news](https://fox59.com/news/national-world/photos-show-rare-phenomenon-on-lake-erie/). When the winds hit an unusual high speed that day, 60mph, it pushed the water back enough to expose this rock work island. The island stands guardian to the lakeside, almost similar to the Guardian statues that call Cleveland their home. This is an area I bicycle through frequently, and I am an adventure of the outdoors.
 

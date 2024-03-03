@@ -19,3 +19,15 @@
 {{ with resources.Get "js/inside.js" | resources.Minify }}
   <script src="{{ .RelPermalink }}"></script>
 {{ end }}
+{{ with resources.Get "js/venobox.js" | resources.Minify }}
+  <script src="{{ .RelPermalink }}"></script>
+
+  <script>
+    new VenoBox({
+      selector: '.preview',
+      numeration: true,
+      infinigall: true,
+      spinner: 'rotating-plane'
+    });
+  </script>
+{{ end }}
