@@ -13,22 +13,24 @@
         {{ end }}
     {{ end }}
 
-    <li style="display:inline-block;">
-        <a class="preview" data-autoplay="true" data-vbtype="iframe" data-gall="progress" href="{{ .Get "progress" }}">
-            {{ with $thumbnail := .Page.Resources.GetMatch "play.png" }}
-                {{ $thumbnail := $thumbnail.Fill "120x120 Center q85" }}
-                <img src="{{ $thumbnail.RelPermalink }}" width="120px" height="120px" loading="lazy" alt="Video progress of {{ $.Page.Title }}" title="Video progress of {{ $.Page.Title }}">
-                <br>
-                Video
-            {{ else }}
-
-                {{ with $thumbnail := .Page.Resources.GetMatch "painting.jpg" }}
+    {{if .Get "progress" }}
+        <li style="display:inline-block;">
+            <a class="preview" data-autoplay="true" data-vbtype="iframe" data-gall="progress" href="{{ .Get "progress" }}">
+                {{ with $thumbnail := .Page.Resources.GetMatch "play.png" }}
                     {{ $thumbnail := $thumbnail.Fill "120x120 Center q85" }}
                     <img src="{{ $thumbnail.RelPermalink }}" width="120px" height="120px" loading="lazy" alt="Video progress of {{ $.Page.Title }}" title="Video progress of {{ $.Page.Title }}">
                     <br>
                     Video
+                {{ else }}
+
+                    {{ with $thumbnail := .Page.Resources.GetMatch "painting.jpg" }}
+                        {{ $thumbnail := $thumbnail.Fill "120x120 Center q85" }}
+                        <img src="{{ $thumbnail.RelPermalink }}" width="120px" height="120px" loading="lazy" alt="Video progress of {{ $.Page.Title }}" title="Video progress of {{ $.Page.Title }}">
+                        <br>
+                        Video
+                    {{ end }}
                 {{ end }}
-            {{ end }}
-        </a>
-    </li>
+            </a>
+        </li>
+    {{ end }}
 </ul>
