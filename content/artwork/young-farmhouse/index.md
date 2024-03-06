@@ -9,7 +9,7 @@ videos: ['https://www.instagram.com/p/C3j7Q9FAkf6/']
 type: Painting
 medium: Watercolor
 material: Cold Press Pulp Paper
-category: Impressionism
+category: Hybrid Impressionism
 subject: Landscape
 size: 12x9in (30.4x22.8cm)
 tags: [farm house, brick home, child swing, walnut tree, countryside, architecture art, watercolor paint, hybrid impressionism, landscape art]
