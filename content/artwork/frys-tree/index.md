@@ -39,11 +39,15 @@ There's a sense of tranquility and solitude in this scene, as the tree stands al
 
 The tree it's self is the lone tree that stands around a hiking trail bend at [Fry Family Park](https://starkparks.com/parks/fry-family-park/), close to near my home. This is a trail and park I frequently hike and visit, as it's the closest Stark Park to my home, in East Sparta Ohio. The photo I took that served as a reference was when I was hiking on winter, and caught the sky's twilight as a background to the tree. Creating not only a spooky, but awinspiring effect. It was something I had to paint.
 
+[Buy the Painting >](#purchase)
+
 ### Process ###
 
 I painted this with [Crayola Educational Watercolor Paint](https://www.kqzyfj.com/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Fcrayola-educational-watercolor-pans-oval-set-of-8-mixing-colors-pan%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D00309-1109%26country%3Dus%26currency%3Dusd&cjsku=00309-1109) on [watercolor pad paper](https://www.anrdoezrs.net/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Fcanson-lettering-pad-watercolor%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D09634-1001%26country%3Dus%26currency%3Dusd&cjsku=09634-1001).
 
 This painting took way longer than I wanted it too. It took many layers to get the right color and value. I had to mix in gouche with the watercolors to sometimes get the opaque I desired. I began to tire of working on it, so the progress stretched out. By the time I decided for forcefully wrap it up, I felt my skills have drastically improved and the base of the painting did not meet my standards.
+
+[Buy the Painting >](#purchase)
 
 
 ## Purchase ##

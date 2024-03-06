@@ -39,11 +39,15 @@ The painting has a feeling of tranquility and nostalgia, evoking memories of chi
 
 The subject and inspiration is that of my [family's 1875 brick farmhouse](https://piketownship.net/our-history/). It was a house I spent a large part of my childhook in, being babysat my by aunt. Even past that, it always stood next to my own home and the center focal point of the frontage to our family's 64 acers of land. The fields and forrest you see backset to the house were the woods I grew up in exploring in my childhoos.
 
+[Buy the Painting >](#purchase)
+
 ### Process ###
 
 I painted this with [watercolor paint](https://www.anrdoezrs.net/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Froyal-langnickel-waterclor-paint-set-of-12%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D86329-1009%26country%3Dus%26currency%3Dusd&cjsku=86329-1009) on [watercolor pad paper](https://www.anrdoezrs.net/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Fcanson-lettering-pad-watercolor%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D09634-1001%26country%3Dus%26currency%3Dusd&cjsku=09634-1001).
 
 This artwork took forever to do. Similar to [Fry's Tree](/artwork/frys-tree), the progress stretched out and the skills had developed past of when I started. I had to force myself to complete this one.
+
+[Buy the Painting >](#purchase)
 
 
 ## Purchase ##

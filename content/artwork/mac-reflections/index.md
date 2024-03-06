@@ -49,5 +49,7 @@ This took a few days of stepping away from the art, getting a fresh pair of eyes
 
 The artwork is drawn on Construction paper I found in the grocery store for cheap, and utilizing the new set of Faber-Castell Oil Pastels I had just received.
 
+[Buy the Painting >](#purchase)
+
 
 ## Purchase ##

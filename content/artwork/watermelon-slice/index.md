@@ -29,11 +29,15 @@ Juicy! A [fruity painting](https://artincontext.org/famous-fruit-paintings/) tha
 
 The inspiration for this artwork was simply to test my new water color pencil set, and use brushtrokes of water to blend the pigment.
 
+[Buy the Painting >](#purchase)
+
 ### Process ###
 
 I drew this with [watercolor pencils](https://www.dpbolvw.net/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Ffaber-castell-albrecht-durer-watercolor-pencils-set-of-24%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D20567-0249%26country%3Dus%26currency%3Dusd&cjsku=20567-0249) on [watercolor pad paper](https://www.jdoqocy.com/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Ffaber-castell-watercolor-pad-9x-12-90-lb-15-sheets%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D10163-1001%26country%3Dus%26currency%3Dusd&cjsku=10163-1001). Then using a [Princeton Aqua Elite Round Brush](https://www.anrdoezrs.net/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Fprinceton-aqua-elite-series-4850-synthetic-brush-round-size-8-short-handle%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D05472-1008%26country%3Dus%26currency%3Dusd&cjsku=05472-1008) to then brush over the pigment.
 
 Quick study that took just a few hours one evening.
+
+[Buy the Painting >](#purchase)
 
 
 ## Purchase ##

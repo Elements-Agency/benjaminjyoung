@@ -45,6 +45,8 @@ The artwork is painted with [watercolor paint](https://www.anrdoezrs.net/click-1
 
 This was a very labor intensive and detailed peice. Many stages of doing a layer, drying, and continuing on with the next step. I enjoyed the journey though and it's one of my favorite artworks.
 
+[Buy the Painting >](#purchase)
+
 ## Purchase ##
 
 The original painting is custom framed by [Cyrus Custom Framing](http://cyruscustom.com/) with a lighter wood color frame to match some of the light color tones in the painting, so the rockwork can pop, along with an off-white mat to stay neutral.

@@ -29,11 +29,15 @@ The painting titled "Ms. Cezanne" features a woman reclined in a state of repose
 
 The inspiration was from specifically one of Paul Cezanne's [Bather paintings](https://collection.barnesfoundation.org/objects/4819/Bather-at-the-Seashore-(Baigneuse-au-bord-de-la-mer)).
 
+[Buy the Painting >](#purchase)
+
 ### Process ###
 
 I drew this with [Faber-Castell Goldfaber Studio Oil Pastels](https://www.jdoqocy.com/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Ffaber-castell-goldfaber-studio-oil-pastel-set-assorted-colors-set-of-24%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D21905-0249%26country%3Dus%26currency%3Dusd&cjsku=21905-0249) on [watercolor pad paper](https://www.anrdoezrs.net/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Fcanson-lettering-pad-watercolor%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D09634-1001%26country%3Dus%26currency%3Dusd&cjsku=09634-1001).
 
 This took an evening to work on. It was meant to go quick and be expressive, to get that enjoyment of impressionism and force myself away from perfectionism.
+
+[Buy the Painting >](#purchase)
 
 
 ## Purchase ##

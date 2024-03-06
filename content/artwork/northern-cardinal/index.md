@@ -31,11 +31,15 @@ Nortern Cardinal is a colored pencil drawing of a [Northern Cardinal](https://ww
 
 The inspiration came to me one morning, after watching a Cardinal eat some seed I had left out on my back patio.
 
+[Buy the Painting >](#purchase)
+
 ### Process ###
 
 I drew this with [watercolor pencils](https://www.dpbolvw.net/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Ffaber-castell-albrecht-durer-watercolor-pencils-set-of-24%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D20567-0249%26country%3Dus%26currency%3Dusd&cjsku=20567-0249) on [watercolor pad paper](https://www.jdoqocy.com/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Ffaber-castell-watercolor-pad-9x-12-90-lb-15-sheets%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D10163-1001%26country%3Dus%26currency%3Dusd&cjsku=10163-1001).
 
 Anytime I do realism such as this, it's quite time intensive. This artwork took a few weeks of stages of coming back to it and doing a little progress at a time.
+
+[Buy the Painting >](#purchase)
 
 
 ## Purchase ##

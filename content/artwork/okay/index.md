@@ -33,9 +33,13 @@ The background is minimalist, a textured grey that complements the graphite medi
 
 Hands are hard to draw, according to some people, so I took it as a challenge to draw a hand to hone my sketching skills. I drew my own right hand, but inversed, scar on the thumb included.
 
+[Buy the Painting >](#purchase)
+
 ### Process ###
 
 I used [graphite pencils](https://www.dpbolvw.net/click-101118595-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Ffaber-castell-9000-pencil-set-graphite-set-of-15%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D22206-0159%26country%3Dus%26currency%3Dusd&cjsku=22206-0159) on [printer paper](https://www.dpbolvw.net/click-101118595-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Fcraft-express-sublimation-printer-paper-4-x-9-12-pkg-of-110-sheets%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D02640-1000%26country%3Dus%26currency%3Dusd&cjsku=02640-1000), since that's all I had available at the time.
+
+[Buy the Painting >](#purchase)
 
 
 ## Purchase ##
