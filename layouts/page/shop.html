@@ -49,7 +49,7 @@
                         {{ with $original := .Resources.GetMatch "original.jpg" }}
                             {{ $original := $original.Fill "200x200 Top q85" }}
                             <li style="display:inline-block; padding:1em; text-align:center;">
-                                <a href="{{ $painting.Params.original }}" onclick="fbq('track', 'ViewContent');" data-position="center">
+                                <a href="{{ $painting.Params.original }}" onclick="fbq('track', 'AddToCart');" data-position="center">
                                     <img src="{{ $original.RelPermalink }}" width="200px" height="200px" loading="lazy" alt="Purchase the original of {{ $painting.Title }}" title="Origina {{ $painting.Title }}">
                                     <br>
                                     <strong>{{ $painting.Title }}</strong>
@@ -76,7 +76,7 @@
                         {{ with $print := .Resources.GetMatch "print.jpg" }}
                             {{ $print := $print.Fill "200x200 q85" }}
                             <li style="display:inline-block; padding:1em; text-align:center;">
-                                <a href="{{ $painting.Params.prints }}" onclick="fbq('track', 'ViewContent');" data-position="center">
+                                <a href="{{ $painting.Params.prints }}" onclick="fbq('track', 'AddToCart');" data-position="center">
                                     <img src="{{ $print.RelPermalink }}" width="200px" height="200px" loading="lazy" alt="Buy a print of {{ $painting.Title }}" title="Print of {{ $painting.Title }}">
                                     <br>
                                     <strong>{{ $painting.Title }}</strong>
@@ -98,7 +98,7 @@
                         {{ with $digital := .Resources.GetMatch "painting.jpg" }}
                             {{ $digital := $digital.Fill "200x200 q85" }}
                             <li style="display:inline-block; padding:1em; text-align:center;">
-                                <a href="{{ $painting.Params.digital }}" onclick="fbq('track', 'ViewContent');" data-position="center">
+                                <a href="{{ $painting.Params.digital }}" onclick="fbq('track', 'AddToCart');" data-position="center">
                                     <img src="{{ $digital.RelPermalink }}" width="200px" height="200px" loading="lazy" alt="Download a digital copy of {{ $painting.Title }}" title="Digital download of {{ $painting.Title }}">
                                     <br>
                                     <strong>{{ $painting.Title }}</strong>

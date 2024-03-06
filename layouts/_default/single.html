@@ -87,17 +87,17 @@
                 {{ if or (.Params.original) (.Params.prints) (.Params.digital) }}
                   <div style="text-align:center;">
                     {{ if .Params.original }}
-                      <a href="{{ .Params.original }}" onclick="fbq('track', 'ViewContent');" class="button" style="margin:0.5em; padding:0 1em;">
+                      <a href="{{ .Params.original }}" onclick="fbq('track', 'AddToCart');" class="button" style="margin:0.5em; padding:0 1em;">
                         Purchase
                       </a>
                     {{ end }}
                     {{ if .Params.prints }}
-                      <a href="{{ .Params.prints }}" onclick="fbq('track', 'ViewContent');" class="button" style="margin:0.5em; padding:0 1em;">
+                      <a href="{{ .Params.prints }}" onclick="fbq('track', 'AddToCart');" class="button" style="margin:0.5em; padding:0 1em;">
                         Order Prints
                       </a>
                     {{ end }}
                     {{ if .Params.digital }}
-                      <a href="{{ .Params.digital }}" onclick="fbq('track', 'ViewContent');" class="button" style="margin:0.5em; padding:0 1em;">
+                      <a href="{{ .Params.digital }}" onclick="fbq('track', 'AddToCart');" class="button" style="margin:0.5em; padding:0 1em;">
                         Download
                       </a>
                     {{ end }}
@@ -157,7 +157,7 @@
                     <h3>Original Painting</h3>
 
                     <p style="text-align:center;">
-                      <a href="{{ $.Params.original }}" onclick="fbq('track', 'ViewContent');" data-position="center">
+                      <a href="{{ $.Params.original }}" onclick="fbq('track', 'AddToCart');" data-position="center">
                         <img src="{{ $original.RelPermalink }}" width="250px" height="250px" loading="lazy" alt="Buy the original {{ $.Title }}" title="Original {{ $.Title }}">
                       </a>
 
@@ -180,7 +180,7 @@
                     <h3>Printed Copy</h3>
 
                     <p style="text-align:center;">
-                      <a href="{{ $.Params.prints }}" onclick="fbq('track', 'ViewContent');" data-position="center">
+                      <a href="{{ $.Params.prints }}" onclick="fbq('track', 'AddToCart');" data-position="center">
                         <img src="{{ $print.RelPermalink }}" width="250px" height="250px" loading="lazy" alt="Buy a print of {{ $.Title }}" title="Print of {{ $.Title }}">
                       </a>
 
@@ -204,7 +204,7 @@
                     <h3>Digital Download</h3>
 
                     <p style="text-align:center;">
-                      <a href="{{ .Params.digital }}" onclick="fbq('track', 'ViewContent');" data-position="center">
+                      <a href="{{ .Params.digital }}" onclick="fbq('track', 'AddToCart');" data-position="center">
                         <img src="{{ $digital.RelPermalink }}" width="250px" height="250px" loading="lazy" alt="Digital Download for {{ .Title }}" title="Digital Download of {{ .Title }}">
                       </a>
 
