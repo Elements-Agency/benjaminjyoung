@@ -13,9 +13,15 @@
 
     <li style="display:inline-block;">
         <a class="preview" data-autoplay="true" data-vbtype="iframe" data-gall="progress" href="{{ .Get "progress" }}">
-            {{ $thumbnail := .Page.Resources.GetMatch "play.png" }}
-            {{ $thumbnail := $thumbnail.Fill "120x120 Center q85" }}
-            <img src="{{ $thumbnail.RelPermalink }}" width="120px" height="120px" loading="lazy" alt="Video progress of {{ .Page.Title }}" title="Video progress of {{ .Page.Title }}">
+            {{ with $thumbnail := .Page.Resources.GetMatch "play.png" }}
+                {{ $thumbnail := $thumbnail.Fill "120x120 Center q85" }}
+                <img src="{{ $thumbnail.RelPermalink }}" width="120px" height="120px" loading="lazy" alt="Video progress of {{ $.Page.Title }}" title="Video progress of {{ $.Page.Title }}">
+            {{ else }}
+                {{ with $thumbnail := .Page.Resources.GetMatch "painting.jpg" }}
+                    {{ $thumbnail := $thumbnail.Fill "120x120 Center q85" }}
+                    <img src="{{ $thumbnail.RelPermalink }}" width="120px" height="120px" loading="lazy" alt="Video progress of {{ $.Page.Title }}" title="Video progress of {{ $.Page.Title }}">
+                {{ end }}
+            {{ end }}
         </a>
     </li>
 </ul>
