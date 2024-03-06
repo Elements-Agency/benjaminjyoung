@@ -43,9 +43,9 @@ The challenge I took on with this piece was to stay simple as possible. Very few
 
 ### Process ###
 
-This took a few stages of adding layers, but it still only took a few days at most to include drying times.
+The artwork is painted with [watercolor paint](https://www.anrdoezrs.net/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Froyal-langnickel-waterclor-paint-set-of-12%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D86329-1009%26country%3Dus%26currency%3Dusd&cjsku=86329-1009) on [cold press cotton watercolor paper block](https://www.kqzyfj.com/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Farches-watercolor-block-11-x-14-cold-press-20-sheets%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D10020-1004%26country%3Dus%26currency%3Dusd&cjsku=10020-1004). I used some white [gouache paint](https://www.jdoqocy.com/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Fholbein-acrylic-designer-gouache-set-of-12-12-ml-tubes%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D00811-1012%26country%3Dus%26currency%3Dusd&cjsku=00811-1012); for the ice, clouds, and the breaks in the waves. I used mainly my [Princeton Velvetouch](https://www.kqzyfj.com/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Fprinceton-velvetouch-series-3950-synthetic-brushes-blick-exclusive-set-of-4%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D06444-1049%26country%3Dus%26currency%3Dusd&cjsku=06444-1049) long round brush, but occassasionaly my [Princeton Aqua Elite set](https://www.anrdoezrs.net/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Fprinceton-aqua-elite-series-4850-synthetic-brushes-set-of-4%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D05468-1049%26country%3Dus%26currency%3Dusd&cjsku=05468-1049) for certain softer features (e.g. the wash).
 
-The artwork is painted with watercolor paint on Baohong's cold press cotton watercolor paper block. I used mainly my Princeton Velvetouch long round brush, but occassasionaly my Princeton Aqua Elite set for certain softer features (e.g. the wash).
+This took a few stages of adding layers, but it still only took a few days at most to include drying times.
 
 ## Purchase ##
 

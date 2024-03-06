@@ -31,6 +31,8 @@ This was my first painting, and it only happened after I stumbled upon an old ar
 
 ### Process ###
 
+I used [oil pastels](https://www.kqzyfj.com/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Ffaber-castell-goldfaber-studio-oil-pastel-set-assorted-colors-set-of-12%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D21905-0129%26country%3Dus%26currency%3Dusd&cjsku=21905-0129) on [pastel paper](https://www.anrdoezrs.net/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Fhandbook-paper-co-pastel-premier-sanded-pastel-boards-16-x-20-white-single-board%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D07067-1028%26country%3Dus%26currency%3Dusd&cjsku=07067-1028).
+
 The majority of the artwork was done in two evenings. But that was the build the basic shapes. From there it took a week of coming back to it and fixing details or filling in imperfections. The old pastels I had on hand did not make things easier.
 
 

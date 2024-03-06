@@ -31,6 +31,8 @@ The flower is that of a white lily. It was the favorite flower of my late Fiance
 
 ### Process ###
 
+I drew this flower with [graphite pencils](https://www.jdoqocy.com/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Ffaber-castell-9000-pencil-set-graphite-set-of-15%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D22206-0159%26country%3Dus%26currency%3Dusd&cjsku=22206-0159) on [watercolor pad paper](https://www.anrdoezrs.net/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Fcanson-lettering-pad-watercolor%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D09634-1001%26country%3Dus%26currency%3Dusd&cjsku=09634-1001).
+
 The intial drawing only took one evening. However, it was weeks until I came back to it, to fill in some better shading for my realism and shadowing.
 
 

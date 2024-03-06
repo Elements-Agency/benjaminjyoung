@@ -31,6 +31,8 @@ I just wanted to do another abstract painting, based on the emotions I wanted to
 
 ### Process ###
 
+I painted this with [watercolor paint](https://www.anrdoezrs.net/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Froyal-langnickel-waterclor-paint-set-of-12%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D86329-1009%26country%3Dus%26currency%3Dusd&cjsku=86329-1009) on [watercolor pad paper](https://www.anrdoezrs.net/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Fcanson-lettering-pad-watercolor%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D09634-1001%26country%3Dus%26currency%3Dusd&cjsku=09634-1001), using [Princeton Aqua Elite](https://www.anrdoezrs.net/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Fprinceton-aqua-elite-series-4850-synthetic-brushes-set-of-4%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D05468-1049%26country%3Dus%26currency%3Dusd&cjsku=05468-1049) and [Princeton Velvetouch](https://www.kqzyfj.com/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Fprinceton-velvetouch-series-3950-synthetic-brushes-blick-exclusive-set-of-4%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D06444-1049%26country%3Dus%26currency%3Dusd&cjsku=06444-1049) brushes.
+
 The painting was quick and dirty. Pretty simple. The expression only lasted a hour.
 
 

@@ -37,6 +37,8 @@ The overall effect is one of profound reflection, with the textured brushwork an
 
 {{< img src="reference.webp" width="250px" height="271px" class="floatright" gallery="progress" alt="Mac Reflections Reference Photo" title="Refernece Photo" link="reference.jpg" >}}
 
+I drew this with [Faber-Castell Goldfaber Studio Oil Pastels](https://www.jdoqocy.com/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Ffaber-castell-goldfaber-studio-oil-pastel-set-assorted-colors-set-of-24%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D21905-0249%26country%3Dus%26currency%3Dusd&cjsku=21905-0249) on [Art Street Construction Paper](https://www.kqzyfj.com/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Fart-street-construction-paper-pad-9-x-12-assorted-48-sheets%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D10386-1023%26country%3Dus%26currency%3Dusd&cjsku=10386-1023).
+
 The inspiration came to me from seeing my reflection in the darkened and smugged glossy screen from Apple Macbook Pro. I really like the depth and effect of how it looked, so it struck me to try to convey that same emotion to paper. My choice was to stay with what I enjoy best, impressionism. Broad strokes of oil pastels is what I decided on, after already recently completing [Ms. Cezanne](/artwork/ms-cezanne/).
 
 [Buy the Painting >](#purchase)
