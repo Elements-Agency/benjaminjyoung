@@ -90,21 +90,25 @@
 
                 <br>
 
-                {{/* <h2>Digital Downloads</h2>
+                <h2>Digital Downloads</h2>
                 <p style="text-align:center;">Here is a list of digital downloads, you can either buy or access with a subscription, on <a href="https://www.patreon.com/ArtistBenYoung/shop/">Patreon</a>.</p>
 
                 <ul>
-                    {{ range first $n_posts $section }}
+                    {{ range $painting := first $n_posts $section }}
                         {{ with $digital := .Resources.GetMatch "painting.jpg" }}
                             {{ $digital := $digital.Fill "200x200 q85" }}
                             <li style="display:inline-block; padding:1em; text-align:center;">
-                                <a href="{{ .Params.digital }}" onclick="fbq('track', 'ViewContent');" data-position="center">
-                                    <img src="{{ $digital.RelPermalink }}" width="200px" height="200px" loading="lazy" alt="Download the digital scan of {{ .Title }}" title="Download {{ .Title }}">
+                                <a href="{{ $painting.Params.digital }}" onclick="fbq('track', 'ViewContent');" data-position="center">
+                                    <img src="{{ $digital.RelPermalink }}" width="200px" height="200px" loading="lazy" alt="Download a digital copy of {{ $painting.Title }}" title="Digital download of {{ $painting.Title }}">
+                                    <br>
+                                    <strong>{{ $painting.Title }}</strong>
+                                    <br>
+                                    Download: <em>{{ $painting.Params.digitalprice }}</em>
                                 </a>
                             </li>
                         {{ end }}
                     {{ end }}
-                </ul>*/}}
+                </ul>
 
             {{ end }}
             
