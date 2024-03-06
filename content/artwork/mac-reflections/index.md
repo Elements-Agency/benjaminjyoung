@@ -5,7 +5,7 @@ author: Benjamin J. Young
 date: 2024-02-03
 alt: This oil pastel painting by Ben Young depicts a solemn, textured portrait of a man's face, emerging from a dark background with a rough, expressive brushwork that conveys a sense of introspection or melancholy.
 images: ['painting.jpg']
-videos: ['https://www.instagram.com/p/C3mpPeQgORk/']
+videos: [https://www.instagram.com/p/C3mpPeQgORk/, https://youtube.com/shorts/JNBpBdWcFR0]
 type: Painting
 medium: Oil Pastel
 material: Construction Paper
@@ -37,17 +37,17 @@ The overall effect is one of profound reflection, with the textured brushwork an
 
 {{< img src="reference.webp" width="250px" height="271px" class="floatright" gallery="progress" alt="Mac Reflections Reference Photo" title="Refernece Photo" link="reference.jpg" >}}
 
-I drew this with [Faber-Castell Goldfaber Studio Oil Pastels](https://www.jdoqocy.com/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Ffaber-castell-goldfaber-studio-oil-pastel-set-assorted-colors-set-of-24%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D21905-0249%26country%3Dus%26currency%3Dusd&cjsku=21905-0249) on [Art Street Construction Paper](https://www.kqzyfj.com/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Fart-street-construction-paper-pad-9-x-12-assorted-48-sheets%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D10386-1023%26country%3Dus%26currency%3Dusd&cjsku=10386-1023).
-
 The inspiration came to me from seeing my reflection in the darkened and smugged glossy screen from Apple Macbook Pro. I really like the depth and effect of how it looked, so it struck me to try to convey that same emotion to paper. My choice was to stay with what I enjoy best, impressionism. Broad strokes of oil pastels is what I decided on, after already recently completing [Ms. Cezanne](/artwork/ms-cezanne/).
 
 [Buy the Painting >](#purchase)
 
 ### Process ###
 
-This took a few days of stepping away from the art, getting a fresh pair of eyes, and continuing to develop the depth of the artwork.
+The artwork is drawn on [Art Street Construction Paper](https://www.kqzyfj.com/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Fart-street-construction-paper-pad-9-x-12-assorted-48-sheets%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D10386-1023%26country%3Dus%26currency%3Dusd&cjsku=10386-1023) I found in the grocery store for cheap, and utilizing the new set of [Faber-Castell Goldfaber Studio Oil Pastels](https://www.jdoqocy.com/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Ffaber-castell-goldfaber-studio-oil-pastel-set-assorted-colors-set-of-24%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D21905-0249%26country%3Dus%26currency%3Dusd&cjsku=21905-0249) I had just received.
 
-The artwork is drawn on Construction paper I found in the grocery store for cheap, and utilizing the new set of Faber-Castell Oil Pastels I had just received.
+{{< progress progress="https://www.youtube.com/embed/JNBpBdWcFR0" >}}
+
+This took a few days of stepping away from the art, getting a fresh pair of eyes, and continuing to develop the depth of the artwork.
 
 [Buy the Painting >](#purchase)
 
