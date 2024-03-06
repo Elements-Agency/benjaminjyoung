@@ -103,3 +103,6 @@ gzip = true
 pattern = "^.+\\.(png|jpg|gif|webp)$"
 cacheControl = "max-age=31536000, no-transform, public"
 gzip = false
+
+
+timeout = '120s'
