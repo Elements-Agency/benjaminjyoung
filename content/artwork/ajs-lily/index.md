@@ -15,7 +15,9 @@ size:
 tags: [flower, white lily, drawing, graphite pencil, realism, floral art]
 featured: false
 digital: https://www.patreon.com/ArtistBenYoung/shop/ajs-lily-digital-download-143229
+prints: https://artistbenyoung.etsy.com/listing/1691186177/lily-flower-pencil-drawing-poster-by
 digitalprice: $5
+printsprice: $29-48
 aliases: [/ajs-lily]
 ---
 
