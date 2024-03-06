@@ -1,0 +1,21 @@
+<ul style="list-style:none; text-align:center; margin-bottom:0;">
+    {{ with $files := .Page.Resources.Match "process/*.jpg" }}
+        {{ range $files }}
+            {{ $full := .Fit "800x800" }}
+            {{ $thumbnail := .Fill "120x120 Center q85" }}
+            <li style="display:inline-block;">
+                <a class="preview" href="{{ $full.RelPermalink }}" data-gall="progress">
+                    <img src="{{ $thumbnail.RelPermalink }}" width="120px" height="120px" loading="lazy" alt="Progress of {{ $.Page.Title }}" title="Progress of {{ $.Page.Title }}">
+                </a>
+            </li>
+        {{ end }}
+    {{ end }}
+
+    <li style="display:inline-block;">
+        <a class="preview" data-autoplay="true" data-vbtype="iframe" data-gall="progress" href="{{ .Get "progress" }}">
+            {{ $thumbnail := .Page.Resources.GetMatch "play.png" }}
+            {{ $thumbnail := $thumbnail.Fill "120x120 Center q85" }}
+            <img src="{{ $thumbnail.RelPermalink }}" width="120px" height="120px" loading="lazy" alt="Video progress of {{ .Page.Title }}" title="Video progress of {{ .Page.Title }}">
+        </a>
+    </li>
+</ul>
