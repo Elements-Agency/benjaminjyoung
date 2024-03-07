@@ -5,7 +5,7 @@
             {{ $thumbnail := $file.Fill "120x120 Center q85" }}
             <li style="display:inline-block;">
                 <a class="preview" href="{{ $full.RelPermalink }}" data-gall="progress">
-                    <img src="{{ $thumbnail.RelPermalink }}" width="120px" height="120px" loading="lazy" alt="Progress step {{ add $index 1 }} of {{ $.Page.Title }}" title="Progress step {{ add $index 1 }} of {{ $.Page.Title }}">
+                    <img src="{{ $thumbnail.RelPermalink }}" width="120px" height="120px" loading="lazy" alt="Progress step {{ add $index 1 }}" title="Progress step {{ add $index 1 }}">
                     <br>
                     Step {{ add $index 1 }}
                 </a>
@@ -18,14 +18,14 @@
             <a class="preview" data-autoplay="true" data-vbtype="iframe" data-gall="progress" href="{{ .Get "progress" }}">
                 {{ with $thumbnail := .Page.Resources.GetMatch "play.png" }}
                     {{ $thumbnail := $thumbnail.Fill "120x120 Center q85" }}
-                    <img src="{{ $thumbnail.RelPermalink }}" width="120px" height="120px" loading="lazy" alt="Video progress of {{ $.Page.Title }}" title="Video progress of {{ $.Page.Title }}">
+                    <img src="{{ $thumbnail.RelPermalink }}" width="120px" height="120px" loading="lazy" alt="Video progress timelapse" title="Progress Video Timelapse">
                     <br>
                     Video
                 {{ else }}
 
                     {{ with $thumbnail := .Page.Resources.GetMatch "painting.jpg" }}
                         {{ $thumbnail := $thumbnail.Fill "120x120 Center q85" }}
-                        <img src="{{ $thumbnail.RelPermalink }}" width="120px" height="120px" loading="lazy" alt="Video progress of {{ $.Page.Title }}" title="Video progress of {{ $.Page.Title }}">
+                        <img src="{{ $thumbnail.RelPermalink }}" width="120px" height="120px" loading="lazy" alt="Video progress timelapse" title="Progress Video Timelapse">
                         <br>
                         Video
                     {{ end }}
