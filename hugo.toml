@@ -105,4 +105,4 @@ cacheControl = "max-age=31536000, no-transform, public"
 gzip = false
 
 
-timeout = '120s'
+timeout = '600s'
