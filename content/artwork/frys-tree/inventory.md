@@ -13,7 +13,7 @@ materials:
  - paper: $12
  - paint: $2
  - brushes: $26
- - frame: $140
+ - frame: $120
  - total: $180
 
 work:
@@ -22,9 +22,10 @@ work:
  - total: $80
 
 base price: $260
-shipping price: $100
-sale price: $720
 local price: $290
+commmed price: $520
+shipping price: $65
+sale price: $585
 
 commission: 
 net: 

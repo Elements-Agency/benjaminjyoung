@@ -11,18 +11,24 @@ frame size:
 materials:
  - paper: $12
  - pencils: $20
- - frame: $140
- - total: $172
+ - frame: $120
+ - total: $152
 
 work:
  - rate: $20
- - hours: 8
- - total: $80
+ - hours: 80
+ - total: $160
 
 base price: $282
 shipping price: $100
 sale price: $590
 local price: $290
+
+base price: $320
+local price: $360
+commmed price: $640
+shipping price: $65
+sale price: $710
 
 commission: 
 net: 
