@@ -2,6 +2,7 @@ baseURL = 'https://benjaminjyoung.com/'
 languageCode = 'en-us'
 title = 'Artist Benjamin J. Young'
 copyright = 'Benjamin J. Young'
+timeout = '600'
 
 [params]
   commentoEnable = true
@@ -103,6 +104,3 @@ gzip = true
 pattern = "^.+\\.(png|jpg|gif|webp)$"
 cacheControl = "max-age=31536000, no-transform, public"
 gzip = false
-
-
-timeout = '600s'
