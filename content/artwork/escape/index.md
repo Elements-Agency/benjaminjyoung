@@ -23,7 +23,7 @@ digitalprice: $5
 aliases: [/escape]
 ---
 
-**Escape** is a painting that depicts a tranquil [winter scene](https://culturetourist.com/cultural-tourism/winter-in-art-20-most-beautiful-winter-themed-paintings/). A solitary figure is shown walking away from the viewer, journeying along a curved path that has been carved through the snow from what may have been a vehical. The figure is clad entirely in black, providing a stark contrast to the overwhelmingly white and gray/blue tones of the snowy landscape. To the right of the path, a line of fence posts gradually disappears into the distance, accentuating the depth of the scene and leading the eye towards a hazy background that suggests a forest or treeline shrouded in the mist of a cold winter day.
+**Escape** is a painting that depicts a tranquil winter scene. A solitary figure is shown walking away from the viewer, journeying along a curved path that has been carved through the snow from what may have been a vehical. The figure is clad entirely in black, providing a stark contrast to the overwhelmingly white and gray/blue tones of the snowy landscape. To the right of the path, a line of fence posts gradually disappears into the distance, accentuating the depth of the scene and leading the eye towards a hazy background that suggests a forest or treeline shrouded in the mist of a cold winter day.
 
 The sky is overcast, painted in soft grays and colbolts that blend seamlessly with the snowy ground, which is untouched except for the path. Footprints are visible in the snow, reinforcing the sense that the figure has journeyed alone. The painting's palette is quite restrained, dominated by whites and grays with just the black of the figure's clothing providing contrast.
 

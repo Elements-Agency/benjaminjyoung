@@ -29,7 +29,7 @@ Further back, the scene opens to a golden field, which could be a harvested crop
 
 The sky above is a pale blue, suggesting an overcast day, with the light not quite bright enough to cast strong shadows. I have included various details like the foliage at the base of the tree and the texture of the grass, which add depth and realism to the scene.
 
-The painting has a feeling of tranquility and nostalgia, evoking memories of childhood summers or quiet life in the countryside. The overall style combines elements of [realism with a touch of impressionism](https://study.com/academy/lesson/realism-impressionism-overview-differences-examples.html), seen in the way the grass and foliage are rendered with loose brushwork.
+The painting has a feeling of tranquility and nostalgia, evoking memories of childhood summers or quiet life in the countryside. The overall style combines elements of realism with a touch of impressionism, seen in the way the grass and foliage are rendered with loose brushwork.
 
 [Buy the Painting >](#purchase)
 

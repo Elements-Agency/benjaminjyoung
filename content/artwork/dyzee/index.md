@@ -21,7 +21,7 @@ digitalprice: $5
 aliases: [/dyzee]
 ---
 
-This **Dyzee** painting is an [abstract composition](https://www.artistsnetwork.com/art-inspiration/what-is-abstract-art/) dominated by fluid, dynamic strokes and splashes of paint. The color palette is primarily monochromatic, featuring different shades of blue and black, with a significant contrast provided by a central burst of olive or moss green. The expressive lines and shapes seem to swirl around this central point of color, creating a sense of movement that draws the eye inward. The splatters and spots of paint across the canvas add to the feeling of spontaneity and action, suggesting the artist worked quickly and with a degree of improvisation.
+This **Dyzee** painting is an abstract composition dominated by fluid, dynamic strokes and splashes of paint. The color palette is primarily monochromatic, featuring different shades of blue and black, with a significant contrast provided by a central burst of olive or moss green. The expressive lines and shapes seem to swirl around this central point of color, creating a sense of movement that draws the eye inward. The splatters and spots of paint across the canvas add to the feeling of spontaneity and action, suggesting the artist worked quickly and with a degree of improvisation.
 
 The use of watercolor or a similar medium is indicated by the translucency of the paint and the ways in which the colors blend and bleed into one another, creating soft edges and a sense of depth. The artwork could represent a natural force like a whirlwind or a close-up of organic matter like a plant or flower. It leaves much to the imagination, inviting the viewer to interpret the forms and movement within the painting in their own way.
 
