@@ -26,7 +26,7 @@ base price: $282
 local price: $340
 commmed price: $564
 shipping price: $65
-sale price: $530
+sale price: $630
 
 commission: 
 net: 

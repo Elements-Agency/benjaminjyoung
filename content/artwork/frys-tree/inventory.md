@@ -13,7 +13,7 @@ materials:
  - paper: $12
  - paint: $2
  - brushes: $26
- - frame: $120
+ - frame: $140
  - total: $180
 
 work:

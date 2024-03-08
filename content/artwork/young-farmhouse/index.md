@@ -14,6 +14,7 @@ subject: Landscape
 size: 12x9in (30.4x22.8cm)
 tags: [farm house, brick home, child swing, walnut tree, countryside, architecture art, watercolor paint, hybrid impressionism, landscape art]
 featured: true
+popularity: 5
 prints: https://artistbenyoung.etsy.com/listing/1682063641/young-farmhouse-landscape
 digital: https://www.patreon.com/ArtistBenYoung/shop/young-farmhouse-digital-download-139684
 printsprice: $39-$119

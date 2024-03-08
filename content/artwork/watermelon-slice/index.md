@@ -13,7 +13,7 @@ category: Impressionism
 subject: Still Life
 size: 
 tags: [watermelon slice, juicy melon, food, summer colors, colorful spalshes, black seeds, watercolor paint, hybrid impressionism, still life art]
-featured: true
+featured: false
 prints: https://artistbenyoung.etsy.com/listing/1683213879/summer-watermelon-slice-canvas-painting
 digital: https://www.patreon.com/user/shop/standing-watermelon-digital-download-139622
 printsprice: $39-$69

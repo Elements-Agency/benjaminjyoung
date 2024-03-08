@@ -31,7 +31,7 @@
         {{ $n_posts := $.Param "recent_posts_number" | default 120 }}
 
         {{/* Range through the first $n_posts items of the section where featured is true */}}
-        {{ range (where (first $n_posts $section) "Params.featured" true) }}
+        {{ range (sort (where $section "Params.featured" true) "Params.popularity" "asc") }}
           <article>
             {{ $full := .Resources.GetMatch "painting.jpg" }}
             {{ $full := $full.Fit "1600x1600 webp q85" }}
