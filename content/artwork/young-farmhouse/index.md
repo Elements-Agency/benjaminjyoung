@@ -5,7 +5,7 @@ author: Benjamin J. Young
 date: 2024-02-10
 alt: This painting by Ben Young captures a rustic rural scene with a prominent tree and swing in the foreground, and a brick house amidst green fields and trees in the background, evoking a tranquil, pastoral mood.
 images: ['painting.jpg']
-videos: ['https://www.instagram.com/p/C3j7Q9FAkf6/']
+videos: [https://www.instagram.com/p/C3j7Q9FAkf6/, https://youtu.be/WWJK-CMWE_Q]
 type: Painting
 medium: Watercolor
 material: Cold Press Pulp Paper
@@ -46,7 +46,7 @@ The subject and inspiration is that of my [family's 1875 brick farmhouse](https:
 
 I painted this with [watercolor paint](https://www.anrdoezrs.net/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Froyal-langnickel-waterclor-paint-set-of-12%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D86329-1009%26country%3Dus%26currency%3Dusd&cjsku=86329-1009) on [watercolor pad paper](https://www.anrdoezrs.net/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Fcanson-lettering-pad-watercolor%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D09634-1001%26country%3Dus%26currency%3Dusd&cjsku=09634-1001).
 
-{{< progress >}}
+{{< progress progress="https://www.youtube.com/embed/WWJK-CMWE_Q" >}}
 
 This artwork took forever to do. Similar to [Fry's Tree](/artwork/frys-tree), the progress stretched out and the skills had developed past of when I started. I had to force myself to complete this one.
 
