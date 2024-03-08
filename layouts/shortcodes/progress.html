@@ -16,18 +16,24 @@
     {{if .Get "progress" }}
         <li style="display:inline-block;">
             <a class="preview" data-autoplay="true" data-vbtype="iframe" data-gall="progress" href="{{ .Get "progress" }}">
-                {{ with $thumbnail := .Page.Resources.GetMatch "play.png" }}
-                    {{ $thumbnail := $thumbnail.Fill "120x120 Center q85" }}
-                    <img src="{{ $thumbnail.RelPermalink }}" width="120px" height="120px" loading="lazy" alt="Video progress timelapse" title="Progress Video Timelapse">
-                    <br>
-                    Video
+                {{ $overlay := "" }}
+                {{ $path := "images/play.png" }}
+                {{ with resources.Get $path }}
+                    {{ $overlay = .Fit "60x60 Center" }}
                 {{ else }}
+                    {{ errorf "Unable to get resource %q" $path }}
+                {{ end }}
 
-                    {{ with $thumbnail := .Page.Resources.GetMatch "painting.jpg" }}
-                        {{ $thumbnail := $thumbnail.Fill "120x120 Center q85" }}
-                        <img src="{{ $thumbnail.RelPermalink }}" width="120px" height="120px" loading="lazy" alt="Video progress timelapse" title="Progress Video Timelapse">
-                        <br>
-                        Video
+                {{ $filter := images.Overlay $overlay 30 30 }}
+                
+                {{ with $thumbnail := .Page.Resources.GetMatch "painting.jpg" }}
+                    {{ $thumbnail := $thumbnail.Fill "120x120 Center q85" }}
+                    {{ with $thumbnail }}
+                        {{ with . | images.Filter $filter }}
+                            <img src="{{ .RelPermalink }}" width="120px" height="120px" loading="lazy" alt="Video progress timelapse" title="Progress Video Timelapse">
+                            <br>
+                            Video
+                        {{ end }}
                     {{ end }}
                 {{ end }}
             </a>

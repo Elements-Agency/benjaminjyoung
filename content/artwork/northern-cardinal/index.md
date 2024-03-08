@@ -14,6 +14,7 @@ subject: Animal
 size: 9x12in (22.8x30.4cm)
 tags: [bird, northern red cardinal, drawing, watercolor pencils, realism, animal art]
 featured: true
+popularity: 1
 original: https://www.saatchiart.com/art/Drawing-Northern-Cadinal-Watercolor-Pencil-Drawing/2418035/11491525/view
 prints: https://artistbenyoung.etsy.com/listing/1669896136/northern-red-cardinal-bird-drawing-with
 digital: https://www.patreon.com/ArtistBenYoung/shop/northern-cardinal-139662
