@@ -17,15 +17,13 @@ materials:
  - total: $180
 
 work:
- - rate: $20
+ - rate: $15
  - hours: 6
- - total: $80
+ - total: $90
 
-base price: $260
+base price: $270
 local price: $290
-commmed price: $520
-shipping price: $65
-sale price: $585
+sale price: $540
 
 commission: 
 net: 

@@ -23,10 +23,8 @@ work:
  - total: $80
 
 base price: $282
-local price: $340
-commmed price: $564
-shipping price: $65
-sale price: $630
+local price: $290
+sale price: $570
 
 commission: 
 net: 
