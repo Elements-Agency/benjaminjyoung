@@ -17,7 +17,7 @@ featured: true
 popularity: 5
 prints: https://artistbenyoung.etsy.com/listing/1682063641/young-farmhouse-landscape
 digital: https://www.patreon.com/ArtistBenYoung/shop/young-farmhouse-digital-download-139684
-printsprice: $39-$119
+printsprice: $29+
 digitalprice: $5
 aliases: [/young-farmhouse, /artwork/young-farmhome]
 ---

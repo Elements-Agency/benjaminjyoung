@@ -17,7 +17,7 @@ featured: false
 digital: https://www.patreon.com/ArtistBenYoung/shop/okay-digital-download-143247
 prints: https://artistbenyoung.etsy.com/listing/1691184227/okay-hand-sign-drawing-poster-by-ohio
 digitalprice: $5
-printsprice: $29-48
+printsprice: $29+
 aliases: [/okay]
 ---
 

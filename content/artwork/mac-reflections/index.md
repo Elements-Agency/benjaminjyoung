@@ -19,7 +19,7 @@ original: https://www.saatchiart.com/art/Painting-Mac-Reflections-Oil-Pastel-Pai
 prints: https://artistbenyoung.etsy.com/listing/1680323041/mac-reflections-self-portrait
 digital: https://www.patreon.com/ArtistBenYoung/shop/mac-reflections-digital-download-139666
 originalprice: $430
-printsprice: $39-$119
+printsprice: $39+
 digitalprice: $5
 aliases: [/mac-reflections]
 ---

@@ -19,7 +19,7 @@ original: https://www.saatchiart.com/art/Drawing-Northern-Cadinal-Watercolor-Pen
 prints: https://artistbenyoung.etsy.com/listing/1669896136/northern-red-cardinal-bird-drawing-with
 digital: https://www.patreon.com/ArtistBenYoung/shop/northern-cardinal-139662
 originalprice: $545
-printsprice: $49-$69
+printsprice: $29+
 digitalprice: $5
 aliases: [/northern-cardinal, /artwork/rage-fueled-bird]
 ---

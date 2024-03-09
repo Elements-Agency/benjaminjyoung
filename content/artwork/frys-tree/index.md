@@ -19,7 +19,7 @@ original: https://www.saatchiart.com/art/Painting-Fry-s-Tree-Watercolor-Painting
 prints: https://artistbenyoung.etsy.com/listing/1670341658/dark-twilight-tree-silhouette
 digital: https://www.patreon.com/ArtistBenYoung/shop/frys-tree-digital-download-139651
 originalprice: $540
-printsprice: $39-99
+printsprice: $29+
 digitalprice: $5
 aliases: [/frys-tree]
 ---

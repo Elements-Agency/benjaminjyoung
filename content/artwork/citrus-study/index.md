@@ -17,7 +17,7 @@ featured: true
 popularity: 6
 prints: https://artistbenyoung.etsy.com/listing/1668772724/citrus-study-still-life
 digital: https://www.patreon.com/ArtistBenYoung/shop/citrus-study-digital-download-139671
-printsprice: $39-$119
+printsprice: $29+
 digitalprice: $5
 aliases: [/citrus-study]
 ---
