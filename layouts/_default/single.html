@@ -149,14 +149,14 @@
 
               {{- .Content -}}
 
-              <ul id="purchase" style="list-style:none; text-align:center;">
+              <ul id="purchase" style="list-style:none; text-align:center; margin-bottom:0;">
 
                 {{ with $original := .Resources.GetMatch "original.jpg" }}
                   {{ $original := $original.Fill "250x250 Top q85" }}
                   <li style="display:inline-block; padding:1em; text-align:center;">
                     <h3>Original Painting</h3>
 
-                    <p style="text-align:center;">
+                    <p style="text-align:center; margin-bottom:0">
                       <a href="{{ $.Params.original }}" onclick="fbq('track', 'AddToCart');" data-position="center">
                         <img src="{{ $original.RelPermalink }}" width="250px" height="250px" loading="lazy" alt="Buy the original {{ $.Title }}" title="Original {{ $.Title }}">
                       </a>
@@ -179,7 +179,7 @@
                   <li style="display:inline-block; padding:1em; text-align:center;">
                     <h3>Printed Copy</h3>
 
-                    <p style="text-align:center;">
+                    <p style="text-align:center; margin-bottom:0">
                       <a href="{{ $.Params.prints }}" onclick="fbq('track', 'AddToCart');" data-position="center">
                         <img src="{{ $print.RelPermalink }}" width="250px" height="250px" loading="lazy" alt="Buy a print of {{ $.Title }}" title="Print of {{ $.Title }}">
                       </a>
@@ -203,7 +203,7 @@
                   <li style="display:inline-block; padding:1em; text-align:center;">
                     <h3>Digital Download</h3>
 
-                    <p style="text-align:center;">
+                    <p style="text-align:center; margin-bottom:0;">
                       <a href="{{ .Params.digital }}" onclick="fbq('track', 'AddToCart');" data-position="center">
                         <img src="{{ $digital.RelPermalink }}" width="250px" height="250px" loading="lazy" alt="Digital Download for {{ .Title }}" title="Digital Download of {{ .Title }}">
                       </a>
@@ -222,6 +222,16 @@
                 {{ end }}
 
               </ul>
+
+              {{ with $original := .Resources.GetMatch "original.jpg" }}
+                <p style="text-align:center; margin-top:0;">
+                  Want <strong>better pricing</strong> for the original?
+                  If you're local to <em>North East Ohio</em>,
+                  <a href="/contact">contact me</a>.
+                </p>
+              {{ else }}
+                <br>
+              {{ end }}
 
               <strong>Tags:</strong>
               {{- partial "tags.html" . -}}
