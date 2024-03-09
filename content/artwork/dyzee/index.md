@@ -30,7 +30,7 @@ The use of watercolor or a similar medium is indicated by the translucency of th
 
 ### Inspiration ###
 
-I simply wanted to try my hand at abstract painting. I chose a Daisy flower to dirive the subject from, since my one grandmother was named Daisy. Plus, I of course do enjoy the vibrance of flowers.
+I simply wanted to try my hand at abstract painting. I chose a Daisy flower to derive the subject from, since my one grandmother was named Daisy. Plus, I of course do enjoy the vibrance of flowers.
 
 [Buy the Painting >](#purchase)
 

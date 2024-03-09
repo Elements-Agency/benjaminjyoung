@@ -12,7 +12,7 @@ material: Cold Press Cotton Paper
 category: Realism
 subject: Still Life
 size: 14.1x10.2in (36x26cm)
-tags: [yellow lemon, green lime, citrus fruit, coffee cup, ceramnic mug, gouache paint, watercolor paint, realism, still life art, vivid colors]
+tags: [yellow lemon, green lime, citrus fruit, coffee cup, ceramic mug, gouache paint, watercolor paint, realism, still life art, vivid colors]
 featured: true
 popularity: 6
 prints: https://artistbenyoung.etsy.com/listing/1668772724/citrus-study-still-life
@@ -46,7 +46,7 @@ The study took honestly a few weeks. It was a lot of applying one layer or blend
 
 {{< img class="benpro" width="200px" height="200px" src="/images/ben-small.webp" alt="Photo of Benjamin J. Young" title="Ben Young" >}}
 
-Ben Young grew up in childhood with an amazing artistic talent, which sadly was dropped in pre-teenage years. Now he's back trying to refresh those skills in to his artwork, 18 years later. Studies such as these are helping him refine those skillsets, especially as he's still trying to find his own style of visual arts.
+Ben Young grew up in childhood with an amazing artistic talent, which sadly was dropped in pre-teenage years. Now he's back trying to refresh those skills in to his artwork, 18 years later. Studies such as these are helping him refine those skill sets, especially as he's still trying to find his own style of visual arts.
 
 [Read More About Ben >](/about)
 

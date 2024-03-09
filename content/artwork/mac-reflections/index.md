@@ -36,9 +36,9 @@ The overall effect is one of profound reflection, with the textured brushwork an
 
 ### Inspiration ###
 
-{{< img src="reference.webp" width="250px" height="271px" class="floatright" gallery="progress" alt="Mac Reflections Reference Photo" title="Refernece Photo" link="reference.jpg" >}}
+{{< img src="reference.webp" width="250px" height="271px" class="floatright" gallery="progress" alt="Mac Reflections Reference Photo" title="Reference Photo" link="reference.jpg" >}}
 
-The inspiration came to me from seeing my reflection in the darkened and smugged glossy screen from Apple Macbook Pro. I really like the depth and effect of how it looked, so it struck me to try to convey that same emotion to paper. My choice was to stay with what I enjoy best, impressionism. Broad strokes of oil pastels is what I decided on, after already recently completing [Ms. Cezanne](/artwork/ms-cezanne/).
+The inspiration came to me from seeing my reflection in the darkened and smudged glossy screen from Apple MacBook Pro. I really like the depth and effect of how it looked, so it struck me to try to convey that same emotion to paper. My choice was to stay with what I enjoy best, impressionism. Broad strokes of oil pastels is what I decided on, after already recently completing [Ms. Cezanne](/artwork/ms-cezanne/).
 
 [Buy the Painting >](#purchase)
 
@@ -56,7 +56,7 @@ This took a few days of stepping away from the art, getting a fresh pair of eyes
 
 {{< img class="benpro" width="200px" height="200px" src="/images/ben-small.webp" alt="Photo of Benjamin J. Young" title="Ben Young" >}}
 
-Ben Young in childhood, with his artistic talents, started to home in on impressionism as his prefered methodology. It's been some time since he's used those artistic skills, but this artwork is one of many where those talents are starting to bubble back to the service as Ben ventures back in to visual arts.
+Ben Young in childhood, with his artistic talents, started to home in on impressionism as his preferred methodology. It's been some time since he's used those artistic skills, but this artwork is one of many where those talents are starting to bubble back to the service as Ben ventures back in to visual arts.
 
 [Read More About Ben >](/about)
 

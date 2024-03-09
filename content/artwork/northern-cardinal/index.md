@@ -24,7 +24,7 @@ digitalprice: $5
 aliases: [/northern-cardinal, /artwork/rage-fueled-bird]
 ---
 
-Nortern Cardinal is a colored pencil drawing of a Northern Cardinal perched on a branch. The bird is depicted with a vibrant red plumage, which is characteristic of the male of the species. Its beak is orange-yellow, and the facial mask is black, extending from the beak around the eyes. The drawing captures the distinct crest of the cardinal, which is a pointy tuft of feathers on top of its head. The branch is rendered with a muted gray tone, contrasting with the bright red of the bird. The background is a soft, textured gray, allowing the cardinal to stand out prominently. The pencil strokes have created a sense of softness and detail, particularly in the feathers and the blending of colors.
+Northern Cardinal is a colored pencil drawing of a Northern Cardinal perched on a branch. The bird is depicted with a vibrant red plumage, which is characteristic of the male of the species. Its beak is orange-yellow, and the facial mask is black, extending from the beak around the eyes. The drawing captures the distinct crest of the cardinal, which is a pointy tuft of feathers on top of its head. The branch is rendered with a muted gray tone, contrasting with the bright red of the bird. The background is a soft, textured gray, allowing the cardinal to stand out prominently. The pencil strokes have created a sense of softness and detail, particularly in the feathers and the blending of colors.
 
 [Buy the Painting >](#purchase)
 
@@ -50,7 +50,7 @@ Anytime I do realism such as this, it's quite time intensive. This artwork took 
 
 {{< img class="benpro" width="200px" height="200px" src="/images/ben-small.webp" alt="Photo of Benjamin J. Young" title="Ben Young" >}}
 
-Ben Young, both an animal lover and an outdoorsman, frequently sees Cardinal birds in Ohio almost daily. Living in the countryside, they're always visiting his feeders. It's only natural with his artist talents, he would eventually capture one's beauty and vibrancy.
+Ben Young, both an animal lover and an outdoors man, frequently sees Cardinal birds in Ohio almost daily. Living in the countryside, they're always visiting his feeders. It's only natural with his artist talents, he would eventually capture one's beauty and vibrancy.
 
 [Read More About Ben >](/about)
 

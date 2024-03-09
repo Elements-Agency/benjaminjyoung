@@ -7,12 +7,12 @@ alt: The painting presents a grayscale watercolor painting of a water droplet cr
 images: ['painting.jpg']
 videos: []
 type: Painting
-medium: Water Soluable Graphite
+medium: Water Soluble Graphite
 material: Cold Press Pulp Paper
 category: Realism
 subject: Water
 size: 12x9in
-tags: [water droplet, liquid ripples, painting, water soluable pencil, realism, water art]
+tags: [water droplet, liquid ripples, painting, water soluble pencil, realism, water art]
 featured: false
 digital: https://www.patreon.com/ArtistBenYoung/shop/drip-digital-download-143232
 digitalprice: $5
@@ -25,7 +25,7 @@ The **Drip** painting captures the ephemeral beauty of a single water droplet im
 
 ### Inspiration ###
 
-I was curious to try a study of trying to make realistic looking water, using the new water soluable penciles I had just bought.
+I was curious to try a study of trying to make realistic looking water, using the new water soluble pencils I had just bought.
 
 [Buy the Painting >](#purchase)
 

@@ -36,9 +36,9 @@ The painting has a feeling of tranquility and nostalgia, evoking memories of chi
 
 ### Inspiration ###
 
-{{< img src="reference.webp" width="250px" height="188px" class="floatright" gallery="progress" alt="Young Farmhouse Reference Photo" title="Refernece Photo" link="reference.jpg" >}}
+{{< img src="reference.webp" width="250px" height="188px" class="floatright" gallery="progress" alt="Young Farmhouse Reference Photo" title="Reference Photo" link="reference.jpg" >}}
 
-The subject and inspiration is that of my [family's 1875 brick farmhouse](https://piketownship.net/our-history/). It was a house I spent a large part of my childhook in, being babysat my by aunt. Even past that, it always stood next to my own home and the center focal point of the frontage to our family's 64 acers of land. The fields and forrest you see backset to the house were the woods I grew up in exploring in my childhoos.
+The subject and inspiration is that of my [family's 1875 brick farmhouse](https://piketownship.net/our-history/). It was a house I spent a large part of my childhood in, being babysat my by aunt. Even past that, it always stood next to my own home and the center focal point of the frontage to our family's 64 acres of land. The fields and forrest you see backset to the house were the woods I grew up in exploring in my childhood.
 
 [Buy the Painting >](#purchase)
 
@@ -56,7 +56,7 @@ This artwork took forever to do. Similar to [Fry's Tree](/artwork/frys-tree), th
 
 {{< img class="benpro" width="200px" height="200px" src="/images/ben-small.webp" alt="Photo of Benjamin J. Young" title="Ben Young" >}}
 
-Ben Young grew up in East Sparta Ohio. His family were the first settlers to the area, back in 1800. His heritage is deeply rooted with the history of the area. Being an artist, it's captures in times like this painting that give Ben's artwork a sense of narritive and story. The paintings have way more to say than what the viewer can visually see, but that's ultimately left by Ben in his artwork for the viewers to interprut with their own experiences.
+Ben Young grew up in East Sparta Ohio. His family were the first settlers to the area, back in 1800. His heritage is deeply rooted with the history of the area. Being an artist, it's captures in times like this painting that give Ben's artwork a sense of narrative and story. The paintings have way more to say than what the viewer can visually see, but that's ultimately left by Ben in his artwork for the viewers to interpret with their own experiences.
 
 [Read More About Ben >](/about)
 

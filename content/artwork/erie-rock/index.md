@@ -30,7 +30,7 @@ This evocative painting captures a unique and striking rock formation located al
 
 ### Inspiration ###
 
-{{< img src="reference.webp" width="250px" height="333px" class="floatright" gallery="progress" alt="Erie Rock Reference Photo" title="Refernece Photo" link="reference.jpg" >}}
+{{< img src="reference.webp" width="250px" height="333px" class="floatright" gallery="progress" alt="Erie Rock Reference Photo" title="Reference Photo" link="reference.jpg" >}}
 
 This is a rare display on a low tide of Lake Erie, out of Lakewood Ohio. The photos were [featured in the news](https://fox59.com/news/national-world/photos-show-rare-phenomenon-on-lake-erie/). When the winds hit an unusual high speed that day, 60mph, it pushed the water back enough to expose this rock work island. The island stands guardian to the lakeside, almost similar to the Guardian statues that call Cleveland their home. This is an area I bicycle through frequently, and I am an adventure of the outdoors.
 
@@ -40,11 +40,11 @@ My style generally focuses on impressionism, with certain elements shifting to r
 
 ### Process ###
 
-The artwork is painted with [watercolor paint](https://www.anrdoezrs.net/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Froyal-langnickel-waterclor-paint-set-of-12%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D86329-1009%26country%3Dus%26currency%3Dusd&cjsku=86329-1009) on [cold press cotton watercolor paper block](https://www.kqzyfj.com/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Farches-watercolor-block-11-x-14-cold-press-20-sheets%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D10020-1004%26country%3Dus%26currency%3Dusd&cjsku=10020-1004). I used some white [gouache paint](https://www.jdoqocy.com/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Fholbein-acrylic-designer-gouache-set-of-12-12-ml-tubes%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D00811-1012%26country%3Dus%26currency%3Dusd&cjsku=00811-1012); for the ice, clouds, and the breaks in the waves. I used mainly my [Princeton Velvetouch](https://www.kqzyfj.com/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Fprinceton-velvetouch-series-3950-synthetic-brushes-blick-exclusive-set-of-4%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D06444-1049%26country%3Dus%26currency%3Dusd&cjsku=06444-1049) long round brush, but occassasionaly my [Princeton Aqua Elite set](https://www.anrdoezrs.net/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Fprinceton-aqua-elite-series-4850-synthetic-brushes-set-of-4%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D05468-1049%26country%3Dus%26currency%3Dusd&cjsku=05468-1049) for certain softer features (e.g. the wash).
+The artwork is painted with [watercolor paint](https://www.anrdoezrs.net/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Froyal-langnickel-waterclor-paint-set-of-12%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D86329-1009%26country%3Dus%26currency%3Dusd&cjsku=86329-1009) on [cold press cotton watercolor paper block](https://www.kqzyfj.com/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Farches-watercolor-block-11-x-14-cold-press-20-sheets%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D10020-1004%26country%3Dus%26currency%3Dusd&cjsku=10020-1004). I used some white [gouache paint](https://www.jdoqocy.com/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Fholbein-acrylic-designer-gouache-set-of-12-12-ml-tubes%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D00811-1012%26country%3Dus%26currency%3Dusd&cjsku=00811-1012); for the ice, clouds, and the breaks in the waves. I used mainly my [Princeton Velvetouch](https://www.kqzyfj.com/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Fprinceton-velvetouch-series-3950-synthetic-brushes-blick-exclusive-set-of-4%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D06444-1049%26country%3Dus%26currency%3Dusd&cjsku=06444-1049) long round brush, but occasionally my [Princeton Aqua Elite set](https://www.anrdoezrs.net/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Fprinceton-aqua-elite-series-4850-synthetic-brushes-set-of-4%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D05468-1049%26country%3Dus%26currency%3Dusd&cjsku=05468-1049) for certain softer features (e.g. the wash).
 
 {{< progress progress="https://www.youtube.com/embed/XCMouswfCm4" >}}
 
-This was a very labor intensive and detailed peice. Many stages of doing a layer, drying, and continuing on with the next step. I enjoyed the journey though and it's one of my favorite artworks.
+This was a very labor intensive and detailed piece. Many stages of doing a layer, drying, and continuing on with the next step. I enjoyed the journey though and it's one of my favorite artworks.
 
 [Buy the Painting >](#purchase)
 
@@ -52,10 +52,10 @@ This was a very labor intensive and detailed peice. Many stages of doing a layer
 
 {{< img class="benpro" width="200px" height="200px" src="/images/ben-small.webp" alt="Photo of Benjamin J. Young" title="Ben Young" >}}
 
-Ben Young, a North East Ohio resident, freqently bicycles along the shorelines of Lake Erie and around Cleveland. He's cycled across the entire span of Ohio (300+ miles) on several occasions. This painting partly brings his passion for both cycling and watercolor painting together. The Erie Rock is a sight he's seen in person on a windy day headed from Cleveland to Sandusky. His love of nature is captured in this artwork. For him, this art brings a sense of home and exploration.
+Ben Young, a North East Ohio resident, frequently bicycles along the shorelines of Lake Erie and around Cleveland. He's cycled across the entire span of Ohio (300+ miles) on several occasions. This painting partly brings his passion for both cycling and watercolor painting together. The Erie Rock is a sight he's seen in person on a windy day headed from Cleveland to Sandusky. His love of nature is captured in this artwork. For him, this art brings a sense of home and exploration.
 
 [Read More About Ben >](/about)
 
 ## Purchase ##
 
-The original painting is custom framed by [Cyrus Custom Framing](http://cyruscustom.com/) with a lighter wood color frame to match some of the light color tones in the painting, so the rockwork can pop, along with an off-white mat to stay neutral.
+The original painting is custom framed by [Cyrus Custom Framing](http://cyruscustom.com/) with a lighter wood color frame to match some of the light color tones in the painting, so the rockworks can pop, along with an off-white mat to stay neutral.

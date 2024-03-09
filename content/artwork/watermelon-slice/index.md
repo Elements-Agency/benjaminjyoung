@@ -12,7 +12,7 @@ material: Cold Press Pulp Paper
 category: Impressionism
 subject: Still Life
 size: 
-tags: [watermelon slice, juicy melon, food, summer colors, colorful spalshes, black seeds, watercolor paint, hybrid impressionism, still life art]
+tags: [watermelon slice, juicy melon, food, summer colors, colorful splashes, black seeds, watercolor paint, hybrid impressionism, still life art]
 featured: false
 prints: https://artistbenyoung.etsy.com/listing/1683213879/summer-watermelon-slice-canvas-painting
 digital: https://www.patreon.com/user/shop/standing-watermelon-digital-download-139622
@@ -27,7 +27,7 @@ Juicy! A fruity painting that depicts a slice of watermelon. Watermelon Slice is
 
 ### Inspiration ###
 
-The inspiration for this artwork was simply to test my new water color pencil set, and use brushtrokes of water to blend the pigment.
+The inspiration for this artwork was simply to test my new water color pencil set, and use brushstrokes of water to blend the pigment.
 
 [Buy the Painting >](#purchase)
 

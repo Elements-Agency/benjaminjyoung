@@ -31,7 +31,7 @@ The background is minimalist, a textured grey that complements the graphite medi
 
 ### Inspiration ###
 
-Hands are hard to draw, according to some people, so I took it as a challenge to draw a hand to hone my sketching skills. I drew my own right hand, but inversed, scar on the thumb included.
+Hands are hard to draw, according to some people, so I took it as a challenge to draw a hand to hone my sketching skills. I drew my own right hand, but mirrored; scar on the thumb included.
 
 [Buy the Painting >](#purchase)
 

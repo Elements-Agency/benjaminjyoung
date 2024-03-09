@@ -12,7 +12,7 @@ material: Cold Press Pulp Paper
 category: Impressionism
 subject: Landscape
 size: 9x12in (22.8x30.4cm)
-tags: [tree subject, forrestry, night time, twilight, dusk, watercolor paint, gouache paint, hybrid impressionism, landscape art, ohio park]
+tags: [tree subject, forestry, night time, twilight, dusk, watercolor paint, gouache paint, hybrid impressionism, landscape art, ohio park]
 featured: true
 popularity: 2
 original: https://www.saatchiart.com/art/Painting-Fry-s-Tree-Watercolor-Painting/2418035/11491453/view
@@ -36,9 +36,9 @@ There's a sense of tranquility and solitude in this scene, as the tree stands al
 
 ### Inspiration ###
 
-{{< img src="reference.webp" width="250px" height="297px" class="floatright" gallery="progress" alt="Fry Tree Reference Photo" title="Refernece Photo" link="reference.jpg" >}}
+{{< img src="reference.webp" width="250px" height="297px" class="floatright" gallery="progress" alt="Fry Tree Reference Photo" title="Reference Photo" link="reference.jpg" >}}
 
-The tree it's self is the lone tree that stands around a hiking trail bend at [Fry Family Park](https://starkparks.com/parks/fry-family-park/), close to near my home. This is a trail and park I frequently hike and visit, as it's the closest Stark Park to my home, in East Sparta Ohio. The photo I took that served as a reference was when I was hiking on winter, and caught the sky's twilight as a background to the tree. Creating not only a spooky, but awinspiring effect. It was something I had to paint.
+The tree it's self is the lone tree that stands around a hiking trail bend at [Fry Family Park](https://starkparks.com/parks/fry-family-park/), close to near my home. This is a trail and park I frequently hike and visit, as it's the closest Stark Park to my home, in East Sparta Ohio. The photo I took that served as a reference was when I was hiking on winter, and caught the sky's twilight as a background to the tree. Creating not only a spooky, but awe-inspiring effect. It was something I had to paint.
 
 [Buy the Painting >](#purchase)
 
@@ -48,7 +48,7 @@ I painted this with [Crayola Educational Watercolor Paint](https://www.kqzyfj.co
 
 {{< progress progress="https://www.youtube.com/embed/Pcuv_QkT7Qo" >}}
 
-This painting took way longer than I wanted it too. It took many layers to get the right color and value. I had to mix in gouche with the watercolors to sometimes get the opaque I desired. I began to tire of working on it, so the progress stretched out. By the time I decided for forcefully wrap it up, I felt my skills have drastically improved and the base of the painting did not meet my standards.
+This painting took way longer than I wanted it too. It took many layers to get the right color and value. I had to mix in gouache with the watercolors to sometimes get the opaque I desired. I began to tire of working on it, so the progress stretched out. By the time I decided for forcefully wrap it up, I felt my skills have drastically improved and the base of the painting did not meet my standards.
 
 [Buy the Painting >](#purchase)
 
@@ -56,7 +56,7 @@ This painting took way longer than I wanted it too. It took many layers to get t
 
 {{< img class="benpro" width="200px" height="200px" src="/images/ben-small.webp" alt="Photo of Benjamin J. Young" title="Ben Young" >}}
 
-Ben Young both an avid painter and an outdoors hiker, combined his two loves in this painting. With his darker toned and muted style of painting, this artpiece highlights those color palette preferences. No stranger to impressionism, as Ben's artistic skills become defined again, his style is narrowing down to be impressionism but swaying to impressionism on the focal points, to give a sense of depth and narrative.
+Ben Young both an avid painter and an outdoors hiker, combined his two loves in this painting. With his darker toned and muted style of painting, this art piece highlights those color palette preferences. No stranger to impressionism, as Ben's artistic skills become defined again, his style is narrowing down to be impressionism but swaying to impressionism on the focal points, to give a sense of depth and narrative.
 
 [Read More About Ben >](/about)
 
