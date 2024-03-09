@@ -42,5 +42,13 @@ The study took honestly a few weeks. It was a lot of applying one layer or blend
 
 [Buy the Painting >](#purchase)
 
+## About the Artist ##
+
+{{< img class="benpro" width="200px" height="200px" src="/images/ben-small.webp" alt="Photo of Benjamin J. Young" title="Ben Young" >}}
+
+Ben Young grew up in childhood with an amazing artistic talent, which sadly was dropped in pre-teenage years. Now he's back trying to refresh those skills in to his artwork, 18 years later. Studies such as these are helping him refine those skillsets, especially as he's still trying to find his own style of visual arts.
+
+[Read More About Ben >](/about)
+
 
 ## Purchase ##

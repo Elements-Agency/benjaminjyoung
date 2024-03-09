@@ -52,5 +52,12 @@ This painting took way longer than I wanted it too. It took many layers to get t
 
 [Buy the Painting >](#purchase)
 
+## About the Artist ##
+
+{{< img class="benpro" width="200px" height="200px" src="/images/ben-small.webp" alt="Photo of Benjamin J. Young" title="Ben Young" >}}
+
+Ben Young both an avid painter and an outdoors hiker, combined his two loves in this painting. With his darker toned and muted style of painting, this artpiece highlights those color palette preferences. No stranger to impressionism, as Ben's artistic skills become defined again, his style is narrowing down to be impressionism but swaying to impressionism on the focal points, to give a sense of depth and narrative.
+
+[Read More About Ben >](/about)
 
 ## Purchase ##

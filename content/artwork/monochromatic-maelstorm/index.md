@@ -41,5 +41,12 @@ Quick and easy. Two or three stages of layers and steps. I beleive it only took 
 
 [Buy the Painting >](#purchase)
 
+## About the Artist ##
+
+{{< img class="benpro" width="200px" height="200px" src="/images/ben-small.webp" alt="Photo of Benjamin J. Young" title="Ben Young" >}}
+
+Ben Young is a visual artist, from Canton Ohio. While normally he focuses on landscape paintings, he does appreciate abstract artwork. Especially to decorate his own interior decor with. So from time to time, Ben will paint abstract artworks just as both practice and a sense of enjoyment and expression.
+
+[Read More About Ben >](/about)
 
 ## Purchase ##

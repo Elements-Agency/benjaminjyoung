@@ -52,5 +52,12 @@ This took a few days of stepping away from the art, getting a fresh pair of eyes
 
 [Buy the Painting >](#purchase)
 
+## About the Artist ##
+
+{{< img class="benpro" width="200px" height="200px" src="/images/ben-small.webp" alt="Photo of Benjamin J. Young" title="Ben Young" >}}
+
+Ben Young in childhood, with his artistic talents, started to home in on impressionism as his prefered methodology. It's been some time since he's used those artistic skills, but this artwork is one of many where those talents are starting to bubble back to the service as Ben ventures back in to visual arts.
+
+[Read More About Ben >](/about)
 
 ## Purchase ##

@@ -39,5 +39,12 @@ The intial drawing only took one evening. However, it was weeks until I came bac
 
 [Buy the Painting >](#purchase)
 
+## About the Artist ##
+
+{{< img class="benpro" width="200px" height="200px" src="/images/ben-small.webp" alt="Photo of Benjamin J. Young" title="Ben Young" >}}
+
+Ben Young is a visual artist, from Canton Ohio. One of Ben's most repeated subjects are Lily flowers. Especially white lilies. They hold both value in Ben's memories and have have symbolism in their narritive. There's also a sense of acknowledgement to Claude Monet's love of water lilies, as Ben studied deeply for his own works in his childhood art career. Not only that, but one of Monet's waterlily paintings is intergal to one of Ben's most fondest memories of his life. The lilies link both to Monet and the one who shared that moment in time with Ben.
+
+[Read More About Ben >](/about)
 
 ## Purchase ##

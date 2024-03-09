@@ -52,5 +52,12 @@ This artwork took forever to do. Similar to [Fry's Tree](/artwork/frys-tree), th
 
 [Buy the Painting >](#purchase)
 
+## About the Artist ##
+
+{{< img class="benpro" width="200px" height="200px" src="/images/ben-small.webp" alt="Photo of Benjamin J. Young" title="Ben Young" >}}
+
+Ben Young grew up in East Sparta Ohio. His family were the first settlers to the area, back in 1800. His heritage is deeply rooted with the history of the area. Being an artist, it's captures in times like this painting that give Ben's artwork a sense of narritive and story. The paintings have way more to say than what the viewer can visually see, but that's ultimately left by Ben in his artwork for the viewers to interprut with their own experiences.
+
+[Read More About Ben >](/about)
 
 ## Purchase ##

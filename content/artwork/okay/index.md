@@ -41,5 +41,12 @@ I used [graphite pencils](https://www.dpbolvw.net/click-101118595-13717235?url=h
 
 [Buy the Painting >](#purchase)
 
+## About the Artist ##
+
+{{< img class="benpro" width="200px" height="200px" src="/images/ben-small.webp" alt="Photo of Benjamin J. Young" title="Ben Young" >}}
+
+After an 18 year hiatus of art, Ben Young is back doing what he once enjoyed. As he hones his skills back to where they used to be in childhood, he's being sure to practice methodically and frequently. Watch Ben's journey to revisit an old love of painting, and his skills develope back to the prodigy he used to be.
+
+[Read More About Ben >](/about)
 
 ## Purchase ##

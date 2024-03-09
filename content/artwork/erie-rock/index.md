@@ -48,6 +48,14 @@ This was a very labor intensive and detailed peice. Many stages of doing a layer
 
 [Buy the Painting >](#purchase)
 
+## About the Artist ##
+
+{{< img class="benpro" width="200px" height="200px" src="/images/ben-small.webp" alt="Photo of Benjamin J. Young" title="Ben Young" >}}
+
+Ben Young, a North East Ohio resident, freqently bicycles along the shorelines of Lake Erie and around Cleveland. He's cycled across the entire span of Ohio (300+ miles) on several occasions. This painting partly brings his passion for both cycling and watercolor painting together. The Erie Rock is a sight he's seen in person on a windy day headed from Cleveland to Sandusky. His love of nature is captured in this artwork. For him, this art brings a sense of home and exploration.
+
+[Read More About Ben >](/about)
+
 ## Purchase ##
 
 The original painting is custom framed by [Cyrus Custom Framing](http://cyruscustom.com/) with a lighter wood color frame to match some of the light color tones in the painting, so the rockwork can pop, along with an off-white mat to stay neutral.
