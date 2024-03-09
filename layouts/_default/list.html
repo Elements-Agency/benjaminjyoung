@@ -66,11 +66,24 @@
 
             <section>
               {{ range .Paginator.Pages }}
-                <div class="relative w-100 w-30-l mb4 bg-white">
+                <div>
                   {{ .Render "summary" }}
                 </div>
                 <hr>
               {{ end }}
+              
+              <div>
+                <div id="ms-ad-1961497798"></div> 
+                <script> 
+                  window.msAdsQueue.push(() => { 
+                    window.pubCenterSdk.render({ 
+                      adUnitId: "1961497798", 
+                      elementId: "ms-ad-1961497798" 
+                    }); 
+                  }); 
+                </script>
+              </div>
+              <hr>
             </section>
             <section style="text-align: center;">
               {{- template "_internal/pagination.html" . -}}
