@@ -34,6 +34,8 @@ The overall mood of the painting is one of solitude and silence, evoking a sense
 
 ### Inspiration ###
 
+{{< img src="reference.webp" width="250px" height="443px" class="floatright" gallery="progress" alt="Escape Reference Photo" title="One of many of Ohio winter landscapes" link="reference.jpg" >}}
+
 The inspiration was simply because I do enjoy the peacefulness and tranquility of the snow. It was such a simple and minimimalistic idea and painting, but the outcome had a lot of depth.
 
 I was inspired by my love of snowy landscapes, and wanted to somehow convey not only the tranquility of it's emptiness but the peaceful and meditative feeling I can achieve that comes with muting silence being in a snowfall in the middle of no-where. The rolling landscape painted is what I am familiar with in the Appalachian Plateaus of Ohio. Whenever I meditate, I use a memory of sitting alone on an empty forrest hill, while the snowflakes fall, dampening any noise and providing a special type of silence I can't describe in words. This painting is an extension of those feelings of calmness for me.
@@ -51,6 +53,14 @@ The artwork is painted with [watercolor paint](https://www.anrdoezrs.net/click-1
 This took a few stages of adding layers, but it still only took a few days at most to include drying times.
 
 [Buy the Painting >](#purchase)
+
+## About the Artist ##
+
+{{< img class="benpro" width="200px" height="200px" src="/images/ben-small.webp" alt="Photo of Benjamin J. Young" title="Ben Young" >}}
+
+Ben Young, no stranger to winter weather, is an avid outdoorsman. You can frequently find Ben hiking through the country and the middle of no-where. Including trudging through the snow filled winter landscapes of Ohio. To him, those moments bring serenity, which he has tried his best to resonate in painting this watercolor landscape artwork.
+
+[Read More About Ben >](/about)
 
 ## Purchase ##
 

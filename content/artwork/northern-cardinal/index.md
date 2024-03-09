@@ -30,7 +30,9 @@ Nortern Cardinal is a colored pencil drawing of a Northern Cardinal perched on a
 
 ### Inspiration ###
 
-The inspiration came to me one morning, after watching a Cardinal eat some seed I had left out on my back patio.
+{{< img src="reference.webp" width="250px" height="259px" class="floatright" gallery="progress" alt="Photo of a Northern Male Red Cardinal" title="A Northern Male Cardinal" link="reference.jpg" >}}
+
+The inspiration came to me one morning, after watching a Cardinal eat some seed I had left out on my back patio. I'm not a fan of birds, but males like these are certainly beautiful, but very hostile and territorial. Their color especially vibrant contrasted against the snowy winter setting. The Northern Cardinal is also Ohio's state bird, which is where I was born and grew up at. Even the [local school where I currently reside](https://www.sandyvalleylocal.org), has a Cardinal Mascot.
 
 [Buy the Painting >](#purchase)
 
@@ -43,6 +45,14 @@ I drew this with [watercolor pencils](https://www.dpbolvw.net/click-101118598-13
 Anytime I do realism such as this, it's quite time intensive. This artwork took a few weeks of stages of coming back to it and doing a little progress at a time.
 
 [Buy the Painting >](#purchase)
+
+## About the Artist ##
+
+{{< img class="benpro" width="200px" height="200px" src="/images/ben-small.webp" alt="Photo of Benjamin J. Young" title="Ben Young" >}}
+
+Ben Young, both an animal lover and an outdoorsman, frequently sees Cardinal birds in Ohio almost daily. Living in the countryside, they're always visiting his feeders. It's only natural with his artist talents, he would eventually capture one's beauty and vibrancy.
+
+[Read More About Ben >](/about)
 
 
 ## Purchase ##
