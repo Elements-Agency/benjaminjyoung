@@ -2,6 +2,7 @@ baseURL = 'https://benjaminjyoung.com/'
 languageCode = 'en-us'
 title = 'Artist Benjamin J. Young'
 copyright = 'Benjamin J. Young'
+enableRobotsTXT = true
 timeout = '600'
 
 [params]
