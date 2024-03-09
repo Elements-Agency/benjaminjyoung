@@ -23,11 +23,19 @@
   <script src="{{ .RelPermalink }}"></script>
 
   <script>
-    new VenoBox({
+    var venobox = new VenoBox({
       selector: '.preview',
       numeration: true,
       infinigall: true,
-      spinner: 'rotating-plane'
+      overlayClose: true,
+      spinner: 'circle',
+      titlePosition: 'bottom',
+      titleStyle: 'pill',
+      onPostOpen: function() {
+        $('.vbox-child img').on( "click", function() { console.log('clicked');
+          venobox.close();
+        });
+      },
     });
   </script>
 {{ end }}

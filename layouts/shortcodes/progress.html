@@ -15,7 +15,7 @@
 
     {{if .Get "progress" }}
         <li style="display:inline-block;">
-            <a class="preview" data-autoplay="true" data-vbtype="iframe" data-gall="progress" href="{{ .Get "progress" }}">
+            <a class="preview" data-autoplay="true" data-fitview="true" data-vbtype="iframe" data-gall="progress" href="{{ .Get "progress" }}">
                 {{ $overlay := "" }}
                 {{ $path := "images/play.png" }}
                 {{ with resources.Get $path }}
@@ -25,7 +25,7 @@
                 {{ end }}
 
                 {{ $filter := images.Overlay $overlay 30 30 }}
-                
+
                 {{ with $thumbnail := .Page.Resources.GetMatch "painting.jpg" }}
                     {{ $thumbnail := $thumbnail.Fill "120x120 Center q85" }}
                     {{ with $thumbnail }}
