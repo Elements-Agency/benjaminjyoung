@@ -164,7 +164,9 @@
                       <br>
 
                       {{ if $.Params.originalprice }}
-                        <strong>Price:</strong> <em>{{ $.Params.originalprice }}</em>
+                        <strong>Price:</strong>
+                        {{ $.Params.originalprice }}
+                        <em>(Free Shipping)</em>
                       {{ end }}
 
                       <br>
@@ -187,7 +189,9 @@
                       <br>
 
                       {{ if $.Params.printsprice }}
-                        <strong>Price:</strong> <em>{{ $.Params.printsprice }}</em>
+                        <strong>Price:</strong>
+                        {{ $.Params.printsprice }}
+                        <em>(Free Shipping)</em>
                       {{ end }}
 
                       <br>
@@ -211,7 +215,8 @@
                       <br>
 
                       {{ if $.Params.digitalprice }}
-                        <strong>Price:</strong> <em>{{ $.Params.digitalprice }}</em>
+                        <strong>Price:</strong>
+                        {{ $.Params.digitalprice }}
                       {{ end }}
 
                       <br>
