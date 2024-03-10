@@ -47,4 +47,8 @@ Ben Young is a visual artist, from Canton Ohio. One of Ben's most repeated subje
 
 [Read More About Ben >](/about)
 
+---
+
 ## Purchase ##
+
+The original is NOT for sale.

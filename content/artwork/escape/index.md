@@ -61,6 +61,8 @@ Ben Young, no stranger to winter weather, is an avid outdoors man. You can frequ
 
 [Read More About Ben >](/about)
 
+---
+
 ## Purchase ##
 
-The original painting is custom framed by [Cyrus Custom Framing](http://cyruscustom.com/) with a black solid wood frame to frame the painting, along with a gray slate mat to make the bright white snow stand out.
+The original painting is custom framed by [Cyrus Custom Framing](http://cyruscustom.com/) with a black solid wood frame to frame the painting, along with a gray slate mat to make the bright white snow stand out. Mounting hardware included.

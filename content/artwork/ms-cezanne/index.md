@@ -50,4 +50,6 @@ Ben Young in childhood, with his artistic talents, started to home in on impress
 
 [Read More About Ben >](/about)
 
+---
+
 ## Purchase ##

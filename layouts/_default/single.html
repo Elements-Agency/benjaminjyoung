@@ -83,7 +83,7 @@
 
               <br>
 
-              <div style="text-align:center; line-height:1.2em; position:relative; font-family:Arial;">
+              <!--<div style="text-align:center; line-height:1.2em; position:relative; font-family:Arial;">
                 {{ if or (.Params.original) (.Params.prints) (.Params.digital) }}
                   <div style="text-align:center;">
                     {{ if .Params.original }}
@@ -103,7 +103,7 @@
                     {{ end }}
                   </div>
                 {{ end }}
-              </div>
+              </div>-->
             </section>
 
             <br>
@@ -228,32 +228,42 @@
 
               </ul>
 
-              {{ with $original := .Resources.GetMatch "original.jpg" }}
-                <p style="text-align:center; margin-top:0;">
+              {{ if .Params.original }}
+                <p style="text-align:center; margin:0;">
                   Want <strong>better pricing</strong> for the original?
                   If you're local to <em>North East Ohio</em>,
                   <a href="/contact">contact me</a>.
                 </p>
-              {{ else }}
-                <br>
               {{ end }}
 
-              <h4>Tags</h4>
+              {{ if .Params.prints }}
+                <p style="text-align:center; margin-top:0;">
+                  Looking for a <strong>different prints formats</strong>?
+                  <a href="/contact">Contact me</a>,
+                  and I can setup <em>more options</em> for purchasing.
+                </p>
+              {{ end }}
+
+              <hr>
+
+              <div>
+                <h3>Share</h3>
+                <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=65d9851dc0be3b0019eaef5f&product=inline-share-buttons&source=platform" async="async"></script>
+                <div class="sharethis-inline-share-buttons"></div>
+              </div>
+
+              <br>
+
+              <h3>Tags</h3>
               {{- partial "tags.html" . -}}
             </article>
-
-            <div>
-              <h3>Share</h3>
-              <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=65d9851dc0be3b0019eaef5f&product=inline-share-buttons&source=platform" async="async"></script>
-              <div class="sharethis-inline-share-buttons"></div>
-            </div>
         </section>
 
         <aside class="w-30-l mt6-l">
           {{- partial "menu-contextual.html" . -}}
 
-          <section>
-            <h4>Comments</h4>
+          {{/*<section>
+            <h4>Comments and Discussion</h4>
               <div class="mt6 instapaper_ignoref">
               {{ if .Site.Config.Services.Disqus.Shortname }}
                 {{ template "_internal/disqus.html" . }}
@@ -262,7 +272,7 @@
                 {{- partial "commento.html" . -}}
               {{ end }}
             </div>
-          </section>
+          </section>*/}}
         </aside>
     </div>
 

@@ -60,4 +60,6 @@ Ben Young grew up in East Sparta Ohio. His family were the first settlers to the
 
 [Read More About Ben >](/about)
 
+---
+
 ## Purchase ##

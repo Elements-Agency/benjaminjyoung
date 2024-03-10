@@ -49,4 +49,6 @@ After an 18 year hiatus of art, Ben Young is back doing what he once enjoyed. As
 
 [Read More About Ben >](/about)
 
+---
+
 ## Purchase ##

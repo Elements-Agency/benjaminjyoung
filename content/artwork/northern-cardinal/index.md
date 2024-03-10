@@ -54,5 +54,8 @@ Ben Young, both an animal lover and an outdoors man, frequently sees Cardinal bi
 
 [Read More About Ben >](/about)
 
+---
 
 ## Purchase ##
+
+The original is framed and comes with mounting hardware.
