@@ -1,5 +1,5 @@
 ---
 heading: Benjamin J. Young
-description: Contemporary impressionism and realism artist. Watercolors, oil paint, gouache, graphite, oil pastel, charcoal, and acrylic paintings.
+description: North East Ohio contemporary impressionism/realism artist with drawing, watercolor, pastels, and oil paintings. Specializing in landscapes and narrative art.
 keywords: [ben, benjamin, jay, young, artist, artwork, paintings, impressionism, realism, semiabstract]
 ---
