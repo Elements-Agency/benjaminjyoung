@@ -26,13 +26,13 @@ This **Dyzee** painting is an abstract composition dominated by fluid, dynamic s
 
 The use of watercolor or a similar medium is indicated by the translucency of the paint and the ways in which the colors blend and bleed into one another, creating soft edges and a sense of depth. The artwork could represent a natural force like a whirlwind or a close-up of organic matter like a plant or flower. It leaves much to the imagination, inviting the viewer to interpret the forms and movement within the painting in their own way.
 
-[Buy the Painting >](#purchase)
+{{< purchase >}}
 
 ### Inspiration ###
 
 I simply wanted to try my hand at abstract painting. I chose a Daisy flower to derive the subject from, since my one grandmother was named Daisy. Plus, I of course do enjoy the vibrance of flowers.
 
-[Buy the Painting >](#purchase)
+{{< purchase >}}
 
 ### Process ###
 
@@ -46,7 +46,7 @@ I painted this with [watercolor paint](https://www.anrdoezrs.net/click-101118598
 
 This took a few stages of painting a layer and waiting for dry time. So it took a few days.
 
-[Buy the Painting >](#purchase)
+{{< purchase >}}
 
 ## About the Artist ##
 

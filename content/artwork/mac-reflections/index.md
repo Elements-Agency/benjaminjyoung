@@ -32,7 +32,7 @@ There is a sense of depth and dimension, despite the darkness that envelops the 
 
 The overall effect is one of profound reflection, with the textured brushwork and dramatic chiaroscuro suggesting a moment captured in time, where the inner world of the subject is as significant as the outer representation. It’s a powerful image that invites the viewer to consider the subject’s thoughts and feelings.
 
-[Buy the Painting >](#purchase)
+{{< purchase >}}
 
 ### Inspiration ###
 
@@ -40,7 +40,7 @@ The overall effect is one of profound reflection, with the textured brushwork an
 
 The inspiration came to me from seeing my reflection in the darkened and smudged glossy screen from Apple MacBook Pro. I really like the depth and effect of how it looked, so it struck me to try to convey that same emotion to paper. My choice was to stay with what I enjoy best, impressionism. Broad strokes of oil pastels is what I decided on, after already recently completing [Ms. Cezanne](/artwork/ms-cezanne/).
 
-[Buy the Painting >](#purchase)
+{{< purchase >}}
 
 ### Process ###
 
@@ -56,7 +56,7 @@ Here is an visual overview of the progress:
 
 This took a few days of stepping away from the art, getting a fresh pair of eyes, and continuing to develop the depth of the artwork.
 
-[Buy the Painting >](#purchase)
+{{< purchase >}}
 
 ## About the Artist ##
 

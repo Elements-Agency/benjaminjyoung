@@ -71,7 +71,7 @@
                 </div>
                 <hr>
               {{ end }}
-              
+
               <div>
                 <div id="ms-ad-1961497798"></div> 
                 <script> 
@@ -94,4 +94,8 @@
     {{ block "footer" . }}{{ partialCached "inside-footer.html" . }}{{ end }}
   </div>
 
+  <script>
+    fbq('track', 'Search');
+  </script>
+  
 {{ end }}

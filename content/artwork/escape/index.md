@@ -29,7 +29,7 @@ The sky is overcast, painted in soft grays and cobalts that blend seamlessly wit
 
 The overall mood of the painting is one of solitude and silence, evoking a sense of introspection or the quiet beauty of nature in winter. The technique is done with watercolor, highlighting the fluidity of the colors and the soft gradients that suggest the chill and dampness of the snowy environment.
 
-[Buy the Painting >](#purchase)
+{{< purchase >}}
 
 ### Inspiration ###
 
@@ -41,7 +41,7 @@ I was inspired by my love of snowy landscapes, and wanted to somehow convey not 
 
 The challenge I took on with this piece was to stay simple as possible. Very few elements were included, and all but one of those features muted, to leave an isolating effect of the lone hiker to convey his possible struggle trudging through the snowy field. The figure's form is based on my own black deep winter attire, but it's ultimately up to the interpretation of the viewer to define who and what that figure's journey is about. That way the emotions that can hopefully resonate from cotton paper to the viewer's mind, are more easily relatable.
 
-[Buy the Painting >](#purchase)
+{{< purchase >}}
 
 ### Process ###
 
@@ -59,7 +59,7 @@ Here is an visual overview of the progress:
 
 This took a few stages of adding layers, but it still only took a few days at most to include drying times.
 
-[Buy the Painting >](#purchase)
+{{< purchase >}}
 
 ## About the Artist ##
 

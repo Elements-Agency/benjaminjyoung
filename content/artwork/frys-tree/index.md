@@ -32,7 +32,7 @@ The color palette is quite naturalistic, with earthy tones for the tree and gras
 
 There's a sense of tranquility and solitude in this scene, as the tree stands alone in the quiet moments of transition between day and night. The painting style is detailed with a focus on texture, as seen in the strokes that define the tree's bark and leaves.
 
-[Buy the Painting >](#purchase)
+{{< purchase >}}
 
 ### Inspiration ###
 
@@ -40,7 +40,7 @@ There's a sense of tranquility and solitude in this scene, as the tree stands al
 
 The tree it's self is the lone tree that stands around a hiking trail bend at [Fry Family Park](https://starkparks.com/parks/fry-family-park/), close to near my home. This is a trail and park I frequently hike and visit, as it's the closest Stark Park to my home, in East Sparta Ohio. The photo I took that served as a reference was when I was hiking on winter, and caught the sky's twilight as a background to the tree. Creating not only a spooky, but awe-inspiring effect. It was something I had to paint.
 
-[Buy the Painting >](#purchase)
+{{< purchase >}}
 
 ### Process ###
 
@@ -58,7 +58,7 @@ Here is an visual overview of the progress:
 
 This painting took way longer than I wanted it too. It took many layers to get the right color and value. I had to mix in gouache with the watercolors to sometimes get the opaque I desired. I began to tire of working on it, so the progress stretched out. By the time I decided for forcefully wrap it up, I felt my skills have drastically improved and the base of the painting did not meet my standards.
 
-[Buy the Painting >](#purchase)
+{{< purchase >}}
 
 ## About the Artist ##
 

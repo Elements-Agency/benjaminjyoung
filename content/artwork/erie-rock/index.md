@@ -26,7 +26,7 @@ aliases: [/erie-rock]
 
 This evocative painting captures a unique and striking rock formation located along the shores of Lake Erie, near Cleveland, Ohio, portraying a natural monument that stands as a silent guardian amidst the lapping waves. The overcast sky suggests a typical Great Lakes ambiance, while the resilient trees on the rock's summit are a testament to nature's adaptability in the face of the elements. The artwork invites contemplation on the enduring beauty of Lake Erie's coastal landscape, subtly colored by the artist to reflect the area's serene yet dynamic character.
 
-[Buy the Painting >](#purchase)
+{{< purchase >}}
 
 ### Inspiration ###
 
@@ -36,7 +36,7 @@ This is a rare display on a low tide of Lake Erie, out of Lakewood Ohio. The pho
 
 My style generally focuses on impressionism, with certain elements shifting to realism that I want to draw focus to. This artwork however was a little different from that, where the realism elements where much more present than my other art pieces.
 
-[Buy the Painting >](#purchase)
+{{< purchase >}}
 
 ### Process ###
 
@@ -54,7 +54,7 @@ Here is an visual overview of the progress:
 
 This was a very labor intensive and detailed piece. Many stages of doing a layer, drying, and continuing on with the next step. I enjoyed the journey though and it's one of my favorite artworks.
 
-[Buy the Painting >](#purchase)
+{{< purchase >}}
 
 ## About the Artist ##
 

@@ -32,7 +32,7 @@ The sky above is a pale blue, suggesting an overcast day, with the light not qui
 
 The painting has a feeling of tranquility and nostalgia, evoking memories of childhood summers or quiet life in the countryside. The overall style combines elements of realism with a touch of impressionism, seen in the way the grass and foliage are rendered with loose brushwork.
 
-[Buy the Painting >](#purchase)
+{{< purchase >}}
 
 ### Inspiration ###
 
@@ -40,7 +40,7 @@ The painting has a feeling of tranquility and nostalgia, evoking memories of chi
 
 The subject and inspiration is that of my [family's 1875 brick farmhouse](https://piketownship.net/our-history/). It was a house I spent a large part of my childhood in, being babysat my by aunt. Even past that, it always stood next to my own home and the center focal point of the frontage to our family's 64 acres of land. The fields and forrest you see backset to the house were the woods I grew up in exploring in my childhood.
 
-[Buy the Painting >](#purchase)
+{{< purchase >}}
 
 ### Process ###
 
@@ -58,7 +58,7 @@ Here is an visual overview of the progress:
 
 This artwork took forever to do. Similar to [Fry's Tree](/artwork/frys-tree), the progress stretched out and the skills had developed past of when I started. I had to force myself to complete this one.
 
-[Buy the Painting >](#purchase)
+{{< purchase >}}
 
 ## About the Artist ##
 

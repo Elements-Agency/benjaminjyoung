@@ -25,13 +25,13 @@ aliases: [/monochromatic-maelstorm, /artwork/monochromatic-maelstrom, /artwork/m
 
 The painting lacks defined forms or figures, which is typical of abstract art, where the focus is on the colors, textures, and the emotional response they may evoke rather than on depicting recognizable objects or scenes. The technique used involved both controlled brushwork and a degree of letting the paint behave naturally, evidenced by the drips and splashes.
 
-[Buy the Painting >](#purchase)
+{{< purchase >}}
 
 ### Inspiration ###
 
 I wanted to test working with the watercolor paints before moving on to attempt [Dyzee](/artwork/dyzee).
 
-[Buy the Painting >](#purchase)
+{{< purchase >}}
 
 ### Process ###
 
@@ -45,7 +45,7 @@ I painted this with [watercolor paint](https://www.anrdoezrs.net/click-101118598
 
 Quick and easy. Two or three stages of layers and steps. I believe it only took two days, if that.
 
-[Buy the Painting >](#purchase)
+{{< purchase >}}
 
 ## About the Artist ##
 

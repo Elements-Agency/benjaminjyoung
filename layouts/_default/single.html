@@ -157,7 +157,7 @@
                     <h3>Original Painting</h3>
 
                     <p style="text-align:center; margin-bottom:0">
-                      <a href="{{ $.Params.original }}" onclick="fbq('track', 'AddToCart');" data-position="center">
+                      <a href="{{ $.Params.original }}" onclick="fbq('track', 'AddToCart'); fbq('track', 'InitiateCheckout');" data-position="center">
                         <img src="{{ $original.RelPermalink }}" width="250px" height="250px" loading="lazy" alt="Buy the original {{ $.Title }}" title="Original {{ $.Title }}">
                       </a>
 
@@ -171,7 +171,7 @@
 
                       <br>
 
-                      <a href="{{ $.Params.original }}" class="button">Purchase on Saatachi</a>
+                      <a href="{{ $.Params.original }}" class="button">Buy on Saatachi</a>
                     </p>
                   </li>
                 {{ end }}
@@ -182,7 +182,7 @@
                     <h3>Printed Copy</h3>
 
                     <p style="text-align:center; margin-bottom:0">
-                      <a href="{{ $.Params.prints }}" onclick="fbq('track', 'AddToCart');" data-position="center">
+                      <a href="{{ $.Params.prints }}" onclick="fbq('track', 'AddToCart'); fbq('track', 'InitiateCheckout');" data-position="center">
                         <img src="{{ $print.RelPermalink }}" width="250px" height="250px" loading="lazy" alt="Buy a print of {{ $.Title }}" title="Print of {{ $.Title }}">
                       </a>
 
@@ -208,7 +208,7 @@
                     <h3>Digital Download</h3>
 
                     <p style="text-align:center; margin-bottom:0;">
-                      <a href="{{ .Params.digital }}" onclick="fbq('track', 'AddToCart');" data-position="center">
+                      <a href="{{ .Params.digital }}" onclick="fbq('track', 'AddToCart'); fbq('track', 'InitiateCheckout');" data-position="center">
                         <img src="{{ $digital.RelPermalink }}" width="250px" height="250px" loading="lazy" alt="Digital Download for {{ .Title }}" title="Digital Download of {{ .Title }}">
                       </a>
 
@@ -279,4 +279,8 @@
     {{ block "footer" . }}{{ partialCached "inside-footer.html" . }}{{ end }}
   </div>
 
+  <script>
+    fbq('track', 'ViewContent');
+  </script>
+  
 {{ end }}

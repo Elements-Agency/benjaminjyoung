@@ -23,13 +23,13 @@ aliases: [/watermelon-slice, /artwork/standing-watermelon]
 
 Juicy! A fruity painting that depicts a slice of watermelon. Watermelon Slice is a realistic drawing that captures the vibrant red flesh of the fruit, complete with black seeds scattered throughout. The watermelon slice has a green rind, transitioning from a darker green on the outside to a paler green towards the inner red flesh. The drawing has a textured appearance from the water colored pencils, and there’s a gentle shadow under the slice, giving it a sense of depth and dimension. The background is plain and lightly textured. Hang it up in your summer themed kitchen, like the basic, normal, coffee drinking, white person you are.
 
-[Buy the Painting >](#purchase)
+{{< purchase >}}
 
 ### Inspiration ###
 
 The inspiration for this artwork was simply to test my new water color pencil set, and use brushstrokes of water to blend the pigment.
 
-[Buy the Painting >](#purchase)
+{{< purchase >}}
 
 ### Process ###
 
@@ -43,7 +43,7 @@ I drew this with [watercolor pencils](https://www.dpbolvw.net/click-101118598-13
 
 Quick study that took just a few hours one evening.
 
-[Buy the Painting >](#purchase)
+{{< purchase >}}
 
 ## About the Artist ##
 

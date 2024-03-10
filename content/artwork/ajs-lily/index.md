@@ -23,13 +23,13 @@ aliases: [/ajs-lily]
 
 The **AJ's Lily** drawing is a pencil drawing that captures the delicate beauty of a lily flower in bloom. The flower stands out with its petals gracefully curving outward, showcasing the fine details of its texture and venation, while the stamens reach out from the center, detailed with care to convey their slender form and powdery pollen tips. Below the flower, the stem leads to a pair of leaves that frame the composition, their pointed tips adding to the overall elegance of the sketch. The artist's use of shading provides depth, highlighting the organic curves and giving the lily a lifelike appearance. The background is left unadorned, ensuring that all attention remains on the intricacies of the flower and its natural allure.
 
-[Buy the Painting >](#purchase)
+{{< purchase >}}
 
 ### Inspiration ###
 
 The flower is that of a white lily. It was the favorite flower of my late Fiancee. We had planned to utilized them in our wedding.
 
-[Buy the Painting >](#purchase)
+{{< purchase >}}
 
 ### Process ###
 
@@ -39,9 +39,9 @@ The flower is that of a white lily. It was the favorite flower of my late Fiance
 
 I drew this flower with [graphite pencils](https://www.jdoqocy.com/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Ffaber-castell-9000-pencil-set-graphite-set-of-15%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D22206-0159%26country%3Dus%26currency%3Dusd&cjsku=22206-0159) on [watercolor pad paper](https://www.anrdoezrs.net/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Fcanson-lettering-pad-watercolor%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D09634-1001%26country%3Dus%26currency%3Dusd&cjsku=09634-1001).
 
-The intial drawing only took one evening. However, it was weeks until I came back to it, to fill in some better shading for my realism and shadowing.
+The initial drawing only took one evening. However, it was weeks until I came back to it, to fill in some better shading for my realism and shadowing.
 
-[Buy the Painting >](#purchase)
+{{< purchase >}}
 
 ## About the Artist ##
 

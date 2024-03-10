@@ -26,7 +26,7 @@ aliases: [/northern-cardinal, /artwork/rage-fueled-bird]
 
 Northern Cardinal is a colored pencil drawing of a Northern Cardinal perched on a branch. The bird is depicted with a vibrant red plumage, which is characteristic of the male of the species. Its beak is orange-yellow, and the facial mask is black, extending from the beak around the eyes. The drawing captures the distinct crest of the cardinal, which is a pointy tuft of feathers on top of its head. The branch is rendered with a muted gray tone, contrasting with the bright red of the bird. The background is a soft, textured gray, allowing the cardinal to stand out prominently. The pencil strokes have created a sense of softness and detail, particularly in the feathers and the blending of colors.
 
-[Buy the Painting >](#purchase)
+{{< purchase >}}
 
 ### Inspiration ###
 
@@ -34,7 +34,7 @@ Northern Cardinal is a colored pencil drawing of a Northern Cardinal perched on 
 
 The inspiration came to me one morning, after watching a Cardinal eat some seed I had left out on my back patio. I'm not a fan of birds, but males like these are certainly beautiful, but very hostile and territorial. Their color especially vibrant contrasted against the snowy winter setting. The Northern Cardinal is also Ohio's state bird, which is where I was born and grew up at. Even the [local school where I currently reside](https://www.sandyvalleylocal.org), has a Cardinal Mascot.
 
-[Buy the Painting >](#purchase)
+{{< purchase >}}
 
 ### Process ###
 
@@ -50,7 +50,7 @@ Here is an visual overview of the progress:
 
 Anytime I do realism such as this, it's quite time intensive. This artwork took a few weeks of stages of coming back to it and doing a little progress at a time.
 
-[Buy the Painting >](#purchase)
+{{< purchase >}}
 
 ## About the Artist ##
 
