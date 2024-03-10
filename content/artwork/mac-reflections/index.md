@@ -36,7 +36,7 @@ The overall effect is one of profound reflection, with the textured brushwork an
 
 ### Inspiration ###
 
-{{< img src="reference.webp" width="250px" height="271px" class="floatright" gallery="progress" alt="Mac Reflections Reference Photo" title="Reference Photo" link="reference.jpg" >}}
+{{< img src="reference.webp" width="200px" height="216px" class="floatright" gallery="progress" alt="Mac Reflections Reference Photo" title="Reference Photo" link="reference.jpg" >}}
 
 The inspiration came to me from seeing my reflection in the darkened and smudged glossy screen from Apple MacBook Pro. I really like the depth and effect of how it looked, so it struck me to try to convey that same emotion to paper. My choice was to stay with what I enjoy best, impressionism. Broad strokes of oil pastels is what I decided on, after already recently completing [Ms. Cezanne](/artwork/ms-cezanne/).
 
@@ -44,9 +44,9 @@ The inspiration came to me from seeing my reflection in the darkened and smudged
 
 ### Process ###
 
-{{< img src="https://images.ctfassets.net/f1fikihmjtrp/3hCV9lmlr30weeQQW93Pje/b925add4498c43946d202e786498cd80/10386-1023-2-3ww-l.jpg?w=150&h=150" width="140px" height="140px" class="floatright" alt="Construction Paper" link="https://www.jdoqocy.com/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Fart-street-construction-paper-pad-9-x-12-assorted-48-sheets%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D10386-1023%26country%3Dus%26currency%3Dusd&cjsku=10386-1023" >}}
+{{< img src="https://images.ctfassets.net/f1fikihmjtrp/3hCV9lmlr30weeQQW93Pje/b925add4498c43946d202e786498cd80/10386-1023-2-3ww-l.jpg?w=125&h=125" width="105px" height="105px" class="floatrightstack" alt="Construction Paper" link="https://www.jdoqocy.com/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Fart-street-construction-paper-pad-9-x-12-assorted-48-sheets%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D10386-1023%26country%3Dus%26currency%3Dusd&cjsku=10386-1023" >}}
 
-{{< img src="https://images.ctfassets.net/f1fikihmjtrp/2zdkWQBsWgcs5YYAXOxaLn/4861422f3edf668cfa648f76c97f95dc/20087-0729-4-4ww.jpg?w=150&h=150" width="140px" height="140px" class="floatright" alt="Oil Pastels" link="https://www.jdoqocy.com/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Ffaber-castell-goldfaber-studio-soft-pastel-set-assorted-colors-half-stick-set-set-of-72%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D20087-0729%26country%3Dus%26currency%3Dusd&cjsku=20087-0729" >}}
+{{< img src="https://images.ctfassets.net/f1fikihmjtrp/2zdkWQBsWgcs5YYAXOxaLn/4861422f3edf668cfa648f76c97f95dc/20087-0729-4-4ww.jpg?w=125&h=125" width="105px" height="105px" class="floatrightstack" alt="Oil Pastels" link="https://www.jdoqocy.com/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Ffaber-castell-goldfaber-studio-soft-pastel-set-assorted-colors-half-stick-set-set-of-72%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D20087-0729%26country%3Dus%26currency%3Dusd&cjsku=20087-0729" >}}
 
 The artwork is drawn on [Art Street Construction Paper](https://www.kqzyfj.com/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Fart-street-construction-paper-pad-9-x-12-assorted-48-sheets%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D10386-1023%26country%3Dus%26currency%3Dusd&cjsku=10386-1023) I found in the grocery store for cheap, and utilizing the new set of [Faber-Castell Goldfaber Studio Oil Pastels](https://www.jdoqocy.com/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Ffaber-castell-goldfaber-studio-oil-pastel-set-assorted-colors-set-of-24%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D21905-0249%26country%3Dus%26currency%3Dusd&cjsku=21905-0249) I had just received.
 
@@ -60,7 +60,7 @@ This took a few days of stepping away from the art, getting a fresh pair of eyes
 
 ## About the Artist ##
 
-{{< img class="benpro" width="200px" height="200px" src="/images/ben-small.webp" alt="Photo of Benjamin J. Young" title="Ben Young" >}}
+{{< img class="benprolite" width="150px" height="150px" src="/images/ben-small.webp" alt="Photo of Benjamin J. Young" title="Ben Young" >}}
 
 Ben Young in childhood, with his artistic talents, started to home in on impressionism as his preferred methodology. It's been some time since he's used those artistic skills, but this artwork is one of many where those talents are starting to bubble back to the service as Ben ventures back in to visual arts.
 

@@ -2,10 +2,10 @@
     {{ with $files := .Page.Resources.Match "process/*.jpg" }}
         {{ range $index, $file := $files }}
             {{ $full := $file.Fit "800x800" }}
-            {{ $thumbnail := $file.Fill "120x120 Center q85" }}
+            {{ $thumbnail := $file.Fill "90x90 Center q85" }}
             <li style="display:inline-block;">
                 <a class="preview" href="{{ $full.RelPermalink }}" data-gall="progress">
-                    <img src="{{ $thumbnail.RelPermalink }}" width="120px" height="120px" loading="lazy" alt="Progress step {{ add $index 1 }}" title="Progress step {{ add $index 1 }}">
+                    <img src="{{ $thumbnail.RelPermalink }}" width="90px" height="90px" loading="lazy" alt="Progress step {{ add $index 1 }}" title="Progress step {{ add $index 1 }}">
                     <br>
                     Step {{ add $index 1 }}
                 </a>
@@ -24,13 +24,13 @@
                     {{ errorf "Unable to get resource %q" $path }}
                 {{ end }}
 
-                {{ $filter := images.Overlay $overlay 30 30 }}
+                {{ $filter := images.Overlay $overlay 15 15 }}
 
                 {{ with $thumbnail := .Page.Resources.GetMatch "painting.jpg" }}
-                    {{ $thumbnail := $thumbnail.Fill "120x120 Center q85" }}
+                    {{ $thumbnail := $thumbnail.Fill "90x90 Center q85" }}
                     {{ with $thumbnail }}
                         {{ with . | images.Filter $filter }}
-                            <img src="{{ .RelPermalink }}" width="120px" height="120px" loading="lazy" alt="Video progress timelapse" title="Progress Video Timelapse">
+                            <img src="{{ .RelPermalink }}" width="90px" height="90px" loading="lazy" alt="Video progress timelapse" title="Progress Video Timelapse">
                             <br>
                             Video
                         {{ end }}

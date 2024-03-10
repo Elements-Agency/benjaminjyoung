@@ -37,9 +37,9 @@ Hands are hard to draw, according to some people, so I took it as a challenge to
 
 ### Process ###
 
-{{< img src="https://images.ctfassets.net/f1fikihmjtrp/2d1aPVngH6PFw2hzTVYPko/4543ec3e1957402405cea69132d78bf6/02640-1000-M-4ww.jpg?w=150&h=150" width="140px" height="140px" class="floatright" alt="Printer Paper" link="https://www.jdoqocy.com/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Fcraft-express-sublimation-printer-paper-4-x-9-12-pkg-of-110-sheets%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D02640-1000%26country%3Dus%26currency%3Dusd&cjsku=02640-1000" >}}
+{{< img src="https://images.ctfassets.net/f1fikihmjtrp/2d1aPVngH6PFw2hzTVYPko/4543ec3e1957402405cea69132d78bf6/02640-1000-M-4ww.jpg?w=125&h=125" width="105px" height="105px" class="floatrightstack" alt="Printer Paper" link="https://www.jdoqocy.com/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Fcraft-express-sublimation-printer-paper-4-x-9-12-pkg-of-110-sheets%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D02640-1000%26country%3Dus%26currency%3Dusd&cjsku=02640-1000" >}}
 
-{{< img src="https://images.ctfassets.net/f1fikihmjtrp/5NTqHwjKhwLiXXECQjc4Ue/d20a638b14c5a34e78306d7377103e18/20450-9109-M-4ww.jpg?w=150&h=150" width="140px" height="140px" class="floatright" alt="Graphite Pencils" link="https://www.jdoqocy.com/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Ffaber-castell-9000-pencils-art-set%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D20450-9109%26country%3Dus%26currency%3Dusd&cjsku=20450-9109" >}}
+{{< img src="https://images.ctfassets.net/f1fikihmjtrp/5NTqHwjKhwLiXXECQjc4Ue/d20a638b14c5a34e78306d7377103e18/20450-9109-M-4ww.jpg?w=125&h=125" width="105px" height="105px" class="floatrightstack" alt="Graphite Pencils" link="https://www.jdoqocy.com/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Ffaber-castell-9000-pencils-art-set%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D20450-9109%26country%3Dus%26currency%3Dusd&cjsku=20450-9109" >}}
 
 I used [graphite pencils](https://www.dpbolvw.net/click-101118595-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Ffaber-castell-9000-pencil-set-graphite-set-of-15%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D22206-0159%26country%3Dus%26currency%3Dusd&cjsku=22206-0159) on [printer paper](https://www.dpbolvw.net/click-101118595-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Fcraft-express-sublimation-printer-paper-4-x-9-12-pkg-of-110-sheets%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D02640-1000%26country%3Dus%26currency%3Dusd&cjsku=02640-1000), since that's all I had available at the time. That's all I had available at the time.
 
@@ -47,7 +47,7 @@ I used [graphite pencils](https://www.dpbolvw.net/click-101118595-13717235?url=h
 
 ## About the Artist ##
 
-{{< img class="benpro" width="200px" height="200px" src="/images/ben-small.webp" alt="Photo of Benjamin J. Young" title="Ben Young" >}}
+{{< img class="benprolite" width="150px" height="150px" src="/images/ben-small.webp" alt="Photo of Benjamin J. Young" title="Ben Young" >}}
 
 After an 18 year hiatus of art, Ben Young is back doing what he once enjoyed. As he hones his skills back to where they used to be in childhood, he's being sure to practice methodically and frequently. Watch Ben's journey to revisit an old love of painting, and his skills develope back to the prodigy he used to be.
 

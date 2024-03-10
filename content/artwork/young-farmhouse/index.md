@@ -36,7 +36,7 @@ The painting has a feeling of tranquility and nostalgia, evoking memories of chi
 
 ### Inspiration ###
 
-{{< img src="reference.webp" width="250px" height="188px" class="floatright" gallery="progress" alt="Young Farmhouse Reference Photo" title="Reference Photo" link="reference.jpg" >}}
+{{< img src="reference.webp" width="200px" height="150px" class="floatright" gallery="progress" alt="Young Farmhouse Reference Photo" title="Reference Photo" link="reference.jpg" >}}
 
 The subject and inspiration is that of my [family's 1875 brick farmhouse](https://piketownship.net/our-history/). It was a house I spent a large part of my childhood in, being babysat my by aunt. Even past that, it always stood next to my own home and the center focal point of the frontage to our family's 64 acres of land. The fields and forrest you see backset to the house were the woods I grew up in exploring in my childhood.
 
@@ -44,11 +44,11 @@ The subject and inspiration is that of my [family's 1875 brick farmhouse](https:
 
 ### Process ###
 
-{{< img src="https://images.ctfassets.net/f1fikihmjtrp/6oaAae22JA013pXqncC1Jk/8a1d5ec971876545ed0df1830e755214/10020-1003-M-4ww.jpg?w=150&h=150" width="140px" height="140px" class="floatright" alt="Watercolor Block" link="https://www.dpbolvw.net/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Farches-watercolor-block-9-x-12-cold-press-20-sheets%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D10020-1003%26country%3Dus%26currency%3Dusd&cjsku=10020-1003" >}}
+{{< img src="https://images.ctfassets.net/f1fikihmjtrp/6oaAae22JA013pXqncC1Jk/8a1d5ec971876545ed0df1830e755214/10020-1003-M-4ww.jpg?w=125&h=125" width="105px" height="105px" class="floatrightstack" alt="Watercolor Block" link="https://www.dpbolvw.net/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Farches-watercolor-block-9-x-12-cold-press-20-sheets%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D10020-1003%26country%3Dus%26currency%3Dusd&cjsku=10020-1003" >}}
 
-{{< img src="https://images.ctfassets.net/f1fikihmjtrp/3UDN3bbEwG9TI8wx7PbW14/2b3fc754bd880163762f4809a2bf0593/01705-2009-M-4ww.jpg?w=150&h=150" width="140px" height="140px" class="floatright" alt="Watercolor Paint" link="https://www.jdoqocy.com/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Fm-graham-artists-watercolor-basic-set-set-of-5-colors-15-ml-tubes%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D01705-2009%26country%3Dus%26currency%3Dusd&cjsku=01705-2009" >}}
+{{< img src="https://images.ctfassets.net/f1fikihmjtrp/3UDN3bbEwG9TI8wx7PbW14/2b3fc754bd880163762f4809a2bf0593/01705-2009-M-4ww.jpg?w=125&h=125" width="105px" height="105px" class="floatrightstack" alt="Watercolor Paint" link="https://www.jdoqocy.com/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Fm-graham-artists-watercolor-basic-set-set-of-5-colors-15-ml-tubes%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D01705-2009%26country%3Dus%26currency%3Dusd&cjsku=01705-2009" >}}
 
-{{< img src="https://images.ctfassets.net/f1fikihmjtrp/3LeigR2li8wfH7CRvlYDnx/0e7f8ea9056b29b885d296259a4e484f/05468-1049-3-4ww.jpg?w=150&h=150" width="140px" height="140px" class="floatright" alt="Watercolor Brushes" link="https://www.dpbolvw.net/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Fprinceton-aqua-elite-series-4850-synthetic-brushes-set-of-4%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D05468-1049%26country%3Dus%26currency%3Dusd&cjsku=05468-1049" >}}
+{{< img src="https://images.ctfassets.net/f1fikihmjtrp/3LeigR2li8wfH7CRvlYDnx/0e7f8ea9056b29b885d296259a4e484f/05468-1049-3-4ww.jpg?w=125&h=125" width="105px" height="105px" class="floatrightstack" alt="Watercolor Brushes" link="https://www.dpbolvw.net/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Fprinceton-aqua-elite-series-4850-synthetic-brushes-set-of-4%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D05468-1049%26country%3Dus%26currency%3Dusd&cjsku=05468-1049" >}}
 
 I painted this with [watercolor paint](https://www.anrdoezrs.net/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Froyal-langnickel-waterclor-paint-set-of-12%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D86329-1009%26country%3Dus%26currency%3Dusd&cjsku=86329-1009) on [watercolor pad paper](https://www.anrdoezrs.net/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Fcanson-lettering-pad-watercolor%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D09634-1001%26country%3Dus%26currency%3Dusd&cjsku=09634-1001). I used mainly my [Princeton Velvetouch](https://www.kqzyfj.com/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Fprinceton-velvetouch-series-3950-synthetic-brushes-blick-exclusive-set-of-4%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D06444-1049%26country%3Dus%26currency%3Dusd&cjsku=06444-1049) long round brush, but occasionally my [Princeton Aqua Elite set](https://www.anrdoezrs.net/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Fprinceton-aqua-elite-series-4850-synthetic-brushes-set-of-4%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D05468-1049%26country%3Dus%26currency%3Dusd&cjsku=05468-1049) for certain softer features (e.g. the wash).
 
@@ -62,7 +62,7 @@ This artwork took forever to do. Similar to [Fry's Tree](/artwork/frys-tree), th
 
 ## About the Artist ##
 
-{{< img class="benpro" width="200px" height="200px" src="/images/ben-small.webp" alt="Photo of Benjamin J. Young" title="Ben Young" >}}
+{{< img class="benprolite" width="150px" height="150px" src="/images/ben-small.webp" alt="Photo of Benjamin J. Young" title="Ben Young" >}}
 
 Ben Young grew up in East Sparta Ohio. His family were the first settlers to the area, back in 1800. His heritage is deeply rooted with the history of the area. Being an artist, it's captures in times like this painting that give Ben's artwork a sense of narrative and story. The paintings have way more to say than what the viewer can visually see, but that's ultimately left by Ben in his artwork for the viewers to interpret with their own experiences.
 

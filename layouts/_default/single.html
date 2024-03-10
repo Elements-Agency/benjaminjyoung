@@ -173,6 +173,8 @@
 
                       <a href="{{ $.Params.original }}" class="button">Buy on Saatachi</a>
                     </p>
+
+                    <br>
                   </li>
                 {{ end }}
 
@@ -198,6 +200,8 @@
 
                       <a href="{{ $.Params.prints }}" class="button">Order on Etsy</a>
                     </p>
+
+                    <br>
                   </li>
                 {{ end }}
 
@@ -223,6 +227,8 @@
 
                       <a href="{{ .Params.digital }}" class="button">Download on Patreon</a>
                     </p>
+
+                    <br>
                   </li>
                 {{ end }}
 
@@ -230,17 +236,17 @@
 
               {{ if .Params.original }}
                 <p style="text-align:center; margin:0;">
-                  Want <strong>better pricing</strong> for the original?
+                  - Want <strong>better pricing</strong> for the original?
                   If you're local to <em>North East Ohio</em>,
-                  <a href="/contact">contact me</a>.
+                  <a href="/contact">contact me</a>. -
                 </p>
               {{ end }}
 
               {{ if .Params.prints }}
                 <p style="text-align:center; margin-top:0;">
-                  Looking for a <strong>different prints formats</strong>?
+                  - Looking for a <strong>different prints formats</strong>?
                   <a href="/contact">Contact me</a>,
-                  and I can setup <em>more options</em> for purchasing.
+                  and I can setup <em>more options</em> for purchasing. -
                 </p>
               {{ end }}
 
