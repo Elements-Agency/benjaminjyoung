@@ -34,7 +34,13 @@ The inspiration was from specifically one of Paul Cezanne's Bather paintings.
 
 ### Process ###
 
+{{< img src="https://images.ctfassets.net/f1fikihmjtrp/3hCV9lmlr30weeQQW93Pje/b925add4498c43946d202e786498cd80/10386-1023-2-3ww-l.jpg?w=150&h=150" width="140px" height="140px" class="floatright" alt="Construction Paper" link="https://www.jdoqocy.com/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Fart-street-construction-paper-pad-9-x-12-assorted-48-sheets%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D10386-1023%26country%3Dus%26currency%3Dusd&cjsku=10386-1023" >}}
+
+{{< img src="https://images.ctfassets.net/f1fikihmjtrp/2zdkWQBsWgcs5YYAXOxaLn/4861422f3edf668cfa648f76c97f95dc/20087-0729-4-4ww.jpg?w=150&h=150" width="140px" height="140px" class="floatright" alt="Oil Pastels" link="https://www.jdoqocy.com/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Ffaber-castell-goldfaber-studio-soft-pastel-set-assorted-colors-half-stick-set-set-of-72%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D20087-0729%26country%3Dus%26currency%3Dusd&cjsku=20087-0729" >}}
+
 I drew this with [Faber-Castell Goldfaber Studio Oil Pastels](https://www.jdoqocy.com/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Ffaber-castell-goldfaber-studio-oil-pastel-set-assorted-colors-set-of-24%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D21905-0249%26country%3Dus%26currency%3Dusd&cjsku=21905-0249) on [watercolor pad paper](https://www.anrdoezrs.net/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Fcanson-lettering-pad-watercolor%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D09634-1001%26country%3Dus%26currency%3Dusd&cjsku=09634-1001).
+
+Here is an visual overview of the progress:
 
 {{< progress >}}
 

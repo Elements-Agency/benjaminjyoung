@@ -38,7 +38,13 @@ The inspiration came to me one morning, after watching a Cardinal eat some seed 
 
 ### Process ###
 
-I drew this with [watercolor pencils](https://www.dpbolvw.net/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Ffaber-castell-albrecht-durer-watercolor-pencils-set-of-24%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D20567-0249%26country%3Dus%26currency%3Dusd&cjsku=20567-0249) on [watercolor pad paper](https://www.jdoqocy.com/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Ffaber-castell-watercolor-pad-9x-12-90-lb-15-sheets%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D10163-1001%26country%3Dus%26currency%3Dusd&cjsku=10163-1001).
+{{< img src="https://images.ctfassets.net/f1fikihmjtrp/pRB6uGZ2dHDjqvBzME6aN/57705b7cdf5ff3bb3830ee35fb94ba17/10020-1040-M-4ww.jpg?w=150&h=150" width="140px" height="140px" class="floatright" alt="Watercolor Block" link="https://www.anrdoezrs.net/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Farches-watercolor-block-10-x-14-cold-press-20-sheets%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D10020-1040%26country%3Dus%26currency%3Dusd&cjsku=10020-1040" >}}
+
+{{< img src="https://images.ctfassets.net/f1fikihmjtrp/2nPQrWXtKLvod7vYj76wkA/44cd3d7a3341186d742e32ae319ca8a0/22473-1169-1-4ww.jpg?w=150&h=150" width="140px" height="140px" class="floatright" alt="Watercolor Pencils" link="https://www.anrdoezrs.net/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Ffaber-castell-albrecht-drer-magnus-watercolor-pencils-gift-set-of-16%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D22473-1169%26country%3Dus%26currency%3Dusd&cjsku=22473-1169" >}}
+
+I drew this with [watercolor pencils](https://www.dpbolvw.net/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Ffaber-castell-albrecht-durer-watercolor-pencils-set-of-24%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D20567-0249%26country%3Dus%26currency%3Dusd&cjsku=20567-0249) on [watercolor pad paper](https://www.jdoqocy.com/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Ffaber-castell-watercolor-pad-9x-12-90-lb-15-sheets%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D10163-1001%26country%3Dus%26currency%3Dusd&cjsku=10163-1001). I originally planned to use a paint brush and water to concentrate the color vibrancy, but decided later not to. Due to the detail I had already achieved while drawing.
+
+Here is an visual overview of the progress:
 
 {{< progress progress="https://www.youtube.com/embed/JsbqhoQqTnA" >}}
 

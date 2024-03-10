@@ -31,6 +31,10 @@ I was curious to try a study of trying to make realistic looking water and glass
 
 ### Process ###
 
+{{< img src="https://images.ctfassets.net/f1fikihmjtrp/pRB6uGZ2dHDjqvBzME6aN/57705b7cdf5ff3bb3830ee35fb94ba17/10020-1040-M-4ww.jpg?w=150&h=150" width="140px" height="140px" class="floatright" alt="Watercolor Block" link="https://www.anrdoezrs.net/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Farches-watercolor-block-10-x-14-cold-press-20-sheets%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D10020-1040%26country%3Dus%26currency%3Dusd&cjsku=10020-1040" >}}
+
+{{< img src="https://images.ctfassets.net/f1fikihmjtrp/60gpaEavvR8xx5YSegVG0s/e7ba8dda981c8e36d453ca4ef3761afa/21050-1009-1-4ww.jpg?w=150&h=150" width="140px" height="140px" class="floatright" alt="Graphite Pencils" link="https://www.tkqlhce.com/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Fstaedtler-mars-lumograph-aquarell-pencil-set%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D21050-1009%26country%3Dus%26currency%3Dusd&cjsku=21050-1009" >}}
+
 I drew this with [Staedtler Mars Lumograph Aquarell Pencils](https://www.tkqlhce.com/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Fstaedtler-mars-lumograph-aquarell-pencil-set%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D21050-1009%26country%3Dus%26currency%3Dusd&cjsku=21050-1009) on [watercolor pad paper](https://www.kqzyfj.com/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Ffaber-castell-watercolor-pad-9x-12-90-lb-15-sheets%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D10163-1001%26country%3Dus%26currency%3Dusd&cjsku=10163-1001) and then used the included brush to brush over with water.
 
 This only took about a hour to test and do, and was a test before continuing on to start [Drip](artwork/drip).
