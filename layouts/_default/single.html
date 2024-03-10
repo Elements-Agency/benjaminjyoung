@@ -238,18 +238,22 @@
                 <br>
               {{ end }}
 
-              <strong>Tags:</strong>
+              <h4>Tags</h4>
               {{- partial "tags.html" . -}}
             </article>
 
-            <br style="clear:both;">
+            <div>
+              <h3>Share</h3>
+              <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=65d9851dc0be3b0019eaef5f&product=inline-share-buttons&source=platform" async="async"></script>
+              <div class="sharethis-inline-share-buttons"></div>
+            </div>
+        </section>
 
-            <section>
-              <div>
-                <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=65d9851dc0be3b0019eaef5f&product=inline-share-buttons&source=platform" async="async"></script>
-                <div class="sharethis-inline-share-buttons"></div>
-              </div>
-              <br>
+        <aside class="w-30-l mt6-l">
+          {{- partial "menu-contextual.html" . -}}
+
+          <section>
+            <h4>Comments</h4>
               <div class="mt6 instapaper_ignoref">
               {{ if .Site.Config.Services.Disqus.Shortname }}
                 {{ template "_internal/disqus.html" . }}
@@ -257,12 +261,8 @@
               {{ if .Site.Params.commentoEnable }}
                 {{- partial "commento.html" . -}}
               {{ end }}
-              </div>
-            </section>
-        </section>
-
-        <aside class="w-30-l mt6-l">
-          {{- partial "menu-contextual.html" . -}}
+            </div>
+          </section>
         </aside>
     </div>
 
