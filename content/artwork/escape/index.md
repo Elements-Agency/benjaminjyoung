@@ -15,7 +15,7 @@ size: 14.1x10.2in (36x26cm)
 tags: [human figure, snowy landscape, fence, open field, tire tracks, watercolor paint, hybrid impressionism, landscape art, cool tone, restrained pallette]
 featured: true
 popularity: 3
-original: https://www.saatchiart.com/art/Painting-Winter-Escape-Snowy-Landscape-Watercolor-Painting/2418035/11523179/view
+original: https://www.saatchiart.com/art/Painting-Winter-Escape-Landscape-Watercolor-Painting/2418035/11490363/view
 prints: https://artistbenyoung.etsy.com/listing/1669207104/snowy-landscape-painting-on-framed
 digital: https://www.patreon.com/ArtistBenYoung/shop/escape-digital-download-139688
 printsprice: $29+
