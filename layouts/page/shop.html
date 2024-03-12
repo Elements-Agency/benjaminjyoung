@@ -118,4 +118,8 @@
     {{ block "footer" . }}{{ partialCached "inside-footer.html" . }}{{ end }}
   </div>
 
+  <script>
+    fbq('track', 'Search');
+  </script>
+
 {{ end }}
