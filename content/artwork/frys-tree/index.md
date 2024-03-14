@@ -70,6 +70,6 @@ Ben Young both an avid painter and an outdoors hiker, combined his two loves in 
 
 ---
 
-## Purchase ##
+## Artwork Purchase Options ##
 
 The original is framed and comes with mounting hardware.

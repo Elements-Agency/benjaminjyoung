@@ -66,6 +66,6 @@ Ben Young, a North East Ohio resident, frequently bicycles along the shorelines 
 
 ---
 
-## Purchase ##
+## Artwork Purchase Options ##
 
 The original painting is custom framed by [Cyrus Custom Framing](http://cyruscustom.com/) with a lighter wood color frame to match some of the light color tones in the painting, so the rockworks can pop, along with an off-white mat to stay neutral. Mounting hardware included.

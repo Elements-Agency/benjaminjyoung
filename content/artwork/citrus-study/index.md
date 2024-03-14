@@ -60,4 +60,4 @@ Ben Young grew up in childhood with an amazing artistic talent, which sadly was 
 
 ---
 
-## Purchase ##
+## Artwork Purchase Options ##
