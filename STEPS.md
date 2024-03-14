@@ -17,4 +17,5 @@ Here is a list of steps to follow to upload a new artwork:
 13. Upload to Patreon.
 14. Upload to Printful.
 15. Make Etsy product from Printful product.
-16. Post the Instagram post, the following day.
+16. Share on Twitter.
+17. Post the Instagram post, the following day.
