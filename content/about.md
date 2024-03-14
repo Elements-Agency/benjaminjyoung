@@ -1,10 +1,9 @@
 ---
 layout: inside
+title: About Artist
 heading: About Artist
 description: Contemporary impressionism artist. Water colors, oil paint, gouache, acrylics, & oil pastel paintings.
 ---
-
-# About Artist #
 
 {{< img class="benpro" width="200px" height="200px" src="/images/ben-small.webp" alt="Photo of Benjamin J. Young" title="Ben Young" >}}
 
