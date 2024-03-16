@@ -19,7 +19,7 @@ original: https://www.saatchiart.com/art/Painting-Winter-Escape-Landscape-Waterc
 prints: https://artistbenyoung.etsy.com/listing/1669207104/snowy-landscape-painting-on-framed
 digital: https://www.patreon.com/ArtistBenYoung/shop/escape-digital-download-139688
 originalprice: $545
-printsprice: $29+
+printsprice: $49+
 digitalprice: $5
 aliases: [/escape]
 ---
