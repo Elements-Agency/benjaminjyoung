@@ -13,7 +13,8 @@ category: Semiabstract
 subject: Water
 size: 12x9in (30.4x22.8cm)
 tags: [water swirl, water art, watercolor paint, semiabstract, water abstract, splash accents, broad stokes, neutral tone]
-featured: false
+featured: true
+popularity: 9
 prints: https://artistbenyoung.etsy.com/listing/1671903316/whirlpool-semi-abstract-art
 digital: https://www.patreon.com/ArtistBenYoung/shop/monochromatic-maelstorm-139678
 printsprice: $39
