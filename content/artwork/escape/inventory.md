@@ -1,6 +1,8 @@
 ---
 locations:
-  - cyrus custom framing: 2024-03-01 - current
+  - buyer: 2024-03-16
+  - home: 2024-03-16 - 2024-03-18
+  - cyrus custom framing: 2024-03-01 - 2024-03-16
   - home: 2024-02-09 - 2024-03-01
 
 paper: Baohong Cold Press Watercolor Block
@@ -15,18 +17,18 @@ materials:
  - paint: $5
  - brushes: $26
  - frame: $140
- - total: $202
+ - certificate: $5
+ - total: $207
 
 work:
  - rate: $20
  - hours: 4
  - total: $80
 
-base price: $282
-local price: $290
-sale price: $570
+sale price: $340
 
-commission: 
-net: 
-buyer: 
+commission: $0
+net: $340
+profit: $133
+buyer: Fred Boone
 ---

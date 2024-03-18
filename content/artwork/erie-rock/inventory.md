@@ -1,6 +1,7 @@
 ---
 locations:
-  - cyrus custom framing: 2024-03-01 - current
+  - home: 2024-03-16 - current
+  - cyrus custom framing: 2024-03-01 - 2024-03-16
   - home: 2024-02-18 - 2024-03-01
 
 paper: Baohong Cold Press Watercolor Block
@@ -15,8 +16,8 @@ materials:
  - paint: $10
  - brushes: $26
  - frame: $168
- - shipping: 
- - total: $235
+ - certificate: $5
+ - total: $240
 
 work:
  - rate: $20
