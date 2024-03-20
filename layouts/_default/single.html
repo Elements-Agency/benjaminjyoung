@@ -165,8 +165,20 @@
 
                       {{ if $.Params.originalprice }}
                         <strong>Price:</strong>
+
+                        {{ if eq $.Params.status "sold" }}
+                          <del>
+                        {{ end }}
+
                         {{ $.Params.originalprice }}
-                        <em>(Free Shipping)</em>
+
+                        {{ if eq $.Params.status "sold" }}
+                          </del>
+                          &nbsp;
+                          <strong>SOLD</strong>
+                        {{ else }}
+                          <em>(Free Shipping)</em>
+                        {{ end }}
                       {{ end }}
 
                       <br>

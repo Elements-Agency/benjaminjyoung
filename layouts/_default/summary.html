@@ -4,24 +4,41 @@
     {{ $thumbnail := $thumbnail.Fill "300x300 Center" }}
     {{ $thumbnail := $thumbnail.Resize "300x webp q90" }}
 
-    <a class="thumbnail" href="{{ .RelPermalink }}" data-position="center">
-      <img src="{{ $thumbnail.RelPermalink }}" width="300px" height="300px" loading="lazy" style="float:right; margin:3.5em 4em 2em;" alt="{{ .Params.alt }}" title='{{ .Title }} ({{ .Date| time.Format "2006" }}) by {{ .Site.Copyright }}' />
-    </a>
+    {{ $text := "" }}
+    {{ if eq .Params.status "sold" }}
+      {{ $text = "SOLD" }}
+    {{ end }}
+
+    {{ $opts := dict
+      "color" "#888"
+      "size" 100
+    }}
+    {{ $filter := images.Text $text $opts }}
+
+    {{ with $thumbnail | images.Filter $filter }}
+      <a class="thumbnail" href="{{ $.RelPermalink }}" data-position="center">
+        <img src="{{ .RelPermalink }}" width="300px" height="300px" style="float:right; margin:3.5em 4em 2em;" alt="{{ $.Params.alt }}" title='{{ $.Title }} ({{ $.Date| time.Format "2006" }}) by {{ $.Site.Copyright }}' />
+      </a>
+    {{ end }}
 
     <h2 class="f3 near-black" style="font-size:3em; margin-bottom:0.2em;">
       <a href="{{ .RelPermalink }}" class="link black dim">
         {{ .Title }}
       </a>
     </h2>
+
     <div class="nested-links f5 lh-copy nested-copy-line-height">
       <p>
         <em>{{ .Date | time.Format "January 2, 2006" }}</em>
       </p>
+
       <p>{{ .Summary }}</p>
     </div>
+
     <a href="{{.RelPermalink}}" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">
       <strong>Read More &gt;</strong>
     </a>
+
   </div>
 </div>
 

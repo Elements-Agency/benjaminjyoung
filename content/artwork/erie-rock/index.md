@@ -12,7 +12,7 @@ material: Cold Press Cotton Paper
 category: Realism
 subject: Landscape
 size: 10.2x14.1in (26x36cm)
-tags: [rocks, lake erie, cleveland ohio, great lakes, beach, water waves, landscape art, watercolor paint, realism, overcast day, coastal landscape]
+tags: [rocks, lake erie, cleveland ohio, great lakes, beach, water waves, landscape art, watercolor paint, realism, overcast day, coastal landscape, sold]
 featured: true
 popularity: 3
 original: https://www.saatchiart.com/art/Painting-Erie-Rock-Watercolor-Painting/2418035/11490745/view
@@ -21,6 +21,7 @@ digital: https://www.patreon.com/ArtistBenYoung/shop/erie-rock-digital-download-
 originalprice: $790
 printsprice: $29+
 digitalprice: $5
+status: sold
 aliases: [/erie-rock]
 ---
 
