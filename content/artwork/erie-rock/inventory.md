@@ -28,7 +28,9 @@ work:
 sale price: $380
 
 commission: $0
-net: $380
-profit: $140
+logistics: $50
+
+net: $330
+profit: $90
 buyer: Ted Turner
 ---
