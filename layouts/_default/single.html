@@ -188,6 +188,21 @@
 
                     <br>
                   </li>
+                {{ else }}
+                  <li style="display:inline-block; padding:1em; text-align:center; width:250px;">
+                    <h3>Original</h3>
+
+                    <p style="text-align:center;">
+                      Interested in purchasing the original?
+                      <a href="/contact">Contact me</a> to discuss purchasing.
+                    </p>
+
+                    <br>
+  
+                    <a href="/contact" class="button">Contact Artist</a>
+
+                    <br><br>
+                  </li>
                 {{ end }}
 
                 {{ with $print := .Resources.GetMatch "print.jpg" }}
