@@ -183,7 +183,7 @@
 
                       <br>
 
-                      <a href="{{ $.Params.original }}" class="button">View The Original</a>
+                      <a href="{{ $.Params.original }}" onclick="fbq('track', 'AddToCart'); fbq('track', 'InitiateCheckout');" class="button">View The Original</a>
                     </p>
 
                     <br>
@@ -194,12 +194,12 @@
 
                     <p style="text-align:center;">
                       Interested in purchasing the original?
-                      <a href="/contact">Contact me</a> to discuss purchasing.
+                      <a href="/contact" onclick="fbq('track', 'AddToCart'); fbq('track', 'InitiateCheckout');">Contact me</a> to discuss purchasing.
                     </p>
 
                     <br>
   
-                    <a href="/contact" class="button">Contact Artist</a>
+                    <a href="/contact" onclick="fbq('track', 'AddToCart'); fbq('track', 'InitiateCheckout');" class="button">Contact Artist</a>
 
                     <br><br>
                   </li>
@@ -225,7 +225,7 @@
 
                       <br>
 
-                      <a href="{{ $.Params.prints }}" class="button">View Print Options</a>
+                      <a href="{{ $.Params.prints }}" onclick="fbq('track', 'AddToCart'); fbq('track', 'InitiateCheckout');" class="button">View Print Options</a>
                     </p>
 
                     <br>
@@ -252,7 +252,7 @@
 
                       <br>
 
-                      <a href="{{ .Params.digital }}" class="button">Digital Download</a>
+                      <a href="{{ .Params.digital }}" onclick="fbq('track', 'AddToCart'); fbq('track', 'InitiateCheckout');" class="button">Digital Download</a>
                     </p>
 
                     <br>
@@ -265,14 +265,14 @@
                 <p style="text-align:center; margin:0;">
                   - Want <strong>better pricing</strong> for the original?
                   If you're local to <em>North East Ohio</em>,
-                  <a href="/contact">contact me</a>. -
+                  <a href="/contact" onclick="fbq('track', 'AddToCart'); fbq('track', 'InitiateCheckout');">contact me</a>. -
                 </p>
               {{ end }}
 
               {{ if .Params.prints }}
                 <p style="text-align:center; margin-top:0;">
                   - Looking for a <strong>different prints format</strong>?
-                  <a href="/contact">Contact me</a>,
+                  <a href="/contact" onclick="fbq('track', 'AddToCart'); fbq('track', 'InitiateCheckout');">Contact me</a>,
                   and I can setup <em>more options</em> for purchasing. -
                 </p>
               {{ end }}
