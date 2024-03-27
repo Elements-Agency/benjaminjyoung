@@ -39,6 +39,10 @@ This artwork is to further define the narrative of the [Winter Escape series](/t
 
 The artwork is painted with [watercolor paint](https://www.dpbolvw.net/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Fwinsor-newton-professional-watercolor-black-box-half-pan-set-of-12%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D00319-2012%26country%3Dus%26currency%3Dusd&cjsku=00319-2012) on [cold press cotton watercolor paper block](https://www.kqzyfj.com/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Farches-watercolor-block-11-x-14-cold-press-20-sheets%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D10020-1004%26country%3Dus%26currency%3Dusd&cjsku=10020-1004). I stuck entirely to my [Princeton Aqua Elite set](https://www.anrdoezrs.net/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Fprinceton-aqua-elite-series-4850-synthetic-brushes-set-of-4%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D05468-1049%26country%3Dus%26currency%3Dusd&cjsku=05468-1049) set for paint brushes.
 
+Here is an visual overview of the progress:
+
+{{< progress >}}
+
 This took quite some time and a many number of glazing layers. To create the complexity of the sky and to get the lower values right.
 
 {{< purchase >}}
