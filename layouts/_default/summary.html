@@ -1,4 +1,4 @@
-<div class="relative w-100 mb4 bg-white nested-copy-line-height">
+<div id="{{ trim .Title " -" | safeURL }}" class="relative w-100 mb4 bg-white nested-copy-line-height">
   <div class="bg-white mb3 pa4 gray overflow-hidden">
     {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
     {{ $thumbnail := $thumbnail.Fill "300x300 Center" }}

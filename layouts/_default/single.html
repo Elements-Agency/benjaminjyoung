@@ -21,9 +21,9 @@
           {{/* Breadcrumbs */}}
           {{ if .IsPage }}
             <nav class="f7">
-              <a href="{{ .Site.BaseURL }}" class="link blue hover-black">Home</a>
+              <a href="{{ .Site.BaseURL }}#{{ trim .Title " -" | safeURL }}" class="link blue hover-black">Home</a>
               <span class="mh1">/</span>
-              <a href="{{ .CurrentSection.RelPermalink }}" class="link blue hover-black">{{ .CurrentSection.Title }}</a>
+              <a href="{{ .CurrentSection.RelPermalink }}#{{ trim .Title " -" | safeURL }}" class="link blue hover-black">{{ .CurrentSection.Title }}</a>
               <span class="mh1">/</span>
               <a href="{{ .RelPermalink }}" class="link blue hover-black">{{ .Title }}</a>
             </nav>
