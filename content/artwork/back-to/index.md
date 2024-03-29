@@ -16,6 +16,8 @@ tags: [human figure, snowy landscape, trail, trees, forest, snow tracks, waterco
 featured: false
 digital: https://www.patreon.com/ArtistBenYoung/shop/back-to-download-154341
 digitalprice: $5
+prints: https://artistbenyoung.etsy.com/listing/1690886428/winter-hike-watercolor-painting-snow
+printsprice: $59
 aliases: [/back-to]
 ---
 
