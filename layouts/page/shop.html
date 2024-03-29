@@ -93,7 +93,7 @@
                 <ul>
                     {{ range $painting := first $n_posts $section }}
                         {{ with $print := .Resources.GetMatch "print.jpg" }}
-                            {{ $print := $print.Fill "200x200 q85" }}
+                            {{ $print := $print.Fill "200x200 Center q85" }}
                             <li style="display:inline-block; padding:1em; text-align:center;">
                                 <a href="{{ $painting.Params.prints }}" onclick="fbq('track', 'AddToCart');" data-position="center">
                                     <img src="{{ $print.RelPermalink }}" width="200px" height="200px" loading="lazy" alt="Buy a print of {{ $painting.Title }}" title="Print of {{ $painting.Title }}">
