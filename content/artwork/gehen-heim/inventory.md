@@ -6,16 +6,16 @@ paper: Baohong Cold Press Watercolor Block
 paper size: 14.1x10.2in
 paint: Artist Loft Watercolor Paint
 brushes: Princeton Aqua Elite
-frame: Michael's Framing
+frame: Cyrus Custom Framing
 frame size: 
 
 materials:
  - paper: $31
- - paint: $5
+ - paint: $30
  - brushes: $26
- - frame: $40
+ - frame: $140
  - certificate: $5
- - total: $107
+ - total: $232
 
 work:
  - rate: $20
@@ -25,13 +25,13 @@ work:
 marketing:
  - engagement: $10
  - boost: $10
- - conversion: $100
- - total: $120
+ - conversion: $30
+ - total: $50
 
 sale price: $470
 
 commission: $0
-net: 
-profit: 
+net: $425
+profit: $168
 buyer: 
 ---
