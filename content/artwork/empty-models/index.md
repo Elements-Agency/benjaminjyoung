@@ -13,7 +13,8 @@ category: Impressionism
 subject: Still Life
 size: 
 tags: [wine bottle, pitcher jub, tablecloth, dining table, cloth backdrop, oil pastels, impressionism, still life art, artwork study, neutral tone]
-featured: false
+featured: true
+popularity: 9
 prints: https://artistbenyoung.etsy.com/listing/1676391360/empty-models-impressionism-painting-oil
 digital: https://www.patreon.com/user/shop/empty-models-digital-download-139632
 printsprice: $59
