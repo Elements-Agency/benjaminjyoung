@@ -14,7 +14,7 @@ subject: Floral
 size: 
 tags: [flower, white lily, drawing, watercolor pencil, realism, floral art]
 featured: true
-popularity: 0
+popularity: 5
 prints: https://artistbenyoung.etsy.com/listing/1687592692/lily-flower-watercolor-pencil
 printsprice: $49
 aliases: [/tomb-flowers]

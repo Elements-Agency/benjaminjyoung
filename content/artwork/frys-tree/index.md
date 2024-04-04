@@ -14,7 +14,7 @@ subject: Landscape
 size: 9x12in (22.8x30.4cm)
 tags: [tree subject, forestry, night time, twilight, dusk, watercolor paint, gouache paint, hybrid impressionism, landscape art, ohio park]
 featured: true
-popularity: 2
+popularity: 4
 original: https://www.saatchiart.com/art/Painting-Fry-s-Tree-Watercolor-Painting/2418035/11491453/view
 prints: https://artistbenyoung.etsy.com/listing/1670341658/dark-twilight-tree-silhouette
 digital: https://www.patreon.com/ArtistBenYoung/shop/frys-tree-digital-download-139651

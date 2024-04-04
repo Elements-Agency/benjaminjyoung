@@ -14,7 +14,7 @@ subject: Self Portrait
 size: 9x12in (22.9x30.5cm)
 tags: [facial hair, beard, self portrait art, oil pastels, impressionism, dark tone, impressionist artist]
 featured: true
-popularity: 6
+popularity: 7
 original: https://www.saatchiart.com/art/Painting-Mac-Reflections-Oil-Pastel-Painting/2418035/11491601/view
 prints: https://artistbenyoung.etsy.com/listing/1680323041/mac-reflections-self-portrait
 digital: https://www.patreon.com/ArtistBenYoung/shop/mac-reflections-digital-download-139666

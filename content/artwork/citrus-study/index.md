@@ -14,7 +14,7 @@ subject: Still Life
 size: 14.1x10.2in (36x26cm)
 tags: [yellow lemon, green lime, citrus fruit, coffee cup, ceramic mug, gouache paint, watercolor paint, realism, still life art, vivid colors]
 featured: true
-popularity: 7
+popularity: 8
 prints: https://artistbenyoung.etsy.com/listing/1668772724/citrus-study-still-life
 digital: https://www.patreon.com/ArtistBenYoung/shop/citrus-study-digital-download-139671
 printsprice: $29+
