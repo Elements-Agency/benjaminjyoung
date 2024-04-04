@@ -1,17 +1,18 @@
 ---
 title: Cherry Popping
-description: Coming Soon
+description: Cherry Popping was my first oil painting, to practice using oil paints, learning how to manipulate it. Featuring two Red Cherry fruits.
 author: Benjamin J. Young
 date: 2024-03-17
-alt: Coming Soon
+alt: This is a realistic painting of two cherries connected by their stems, with a play of light and shadow enhancing their rich red color.
 images: ['painting.jpg']
+videos: []
 type: Painting
 medium: Oil
 material: Canvas Board
 category: Realism
 subject: Still Life
 size: 10.2x14.1in (26x36cm)
-tags: [cherries, fruit, red gloss, still life art, oil paint, realism]
+tags: [cherries, fruit, red gloss, still life art, oil paint, realism, study]
 featured: true
 popularity: 0
 prints: https://artistbenyoung.etsy.com/listing/1698856645/cherry-realism-oil-painting-still-life
