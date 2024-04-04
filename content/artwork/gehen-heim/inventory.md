@@ -29,6 +29,7 @@ marketing:
  - total: $50
 
 sale price: $470
+exhibit price: $940
 
 commission: $0
 net: $425
