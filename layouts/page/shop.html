@@ -25,7 +25,12 @@
 
             <br>
 
-            {{/* Define a section to pull recent posts from. For Hugo 0.20 this will default to the section with the most number of pages. */}}
+            <div id="my-store-101772706"></div>
+            <div>
+              <script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?101772706&data_platform=code&data_date=2024-04-07" charset="utf-8"></script><script type="text/javascript"> xProductBrowser("categoriesPerRow=3","views=grid(20,3) list(60) table(60)","categoryView=grid","searchView=list","id=my-store-101772706");</script>
+            </div>
+
+            <!--
             {{ $mainSections := .Site.Params.mainSections | default (slice "post") }}
         
             {{/* Create a variable with that section to use in multiple places. */}}
@@ -119,32 +124,8 @@
                     </script>
                 </div>
 
-                <!--
-                <hr>
-                <br>
-                
-                <h2>Digital Downloads</h2>
-                <p style="text-align:center;">Here is a list of digital downloads, you can either buy or access with a subscription, on <a href="https://www.patreon.com/ArtistBenYoung/shop/">Patreon</a>.</p>
-
-                <ul>
-                    {{ range $painting := first $n_posts $section }}
-                        {{ with $digital := .Resources.GetMatch "painting.jpg" }}
-                            {{ $digital := $digital.Fill "200x200 q85" }}
-                            <li style="display:inline-block; padding:1em; text-align:center;">
-                                <a href="{{ $painting.Params.digital }}" onclick="fbq('track', 'AddToCart');" data-position="center">
-                                    <img src="{{ $digital.RelPermalink }}" width="200px" height="200px" loading="lazy" alt="Download a digital copy of {{ $painting.Title }}" title="Digital download of {{ $painting.Title }}">
-                                    <br>
-                                    <strong>{{ $painting.Title }}</strong>
-                                    <br>
-                                    Download: <em>{{ $painting.Params.digitalprice }}</em>
-                                </a>
-                            </li>
-                        {{ end }}
-                    {{ end }}
-                </ul>
-                -->
-
             {{ end }}
+            -->
             
         </section>
     </div>

@@ -16,9 +16,9 @@ tags: [cherries, fruit, red gloss, still life art, oil paint, realism, study]
 featured: true
 popularity: 0
 prints: https://artistbenyoung.etsy.com/listing/1698856645/cherry-realism-oil-painting-still-life
-original: https://www.saatchiart.com/art/Painting-Cherry-Popping-Oil-Painting-Still-Life/2418035/11614607/view
+original: /shop/#!/Cherry-Popping-Oil-Painting-Original/p/645940862/category=0
 printsprice: $39+
-originalprice: $735
+originalprice: $399
 aliases: [/cherry-popping]
 ---
 

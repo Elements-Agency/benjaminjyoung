@@ -18,7 +18,7 @@ popularity: 2
 original: https://www.saatchiart.com/art/Painting-Erie-Rock-Watercolor-Painting/2418035/11490745/view
 prints: https://artistbenyoung.etsy.com/listing/1682533283/lake-erie-rock-cleveland-ohio-landscape
 digital: https://www.patreon.com/ArtistBenYoung/shop/erie-rock-digital-download-139714
-originalprice: $790
+originalprice: $399
 printsprice: $29+
 digitalprice: $5
 status: sold

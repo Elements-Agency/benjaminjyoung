@@ -183,12 +183,15 @@
 
                       <br>
 
-                      <div id="my-store-101772706"></div>
-                      <div>
-                        <script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?101772706&data_platform=code&data_date=2024-04-07" charset="utf-8"></script><script type="text/javascript"> xProductBrowser("categoriesPerRow=3","views=grid(20,3) list(60) table(60)","categoryView=grid","searchView=list","id=my-store-101772706");</script>
-                      </div>
-
-                      <a href="{{ $.Params.original }}" onclick="fbq('track', 'AddToCart'); fbq('track', 'InitiateCheckout');" class="button">View The Original</a>
+                      {{ if eq $.Params.status "sold" }}
+                          <button class="button" disabled>
+                            Buy The Original
+                          </button>
+                      {{ else }}
+                        <a href="{{ $.Params.original }}" onclick="fbq('track', 'AddToCart'); fbq('track', 'InitiateCheckout');" class="button">
+                          Buy The Original
+                        </a>
+                      {{ end }}
                     </p>
 
                     <br>
@@ -230,57 +233,22 @@
 
                       <br>
 
-                      <a href="{{ $.Params.prints }}" onclick="fbq('track', 'AddToCart'); fbq('track', 'InitiateCheckout');" class="button">View Print Options</a>
-                    </p>
-
-                    <br>
-                  </li>
-                {{ end }}
-
-                <!--
-                {{ if .Params.digital }}
-                  {{ $digital := .Resources.GetMatch "painting.jpg" }}
-                  {{ $digital := $digital.Fill "250x250 q85" }}
-                  <li style="display:inline-block; padding:1em; text-align:center;">
-                    <h3>Digital Download</h3>
-
-                    <p style="text-align:center; margin-bottom:0;">
-                      <a href="{{ .Params.digital }}" onclick="fbq('track', 'AddToCart'); fbq('track', 'InitiateCheckout');" data-position="center">
-                        <img src="{{ $digital.RelPermalink }}" width="250px" height="250px" loading="lazy" alt="Digital Download for {{ .Title }}" title="Digital Download of {{ .Title }}">
+                      <a href="{{ $.Params.prints }}" onclick="fbq('track', 'AddToCart'); fbq('track', 'InitiateCheckout');" class="button">
+                        Purchase Print
                       </a>
-
-                      <br>
-
-                      {{ if $.Params.digitalprice }}
-                        <strong>Price:</strong>
-                        {{ $.Params.digitalprice }}
-                      {{ end }}
-
-                      <br>
-
-                      <a href="{{ .Params.digital }}" onclick="fbq('track', 'AddToCart'); fbq('track', 'InitiateCheckout');" class="button">Digital Download</a>
                     </p>
 
                     <br>
                   </li>
                 {{ end }}
-                -->
 
               </ul>
 
-              {{ if .Params.original }}
-                <p style="text-align:center; margin:0;">
-                  - Want <strong>better pricing</strong> for the original?
-                  If you're local to <em>North East Ohio</em>,
-                  <a href="/contact" onclick="fbq('track', 'AddToCart'); fbq('track', 'InitiateCheckout');">contact me</a>. -
-                </p>
-              {{ end }}
-
               {{ if .Params.prints }}
                 <p style="text-align:center; margin-top:0;">
-                  - Looking for a <strong>different prints format</strong>?
+                  - Looking for a <strong>different print material</strong>?
                   <a href="/contact" onclick="fbq('track', 'AddToCart'); fbq('track', 'InitiateCheckout');">Contact me</a>,
-                  and I can setup <em>more options</em> for purchasing. -
+                  and I can setup <em>more options</em>. -
                 </p>
               {{ end }}
 
