@@ -12,15 +12,16 @@ material: Cold Press Pulp Paper
 category: Realism
 subject: Animal
 size: 9x12in (22.8x30.4cm)
-tags: [bird, northern red cardinal, drawing, watercolor pencils, realism, animal art]
+tags: [bird, northern red cardinal, drawing, watercolor pencils, realism, animal art, sold]
 featured: true
 popularity: 3
-original: https://www.saatchiart.com/art/Drawing-Northern-Cadinal-Watercolor-Pencil-Drawing/2418035/11491525/view
+original: /shop/#!/Northern-Cardinal-Watercolor-Pencil-Drawing-Original/p/645991759/category=0
 prints: https://artistbenyoung.etsy.com/listing/1669896136/northern-red-cardinal-bird-drawing-with
 digital: https://www.patreon.com/ArtistBenYoung/shop/northern-cardinal-139662
-originalprice: $435
+originalprice: $299
 printsprice: $29+
 digitalprice: $5
+status: sold
 aliases: [/northern-cardinal, /artwork/rage-fueled-bird]
 ---
 

@@ -12,7 +12,7 @@ material: Construction Paper
 category: Impressionism
 subject: Self Portrait
 size: 9x12in (22.9x30.5cm)
-tags: [facial hair, beard, self portrait art, oil pastels, impressionism, dark tone, impressionist artist]
+tags: [facial hair, beard, self portrait art, oil pastels, impressionism, dark tone, impressionist artist, for sale]
 featured: true
 popularity: 7
 original: /shop/#!/Mac-Reflections-Oil-Pastel-Drawing-Original/p/645940870/category=0
@@ -21,6 +21,7 @@ digital: https://www.patreon.com/ArtistBenYoung/shop/mac-reflections-digital-dow
 originalprice: $199
 printsprice: $39+
 digitalprice: $5
+status: sale
 aliases: [/mac-reflections]
 ---
 

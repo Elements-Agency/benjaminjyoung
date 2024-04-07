@@ -183,15 +183,13 @@
 
                       <br>
 
-                      {{ if eq $.Params.status "sold" }}
-                          <button class="button" disabled>
-                            Buy The Original
-                          </button>
-                      {{ else }}
-                        <a href="{{ $.Params.original }}" onclick="fbq('track', 'AddToCart'); fbq('track', 'InitiateCheckout');" class="button">
+                      <a href="{{ $.Params.original }}" onclick="fbq('track', 'AddToCart'); fbq('track', 'InitiateCheckout');" class="button">
+                        {{ if eq $.Params.status "sold" }}
+                          View The Original
+                        {{ else }}
                           Buy The Original
-                        </a>
-                      {{ end }}
+                        {{ end }}
+                      </a>
                     </p>
 
                     <br>
@@ -207,7 +205,9 @@
 
                     <br>
   
-                    <a href="/contact" onclick="fbq('track', 'AddToCart'); fbq('track', 'InitiateCheckout');" class="button">Contact Artist</a>
+                    <a href="/contact" onclick="fbq('track', 'AddToCart'); fbq('track', 'InitiateCheckout');" class="button">
+                      Contact Artist
+                    </a>
 
                     <br><br>
                   </li>

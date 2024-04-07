@@ -12,13 +12,14 @@ material: Cold Press Cotton Paper
 category: Hybrid Impressionism
 subject: Landscape
 size: 14.1x10.2in (36x26cm)
-tags: [human figure, snowy landscape, stormy sky, dusk, nightfall, trees, forest, snow, watercolor paint, hybrid impressionism, landscape art, dark tone, winter escape series]
+tags: [human figure, snowy landscape, stormy sky, dusk, nightfall, trees, forest, snow, watercolor paint, hybrid impressionism, landscape art, dark tone, winter escape series, sold]
 featured: true
 popularity: 0
+original: /shop/#!/Gehen-Heim-Watercolor-Painting-Original/p/645990286/category=0
 prints: https://artistbenyoung.etsy.com/listing/1690888436/winter-night-watercolor-painting-frozen
-original: https://www.saatchiart.com/art/Painting-Gehen-Heim-Watercolor-Landscape-Painting/2418035/11614687/view
+originalprice: $499
 printsprice: $59+
-originalprice: $940
+status: sold
 aliases: [/gehen-heim, /artwork/going-home]
 ---
 

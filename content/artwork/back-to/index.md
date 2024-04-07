@@ -12,7 +12,7 @@ material: Cold Press Cotton Paper
 category: Hybrid Impressionism
 subject: Landscape
 size: 14.1x10.2in (36x26cm)
-tags: [human figure, snowy landscape, trail, trees, forest, snow tracks, watercolor paint, hybrid impressionism, landscape art, cool tone, winter escape series]
+tags: [human figure, snowy landscape, trail, trees, forest, snow tracks, watercolor paint, hybrid impressionism, landscape art, cool tone, winter escape series, for sale]
 featured: false
 digital: https://www.patreon.com/ArtistBenYoung/shop/back-to-download-154341
 digitalprice: $5

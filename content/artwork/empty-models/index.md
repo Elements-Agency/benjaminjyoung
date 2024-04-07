@@ -12,7 +12,7 @@ material: Construction Paper
 category: Impressionism
 subject: Still Life
 size: 8x10in (20.32x25.40cm)
-tags: [wine bottle, pitcher jub, tablecloth, dining table, cloth backdrop, oil pastels, impressionism, still life art, artwork study, neutral tone]
+tags: [wine bottle, pitcher jub, tablecloth, dining table, cloth backdrop, oil pastels, impressionism, still life art, artwork study, neutral tone, for sale]
 featured: true
 popularity: 9
 original: /shop/#!/Empty-Models-Oil-Pastel-Drawing-Original/p/645927912/category=0
@@ -21,6 +21,7 @@ digital: https://www.patreon.com/user/shop/empty-models-digital-download-139632
 originalprice: $199
 printsprice: $59
 digitalprice: $5
+status: sale
 aliases: [/empty-models]
 ---
 

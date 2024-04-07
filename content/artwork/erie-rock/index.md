@@ -15,7 +15,7 @@ size: 10.2x14.1in (26x36cm)
 tags: [rocks, lake erie, cleveland ohio, great lakes, beach, water waves, landscape art, watercolor paint, realism, overcast day, coastal landscape, sold]
 featured: true
 popularity: 2
-original: https://www.saatchiart.com/art/Painting-Erie-Rock-Watercolor-Painting/2418035/11490745/view
+original: /shop/#!/Erie-Rock-Watercolor-Painting-Original/p/645990284/category=0
 prints: https://artistbenyoung.etsy.com/listing/1682533283/lake-erie-rock-cleveland-ohio-landscape
 digital: https://www.patreon.com/ArtistBenYoung/shop/erie-rock-digital-download-139714
 originalprice: $399

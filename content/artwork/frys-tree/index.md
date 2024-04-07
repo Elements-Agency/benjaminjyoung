@@ -12,15 +12,16 @@ material: Cold Press Pulp Paper
 category: Impressionism
 subject: Landscape
 size: 9x12in (22.8x30.4cm)
-tags: [tree subject, forestry, night time, twilight, dusk, watercolor paint, gouache paint, hybrid impressionism, landscape art, ohio park]
+tags: [tree subject, forestry, night time, twilight, dusk, watercolor paint, gouache paint, hybrid impressionism, landscape art, ohio park, sold]
 featured: true
 popularity: 4
-original: https://www.saatchiart.com/art/Painting-Fry-s-Tree-Watercolor-Painting/2418035/11491453/view
+original: /shop/#!/Frys-Tree-Watercolor-Painting-Original/p/645990323/category=0
 prints: https://artistbenyoung.etsy.com/listing/1670341658/dark-twilight-tree-silhouette
 digital: https://www.patreon.com/ArtistBenYoung/shop/frys-tree-digital-download-139651
-originalprice: $540
+originalprice: $399
 printsprice: $29+
 digitalprice: $5
+status: sold
 aliases: [/frys-tree]
 ---
 

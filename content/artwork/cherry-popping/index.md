@@ -12,13 +12,14 @@ material: Canvas Board
 category: Realism
 subject: Still Life
 size: 14x11in (35.56cmx27.94cm)
-tags: [cherries, fruit, red gloss, still life art, oil paint, realism, study]
+tags: [cherries, fruit, red gloss, still life art, oil paint, realism, study, for sale]
 featured: true
 popularity: 0
 prints: https://artistbenyoung.etsy.com/listing/1698856645/cherry-realism-oil-painting-still-life
 original: /shop/#!/Cherry-Popping-Oil-Painting-Original/p/645940862/category=0
 printsprice: $39+
 originalprice: $399
+status: sale
 aliases: [/cherry-popping]
 ---
 
