@@ -12,12 +12,11 @@ material: Cold Press Pulp Paper
 category: Realism
 subject: Water
 size: 12x9in
-tags: [water droplet, liquid ripples, painting, water soluble pencil, realism, water art, for sale]
+tags: [water droplet, liquid ripples, painting, water soluble pencil, realism, water art]
 featured: true
 popularity: 10
 digital: https://www.patreon.com/ArtistBenYoung/shop/drip-digital-download-143232
 digitalprice: $5
-status: sale
 aliases: [/drip]
 ---
 

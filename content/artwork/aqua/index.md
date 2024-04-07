@@ -12,11 +12,10 @@ material: Cold Press Pulp Paper
 category: Realism
 subject: Water
 size: 12x9in
-tags: [water splash, liquid spill, wine glass, painting, water soluble pencil, realism, water art, for sale]
+tags: [water splash, liquid spill, wine glass, painting, water soluble pencil, realism, water art]
 featured: false
 digital: https://www.patreon.com/ArtistBenYoung/shop/aqua-digital-download-143231
 digitalprice: $5
-status: sale
 aliases: [/aqua]
 ---
 
