@@ -73,4 +73,4 @@ Ben Young both an avid painter and an outdoors hiker, combined his two loves in 
 
 ## Artwork Purchase Options ##
 
-The original is framed and comes with mounting hardware.
+The original painting is custom framed by [Cyrus Custom Framing](http://cyruscustom.com/) with a black solid wood frame to frame the painting, along with a gray slate mat to make the bright white snow stand out. Mounting hardware included.

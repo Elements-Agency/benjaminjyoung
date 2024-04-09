@@ -62,3 +62,5 @@ Ben Young grew up in childhood with an amazing artistic talent, which sadly was 
 ---
 
 ## Artwork Purchase Options ##
+
+The original is framed and comes with mounting hardware.
