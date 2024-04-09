@@ -16,11 +16,9 @@ tags: [human figure, snowy landscape, fence, open field, tire tracks, watercolor
 featured: true
 popularity: 1
 original: /shop/#!/Escape-Watercolor-Painting-Original/p/645943624/category=0
-prints: https://artistbenyoung.etsy.com/listing/1669207104/snowy-landscape-painting-on-framed
-digital: https://www.patreon.com/ArtistBenYoung/shop/escape-digital-download-139688
+prints: /shop/#!/Escape-Print/p/646467367/category=0
 originalprice: $399
-printsprice: $49+
-digitalprice: $5
+printsprice: $29
 status: sold
 aliases: [/escape]
 ---
