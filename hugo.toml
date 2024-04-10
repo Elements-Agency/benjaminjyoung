@@ -1,6 +1,6 @@
 baseURL = 'https://benjaminjyoung.com/'
 languageCode = 'en-us'
-title = 'Artist Benjamin J. Young'
+title = 'Artist Ben Young'
 copyright = 'Benjamin J. Young'
 enableRobotsTXT = true
 timeout = '600'
@@ -22,20 +22,20 @@ timeout = '600'
     pageRef = '/'
     weight = 10
 [[menus.main]]
-    name = 'About'
-    pageRef = '/about'
-    weight = 20
-[[menus.main]]
     name = 'Artwork'
     pageRef = '/artwork'
-    weight = 30
-[[menus.main]]
-    name = 'Contact'
-    pageRef = '/contact'
-    weight = 40
+    weight = 20
 [[menus.main]]
     name = 'Shop'
     pageRef = '/Shop'
+    weight = 30
+[[menus.main]]
+    name = 'About'
+    pageRef = '/about'
+    weight = 40
+[[menus.main]]
+    name = 'Contact'
+    pageRef = '/contact'
     weight = 50
 
 [services]

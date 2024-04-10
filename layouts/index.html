@@ -7,63 +7,139 @@
 {{ end }}
 
 {{ define "main" }}
-<div id="main">
-  {{ block "header" . }}{{ partial "site-header.html" .}}{{ end }}
+  <div id="wrapper">
+    <section id="main">
+      <div class="items">
+        <div class="item intro">
+          <h1>{{ .Site.Title }}</h1>
+          {{ .Content }}
+        </div>
 
-  <article class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy {{ $.Param "text_color" | default "mid-gray" }}">
-      {{ .Content }}
-    </article>
+        {{ $mainSections := .Site.Params.mainSections | default (slice "post") }}
+        {{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
+        {{ $section_count := len $section }}
 
-    {{/* Define a section to pull recent posts from. For Hugo 0.20 this will default to the section with the most number of pages. */}}
-    {{ $mainSections := .Site.Params.mainSections | default (slice "post") }}
+        {{ if ge $section_count 1 }}
+          {{ $section_name := index (.Site.Params.mainSections) 0 }}
+          {{ $n_posts := $.Param "recent_posts_number" | default 120 }}
 
-    {{/* Create a variable with that section to use in multiple places. */}}
-    {{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
+          {{ range $i,$p := (sort (where $section "Params.featured" true) "Params.popularity" "asc") }}
+            {{if (modBool $i 2)}}
 
-    {{/* Check to see if the section is defined for ranging through it */}}
-    {{ $section_count := len $section }}
+              {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
+              {{ $thumbnail := $thumbnail.Fit "270x270 Center" }}
+              {{ $thumbnail := $thumbnail.Resize "270x webp q90" }}
 
-    {{ if ge $section_count 1 }}
-      {{/* Derive the section name  */}}
-      {{ $section_name := index (.Site.Params.mainSections) 0 }}
+              {{ if eq $.Params.ratio "landscape" }}
+                {{ $thumbnail = .Resources.GetMatch "painting.jpg" }}
+                {{ $thumbnail := $thumbnail.Fit "330x270 Center" }}
+                {{ $thumbnail := $thumbnail.Resize "330x webp q90" }}
+              {{ end }}
 
-      <section id="thumbnails">
-        {{ $n_posts := $.Param "recent_posts_number" | default 120 }}
+              {{ if eq $.Params.ratio "portrait" }}
+                {{ $thumbnail = .Resources.GetMatch "painting.jpg" }}
+                {{ $thumbnail := $thumbnail.Fit "210x270 Center" }}
+                {{ $thumbnail := $thumbnail.Resize "210x webp q90" }}
+              {{ end }}
 
-        {{/* Range through the first $n_posts items of the section where featured is true */}}
-        {{ range (sort (where $section "Params.featured" true) "Params.popularity" "asc") }}
-          <article>
-            {{ $full := .Resources.GetMatch "painting.jpg" }}
-            {{ $full := $full.Fit "1600x1600 webp q85" }}
-            {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
-            {{ $thumbnail := $thumbnail.Fill "210x175 Center" }}
-            {{ $thumbnail := $thumbnail.Resize "210x webp q60" }}
-
-            <a class="thumbnail" href="{{ $full.RelPermalink }}" data-position="center">
-              <img src="{{ $thumbnail.RelPermalink }}" width="210" height="175" loading="lazy" style="width:100%; height:auto;" alt="{{ .Params.alt }}" title='{{ .Title }} ({{ .Date| time.Format "2006" }}) by {{ .Site.Copyright }}' />
-            </a>
-
-            <a class="button" href="{{ .RelPermalink }}" style="float:right; margin:0 0 1em 1em; color:#fff;">View</a>
-
-            <h2>
-              <a href="{{ .RelPermalink }}">
-                {{ .Title }}
-                <em>({{ .Date| time.Format "2006" }})</em>
+              <a href="{{ .RelPermalink }}" class="image">
+                <div class="outset"><div class="frame"><div class="inset">
+                  <article class="item thumb span-{{ .Params.ratio }}">
+                    <img src="{{ $thumbnail.RelPermalink }}" alt="{{ .Params.alt }}" title='{{ .Title }} ({{ .Date| time.Format "2006" }}) by {{ .Site.Copyright }}'>
+                  </article>
+                </div></div></div>
               </a>
-            </h2>
-            <p><em>{{ .Description }}</em> &nbsp; <a href="{{ .RelPermalink }}">Read More &gt;</a></p>
-          </article>
+            {{ end }}
+          {{ end }}
+        {{ end }}
+      </div>
+
+      <div class="items">
+        {{ $mainSections := .Site.Params.mainSections | default (slice "post") }}
+        {{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
+        {{ $section_count := len $section }}
+
+        {{ if ge $section_count 1 }}
+          {{ $section_name := index (.Site.Params.mainSections) 0 }}
+          {{ $n_posts := $.Param "recent_posts_number" | default 120 }}
+
+          {{ range $i,$p := (sort (where $section "Params.featured" true) "Params.popularity" "asc") }}
+            {{if not (modBool $i 2)}}
+            {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
+            {{ $thumbnail := $thumbnail.Fit "270x270 Center" }}
+            {{ $thumbnail := $thumbnail.Resize "270x webp q90" }}
+
+            {{ if eq $.Params.ratio "landscape" }}
+              {{ $thumbnail = .Resources.GetMatch "painting.jpg" }}
+              {{ $thumbnail := $thumbnail.Fit "330x270 Center" }}
+              {{ $thumbnail := $thumbnail.Resize "330x webp q90" }}
+            {{ end }}
+
+            {{ if eq $.Params.ratio "portrait" }}
+              {{ $thumbnail = .Resources.GetMatch "painting.jpg" }}
+              {{ $thumbnail := $thumbnail.Fit "210x270 Center" }}
+              {{ $thumbnail := $thumbnail.Resize "210x webp q90" }}
+            {{ end }}
+
+              <a href="{{ .RelPermalink }}" class="image">
+                <div class="outset"><div class="frame"><div class="inset">
+                  <article class="item thumb span-{{ .Params.ratio }}">
+                    <img src="{{ $thumbnail.RelPermalink }}" alt="{{ .Params.alt }}" title='{{ .Title }} ({{ .Date| time.Format "2006" }}) by {{ .Site.Copyright }}'>
+                  </article>
+                </div></div></div>
+              </a>
+            {{ end }}
+          {{ end }}
         {{ end }}
 
+        <div class="item intro">
+          <a class="bigtext" href="/artwork">View All Artwork &gt;</a>
+        </div>
+      </div>
+    </section>
+
+    <section id="footer">
+      <section>
+        {{ partial "site-navigation.html" .}}
+
+        <p>
+          Canton, Ohio.
+          United States.
+        </p>
       </section>
-    {{ end }}
-
-    <br>
-    <p style="text-align: center;">
-      <a href="/artwork" class="button">View All Artwork</a>
-    </p>
-
-    {{ block "footer" . }}{{ partialCached "site-footer.html" . }}{{ end }}
+      <section>
+        <ul class="icons">
+          <li>
+            <a href="https://www.facebook.com/artist.benjamin.young" class="icon brands fa-facebook" title="Facebook" target="_blank">
+              <span class="label">Follow me on Facebook</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.instagram.com/artistbenyoung" class="icon brands fa-instagram" title="Instagram" target="_blank">
+              <span class="label">Follow me on Instagram</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.pinterest.com/artistbenyoung/" class="icon brands fa-pinterest" title="Pinterest" target="_blank">
+              <span class="label">Follow me on Pinterest</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://twitter.com/artistbenyoung" class="icon brands fa-twitter" title="Twitter" target="_blank">
+              <span class="label">Follow me on Twitter</span>
+            </a>
+          </li>
+        </ul>
+        <ul class="copyright">
+          <li>
+            &copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006"}}. {{ end }}
+          </li>
+          <li>
+            Designed by: <a href="https://webelements.agency">WebElements</a>
+          </li>
+        </ul>
+      </section>
+    </section>
   </div>
 
 {{ end }}

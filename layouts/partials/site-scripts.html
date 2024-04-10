@@ -1,6 +1,9 @@
 {{ with resources.Get "js/jquery.js" | resources.Minify }}
   <script src="{{ .RelPermalink }}"></script>
 {{ end }}
+{{ with resources.Get "js/jquery.poptrox.js" | resources.Minify }}
+  <script src="{{ .RelPermalink }}"></script>
+{{ end }}
 {{ with resources.Get "js/browser.js" | resources.Minify }}
   <script src="{{ .RelPermalink }}"></script>
 {{ end }}
