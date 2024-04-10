@@ -3,6 +3,7 @@ title: Young Farmhouse
 description: The Young Farmhouse is that of my family's original farmhouse I grew up next to, built in 1875. Showcasing the sturdy brickwork in the countryside.
 author: Benjamin J. Young
 date: 2024-02-10
+ratio: landscape
 alt: This painting by Ben Young captures a rustic rural scene with a prominent tree and swing in the foreground, and a brick house amidst green fields and trees in the background, evoking a tranquil, pastoral mood.
 images: ['painting.jpg']
 videos: [https://www.instagram.com/p/C3j7Q9FAkf6/, https://youtu.be/WWJK-CMWE_Q]

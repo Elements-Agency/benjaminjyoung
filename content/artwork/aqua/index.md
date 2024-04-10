@@ -3,6 +3,7 @@ title: Aqua
 description: Aqua is my second water painting done with Water Soluble Pencil, to display water splashing out of a wine glass.
 author: Benjamin J. Young
 date: 2024-01-14
+ratio: portrait
 alt: The painting displays an artistic monochrome sketch of a wine glass with its contents in mid-splash, creating an elegant and dynamic fluid motion captured in a still moment.
 images: ['painting.jpg']
 videos: []
@@ -13,7 +14,8 @@ category: Realism
 subject: Water
 size: 12x9in
 tags: [water splash, liquid spill, wine glass, painting, water soluble pencil, realism, water art]
-featured: false
+featured: true
+popularity: 16
 digital: https://www.patreon.com/ArtistBenYoung/shop/aqua-digital-download-143231
 digitalprice: $5
 aliases: [/aqua]

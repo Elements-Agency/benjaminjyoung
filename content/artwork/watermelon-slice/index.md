@@ -3,6 +3,7 @@ title: Watermelon Slice
 description: Watermelon Slice is a simple study, testing my newly purchased watercolor pencil set, while also incorporating brushstrokes of water.
 author: Benjamin J. Young
 date: 2023-12-27
+ratio: square
 alt: This watercolor artwork by Ben Young is a simple yet detailed depiction of a single slice of watermelon with a bright red flesh, black seeds, and a green rind, set against a plain background.
 images: ['painting.jpg']
 videos: []
@@ -13,7 +14,8 @@ category: Impressionism
 subject: Still Life
 size: 
 tags: [watermelon slice, juicy melon, food, summer colors, colorful splashes, black seeds, watercolor paint, hybrid impressionism, still life art]
-featured: false
+featured: true
+popularity: 13
 prints: https://artistbenyoung.etsy.com/listing/1683213879/summer-watermelon-slice-canvas-painting
 digital: https://www.patreon.com/user/shop/standing-watermelon-digital-download-139622
 printsprice: $39+

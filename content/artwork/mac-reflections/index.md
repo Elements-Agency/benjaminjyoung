@@ -3,6 +3,7 @@ title: Mac Reflections
 description: Mac Reflections is a self portrait inspired after seeing my reflection on a glossy and smudged laptop dark screen. Painting the depth with oil pastels.
 author: Benjamin J. Young
 date: 2024-02-03
+ratio: portrait
 alt: This oil pastel painting by Ben Young depicts a solemn, textured portrait of a man's face, emerging from a dark background with a rough, expressive brushwork that conveys a sense of introspection or melancholy.
 images: ['painting.jpg']
 videos: [https://www.instagram.com/p/C3mpPeQgORk/, https://youtube.com/shorts/JNBpBdWcFR0]

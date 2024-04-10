@@ -3,6 +3,7 @@ title: Ms. Cezanne
 description: Ms. Cezanne is my own rendition of Paul Cezanne's artwork, including one of his many bather subjects. Using the oil pastels I have on hand.
 author: Benjamin J. Young
 date: 2024-01-20
+ratio: portrait
 alt: The oil pastel painting by Ben Young portrays a woman reclining in a vibrant, natural setting, depicted with vivid colors and energetic, sketch-like strokes that create a lively and dynamic composition.
 images: ['painting.jpg']
 videos: ['https://www.instagram.com/p/C3lKtCjvEd5/']
@@ -13,7 +14,8 @@ category: Impressionism
 subject: Figure
 size: 9x12in (22.8x30.4cm)
 tags: [female body, woman, reclining pose, oil pastels, impressionism, figure art]
-featured: false
+featured: true
+popularity: 14
 prints: https://artistbenyoung.etsy.com/listing/1676390046/ms-cezanne-impressionism-painting-oil
 digital: https://www.patreon.com/ArtistBenYoung/shop/ms-cezanne-digital-download-139657
 printsprice: $59

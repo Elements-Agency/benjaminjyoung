@@ -3,6 +3,7 @@ title: Back To
 description: Back To is a more complex watercolor painting, second in the Winter Escape series. Showing the trek of the lone figure through a winter trail.
 author: Benjamin J. Young
 date: 2024-03-13
+ratio: landscape
 alt: This painting by Ben Young depicts a solitary figure in dark clothing standing on a snow-covered path flanked by bare trees, with the scene conveying a sense of solitude in a wintry landscape.
 images: ['painting.jpg']
 videos: [https://www.instagram.com/p/C4fX_ZiuC8p/, https://youtube.com/shorts/35AX0Eu-C7w]
@@ -13,7 +14,8 @@ category: Hybrid Impressionism
 subject: Landscape
 size: 14.1x10.2in (36x26cm)
 tags: [human figure, snowy landscape, trail, trees, forest, snow tracks, watercolor paint, hybrid impressionism, landscape art, cool tone, winter escape series, for sale]
-featured: false
+featured: true
+popularity: 12
 digital: https://www.patreon.com/ArtistBenYoung/shop/back-to-download-154341
 digitalprice: $5
 prints: https://artistbenyoung.etsy.com/listing/1690886428/winter-hike-watercolor-painting-snow

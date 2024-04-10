@@ -3,6 +3,7 @@ title: Escape
 description: Escape is such a simple watercolor painting, set in a snowy vast field. Showing the trek of the lone figure whose identity is up to interpretation.
 author: Benjamin J. Young
 date: 2024-02-09
+ratio: landscape
 alt: This painting by Ben Young shows a solitary figure traverses a snowy path flanked by a fence, in a muted watercolor landscape shrouded in a hazy atmosphere.
 images: ['painting.jpg']
 videos: [https://www.instagram.com/p/C3pK2JvOevm/, https://youtube.com/shorts/TSyQTgGJjD0]

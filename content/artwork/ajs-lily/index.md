@@ -3,6 +3,7 @@ title: AJ's Lily
 description: AJ's Lily is one of my first adult drawings, with graphite pencil realism, that is too personal to describe the reason behind.
 author: Benjamin J. Young
 date: 2023-12-17
+ratio: portrait
 alt: This pencil sketch portrays a delicately rendered lily with graceful petals and detailed stamen, exuding a sense of gentle elegance.
 images: ['painting.jpg']
 videos: []

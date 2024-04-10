@@ -3,6 +3,7 @@ title: Dyzee
 description: Dyzee is an attempt to explore abstract watercolor painting. But the abstraction is subjectively representative to a floral reference by name, a Daisy flower.
 author: Benjamin J. Young
 date: 2024-01-18
+ratio: portrait
 alt: This is an abstract watercolor painting by Ben Young featuring dynamic blue and black brushstrokes, with splatters and washes creating a sense of movement, anchored by a central burst of yellow.
 images: ['painting.jpg']
 videos: []
