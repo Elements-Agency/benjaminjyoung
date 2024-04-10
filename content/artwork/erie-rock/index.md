@@ -16,11 +16,9 @@ tags: [rocks, lake erie, cleveland ohio, great lakes, beach, water waves, landsc
 featured: true
 popularity: 2
 original: /shop/#!/Erie-Rock-Watercolor-Painting-Original/p/645990284/category=0
-prints: https://artistbenyoung.etsy.com/listing/1682533283/lake-erie-rock-cleveland-ohio-landscape
-digital: https://www.patreon.com/ArtistBenYoung/shop/erie-rock-digital-download-139714
+prints: /shop/#!/Erie-Rock-Print/p/646847599/category=0
 originalprice: $399
-printsprice: $29+
-digitalprice: $5
+printsprice: $29
 status: sold
 aliases: [/erie-rock]
 ---
