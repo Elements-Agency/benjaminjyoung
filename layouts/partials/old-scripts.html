@@ -1,0 +1,12 @@
+{{ with resources.Get "js/jquery.js" | resources.Minify }}
+  <script src="{{ .RelPermalink }}"></script>
+{{ end }}
+{{ with resources.Get "js/browser.js" | resources.Minify }}
+  <script src="{{ .RelPermalink }}"></script>
+{{ end }}
+{{ with resources.Get "js/breakpoints.js" | resources.Minify }}
+  <script src="{{ .RelPermalink }}"></script>
+{{ end }}
+{{ with resources.Get "js/main.js" | resources.Minify }}
+  <script src="{{ .RelPermalink }}"></script>
+{{ end }}

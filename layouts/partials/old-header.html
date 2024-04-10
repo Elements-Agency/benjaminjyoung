@@ -1,0 +1,56 @@
+<header id="header">
+
+  {{ $ben := resources.GetMatch "images/ben.jpg" }}
+  {{ $ben := $ben.Fill "150x150 Center" }}
+  {{ $ben := $ben.Resize "150x150 webp q85" }}
+  <p class="profile" style="text-align:center; margin-bottom:0;">
+    <img style="border-radius:500px;" src="{{ $ben.RelPermalink }}" width="150px" height="150px" title="It's {{ .Params.heading | default .Site.Title }}" alt="Photograph of {{ .Params.heading | default .Site.Title }}">
+  </p>
+
+  {{ $logo := resources.GetMatch "images/logo.png" }}
+  {{ $logo := $logo.Fill "300x150 Center" }}
+  {{ $logo := $logo.Resize "300x webp q85" }}
+  <h1 style="text-align:center;">
+    <a href="/" class="logo">
+      <img src="{{ $logo.RelPermalink }}" width="300px" height="150px" title="Contemporary Artist {{ .Params.heading | default .Site.Title }}" alt="Paintings by Artist {{ .Params.heading | default .Site.Title }}">
+    </a>
+  </h1>
+  
+  {{ with .Params.description }}
+    <p>{{ . }}</p>
+  {{ end }}
+
+  {{ with .Site.Params.location }}
+    <address>
+      <p><i class="icon fa fa-map-pin"><span class="label">Located in</span></i> {{ . }}</p> 
+    </address>
+  {{ end }}
+
+  <ul class="icons">
+    <li>
+      <a href="https://www.facebook.com/artist.benjamin.young" class="icon brands fa-facebook" title="Facebook" target="_blank">
+        <span class="label">Follow me on Facebook</span>
+      </a>
+    </li>
+    <li>
+      <a href="https://www.instagram.com/artistbenyoung" class="icon brands fa-instagram" title="Instagram" target="_blank">
+        <span class="label">Follow me on Instagram</span>
+      </a>
+    </li>
+    <li>
+      <a href="https://www.pinterest.com/artistbenyoung/" class="icon brands fa-pinterest" title="Pinterest" target="_blank">
+        <span class="label">Follow me on Pinterest</span>
+      </a>
+    </li>
+    <li>
+      <a href="https://twitter.com/artistbenyoung" class="icon brands fa-twitter" title="Twitter" target="_blank">
+        <span class="label">Follow me on Twitter</span>
+      </a>
+    </li>
+    <!--<li>
+      <a href="https://patreon.com/ArtistBenYoung" class="icon brands fa-patreon" title="Patreon" target="_blank">
+        <span class="label">Support me on Patreon</span>
+      </a>
+    </li>-->
+  </ul>
+</header>
