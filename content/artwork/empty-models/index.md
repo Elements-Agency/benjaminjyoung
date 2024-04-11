@@ -17,11 +17,9 @@ tags: [wine bottle, pitcher jub, tablecloth, dining table, cloth backdrop, oil p
 featured: true
 popularity: 9
 original: /shop/#!/Empty-Models-Oil-Pastel-Drawing-Original/p/645927912/category=0
-prints: https://artistbenyoung.etsy.com/listing/1676391360/empty-models-impressionism-painting-oil
-digital: https://www.patreon.com/user/shop/empty-models-digital-download-139632
+prints: /shop/#!/Empty-Models-Framed-Print/p/647310826/category=0
 originalprice: $199
-printsprice: $59
-digitalprice: $5
+printsprice: $49
 status: sale
 aliases: [/empty-models]
 ---

@@ -16,10 +16,8 @@ size: 9x12in (22.8x30.4cm)
 tags: [female body, woman, reclining pose, oil pastels, impressionism, figure art]
 featured: true
 popularity: 14
-prints: https://artistbenyoung.etsy.com/listing/1676390046/ms-cezanne-impressionism-painting-oil
-digital: https://www.patreon.com/ArtistBenYoung/shop/ms-cezanne-digital-download-139657
-printsprice: $59
-digitalprice: $5
+prints: /shop/#!/Ms-Cezanne-Framed-Print/p/647332753/category=0
+printsprice: $49
 aliases: [/ms-cezanne, /artwork/nip-slip]
 ---
 

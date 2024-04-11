@@ -16,10 +16,8 @@ size:
 tags: [watermelon slice, juicy melon, food, summer colors, colorful splashes, black seeds, watercolor paint, hybrid impressionism, still life art]
 featured: true
 popularity: 13
-prints: https://artistbenyoung.etsy.com/listing/1683213879/summer-watermelon-slice-canvas-painting
-digital: https://www.patreon.com/user/shop/standing-watermelon-digital-download-139622
-printsprice: $39+
-digitalprice: $5
+prints: /shop/#!/Watermelon-Slice-Canvas/p/647330001/category=0
+printsprice: $49
 aliases: [/watermelon-slice, /artwork/standing-watermelon]
 ---
 

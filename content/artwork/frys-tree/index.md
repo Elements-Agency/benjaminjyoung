@@ -17,11 +17,9 @@ tags: [tree subject, forestry, night time, twilight, dusk, watercolor paint, gou
 featured: true
 popularity: 4
 original: /shop/#!/Frys-Tree-Watercolor-Painting-Original/p/645990323/category=0
-prints: https://artistbenyoung.etsy.com/listing/1670341658/dark-twilight-tree-silhouette
-digital: https://www.patreon.com/ArtistBenYoung/shop/frys-tree-digital-download-139651
+prints: /shop/#!/Frys-Tree-Framed-Print/p/647311078/category=0
 originalprice: $399
-printsprice: $29+
-digitalprice: $5
+printsprice: $49
 status: sold
 aliases: [/frys-tree]
 ---
