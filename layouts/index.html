@@ -32,8 +32,8 @@
 
               {{ if eq $.Params.ratio "landscape" }}
                 {{ $thumbnail = .Resources.GetMatch "painting.jpg" }}
-                {{ $thumbnail := $thumbnail.Fit "330x270 Center" }}
-                {{ $thumbnail := $thumbnail.Resize "330x webp q90" }}
+                {{ $thumbnail := $thumbnail.Fit "380x270 Center" }}
+                {{ $thumbnail := $thumbnail.Resize "380x webp q90" }}
               {{ end }}
 
               {{ if eq $.Params.ratio "portrait" }}
