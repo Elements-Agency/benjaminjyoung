@@ -8,7 +8,7 @@
 
 {{ define "main" }}
     <div id="wrapper">
-        <!-- Do NOT remove inlinse styles on bg below -->
+        <!-- Do NOT remove inline styles on bg below -->
         <div class="bg fixed" style='position:fixed; top:0; left:0; z-index:-1; width:100vw; height:100vh; background-color:#ddd; background-image:url("/images/background.webp"); background-size:cover; background-position:center; background-repeat:no-repeat; background-attachment:scroll;'></div>
 
     {{ block "header" . }}{{ partial "inside-header.html" .}}{{ end }}
@@ -29,103 +29,6 @@
             <div>
               <script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?101772706&data_platform=code&data_date=2024-04-07" charset="utf-8"></script><script type="text/javascript"> xProductBrowser("categoriesPerRow=3","views=grid(20,3) list(60) table(60)","categoryView=grid","searchView=list","id=my-store-101772706");</script>
             </div>
-
-            <!--
-            {{ $mainSections := .Site.Params.mainSections | default (slice "post") }}
-        
-            {{/* Create a variable with that section to use in multiple places. */}}
-            {{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
-        
-            {{/* Check to see if the section is defined for ranging through it */}}
-            {{ $section_count := len $section }}
-        
-            {{ if ge $section_count 1 }}
-              {{ $section_name := index (.Site.Params.mainSections) 0 }}
-        
-                {{ $n_posts := 120 }}
-
-                <h2 id="originals">Originals</h2>
-                <p style="text-align:center;">
-                    Here is a list of originals you can purchase, on my <a href="https://artistbenyoung.etsy.com">Saatachi gallery</a>.
-                    They all come proffessionally framed to protect the artwork, fit the style, properly highlight the painting, and ready to hang.
-                    Framing is done by <a href="http://cyruscustom.com">Cyrus Custom Framing</a> in Canton, Ohio.
-                    If you are local to Canton Ohio, please <a href="/contact">contact me</a> to neogiate better prices, since I won't have to deal with costly shipping or commission fees.
-                </p>
-
-                <ul>
-                    {{ range $painting := first $n_posts $section }}
-                        {{ if eq $painting.Params.status "sold" }}
-                        {{ else }}
-                            {{ with $original := .Resources.GetMatch "original.jpg" }}
-                                {{ $original := $original.Fill "200x200 Top q85" }}
-                                <li style="display:inline-block; padding:1em; text-align:center;">
-                                    <a href="{{ $painting.Params.original }}" onclick="fbq('track', 'AddToCart');" data-position="center">
-                                        <img src="{{ $original.RelPermalink }}" width="200px" height="200px" loading="lazy" alt="Purchase the original of {{ $painting.Title }}" title="Origina {{ $painting.Title }}">
-                                        <br>
-                                        <strong>{{ $painting.Title }}</strong>
-                                        <br>
-                                        Original: <em>{{ $painting.Params.originalprice }}</em>
-                                    </a>
-                                </li>
-                            {{ end }}
-                        {{ end }}
-                    {{ end }}
-                </ul>
-
-                <div>
-                    <div id="ms-ad-1961497798"></div> 
-                    <script> 
-                      window.msAdsQueue.push(() => { 
-                        window.pubCenterSdk.render({ 
-                          adUnitId: "1961497798", 
-                          elementId: "ms-ad-1961497798" 
-                        }); 
-                      }); 
-                    </script>
-                </div>
-
-                <hr>
-                <br>
-
-                <h2 id="prints">Prints</h2>
-                <p style="text-align:center;">
-                    Here is a list of prints you can order, on my <a href="https://artistbenyoung.etsy.com">Etsy store</a>.
-                    Their prices vary in material print types and sizes.
-                    I mainly offer prints on canvas, poster, and metal. Usually with framing as an option.
-                    If you want a print on a different material, or a custom size, please <a href="/contact">contact me</a>.
-                </p>
-
-                <ul>
-                    {{ range $painting := first $n_posts $section }}
-                        {{ with $print := .Resources.GetMatch "print.jpg" }}
-                            {{ $print := $print.Fill "200x200 Center q85" }}
-                            <li style="display:inline-block; padding:1em; text-align:center;">
-                                <a href="{{ $painting.Params.prints }}" onclick="fbq('track', 'AddToCart');" data-position="center">
-                                    <img src="{{ $print.RelPermalink }}" width="200px" height="200px" loading="lazy" alt="Buy a print of {{ $painting.Title }}" title="Print of {{ $painting.Title }}">
-                                    <br>
-                                    <strong>{{ $painting.Title }}</strong>
-                                    <br>
-                                    Prints: <em>{{ $painting.Params.printsprice }}</em>
-                                </a>
-                            </li>
-                        {{ end }}
-                    {{ end }}
-                </ul>
-
-                <div>
-                    <div id="ms-ad-1961497798"></div> 
-                    <script> 
-                      window.msAdsQueue.push(() => { 
-                        window.pubCenterSdk.render({ 
-                          adUnitId: "1961497798", 
-                          elementId: "ms-ad-1961497798" 
-                        }); 
-                      }); 
-                    </script>
-                </div>
-
-            {{ end }}
-            -->
             
         </section>
     </div>
