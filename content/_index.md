@@ -6,3 +6,5 @@ keywords: [ben, benjamin, jay, young, artist, artwork, paintings, impressionism,
 
 Ohio contemporary artist.
 Specializing in landscapes and narrative art.
+
+[Shop Now &gt;](/shop)
