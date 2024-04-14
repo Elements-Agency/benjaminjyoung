@@ -4,7 +4,7 @@ locations:
 
 canvas board: Artist Loft
 canvas board size: 14x11in
-paint: Windsor & Newton Winton Oil
+paint: Winsor & Newton Winton Oil
 brushes: Princeton Velvetouch
 frame: None
 
