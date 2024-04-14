@@ -152,7 +152,7 @@
               <ul id="purchase" style="list-style:none; text-align:center; margin-bottom:0;">
 
                 {{ with $original := .Resources.GetMatch "original.jpg" }}
-                  {{ $original := $original.Fill "250x250 Top q85" }}
+                  {{ $original := $original.Fill "250x250 Center q85" }}
                   <li style="display:inline-block; padding:1em; text-align:center;">
                     <h3>Original Painting</h3>
 
