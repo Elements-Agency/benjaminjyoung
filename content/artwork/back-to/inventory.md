@@ -7,7 +7,6 @@ paper size: 14.1x10.2in
 paint: Marie's Watercolor Paint
 brushes: Princeton Aqua Elite
 frame: Michael's Framing
-frame size: 
 
 materials:
  - paper: $31
@@ -30,7 +29,7 @@ marketing:
 
 sale price: $420
 
-commission: $0
+commission:
 net: 
 profit: 
 buyer: 

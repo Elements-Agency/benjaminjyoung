@@ -10,7 +10,6 @@ paper size: 10.2x14.1in
 paint: Marie's Watercolor and Gouache Paint
 brushes: Princeton Aqua Elite and Velvetouch
 frame: Custom by Cyrus Framing
-frame size: 
 
 materials:
  - paper: $31

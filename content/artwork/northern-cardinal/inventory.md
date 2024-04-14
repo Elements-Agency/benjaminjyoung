@@ -6,7 +6,6 @@ paper:
 paper size: 
 pencils: Kaloir Watercolor Pencils
 frame: Custom by Cyrus Framing
-frame size: 
 
 materials:
  - paper: $12

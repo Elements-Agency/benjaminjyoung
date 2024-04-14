@@ -2,12 +2,11 @@
 locations:
   - home: 2024-03-17 - current
 
-paper: Canvas Board
-paper size: 
-paint: 
-brushes: 
-frame: 
-frame size: 
+canvas board: Artist Loft
+canvas board size: 14x11in
+paint: Windsor & Newton Winton Oil
+brushes: Princeton Velvetouch
+frame: None
 
 materials:
  - canvas: $20
@@ -25,9 +24,8 @@ work:
 marketing: $50
 
 sale price: $370
-exhibit price: $740
-commission: 
 
+commission: 
 net: 
 profit: 
 buyer: 

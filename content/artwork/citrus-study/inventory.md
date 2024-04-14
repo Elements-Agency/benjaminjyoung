@@ -7,7 +7,6 @@ paper size: 14.1x10.2in
 paint: Artist Loft Watercolor Paint
 brushes: Princeton Aqua Elite
 frame: Michael's Framing
-frame size: 
 
 materials:
  - paper: $31
@@ -30,8 +29,8 @@ marketing:
 
 sale price: $250
 
-commission: $0
-net: $425
-profit: $168
+commission: 
+net: 
+profit: 
 buyer: 
 ---

@@ -1,13 +1,14 @@
 ---
 locations:
-  - home: 2024-03-23 - current
+  - home: 2024-04-12 - current
+  - cyrus custom framing: 2024-03-29 - 2024-04-12
+  - home: 2024-03-23 - 2024-03-29
 
 paper: Baohong Cold Press Watercolor Block
 paper size: 14.1x10.2in
 paint: Artist Loft Watercolor Paint
 brushes: Princeton Aqua Elite
 frame: Cyrus Custom Framing
-frame size: 
 
 materials:
  - paper: $31
