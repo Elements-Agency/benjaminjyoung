@@ -17,11 +17,9 @@ tags: [bird, northern red cardinal, drawing, watercolor pencils, realism, animal
 featured: true
 popularity: 3
 original: /shop/#!/Northern-Cardinal-Watercolor-Pencil-Drawing-Original/p/645991759/category=0
-prints: https://artistbenyoung.etsy.com/listing/1669896136/northern-red-cardinal-bird-drawing-with
-digital: https://www.patreon.com/ArtistBenYoung/shop/northern-cardinal-139662
+prints: /shop/#!/Northern-Cardinal-Print/p/648383518/category=0
 originalprice: $299
-printsprice: $29+
-digitalprice: $5
+printsprice: $29
 status: sold
 aliases: [/northern-cardinal, /artwork/rage-fueled-bird]
 ---
