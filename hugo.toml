@@ -8,6 +8,7 @@ timeout = '600'
 [params]
   commentoEnable = true
   location = "Canton, Ohio. USA."
+  favicon = '/favicon.ico'
   [params.social]
     facebook		= "artist.benjamin.young"
     facebook_admin	= "61556301758002"  # This needs to be a page admin to get domain insights
