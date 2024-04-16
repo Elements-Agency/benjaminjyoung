@@ -16,7 +16,7 @@ size: 12x9in (30.4x22.8cm)
 tags: [water swirl, water art, watercolor paint, semiabstract, water abstract, splash accents, broad stokes, neutral tone]
 featured: false
 prints: /shop/#!/Monochromatic-Maelstorm-Thin-Canvas/p/647311351/category=0
-printsprice: $39
+printsprice: $49
 aliases: [/monochromatic-maelstorm, /artwork/monochromatic-maelstrom, /artwork/mono-chromatic-maelstorm]
 ---
 

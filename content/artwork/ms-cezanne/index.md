@@ -17,7 +17,7 @@ tags: [female body, woman, reclining pose, oil pastels, impressionism, figure ar
 featured: true
 popularity: 14
 prints: /shop/#!/Ms-Cezanne-Framed-Print/p/647332753/category=0
-printsprice: $49
+printsprice: $59
 aliases: [/ms-cezanne, /artwork/nip-slip]
 ---
 

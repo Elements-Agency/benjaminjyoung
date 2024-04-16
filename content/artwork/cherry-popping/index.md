@@ -19,7 +19,7 @@ popularity: 0
 original: /shop/#!/Cherry-Popping-Oil-Painting-Original/p/645940862/category=0
 prints: /shop/#!/Cherry-Popping-Thin-Canvas/p/647310888/category=0
 originalprice: $399
-printsprice: $39
+printsprice: $49
 status: sale
 aliases: [/cherry-popping]
 ---

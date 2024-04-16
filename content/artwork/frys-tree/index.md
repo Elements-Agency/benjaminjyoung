@@ -19,7 +19,7 @@ popularity: 4
 original: /shop/#!/Frys-Tree-Watercolor-Painting-Original/p/645990323/category=0
 prints: /shop/#!/Frys-Tree-Framed-Print/p/647311078/category=0
 originalprice: $399
-printsprice: $49
+printsprice: $59
 status: sold
 aliases: [/frys-tree]
 ---

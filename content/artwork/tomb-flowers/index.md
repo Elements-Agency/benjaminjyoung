@@ -17,7 +17,7 @@ tags: [flower, white lily, drawing, watercolor pencil, realism, floral art]
 featured: true
 popularity: 5
 prints: /shop/#!/Tomb-Flowers-Framed-Print/p/647332756/category=0
-printsprice: $49
+printsprice: $59
 aliases: [/tomb-flowers]
 ---
 

@@ -19,7 +19,7 @@ popularity: 8
 original: /shop/#!/Citrus-Study-Gouache-Painting-Original/p/645932227/category=0
 prints: /shop/#!/Citrus-Study-Framed-Print/p/647393381/category=0
 originalprice: $299
-printsprice: $49
+printsprice: $59
 status: sale
 aliases: [/citrus-study]
 ---

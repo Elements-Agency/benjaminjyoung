@@ -16,7 +16,7 @@ size: 9x12in (22.8x30.4cm)
 tags: [daisy flower, flower art, watercolor paint, semiabstract, floral abstract, splash accents, broad stokes, neutral tone]
 featured: false
 prints: /shop/#!/Dyzee-Thin-Canvas/p/647311349/category=0
-printsprice: $39
+printsprice: $49
 aliases: [/dyzee]
 ---
 

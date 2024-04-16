@@ -17,7 +17,7 @@ tags: [watermelon slice, juicy melon, food, summer colors, colorful splashes, bl
 featured: true
 popularity: 13
 prints: /shop/#!/Watermelon-Slice-Canvas/p/647330001/category=0
-printsprice: $49
+printsprice: $59
 aliases: [/watermelon-slice, /artwork/standing-watermelon]
 ---
 

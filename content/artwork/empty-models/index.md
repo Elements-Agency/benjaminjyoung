@@ -19,7 +19,7 @@ popularity: 9
 original: /shop/#!/Empty-Models-Oil-Pastel-Drawing-Original/p/645927912/category=0
 prints: /shop/#!/Empty-Models-Framed-Print/p/647310826/category=0
 originalprice: $199
-printsprice: $49
+printsprice: $59
 status: sale
 aliases: [/empty-models]
 ---
