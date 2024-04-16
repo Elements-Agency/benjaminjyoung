@@ -83,27 +83,6 @@
 
               <br>
 
-              <!--<div style="text-align:center; line-height:1.2em; position:relative; font-family:Arial;">
-                {{ if or (.Params.original) (.Params.prints) (.Params.digital) }}
-                  <div style="text-align:center;">
-                    {{ if .Params.original }}
-                      <a href="{{ .Params.original }}" onclick="fbq('track', 'AddToCart');" class="button" style="margin:0.5em; padding:0 1em;">
-                        Purchase
-                      </a>
-                    {{ end }}
-                    {{ if .Params.prints }}
-                      <a href="{{ .Params.prints }}" onclick="fbq('track', 'AddToCart');" class="button" style="margin:0.5em; padding:0 1em;">
-                        Order Prints
-                      </a>
-                    {{ end }}
-                    {{ if .Params.digital }}
-                      <a href="{{ .Params.digital }}" onclick="fbq('track', 'AddToCart');" class="button" style="margin:0.5em; padding:0 1em;">
-                        Download
-                      </a>
-                    {{ end }}
-                  </div>
-                {{ end }}
-              </div>-->
             </section>
 
             <br>
@@ -157,7 +136,7 @@
                     <h3>Original Painting</h3>
 
                     <p style="text-align:center; margin-bottom:0">
-                      <a href="{{ $.Params.original }}" onclick="fbq('track', 'AddToCart'); fbq('track', 'InitiateCheckout');" data-position="center">
+                      <a href="{{ $.Params.original }}" data-position="center">
                         <img src="{{ $original.RelPermalink }}" width="250px" height="250px" loading="lazy" alt="Buy the original {{ $.Title }}" title="Original {{ $.Title }}">
                       </a>
 
@@ -187,7 +166,7 @@
 
                       <br>
 
-                      <a href="{{ $.Params.original }}" onclick="fbq('track', 'AddToCart'); fbq('track', 'InitiateCheckout');" class="button">
+                      <a href="{{ $.Params.original }}" class="button">
                         {{ if eq $.Params.status "sold" }}
                           View The Original
                         {{ else }}
@@ -204,12 +183,12 @@
 
                     <p style="text-align:center;">
                       Interested in purchasing the original?
-                      <a href="/contact" onclick="fbq('track', 'AddToCart'); fbq('track', 'InitiateCheckout');">Contact me</a> to discuss purchasing.
+                      <a href="/contact">Contact me</a> to discuss purchasing.
                     </p>
 
                     <br>
   
-                    <a href="/contact" onclick="fbq('track', 'AddToCart'); fbq('track', 'InitiateCheckout');" class="button">
+                    <a href="/contact" class="button">
                       Contact Artist
                     </a>
 
@@ -223,7 +202,7 @@
                     <h3>Printed Copy</h3>
 
                     <p style="text-align:center; margin-bottom:0">
-                      <a href="{{ $.Params.prints }}" onclick="fbq('track', 'AddToCart'); fbq('track', 'InitiateCheckout');" data-position="center">
+                      <a href="{{ $.Params.prints }}" data-position="center">
                         <img src="{{ $print.RelPermalink }}" width="250px" height="250px" loading="lazy" alt="Buy a print of {{ $.Title }}" title="Print of {{ $.Title }}">
                       </a>
 
@@ -241,7 +220,7 @@
 
                       <br>
 
-                      <a href="{{ $.Params.prints }}" onclick="fbq('track', 'AddToCart'); fbq('track', 'InitiateCheckout');" class="button">
+                      <a href="{{ $.Params.prints }}" class="button">
                         Purchase Print
                       </a>
                     </p>
@@ -286,9 +265,5 @@
 
     {{ block "footer" . }}{{ partialCached "inside-footer.html" . }}{{ end }}
   </div>
-
-  <script>
-    fbq('track', 'ViewContent');
-  </script>
   
 {{ end }}
