@@ -17,9 +17,9 @@ tags: [farm house, brick home, child swing, walnut tree, countryside, architectu
 featured: true
 popularity: 6
 original: /shop/#!/Young-Farmhouse-Watercolor-Painting-Original/p/648124011/category=0
-prints: https://artistbenyoung.etsy.com/listing/1682063641/young-farmhouse-landscape
+prints: /shop/#!/Young-Farmhouse-Framed-Print/p/648790896/category=0
 originalprice: $299
-printsprice: $29+
+printsprice: $59
 status: sale
 aliases: [/young-farmhouse, /artwork/young-farmhome]
 ---

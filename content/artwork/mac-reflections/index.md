@@ -17,11 +17,9 @@ tags: [facial hair, beard, self portrait art, oil pastels, impressionism, dark t
 featured: true
 popularity: 7
 original: /shop/#!/Mac-Reflections-Oil-Pastel-Drawing-Original/p/645940870/category=0
-prints: https://artistbenyoung.etsy.com/listing/1680323041/mac-reflections-self-portrait
-digital: https://www.patreon.com/ArtistBenYoung/shop/mac-reflections-digital-download-139666
+prints: /shop/#!/Mac-Reflections-Print/p/648817583/category=0
 originalprice: $199
-printsprice: $39+
-digitalprice: $5
+printsprice: $29
 status: sale
 aliases: [/mac-reflections]
 ---

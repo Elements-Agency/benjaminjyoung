@@ -17,9 +17,9 @@ tags: [human figure, snowy landscape, stormy sky, dusk, nightfall, trees, forest
 featured: true
 popularity: 0
 original: /shop/#!/Gehen-Heim-Watercolor-Painting-Original/p/645990286/category=0
-prints: https://artistbenyoung.etsy.com/listing/1690888436/winter-night-watercolor-painting-frozen
+prints: /shop/#!/Gehen-Heim-Framed-Print/p/648799399/category=0
 originalprice: $499
-printsprice: $59+
+printsprice: $59
 status: sold
 aliases: [/gehen-heim, /artwork/going-home]
 ---

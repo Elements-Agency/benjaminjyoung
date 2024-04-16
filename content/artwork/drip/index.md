@@ -16,8 +16,6 @@ size: 12x9in
 tags: [water droplet, liquid ripples, painting, water soluble pencil, realism, water art]
 featured: true
 popularity: 15
-digital: https://www.patreon.com/ArtistBenYoung/shop/drip-digital-download-143232
-digitalprice: $5
 aliases: [/drip]
 ---
 

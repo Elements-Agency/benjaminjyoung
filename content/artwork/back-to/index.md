@@ -16,7 +16,7 @@ size: 14.1x10.2in (36x26cm)
 tags: [human figure, snowy landscape, trail, trees, forest, snow tracks, watercolor paint, hybrid impressionism, landscape art, cool tone, winter escape series, for sale]
 featured: true
 popularity: 12
-prints: https://artistbenyoung.etsy.com/listing/1690886428/winter-hike-watercolor-painting-snow
+prints: /shop/#!/Back-To-Framed-Print/p/648799367/category=0
 printsprice: $59
 aliases: [/back-to]
 ---
