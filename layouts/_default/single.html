@@ -169,7 +169,7 @@
                   </li>
                 {{ end }}
 
-                {{ if $.Params.print }}
+                {{ if $.Params.prints }}
                   {{ with $print := .Resources.GetMatch "print.jpg" }}
                     {{ $print := $print.Fit "250x250 q85" }}
                     <li style="display:inline-block; padding:1em; text-align:center;">
