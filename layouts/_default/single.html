@@ -100,6 +100,19 @@
               {{- .Content -}}
 
               {{ if $.Params.products }}
+                <p class="text-align:right !important;">
+                  <div style="float:right; margin-left:0.5em;" class="ec-cart-widget"></div>
+                  <div style="float:right;">
+                    <script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?101772706&data_platform=code&data_date=2024-04-18" charset="utf-8"></script>
+                    <script type="text/javascript">Ecwid.init();</script>
+
+                    <a href="/shop/#!/~/cart">View Cart</a>
+                  </div>
+                </p>
+
+                <br class="clear">
+                <br>
+
                 {{ range $.Params.products }}
                 <div style="margin: 0 10px 10px;" class="ecsp ecsp-SingleProduct-v2 ecsp-SingleProduct-v2-bordered ecsp-Product ec-Product-{{ .id }}" itemscope itemtype="http://schema.org/Product" data-single-product-id="{{ .id }}">
                   <div itemprop="image"></div>
