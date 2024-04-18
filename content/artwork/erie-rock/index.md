@@ -1,27 +1,41 @@
 ---
+date: 2024-02-18
 title: Erie Rock
 description: Erie Rock is watercolor painting of a monolith rock that rarely comes in sight on Lake Erie's shores. A stone that stands guard under an overcast sky.
-author: Benjamin J. Young
-date: 2024-02-18
-ratio: portrait
 alt: This watercolor painting by Ben Young is an ethereal and solitary stone monolith, crowned with verdant trees, rises from the misty waters of a tranquil lake, embodying a quiet testament to nature's enduring strength and mystery.
-images: ['painting.jpg']
-videos: [https://www.instagram.com/p/C3rgdrrA3oI/, https://www.youtube.com/shorts/XCMouswfCm4]
+author: Benjamin J. Young
+
+featured: true
+popularity: 2
+ratio: portrait
+
 type: Painting
 medium: Watercolor
 material: Cold Press Cotton Paper
 category: Realism
 subject: Landscape
 size: 10.2x14.1in (26x36cm)
+
+images: ['painting.jpg']
+videos: [https://www.instagram.com/p/C3rgdrrA3oI/, https://www.youtube.com/shorts/XCMouswfCm4]
 tags: [rocks, lake erie, cleveland ohio, great lakes, beach, water waves, landscape art, watercolor paint, realism, overcast day, coastal landscape, sold]
-featured: true
-popularity: 2
-original: /shop/#!/Erie-Rock-Watercolor-Painting-Original/p/645990284/category=0
-prints: /shop/#!/Erie-Rock-Print/p/646847599/category=0
-originalprice: $399
-printsprice: $29
-status: sold
+
 aliases: [/erie-rock]
+
+status: sold
+products:
+    - id: 645990284
+      name: Original Painting
+      price: $299
+    - id: 646845144
+      name: Framed Print
+      price: $59
+    - id: 646847599
+      name: Poster Print
+      price: $29
+    - id: 646847609
+      name: Puzzle
+      price: $39
 ---
 
 This evocative painting captures a unique and striking rock formation located along the shores of Lake Erie, near Cleveland, Ohio, portraying a natural monument that stands as a silent guardian amidst the lapping waves. The overcast sky suggests a typical Great Lakes ambiance, while the resilient trees on the rock's summit are a testament to nature's adaptability in the face of the elements. The artwork invites contemplation on the enduring beauty of Lake Erie's coastal landscape, subtly colored by the artist to reflect the area's serene yet dynamic character.

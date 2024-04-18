@@ -1,27 +1,40 @@
 ---
+date: 2024-02-09
 title: Escape
 description: Escape is such a simple watercolor painting, set in a snowy vast field. Showing the trek of the lone figure whose identity is up to interpretation.
-author: Benjamin J. Young
-date: 2024-02-09
-ratio: landscape
 alt: This painting by Ben Young shows a solitary figure traverses a snowy path flanked by a fence, in a muted watercolor landscape shrouded in a hazy atmosphere.
-images: ['painting.jpg']
-videos: [https://www.instagram.com/p/C3pK2JvOevm/, https://youtube.com/shorts/TSyQTgGJjD0]
+author: Benjamin J. Young
+
+featured: true
+popularity: 1
+ratio: landscape
+
 type: Painting
 medium: Watercolor
 material: Cold Press Cotton Paper
 category: Hybrid Impressionism
 subject: Landscape
 size: 14.1x10.2in (36x26cm)
+
 tags: [human figure, snowy landscape, fence, open field, tire tracks, watercolor paint, hybrid impressionism, landscape art, cool tone, restrained pallette, winter escape series, sold]
-featured: true
-popularity: 1
-original: /shop/#!/Escape-Watercolor-Painting-Original/p/645943624/category=0
-prints: /shop/#!/Escape-Print/p/646467367/category=0
-originalprice: $399
-printsprice: $29
-status: sold
+images: ['painting.jpg']
+videos: [https://www.instagram.com/p/C3pK2JvOevm/, https://youtube.com/shorts/TSyQTgGJjD0]
 aliases: [/escape]
+
+status: sold
+products:
+    - id: 645943624
+      name: Original Painting
+      price: $299
+    - id: 646466899
+      name: Framed Print
+      price: $59
+    - id: 646467367
+      name: Poster Print
+      price: $29
+    - id: 646467810
+      name: Puzzle
+      price: $39
 ---
 
 **Escape** is a painting that depicts a tranquil winter scene. A solitary figure is shown walking away from the viewer, journeying along a curved path that has been carved through the snow from what may have been a vehicle. The figure is clad entirely in black, providing a stark contrast to the overwhelmingly white and gray/blue tones of the snowy landscape. To the right of the path, a line of fence posts gradually disappears into the distance, accentuating the depth of the scene and leading the eye towards a hazy background that suggests a forest or treeline shrouded in the mist of a cold winter day.
