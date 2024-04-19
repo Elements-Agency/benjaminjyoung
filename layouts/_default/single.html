@@ -100,10 +100,6 @@
               {{- .Content -}}
 
               {{ if $.Params.products }}
-                {{ if eq $.Params.status "sold" }}
-                  <p>The original has been sold.</p>
-                {{ end }}
-
                 <p class="text-align:right !important;">
                   <div style="float:right; margin-left:0.5em;" class="ec-cart-widget"></div>
                   <div style="float:right;">
@@ -115,7 +111,10 @@
                 </p>
 
                 <br class="clear">
-                <br>
+                
+                {{ if eq $.Params.status "sold" }}
+                  <p><strong>The original has been sold and is no longer available.</strong> You can still order prints, below:</p>
+                {{ end }}
 
                 {{ range $.Params.products }}
                 <div style="margin: 0 10px 10px;" class="ecsp ecsp-SingleProduct-v2 ecsp-SingleProduct-v2-bordered ecsp-Product ec-Product-{{ .id }}" itemscope itemtype="http://schema.org/Product" data-single-product-id="{{ .id }}">
