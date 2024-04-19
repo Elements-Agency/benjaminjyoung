@@ -100,6 +100,10 @@
               {{- .Content -}}
 
               {{ if $.Params.products }}
+                {{ if eq $.Params.status "sold" }}
+                  <p>The original has been sold.</p>
+                {{ end }}
+
                 <p class="text-align:right !important;">
                   <div style="float:right; margin-left:0.5em;" class="ec-cart-widget"></div>
                   <div style="float:right;">
