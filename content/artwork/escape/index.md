@@ -23,9 +23,6 @@ aliases: [/escape]
 
 status: sold
 products:
-    - id: 645943624
-      name: Original Painting
-      price: $299
     - id: 646466899
       name: Framed Print
       price: $59
@@ -35,6 +32,9 @@ products:
     - id: 646467810
       name: Puzzle
       price: $39
+    - id: 645943624
+      name: Original Painting
+      price: $299
 ---
 
 **Escape** is a painting that depicts a tranquil winter scene. A solitary figure is shown walking away from the viewer, journeying along a curved path that has been carved through the snow from what may have been a vehicle. The figure is clad entirely in black, providing a stark contrast to the overwhelmingly white and gray/blue tones of the snowy landscape. To the right of the path, a line of fence posts gradually disappears into the distance, accentuating the depth of the scene and leading the eye towards a hazy background that suggests a forest or treeline shrouded in the mist of a cold winter day.
