@@ -55,4 +55,4 @@ Ben Young is a visual artist, from Canton Ohio. One of Ben's most repeated subje
 
 ## Artwork Purchase Options ##
 
-**The original is NOT for sale.**
+The original painting is custom framed by [Cyrus Custom Framing](http://cyruscustom.com/) with a grey wood frame to neutrally frame the painting, fitting a style that person the flower's belonged to would like. No mat was used, as it was too much to distract away from the artwork. Mounting hardware included.

@@ -64,4 +64,4 @@ Ben Young grew up in childhood with an amazing artistic talent, which sadly was 
 
 ## Artwork Purchase Options ##
 
-The original is framed and comes with mounting hardware.
+The original painting is custom framed by [Cyrus Custom Framing](http://cyruscustom.com/) with a brown wood fram and gold trim to frame the painting and give an antique feel, along with a white mat to highlight the focus of the fruit. Mounting hardware included.
