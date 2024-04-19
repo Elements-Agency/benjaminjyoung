@@ -1,10 +1,15 @@
 ---
 locations:
   - home: 2023-12-15 - current
-hours: 3
+
 materials: $2
-price: $148
-commission: 
+
+work:
+ - rate: $15
+ - hours: 3
+ - total: $45
+
+sale price: $199
 net: 
 buyer: 
 ---

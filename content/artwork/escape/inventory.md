@@ -25,9 +25,6 @@ work:
  - total: $80
 
 sale price: $340
-
-commission: $0
-net: $340
-profit: $133
+net: $133
 buyer: Fred Boone
 ---

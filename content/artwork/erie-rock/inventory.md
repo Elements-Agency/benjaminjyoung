@@ -24,12 +24,9 @@ work:
  - hours: 8
  - total: $160
 
-sale price: $380
-
-commission: $0
 logistics: $50
 
-net: $330
-profit: $90
+sale price: $380
+net: $90
 buyer: Ted Turner
 ---

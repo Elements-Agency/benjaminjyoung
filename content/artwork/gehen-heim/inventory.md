@@ -30,10 +30,7 @@ marketing:
  - conversion: $30
  - total: $50
 
-sale price: $470
-
-commission: $0
-net: $425
-profit: $168
+sale price: $425
+net: $168
 buyer: Fred Boone
 ---

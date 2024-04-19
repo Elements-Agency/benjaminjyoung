@@ -19,8 +19,6 @@ work:
  - total: $90
 
 sale price: $199
-
-commission: 
 net: 
 buyer: 
 ---

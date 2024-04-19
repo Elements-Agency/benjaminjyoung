@@ -24,9 +24,6 @@ work:
 marketing: $50
 
 sale price: $799
-
-commission: 
 net: 
-profit: 
 buyer: 
 ---

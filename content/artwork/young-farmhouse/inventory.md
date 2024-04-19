@@ -29,9 +29,6 @@ marketing:
  - total: $20
 
 sale price: $299
-
-commission: $0
 net:
-profit:
 buyer: 
 ---

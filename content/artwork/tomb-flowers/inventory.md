@@ -1,23 +1,19 @@
 ---
 locations:
-  - home: 2024-03-14 - current
-hours: 6
-materials: $1
-price: Not for Sale
-commission: 
-net: 
-buyer: 
----
+  - cyrus framing: 2024-04-18 - current
+  - home: 2024-03-14 - 2024-04-18
+
 paper: Coldpress Paper
 paper size: 9x12in
-pastels: Faber-Castell Oil Pastels
-frame: Michaels
+pencils: Kaloir Watercolor Pencils
+brushes: Princeton Aqua Elite
+frame: Cyrus Custom Framing
 
 materials:
  - paper: $12
  - pencils: $20
- - frame: $160
- - total: $252
+ - frame: $120
+ - total: $152
 
 work:
  - rate: $25
@@ -25,8 +21,6 @@ work:
  - total: $150
 
 sale price: $399
-
-commission: 
 net: 
 buyer: 
 ---

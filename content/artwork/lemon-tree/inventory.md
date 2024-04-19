@@ -19,14 +19,7 @@ work:
  - hours: 2
  - total: $30
 
-marketing:
- - total: $0
-
 sale price: $99
-exhibit price: $199
-
-commission: $0
 net: 
-profit:
 buyer: 
 ---

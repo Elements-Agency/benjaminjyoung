@@ -20,8 +20,6 @@ work:
  - total: $128
 
 sale price: $240
-
-commission: $0
 net: $88
 buyer: Bruce Treiber
 ---
