@@ -1,24 +1,30 @@
 ---
+date: 2024-03-13
 title: Back To
 description: Back To is a more complex watercolor painting, second in the Winter Escape series. Showing the trek of the lone figure through a winter trail.
-author: Benjamin J. Young
-date: 2024-03-13
-ratio: landscape
 alt: This painting by Ben Young depicts a solitary figure in dark clothing standing on a snow-covered path flanked by bare trees, with the scene conveying a sense of solitude in a wintry landscape.
-images: ['painting.jpg']
-videos: [https://www.instagram.com/p/C4fX_ZiuC8p/, https://youtube.com/shorts/35AX0Eu-C7w]
+author: Benjamin J. Young
+
+featured: true
+popularity: 12
+ratio: landscape
+
 type: Painting
 medium: Watercolor
 material: Cold Press Cotton Paper
 category: Hybrid Impressionism
 subject: Landscape
 size: 14.1x10.2in (36x26cm)
+
+images: ['painting.jpg']
+videos: [https://www.instagram.com/p/C4fX_ZiuC8p/, https://youtube.com/shorts/35AX0Eu-C7w]
 tags: [human figure, snowy landscape, trail, trees, forest, snow tracks, watercolor paint, hybrid impressionism, landscape art, cool tone, winter escape series, for sale]
-featured: true
-popularity: 12
-prints: /shop/#!/Back-To-Framed-Print/p/648799367/category=0
-printsprice: $59
 aliases: [/back-to]
+
+products:
+    - id: 648799367
+      name: Framed Print
+      price: $59
 ---
 
 In the midst of a serene, snow-covered landscape, a solitary figure captures our attention in this evocative painting, titled **Back To**. The setting is quiet and isolated, the trees on either side bare and dormant, suggesting the deep chill of winter. The path stretches endlessly forward, disappearing into the vanishing point on the horizon, a metaphor perhaps for life's journey or the passage of time.

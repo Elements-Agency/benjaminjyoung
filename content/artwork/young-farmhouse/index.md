@@ -1,27 +1,34 @@
 ---
+date: 2024-02-10
 title: Young Farmhouse
 description: The Young Farmhouse is that of my family's original farmhouse I grew up next to, built in 1875. Showcasing the sturdy brickwork in the countryside.
-author: Benjamin J. Young
-date: 2024-02-10
-ratio: landscape
 alt: This painting by Ben Young captures a rustic rural scene with a prominent tree and swing in the foreground, and a brick house amidst green fields and trees in the background, evoking a tranquil, pastoral mood.
-images: ['painting.jpg']
-videos: [https://www.instagram.com/p/C3j7Q9FAkf6/, https://youtu.be/WWJK-CMWE_Q]
+author: Benjamin J. Young
+
+featured: true
+popularity: 6
+ratio: landscape
+
 type: Painting
 medium: Watercolor
 material: Cold Press Pulp Paper
 category: Hybrid Impressionism
 subject: Landscape
 size: 12x9in (30.4x22.8cm)
+
 tags: [farm house, brick home, child swing, walnut tree, countryside, architecture art, watercolor paint, hybrid impressionism, landscape art, for sale]
-featured: true
-popularity: 6
-original: /shop/#!/Young-Farmhouse-Watercolor-Painting-Original/p/648124011/category=0
-prints: /shop/#!/Young-Farmhouse-Framed-Print/p/648790896/category=0
-originalprice: $299
-printsprice: $59
-status: sale
+images: ['painting.jpg']
+videos: [https://www.instagram.com/p/C3j7Q9FAkf6/, https://youtu.be/WWJK-CMWE_Q]
 aliases: [/young-farmhouse, /artwork/young-farmhome]
+
+status: sale
+products:
+    - id: 648124011
+      name: Original Painting
+      price: $299
+    - id: 648790896
+      name: Framed Print
+      price: $59
 ---
 
 This **Young Farmhouse** painting portrays a rustic, rural scene. Dominating the left foreground is a large, dark brown walnut tree, its detailed bark texture suggesting an old and sturdy presence. From one of its branches, a swing with a wooden seat dangles, its ropes hanging limply, waiting for a visitor.
@@ -74,4 +81,4 @@ Ben Young grew up in East Sparta Ohio. His family were the first settlers to the
 
 ## Artwork Purchase Options ##
 
-The original painting is custom framed by [Cyrus Custom Framing](http://cyruscustom.com/) with a black solid wood frame to frame the painting, along with a gray slate mat to make the bright white snow stand out. Mounting hardware included.
+The original painting is custom framed by [Cyrus Custom Framing](http://cyruscustom.com/) with a black solid wood frame to frame the painting, along with a white mat to highlight the powder blue sky. Mounting hardware included.
