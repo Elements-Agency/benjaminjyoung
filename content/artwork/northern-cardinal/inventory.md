@@ -1,9 +1,10 @@
 ---
 locations:
-  - home: 2024-01-25 - current
+  - buyer: 2024-04-17
+  - home: 2024-01-25 - 2024-04-17
 
-paper: 
-paper size: 
+paper: Artist Loft Coldpress Watercolor Pad
+paper size: 9x12in
 pencils: Kaloir Watercolor Pencils
 frame: Custom by Cyrus Framing
 
@@ -18,11 +19,9 @@ work:
  - hours: 8
  - total: $128
 
-base price: $220
-local price: $240
-sale price: $440
+sale price: $240
 
-commission: 
-net: 
-buyer: 
+commission: $0
+net: $88
+buyer: Bruce Treiber
 ---

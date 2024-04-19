@@ -1,6 +1,7 @@
 ---
 locations:
-  - home: 2024-04-12 - current
+  - buyer: 2024-05-15
+  - home: 2024-04-12 - 2024-05-15
   - cyrus custom framing: 2024-03-29 - 2024-04-12
   - home: 2024-03-23 - 2024-03-29
 
@@ -30,10 +31,9 @@ marketing:
  - total: $50
 
 sale price: $470
-exhibit price: $940
 
 commission: $0
 net: $425
 profit: $168
-buyer: 
+buyer: Fred Boone
 ---

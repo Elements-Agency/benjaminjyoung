@@ -1,6 +1,7 @@
 ---
 locations:
-  - home: 2024-04-12 - current
+  - buyer: 2024-04-16
+  - home: 2024-04-12 - 2024-04-16
   - cyrus custom framing: 2024-03-29 - 2024-04-12
   - home: 2024-01-19 - 2024-03-29
 
@@ -22,11 +23,9 @@ work:
  - hours: 6
  - total: $90
 
-base price: $270
-local price: $290
-sale price: $540
+sale price: $320
 
-commission: 
-net: 
-buyer: 
+commission: $0
+net: $125
+buyer: Ted Turner
 ---
