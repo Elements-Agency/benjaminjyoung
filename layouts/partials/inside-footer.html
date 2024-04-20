@@ -60,7 +60,15 @@
 
 <div id="copyright">
     <ul>
-        <li>&copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006"}}. {{ end }}</li>
-        <li>Design: <a href="https://webelements.agency">Web Elements</a></li>
+        <li>
+          &copy;
+          {{ with .Site.Copyright | default .Site.Title }}
+            {{ . | safeHTML }}
+            {{ now.Format "2006"}}.
+          {{ end }}
+        </li>
+        <li>
+            <a href="/privacy">Privacy Policy</a>
+        </li>
     </ul>
 </div>
