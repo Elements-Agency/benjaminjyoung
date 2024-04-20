@@ -1,24 +1,31 @@
 ---
+date: 2024-03-21
 title: Lemon Tree
 description: Lemon Tree is an impasto acrylic canvas study. Just a small work artwork piece I wanted to play with acrylic paint.
-author: Benjamin J. Young
-date: 2024-03-21
-ratio: portrait
 alt: This painting by Ben Young depicts a vibrant pair of yellow lemons with lush green leaves and white blossoms against a textured white background.
-images: ['painting.jpg']
-videos: []
+author: Benjamin J. Young
+
+featured: false
+popularity: 999
+ratio: portrait
+
 type: Painting
 medium: Acrylic
 material: Canvas
 category: Impressionism
 subject: Still Life
 size: 8x10in (20.32x25.4)
-tags: [yellow lemon, white flower, white textured background, citrus tree, green leaves, brown branch, acrylic paint, impasto brushstrokes, impressionism, still life art, vibrant colors, for sale]
-featured: false
-original: /shop/#!/Lemon-Tree-Acrylic-Painting-Original/p/648083433/category=0
-originalprice: $99
-status: sale
+
 aliases: [/lemon-tree, /artwork/lemons]
+images: ['painting.jpg']
+videos: []
+tags: [yellow lemon, white flower, white textured background, citrus tree, green leaves, brown branch, acrylic paint, impasto brushstrokes, impressionism, still life art, vibrant colors, for sale]
+
+status: sale
+products:
+    - id: 648083433
+      name: Original Painting
+      price: $99
 ---
 
 **Lemon Tree** is an impressionistic acrylic painting capturing the cheerful essence of a citrus grove in an expressive style, with two plump, sunny lemons taking center stage against a crisp white background. The lemons are painted with bold, confident, impasto strokes, the yellows ranging from pale to deep golden hues, suggesting the play of light across their dimpled surfaces. Dark green leaves, painted with a sense of movement, flank the fruit, adding depth and contrast to the composition. Above the lemons, two white flowers with red centers bloom, providing a pop of color and completing the scene. The texture of the canvas is visible through the paint, giving the work a lively, tactile quality. With the bold brushstrokes giving texture. This piece exudes a simple, rustic charm and celebrates the beauty found in nature's forms and colors. Giving a summery feel.
@@ -56,3 +63,5 @@ Ben Young in childhood, with his artistic talents, started to home in on impress
 ---
 
 ## Artwork Purchase Options ##
+
+If interested in purchasing a print, please [contact me](/contact), and I can take time to setup the print with the print supplier.

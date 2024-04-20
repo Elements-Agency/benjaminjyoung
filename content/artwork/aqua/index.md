@@ -1,22 +1,25 @@
 ---
+date: 2024-01-14
 title: Aqua
 description: Aqua is my second water painting done with Water Soluble Pencil, to display water splashing out of a wine glass.
-author: Benjamin J. Young
-date: 2024-01-14
-ratio: portrait
 alt: The painting displays an artistic monochrome sketch of a wine glass with its contents in mid-splash, creating an elegant and dynamic fluid motion captured in a still moment.
-images: ['painting.jpg']
-videos: []
+author: Benjamin J. Young
+
+featured: true
+popularity: 16
+ratio: portrait
+
 type: Painting
 medium: Water Soluble Graphite
 material: Cold Press Pulp Paper
 category: Realism
 subject: Water
 size: 12x9in
-tags: [water splash, liquid spill, wine glass, painting, water soluble pencil, realism, water art]
-featured: true
-popularity: 16
+
 aliases: [/aqua]
+images: ['painting.jpg']
+videos: []
+tags: [water splash, liquid spill, wine glass, painting, water soluble pencil, realism, water art]
 ---
 
 This is a striking monochrome painting that captures a moment of fluid elegance, titled simply **Aqua**. It depicts a wine glass caught in the midst of a dynamic swirl, with the liquid inside defying gravity in a graceful arc that stretches above the rim. The movement is frozen in time, with the liquid's surface tension creating an almost sculptural form that reaches upwards. The artist has skillfully represented the play of light and shadow, giving the impression of a sparkling, translucent liquid. The glass's thin stem and stable base contrast with the liquid's volatility, providing a sense of balance to the composition. The simplicity of the background ensures all attention is focused on the interaction between the glass and its contents, highlighting the delicate beauty of a fleeting moment that would otherwise be missed.
@@ -52,3 +55,5 @@ After an 18 year hiatus of art, Ben Young is back doing what he once enjoyed. As
 ---
 
 ## Artwork Purchase Options ##
+
+If interested in purchasing a print or the original, please [contact me](/contact), and I can take time to setup the print with the print supplier.

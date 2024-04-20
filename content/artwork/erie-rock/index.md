@@ -16,11 +16,10 @@ category: Realism
 subject: Landscape
 size: 10.2x14.1in (26x36cm)
 
+aliases: [/erie-rock]
 images: ['painting.jpg']
 videos: [https://www.instagram.com/p/C3rgdrrA3oI/, https://www.youtube.com/shorts/XCMouswfCm4]
 tags: [rocks, lake erie, cleveland ohio, great lakes, beach, water waves, landscape art, watercolor paint, realism, overcast day, coastal landscape, sold]
-
-aliases: [/erie-rock]
 
 status: sold
 products:

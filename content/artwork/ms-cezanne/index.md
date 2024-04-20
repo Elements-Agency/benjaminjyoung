@@ -1,24 +1,31 @@
 ---
+date: 2024-01-20
 title: Ms. Cezanne
 description: Ms. Cezanne is my own rendition of Paul Cezanne's artwork, including one of his many bather subjects. Using the oil pastels I have on hand.
-author: Benjamin J. Young
-date: 2024-01-20
-ratio: portrait
 alt: The oil pastel painting by Ben Young portrays a woman reclining in a vibrant, natural setting, depicted with vivid colors and energetic, sketch-like strokes that create a lively and dynamic composition.
-images: ['painting.jpg']
-videos: ['https://www.instagram.com/p/C3lKtCjvEd5/']
+author: Benjamin J. Young
+
+featured: true
+popularity: 14
+ratio: portrait
+
 type: Painting
 medium: Oil Pastel
 material: Cold Press Pulp Paper
 category: Impressionism
 subject: Figure
 size: 9x12in (22.8x30.4cm)
-tags: [female body, woman, reclining pose, oil pastels, impressionism, figure art]
-featured: true
-popularity: 14
-prints: /shop/#!/Ms-Cezanne-Framed-Print/p/647332753/category=0
-printsprice: $59
+
 aliases: [/ms-cezanne, /artwork/nip-slip]
+images: ['painting.jpg']
+videos: ['https://www.instagram.com/p/C3lKtCjvEd5/']
+tags: [female body, woman, reclining pose, oil pastels, impressionism, figure art]
+
+status: sale
+products:
+    - id: 647332753
+      name: Framed Print
+      price: $59
 ---
 
 The painting titled "Ms. Cezanne" features a woman reclined in a state of repose, stretching her arms above her head. Inspired by Paul Cezanne's work. Rendered with loose, expressive pastel stroke, suggestive of an interest in capturing movement and form rather than strict realism. The color palette is rich and warm. With earthy tones of brown and ochre for the background and vibrant yellow and green highlighting what appears to be a natural setting. The woman’s skin is painted in naturalistic tones, with highlights and shadows adding to the three-dimensional effect. Using bold outlines in places to define the figure’s form. With an impressionistic feel, focusing on light and color to convey a mood rather than detailed precision. This painting exudes a sense of relaxation and connection with nature.
@@ -58,3 +65,5 @@ Ben Young in childhood, with his artistic talents, started to home in on impress
 ---
 
 ## Artwork Purchase Options ##
+
+For the original drawing, I am just trying to find the right frame before listing for sale.

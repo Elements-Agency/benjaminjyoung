@@ -1,22 +1,25 @@
 ---
+date: 2024-01-12
 title: Drip
 description: Drip is a water realism painting, showing the rippling effect of a water drop, painted with water soluable graphite pencil.
-author: Benjamin J. Young
-date: 2024-01-12
-ratio: landscape
 alt: The painting presents a grayscale watercolor painting of a water droplet creating ripples on the surface of water, captured in a moment of dynamic symmetry and fluid motion.
-images: ['painting.jpg']
-videos: []
+author: Benjamin J. Young
+
+ratio: landscape
+featured: true
+popularity: 15
+
 type: Painting
 medium: Water Soluble Graphite
 material: Cold Press Pulp Paper
 category: Realism
 subject: Water
 size: 12x9in
-tags: [water droplet, liquid ripples, painting, water soluble pencil, realism, water art]
-featured: true
-popularity: 15
+
 aliases: [/drip]
+images: ['painting.jpg']
+videos: []
+tags: [water droplet, liquid ripples, painting, water soluble pencil, realism, water art]
 ---
 
 The **Drip** painting captures the ephemeral beauty of a single water droplet impacting a still surface. A central column of water rises sharply, surrounded by a crown of droplets reflecting the moment's dynamic motion. The surface tension creates a series of concentric ripples that emanate outward, masterfully rendered in varying shades of grey, suggesting the gentle yet persistent spread of energy away from the point of impact. The artist has skillfully used a monochromatic palette to depict the clarity and purity of water, with careful attention to the gradations of light and shadow that give the scene a three-dimensional quality. The painting combines precision and softness, immortalizing a fleeting instance of natural harmony.
@@ -52,3 +55,5 @@ After an 18 year hiatus of art, Ben Young is back doing what he once enjoyed. As
 ---
 
 ## Artwork Purchase Options ##
+
+If interested in purchasing a print or the original, please [contact me](/contact), and I can take time to setup the print with the print supplier.

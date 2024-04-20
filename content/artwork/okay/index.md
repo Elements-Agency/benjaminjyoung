@@ -1,21 +1,25 @@
 ---
+date: 2022-12-20
 title: Okay
 description: The Okay realism drawing is a human Okay hand sign, drawn with graphite pencil.
-author: Benjamin J. Young
-date: 2022-12-20
-ratio: portrait
 alt: The drawing displays a detailed pencil sketch of a human hand with a gentle curvature of the fingers and intricate line work that captures the texture of the skin.
-images: ['painting.jpg']
-videos: []
+author: Benjamin J. Young
+
+featured: false
+popularity: 999
+ratio: portrait
+
 type: Drawing
 medium: Graphite Pencil
 material: Printer Paper
 category: Realism
 subject: Figure
 size: 
-tags: [persons hand, human anatomy, drawing, graphite pencil, realism, figure art]
-featured: false
+
 aliases: [/okay]
+images: ['painting.jpg']
+videos: []
+tags: [persons hand, human anatomy, drawing, graphite pencil, realism, figure art]
 ---
 
 **Okay** depicts a human hand, my hand, sketched in pencil with a focus on realism and attention to detail. It is positioned in a relaxed pose, resting to the side of my leg with the fingers slightly curled inward. I have taken care to render the textures and lines on the skin, showing the unique patterns and creases that can be found on a person’s palm and fingers.
@@ -53,3 +57,5 @@ After an 18 year hiatus of art, Ben Young is back doing what he once enjoyed. As
 ---
 
 ## Artwork Purchase Options ##
+
+If interested in purchasing a print or the original, please [contact me](/contact), and I can take time to setup the print with the print supplier.

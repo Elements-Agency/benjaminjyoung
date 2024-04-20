@@ -1,27 +1,35 @@
 ---
+date: 2024-02-03
 title: Mac Reflections
 description: Mac Reflections is a self portrait inspired after seeing my reflection on a glossy and smudged laptop dark screen. Painting the depth with oil pastels.
-author: Benjamin J. Young
-date: 2024-02-03
-ratio: portrait
 alt: This oil pastel painting by Ben Young depicts a solemn, textured portrait of a man's face, emerging from a dark background with a rough, expressive brushwork that conveys a sense of introspection or melancholy.
-images: ['painting.jpg']
-videos: [https://www.instagram.com/p/C3mpPeQgORk/, https://youtube.com/shorts/JNBpBdWcFR0]
+author: Benjamin J. Young
+
+featured: true
+popularity: 7
+ratio: portrait
+
+
 type: Painting
 medium: Oil Pastel
 material: Construction Paper
 category: Impressionism
 subject: Self Portrait
 size: 9x12in (22.9x30.5cm)
-tags: [facial hair, beard, self portrait art, oil pastels, impressionism, dark tone, impressionist artist, for sale]
-featured: true
-popularity: 7
-original: /shop/#!/Mac-Reflections-Oil-Pastel-Drawing-Original/p/645940870/category=0
-prints: /shop/#!/Mac-Reflections-Print/p/648817583/category=0
-originalprice: $199
-printsprice: $29
-status: sale
+
 aliases: [/mac-reflections]
+images: ['painting.jpg']
+videos: [https://www.instagram.com/p/C3mpPeQgORk/, https://youtube.com/shorts/JNBpBdWcFR0]
+tags: [facial hair, beard, self portrait art, oil pastels, impressionism, dark tone, impressionist artist, for sale]
+
+status: sale
+products:
+    - id: 645940870
+      name: Original Drawing
+      price: $199
+    - id: 648817583
+      name: Poster Print
+      price: $29
 ---
 
 The Mac Reflections painting depicts a close-up impressionism portrait of myself, rendered with a strong emphasis on texture and a limited color palette, to show it's reflective nature. My figure is implied to be either emerging from or sinking into a dark background, with light only faintly illuminating the right side of the face. The strokes are expressive and almost sculptural, creating an array of thick, impasto strokes that give the image a dynamic and tactile quality.

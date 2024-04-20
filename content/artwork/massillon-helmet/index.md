@@ -1,23 +1,27 @@
 ---
+date: 2024-04-12
 title: Massillon Helmet
 description: Massillon Helmet was my second oil painting, utilizing a revised realism technique for a Massillon Museum Football Art exhibit.
-author: Benjamin J. Young
-date: 2024-04-12
-ratio: landscape
 alt: This painting presents a highly detailed, realistic portrayal of a black football helmet with a prominent orange 'M' logo, capturing a sense of rugged athleticism.
-images: ['painting.jpg']
-videos: []
+author: Benjamin J. Young
+
+featured: true
+popularity: 0
+ratio: landscape
+
 type: Painting
 medium: Oil
 material: Canvas Board
 category: Realism
 subject: Still Life
 size: 14x11in (35.56cmx27.94cm)
-tags: [massillon tigers, football, helmet, black object, lighting, still life art, oil paint, realism, study, for sale]
-featured: true
-popularity: 0
-status: sale
+
 aliases: [/massillon-helmet]
+images: ['painting.jpg']
+videos: []
+tags: [massillon tigers, football, helmet, black object, lighting, still life art, oil paint, realism, study, for sale]
+
+status: sale
 ---
 
 The **Massillon Helmet** is an oil painting depicting a solitary, black Massillon Tiger's American football helmet in a three-quarter view, featuring a bold orange Massillon Ohio letter 'M' logo, symbolizing the Washington Highschool team's identity and spirit. I have rendered the subject with a strong attention to detail, from the subtle reflections and shadows on the helmet's glossy surface to the intricate structure of the face mask and the secure clasps. The background is a neutral, mixing with the multiple light source hues, with gradient shades that throws the focus entirely on the helmet, evoking a sense of nostalgia and Tiger pride, typical of any sports memorabilia. T-I-G!
@@ -59,3 +63,5 @@ Ben Young, a previous resident of Massillon Ohio, is new quite new painting. Onl
 ---
 
 ## Artwork Purchase Options ##
+
+The original is currently being framed, and pending to be listed for sale. Price after proffesional framing with be $799. Print option coming soon as well.

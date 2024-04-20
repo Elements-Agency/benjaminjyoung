@@ -16,10 +16,10 @@ category: Realism
 subject: Animal
 size: 9x12in (22.8x30.4cm)
 
-tags: [bird, northern red cardinal, drawing, watercolor pencils, realism, animal art, sold]
+aliases: [/northern-cardinal, /artwork/rage-fueled-bird]
 images: ['painting.jpg']
 videos: [https://www.instagram.com/p/C3fAU-6ON7E/, https://youtube.com/shorts/JsbqhoQqTnA]
-aliases: [/northern-cardinal, /artwork/rage-fueled-bird]
+tags: [bird, northern red cardinal, drawing, watercolor pencils, realism, animal art, sold]
 
 status: sold
 products:

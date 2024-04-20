@@ -1,21 +1,25 @@
 ---
+date: 2023-12-17
 title: AJ's Lily
 description: AJ's Lily is one of my first adult drawings, with graphite pencil realism, that is too personal to describe the reason behind.
-author: Benjamin J. Young
-date: 2023-12-17
-ratio: portrait
 alt: This pencil sketch portrays a delicately rendered lily with graceful petals and detailed stamen, exuding a sense of gentle elegance.
-images: ['painting.jpg']
-videos: []
+author: Benjamin J. Young
+
+featured: false
+popularity: 999
+ratio: portrait
+
 type: Drawing
 medium: Graphite Pencil
 material: Cold Press Pulp Paper
 category: Realism
 subject: Floral
 size: 
-tags: [flower, white lily, drawing, graphite pencil, realism, floral art]
-featured: false
+
 aliases: [/ajs-lily]
+images: ['painting.jpg']
+videos: []
+tags: [flower, white lily, drawing, graphite pencil, realism, floral art]
 ---
 
 The **AJ's Lily** drawing is a pencil drawing that captures the delicate beauty of a lily flower in bloom. The flower stands out with its petals gracefully curving outward, showcasing the fine details of its texture and venation, while the stamens reach out from the center, detailed with care to convey their slender form and powdery pollen tips. Below the flower, the stem leads to a pair of leaves that frame the composition, their pointed tips adding to the overall elegance of the sketch. The artist's use of shading provides depth, highlighting the organic curves and giving the lily a lifelike appearance. The background is left unadorned, ensuring that all attention remains on the intricacies of the flower and its natural allure.
@@ -54,4 +58,4 @@ Ben Young is a visual artist, from Canton Ohio. One of Ben's most repeated subje
 
 ## Artwork Purchase Options ##
 
-**The original is NOT for sale.**
+If interested in purchasing a print or the original, please [contact me](/contact), and I can take time to setup the print with the print supplier.

@@ -16,10 +16,10 @@ category: Hybrid Impressionism
 subject: Landscape
 size: 12x9in (30.4x22.8cm)
 
-tags: [farm house, brick home, child swing, walnut tree, countryside, architecture art, watercolor paint, hybrid impressionism, landscape art, for sale]
+aliases: [/young-farmhouse, /artwork/young-farmhome]
 images: ['painting.jpg']
 videos: [https://www.instagram.com/p/C3j7Q9FAkf6/, https://youtu.be/WWJK-CMWE_Q]
-aliases: [/young-farmhouse, /artwork/young-farmhome]
+tags: [farm house, brick home, child swing, walnut tree, countryside, architecture art, watercolor paint, hybrid impressionism, landscape art, for sale]
 
 status: sale
 products:

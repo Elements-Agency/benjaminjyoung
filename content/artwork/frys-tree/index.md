@@ -1,27 +1,34 @@
 ---
+date: 2024-01-19
 title: Fry's Tree
 description: Fry's Tree is the lone tree at Fry Family Park, that stands out in the field's skyline, during an after sunset walk through the park.
-author: Benjamin J. Young
-date: 2024-01-19
-ratio: portrait
 alt: In this evocative water color painting by Ben Young, a majestic tree stands prominently against a dusky sky, its intricate branches silhouetted by the soft glow of twilight.
-images: ['painting.jpg']
-videos: [https://www.instagram.com/p/C3hi4DjAYqg/, https://youtu.be/Pcuv_QkT7Qo]
+author: Benjamin J. Young
+
+featured: true
+popularity: 4
+ratio: portrait
+
 type: Painting
 medium: Watercolor
 material: Cold Press Pulp Paper
 category: Impressionism
 subject: Landscape
 size: 9x12in (22.8x30.4cm)
-tags: [tree subject, forestry, night time, twilight, dusk, watercolor paint, gouache paint, hybrid impressionism, landscape art, ohio park, sold]
-featured: true
-popularity: 4
-original: /shop/#!/Frys-Tree-Watercolor-Painting-Original/p/645990323/category=0
-prints: /shop/#!/Frys-Tree-Framed-Print/p/647311078/category=0
-originalprice: $399
-printsprice: $59
-status: sold
+
 aliases: [/frys-tree]
+images: ['painting.jpg']
+videos: [https://www.instagram.com/p/C3hi4DjAYqg/, https://youtu.be/Pcuv_QkT7Qo]
+tags: [tree subject, forestry, night time, twilight, dusk, watercolor paint, gouache paint, hybrid impressionism, landscape art, ohio park, sold]
+
+status: sold
+products:
+    - id: 645990323
+      name: Original Painting
+      price: $399
+    - id: 647311078
+      name: Framed Print
+      price: $59
 ---
 
 **Fry's Tree** portrays a solitary, robust tree standing prominently in the center against a twilight or pre-dawn sky. Creating a silhouette tree standing as the subject. The tree's branches are dense and leafy, suggesting a full summer or pre-fall foliage. The detailed rendering of the leaves and branches creates a lace-like pattern against the sky, which shifts from a dark blue at the top to lighter hues near the horizon, indicating dusk or the approach of nightfall.

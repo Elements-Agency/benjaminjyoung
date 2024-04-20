@@ -1,23 +1,30 @@
 ---
+date: 2024-01-18
 title: Dyzee
 description: Dyzee is an attempt to explore abstract watercolor painting. But the abstraction is subjectively representative to a floral reference by name, a Daisy flower.
-author: Benjamin J. Young
-date: 2024-01-18
-ratio: portrait
 alt: This is an abstract watercolor painting by Ben Young featuring dynamic blue and black brushstrokes, with splatters and washes creating a sense of movement, anchored by a central burst of yellow.
-images: ['painting.jpg']
-videos: []
+author: Benjamin J. Young
+
+featured: false
+popularity: 999
+ratio: portrait
+
 type: Painting
 medium: Watercolor
 material: Cold Press Pulp Paper
 category: Semiabstract
 subject: Floral
 size: 9x12in (22.8x30.4cm)
-tags: [daisy flower, flower art, watercolor paint, semiabstract, floral abstract, splash accents, broad stokes, neutral tone]
-featured: false
-prints: /shop/#!/Dyzee-Thin-Canvas/p/647311349/category=0
-printsprice: $49
+
 aliases: [/dyzee]
+images: ['painting.jpg']
+videos: []
+tags: [daisy flower, flower art, watercolor paint, semiabstract, floral abstract, splash accents, broad stokes, neutral tone]
+
+products:
+    - id: 647311349
+      name: Thin Canvas Print
+      price: $49
 ---
 
 This **Dyzee** painting is an abstract composition dominated by fluid, dynamic strokes and splashes of paint. The color palette is primarily monochromatic, featuring different shades of blue and black, with a significant contrast provided by a central burst of olive or moss green. The expressive lines and shapes seem to swirl around this central point of color, creating a sense of movement that draws the eye inward. The splatters and spots of paint across the canvas add to the feeling of spontaneity and action, suggesting the artist worked quickly and with a degree of improvisation.

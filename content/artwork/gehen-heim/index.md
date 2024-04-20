@@ -16,10 +16,10 @@ category: Hybrid Impressionism
 subject: Landscape
 size: 14.1x10.2in (36x26cm)
 
+aliases: [/gehen-heim, /artwork/going-home]
 images: ['painting.jpg']
 videos: []
 tags: [human figure, snowy landscape, stormy sky, dusk, nightfall, trees, forest, snow, watercolor paint, hybrid impressionism, landscape art, dark tone, winter escape series, sold]
-aliases: [/gehen-heim, /artwork/going-home]
 
 status: sold
 products:

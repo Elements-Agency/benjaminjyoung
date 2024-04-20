@@ -1,27 +1,34 @@
 ---
+date: 2024-02-06
 title: Citrus Study
 description: Citrus Study is a still life gouache painting, that was done as a study to practice both blending and lighting values. Featuring citrus fruit and a red mug.
-author: Benjamin J. Young
-date: 2024-02-06
-ratio: landscape
 alt: This gouache painting by Ben Young depicts a still life with a red mug in the center, a green lime on the left, and a bright yellow lemon on the right, all set against a dark, textured background.
-images: ['painting.jpg']
-videos: [https://www.instagram.com/p/C3aFj71ssZR/, https://youtu.be/CF7wcElqy8Y]
+author: Benjamin J. Young
+
+featured: true
+popularity: 8
+ratio: landscape
+
 type: Painting
 medium: Gouache
 material: Cold Press Cotton Paper
 category: Realism
 subject: Still Life
 size: 14.1x10.2in (36x26cm)
-tags: [yellow lemon, green lime, citrus fruit, coffee cup, ceramic mug, gouache paint, watercolor paint, realism, still life art, vivid colors, for sale]
-featured: true
-popularity: 8
-original: /shop/#!/Citrus-Study-Gouache-Painting-Original/p/645932227/category=0
-prints: /shop/#!/Citrus-Study-Framed-Print/p/647393381/category=0
-originalprice: $299
-printsprice: $59
-status: sale
+
 aliases: [/citrus-study]
+images: ['painting.jpg']
+videos: [https://www.instagram.com/p/C3aFj71ssZR/, https://youtu.be/CF7wcElqy8Y]
+tags: [yellow lemon, green lime, citrus fruit, coffee cup, ceramic mug, gouache paint, watercolor paint, realism, still life art, vivid colors, for sale]
+
+status: sale
+products:
+    - id: 645932227
+      name: Original Painting
+      price: $299
+    - id: 647393381
+      name: Framed Print
+      price: $59
 ---
 
 The **Citrus Study** painting features a still life composition with three objects that appear on a table. On the left is a green lime, partially blending from green to a yellowish hue, indicating ripeness or a variation in color typical of certain lime varieties. In the middle, there's a red mug or cup with a visible handle on the right, suggesting it's meant for a right-handed person to pick up easily. The mug's rim is white, indicating the inside color and the reflection of light. On the right, there's a lemon with a bright yellow color, indicative of its ripeness and tartness. The background and surface are in muted dark tones, with the surface reflecting a bit of light, giving a sense of a shadowed room. The painting style is textured, with visible brushstrokes marks, which give it a tactile quality. The color palette is quite naturalistic, with a strong contrast between the brightly colored objects and the dark background, drawing attention to the subjects of the still life.

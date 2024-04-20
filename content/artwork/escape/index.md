@@ -16,10 +16,10 @@ category: Hybrid Impressionism
 subject: Landscape
 size: 14.1x10.2in (36x26cm)
 
-tags: [human figure, snowy landscape, fence, open field, tire tracks, watercolor paint, hybrid impressionism, landscape art, cool tone, restrained pallette, winter escape series, sold]
+aliases: [/escape]
 images: ['painting.jpg']
 videos: [https://www.instagram.com/p/C3pK2JvOevm/, https://youtube.com/shorts/TSyQTgGJjD0]
-aliases: [/escape]
+tags: [human figure, snowy landscape, fence, open field, tire tracks, watercolor paint, hybrid impressionism, landscape art, cool tone, restrained pallette, winter escape series, sold]
 
 status: sold
 products:

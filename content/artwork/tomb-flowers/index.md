@@ -1,24 +1,31 @@
 ---
+date: 2024-03-14
 title: Tomb Flowers
 description: Tomb Flowers is a watercolor pencil drawing, with a brushed and washed colorful background, of white lilies.
-author: Benjamin J. Young
-date: 2024-03-14
-ratio: portrait
 alt: Tomb Flowers is a watercolor pencil drawing, with a brushed and washed colorful background, of white lilies.
-images: ['painting.jpg']
-videos: []
+author: Benjamin J. Young
+
+featured: true
+popularity: 5
+ratio: portrait
+
 type: Drawing
 medium: Watercolor Pencil
 material: Cold Press Pulp Paper
 category: Realism
 subject: Floral
 size: 
-tags: [flower, white lily, drawing, watercolor pencil, realism, floral art]
-featured: true
-popularity: 5
-prints: /shop/#!/Tomb-Flowers-Framed-Print/p/647332756/category=0
-printsprice: $59
+
 aliases: [/tomb-flowers]
+images: ['painting.jpg']
+videos: []
+tags: [flower, white lily, drawing, watercolor pencil, realism, floral art]
+
+status: sale
+products:
+    - id: 647332756
+      name: Framed Print
+      price: $59
 ---
 
 **Tomb Flowers** is a watercolor pencil drawing, with a brushed and washed colorful background, of white lilies. More information coming soon.
