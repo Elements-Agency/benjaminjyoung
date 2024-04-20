@@ -100,7 +100,7 @@
               {{- .Content -}}
 
               {{ if $.Params.products }}
-                <p class="text-align:right !important;">
+                <p id="purchase" class="text-align:right !important;">
                   <div style="float:right; margin-left:0.5em;" class="ec-cart-widget"></div>
                   <div style="float:right;">
                     <script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?101772706&data_platform=code&data_date=2024-04-18" charset="utf-8"></script>
@@ -130,114 +130,6 @@
                 <script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?101772706&data_platform=singleproduct_v2" charset="utf-8"></script>
                 <script type="text/javascript">xProduct()</script>
                 {{ end }}
-
-              {{ else }}
-                <ul id="purchase" style="list-style:none; text-align:center; margin-bottom:0;">
-
-                  {{ if $.Params.original }}
-                    {{ with $original := .Resources.GetMatch "original.jpg" }}
-                      {{ $original := $original.Fill "250x250 Center q85" }}
-                      <li style="display:inline-block; padding:1em; text-align:center;">
-                        <h3>Original Painting</h3>
-
-                        <p style="text-align:center; margin-bottom:0">
-                          <a href="{{ $.Params.original }}" data-position="center">
-                            <img src="{{ $original.RelPermalink }}" width="250px" height="250px" loading="lazy" alt="Buy the original {{ $.Title }}" title="Original {{ $.Title }}">
-                          </a>
-
-                          <br>
-
-                          A one-of-a-kind handmade masterpiece.
-
-                          <br>
-
-                          {{ if $.Params.originalprice }}
-                            <strong>Price:</strong>
-
-                            {{ if eq $.Params.status "sold" }}
-                              <del>
-                            {{ end }}
-
-                            {{ $.Params.originalprice }}
-
-                            {{ if eq $.Params.status "sold" }}
-                              </del>
-                              &nbsp;
-                              <strong>SOLD</strong>
-                            {{ else }}
-                              <em>(Free Shipping)</em>
-                            {{ end }}
-                          {{ end }}
-
-                          <br>
-
-                          <a href="{{ $.Params.original }}" class="button">
-                            {{ if eq $.Params.status "sold" }}
-                              View The Original
-                            {{ else }}
-                              Buy The Original
-                            {{ end }}
-                          </a>
-                        </p>
-
-                        <br>
-                      </li>
-                    {{ end }}
-                  {{ else }}
-                    <li style="display:inline-block; padding:1em; text-align:center; width:250px;">
-                      <h3>Original</h3>
-
-                      <p style="text-align:center;">
-                        Interested in purchasing the original?
-                        <a href="/contact">Contact me</a> to discuss purchasing.
-                      </p>
-
-                      <br>
-    
-                      <a href="/contact" class="button">
-                        Contact Artist
-                      </a>
-
-                      <br><br>
-                    </li>
-                  {{ end }}
-
-                  {{ if $.Params.prints }}
-                    {{ with $print := .Resources.GetMatch "print.jpg" }}
-                      {{ $print := $print.Fit "250x250 q85" }}
-                      <li style="display:inline-block; padding:1em; text-align:center;">
-                        <h3>Printed Copy</h3>
-
-                        <p style="text-align:center; margin-bottom:0">
-                          <a href="{{ $.Params.prints }}" data-position="center">
-                            <img src="{{ $print.RelPermalink }}" width="250px" height="250px" loading="lazy" alt="Buy a print of {{ $.Title }}" title="Print of {{ $.Title }}">
-                          </a>
-
-                          <br>
-
-                          Framing and bulk pricing also available.
-
-                          <br>
-
-                          {{ if $.Params.printsprice }}
-                            <strong>Price:</strong>
-                            {{ $.Params.printsprice }}
-                            <em>(Free Shipping)</em>
-                          {{ end }}
-
-                          <br>
-
-                          <a href="{{ $.Params.prints }}" class="button">
-                            Purchase Print
-                          </a>
-                        </p>
-
-                        <br>
-                      </li>
-                    {{ end }}
-                  {{ end }}
-
-                </ul>
               {{ end }}
 
               <hr>
