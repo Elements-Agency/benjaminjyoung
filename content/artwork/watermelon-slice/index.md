@@ -25,7 +25,7 @@ status: sale
 products:
     - id: 647330001
       name: Canvas Print
-      price: $59
+      price: $79
 ---
 
 Juicy! A fruity painting that depicts a slice of watermelon. Watermelon Slice is a realistic drawing that captures the vibrant red flesh of the fruit, complete with black seeds scattered throughout. The watermelon slice has a green rind, transitioning from a darker green on the outside to a paler green towards the inner red flesh. The drawing has a textured appearance from the water colored pencils, and there’s a gentle shadow under the slice, giving it a sense of depth and dimension. The background is plain and lightly textured. Hang it up in your summer themed kitchen, like the basic, normal, coffee drinking, white person you are.

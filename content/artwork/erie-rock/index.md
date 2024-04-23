@@ -25,7 +25,7 @@ status: sold
 products:
     - id: 646845144
       name: Framed Print
-      price: $59
+      price: $69
     - id: 646847599
       name: Poster Print
       price: $29
