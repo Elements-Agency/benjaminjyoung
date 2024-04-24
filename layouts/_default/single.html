@@ -115,6 +115,10 @@
                 {{ if eq $.Params.status "sold" }}
                   <p><strong>The original has been sold and is no longer available.</strong> You can still order prints, below:</p>
                 {{ end }}
+                
+                <p>
+                  <strong>Limited Time:</strong> Enjoy a <em style="color:red; font-weight:bold;">5% OFF</em> discount this week, on all orders, using coupon <strong>GRANDOPEN</strong> at checkout.
+                </p>
 
                 {{ range $.Params.products }}
                   <div style="margin: 0 10px 10px;" class="ecsp ecsp-SingleProduct-v2 ecsp-SingleProduct-v2-bordered ecsp-Product ec-Product-{{ .id }}" itemscope itemtype="http://schema.org/Product" data-single-product-id="{{ .id }}">
