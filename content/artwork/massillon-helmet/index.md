@@ -22,6 +22,22 @@ videos: []
 tags: [massillon tigers, football, helmet, black object, lighting, still life art, oil paint, realism, study, for sale]
 
 status: sale
+products:
+    - id: 651736516
+      name: Framed Print
+      price: $59
+    - id: 651727998
+      name: Thin Canvas Print
+      price: $39
+    - id: 651741015
+      name: Metal Print
+      price: $99
+    - id: 651739322
+      name: Coffee Mug
+      price: $19
+    - id: 651739327
+      name: Towel
+      price: $49
 ---
 
 The **Massillon Helmet** is an oil painting depicting a solitary, black Massillon Tiger's American football helmet in a three-quarter view, featuring a bold orange Massillon Ohio letter 'M' logo, symbolizing the Washington Highschool team's identity and spirit. I have rendered the subject with a strong attention to detail, from the subtle reflections and shadows on the helmet's glossy surface to the intricate structure of the face mask and the secure clasps. The background is a neutral, mixing with the multiple light source hues, with gradient shades that throws the focus entirely on the helmet, evoking a sense of nostalgia and Tiger pride, typical of any sports memorabilia. T-I-G!
@@ -64,4 +80,4 @@ Ben Young, a previous resident of Massillon Ohio, is new quite new painting. Onl
 
 ## Artwork Purchase Options ##
 
-The original is currently being framed, and pending to be listed for sale. Price after proffesional framing with be $799. Print option coming soon as well.
+The original is currently being framed, and pending to be listed for sale. Price after professional framing with be $799. [Sign up for my newsletter](#footer), to be updated when the original is for sale.
