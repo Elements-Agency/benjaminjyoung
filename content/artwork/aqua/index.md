@@ -6,7 +6,7 @@ alt: The painting displays an artistic monochrome sketch of a wine glass with it
 author: Benjamin J. Young
 
 featured: true
-popularity: 16
+popularity: 999
 ratio: portrait
 
 type: Painting

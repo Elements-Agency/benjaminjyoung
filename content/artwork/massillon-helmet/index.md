@@ -6,7 +6,7 @@ alt: This painting presents a highly detailed, realistic portrayal of a black fo
 author: Benjamin J. Young
 
 featured: true
-popularity: 0
+popularity: 8
 ratio: landscape
 
 type: Painting

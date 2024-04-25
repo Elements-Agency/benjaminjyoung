@@ -7,7 +7,7 @@ author: Benjamin J. Young
 
 ratio: landscape
 featured: true
-popularity: 15
+popularity: 999
 
 type: Painting
 medium: Water Soluble Graphite

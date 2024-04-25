@@ -6,7 +6,7 @@ alt: This painting by Ben Young depicts a solitary figure in dark clothing stand
 author: Benjamin J. Young
 
 featured: true
-popularity: 12
+popularity: 7
 ratio: landscape
 
 type: Painting
