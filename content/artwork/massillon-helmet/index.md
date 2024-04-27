@@ -26,12 +26,6 @@ products:
     - id: 651736516
       name: Framed Print
       price: $59
-    - id: 651727998
-      name: Thin Canvas Print
-      price: $39
-    - id: 651741015
-      name: Metal Print
-      price: $99
     - id: 651739322
       name: Coffee Mug
       price: $19

@@ -26,9 +26,6 @@ products:
     - id: 648383272
       name: Framed Print
       price: $59
-    - id: 648383518
-      name: Poster Print
-      price: $29
     - id: 650002838
       name: Greeting Card
       price: $19

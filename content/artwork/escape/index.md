@@ -26,9 +26,6 @@ products:
     - id: 646466899
       name: Framed Print
       price: $69
-    - id: 646467367
-      name: Poster Print
-      price: $29
     - id: 646467810
       name: Puzzle
       price: $39
