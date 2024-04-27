@@ -66,7 +66,7 @@ Painting part by part, instead of layering paints, it took an extensive amount o
 
 {{< img class="benprolite" width="150px" height="150px" src="/images/ben-small.webp" alt="Photo of Benjamin J. Young" title="Ben Young" >}}
 
-Ben Young, a previous resident of Massillon Ohio, is new quite new painting. Only painting and doing art as an adult for the past six months, he's trying to still trying to bring back his artistic skill set from what he had in childhood. Slowly but surely as he stays consistent with practicing, painting, and expressing his emotions and captivation in his own artwork, he's proud to say he sees his artwork improving drastically and quickly. Hoping that the childhood prodigy artistic skills he once had over 18 years ago, make a comeback.
+Ben Young, a previous resident of Massillon Ohio for five years, is new quite new to painting. Only painting and doing art as an adult for the past six months, he's trying to still trying to bring back his artistic skill set from what he had in childhood. Slowly but surely as he stays consistent with practicing, painting, and expressing his emotions and captivation in his own artwork, he's proud to say he sees his artwork improving  quickly. Hoping that the childhood prodigy artistic skills he once had over 18 years ago, make a comeback.
 
 [Read More About Ben >](/about)
 
