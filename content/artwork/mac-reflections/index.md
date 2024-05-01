@@ -9,7 +9,6 @@ featured: true
 popularity: 7
 ratio: portrait
 
-
 type: Painting
 medium: Oil Pastel
 material: Construction Paper
