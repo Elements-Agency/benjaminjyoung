@@ -22,6 +22,9 @@ videos: [https://www.instagram.com/p/C4fX_ZiuC8p/, https://youtube.com/shorts/35
 tags: [human figure, snowy landscape, trail, trees, forest, snow tracks, watercolor paint, hybrid impressionism, landscape art, cool tone, winter escape series, for sale]
 
 products:
+    - id: 654299503
+      name: Original Painting
+      price: $499
     - id: 648799367
       name: Framed Print
       price: $59

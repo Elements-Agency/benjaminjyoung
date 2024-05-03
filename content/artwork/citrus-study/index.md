@@ -25,7 +25,7 @@ status: sale
 products:
     - id: 645932227
       name: Original Painting
-      price: $299
+      price: $399
     - id: 647393381
       name: Framed Print
       price: $59
@@ -71,4 +71,4 @@ Ben Young grew up in childhood with an amazing artistic talent, which sadly was 
 
 ## Artwork Purchase Options ##
 
-The original painting is custom framed by [Cyrus Custom Framing](http://cyruscustom.com/) with a brown wood fram and gold trim to frame the painting and give an antique feel, along with a white mat to highlight the focus of the fruit. Mounting hardware included.
+The original painting is custom framed by [Cyrus Custom Framing](http://cyruscustom.com/) with a brown wood frame and gold trim to frame the painting and give an antique feel, along with a white mat to highlight the focus of the fruit. Mounting hardware included.

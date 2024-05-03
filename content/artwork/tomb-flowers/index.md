@@ -23,6 +23,9 @@ tags: [flower, white lily, drawing, watercolor pencil, realism, floral art]
 
 status: sale
 products:
+    - id: 654233365
+      name: Original Painting
+      price: $399
     - id: 647332756
       name: Framed Print
       price: $59
