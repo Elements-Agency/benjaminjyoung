@@ -77,4 +77,4 @@ Ben Young, a previous resident of Massillon Ohio for five years, is new quite ne
 
 ## Artwork Purchase Options ##
 
-The original is currently being framed, and pending to be listed for sale. Price after professional framing with be $799. [Sign up for my newsletter](#footer), to be updated when the original is for sale.
+The original is currently being framed, and pending to be listed for sale. You can pre-order now. [Sign up for my newsletter](#footer), to be updated when the original is fully ready to purchase.
