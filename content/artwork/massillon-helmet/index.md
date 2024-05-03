@@ -23,6 +23,9 @@ tags: [massillon tigers, football, helmet, black object, lighting, still life ar
 
 status: sale
 products:
+    - id: 654299512
+      name: Original Painting
+      price: $799
     - id: 651736516
       name: Framed Print
       price: $59

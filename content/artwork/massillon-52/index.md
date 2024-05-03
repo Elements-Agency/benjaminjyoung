@@ -22,6 +22,10 @@ videos: []
 tags: [massillon tigers, football, sports, field, team, figure art, watercolor paint, realism, for sale]
 
 status: sale
+products:
+    - id: 654299515
+      name: Original Painting
+      price: $699
 ---
 
 The **Massillon 52** is a vibrant watercolor painting, where we observe a dynamic scene of American football charged with energy and emotion. Two players from the Massillon team are captured in a moment of intense celebration. On the left, a player wearing jersey number 52 is rendered with a fierce expression; his posture conveys triumph and the physical intensity of the sport. To the right, a teammate engages  in clapping, which adds a pop of color to the composition. Behind them, the stadium is alive with spectators in the stands, rendered in looser strokes that suggest a bustling crowd. The background trees with autumnal hues imply the season in which the sport is traditionally played, while the subdued, earthy tones of the field and players contrast sharply with the vibrant oranges and reds. I managed to infuse the scene with movement and excitement, creating a palpable sense of the game's high stakes and the players' raw emotion.
