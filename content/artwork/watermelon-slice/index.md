@@ -21,7 +21,6 @@ images: ['painting.jpg']
 videos: []
 tags: [watermelon slice, juicy melon, food, summer colors, colorful splashes, black seeds, watercolor paint, hybrid impressionism, still life art]
 
-status: sale
 products:
     - id: 647330001
       name: Canvas Print

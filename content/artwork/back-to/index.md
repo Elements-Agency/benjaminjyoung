@@ -21,6 +21,7 @@ images: ['painting.jpg']
 videos: [https://www.instagram.com/p/C4fX_ZiuC8p/, https://youtube.com/shorts/35AX0Eu-C7w]
 tags: [human figure, snowy landscape, trail, trees, forest, snow tracks, watercolor paint, hybrid impressionism, landscape art, cool tone, winter escape series, for sale]
 
+status: sale
 products:
     - id: 654299503
       name: Original Painting

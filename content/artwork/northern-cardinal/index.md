@@ -23,15 +23,15 @@ tags: [bird, northern red cardinal, drawing, watercolor pencils, realism, animal
 
 status: sold
 products:
+    - id: 645991759
+      name: Original Drawing
+      price: $299
     - id: 648383272
       name: Framed Print
       price: $59
     - id: 650002838
       name: Greeting Card
       price: $19
-    - id: 645991759
-      name: Original Drawing
-      price: $299
 ---
 
 Northern Cardinal is a colored pencil drawing of a Northern Cardinal perched on a branch. The bird is depicted with a vibrant red plumage, which is characteristic of the male of the species. Its beak is orange-yellow, and the facial mask is black, extending from the beak around the eyes. The drawing captures the distinct crest of the cardinal, which is a pointy tuft of feathers on top of its head. The branch is rendered with a muted gray tone, contrasting with the bright red of the bird. The background is a soft, textured gray, allowing the cardinal to stand out prominently. The pencil strokes have created a sense of softness and detail, particularly in the feathers and the blending of colors.

@@ -48,6 +48,24 @@
                     <img src="{{ $thumbnail.RelPermalink }}" loading="lazy" alt="{{ .Params.alt }}" title='{{ .Title }} ({{ .Date| time.Format "2006" }}) by {{ .Site.Copyright }}'>
                   </article>
                 </div></div></div>
+
+                <div style="float:left; padding:0 0 0 1.5em; text-align:left;">
+                  <strong style="color:black;">{{ .Title }}</strong>
+                </div>
+
+                <div style="color:black; float:right; padding:0 1.5em 0 0; text-align:right;">
+                  {{ if .Params.products }}
+                    {{ $original := index (.Params.products) 0 }}
+
+                    {{ if eq .Params.status "sold" }}
+                      <strong style="color:red;">SOLD</strong>
+                    {{ else }}
+                      {{ if eq .Params.status "sale" }}
+                        <strong style="color:black;">{{ $original.price }}</strong>
+                      {{ end }}
+                    {{ end }}
+                  {{ end }}
+                </div>
               </a>
             {{ end }}
           {{ end }}
@@ -87,6 +105,24 @@
                     <img src="{{ $thumbnail.RelPermalink }}" loading="lazy" alt="{{ .Params.alt }}" title='{{ .Title }} ({{ .Date| time.Format "2006" }}) by {{ .Site.Copyright }}'>
                   </article>
                 </div></div></div>
+
+                <div style="float:left; padding:0 0 0 1.5em; text-align:left;">
+                  <strong style="color:black;">{{ .Title }}</strong>
+                </div>
+
+                <div style="color:black; float:right; padding:0 1.5em 0 0; text-align:right;">
+                  {{ if .Params.products }}
+                    {{ $original := index (.Params.products) 0 }}
+
+                    {{ if eq .Params.status "sold" }}
+                      <strong style="color:red;">SOLD</strong>
+                    {{ else }}
+                      {{ if eq .Params.status "sale" }}
+                        <strong style="color:black;">{{ $original.price }}</strong>
+                      {{ end }}
+                    {{ end }}
+                  {{ end }}
+                </div>
               </a>
             {{ end }}
           {{ end }}

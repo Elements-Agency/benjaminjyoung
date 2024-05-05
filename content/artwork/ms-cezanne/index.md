@@ -21,7 +21,6 @@ images: ['painting.jpg']
 videos: ['https://www.instagram.com/p/C3lKtCjvEd5/']
 tags: [female body, woman, reclining pose, oil pastels, impressionism, figure art]
 
-status: sale
 products:
     - id: 647332753
       name: Framed Print
