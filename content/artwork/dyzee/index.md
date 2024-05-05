@@ -31,15 +31,11 @@ This **Dyzee** painting is an abstract composition dominated by fluid, dynamic s
 
 The use of watercolor or a similar medium is indicated by the translucency of the paint and the ways in which the colors blend and bleed into one another, creating soft edges and a sense of depth. The artwork could represent a natural force like a whirlwind or a close-up of organic matter like a plant or flower. It leaves much to the imagination, inviting the viewer to interpret the forms and movement within the painting in their own way.
 
-{{< purchase >}}
-
 ### Inspiration ###
 
 {{< img src="reference.webp" width="200px" height="133px" class="floatright" gallery="progress" alt="Dyzee Reference Photo" title="Reference Photo" link="reference.jpg" >}}
 
 I simply wanted to try my hand at abstract painting. I chose a Daisy flower to derive the subject from, since my one grandmother was named Daisy. Plus, I of course do enjoy the vibrance of flowers.
-
-{{< purchase >}}
 
 ### Process ###
 
@@ -53,8 +49,6 @@ I painted this with [watercolor paint](https://www.anrdoezrs.net/click-101118598
 
 This took a few stages of painting a layer and waiting for dry time. So it took a few days.
 
-{{< purchase >}}
-
 ## About the Artist ##
 
 {{< img class="benprolite" width="150px" height="150px" src="/images/ben-small.webp" alt="Photo of Benjamin J. Young" title="Ben Young" >}}
@@ -62,7 +56,3 @@ This took a few stages of painting a layer and waiting for dry time. So it took 
 Ben Young is a visual artist, from Canton Ohio. While normally he focuses on landscape paintings, he does appreciate abstract artwork. Especially to decorate his own interior decor with. So from time to time, Ben will paint abstract artworks just as both practice and a sense of enjoyment and expression.
 
 [Read More About Ben >](/about)
-
----
-
-## Artwork Purchase Options ##

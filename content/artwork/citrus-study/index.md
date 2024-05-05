@@ -33,13 +33,9 @@ products:
 
 The **Citrus Study** painting features a still life composition with three objects that appear on a table. On the left is a green lime, partially blending from green to a yellowish hue, indicating ripeness or a variation in color typical of certain lime varieties. In the middle, there's a red mug or cup with a visible handle on the right, suggesting it's meant for a right-handed person to pick up easily. The mug's rim is white, indicating the inside color and the reflection of light. On the right, there's a lemon with a bright yellow color, indicative of its ripeness and tartness. The background and surface are in muted dark tones, with the surface reflecting a bit of light, giving a sense of a shadowed room. The painting style is textured, with visible brushstrokes marks, which give it a tactile quality. The color palette is quite naturalistic, with a strong contrast between the brightly colored objects and the dark background, drawing attention to the subjects of the still life.
 
-{{< purchase >}}
-
 ### Inspiration ###
 
 This was done as a study to not only focus on lighting values, but my ability to blend water colors as well. Even with cheap paint used. The cheap paint may have resulted in extra work to keep fixing the condensed pigmented dried edges.
-
-{{< purchase >}}
 
 ### Process ###
 
@@ -57,8 +53,6 @@ Here is an visual overview of the progress:
 
 The study took honestly a few weeks. It was a lot of applying one layer or blending, waiting for the painting to dry, and then continuing on with the next layer or step. This would have been honestly much easier using oil paint, but I did not have the supplies on hand at the time and took it as a challenge to do the blending in watercolor.
 
-{{< purchase >}}
-
 ## About the Artist ##
 
 {{< img class="benprolite" width="150px" height="150px" src="/images/ben-small.webp" alt="Photo of Benjamin J. Young" title="Ben Young" >}}
@@ -66,9 +60,3 @@ The study took honestly a few weeks. It was a lot of applying one layer or blend
 Ben Young grew up in childhood with an amazing artistic talent, which sadly was dropped in pre-teenage years. Now he's back trying to refresh those skills in to his artwork, 18 years later. Studies such as these are helping him refine those skill sets, especially as he's still trying to find his own style of visual arts.
 
 [Read More About Ben >](/about)
-
----
-
-## Artwork Purchase Options ##
-
-The original painting is custom framed by [Cyrus Custom Framing](http://cyruscustom.com/) with a brown wood frame and gold trim to frame the painting and give an antique feel, along with a white mat to highlight the focus of the fruit. Mounting hardware included.

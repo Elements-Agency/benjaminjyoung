@@ -36,8 +36,6 @@ products:
 
 This evocative painting captures a unique and striking rock formation located along the shores of Lake Erie, near Cleveland, Ohio, portraying a natural monument that stands as a silent guardian amidst the lapping waves. The overcast sky suggests a typical Great Lakes ambiance, while the resilient trees on the rock's summit are a testament to nature's adaptability in the face of the elements. The artwork invites contemplation on the enduring beauty of Lake Erie's coastal landscape, subtly colored by the artist to reflect the area's serene yet dynamic character.
 
-{{< purchase >}}
-
 ### Inspiration ###
 
 {{< img src="reference.webp" width="200px" height="267px" class="floatright" gallery="progress" alt="Erie Rock Reference Photo" title="Reference Photo" link="reference.jpg" >}}
@@ -45,8 +43,6 @@ This evocative painting captures a unique and striking rock formation located al
 This is a rare display on a low tide of Lake Erie, out of Lakewood Ohio. The photos were [featured in the news](https://fox59.com/news/national-world/photos-show-rare-phenomenon-on-lake-erie/). When the winds hit an unusual high speed that day, 60mph, it pushed the water back enough to expose this rock work island. The island stands guardian to the lakeside, almost similar to the Guardian statues that call Cleveland their home. This is an area I bicycle through frequently, and I am an adventure of the outdoors.
 
 My style generally focuses on impressionism, with certain elements shifting to realism that I want to draw focus to. This artwork however was a little different from that, where the realism elements where much more present than my other art pieces.
-
-{{< purchase >}}
 
 ### Process ###
 
@@ -64,8 +60,6 @@ Here is an visual overview of the progress:
 
 This was a very labor intensive and detailed piece. Many stages of doing a layer, drying, and continuing on with the next step. I enjoyed the journey though and it's one of my favorite artworks.
 
-{{< purchase >}}
-
 ## About the Artist ##
 
 {{< img class="benprolite" width="150px" height="150px" src="/images/ben-small.webp" alt="Photo of Benjamin J. Young" title="Ben Young" >}}
@@ -73,9 +67,3 @@ This was a very labor intensive and detailed piece. Many stages of doing a layer
 Ben Young, a North East Ohio resident, frequently bicycles along the shorelines of Lake Erie and around Cleveland. He's cycled across the entire span of Ohio (300+ miles) on several occasions. This painting partly brings his passion for both cycling and watercolor painting together. The Erie Rock is a sight he's seen in person on a windy day headed from Cleveland to Sandusky. His love of nature is captured in this artwork. For him, this art brings a sense of home and exploration.
 
 [Read More About Ben >](/about)
-
----
-
-## Artwork Purchase Options ##
-
-The original painting is custom framed by [Cyrus Custom Framing](http://cyruscustom.com/) with a lighter wood color frame to match some of the light color tones in the painting, so the rockworks can pop, along with an off-white mat to stay neutral. Mounting hardware included.

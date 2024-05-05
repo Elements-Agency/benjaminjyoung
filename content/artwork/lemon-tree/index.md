@@ -30,13 +30,9 @@ products:
 
 **Lemon Tree** is an impressionistic acrylic painting capturing the cheerful essence of a citrus grove in an expressive style, with two plump, sunny lemons taking center stage against a crisp white background. The lemons are painted with bold, confident, impasto strokes, the yellows ranging from pale to deep golden hues, suggesting the play of light across their dimpled surfaces. Dark green leaves, painted with a sense of movement, flank the fruit, adding depth and contrast to the composition. Above the lemons, two white flowers with red centers bloom, providing a pop of color and completing the scene. The texture of the canvas is visible through the paint, giving the work a lively, tactile quality. With the bold brushstrokes giving texture. This piece exudes a simple, rustic charm and celebrates the beauty found in nature's forms and colors. Giving a summery feel.
 
-{{< purchase >}}
-
 ### Inspiration ###
 
 I just wanted to try acrylic paints. I was not a fan.
-
-{{< purchase >}}
 
 ### Process ###
 
@@ -50,8 +46,6 @@ The artwork is painted with [Liquitex Basic Acrylic paints](https://www.kqzyfj.c
 
 It was a quick, small work, art piece.
 
-{{< purchase >}}
-
 ## About the Artist ##
 
 {{< img class="benprolite" width="150px" height="150px" src="/images/ben-small.webp" alt="Photo of Benjamin J. Young" title="Ben Young" >}}
@@ -59,9 +53,3 @@ It was a quick, small work, art piece.
 Ben Young in childhood, with his artistic talents, started to home in on impressionism as his preferred methodology. It's been some time since he's used those artistic skills, but this artwork is one of many where those talents are starting to bubble back to the service as Ben ventures back in to visual arts.
 
 [Read More About Ben >](/about)
-
----
-
-## Artwork Purchase Options ##
-
-If interested in purchasing a print, please [contact me](/contact), and I can take time to setup the print with the print supplier.

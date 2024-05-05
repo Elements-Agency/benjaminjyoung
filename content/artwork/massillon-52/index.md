@@ -30,8 +30,6 @@ products:
 
 The **Massillon 52** is a vibrant watercolor painting, where we observe a dynamic scene of American football charged with energy and emotion. Two players from the Massillon team are captured in a moment of intense celebration. On the left, a player wearing jersey number 52 is rendered with a fierce expression; his posture conveys triumph and the physical intensity of the sport. To the right, a teammate engages  in clapping, which adds a pop of color to the composition. Behind them, the stadium is alive with spectators in the stands, rendered in looser strokes that suggest a bustling crowd. The background trees with autumnal hues imply the season in which the sport is traditionally played, while the subdued, earthy tones of the field and players contrast sharply with the vibrant oranges and reds. I managed to infuse the scene with movement and excitement, creating a palpable sense of the game's high stakes and the players' raw emotion.
 
-{{< purchase >}}
-
 ### Inspiration ###
 
 After the deadline was extended for the [Massillon Museum](http://massillonmuseum.org/)'s "[Brown Town Exhibit](https://paulbrownmuseum.org/home/special-exhibits/)", I figured I had enough time to finish this second painting, after already completing [the Massillon Helmet Oil Painting](/artwork/massillon-helmet) prior. It was a rush against the clock, but I made the deadline.
@@ -39,8 +37,6 @@ After the deadline was extended for the [Massillon Museum](http://massillonmuseu
 {{< img src="reference.webp" width="200px" height="197px" class="floatright" gallery="progress" alt="Massillon 52 Reference Photo" title="Joe Hallet with the Massillon Football Game" link="reference.jpg" >}}
 
 The composition of the piece was selected because it's one of my "little" cousin's favorite [Massillon Football](https://massillontigers.com) pictures while he played on varsity. I'm not much of a football fan myself, but it was a nice reference photo to paint from.
-
-{{< purchase >}}
 
 ### Process ###
 
@@ -60,8 +56,6 @@ Here is an visual overview of the progress:
 
 {{< progress >}}
 
-{{< purchase >}}
-
 ## About the Artist ##
 
 {{< img class="benprolite" width="150px" height="150px" src="/images/ben-small.webp" alt="Photo of Benjamin J. Young" title="Ben Young" >}}
@@ -69,9 +63,3 @@ Here is an visual overview of the progress:
 Ben Young, a previous resident of Massillon Ohio for five years, is new quite new to painting. Only painting and doing art as an adult for the past six months, he's trying to still trying to bring back his artistic skill set from what he had in childhood. Slowly but surely as he stays consistent with practicing, painting, and expressing his emotions and captivation in his own artwork, he's proud to say he sees his artwork improving  quickly. Hoping that the childhood prodigy artistic skills he once had over 18 years ago, make a comeback.
 
 [Read More About Ben >](/about)
-
----
-
-## Artwork Purchase Options ##
-
-The original is currently being framed, and pending to be listed for sale. You can pre-order now. [Sign up for my newsletter](#footer), to be updated when the original is fully ready to purchase.

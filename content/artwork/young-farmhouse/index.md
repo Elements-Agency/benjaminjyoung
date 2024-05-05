@@ -41,15 +41,11 @@ The sky above is a pale blue, suggesting an overcast day, with the light not qui
 
 The painting has a feeling of tranquility and nostalgia, evoking memories of childhood summers or quiet life in the countryside. The overall style combines elements of realism with a touch of impressionism, seen in the way the grass and foliage are rendered with loose brushwork.
 
-{{< purchase >}}
-
 ### Inspiration ###
 
 {{< img src="reference.webp" width="200px" height="150px" class="floatright" gallery="progress" alt="Young Farmhouse Reference Photo" title="Reference Photo" link="reference.jpg" >}}
 
 The subject and inspiration is that of my [family's 1875 brick farmhouse](https://piketownship.net/our-history/). It was a house I spent a large part of my childhood in, being babysat my by aunt. Even past that, it always stood next to my own home and the center focal point of the frontage to our family's 64 acres of land. The fields and forrest you see backset to the house were the woods I grew up in exploring in my childhood.
-
-{{< purchase >}}
 
 ### Process ###
 
@@ -67,8 +63,6 @@ Here is an visual overview of the progress:
 
 This artwork took forever to do. Similar to [Fry's Tree](/artwork/frys-tree), the progress stretched out and the skills had developed past of when I started. I had to force myself to complete this one.
 
-{{< purchase >}}
-
 ## About the Artist ##
 
 {{< img class="benprolite" width="150px" height="150px" src="/images/ben-small.webp" alt="Photo of Benjamin J. Young" title="Ben Young" >}}
@@ -76,9 +70,3 @@ This artwork took forever to do. Similar to [Fry's Tree](/artwork/frys-tree), th
 Ben Young grew up in East Sparta Ohio. His family were the first settlers to the area, back in 1800. His heritage is deeply rooted with the history of the area. Being an artist, it's captures in times like this painting that give Ben's artwork a sense of narrative and story. The paintings have way more to say than what the viewer can visually see, but that's ultimately left by Ben in his artwork for the viewers to interpret with their own experiences.
 
 [Read More About Ben >](/about)
-
----
-
-## Artwork Purchase Options ##
-
-The original painting is custom framed by [Cyrus Custom Framing](http://cyruscustom.com/) with a black solid wood frame to frame the painting, along with a white mat to highlight the powder blue sky. Mounting hardware included.

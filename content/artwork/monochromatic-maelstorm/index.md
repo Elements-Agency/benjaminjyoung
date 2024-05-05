@@ -31,15 +31,11 @@ products:
 
 The painting lacks defined forms or figures, which is typical of abstract art, where the focus is on the colors, textures, and the emotional response they may evoke rather than on depicting recognizable objects or scenes. The technique used involved both controlled brushwork and a degree of letting the paint behave naturally, evidenced by the drips and splashes.
 
-{{< purchase >}}
-
 ### Inspiration ###
 
 {{< img src="reference.webp" width="200px" height="133px" class="floatright" gallery="progress" alt="Whirlpool Reference Photo" title="Reference Photo" link="reference.jpg" >}}
 
 I wanted to test working with the watercolor paints before moving on to attempt [Dyzee](/artwork/dyzee).
-
-{{< purchase >}}
 
 ### Process ###
 
@@ -53,8 +49,6 @@ I painted this with [watercolor paint](https://www.anrdoezrs.net/click-101118598
 
 Quick and easy. Two or three stages of layers and steps. I believe it only took two days, if that.
 
-{{< purchase >}}
-
 ## About the Artist ##
 
 {{< img class="benprolite" width="150px" height="150px" src="/images/ben-small.webp" alt="Photo of Benjamin J. Young" title="Ben Young" >}}
@@ -62,7 +56,3 @@ Quick and easy. Two or three stages of layers and steps. I believe it only took 
 Ben Young is a visual artist, from Canton Ohio. While normally he focuses on landscape paintings, he does appreciate abstract artwork. Especially to decorate his own interior decor with. So from time to time, Ben will paint abstract artworks just as both practice and a sense of enjoyment and expression.
 
 [Read More About Ben >](/about)
-
----
-
-## Artwork Purchase Options ##

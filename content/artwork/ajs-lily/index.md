@@ -24,15 +24,11 @@ tags: [flower, white lily, drawing, graphite pencil, realism, floral art]
 
 The **AJ's Lily** drawing is a pencil drawing that captures the delicate beauty of a lily flower in bloom. The flower stands out with its petals gracefully curving outward, showcasing the fine details of its texture and venation, while the stamens reach out from the center, detailed with care to convey their slender form and powdery pollen tips. Below the flower, the stem leads to a pair of leaves that frame the composition, their pointed tips adding to the overall elegance of the sketch. The artist's use of shading provides depth, highlighting the organic curves and giving the lily a lifelike appearance. The background is left unadorned, ensuring that all attention remains on the intricacies of the flower and its natural allure.
 
-{{< purchase >}}
-
 ### Inspiration ###
 
 {{< img src="reference.webp" width="200px" height="222px" class="floatright" gallery="progress" alt="AJ's Lily Reference Photo" title="Reference Photo" link="reference.jpg" >}}
 
 The flower is that of a white lily. It was the favorite flower of my late Fiancee. We had planned to utilized them in our wedding.
-
-{{< purchase >}}
 
 ### Process ###
 
@@ -44,8 +40,6 @@ I drew this flower with [graphite pencils](https://www.jdoqocy.com/click-1011185
 
 The initial drawing only took one evening. However, it was weeks until I came back to it, to fill in some better shading for my realism and shadowing.
 
-{{< purchase >}}
-
 ## About the Artist ##
 
 {{< img class="benprolite" width="150px" height="150px" src="/images/ben-small.webp" alt="Photo of Benjamin J. Young" title="Ben Young" >}}
@@ -53,9 +47,3 @@ The initial drawing only took one evening. However, it was weeks until I came ba
 Ben Young is a visual artist, from Canton Ohio. One of Ben's most repeated subjects are Lily flowers. Especially white lilies. They hold both value in Ben's memories and have have symbolism in their narrative. There's also a sense of acknowledgement to Claude Monet's love of water lilies, as Ben studied deeply for his own works in his childhood art career. Not only that, but one of Monet's waterlily paintings is integral to one of Ben's most fondest memories of his life. The lilies link both to Monet and the one who shared that moment in time with Ben.
 
 [Read More About Ben >](/about)
-
----
-
-## Artwork Purchase Options ##
-
-If interested in purchasing a print or the original, please [contact me](/contact), and I can take time to setup the print with the print supplier.

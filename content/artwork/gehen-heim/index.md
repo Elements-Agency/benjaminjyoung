@@ -35,13 +35,9 @@ products:
 
 This is the third iteration in the [Winter Escape series](/tags/winter-escape-series).
 
-{{< purchase >}}
-
 ### Inspiration ###
 
 This artwork is to further define the narrative of the [Winter Escape series](/tags/winter-escape-series), bringing the setting to nightfall, to prepare for the final piece.
-
-{{< purchase >}}
 
 ### Process ###
 
@@ -59,8 +55,6 @@ Here is an visual overview of the progress:
 
 This took quite some time and a many number of glazing layers. To create the complexity of the sky and to get the lower values right.
 
-{{< purchase >}}
-
 ## About the Artist ##
 
 {{< img class="benprolite" width="150px" height="150px" src="/images/ben-small.webp" alt="Photo of Benjamin J. Young" title="Ben Young" >}}
@@ -68,9 +62,3 @@ This took quite some time and a many number of glazing layers. To create the com
 Ben Young, no stranger to winter weather, is an avid outdoors man. You can frequently find Ben hiking through the country and the middle of no-where. Including trudging through the snow filled winter landscapes of Ohio. To him, those moments bring serenity, which he has tried his best to resonate in painting this watercolor landscape artwork.
 
 [Read More About Ben >](/about)
-
----
-
-## Artwork Purchase Options ##
-
-The original painting is custom framed by [Cyrus Custom Framing](http://cyruscustom.com/) with a black solid wood frame to frame the painting, along with a gray slate mat to make the bright white snow stand out. Mounting hardware included.

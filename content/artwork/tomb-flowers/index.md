@@ -33,15 +33,11 @@ products:
 
 **Tomb Flowers** is a watercolor pencil drawing, with a brushed and washed colorful background, of white lilies. More information coming soon.
 
-{{< purchase >}}
-
 ### Inspiration ###
 
 {{< img src="reference.webp" width="200px" height="222px" class="floatright" gallery="progress" alt="AJ's Lily Reference Photo" title="Reference Photo" link="reference.jpg" >}}
 
 The flower is that of a white lily. It was the favorite flower of my late Fiancee. We had planned to utilized them in our wedding.
-
-{{< purchase >}}
 
 ### Process ###
 
@@ -51,8 +47,6 @@ The flower is that of a white lily. It was the favorite flower of my late Fiance
 
 I drew this with [watercolor pencils](https://www.dpbolvw.net/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Ffaber-castell-albrecht-durer-watercolor-pencils-set-of-24%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D20567-0249%26country%3Dus%26currency%3Dusd&cjsku=20567-0249) on [watercolor pad paper](https://www.jdoqocy.com/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Ffaber-castell-watercolor-pad-9x-12-90-lb-15-sheets%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D10163-1001%26country%3Dus%26currency%3Dusd&cjsku=10163-1001). I washed the background with brush and water, from the pencil pigment.
 
-{{< purchase >}}
-
 ## About the Artist ##
 
 {{< img class="benprolite" width="150px" height="150px" src="/images/ben-small.webp" alt="Photo of Benjamin J. Young" title="Ben Young" >}}
@@ -60,9 +54,3 @@ I drew this with [watercolor pencils](https://www.dpbolvw.net/click-101118598-13
 Ben Young is a visual artist, from Canton Ohio. One of Ben's most repeated subjects are Lily flowers. Especially white lilies. They hold both value in Ben's memories and have have symbolism in their narrative. There's also a sense of acknowledgement to Claude Monet's love of water lilies, as Ben studied deeply for his own works in his childhood art career. Not only that, but one of Monet's waterlily paintings is integral to one of Ben's most fondest memories of his life. The lilies link both to Monet and the one who shared that moment in time with Ben.
 
 [Read More About Ben >](/about)
-
----
-
-## Artwork Purchase Options ##
-
-The original painting is custom framed by [Cyrus Custom Framing](http://cyruscustom.com/) with a grey wood frame to neutrally frame the painting, fitting a style that person the flower's belonged to would like. No mat was used, as it was too much to distract away from the artwork. Mounting hardware included.

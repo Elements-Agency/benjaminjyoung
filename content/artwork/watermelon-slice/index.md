@@ -29,15 +29,11 @@ products:
 
 Juicy! A fruity painting that depicts a slice of watermelon. Watermelon Slice is a realistic drawing that captures the vibrant red flesh of the fruit, complete with black seeds scattered throughout. The watermelon slice has a green rind, transitioning from a darker green on the outside to a paler green towards the inner red flesh. The drawing has a textured appearance from the water colored pencils, and there’s a gentle shadow under the slice, giving it a sense of depth and dimension. The background is plain and lightly textured. Hang it up in your summer themed kitchen, like the basic, normal, coffee drinking, white person you are.
 
-{{< purchase >}}
-
 ### Inspiration ###
 
 {{< img src="reference.webp" width="200px" height="200px" class="floatright" gallery="progress" alt="Photo of a Watermelon slices" title="Watermelon Slices" link="reference.jpg" >}}
 
 The inspiration for this artwork was simply to test my new water color pencil set, and use brushstrokes of water to blend the pigment.
-
-{{< purchase >}}
 
 ### Process ###
 
@@ -51,8 +47,6 @@ I drew this with [watercolor pencils](https://www.dpbolvw.net/click-101118598-13
 
 Quick study that took just a few hours one evening.
 
-{{< purchase >}}
-
 ## About the Artist ##
 
 {{< img class="benprolite" width="150px" height="150px" src="/images/ben-small.webp" alt="Photo of Benjamin J. Young" title="Ben Young" >}}
@@ -60,7 +54,3 @@ Quick study that took just a few hours one evening.
 After an 18 year hiatus of art, Ben Young is back doing what he once enjoyed. As he hones his skills back to where they used to be in childhood, he's being sure to practice methodically and frequently. Watch Ben's journey to revisit an old love of painting, and his skills develope back to the prodigy he used to be.
 
 [Read More About Ben >](/about)
-
----
-
-## Artwork Purchase Options ##

@@ -39,13 +39,9 @@ products:
 
 The **Massillon Helmet** is an oil painting depicting a solitary, black Massillon Tiger's American football helmet in a three-quarter view, featuring a bold orange Massillon Ohio letter 'M' logo, symbolizing the Washington Highschool team's identity and spirit. I have rendered the subject with a strong attention to detail, from the subtle reflections and shadows on the helmet's glossy surface to the intricate structure of the face mask and the secure clasps. The background is a neutral, mixing with the multiple light source hues, with gradient shades that throws the focus entirely on the helmet, evoking a sense of nostalgia and Tiger pride, typical of any sports memorabilia. T-I-G!
 
-{{< purchase >}}
-
 ### Inspiration ###
 
 After completion of my [first oil painting](/artwork/cherry-popping), I learned a lot from that experience. With this being only my second oil painting, I revised my realism technique. Especially from learning a lot of tips and techniques studying [Mark Carder](https://www.drawmixpaint.com)'s genius instructions and teachings. Instead of painting in layers like the first, I took an approach of pre-mixing the paints and color matching each piece, and painting section by section. Taking advantage of the superior blending oil paint advantage. Since the [Massillon Museum](http://massillonmuseum.org/)'s "[Brown Town Exhibit](https://paulbrownmuseum.org/home/special-exhibits/)" is coming up, which must include the theme of either [Paul Brown](https://en.wikipedia.org/wiki/Paul_Brown) or [Massillon Football](https://massillontigers.com), I decided to make my subject comply with this requirement as a way to enter in my first exhibit. I have roots in both Ohio, and lived in Massillon for a number of years. The model year of the helmet was selected on the same style that my "little" cousin wore, during his time on defense of the varsity team. Still life always serves as a study and vehicle for me to experiment and learn from.
-
-{{< purchase >}}
 
 ### Process ###
 
@@ -63,8 +59,6 @@ Here is an visual overview of the progress:
 
 Painting part by part, instead of layering paints, it took an extensive amount of time to mix and color match, and ensure I touched on every detail of the helmet and lighting. This was my longest and most complicated artwork yet. But it has proven how much more heighten the realism turned out to be.
 
-{{< purchase >}}
-
 ## About the Artist ##
 
 {{< img class="benprolite" width="150px" height="150px" src="/images/ben-small.webp" alt="Photo of Benjamin J. Young" title="Ben Young" >}}
@@ -72,9 +66,3 @@ Painting part by part, instead of layering paints, it took an extensive amount o
 Ben Young, a previous resident of Massillon Ohio for five years, is new quite new to painting. Only painting and doing art as an adult for the past six months, he's trying to still trying to bring back his artistic skill set from what he had in childhood. Slowly but surely as he stays consistent with practicing, painting, and expressing his emotions and captivation in his own artwork, he's proud to say he sees his artwork improving  quickly. Hoping that the childhood prodigy artistic skills he once had over 18 years ago, make a comeback.
 
 [Read More About Ben >](/about)
-
----
-
-## Artwork Purchase Options ##
-
-The original is currently being framed, and pending to be listed for sale. You can pre-order now. [Sign up for my newsletter](#footer), to be updated when the original is fully ready to purchase.

@@ -39,8 +39,6 @@ Textures in the painting were deliberate, somewhat rough strokes to create the t
 
 This is the second iteration in the [Winter Escape series](/tags/winter-escape-series).
 
-{{< purchase >}}
-
 ### Inspiration ###
 
 {{< img src="reference.webp" width="200px" height="267px" class="floatright" gallery="progress" alt="Back To Reference Photo" title="Snow covered Towpath trail" link="reference.jpg" >}}
@@ -48,8 +46,6 @@ This is the second iteration in the [Winter Escape series](/tags/winter-escape-s
 I have walked many times on the [Ohio and Erie Canal Towpath Trail](https://www.ohioanderiecanalway.com/explore/the-towpath-trail/), especially through winter's snow. There is just something enchanting on those hikes, when no one else is on that trail, and all you have are the noises of the winter wind and snowfall. This artwork is meant to depict and resonate those feelings. Continuing forward with the narrative and story I want to show in the [Winter Escape series](/tags/winter-escape-series).
 
 I can say with confidence I have spent more time on the Towpath Trail than most, other than a select few. I have traveled it's crushed limestone path on foot and bicycle tie as my second home.
-
-{{< purchase >}}
 
 ### Process ###
 
@@ -67,8 +63,6 @@ Here is an visual overview of the progress:
 
 This took quite some time and a many number of glazing layers. To create the depth of trees, I of course had to brush several layers of trees.
 
-{{< purchase >}}
-
 ## About the Artist ##
 
 {{< img class="benprolite" width="150px" height="150px" src="/images/ben-small.webp" alt="Photo of Benjamin J. Young" title="Ben Young" >}}
@@ -76,9 +70,3 @@ This took quite some time and a many number of glazing layers. To create the dep
 Ben Young, no stranger to winter weather, is an avid outdoors man. You can frequently find Ben hiking through the country and the middle of no-where. Including trudging through the snow filled winter landscapes of Ohio. To him, those moments bring serenity, which he has tried his best to resonate in painting this watercolor landscape artwork.
 
 [Read More About Ben >](/about)
-
----
-
-## Artwork Purchase Options ##
-
-The original painting is custom framed by [Cyrus Custom Framing](http://cyruscustom.com/) with a black solid wood frame to frame the painting, along with a gray slate mat to make the bright white snow stand out. Mounting hardware included.
