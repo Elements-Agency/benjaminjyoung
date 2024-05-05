@@ -4,18 +4,7 @@
     {{ $thumbnail := $thumbnail.Fill "300x300 Center" }}
     {{ $thumbnail := $thumbnail.Resize "300x webp q90" }}
 
-    {{ $text := "" }}
-    {{ if eq .Params.status "sold" }}
-      {{ $text = "SOLD" }}
-    {{ end }}
-
-    {{ $opts := dict
-      "color" "#888"
-      "size" 100
-    }}
-    {{ $filter := images.Text $text $opts }}
-
-    {{ with $thumbnail | images.Filter $filter }}
+    {{ with $thumbnail }}
       <a class="thumbnail" href="{{ $.RelPermalink }}" data-position="center">
         <img src="{{ .RelPermalink }}" width="300px" height="300px" style="float:right; margin:3.5em 4em 2em;" alt="{{ $.Params.alt }}" title='{{ $.Title }} ({{ $.Date| time.Format "2006" }}) by {{ $.Site.Copyright }}' />
       </a>
