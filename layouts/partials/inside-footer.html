@@ -64,11 +64,18 @@
           &copy;
           {{ with .Site.Copyright | default .Site.Title }}
             {{ . | safeHTML }}
-            {{ now.Format "2006"}}.
+            2023 -
+            {{ now.Format "2006"}}
           {{ end }}
         </li>
         <li>
             <a href="/privacy">Privacy Policy</a>
+        </li>
+        <li>
+            <a href="/shipping">Shipping</a>
+        </li>
+        <li>
+            <a href="/returns">Returns Policy</a>
         </li>
     </ul>
 </div>
