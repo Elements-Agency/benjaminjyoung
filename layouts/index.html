@@ -132,10 +132,12 @@
         </ul>
         <ul class="copyright">
           <li>
-            &copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006"}}. {{ end }}
-          </li>
-          <li>
-            Designed by: <a href="https://webelements.agency">WebElements</a>
+            &copy;
+            {{ with .Site.Copyright | default .Site.Title }}
+              {{ . | safeHTML }}
+              2023 -
+              {{ now.Format "2006"}}
+            {{ end }}
           </li>
         </ul>
       </section>
