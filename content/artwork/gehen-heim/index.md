@@ -6,7 +6,7 @@ alt: This painting by Ben Young depicts a solitary figure walking across a lake 
 author: Benjamin J. Young
 
 featured: true
-popularity: 4
+popularity: 12
 ratio: landscape
 
 type: Painting

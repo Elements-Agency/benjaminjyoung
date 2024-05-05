@@ -6,7 +6,7 @@ alt: This gouache painting by Ben Young depicts a still life with a red mug in t
 author: Benjamin J. Young
 
 featured: true
-popularity: 10
+popularity: 54
 ratio: landscape
 
 type: Painting

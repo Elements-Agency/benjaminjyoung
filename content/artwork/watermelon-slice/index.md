@@ -6,7 +6,7 @@ alt: This watercolor artwork by Ben Young is a simple yet detailed depiction of 
 author: Benjamin J. Young
 
 featured: true
-popularity: 12
+popularity: 54
 ratio: square
 
 type: Painting

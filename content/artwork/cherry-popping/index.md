@@ -6,7 +6,7 @@ alt: This is a realistic painting of two cherries connected by their stems, with
 author: Benjamin J. Young
 
 featured: true
-popularity: 5
+popularity: 52
 ratio: square
 
 type: Painting

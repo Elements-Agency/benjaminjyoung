@@ -6,7 +6,7 @@ alt: The oil pastel painting by Ben Young portrays a woman reclining in a vibran
 author: Benjamin J. Young
 
 featured: true
-popularity: 999
+popularity: 35
 ratio: portrait
 
 type: Painting

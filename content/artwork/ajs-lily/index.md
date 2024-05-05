@@ -6,7 +6,7 @@ alt: This pencil sketch portrays a delicately rendered lily with graceful petals
 author: Benjamin J. Young
 
 featured: true
-popularity: 999
+popularity: 42
 ratio: portrait
 
 type: Drawing

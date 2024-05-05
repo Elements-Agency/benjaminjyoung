@@ -6,7 +6,7 @@ alt: This is an abstract watercolor painting by Ben Young featuring dynamic blue
 author: Benjamin J. Young
 
 featured: true
-popularity: 999
+popularity: 71
 ratio: portrait
 
 type: Painting

@@ -6,7 +6,7 @@ alt: This painting depicts two football players from Massillon team in the heat 
 author: Benjamin J. Young
 
 featured: true
-popularity: 0
+popularity: 1
 ratio: landscape
 
 type: Painting

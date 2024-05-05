@@ -6,7 +6,7 @@ alt: This is a detailed colored pencil drawing by Ben Young of a vivid red cardi
 author: Benjamin J. Young
 
 featured: true
-popularity: 3
+popularity: 31
 ratio: portrait
 
 type: Drawing

@@ -5,9 +5,9 @@ description: Drip is a water realism painting, showing the rippling effect of a 
 alt: The painting presents a grayscale watercolor painting of a water droplet creating ripples on the surface of water, captured in a moment of dynamic symmetry and fluid motion.
 author: Benjamin J. Young
 
-ratio: landscape
 featured: true
 popularity: 999
+ratio: landscape
 
 type: Painting
 medium: Water Soluble Graphite
