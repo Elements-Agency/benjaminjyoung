@@ -58,7 +58,7 @@
                     {{ $original := index (.Params.products) 0 }}
 
                     {{ if eq .Params.status "sold" }}
-                      <strong style="color:red;">SOLD</strong>
+                      <strong style="color:#c00;">SOLD</strong>
                     {{ else }}
                       {{ if eq .Params.status "sale" }}
                         <strong style="color:black;">{{ $original.price }}</strong>
@@ -115,7 +115,7 @@
                     {{ $original := index (.Params.products) 0 }}
 
                     {{ if eq .Params.status "sold" }}
-                      <strong style="color:red;">SOLD</strong>
+                      <strong style="color:#c00;">SOLD</strong>
                     {{ else }}
                       {{ if eq .Params.status "sale" }}
                         <strong style="color:black;">{{ $original.price }}</strong>
