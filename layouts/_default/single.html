@@ -4,6 +4,10 @@
 
 {{ define "scripts" }}
     {{ partial "inside-scripts.html" . }}
+
+    <script>
+      fbq('track', 'ViewContent');
+    </script>
 {{ end }}
 
 {{ define "main" }}
