@@ -19,9 +19,9 @@ materials:
  - total: $263
 
 work:
- - rate: $20
+ - rate: $15
  - hours: 4
- - total: $80
+ - total: $60
 
 marketing:
  - engagement: $10

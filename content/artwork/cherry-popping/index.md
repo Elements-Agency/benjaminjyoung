@@ -25,7 +25,7 @@ status: sale
 products:
     - id: 645940862
       name: Original Painting
-      price: $399
+      price: $199
     - id: 647310888
       name: Thin Canvas Print
       price: $49
