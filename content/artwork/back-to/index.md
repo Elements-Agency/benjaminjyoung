@@ -26,9 +26,6 @@ products:
     - id: 654299503
       name: Original Painting
       price: $399
-    - id: 648799367
-      name: Framed Print
-      price: $59
 ---
 
 In the midst of a serene, snow-covered landscape, a solitary figure captures our attention in this evocative painting, titled **Back To**. The setting is quiet and isolated, the trees on either side bare and dormant, suggesting the deep chill of winter. The path stretches endlessly forward, disappearing into the vanishing point on the horizon, a metaphor perhaps for life's journey or the passage of time.

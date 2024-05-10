@@ -26,9 +26,6 @@ products:
     - id: 654233365
       name: Original Painting
       price: $299
-    - id: 647332756
-      name: Framed Print
-      price: $59
 ---
 
 **Tomb Flowers** is a watercolor pencil drawing, with a brushed and washed colorful background, of white lilies. More information coming soon.
