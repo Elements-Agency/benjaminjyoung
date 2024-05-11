@@ -97,7 +97,7 @@
                 <span id="holiday"></span>
                 &nbsp;
                 <strong style="font-family:Arial, Helvetica, sans-serif;">Time Left:</strong>
-                <span id="countdown" style="background:#121035; border:2px solid lightgray; color:white; font-family:Arial, Helvetica, sans-serif; font-weight:bold; padding:0.5em;">4 hours, 20 minutes</span>
+                <span id="countdown" style="background:yellow; border:2px solid lightgray; color:navy; font-family:Arial, Helvetica, sans-serif; font-weight:bold; padding:0.5em;">4 hours, 20 minutes</span>
               </p>
               <script>
                 function pad(d) {
@@ -109,7 +109,6 @@
                 var diff = (now - start) + ((start.getTimezoneOffset() - now.getTimezoneOffset()) * 60 * 1000);
                 var oneDay = 1000 * 60 * 60 * 24;
                 var day = Math.floor(diff / oneDay);
-                console.log('Day of year: ' + day);
 
                 var holiday = 'Dec 31';
                 var datestring = '';
@@ -180,7 +179,7 @@
                   var minutes = pad(Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60)));
                   var seconds = pad(Math.floor((distance % (1000 * 60)) / 1000));
 
-                  document.getElementById("countdown").innerHTML = days + " Days and " + hours + ":"
+                  document.getElementById("countdown").innerHTML = days + " Days, " + hours + ":"
                     + minutes + ":" + seconds + " Hours";
 
                   if (distance < 0) {
