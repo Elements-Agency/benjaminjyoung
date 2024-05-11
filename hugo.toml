@@ -1,7 +1,7 @@
 baseURL = 'https://benjaminjyoung.com/'
 languageCode = 'en-us'
 title = 'Artist Ben Young'
-copyright = 'Benjamin J. Young'
+copyright = 'Ben Young Arts, LLC.'
 enableRobotsTXT = true
 timeout = '600'
 
