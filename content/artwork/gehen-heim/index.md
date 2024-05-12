@@ -23,9 +23,9 @@ tags: [human figure, snowy landscape, stormy sky, dusk, nightfall, trees, forest
 
 status: sold
 products:
-    - id: 645990286
-      name: Original Painting
-      price: $499
+    - id: 648799399
+      name: Framed Print
+      price: $49.99
 ---
 
 **Gehen Heim** is a watercolor painting that depicts a somber, expansive landscape under a heavy, overcast sky. The sky is a tapestry of grays and muted blues, seemingly thick with the weight of a passing snow storm. The horizon is a dark, solid band, suggesting a distant forest or line of trees that separates the sky from the land. Below, there's a vast expanse of a body of frozen water, its surface rendered in pale whites and light grays that capture the reflective quality of the ice. A solitary figure stands in the lower third of the composition, adding a poignant note of isolation or introspection to the scene. The figure’s presence is dwarfed by the enormity of the surroundings, emphasizing the scale and of the emotional theme of man versus nature or solitude. To the right, there appears to be a long, narrow structure, a pier or boardwalk, leading off into the distance, its purpose and destination left ambiguous. The use of watercolor is masterful, with the fluidity of the medium perfectly suited to convey the atmosphere and mood of the scene. The textures are soft and the edges blurred, contributing to the overall ethereal and introspective quality of the painting.
