@@ -91,13 +91,14 @@
             {{ if or (eq .Params.status "sale") (eq .Params.status "sold") }}
               {{ $original := index (.Params.products) 0 }}
 
-              <p>
-                <strong style="color:red; font-family:Arial, Helvetica, sans-serif; font-weight:bold;">LIMTED TIME:</strong>
+              <p style="line-height:1.5em;">
+                <strong style="color:red; font-family:Arial, Helvetica, sans-serif; font-weight:bold;">LIMTED SALE:</strong>
                 Save site-wide with a limited time discount on all products, including <strong>FREE SHIPPING</strong> on domestic orders!
                 <span id="holiday"></span>
-                &nbsp;
-                <strong style="font-family:Arial, Helvetica, sans-serif;">Time Left:</strong>
-                <span id="countdown" style="background:yellow; border:2px solid lightgray; color:navy; font-family:Arial, Helvetica, sans-serif; font-weight:bold; padding:0.5em;">4 hours, 20 minutes</span>
+                <br>
+                <br>
+                <strong style="font-family:Arial, Helvetica, sans-serif;">Sale Time Left:</strong>
+                <span id="countdown" style="background:yellow; color:navy; font-family:Arial, Helvetica, sans-serif; font-weight:bold; padding:0.5em;">4 hours, 20 minutes</span>
               </p>
               <script>
                 function pad(d) {
