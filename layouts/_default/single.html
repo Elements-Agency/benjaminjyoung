@@ -88,115 +88,137 @@
 
             </section>
 
-            {{ if or (eq .Params.status "sale") (eq .Params.status "sold") }}
-              {{ $original := index (.Params.products) 0 }}
+            <article>
+              <h2 id="about">About the {{ .Title }} Painting</h2>
 
-              <p style="line-height:1.5em;">
-                <strong style="color:red; font-family:Arial, Helvetica, sans-serif; font-weight:bold;">LIMTED SALE:</strong>
-                Save site-wide with a <strong>LIMITED TIME DISCOUNT</strong> on all products, including <strong>FREE SHIPPING</strong> on domestic orders!
-                <span id="holiday"></span>
-                <br>
-                <br>
-                <strong style="font-family:Arial, Helvetica, sans-serif;">Sale Time Left:</strong>
-                <span id="countdown" style="background:yellow; color:navy; font-family:Arial, Helvetica, sans-serif; font-weight:bold; padding:0.5em;">4 hours, 20 minutes</span>
+              <a href="/about">
+                <img class="benprolite" width="150px" height="150px" src="/images/ben-small.webp" alt="Photo of Benjamin J. Young" title="Ben Young">
+              </a>
+
+              <p>
+                {{ if not .Date.IsZero }}
+                  <time class="date" {{ printf `datetime="%s"` (.Date.Format "2006-01-02T15:04:05Z07:00") | safeHTMLAttr }}>
+                    <em>{{- .Date | time.Format (default "January 2, 2006" .Site.Params.date_format) -}}</em>
+                  </time>
+                {{ end }}
               </p>
-              <script>
-                function pad(d) {
-                  return (d < 10) ? '0' + d.toString() : d.toString();
-                }
 
-                var now = new Date();
-                var start = new Date(now.getFullYear(), 0, 0);
-                var diff = (now - start) + ((start.getTimezoneOffset() - now.getTimezoneOffset()) * 60 * 1000);
-                var oneDay = 1000 * 60 * 60 * 24;
-                var day = Math.floor(diff / oneDay);
+              {{- .Content -}}
 
-                var holiday = 'Dec 31';
-                var datestring = '';
+              <hr>
 
-                if (day <= 15) {
-                  var holiday = 'In celebration of the New Year, get some new artwork!';
-                  var datestring = 'Jan 15';
-                } else if (day <= 31) {
-                  var holiday = '';
-                  var datestring = 'Feb 1';
-                } else if (day <= 46) {
-                  var holiday = 'Buy something for a Valentines gift!';
-                  var datestring = 'Feb 15';
-                } else if (day <= 60) {
-                  var holiday = '';
-                  var datestring = 'Mar 1';
-                } else if (day <= 78) {
-                  var holiday = 'Save for St. Patricks Day.';
-                  var datestring = 'Mar 18';
-                } else if (day <= 81) {
-                  var holiday = 'Save for upcoming spring, in my Spring Cleaning sale!';
-                  var datestring = 'Mar 21';
-                } else if (day <= 110) {
-                  var holiday = 'Save for an Easter gift.';
-                  var datestring = 'Apr 20';
-                } else if (day <= 113) {
-                  var holiday = 'Save for Earth Day and we give back to offset carbon footprint.';
-                  var datestring = 'Apr 23';
-                } else if (day <= 129) {
-                  var holiday = 'Just in time for Mothers Day.';
-                  var datestring = 'May 9';
-                } else if (day <= 171) {
-                  var holiday = 'Save just in time for Fathers Day and get dad something truly unique.';
-                  var datestring = 'Jun 20';
-                } else if (day <= 173) {
-                  var holiday = 'Save for the upcoming summer.';
-                  var datestring = 'Jun 22';
-                } else if (day <= 259) {
-                  var holiday = 'Back to school sale!';
-                  var datestring = 'Sep 16';
-                } else if (day <= 266) {
-                  var holiday = 'Celebrate the upcoming Autumn with my festive artwork.';
-                  var datestring = 'Sep 23';
-                } else if (day <= 283) {
-                  var holiday = 'Save and give back for World Mental Health Day.';
-                  var datestring = 'Oct 10';
-                } else if (day <= 335) {
-                  var holiday = 'Black Friday Savings, for the month of November!';
-                  var datestring = 'Dec 1';
-                } else if (day <= 362) {
-                  var holiday = 'December Multi-Holiday Sale!';
-                  var datestring = 'Dec 27';
-                } else if (day <= 366) {
-                  var holiday = 'New Years, New Savings!';
-                  var datestring = 'Jan 15';
-                }
-
-                datestring += ', ' + now.getFullYear();
+              {{ if or (eq .Params.status "sale") (eq .Params.status "sold") }}
+                <h2 id="purchase">Purchase Artwork</h2>
                 
-                var countDownDate = new Date(datestring).getTime();
+                {{ $original := index (.Params.products) 0 }}
 
-                var x = setInterval(function() {
-                  var now = new Date().getTime();
-                  var distance = countDownDate - now;
-
-                  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
-                  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-                  var minutes = pad(Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60)));
-                  var seconds = pad(Math.floor((distance % (1000 * 60)) / 1000));
-
-                  document.getElementById("countdown").innerHTML = days + " Days, " + hours + ":"
-                    + minutes + ":" + seconds + " Hours";
-
-                  if (distance < 0) {
-                    clearInterval(x);
-                    document.getElementById("countdown").innerHTML = "EXPIRED";
+                <p style="line-height:1.5em;">
+                  <strong style="color:red; font-family:Arial, Helvetica, sans-serif; font-weight:bold;">LIMTED SALE:</strong>
+                  Save site-wide with a <strong>LIMITED TIME DISCOUNT</strong> on all products, including <strong>FREE SHIPPING</strong> on domestic orders!
+                  <span id="holiday"></span>
+                  <br>
+                  <br>
+                  <strong style="font-family:Arial, Helvetica, sans-serif;">Sale Time Left:</strong>
+                  <span id="countdown" style="background:yellow; color:navy; font-family:Arial, Helvetica, sans-serif; font-weight:bold; padding:0.5em;">4 hours, 20 minutes</span>
+                </p>
+                <script>
+                  function pad(d) {
+                    return (d < 10) ? '0' + d.toString() : d.toString();
                   }
-                }, 1000);
 
-                document.getElementById('holiday').innerHTML = holiday;
-              </script>
+                  var now = new Date();
+                  var start = new Date(now.getFullYear(), 0, 0);
+                  var diff = (now - start) + ((start.getTimezoneOffset() - now.getTimezoneOffset()) * 60 * 1000);
+                  var oneDay = 1000 * 60 * 60 * 24;
+                  var day = Math.floor(diff / oneDay);
 
-              <article>
+                  var holiday = 'Dec 31';
+                  var datestring = '';
+
+                  if (day <= 15) {
+                    var holiday = 'In celebration of the New Year, get some new artwork!';
+                    var datestring = 'Jan 15';
+                  } else if (day <= 31) {
+                    var holiday = '';
+                    var datestring = 'Feb 1';
+                  } else if (day <= 46) {
+                    var holiday = 'Buy something for a Valentines gift!';
+                    var datestring = 'Feb 15';
+                  } else if (day <= 60) {
+                    var holiday = '';
+                    var datestring = 'Mar 1';
+                  } else if (day <= 78) {
+                    var holiday = 'Save for St. Patricks Day.';
+                    var datestring = 'Mar 18';
+                  } else if (day <= 81) {
+                    var holiday = 'Save for upcoming spring, in my Spring Cleaning sale!';
+                    var datestring = 'Mar 21';
+                  } else if (day <= 110) {
+                    var holiday = 'Save for an Easter gift.';
+                    var datestring = 'Apr 20';
+                  } else if (day <= 113) {
+                    var holiday = 'Save for Earth Day and we give back to offset carbon footprint.';
+                    var datestring = 'Apr 23';
+                  } else if (day <= 129) {
+                    var holiday = 'Just in time for Mothers Day.';
+                    var datestring = 'May 9';
+                  } else if (day <= 171) {
+                    var holiday = 'Save just in time for Fathers Day and get dad something truly unique.';
+                    var datestring = 'Jun 20';
+                  } else if (day <= 173) {
+                    var holiday = 'Save for the upcoming summer.';
+                    var datestring = 'Jun 22';
+                  } else if (day <= 259) {
+                    var holiday = 'Back to school sale!';
+                    var datestring = 'Sep 16';
+                  } else if (day <= 266) {
+                    var holiday = 'Celebrate the upcoming Autumn with my festive artwork.';
+                    var datestring = 'Sep 23';
+                  } else if (day <= 283) {
+                    var holiday = 'Save and give back for World Mental Health Day.';
+                    var datestring = 'Oct 10';
+                  } else if (day <= 335) {
+                    var holiday = 'Black Friday Savings, for the month of November!';
+                    var datestring = 'Dec 1';
+                  } else if (day <= 362) {
+                    var holiday = 'December Multi-Holiday Sale!';
+                    var datestring = 'Dec 27';
+                  } else if (day <= 366) {
+                    var holiday = 'New Years, New Savings!';
+                    var datestring = 'Jan 15';
+                  }
+
+                  datestring += ', ' + now.getFullYear();
+                  
+                  var countDownDate = new Date(datestring).getTime();
+
+                  var x = setInterval(function() {
+                    var now = new Date().getTime();
+                    var distance = countDownDate - now;
+
+                    var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+                    var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+                    var minutes = pad(Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60)));
+                    var seconds = pad(Math.floor((distance % (1000 * 60)) / 1000));
+
+                    document.getElementById("countdown").innerHTML = days + " Days, " + hours + ":"
+                      + minutes + ":" + seconds + " Hours";
+
+                    if (distance < 0) {
+                      clearInterval(x);
+                      document.getElementById("countdown").innerHTML = "EXPIRED";
+                    }
+                  }, 1000);
+
+                  document.getElementById('holiday').innerHTML = holiday;
+                </script>
+
                 <div id="my-store-101772706"></div>
                 <div><script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?101772706&data_platform=code&data_date=2024-05-05" charset="utf-8"></script>
                 <script type="text/javascript"> 
                   window.ec=window.ec||{}; 
+                  window.ec.config = window.ec.config || Object();
+                  window.ec.config.navigation_scrolling = "DISABLED";
                   window.ec.storefront=window.ec.storefront||{}; 
                   window.ec.storefront.enable_navigation=true;
                   window.ec.storefront.product_details_layout="TWO_COLUMNS_SIDEBAR_ON_THE_RIGHT";
@@ -230,34 +252,7 @@
                   xProductBrowser("categoriesPerRow=3","views=grid(20,3) list(60) table(60)","categoryView=grid","searchView=list","defaultProductId={{ $original.id }}","defaultSlug={{ .Slug }}-original","id=my-store-101772706");
                 </script>
                 </div>
-              </article>
-            {{ end }}
-
-            <article>
-              <h2 id="about">About the {{ .Title }} Painting</h2>
-
-              <p>
-                {{ if not .Date.IsZero }}
-                  <time class="date" {{ printf `datetime="%s"` (.Date.Format "2006-01-02T15:04:05Z07:00") | safeHTMLAttr }}>
-                    <em>{{- .Date | time.Format (default "January 2, 2006" .Site.Params.date_format) -}}</em>
-                  </time>
-                {{ end }}
-              </p>
-
-              {{- .Content -}}
-
-              <hr>
-
-              <h3>Tags</h3>
-              {{- partial "tags.html" . -}}
-
-              <br>
-
-              <div>
-                <h3>Share</h3>
-                <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=65d9851dc0be3b0019eaef5f&product=inline-share-buttons&source=platform" async="async"></script>
-                <div class="sharethis-inline-share-buttons"></div>
-              </div>
+              {{ end }}
             </article>
         </section>
 

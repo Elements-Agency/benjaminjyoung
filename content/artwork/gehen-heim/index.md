@@ -32,30 +32,8 @@ products:
 
 This is the third iteration in the [Winter Escape series](/tags/winter-escape-series).
 
+{{< purchase >}}
+
 ### Inspiration ###
 
 This artwork is to further define the narrative of the [Winter Escape series](/tags/winter-escape-series), bringing the setting to nightfall, to prepare for the final piece.
-
-### Process ###
-
-{{< img src="https://images.ctfassets.net/f1fikihmjtrp/pRB6uGZ2dHDjqvBzME6aN/57705b7cdf5ff3bb3830ee35fb94ba17/10020-1040-M-4ww.jpg?w=125&h=125" width="105px" height="105px" class="floatrightstack" alt="Watercolor Block" link="https://www.anrdoezrs.net/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Farches-watercolor-block-10-x-14-cold-press-20-sheets%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D10020-1040%26country%3Dus%26currency%3Dusd&cjsku=10020-1040" >}}
-
-{{< img src="https://images.ctfassets.net/f1fikihmjtrp/VCDZYA6TnApX6BjEvwhEB/13c237c819de525eec691d0bfc34a4cb/00319-2012-M-4ww.jpg?w=125&h=125" width="105px" height="105px" class="floatrightstack" alt="Watercolor Paint" link="https://www.dpbolvw.net/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Fwinsor-newton-professional-watercolor-black-box-half-pan-set-of-12%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D00319-2012%26country%3Dus%26currency%3Dusd&cjsku=00319-2012" >}}
-
-{{< img src="https://images.ctfassets.net/f1fikihmjtrp/3LeigR2li8wfH7CRvlYDnx/0e7f8ea9056b29b885d296259a4e484f/05468-1049-3-4ww.jpg?w=125&h=125" width="105px" height="105px" class="floatrightstack" alt="Watercolor Brushes" link="https://www.dpbolvw.net/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Fprinceton-aqua-elite-series-4850-synthetic-brushes-set-of-4%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D05468-1049%26country%3Dus%26currency%3Dusd&cjsku=05468-1049" >}}
-
-The artwork is painted with [watercolor paint](https://www.dpbolvw.net/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Fwinsor-newton-professional-watercolor-black-box-half-pan-set-of-12%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D00319-2012%26country%3Dus%26currency%3Dusd&cjsku=00319-2012) on [cold press cotton watercolor paper block](https://www.kqzyfj.com/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Farches-watercolor-block-11-x-14-cold-press-20-sheets%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D10020-1004%26country%3Dus%26currency%3Dusd&cjsku=10020-1004). I stuck entirely to my [Princeton Aqua Elite set](https://www.anrdoezrs.net/click-101118598-13717235?url=https%3A%2F%2Fwww.dickblick.com%2Fitems%2Fprinceton-aqua-elite-series-4850-synthetic-brushes-set-of-4%2F%3Fclicktracking%3Dtrue%26wmcp%3Dpla%26wmcid%3Ditems%26wmckw%3D05468-1049%26country%3Dus%26currency%3Dusd&cjsku=05468-1049) set for paint brushes.
-
-Here is an visual overview of the progress:
-
-{{< progress >}}
-
-This took quite some time and a many number of glazing layers. To create the complexity of the sky and to get the lower values right.
-
-## About the Artist ##
-
-{{< img class="benprolite" width="150px" height="150px" src="/images/ben-small.webp" alt="Photo of Benjamin J. Young" title="Ben Young" >}}
-
-Ben Young, no stranger to winter weather, is an avid outdoors man. You can frequently find Ben hiking through the country and the middle of no-where. Including trudging through the snow filled winter landscapes of Ohio. To him, those moments bring serenity, which he has tried his best to resonate in painting this watercolor landscape artwork.
-
-[Read More About Ben >](/about)
