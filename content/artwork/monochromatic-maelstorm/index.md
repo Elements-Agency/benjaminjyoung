@@ -5,7 +5,7 @@ description: Monochromatic Maelstorm is an attempt to explore abstract watercolo
 alt: This is an abstract watercolor painting by Ben Young featuring dynamic blue and black brushstrokes, with splatters and washes creating a sense of movement and swirl.
 author: Benjamin J. Young
 
-featured: true
+featured: false
 popularity: 73
 ratio: landscape
 

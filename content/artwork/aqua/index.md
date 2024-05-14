@@ -5,7 +5,7 @@ description: Aqua is my second water painting done with Water Soluble Pencil, to
 alt: The painting displays an artistic monochrome sketch of a wine glass with its contents in mid-splash, creating an elegant and dynamic fluid motion captured in a still moment.
 author: Benjamin J. Young
 
-featured: true
+featured: false
 popularity: 999
 ratio: portrait
 
