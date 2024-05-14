@@ -19,7 +19,7 @@ size: 9x12in (22.8x30.4cm)
 aliases: [/northern-cardinal, /artwork/rage-fueled-bird]
 images: ['painting.jpg']
 videos: [https://www.instagram.com/p/C3fAU-6ON7E/, https://youtube.com/shorts/JsbqhoQqTnA]
-tags: [bird, northern red cardinal, drawing, watercolor pencils, realism, animal art, sold]
+tags: [bird, northern red cardinal, drawing, watercolor pencils, realism, animal art, primary winter birds, sold]
 
 status: sold
 products:
@@ -28,7 +28,9 @@ products:
       price: $49.99
 ---
 
-Northern Cardinal is a colored pencil drawing of a Northern Cardinal perched on a branch. The bird is depicted with a vibrant red plumage, which is characteristic of the male of the species. Its beak is orange-yellow, and the facial mask is black, extending from the beak around the eyes. The drawing captures the distinct crest of the cardinal, which is a pointy tuft of feathers on top of its head. The branch is rendered with a muted gray tone, contrasting with the bright red of the bird. The background is a soft, textured gray, allowing the cardinal to stand out prominently. The pencil strokes have created a sense of softness and detail, particularly in the feathers and the blending of colors.
+**Northern Cardinal** is a colored pencil drawing of a Northern Cardinal perched on a branch. The bird is depicted with a vibrant red plumage, which is characteristic of the male of the species. Its beak is orange-yellow, and the facial mask is black, extending from the beak around the eyes. The drawing captures the distinct crest of the cardinal, which is a pointy tuft of feathers on top of its head. The branch is rendered with a muted gray tone, contrasting with the bright red of the bird. The background is a soft, textured gray, allowing the cardinal to stand out prominently. The pencil strokes have created a sense of softness and detail, particularly in the feathers and the blending of colors.
+
+This drawing is apart of the [Primary Winter Birds Collection](/tags/primary-winter-birds)
 
 {{< purchase >}}
 
