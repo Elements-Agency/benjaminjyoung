@@ -19,7 +19,7 @@ size: 16.1x12.2in (410x320mm)
 aliases: [/artwork/towniest-towns-football, /massillon-52]
 images: ['painting.jpg']
 videos: []
-tags: [massillon tigers, football, sports, field, team, figure art, watercolor paint, realism, for sale]
+tags: [massillon tigers, football, sports, field, team, watercolor paint, realism, figure art, narrative art, for sale]
 
 status: sale
 products:

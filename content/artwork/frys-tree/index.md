@@ -19,7 +19,7 @@ size: 9x12in (22.8x30.4cm)
 aliases: [/frys-tree]
 images: ['painting.jpg']
 videos: [https://www.instagram.com/p/C3hi4DjAYqg/, https://youtu.be/Pcuv_QkT7Qo]
-tags: [tree subject, forestry, night time, twilight, dusk, watercolor paint, gouache paint, hybrid impressionism, landscape art, ohio park, sold]
+tags: [tree subject, forestry, night time, twilight, dusk, ohio park, watercolor paint, gouache paint, hybrid impressionism, landscape art, sold]
 
 status: sold
 products:

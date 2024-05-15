@@ -19,7 +19,7 @@ size: 14.1x10.2in (36x26cm)
 aliases: [/gehen-heim, /artwork/going-home]
 images: ['painting.jpg']
 videos: []
-tags: [human figure, snowy landscape, stormy sky, dusk, nightfall, trees, forest, snow, watercolor paint, hybrid impressionism, landscape art, dark tone, winter escape series, sold]
+tags: [human figure, snowy landscape, stormy sky, dusk, nightfall, trees, forest, snow, watercolor paint, dark tone, hybrid impressionism, landscape art, narrative art, winter escape series, sold]
 
 status: sold
 products:

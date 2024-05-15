@@ -19,7 +19,7 @@ size: 14x11in (35.56cmx27.94cm)
 aliases: [/cherry-popping]
 images: ['painting.jpg']
 videos: []
-tags: [cherries, fruit, red gloss, still life art, oil paint, realism, study, for sale]
+tags: [cherries, fruit, red gloss, oil paint, realism, study, still life art, for sale]
 
 status: sale
 products:
