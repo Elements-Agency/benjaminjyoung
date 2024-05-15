@@ -15,11 +15,11 @@ materials:
  - total: $80
 
 work:
- - rate: $15
+ - rate: $0
  - hours: 2
- - total: $30
+ - total: $0
 
-sale price: $99
+sale price: $79
 net: 
 buyer: 
 ---

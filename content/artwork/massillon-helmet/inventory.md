@@ -11,18 +11,16 @@ frame: Cyrus Custom Framing
 
 materials:
  - canvas: $20
- - paint: $30
- - brushes: $20
+ - paint: $10
+ - brushes: $10
  - frame: $150
  - certificate: $5
- - total: $200
+ - total: $195
 
 work:
- - rate: $20
+ - rate: $15
  - hours: 30
- - total: $600
-
-marketing: $50
+ - total: $450
 
 sale price: $799
 net: 

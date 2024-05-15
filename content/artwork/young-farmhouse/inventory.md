@@ -12,21 +12,16 @@ frame: Custom by Cyrus Framing
 frame size: 
 
 materials:
- - paper: $12
- - paint: $2
- - brushes: $26
+ - paper: $5
+ - paint: $5
+ - brushes: $5
  - frame: $110
- - total: $150
+ - total: $125
 
 work:
  - rate: $15
  - hours: 6
  - total: $90
-
-marketing:
- - engagement: $10
- - boost: $10
- - total: $20
 
 sale price: $299
 net:

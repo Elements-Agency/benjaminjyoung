@@ -17,13 +17,11 @@ materials:
  - total: $75
 
 work:
- - rate: $20
+ - rate: $10
  - hours: 12
- - total: $240
+ - total: $120
 
-marketing: $50
-
-sale price: $370
+sale price: $199
 net: 
 buyer: 
 ---

@@ -11,25 +11,19 @@ brushes: Princeton Aqua Elite
 frame: Cyrus Custom Framing
 
 materials:
- - paper: $31
- - paint: $10
- - brushes: $26
- - frame: $191
+ - paper: $5
+ - paint: $5
+ - brushes: $5
+ - frame: $200
  - certificate: $5
- - total: $263
+ - total: $220
 
 work:
  - rate: $15
  - hours: 4
  - total: $60
 
-marketing:
- - engagement: $10
- - boost: $10
- - conversion: $30
- - total: $50
-
-sale price: $399
+sale price: $299
 net: 
 buyer: 
 ---

@@ -8,15 +8,15 @@ pastels: Faber-Castell Oil Pastels
 frame: Michaels
 
 materials:
- - paper: $8
- - pastels: $18
+ - paper: $5
+ - pastels: $5
  - frame: $30
- - total: $56
+ - total: $40
 
 work:
  - rate: $15
- - hours: 3
- - total: $45
+ - hours: 4
+ - total: $60
 
 sale price: $149
 net: 
