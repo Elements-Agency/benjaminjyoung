@@ -24,7 +24,7 @@ work:
 
 marketing: $50
 
-sale price: $399
+sale price: $249
 net: 
 buyer: 
 ---
