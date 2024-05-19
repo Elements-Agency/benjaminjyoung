@@ -6,8 +6,8 @@ enableRobotsTXT = true
 timeout = '600'
 
 [params]
-  commentoEnable = true
-  location = "Canton, Ohio. USA."
+  commentoEnable = false
+  location = "324 Cleveland Ave NW. Canton, Ohio 44702. USA."
   favicon = '/favicon.ico'
   [params.social]
     facebook		= "artist.benjamin.young"
