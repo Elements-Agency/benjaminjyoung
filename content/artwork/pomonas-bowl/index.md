@@ -19,7 +19,7 @@ size: 20x16in (50.80x40.64cm)
 aliases: [/pomonas-bowl]
 images: ['painting.jpg']
 videos: []
-tags: [still life, split pomegranate, fruit bowl, dark room, wooden table, metal bowl, oil paint, restrained pallette, realism]
+tags: [still life art, split pomegranate, fruit bowl, dark room, wooden table, metal bowl, oil paint, restrained pallette, realism]
 ---
 
 **Pomona's Bowl** is my practiced attempt finalize my technique, using abstract vibrant brushwork, to create my own desired style in the realism oil painting realm. With every still life, I use it methodically to refine how I want to improve or change my artwork. This painting to me is the overwhelming first step to finally realize my artistic painting style that I want to utilize in the direction of how I want my landscape and narrative pieces to convey from here on out. It is an accomplish in my own eyes, and what I consider the turning stone to take my work to the next level.
