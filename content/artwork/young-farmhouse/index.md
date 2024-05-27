@@ -25,7 +25,7 @@ status: sale
 products:
     - id: 648124011
       name: Original Painting
-      price: $299
+      price: $399
 ---
 
 This **Young Farmhouse** painting portrays a rustic, rural scene. Dominating the left foreground is a large, dark brown walnut tree, its detailed bark texture suggesting an old and sturdy presence. From one of its branches, a swing with a wooden seat dangles, its ropes hanging limply, waiting for a visitor and adding balance to the painting. Further back, the scene opens to a golden field, which could be a harvested crop, bordered by a dense tree line that marks the edge of a forest. The trees are evergreens, standing tall and dark green against the horizon.

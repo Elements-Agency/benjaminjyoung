@@ -5,7 +5,7 @@ description: Lemon Tree is an impasto acrylic canvas study. Just a small work ar
 alt: This painting by Ben Young depicts a vibrant pair of yellow lemons with lush green leaves and white blossoms against a textured white background.
 author: Benjamin J. Young
 
-featured: true
+featured: false
 popularity: 49
 ratio: portrait
 
@@ -25,7 +25,7 @@ status: sale
 products:
     - id: 648083433
       name: Original Painting
-      price: $79
+      price: $99
 ---
 
 **Lemon Tree** is an impressionistic acrylic painting capturing the cheerful essence of a citrus grove in an expressive style, with two plump, sunny lemons taking center stage against a crisp white background. The lemons are painted with bold, confident, impasto strokes, the yellows ranging from pale to deep golden hues, suggesting the play of light across their dimpled surfaces. Dark green leaves, painted with a sense of movement, flank the fruit, adding depth and contrast to the composition. Above the lemons, two white flowers with red centers bloom, providing a pop of color and completing the scene. The texture of the canvas is visible through the paint, giving the work a lively, tactile quality. With the bold brushstrokes giving texture. This piece exudes a simple, rustic charm and celebrates the beauty found in nature's forms and colors. Giving a summery feel.
