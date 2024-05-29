@@ -1,10 +1,10 @@
 ---
 heading: Benjamin J. Young
-description: North East Ohio contemporary impressionism/realism artist with drawing, watercolor, pastels, and oil paintings. Specializing in landscapes and narrative art.
-keywords: [ben, benjamin, jay, young, artist, artwork, paintings, impressionism, realism, semiabstract]
+description: North East Ohio contemporary realism artist with drawing, watercolor, pastels, and oil paintings. Specializing in landscapes and narrative artwork.
+keywords: [ben young, benjamin young, contemporary artist, artwork paintings, impressionism paintings, realism art]
 ---
 
-Ohio contemporary artist.
-Specializing in landscapes and narrative art.
+Benjamin Young is a contemporary artist.
+Specializing in landscapes and narrative paintings.
 
 [Shop Now &gt;](/shop)

@@ -6,7 +6,7 @@
 
     {{ with $thumbnail }}
       <a class="thumbnail" href="{{ $.RelPermalink }}" data-position="center">
-        <img src="{{ .RelPermalink }}" width="300px" height="300px" style="float:right; margin:3.5em 4em 2em;" alt="{{ $.Params.alt }}" title='{{ $.Title }} ({{ $.Date| time.Format "2006" }}) by {{ $.Site.Copyright }}' />
+        <img src="{{ .RelPermalink }}" width="300px" height="300px" style="float:right; margin:3.5em 4em 2em;" alt="{{ $.Params.alt }}" title='{{ $.Title }} ({{ $.Date| time.Format "2006" }}) by Ben Young' />
       </a>
     {{ end }}
 
