@@ -6,7 +6,6 @@ alt: The drawing displays a detailed pencil sketch of a human hand with a gentle
 author: Benjamin J. Young
 
 featured: false
-popularity: 999
 ratio: portrait
 
 type: Drawing

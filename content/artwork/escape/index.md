@@ -6,7 +6,7 @@ alt: This painting by Ben Young shows a solitary figure traverses a snowy path f
 author: Benjamin J. Young
 
 featured: true
-popularity: 11
+popularity: 4
 ratio: landscape
 
 type: Painting

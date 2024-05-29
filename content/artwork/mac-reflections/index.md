@@ -6,7 +6,7 @@ alt: This oil pastel painting by Ben Young depicts a solemn, textured portrait o
 author: Benjamin J. Young
 
 featured: true
-popularity: 34
+popularity: 14
 ratio: portrait
 
 type: Painting

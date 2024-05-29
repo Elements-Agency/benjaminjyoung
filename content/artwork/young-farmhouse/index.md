@@ -6,7 +6,7 @@ alt: This painting by Ben Young captures a rustic rural scene with a prominent t
 author: Benjamin J. Young
 
 featured: true
-popularity: 23
+popularity: 5
 ratio: landscape
 
 type: Painting

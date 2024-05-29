@@ -5,8 +5,7 @@ description: Back To is a more complex watercolor painting, second in the Winter
 alt: This painting by Ben Young depicts a solitary figure in dark clothing standing on a snow-covered path flanked by bare trees, with the scene conveying a sense of solitude in a wintry landscape.
 author: Benjamin J. Young
 
-featured: true
-popularity: 14
+featured: false
 ratio: landscape
 
 type: Painting

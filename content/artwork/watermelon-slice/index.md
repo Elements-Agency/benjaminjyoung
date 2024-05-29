@@ -5,8 +5,7 @@ description: Watermelon Slice is a simple study, testing my newly purchased wate
 alt: This watercolor artwork by Ben Young is a simple yet detailed depiction of a single slice of watermelon with a bright red flesh, black seeds, and a green rind, set against a plain background.
 author: Benjamin J. Young
 
-featured: true
-popularity: 54
+featured: false
 ratio: square
 
 type: Painting

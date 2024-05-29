@@ -6,7 +6,6 @@ alt: This painting by Ben Young depicts a vibrant pair of yellow lemons with lus
 author: Benjamin J. Young
 
 featured: false
-popularity: 49
 ratio: portrait
 
 type: Painting

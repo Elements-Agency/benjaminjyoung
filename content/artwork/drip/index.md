@@ -6,7 +6,6 @@ alt: The painting presents a grayscale watercolor painting of a water droplet cr
 author: Benjamin J. Young
 
 featured: false
-popularity: 999
 ratio: landscape
 
 type: Painting

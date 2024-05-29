@@ -6,7 +6,7 @@ alt: The oil pastel painting by Ben Young shows a textured still life compositio
 author: Benjamin J. Young
 
 featured: true
-popularity: 53
+popularity: 12
 ratio: portrait
 
 type: Painting

@@ -6,7 +6,7 @@ alt: In this evocative water color painting by Ben Young, a majestic tree stands
 author: Benjamin J. Young
 
 featured: true
-popularity: 22
+popularity: 3
 ratio: portrait
 
 type: Painting

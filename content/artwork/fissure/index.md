@@ -6,7 +6,6 @@ alt: The abstract painting depicts a stark, earth-toned fissure with its reflect
 author: Benjamin J. Young
 
 featured: false
-popularity: 72
 ratio: landscape
 
 type: Painting
