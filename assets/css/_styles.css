@@ -446,7 +446,7 @@ input, select, textarea {
 			#main .item.thumb {
 				display: block;
 				position: relative;
-				background: #000;
+				background: #000 url('/images/loader.gif') center no-repeat;
 				cursor: default;
 			}
 
