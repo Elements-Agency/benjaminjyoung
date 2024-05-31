@@ -18,7 +18,7 @@ size: 14.1x10.2in (36x26cm)
 aliases: [/citrus-study, /artwork/lemon-study]
 images: ['painting.jpg']
 videos: [https://www.instagram.com/p/C3aFj71ssZR/, https://youtu.be/CF7wcElqy8Y]
-tags: [yellow lemon, green lime, citrus fruit, coffee cup, ceramic mug, gouache paint, watercolor paint, vivid colors, realism, still life art, for sale]
+tags: [yellow, lemon, green, lime, citrus, fruit, red, coffee cup, ceramic mug, gouache, watercolor, paint, vivid colors, realism, still life, indoors, for sale]
 
 status: sale
 products:

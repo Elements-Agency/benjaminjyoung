@@ -18,7 +18,7 @@ size: 8x10in (20.32x25.4)
 aliases: [/lemon-tree, /artwork/lemons]
 images: ['painting.jpg']
 videos: []
-tags: [yellow lemon, white flower, white textured background, citrus tree, green leaves, brown branch, acrylic paint, vibrant colors, impasto brushstrokes, impressionism, still life art, for sale]
+tags: [yellow, lemon, white, flower, textured, citrus, tree, green, leaves, brown, branch, acrylic, paint, impasto, impressionism, still life, for sale]
 
 status: sale
 products:

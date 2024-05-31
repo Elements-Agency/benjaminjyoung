@@ -18,7 +18,7 @@ size:
 aliases: [/fissure]
 images: ['painting.jpg']
 videos: []
-tags: [broad crack, watercolor paint, semiabstract, cracking abstract, running accents, broad stokes, earthy tone]
+tags: [fissure, crack, watercolor, paint, abstract, broad stokes, earthy tone]
 ---
 
 The **Fissure** abstract watercolor painting presents a compelling visual metaphor for a broad crack, rendered in a monochromatic palette that evokes the natural variance of earth and stone. The central darkened swath divides the canvas, reminiscent of a chasm or fault line, with its mirror image below suggesting a reflection in water or a shadowy echo in the depths. The textural gradation and the fluidity of the medium's application enhance the sense of organic formation and erosion. Despite the simplicity of its color scheme, the painting is rich in texture and depth, conveying a powerful sense of both fragility and enduring natural forces at play. The artwork engages the viewer in an exploration of symmetry and asymmetry, surface and depth, solidity and void, evoking the unpredictable beauty of natural fissures.

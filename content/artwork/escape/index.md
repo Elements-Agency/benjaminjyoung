@@ -19,7 +19,7 @@ size: 14.1x10.2in (36x26cm)
 aliases: [/escape]
 images: ['painting.jpg']
 videos: [https://www.instagram.com/p/C3pK2JvOevm/, https://youtube.com/shorts/TSyQTgGJjD0]
-tags: [human figure, snowy winter, fence, open field, tire tracks, watercolor paint, cool tone, restrained pallette, hybrid impressionism, landscape art, narrative art, winter escape series, sold]
+tags: [human, figure, white, snow, winter, fence, field, tracks, watercolor, paint, cool tone, landscape, narrative, outdoors, winter escape series, sold]
 
 status: sold
 products:

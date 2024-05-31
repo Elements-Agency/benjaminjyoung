@@ -19,7 +19,7 @@ size: 14x11in (35.56cmx27.94cm)
 aliases: [/massillon-helmet]
 images: ['painting.jpg']
 videos: []
-tags: [massillon tigers, football, helmet, black object, lighting, study, reflective tone, oil paint, realism, still life art, for sale]
+tags: [massillon, ohio, tigers, football, sports, helmet, black, study, reflective tone, oil, paint, indoors, realism, still life, for sale]
 
 status: sale
 products:

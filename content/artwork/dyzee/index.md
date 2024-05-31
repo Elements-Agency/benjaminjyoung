@@ -19,7 +19,7 @@ size: 9x12in (22.8x30.4cm)
 aliases: [/dyzee]
 images: ['painting.jpg']
 videos: []
-tags: [daisy flower, watercolor paint, semiabstract, floral abstract, splash accents, broad stokes, neutral tone, floral art]
+tags: [daisy, flower, watercolor, blue, paint, abstract, splash, broad stokes, neutral tone, floral]
 
 products:
     - id: 647311349

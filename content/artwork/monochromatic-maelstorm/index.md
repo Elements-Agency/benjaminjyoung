@@ -18,7 +18,7 @@ size: 12x9in (30.4x22.8cm)
 aliases: [/monochromatic-maelstorm, /artwork/monochromatic-maelstrom, /artwork/mono-chromatic-maelstorm]
 images: ['painting.jpg']
 videos: []
-tags: [water swirl, water art, watercolor paint, semiabstract, water abstract, splash accents, broad stokes, neutral tone]
+tags: [water, swirl, watercolor, blue, paint, abstract, splash, broad stokes, neutral tone]
 
 products:
     - id: 647311351

@@ -19,7 +19,7 @@ size: 12x9in (30.4x22.8cm)
 aliases: [/blue-jay, /artwork/bluejay]
 images: ['painting.jpg']
 videos: []
-tags: [bird, bluejay, drawing, watercolor pencils, realism, animal art, primary winter birds]
+tags: [bird, blue, blue jay, drawing, watercolor, pencil, realism, animal, outdoors, nature, primary winter birds series]
 
 status: sale
 products:
@@ -30,7 +30,7 @@ products:
 
 **Blue Jay** depicts a blue jay perched on a snowy surface, delicately pecking at a cluster of red berries on a nearby branch. The bird's vivid blue plumage, accented with black and white markings, contrasts beautifully with the soft, white snow. I captured the texture of the bird's feathers and the intricate details of the berries and branches. The overall scene exudes a serene winter atmosphere, with the red berries adding a touch of color and life to the otherwise muted background.
 
-This drawing is apart of the [Primary Winter Birds Collection](/tags/primary-winter-birds).
+This drawing is apart of the [Primary Winter Birds Collection](/tags/primary-winter-birds-series).
 
 **Original and prints will be for sale SOON.**
 

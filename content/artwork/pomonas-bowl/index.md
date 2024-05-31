@@ -19,7 +19,7 @@ size: 20x16in (50.80x40.64cm)
 aliases: [/pomonas-bowl]
 images: ['painting.jpg']
 videos: []
-tags: [still life art, split pomegranate, fruit bowl, dark room, wooden table, metal bowl, oil paint, restrained pallette, realism]
+tags: [still life, study, red, pomegranate, fruit, bowl, velvet, tablecloth, dark room, table, shiny, bowl, indoors, oil, paint, realism, for sale]
 
 status: sale
 products:

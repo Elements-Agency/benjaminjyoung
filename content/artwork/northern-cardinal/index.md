@@ -19,7 +19,7 @@ size: 9x12in (22.8x30.4cm)
 aliases: [/northern-cardinal, /artwork/rage-fueled-bird]
 images: ['painting.jpg']
 videos: [https://www.instagram.com/p/C3fAU-6ON7E/, https://youtube.com/shorts/JsbqhoQqTnA]
-tags: [bird, northern red cardinal, drawing, watercolor pencils, realism, animal art, primary winter birds, sold]
+tags: [bird, northern, red, cardinal, drawing, watercolor, pencil, realism, animal, primary winter birds series, outdoors, nature, sold]
 
 status: sold
 products:
