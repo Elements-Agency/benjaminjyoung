@@ -18,7 +18,7 @@ size: 4x4in (10.16x10.16cm)
 aliases: [/creepy-clown, /artwork/scary-clown]
 images: ['painting.jpg']
 videos: []
-tags: [close up, creepy clown, scary smile, dark eyes, red nose, painted face, oil paint, realism, sold]
+tags: [close up, creepy clown, scary smile, dark eyes, red nose, painted face, oil paint, narrative art, realism, sold]
 
 status: gift
 ---
