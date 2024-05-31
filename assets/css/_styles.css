@@ -85,7 +85,7 @@ input, select, textarea {
 		background-attachment: fixed;
 		background-repeat: repeat, no-repeat, auto;
 		position: relative;
-		background-color: #150C07;
+		background-color: #c2c2c2;
 		line-height: 1.75em;
 		overflow-x: hidden;
 		overflow-y: auto;
