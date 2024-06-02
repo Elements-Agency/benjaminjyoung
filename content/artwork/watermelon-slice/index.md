@@ -18,7 +18,7 @@ size:
 aliases: [/watermelon-slice, /artwork/standing-watermelon]
 images: ['painting.jpg']
 videos: []
-tags: [watermelon, slice, juicy, red, melon, food, summer colors, seeds, watercolor, pencil, still life]
+tags: [watermelon, slice, juicy, red, melon, food, summer colors, seeds, watercolor, pencil, drawing, still life]
 
 products:
     - id: 647330001

@@ -19,7 +19,7 @@ size: 8x10in (20.32x25.40cm)
 aliases: [/empty-models]
 images: ['painting.jpg']
 videos: [https://www.instagram.com/p/C3XZXDsuuum/]
-tags: [wine, green, bottle, pitcher, jug, tablecloth, dining, table, cloth, backdrop, study, oil pastels, neutral tone, impressionism, still life, indoors, for sale]
+tags: [wine, green, bottle, pitcher, jug, tablecloth, dining, table, cloth, backdrop, study, oil pastels, drawing, neutral tone, impressionism, still life, indoors, for sale]
 
 status: sale
 products:

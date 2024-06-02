@@ -19,7 +19,7 @@ size: 9x12in (22.9x30.5cm)
 aliases: [/mac-reflections]
 images: ['painting.jpg']
 videos: [https://www.instagram.com/p/C3mpPeQgORk/, https://youtube.com/shorts/JNBpBdWcFR0]
-tags: [facial hair, human, face, beard, oil pastels, black, impressionism, dark tone, impressionist artist, self portrait, indoors, for sale]
+tags: [facial hair, human, face, beard, oil pastels, drawing, black, impressionism, dark tone, impressionist artist, self portrait, indoors, for sale]
 
 status: sale
 products:
