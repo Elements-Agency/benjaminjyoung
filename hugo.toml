@@ -27,17 +27,21 @@ timeout = '600'
     pageRef = '/artwork'
     weight = 20
 [[menus.main]]
-    name = 'Shop'
-    pageRef = '/Shop'
-    weight = 30
-[[menus.main]]
     name = 'About'
     pageRef = '/about'
+    weight = 30
+[[menus.main]]
+    name = 'Shop'
+    pageRef = '/Shop'
     weight = 40
+[[menus.main]]
+    name = 'Commissions'
+    pageRef = '/commissions'
+    weight = 50
 [[menus.main]]
     name = 'Contact'
     pageRef = '/contact'
-    weight = 50
+    weight = 60
 
 [services]
   [services.googleAnalytics]
