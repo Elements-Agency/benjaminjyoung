@@ -38,4 +38,4 @@ After completion of my [first oil painting](/artwork/cherry-popping), I learned 
 
 ### Accolades ###
 
- * Being featured in the Massillon Museum 2024 Brown’s Town Exhibit.
+ * Being featured in the [Massillon Museum 2024 Brown’s Town Exhibit](https://paulbrownmuseum.org/exhibits/detail/browns-town-art-inspired-by-ohios-football-heritage).
