@@ -5,8 +5,7 @@ description: Cherry Popping was my first oil painting, to practice using oil pai
 alt: This is a realistic painting of two cherries connected by their stems, with a play of light and shadow enhancing their rich red color.
 author: Benjamin J. Young
 
-featured: true
-popularity: 6
+featured: false
 ratio: square
 
 type: Painting

@@ -6,7 +6,7 @@ alt: This watercolor painting by Ben Young is an ethereal and solitary stone mon
 author: Benjamin J. Young
 
 featured: true
-popularity: 2
+popularity: 5
 ratio: portrait
 
 type: Painting

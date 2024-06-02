@@ -6,7 +6,7 @@ alt: This painting by Ben Young is a still life oil painting of an pomegranate f
 author: Benjamin J. Young
 
 featured: true
-popularity: 0
+popularity: 1
 ratio: landscape
 
 type: Painting

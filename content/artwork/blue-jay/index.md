@@ -6,7 +6,7 @@ alt: This is a detailed colored pencil drawing by Ben Young of a vivid blue jay 
 author: Benjamin J. Young
 
 featured: true
-popularity: 0
+popularity: 3
 ratio: landscape
 
 type: Drawing

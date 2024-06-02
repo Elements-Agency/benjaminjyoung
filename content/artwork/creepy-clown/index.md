@@ -5,7 +5,7 @@ description: Creepy Clown is a tiny canvas painted with oil for a friend of mine
 alt: This painting by Ben Young is a close up oil painting of creepy looking clown's nose and part of it's scary smile.
 
 featured: true
-popularity: 13
+popularity: 11
 ratio: square
 
 type: Painting
