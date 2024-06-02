@@ -128,7 +128,7 @@
 
         <div class="item intro">
           <a class="bigtext" href="/artwork">View All Artwork &gt;</a>
-          <p>Discover the entire collection of paintings and drawings by artist Benjamin Young.</p>
+          <p>Discover the entire collection of <a href="/tags/paint">paintings</a> and <a href="/tags/drawing">drawings</a> by <a href="/about">artist Benjamin Young</a>.</p>
         </div>
       </div>
     </section>
@@ -137,10 +137,10 @@
       <section>
         {{ partial "site-navigation.html" .}}
 
-        <p>
-          Canton, Ohio.
-          United States.
-        </p>
+        <address style="color: #aaa;">
+          324 Cleveland Ave NW.
+          Canton, Ohio 44702
+        </address>
       </section>
       <section>
         <ul class="icons">
@@ -165,7 +165,7 @@
             </a>
           </li>
         </ul>
-        <ul class="copyright">
+        <ul class="copyright" style="color: #aaa;">
           <li>
             &copy;
             {{ with .Site.Copyright | default .Site.Title }}
