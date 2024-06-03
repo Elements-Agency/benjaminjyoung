@@ -10,8 +10,14 @@
   <div id="wrapper">
     <section id="main">
       <div class="items">
-        <div class="item intro">
-          <h1>{{ .Site.Title }}</h1>
+        <div style="text-align: center;">
+          <a href="/about">
+            <img src="/images/ben-small.webp" alt="Contemporary Artist" width="120px" height="120px" style="margin-top:20px; border-radius: 500px; box-shadow: 0 0 10px #000;">
+            <img src="/images/logo.png" alt="Ben Young" height="100px" width="200px">
+          </a>
+        </div>
+        <div class="item intro" style="position: relative;">
+          <h1>{{ .Params.heading }}</h1>
           {{ .Content }}
         </div>
 
@@ -128,7 +134,7 @@
 
         <div class="item intro">
           <a class="bigtext" href="/artwork">View All Artwork &gt;</a>
-          <p>Discover the entire collection of <a href="/tags/paint">paintings</a> and <a href="/tags/drawing">drawings</a> by <a href="/about">artist Benjamin Young</a>.</p>
+          <p>Discover the entire collection of <a href="/tags/paint">paintings</a> and <a href="/tags/drawing">drawings</a> by Midwest and Ohio native artist <a href="/about">Benjamin Young</a>.</p>
         </div>
       </div>
     </section>
