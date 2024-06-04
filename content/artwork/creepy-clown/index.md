@@ -22,11 +22,15 @@ images: ['painting.jpg']
 videos: []
 tags: [close up, white, face, creepy, clown, scary, smile, dark, eyes, red, nose, oil, paint, narrative, realism, sold, small works series]
 
-status: gift
+status: sale
+products:
+    - id: 669390403
+      name: Original Painting
+      price: $99
 ---
 
 **Creepy Clown** was a quick artwork done on a tiny canvas, that I did as a gift to a friend. Who has an appreciation for creepy clowns and serial killers. While I don't share those interests, I did my best to try to convey that sense allure on this 4x4in square, making quick work of it. The design was heavily inspired by the first IT Movie's antagonist clown character. The yellow tinted smiling teeth were captured well, wrapping around the edge of the canvas.
 
-This painting is not for sale.
-
 This is painting is the first one apart of the [small works collection](/tags/small-works-series).
+
+{{< purchase >}}

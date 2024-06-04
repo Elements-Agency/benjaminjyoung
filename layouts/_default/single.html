@@ -106,11 +106,10 @@
               </p>
 
               {{- .Content -}}
-
-              <hr>
-
               <div>
                 {{ if or (eq .Params.status "sale") (eq .Params.status "sold") }}
+                  <hr>
+
                   <h2 id="purchase">Purchase Artwork</h2>
                   
                   {{ $original := index (.Params.products) 0 }}
@@ -257,10 +256,12 @@
                     xProductBrowser("categoriesPerRow=3","views=grid(20,3) list(60) table(60)","categoryView=grid","searchView=list","defaultProductId={{ $original.id }}","defaultSlug={{ .Slug }}-original","id=my-store-101772706");
                   </script>
                   </div>
+
+                  {{ if or .Params.progress .Params.location }}
+                    <hr>
+                  {{ end }}
                 {{ end }}
               </div>
-
-              <hr>
 
               {{ if .Params.progress}}
                 <div>
@@ -297,7 +298,7 @@
                 </div>
               {{ end }}
 
-              {{ if or .Params.progress .Params.location }}
+              {{ if  and .Params.products (or .Params.progress .Params.location) }}
                 <a class="button" href="#purchase">Purchase Artwork &gt;</a>
               {{ end }}
             </article>
