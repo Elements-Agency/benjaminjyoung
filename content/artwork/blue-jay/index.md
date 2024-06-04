@@ -40,4 +40,4 @@ This drawing is apart of the [Primary Winter Birds Collection](/tags/primary-win
 
 {{< img src="reference.webp" width="200px" height="134px" class="floatright" gallery="progress" alt="Photo of a Male Blue Jay" title="A Male Blue Jay" link="reference.jpg" >}}
 
-This drawing was done to add to the [Primary Winter Birds Collection](/tags/primary-winter-birds), as the second and blue of the three primary birds. It also shares it's middle name with the artist, Jay. 😆
+This drawing was done to add to the [Primary Winter Birds Collection](/tags/primary-winter-birds-series), as the second and blue of the three primary birds. It also shares it's middle name with the artist, Jay. 😆
