@@ -5,6 +5,8 @@ description: Massillon Helmet was my second oil painting, utilizing a revised re
 alt: This painting presents a highly detailed, realistic portrayal of a black football helmet with a prominent orange 'M' logo, capturing a sense of rugged athleticism.
 author: Benjamin J. Young
 
+progress: Painted with oil paint on canvas panel. Painting part by part, instead of layering paints, it took an extensive amount of time to mix and color match, and ensure I touched on every detail of the helmet and lighting. This was my longest and most complicated artwork as of yet. But it has proven how much more heighten the realism turned out to be.
+
 featured: true
 popularity: 10
 ratio: landscape

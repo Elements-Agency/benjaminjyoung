@@ -5,6 +5,8 @@ description: Mac Reflections is a self portrait inspired after seeing my reflect
 alt: This oil pastel painting by Ben Young depicts a solemn, textured portrait of a man's face, emerging from a dark background with a rough, expressive brushwork that conveys a sense of introspection or melancholy.
 author: Benjamin J. Young
 
+progress: Drawn with oil pastels on black construction paper. This took a few days of stepping away from the art, getting a fresh pair of eyes, and continuing to develop the depth of the artwork.
+
 featured: true
 popularity: 12
 ratio: portrait

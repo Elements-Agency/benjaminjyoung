@@ -5,6 +5,8 @@ description: Northern Cardinal's name speaks for it's self on the subject of thi
 alt: This is a detailed colored pencil drawing by Ben Young of a vivid red cardinal perched on a snowy branch.
 author: Benjamin J. Young
 
+progress: Watercolor pencil drawn on cold press watercolor wood pulp paper. Anytime I do realism such as this, it's quite time intensive. This artwork took a few weeks of stages of coming back to it and doing a little progress at a time.
+
 featured: true
 popularity: 4
 ratio: portrait

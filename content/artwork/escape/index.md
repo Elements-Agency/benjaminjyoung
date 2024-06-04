@@ -5,6 +5,8 @@ description: Escape is such a simple watercolor painting, set in a snowy vast fi
 alt: This painting by Ben Young shows a solitary figure traverses a snowy path flanked by a fence, in a muted watercolor landscape shrouded in a hazy atmosphere.
 author: Benjamin J. Young
 
+progress: Painted with watercolor paint on a cold press cotton watercolor block. A simple painting, but effective. This took a few stages of adding layers, but it still only took a few days at most to include drying times. I later learned that my for this painting technique closely matches the master artist, Andrew Wyeth.
+
 featured: true
 popularity: 2
 ratio: landscape

@@ -5,6 +5,8 @@ description: Lemon Tree is an impasto acrylic canvas study. Just a small work ar
 alt: This painting by Ben Young depicts a vibrant pair of yellow lemons with lush green leaves and white blossoms against a textured white background.
 author: Benjamin J. Young
 
+progress: Acrylic on stretched canvas. It was a quick, small work, art piece. Building full body layers after layers and staying contrast with no blending.
+
 featured: false
 ratio: portrait
 

@@ -5,6 +5,8 @@ description: The Okay realism drawing is a human Okay hand sign, drawn with grap
 alt: The drawing displays a detailed pencil sketch of a human hand with a gentle curvature of the fingers and intricate line work that captures the texture of the skin.
 author: Benjamin J. Young
 
+progress: Drawn with graphite pencil on printer paper.
+
 featured: false
 ratio: portrait
 

@@ -5,6 +5,9 @@ description: Massillon 52 is a watercolor painting showing off Massillon Footbal
 alt: This painting depicts two football players from Massillon team in the heat of the game, with one poised in a stance of victory or excitement and the other seemingly in motion, against the backdrop of a crowded stadium.
 author: Benjamin J. Young
 
+progress: Painted with watercolor on cold press cotton watercolor block. This was my first figure painting while using a reference photo. I freehanded the entire thing (like I do with most of my art), starting with some simple brushstrokes to draw the basic shapes and adjusting as I go. Blocking in some colors at first, and then starting to build the dimensions and details. Very similar to my Andrew Wyeth technique I use for most of my landscape and narrative watercolor paintings.
+location: This scene takes place in Massillon Ohio, at the Massillon Washington Highschool Paul Brown Stadium. During one of the Massillon Tigers vs Canton McKinley football games.
+
 featured: true
 popularity: 9
 ratio: landscape

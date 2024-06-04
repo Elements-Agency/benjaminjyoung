@@ -5,6 +5,8 @@ description: Ms. Cezanne is my own rendition of Paul Cezanne's artwork, includin
 alt: The oil pastel painting by Ben Young portrays a woman reclining in a vibrant, natural setting, depicted with vivid colors and energetic, sketch-like strokes that create a lively and dynamic composition.
 author: Benjamin J. Young
 
+progress: Oil pastels done on pastel paper. This took an evening to work on. It was meant to go quick and be expressive, to get that enjoyment of impressionism and force myself away from perfectionism.
+
 featured: false
 ratio: portrait
 

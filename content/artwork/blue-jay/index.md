@@ -5,6 +5,8 @@ description: Blue Jay is the second watercolor pencil drawing of the three prima
 alt: This is a detailed colored pencil drawing by Ben Young of a vivid blue jay perched on a snowy mound eating berries.
 author: Benjamin J. Young
 
+progress: This was drawn with watercolor pencils on cold press wood pulp watercolor paper. Anytime I draw with any colored pencils, it takes many going over in layers to intensify and blend the colors.
+
 featured: true
 popularity: 3
 ratio: landscape

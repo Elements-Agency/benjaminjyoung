@@ -5,6 +5,8 @@ description: Tomb Flowers is a watercolor pencil drawing, with a brushed and was
 alt: Tomb Flowers is a watercolor pencil drawing, with a brushed and washed colorful background, of white lilies.
 author: Benjamin J. Young
 
+progress: Drawn with watercolor pencil on cold press wood pulp watercolor paper. I used a wash on the background, using water, to turn the pencil shading in to paint. The subject of the flower was left dried as a drawing.
+
 featured: false
 ratio: portrait
 

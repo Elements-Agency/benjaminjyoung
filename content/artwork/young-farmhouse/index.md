@@ -5,6 +5,8 @@ description: The Young Farmhouse is that of my family's original farmhouse I gre
 alt: This painting by Ben Young captures a rustic rural scene with a prominent tree and swing in the foreground, and a brick house amidst green fields and trees in the background, evoking a tranquil, pastoral mood.
 author: Benjamin J. Young
 
+progress: Using a watercolor paint set on cold press wood pulp watercolor paper. This artwork took forever to do. Similar to Fry's Tree, the progress stretched out and the skills had developed past of when I started. I had to force myself to complete this one.
+
 featured: true
 popularity: 6
 ratio: landscape

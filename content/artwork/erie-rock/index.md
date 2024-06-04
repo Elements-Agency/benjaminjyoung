@@ -5,6 +5,8 @@ description: Erie Rock is watercolor painting of a monolith rock that rarely com
 alt: This watercolor painting by Ben Young is an ethereal and solitary stone monolith, crowned with verdant trees, rises from the misty waters of a tranquil lake, embodying a quiet testament to nature's enduring strength and mystery.
 author: Benjamin J. Young
 
+progress: Painted with watercolor paint on a cold press cotton watercolor block. My style generally focuses on impressionism, with certain elements shifting to realism that I want to draw focus to. This artwork however was a little different from that, where the realism elements where much more present than my other art pieces. This was a very labor intensive and detailed piece. Many stages of doing a layer, drying, and continuing on with the next step. I enjoyed the journey though and it's one of my favorite artworks. I later learned that my for this painting technique closely matches the master artist, Andrew Wyeth.
+
 featured: true
 popularity: 5
 ratio: portrait
