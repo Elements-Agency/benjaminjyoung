@@ -7,5 +7,5 @@ keywords: [ben young, benjamin young, contemporary artist, artwork paintings, im
 Benjamin J. Young is a [contemporary artist](/about). Specializing in [landscapes](/tags/landscape) and [narrative](/tags/narrative) paintings.
 Using oil and watercolor.
 
+* [Commission Painting &gt;](/commissions)
 * [Shop Now &gt;](/shop)
-* [Commissions Open &gt;](/commissions)

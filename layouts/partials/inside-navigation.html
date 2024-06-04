@@ -2,7 +2,7 @@
     {{/* list of child pages */}}
     {{ $currentPage := . }}
     <ul class="links">
-        {{ range .Site.Menus.main }}
+        {{ range .Site.Menus.inside }}
             <li class="{{if strings.Contains $currentPage.RelPermalink .URL }}{{if ne .Name "Home"}}active{{end}}{{ end }}">
                 <a href="{{ .URL }}" title="{{ i18n "pageTitle" . }}">
                     {{ .Name }}

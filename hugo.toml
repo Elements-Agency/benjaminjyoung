@@ -23,22 +23,43 @@ timeout = '600'
     pageRef = '/'
     weight = 10
 [[menus.main]]
-    name = 'Artwork'
-    pageRef = '/artwork'
-    weight = 20
-[[menus.main]]
     name = 'About'
     pageRef = '/about'
+    weight = 20
+[[menus.main]]
+    name = 'Artwork'
+    pageRef = '/artwork'
     weight = 30
 [[menus.main]]
     name = 'Shop'
     pageRef = '/Shop'
     weight = 40
 [[menus.main]]
+    name = 'Contact'
+    pageRef = '/contact'
+    weight = 50
+
+[[menus.inside]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+[[menus.inside]]
+    name = 'About'
+    pageRef = '/about'
+    weight = 20
+[[menus.inside]]
+    name = 'Artwork'
+    pageRef = '/artwork'
+    weight = 30
+[[menus.inside]]
+    name = 'Shop'
+    pageRef = '/Shop'
+    weight = 40
+[[menus.inside]]
     name = 'Commissions'
     pageRef = '/commissions'
     weight = 50
-[[menus.main]]
+[[menus.inside]]
     name = 'Contact'
     pageRef = '/contact'
     weight = 60
