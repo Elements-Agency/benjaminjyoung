@@ -18,7 +18,7 @@ size: 4x4in (10.16x10.16cm)
 aliases: [/creepy-clown, /artwork/scary-clown]
 images: ['painting.jpg']
 videos: []
-tags: [close up, white face, creepy, clown, scary, smile, dark, eyes, red, nose, oil, paint, narrative, realism, sold]
+tags: [close up, white, face, creepy, clown, scary, smile, dark, eyes, red, nose, oil, paint, narrative, realism, sold, small works series]
 
 status: gift
 ---
@@ -26,3 +26,5 @@ status: gift
 **Creepy Clown** was a quick artwork done on a tiny canvas, that I did as a gift to a friend. Who has an appreciation for creepy clowns and serial killers. While I don't share those interests, I did my best to try to convey that sense allure on this 4x4in square, making quick work of it. The design was heavily inspired by the first IT Movie's antagonist clown character. The yellow tinted smiling teeth were captured well, wrapping around the edge of the canvas.
 
 This painting is not for sale.
+
+This is painting is the first one apart of the [small works collection](/tags/small-works-series).
