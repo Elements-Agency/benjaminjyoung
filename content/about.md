@@ -23,16 +23,16 @@ Despite the traditional roots of impressionism and realism, Young infuses his wo
 Yes, I try to offer prints for everywhere artwork I create in order to allow much more affordable access to my work for more people to enjoy. The more people I can get to enjoy my art is my overall goal.
 
 ### Who do you use for framing your original paintings? ###
-[Cyrus Custom Framing &amp; Art Gallery](http://cyruscustom.com), in Canton Ohio. It's the quality work I want to resonate that comes with owning one of my original paintings.
+[Cyrus Custom Framing &amp; Art Gallery](http://cyruscustom.com), in Canton Ohio. It's the quality work I want to resonate that comes with owning one of my original paintings and each frame is picked specifically to highlight the better qualities of each individual painting.
 
 ### How long have you been painting? ###
-Just a few months. I have not done any art since I was a child in middle school.
+Since December 2023. Prior to that, I have not done any art since I was a child in middle school. No formal education in art, other than going through the [Canton Art Institute](https://www.cantonart.org) in childhood.
 
 ### Do you do commissions? ###
 Yes, if I like the idea of what you want me to paint. I'm a strong believer of not doing it, if I won't enjoy it. The emotions go in to my work and do show. Please see my [commissions page](/commissions).
 
-### Will you sell me [insert painting] for less than listed? ###
-Yes. Only if you are local where you can pickup an original painting, where I don't have to pay for shipping or commission on my original curator site. This applies to originals only. Copy prints, I will not negotiate, as the profit margin is already too slim with my production costs. Please [contact me](/contact) to discuss details and work out a price.
+### Will you sell me [a certain painting] for less than listed? ###
+Yes. Only if you are local where you can pickup an original painting, where I don't have to pay for shipping or commission for a curator site. This applies to originals only. Copy prints, I can not negotiate, as the profit margin is already too slim with my production costs. I do however offer volume discounts on prints, which are automatically applied once added to the cart. Please [contact me](/contact) to discuss details and work out a price.
 
 ### Do you have a physical location? ###
 Yes, you can find me on the 2nd floor at [Patina Art Centre](https://www.patinaartscentre.com) in downtown Canton.
