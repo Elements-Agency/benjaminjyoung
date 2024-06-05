@@ -21,7 +21,7 @@ size: 12x9in (30.4x22.8cm)
 aliases: [/blue-jay, /artwork/bluejay]
 images: ['painting.jpg']
 videos: []
-tags: [bird, blue, blue jay, drawing, watercolor, pencil, realism, animal, outdoors, nature, primary winter birds series]
+tags: [bird, blue, blue jay, drawing, watercolor, pencil, realism, animal, outdoors, nature, primary winter birds series for sale, patina]
 
 status: sale
 products:

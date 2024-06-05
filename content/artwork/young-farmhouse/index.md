@@ -21,7 +21,7 @@ size: 12x9in (30.4x22.8cm)
 aliases: [/young-farmhouse, /artwork/young-farmhome]
 images: ['painting.jpg']
 videos: [https://www.instagram.com/p/C3j7Q9FAkf6/, https://youtu.be/WWJK-CMWE_Q]
-tags: [farm, house, brick, home, east sparta, ohio, swing, walnut, tree, countryside, architecture, outdoors, watercolor, paint, landscape, for sale]
+tags: [farm, house, brick, home, east sparta, ohio, swing, walnut, tree, countryside, architecture, outdoors, watercolor, paint, landscape, for sale, patina]
 
 status: sale
 products:

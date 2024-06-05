@@ -20,7 +20,7 @@ size:
 aliases: [/tomb-flowers]
 images: ['painting.jpg']
 videos: []
-tags: [flower, white, lily, blue, drawing, watercolor, pencil, drawing, realism, floral]
+tags: [flower, white, lily, blue, drawing, watercolor, pencil, drawing, realism, floral, for sale, patina]
 
 status: sale
 products:
