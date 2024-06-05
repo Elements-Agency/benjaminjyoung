@@ -1,0 +1,21 @@
+{{ $posts := slice }}
+{{ range .Site.RegularPages }}
+    {{ if in .Params.tags "favorite" }}
+        {{ $posts = $posts | append . }}
+    {{ end }}
+{{ end }}
+{{ $favorites := $posts | symdiff .Data.Pages }}
+
+<ul style="text-align: center; padding: 0; margin: 0;">
+    {{ range $favorites }}
+        <li style="list-style:none; display:inline-block; text-align:center;">
+        <a class="thumbnail" href="{{ .RelPermalink }}">
+            {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
+            {{ $thumbnail := $thumbnail.Fill "200x200 Center" }}
+            {{ $thumbnail := $thumbnail.Resize "200x webp q90" }}
+
+            <img src="{{ $thumbnail.RelPermalink }}" width="160px" height="160px" loading="lazy" alt="{{- .Title -}}" title='{{ .Title }}' />
+        </a>
+        </li>
+    {{ end }}
+</ul>
