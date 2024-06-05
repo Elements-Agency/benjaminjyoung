@@ -1,0 +1,87 @@
+{{ define "styles" }}
+    {{ partial "inside-style.html" . }}
+{{ end }}
+
+{{ define "scripts" }}
+    {{ partial "inside-scripts.html" . }}
+{{ end }}
+
+{{ define "main" }}
+  {{ $section := .Site.GetPage "section" .Section }}
+    <div id="wrapper">
+      <!-- Do NOT remove inlinse styles on bg below -->
+      <div class="bg fixed" style='position:fixed; top:0; left:0; z-index:-1; width:100vw; height:100vh; background-color:#ddd; background-image:url("/images/background.webp"); background-size:cover; background-position:center; background-repeat:no-repeat; background-attachment:scroll;'></div>
+
+    {{ block "header" . }}{{ partial "inside-header.html" .}}{{ end }}
+
+    {{ block "nav" . }}{{ partial "inside-navigation.html" .}}{{ end }}
+
+    <div id="main">
+        <article class="post">
+            <header class="major">
+                <h1>{{ .Title }}</h1>
+            </header>
+
+            <div>
+              {{- .Content -}}
+            </div>
+
+            {{ $posts := slice }}
+            {{ range .Site.RegularPages }}
+                {{ if in .Params.tags "favorite" }}
+                    {{ $posts = $posts | append . }}
+                {{ end }}
+            {{ end }}
+            {{ $favorites := $posts | symdiff .Data.Pages }}
+
+            <ul>
+                {{ range $favorites }}
+                    <li style="list-style:none; display:inline-block; text-align:center;">.
+                    <a class="thumbnail" href="{{ .RelPermalink }}">
+                        {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
+                        {{ $thumbnail := $thumbnail.Fill "200x200 Center" }}
+                        {{ $thumbnail := $thumbnail.Resize "200x webp q90" }}
+
+                        <img src="{{ $thumbnail.RelPermalink }}" width="180px" height="180px" loading="lazy" alt="{{- .Title -}}" title='{{ .Title }}' />
+                    </a>
+                    </li>
+                {{ end }}
+            </ul>
+
+            <p>
+                If you have any questions while I am not there, feel free to ask the front desk or head over to my <a href="/contact">contact page</a>.
+                Here are links to more information on all the current artwork that I currently have at Patina:
+            </p>
+
+            {{ $posts := slice }}
+            {{ range .Site.RegularPages }}
+                {{ if in .Params.tags "patina" }}
+                    {{ $posts = $posts | append . }}
+                {{ end }}
+            {{ end }}
+            {{ $favorites := $posts | symdiff .Data.Pages }}
+
+            <ul>
+                {{ range $favorites }}
+                    <li style="list-style:none; display:inline-block; text-align:center;">.
+                    <a class="thumbnail" href="{{ .RelPermalink }}">
+                        {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
+                        {{ $thumbnail := $thumbnail.Fill "200x200 Center" }}
+                        {{ $thumbnail := $thumbnail.Resize "200x webp q90" }}
+
+                        <img src="{{ $thumbnail.RelPermalink }}" width="80px" height="80px" loading="lazy" alt="{{- .Title -}}" title='{{ .Title }}' />
+                    </a>
+                    </li>
+                {{ end }}
+            </ul>
+
+            <p style="text-align: center;">
+                <a href="/artwork" class="button">View All Artwork &gt;</a>
+                <a href="/tags/for-sale" class="button">Artwork For Sale &gt;</a>
+            </p>
+        </section>
+    </div>
+
+    {{ block "footer" . }}{{ partialCached "inside-footer.html" . }}{{ end }}
+  </div>
+{{ end }}

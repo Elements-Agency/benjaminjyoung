@@ -21,7 +21,7 @@ size: 10.2x14.1in (26x36cm)
 aliases: [/erie-rock]
 images: ['painting.jpg']
 videos: [https://www.instagram.com/p/C3rgdrrA3oI/, https://www.youtube.com/shorts/XCMouswfCm4]
-tags: [rocks, lake, erie, cleveland, sandusky, ohio, great lakes, beach, water, waves, nature, outdoors, landscape, watercolor, paint, overcast, coastal, realism, sold]
+tags: [rocks, lake, erie, cleveland, sandusky, ohio, great lakes, beach, water, waves, nature, outdoors, landscape, watercolor, paint, overcast, coastal, realism, sold, favorite]
 
 status: sold
 products:
