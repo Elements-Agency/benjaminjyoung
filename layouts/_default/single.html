@@ -298,6 +298,21 @@
                 </div>
               {{ end }}
 
+              {{ if in .Params.tags "patina" }}
+                <h3>Where To Visit</h3>
+                <p>This painting is currently on display at <a href="https://www.patinaartscentre.com">Patina Art Centre</a> in Canton Ohio, and can be viewed there.</p>
+              {{ end }}
+
+              {{ if in .Params.tags "massmu" }}
+                <h3>Where To Visit</h3>
+                <p>This painting is currently on display at <a href="https://www.massillonmuseum.org">Massillon Museum</a> in Massillon Ohio, and can be viewed there.</p>
+              {{ end }}
+
+              {{ if in .Params.tags "sold" }}
+                <h3>Original Sale</h3>
+                <p>The original of this painting has been sold and is no longer available for sale.</p>
+              {{ end }}
+
               {{ if  and .Params.products (or .Params.progress .Params.location) }}
                 <a class="button" href="#purchase">Purchase Artwork &gt;</a>
               {{ end }}
