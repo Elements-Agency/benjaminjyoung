@@ -22,7 +22,7 @@ images: ['painting.jpg']
 videos: []
 tags: [close up, white, face, creepy, clown, scary, smile, dark, eyes, red, nose, oil, paint, narrative, realism, sold, small works series]
 
-status: sale
+status: sold
 products:
     - id: 669390403
       name: Original Painting
