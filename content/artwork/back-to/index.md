@@ -21,7 +21,7 @@ size: 14.1x10.2in (36x26cm)
 aliases: [/back-to]
 images: ['painting.jpg']
 videos: [https://www.instagram.com/p/C4fX_ZiuC8p/, https://youtube.com/shorts/35AX0Eu-C7w]
-tags: [human, figure, snow, white, winter, landscape, trail, trees, forest, tracks, watercolor, paint, cool, narrative, outdoors, winter escape series, for sale, patina]
+tags: [human, figure, snow, white, winter, trail, trees, forest, tracks, watercolor, paint, cool, narrative, outdoors, winter escape series, for sale, patina]
 
 status: sale
 products:
