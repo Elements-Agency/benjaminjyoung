@@ -13,16 +13,16 @@ materials:
  - canvas: $20
  - paint: $10
  - brushes: $10
- - frame: $150
+ - frame: $126
  - certificate: $5
- - total: $195
+ - total: $176
 
 work:
  - rate: $15
  - hours: 30
  - total: $450
 
-sale price: $799
+sale price: $899
 net: 
 buyer: 
 ---

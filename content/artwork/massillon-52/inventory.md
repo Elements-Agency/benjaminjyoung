@@ -13,16 +13,16 @@ materials:
  - paper: $5
  - paint: $5
  - brushes: $5
- - frame: $150
+ - frame: $198
  - certificate: $5
- - total: $170
+ - total: $218
 
 work:
  - rate: $15
  - hours: 20
  - total: $300
 
-sale price: $699
+sale price: $799
 net: 
 buyer: 
 ---
