@@ -1,11 +1,10 @@
 ---
 locations:
-  - home: 2024-06-06 - current
+  - home: 2024-06-07 - current
 
 paper: Baohong Cold Press Watercolor Block
-paper size: 16x12in
+paper size: 14x10in
 paint: Artist Loft Watercolor Paint
-pencil: Kalour Watercolor Pencil
 brushes: Princeton Aqua Elite
 frame: 
 
@@ -19,8 +18,8 @@ materials:
 
 work:
  - rate: $20
- - hours: 12
- - total: $240
+ - hours: 6
+ - total: $120
 
-sale price: $299
+sale price: $199
 ---

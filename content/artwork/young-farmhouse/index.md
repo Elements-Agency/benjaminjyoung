@@ -7,7 +7,7 @@ author: Benjamin J. Young
 
 progress: Using a watercolor paint set on cold press wood pulp watercolor paper. This artwork took forever to do. Similar to Fry's Tree, the progress stretched out and the skills had developed past of when I started. I had to force myself to complete this one.
 
-featured: true
+featured: false
 popularity: 6
 ratio: landscape
 
