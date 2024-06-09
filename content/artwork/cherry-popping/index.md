@@ -26,7 +26,7 @@ status: sale
 products:
     - id: 645940862
       name: Original Painting
-      price: $399
+      price: $199
 ---
 
 The **Cherry Popping** painting depicts two cherries with a realistic appearance. The cherries are rich red with subtle hints of darker tones suggesting volume and curvature. A light source is shining from the upper left, casting a soft shadow to the lower right of the cherries and giving a glossy highlight on their surfaces. The cherries are attached to each other by a green stem, which is connected to only one of the cherries at the top right corner of the painting. The background is plain and light-colored, putting the full focus on the vibrancy and detail of the cherries. The technique used provides a sense of texture that one can almost feel, and the attention to detail in the reflections and shadows is a careful study of light on the fruit's surface.

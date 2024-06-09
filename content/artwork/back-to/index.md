@@ -27,7 +27,7 @@ status: sale
 products:
     - id: 654299503
       name: Original Painting
-      price: $399
+      price: $299
 ---
 
 In the midst of a serene, snow-covered landscape, a solitary figure captures our attention in this evocative painting, titled **Back To**. Striding the lone figure once again, across the snow covered Ohio and Erie Canal Towpath Trail.
