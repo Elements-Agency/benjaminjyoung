@@ -115,13 +115,8 @@
                   {{ $original := index (.Params.products) 0 }}
 
                   <p style="line-height:1.5em;">
-                    <strong style="color:red; font-family:Arial, Helvetica, sans-serif; font-weight:bold;">LIMTED SALE:</strong>
                     Save site-wide with a <strong>LIMITED TIME DISCOUNT</strong> on all products, including <strong>FREE SHIPPING</strong> on domestic orders!
                     <span id="holiday"></span>
-                    <br>
-                    <br>
-                    <strong style="font-family:Arial, Helvetica, sans-serif;">Sale Time Left:</strong>
-                    <span id="countdown" style="background:yellow; color:navy; font-family:Arial, Helvetica, sans-serif; font-weight:bold; padding:0.5em;">4 hours, 20 minutes</span>
                   </p>
                   <script>
                     function pad(d) {
@@ -189,30 +184,6 @@
                       var holiday = 'New Years, New Savings!';
                       var datestring = 'Jan 15';
                     }
-
-                    holiday += " Use coupon code '<strong><em>VOZW20NB3YRK</em></strong>' at checkout for a further <strong>20%</strong> discount on any originals.";
-
-                    datestring += ', ' + now.getFullYear();
-                    
-                    var countDownDate = new Date(datestring).getTime();
-
-                    var x = setInterval(function() {
-                      var now = new Date().getTime();
-                      var distance = countDownDate - now;
-
-                      var days = Math.floor(distance / (1000 * 60 * 60 * 24));
-                      var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-                      var minutes = pad(Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60)));
-                      var seconds = pad(Math.floor((distance % (1000 * 60)) / 1000));
-
-                      document.getElementById("countdown").innerHTML = days + " Days, " + hours + ":"
-                        + minutes + ":" + seconds + " Hours";
-
-                      if (distance < 0) {
-                        clearInterval(x);
-                        document.getElementById("countdown").innerHTML = "EXPIRED";
-                      }
-                    }, 1000);
 
                     document.getElementById('holiday').innerHTML = holiday;
                   </script>
