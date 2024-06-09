@@ -32,7 +32,7 @@ products:
 
 This watercolor painting, titled "**Silent Reflections**," captures a serene and contemplative scene of two individuals in a small boat on a vast, calm body of water. The palette consists primarily of muted blues and grays, creating a tranquil and misty atmosphere. Light touches of yellow kiss the finer details to show the dancing of light. The reflections on the water's surface are subtly rendered, blending seamlessly with the surrounding landscape. In the background, the faint outlines of forested hills fade into the horizon, shrouded in a gentle haze. This watercolor painting is a  peaceful and introspective work of art.
 
-**Coming for Sale Soon**
+**Prints will be for sale SOON.**
 
 ### Inspiration ###
 

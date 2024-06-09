@@ -34,7 +34,7 @@ products:
 
 This drawing is apart of the [Primary Winter Birds Collection](/tags/primary-winter-birds-series).
 
-**Original and prints will be for sale SOON.**
+**Prints will be for sale SOON.**
 
 ### Inspiration ###
 
