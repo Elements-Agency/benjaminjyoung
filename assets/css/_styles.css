@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600");
+@import url("https://fonts.googleapis.com/css?family=Poppings:400,700,400italic,700italic|Sans+serif:900");
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -102,18 +102,10 @@ input, select, textarea {
 			transition: none !important;
 		}
 
-		@media screen and (max-width: 1280px) {
-
-			body {
-				background-attachment: scroll;
-			}
-
-		}
-
 		@media screen and (max-width: 736px) {
 
 			body {
-				background-attachment: scroll;
+				background-attachment: fixed;
 				background-size: auto, 100% 100%, 250% auto;
 				background-repeat: repeat, no-repeat, no-repeat;
 				background-position: top left, bottom left, 50% 0%;
@@ -122,17 +114,17 @@ input, select, textarea {
 		}
 
 	body, input, select, textarea {
-		font-family: 'Source Sans Pro';
-		font-weight: 400;
+		font-family: 'Poppins', sans-serif;
+		font-weight: 300;
 		padding: 0;
-		font-size: 13pt;
+		font-size: 12pt;
 		color: rgba(255, 255, 255, 0.9);
 	}
 
 		@media screen and (max-width: 1680px) {
 
 			body, input, select, textarea {
-				font-size: 11pt;
+				font-size: 10pt;
 			}
 
 		}
@@ -148,7 +140,7 @@ input, select, textarea {
 		@media screen and (max-width: 980px) {
 
 			body, input, select, textarea {
-				font-size: 11pt;
+				font-size: 10pt;
 			}
 
 		}
@@ -167,7 +159,7 @@ input, select, textarea {
 		}
 
 	h1, h2, h3, h4, h5, h6 {
-		font-weight: 400;
+		font-weight: 700;
 		color: #fff;
 		letter-spacing: -0.05em;
 	}
@@ -175,7 +167,7 @@ input, select, textarea {
 	strong, b {
 		color: #fff;
 		color: rgba(255, 255, 255, 0.85);
-		font-weight: 600;
+		font-weight: 700;
 	}
 
 /* List */
@@ -432,12 +424,12 @@ input, select, textarea {
 
 				#main .item.intro h1 {
 					font-size: 3em;
-					line-height: 1em;
+					line-height: 1.5em;
 				}
 
 				#main .item.intro p {
-					font-size: 1.25em;
-					line-height: 1.5em;
+					font-size: 1.2em;
+					line-height: 1.2em;
 					margin: 0.5em 0 0 0;
 					color: rgba(255, 255, 255, 0.7);
 				}
@@ -450,6 +442,7 @@ input, select, textarea {
 					opacity: 1;
 					color: #fff;
 					font-size: 1.2em;
+					font-weight: bold;
 					display: inline-block;
 					margin: 0 1em 0 0;
 				}
@@ -553,6 +546,10 @@ input, select, textarea {
 
 			#main .item {
 				height: 14em;
+			}
+
+			#main .item.intro {
+				height: 16em;
 			}
 
 				#main .item.span-portrait {
