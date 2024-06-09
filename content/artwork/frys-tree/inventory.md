@@ -2,7 +2,7 @@
 locations:
   - buyer: 2024-04-16
   - home: 2024-04-12 - 2024-04-16
-  - cyrus custom framing: 2024-03-29 - 2024-04-12
+  - cyrus: 2024-03-29 - 2024-04-12
   - home: 2024-01-19 - 2024-03-29
 
 paper: Artist Loft Cold Press Watercolor Paper

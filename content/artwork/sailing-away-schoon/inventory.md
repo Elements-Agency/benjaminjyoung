@@ -1,6 +1,7 @@
 ---
 locations:
-  - home: 2024-06-07 - current
+  - patina: 2024-06-07 - current
+  - home: 2024-06-07 - 2024-06-07
 
 paper: Baohong Cold Press Watercolor Block
 paper size: 14x10in

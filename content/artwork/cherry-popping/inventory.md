@@ -1,6 +1,8 @@
 ---
 locations:
-  - home: 2024-03-17 - current
+  - home: 2024-06-08 - current
+  - patina: 2024-05-26 - 2024-06-08
+  - home: 2024-03-17 - 2024-05-26
 
 canvas board: Artist Loft
 canvas board size: 14x11in

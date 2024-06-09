@@ -1,6 +1,8 @@
 ---
 locations:
-  - cyrus custom framing: 2024-04-26 - current
+  - home: 2024-06-08 - current
+  - patina: 2024-06-06 - 2024-06-08
+  - cyrus: 2024-04-26 - 2024-06-06
   - home: 2024-04-26 - 2024-04-26
 
 paper: Baohong Cold Press Watercolor Block

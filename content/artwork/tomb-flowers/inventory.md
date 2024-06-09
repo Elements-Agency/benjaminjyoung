@@ -1,7 +1,8 @@
 ---
 locations:
-  - home: 2024-05-02 - current
-  - cyrus framing: 2024-04-18 - 2024-05-02
+  - patina: 2024-05-18 - current
+  - home: 2024-05-02 - 2024-05-18
+  - cyrus: 2024-04-18 - 2024-05-02
   - home: 2024-03-14 - 2024-04-18
 
 paper: Coldpress Paper

@@ -2,7 +2,7 @@
 locations:
   - buyer: 2024-05-15
   - home: 2024-04-12 - 2024-05-15
-  - cyrus custom framing: 2024-03-29 - 2024-04-12
+  - cyrus: 2024-03-29 - 2024-04-12
   - home: 2024-03-23 - 2024-03-29
 
 paper: Baohong Cold Press Watercolor Block
