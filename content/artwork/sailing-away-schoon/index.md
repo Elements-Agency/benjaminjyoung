@@ -22,6 +22,12 @@ aliases: [/sailing-away-schoon, /artwork/sailing-away]
 images: ['painting.jpg']
 videos: []
 tags: [schooner, ocean, mist, sea, water, boat, waves, mountains, watercolor, paint, landscape, narrative, outdoors, for sale, patina]
+
+status: sale
+products:
+    - id: 670400475
+      name: Original Painting
+      price: $399
 ---
 
 This watercolor painting, **Sailing Away Schoon**, depicts a solitary schooner boat navigating through misty waters. The scene is serene and atmospheric, with soft, muted colors creating a sense of calm and tranquility. The sailboat, with its sails billowing gently, is positioned towards the right side of the painting, moving forward through the slightly choppy, dark blue waves. The background features indistinct, hazy mountains that blend seamlessly with the overcast sky, enhancing the overall misty ambiance. The use of watercolor techniques adds a fluid and ethereal quality to the painting, capturing the essence of a quiet journey through a tranquil seascape.
