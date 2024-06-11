@@ -18,7 +18,13 @@
   <div id="main">
       <article class="post">
 
-        <h1>Explore All Art</h1>
+        <header class="major">
+            <h1>{{ .Title }}</h1>
+        </header>
+
+        <div>
+          {{- .Content -}}
+        </div>
 
         {{ $mainSections := .Site.Params.mainSections | default (slice "post") }}
         {{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
@@ -38,6 +44,9 @@
             </a>
             {{ end }}
         {{ end }}
+
+        <br>
+        <br>
 
         <p style="text-align: center;">
             <a href="/shop" class="button">Shop Artwork &gt;</a>

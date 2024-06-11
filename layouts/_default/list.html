@@ -19,10 +19,13 @@
         <section class="post">
             <header class="major">
                 <h1>{{ .Title }}</h1>
-                <p>{{ .Description }}</p>
             </header>
 
-            <h2>Specialized Categories</h2>
+            <article>
+              {{- .Content -}}
+            </article>
+
+            <h2>Category Filters</h2>
             <p style="text-align: center;">
               <a href="/tags/narrative" class="button tag">
                 Narrative
@@ -40,10 +43,6 @@
                 Still Life
               </a>
             </p>
-
-            <article>
-              {{- .Content -}}
-            </article>
 
             <hr>
 

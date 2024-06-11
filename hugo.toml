@@ -35,9 +35,13 @@ timeout = '600'
     pageRef = '/Shop'
     weight = 40
 [[menus.main]]
+    name = 'Commissions'
+    pageRef = '/commissions'
+    weight = 50
+[[menus.main]]
     name = 'Contact'
     pageRef = '/contact'
-    weight = 50
+    weight = 60
 
 [[menus.inside]]
     name = 'Home'
