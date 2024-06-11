@@ -9,6 +9,7 @@ progress: This was drawn with a water soluable pencil on some cold press wood pu
 
 featured: false
 ratio: portrait
+power: 0
 
 type: Painting
 medium: Water Soluble Graphite

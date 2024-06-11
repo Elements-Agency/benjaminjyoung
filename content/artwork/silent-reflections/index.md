@@ -10,6 +10,7 @@ progress: Painted with watercolor paint on a cold press cotton watercolor block.
 featured: true
 popularity: 0
 ratio: landscape
+power: 57
 
 type: Painting
 medium: Watercolor

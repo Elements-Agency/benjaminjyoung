@@ -9,6 +9,7 @@ progress: This was done with several painted layers of gouache and watercolor pa
 
 featured: false
 ratio: landscape
+power: 7
 
 type: Painting
 medium: Gouache

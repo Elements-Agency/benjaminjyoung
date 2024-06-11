@@ -9,6 +9,7 @@ progress: This was done with a graphite pencil I had on hand, drawn on spare col
 
 featured: false
 ratio: portrait
+power: 1
 
 type: Drawing
 medium: Graphite Pencil

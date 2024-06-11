@@ -9,6 +9,7 @@ progress: Oil pastels done on pastel paper. This took an evening to work on. It 
 
 featured: false
 ratio: portrait
+power: 2
 
 type: Painting
 medium: Oil Pastel

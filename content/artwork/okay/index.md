@@ -9,6 +9,7 @@ progress: Drawn with graphite pencil on printer paper.
 
 featured: false
 ratio: portrait
+power: 1
 
 type: Drawing
 medium: Graphite Pencil

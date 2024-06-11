@@ -10,6 +10,7 @@ progress: Using a watercolor paint set on cold press wood pulp watercolor paper.
 featured: false
 popularity: 6
 ratio: landscape
+power: 53
 
 type: Painting
 medium: Watercolor

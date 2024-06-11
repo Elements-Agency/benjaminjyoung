@@ -10,6 +10,7 @@ progress: Drawn with oil pastels on black construction paper. This took a few da
 featured: true
 popularity: 12
 ratio: portrait
+power: 3
 
 type: Painting
 medium: Oil Pastel

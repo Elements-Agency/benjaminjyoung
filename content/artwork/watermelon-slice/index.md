@@ -9,6 +9,7 @@ progress: Drawn and painted wet with water and a brush, using watercolor pencils
 
 featured: false
 ratio: square
+power: 5
 
 type: Painting
 medium: Watercolor

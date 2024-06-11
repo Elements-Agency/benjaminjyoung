@@ -10,6 +10,7 @@ progress: Done with a watercolor paint set on cold press wood pulp watercolor pa
 featured: false
 popularity: 11
 ratio: portrait
+power: 1
 
 type: Painting
 medium: Watercolor

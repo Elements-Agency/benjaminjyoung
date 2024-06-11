@@ -10,6 +10,7 @@ progress: Painted with a watercolor paint set, eventually adding some gouache in
 featured: true
 popularity: 7
 ratio: portrait
+power: 75
 
 type: Painting
 medium: Watercolor

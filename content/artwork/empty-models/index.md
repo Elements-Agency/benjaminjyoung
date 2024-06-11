@@ -10,6 +10,7 @@ progress: Drawn with oil pastels on pastel paper. I still don't know if this is 
 featured: false
 popularity: 12
 ratio: portrait
+power: 12
 
 type: Painting
 medium: Oil Pastel

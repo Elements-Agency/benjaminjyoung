@@ -10,6 +10,7 @@ progress: I planned this painting months ago and only did the wash. It sat until
 featured: true
 popularity: 0
 ratio: landscape
+power: 123
 
 type: Painting
 medium: Watercolor

@@ -9,6 +9,7 @@ progress: Acrylic on stretched canvas. It was a quick, small work, art piece. Bu
 
 featured: false
 ratio: portrait
+power: 1
 
 type: Painting
 medium: Acrylic

@@ -9,6 +9,7 @@ progress: Painted on tiny stretched canvas with oil paint, this painting was pai
 featured: true
 popularity: 11
 ratio: square
+power: 20
 
 type: Painting
 medium: Oil

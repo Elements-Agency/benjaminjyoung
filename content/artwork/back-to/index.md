@@ -10,6 +10,7 @@ location: The location this scene is derived from is a part of the Ohio to Erie 
 
 featured: false
 ratio: landscape
+power: 26
 
 type: Painting
 medium: Watercolor

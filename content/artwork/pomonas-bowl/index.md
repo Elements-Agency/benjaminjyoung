@@ -10,6 +10,7 @@ progress: Oil paint on MDF board that I had plastered Gesso all over, that was p
 featured: true
 popularity: 1
 ratio: landscape
+power: 35
 
 type: Painting
 medium: Oil
