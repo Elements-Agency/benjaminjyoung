@@ -105,6 +105,10 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			body {
+				background-image: url("/images/overlay.png"), -moz-linear-gradient(top, rgba(0, 0, 0, 0) 75%, rgba(0, 0, 0, 0.65));
+				background-image: url("/images/overlay.png"), -webkit-linear-gradient(top, rgba(0, 0, 0, 0) 75%, rgba(0, 0, 0, 0.65));
+				background-image: url("/images/overlay.png"), -ms-linear-gradient(top, rgba(0, 0, 0, 0) 75%, rgba(0, 0, 0, 0.65));
+				background-image: url("/images/overlay.png"), linear-gradient(top, rgba(0, 0, 0, 0) 75%, rgba(0, 0, 0, 0.65));
 				background-attachment: fixed;
 				background-size: auto, 100% 100%, 250% auto;
 				background-repeat: repeat, no-repeat, no-repeat;
