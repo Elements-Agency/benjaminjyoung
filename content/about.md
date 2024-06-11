@@ -9,13 +9,31 @@ description: Contemporary impressionism artist. Water colors, oil paint, gouache
 
 ## Benjamin J. Young ##
 
-**Benjamin J. Young** is a contemporary artist whose artwork elegantly bridges the realms of impressionism and realism, crafting a visual narrative that is both evocative and precise. Specializing in watercolors and oils, Young's portfolio is a testament to his skillful manipulation of medium and mood, often blending the two styles to create pieces that are rich in texture and depth. His impressionistic works are characterized by their vibrant, loosely applied strokes, capturing the fleeting moments of light and color with a poetic fluidity. In contrast, his realist pieces showcase meticulous attention to detail, portraying subjects with striking clarity and lifelike precision. Both playing with an masterful understanding of light as it plays with it's environment.
+I'm more of a traditional painter. Focusing a lot on landscapes or paintings that carry some narrative, a lot of times conjoining those two subjects. As a contemporary artist, my style is heavily influenced impressionism, but is still within the realm of realism. The most important objective with my artwork, is if I can get the viewers of it to resonate some emotion or memory, I have done my job well. That's not to say it will always be a happy feeling, but each individual will hopefully have their own interpretation and unique relation to what they see in front of them.
 
-Born in Canton Ohio, Young's ability to oscillate between these two artistic approaches allows for a diverse exploration of themes and subjects, ranging from serene landscapes and bustling city scenes to intimate portraits and still life. His work often reflects a deep appreciation for the natural world, with a particular focus on the interplay of light and shadow, which he masterfully translates onto the canvas to evoke a sense of wonder and contemplation.
+My artistic journey is not on par with most of your every-day artists. I never went to art school. I have no formal education in drawing or painting. I was born with artistic talent. Probably a gift at birth from my father. Everyone will agree I have the gift intelligence. I have out of the box creativity. I can objectively look at my work, identify and harshly judge what I have done wrong, and I'm no stranger to obsession through failure until I can make it right. Often battling with my own perfectionism, as do most artists do.
 
-Despite the traditional roots of impressionism and realism, Young infuses his work with a contemporary sensibility, making it resonate with modern audiences. Benjamin Young's art is a celebration of the visual world, inviting viewers to pause and engage with the beauty that surrounds us. Through his unique blend of impressionism and realism, he continues to contribute to the contemporary art landscape, earning recognition and admiration for his ability to convey complex emotions and narratives through his stunning visual creations.
+### Artist Story ###
 
-[Read More About Ben's Other Activities >](https://blaher.me)
+{{< img class="floatright" width="200px" src="/images/ben-kid.jpg" alt="Child Ben" title="Child Ben" >}}
+
+In childhood, I was told from my earliest memories my drawing skills were phenomenal. The phrase "child prodigy" was thrown around far too much, and I wish it hadn't. I was receptively pressured to refine my skills, eventually being put in to private programs to help me develop my skills. As my maverick personality was in it's adolescence of development, eventually being told what to do constantly ignited my spite of something I used to enjoy of my own free will.
+
+So after my last 8th grade art class (age 15), I never picked up another pencil or any other medium to draw again. As angry and disappointed as that made some people, I also could not see any chance of having a good life with what artists made in that era and chasing fame was a fool's errand to me. It was around that same time I got access to my first computer along with access to the internet. Which to me, meant I had access to an overwhelming amount of free education, which included learning on my own computer programming.
+
+In adulthood, I became a Software Engineer. I would go on for 15 years building that career, being heavily recognized in that field for some of the projects I helped build. Meanwhile, I have lost count of how many LLCs I have owned over the years, some of them failures, and some of them not. Continuing my hunger for learning, and starting businesses on the side in marketing, investments, and even chemistry. I loved my career and accomplishments. I still do. But my career had nothing to do with my come-back in to art...
+
+{{< img class="floatleft" width="200px" src="/images/ben-fat.jpg" alt="Fat Ben" title="Fat Ben" >}}
+
+...It was always about love for me. Sometimes love for us, can have lasting and traumatizing consequences. It was in my early 20s, I would meet someone special. It was during a time of darkness for me, not long after I had split with my highschool sweetheart and prior fiancee. Her loving and supportive nature of me was simply fantastic, but it sadly would only last a few years. The moments I would watch her bright blue eyes close shut for the last time, still haunt me to this day. Through that loss, I suffered a great deal of trauma. More than I could handle. So the for following six years, I began suppressing and shallowing every emotion I had. For six years, I became a shell of a human being. The suppression and lack of caring for my own physical body would go to show.
+
+{{< img class="floatright" width="200px" src="/images/ben-fit.jpg" alt="Fit Ben" title="Fit Ben" >}}
+
+Six years from that fatal day, something cause a small spark to ignite back those feelings. While I refuse to go in to details of what that was now, it wasn't easy at first to finally have to confront the emotions of loss and finally be able to cycle through them. I struggled at first, for a few months, but eventually something caught fire and I would go on to take an incredible amount of action to start taking better care of both my body and mind.
+
+Through those struggles to heal, and at the age of 33, I was reminded that I once used to enjoy making art. Finally, 18 years since stopping art all-together, I picked it up back again. And the rest of the story, is here on display... Hoping to express those emotions I experienced, on to canvas and paper.
+
+---
 
 ## Frequently Asked Questions ##
 
