@@ -8,7 +8,7 @@ author: Benjamin J. Young
 progress: Painted with watercolor paint on a cold press cotton watercolor block. I tried to continue the same Andrew Wyeth technique as this painting's predecessor, Escape.
 
 featured: true
-popularity: 8
+popularity: 7
 ratio: landscape
 power: 41
 

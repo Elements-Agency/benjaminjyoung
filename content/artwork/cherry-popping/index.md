@@ -7,7 +7,8 @@ author: Benjamin J. Young
 
 progress: This was painted using Oil Paint on Canvas Panel. I used layering to paint this canvas. It took time to constantly correct the color and values, as the paint would mix with the existing layers and tint it. There is a bit of layered buildup on the right cherry, as I let that part accidentally sit to long and dry, before I had the chance to blend it like I originally wanted to with the base layer of paint.
 
-featured: false
+featured: true
+popularity: 12
 ratio: square
 power: 27
 

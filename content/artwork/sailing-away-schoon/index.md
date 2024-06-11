@@ -8,7 +8,7 @@ author: Benjamin J. Young
 progress: I planned this painting months ago and only did the wash. It sat until I started working on a commission, after completing Silent Reflections. Sitting in the park outside the Stark County court house, I somehow completed this quickly, working on it in between the drying layers of my other painting. This painting just seemed to "click" and I stayed what I assume most watercolor artists refer as "loose".
 
 featured: true
-popularity: 0
+popularity: 1
 ratio: landscape
 power: 123
 

@@ -8,7 +8,7 @@ author: Benjamin J. Young
 progress: Painted with oil paint on canvas panel. Painting part by part, instead of layering paints, it took an extensive amount of time to mix and color match, and ensure I touched on every detail of the helmet and lighting. This was my longest and most complicated artwork as of yet. But it has proven how much more heighten the realism turned out to be.
 
 featured: true
-popularity: 10
+popularity: 11
 ratio: landscape
 power: 38
 

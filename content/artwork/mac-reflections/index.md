@@ -8,7 +8,7 @@ author: Benjamin J. Young
 progress: Drawn with oil pastels on black construction paper. This took a few days of stepping away from the art, getting a fresh pair of eyes, and continuing to develop the depth of the artwork.
 
 featured: true
-popularity: 12
+popularity: 18
 ratio: portrait
 power: 3
 

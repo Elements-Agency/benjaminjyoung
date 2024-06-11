@@ -7,7 +7,8 @@ author: Benjamin J. Young
 
 progress: Drawn with watercolor pencil on cold press wood pulp watercolor paper. I used a wash on the background, using water, to turn the pencil shading in to paint. The subject of the flower was left dried as a drawing.
 
-featured: false
+featured: true
+popularity: 16
 ratio: portrait
 power: 13
 

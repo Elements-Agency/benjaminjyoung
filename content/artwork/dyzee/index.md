@@ -8,7 +8,7 @@ author: Benjamin J. Young
 progress: Done with a watercolor paint set on cold press wood pulp watercolor paper, taped down. This took a few stages of painting a layer and waiting for dry time. So it took a few days.
 
 featured: false
-popularity: 11
+popularity: 20
 ratio: portrait
 power: 1
 

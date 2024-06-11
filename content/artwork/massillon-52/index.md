@@ -9,7 +9,7 @@ progress: Painted with watercolor on cold press cotton watercolor block. This wa
 location: This scene takes place in Massillon Ohio, at the Massillon Washington Highschool Paul Brown Stadium. During one of the Massillon Tigers vs Canton McKinley football games.
 
 featured: true
-popularity: 9
+popularity: 14
 ratio: landscape
 power: 22
 

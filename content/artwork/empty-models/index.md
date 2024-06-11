@@ -8,7 +8,7 @@ author: Benjamin J. Young
 progress: Drawn with oil pastels on pastel paper. I still don't know if this is considered a "painting" or "drawing". The majority of the artwork was done in two evenings. But that was the build the basic shapes. From there it took a week of coming back to it and fixing details or filling in imperfections. The old pastels I had on hand did not make things easier.
 
 featured: false
-popularity: 12
+popularity: 17
 ratio: portrait
 power: 12
 

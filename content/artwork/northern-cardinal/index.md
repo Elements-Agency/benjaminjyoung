@@ -8,7 +8,7 @@ author: Benjamin J. Young
 progress: Watercolor pencil drawn on cold press watercolor wood pulp paper. Anytime I do realism such as this, it's quite time intensive. This artwork took a few weeks of stages of coming back to it and doing a little progress at a time.
 
 featured: true
-popularity: 4
+popularity: 9
 ratio: portrait
 power: 63
 
