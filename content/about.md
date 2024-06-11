@@ -9,7 +9,7 @@ description: Contemporary impressionism artist. Water colors, oil paint, gouache
 
 ## Benjamin J. Young ##
 
-I'm more of a traditional painter. Focusing a lot on landscapes or paintings that carry some narrative, a lot of times conjoining those two subjects. As a contemporary artist, my style is heavily influenced impressionism, but is still within the realm of realism. The most important objective with my artwork, is if I can get the viewers of it to resonate some emotion or memory, I have done my job well. That's not to say it will always be a happy feeling, but each individual will hopefully have their own interpretation and unique relation to what they see in front of them.
+I'm more of a traditional painter. Focusing a lot on landscapes or paintings that carry some narrative, a lot of times conjoining those two subjects. As a contemporary artist, my style is heavily influenced by impressionism, but is still within the realm of realism. The most important objective with my artwork, is if I can get the viewers of it to resonate some emotion or memory, I have done my job well. That's not to say it will always be a happy feeling, but each individual will hopefully have their own interpretation and unique relation to what they see in front of them.
 
 My artistic journey is not on par with most of your every-day artists. I never went to art school. I have no formal education in drawing or painting. I was born with artistic talent. Probably a gift at birth from my father. Everyone will agree I have the gift intelligence. I have out of the box creativity. I can objectively look at my work, identify and harshly judge what I have done wrong, and I'm no stranger to obsession through failure until I can make it right. Often battling with my own perfectionism, as do most artists do.
 
@@ -29,9 +29,11 @@ In adulthood, I became a Software Engineer. I would go on for 15 years building 
 
 {{< img class="floatright" width="200px" src="/images/ben-fit.jpg" alt="Fit Ben" title="Fit Ben" >}}
 
-Six years from that fatal day, something cause a small spark to ignite back those feelings. While I refuse to go in to details of what that was now, it wasn't easy at first to finally have to confront the emotions of loss and finally be able to cycle through them. I struggled at first, for a few months, but eventually something caught fire and I would go on to take an incredible amount of action to start taking better care of both my body and mind.
+Six years from that fatal day, something caused a small spark to ignite back those feelings. While I refuse to go in to details of what that was now, it wasn't easy at first to finally have to confront the emotions of loss and finally be able to cycle through them. I struggled at first, for a few months, but eventually something caught fire and I would go on to take an incredible amount of action to start taking better care of both my body and mind.
 
-Through those struggles to heal, and at the age of 33, I was reminded that I once used to enjoy making art. Finally, 18 years since stopping art all-together, I picked it up back again. And the rest of the story, is here on display... Hoping to express those emotions I experienced, on to canvas and paper.
+Through those struggles to heal, and at the age of 33, I was reminded that I once used to enjoy making art. Finally, 18 years since stopping art all-together, I picked it up back again. I was quickly reminded I was good at it. This was when I first began painting as well. And the rest of the story, is here on display... Hoping to express those emotions I experienced, on to canvas and paper. For you to all enjoy and appreciate.
+
+Thank you, for listening to this Young man's story.
 
 ---
 
