@@ -28,7 +28,7 @@ status: sale
 products:
     - id: 654299512
       name: Original Painting
-      price: $699
+      price: $599
 ---
 
 The **Massillon Helmet** is an oil painting depicting a solitary, black Massillon Tiger's American football helmet in a three-quarter view, featuring a bold orange Massillon Ohio letter 'M' logo, symbolizing the Washington Highschool team's identity and spirit. I have rendered the subject with a strong attention to detail, from the subtle reflections and shadows on the helmet's glossy surface to the intricate structure of the face mask and the secure clasps. The background is a neutral, mixing with the multiple light source hues, with gradient shades that throws the focus entirely on the helmet, evoking a sense of nostalgia and Tiger pride, typical of any sports memorabilia. T-I-G!

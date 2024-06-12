@@ -24,7 +24,7 @@ work:
  - hours: 6
  - total: $90
 
-sale price: $299
+sale price: $199
 net:
 buyer: 
 ---
