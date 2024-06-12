@@ -28,7 +28,7 @@ status: sale
 products:
     - id: 645940870
       name: Original Drawing
-      price: $149
+      price: $99
 ---
 
 The Mac Reflections painting depicts a close-up impressionism portrait of myself, rendered with a strong emphasis on texture and a limited color palette, to show it's reflective nature. My figure is implied to be  emerging from a dark background, with light only faintly illuminating the right side of the face. The strokes are expressive and sculptural, creating an array of thick, impasto strokes that give the image a dynamic and tactile quality. My expression is pensive and subdued, with eyes cast downward and away from the viewer, adding to the painting’s introspective quality. The overall effect is one of profound reflection, with the textured brushwork and dramatic chiaroscuro suggesting a moment captured in time, where the inner world of my personal subject is as significant as the outer representation. It’s a powerful image that invites the viewer to consider the subject’s thoughts and feelings.
