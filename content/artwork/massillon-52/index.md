@@ -23,7 +23,7 @@ size: 16.1x12.2in (410x320mm)
 aliases: [/artwork/towniest-towns-football, /massillon-52]
 images: ['painting.jpg']
 videos: []
-tags: [massillon, ohio, tigers, football, sports, field, autumn, team, watercolor, paint, realism, figure, outdoors, narrative, for sale]
+tags: [massillon, ohio, tigers, joey, hallett, football, sports, field, autumn, team, watercolor, paint, realism, figure, outdoors, narrative, for sale]
 
 status: sale
 products:

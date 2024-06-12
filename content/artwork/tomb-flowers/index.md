@@ -17,18 +17,34 @@ medium: Watercolor Pencil
 material: Cold Press Pulp Paper
 category: Realism
 subject: Floral
-size: 
+size: 8x12.5in (20.32x31.75cm)
 
-aliases: [/tomb-flowers]
+materials:
+  - medium: Kaloir Watercolor Pencils
+  - on: 
+  - frame: Cyrus Custom Framing
+
+aliases: [/tomb-flowers, /artwork/ajs-grave-flowers]
 images: ['painting.jpg']
 videos: []
-tags: [flower, white, lily, blue, drawing, watercolor, pencil, drawing, realism, floral, for sale, patina]
+tags: [flower, white, lily, andrea, hartman, blue, drawing, watercolor, pencil, drawing, realism, floral, for sale, patina]
+
+locations:
+  - patina: 2024-05-18 - current
+  - home: 2024-05-02 - 2024-05-18
+  - cyrus: 2024-04-18 - 2024-05-02
+  - home: 2024-03-14 - 2024-04-18
+
+hours: 8
+frame cost: $135
 
 status: sale
 products:
     - id: 654233365
       name: Original Painting
       price: $199
+
+buyer: 
 ---
 
 **Tomb Flowers** is a watercolor pencil drawing, with a brushed and washed colorful background, of white lilies. That's all I really have to say about this artwork piece.
