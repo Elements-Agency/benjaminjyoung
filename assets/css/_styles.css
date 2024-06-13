@@ -603,9 +603,21 @@ input, select, textarea {
 					-webkit-flex-shrink: 1;
 					-ms-flex-shrink: 1;
 					flex-shrink: 1;
-					width: calc(50vw - 15px) !important;
+					width: calc(60vw) !important;
 					margin: 2.5px;
 					box-shadow: 0 0 0 5px #ffffff;
+				}
+
+				#main .item.span-portrait {
+					height: calc(80vw) !important;
+				}
+
+				#main .item.span-square {
+					height: calc(60vw) !important;
+				}
+
+				#main .item.span-landscape {
+					height: calc(50vw) !important;
 				}
 
 					#main .item.intro {
@@ -626,14 +638,6 @@ input, select, textarea {
 					#main .item.thumb h2 {
 						display: none;
 					}
-
-		}
-
-		@media screen and (max-width: 480px) {
-
-			#main .item {
-				height: 10em;
-			}
 
 		}
 
@@ -1026,7 +1030,7 @@ input, select, textarea {
 	input[type="button"],
 	button,
 	.button {
-		background-color: rgba(255, 255, 255, 0.2);
+		background-color: rgba(255, 255, 255, 0.50);
 		box-shadow: inset 0 0 0 2px #212931;
 		color: #212931;
 	}

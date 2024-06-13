@@ -33,19 +33,19 @@
             {{ if lt $i 7 }}
 
               {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
-              {{ $thumbnail := $thumbnail.Fit "270x270 Center" }}
-              {{ $thumbnail := $thumbnail.Resize "270x webp q90" }}
+              {{ $thumbnail := $thumbnail.Fit "600x600 Center" }}
+              {{ $thumbnail := $thumbnail.Resize "600x webp q90" }}
 
               {{ if eq $.Params.ratio "landscape" }}
                 {{ $thumbnail = .Resources.GetMatch "painting.jpg" }}
-                {{ $thumbnail := $thumbnail.Fit "380x270 Center" }}
-                {{ $thumbnail := $thumbnail.Resize "380x webp q90" }}
+                {{ $thumbnail := $thumbnail.Fit "600x400 Center" }}
+                {{ $thumbnail := $thumbnail.Resize "600x webp q90" }}
               {{ end }}
 
               {{ if eq $.Params.ratio "portrait" }}
                 {{ $thumbnail = .Resources.GetMatch "painting.jpg" }}
-                {{ $thumbnail := $thumbnail.Fit "210x270 Center" }}
-                {{ $thumbnail := $thumbnail.Resize "210x webp q90" }}
+                {{ $thumbnail := $thumbnail.Fit "600x700 Center" }}
+                {{ $thumbnail := $thumbnail.Resize "600x webp q90" }}
               {{ end }}
 
               <a href="{{ .RelPermalink }}" class="image" title="{{ .Title }} ({{ .Date| time.Format `2006` }})">
@@ -96,20 +96,21 @@
 
           {{ range $i,$p := (sort (where $section "Params.featured" true) "Params.popularity" "asc") }}
             {{ if gt $i 6 }}
+
               {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
-              {{ $thumbnail := $thumbnail.Fit "270x270 Center" }}
-              {{ $thumbnail := $thumbnail.Resize "270x webp q90" }}
+              {{ $thumbnail := $thumbnail.Fit "600x600 Center" }}
+              {{ $thumbnail := $thumbnail.Resize "600x webp q90" }}
 
               {{ if eq $.Params.ratio "landscape" }}
                 {{ $thumbnail = .Resources.GetMatch "painting.jpg" }}
-                {{ $thumbnail := $thumbnail.Fit "330x270 Center" }}
-                {{ $thumbnail := $thumbnail.Resize "330x webp q90" }}
+                {{ $thumbnail := $thumbnail.Fit "600x400 Center" }}
+                {{ $thumbnail := $thumbnail.Resize "600x webp q90" }}
               {{ end }}
 
               {{ if eq $.Params.ratio "portrait" }}
                 {{ $thumbnail = .Resources.GetMatch "painting.jpg" }}
-                {{ $thumbnail := $thumbnail.Fit "210x270 Center" }}
-                {{ $thumbnail := $thumbnail.Resize "210x webp q90" }}
+                {{ $thumbnail := $thumbnail.Fit "600x700 Center" }}
+                {{ $thumbnail := $thumbnail.Resize "600x webp q90" }}
               {{ end }}
 
               <a href="{{ .RelPermalink }}" class="image" title="{{ .Title }} ({{ .Date| time.Format `2006` }})">
@@ -158,7 +159,7 @@
     <section id="footer">
       <section>
         {{ partial "site-navigation.html" .}}
-        
+
         <address style="color: #aaa;">
           324 Cleveland Ave NW.
           Canton, Ohio 44702
