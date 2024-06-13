@@ -56,7 +56,7 @@
                 </div></div></div>
 
                 <div style="float:left; padding:0 0 0 1.5em; text-align:left;">
-                  <strong style="color:black;">{{ .Title }}</strong>
+                  <strong style="color:black;">{{ .Title }} &gt;</strong>
                 </div>
 
                 <div style="color:black; float:right; padding:0 1.5em 0 0; text-align:right;">
@@ -72,6 +72,14 @@
                     {{ end }}
                 </div>
               </a>
+
+              <div class="mobmore">
+                {{ if or (eq .Params.status "sold") (eq .Params.status "gift") }}
+                  <a class="button" href="{{ .RelPermalink }}#purchase">Purchase Prints</a>
+                {{ else }}
+                  <a class="button" href="{{ .RelPermalink }}#purchase">Purchase Original</a>
+                {{ end }}
+              </div>
             {{ end }}
           {{ end }}
         {{ end }}
@@ -112,7 +120,7 @@
                 </div></div></div>
 
                 <div style="float:left; padding:0 0 0 1.5em; text-align:left;">
-                  <strong style="color:black;">{{ .Title }}</strong>
+                  <strong style="color:black;">{{ .Title }} &gt;</strong>
                 </div>
 
                 <div style="color:black; float:right; padding:0 1.5em 0 0; text-align:right;">
@@ -128,6 +136,14 @@
                     {{ end }}
                 </div>
               </a>
+
+              <div class="mobmore">
+                {{ if or (eq .Params.status "sold") (eq .Params.status "gift") }}
+                  <a class="button" href="{{ .RelPermalink }}#purchase">Purchase Prints</a>
+                {{ else }}
+                  <a class="button" href="{{ .RelPermalink }}#purchase">Purchase Original</a>
+                {{ end }}
+              </div>
             {{ end }}
           {{ end }}
         {{ end }}
@@ -142,7 +158,7 @@
     <section id="footer">
       <section>
         {{ partial "site-navigation.html" .}}
-
+        
         <address style="color: #aaa;">
           324 Cleveland Ave NW.
           Canton, Ohio 44702
