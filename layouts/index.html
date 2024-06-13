@@ -74,6 +74,10 @@
               </a>
 
               <div class="mobmore">
+                <p>
+                  {{ .Description }}
+                </p>
+                <br>
                 {{ if or (eq .Params.status "sold") (eq .Params.status "gift") }}
                   <a class="button" href="{{ .RelPermalink }}#purchase">Purchase Prints</a>
                 {{ else }}
@@ -139,6 +143,10 @@
               </a>
 
               <div class="mobmore">
+                <p>
+                  {{ .Description }}
+                </p>
+                <br>
                 {{ if or (eq .Params.status "sold") (eq .Params.status "gift") }}
                   <a class="button" href="{{ .RelPermalink }}#purchase">Purchase Prints</a>
                 {{ else }}
