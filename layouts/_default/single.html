@@ -92,11 +92,7 @@
 
             <article>
               <h2 id="about">About the {{ .Title }} Painting</h2>
-
-              <a href="/about">
-                <img class="benprolite" width="150px" height="150px" src="/images/ben-small.webp" alt="Photo of Benjamin J. Young" title="Ben Young">
-              </a>
-
+              
               <p>
                 {{ if not .Date.IsZero }}
                   <time class="date" {{ printf `datetime="%s"` (.Date.Format "2006-01-02T15:04:05Z07:00") | safeHTMLAttr }}>
