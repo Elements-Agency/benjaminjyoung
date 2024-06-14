@@ -8,7 +8,7 @@ progress: Painted on tiny stretched canvas with oil paint, this painting was pai
 
 featured: false
 ratio: square
-power: 20
+power: 21
 
 type: Painting
 medium: Oil

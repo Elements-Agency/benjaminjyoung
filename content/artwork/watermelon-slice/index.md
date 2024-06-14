@@ -9,7 +9,7 @@ progress: Drawn and painted wet with water and a brush, using watercolor pencils
 
 featured: false
 ratio: square
-power: 5
+power: 7
 
 type: Painting
 medium: Watercolor
@@ -18,15 +18,28 @@ category: Impressionism
 subject: Still Life
 size: 
 
+materials:
+  - medium: Kaloir Watercolor Pencils
+  - on: 
+  - frame: 
+
 aliases: [/watermelon-slice, /artwork/standing-watermelon]
 images: ['painting.jpg']
 videos: []
 tags: [watermelon, slice, juicy, red, melon, food, summer colors, seeds, watercolor, pencil, drawing, still life]
 
+locations:
+  - home: 2023-12-27 - current
+
+hours: 1
+frame cost: 
+
 products:
     - id: 647330001
       name: Canvas Print
       price: $79
+
+buyer: 
 ---
 
 Juicy! A fruity painting that depicts a slice of watermelon. Watermelon Slice is a realistic drawing that captures the vibrant red flesh of the fruit, complete with black seeds scattered throughout. The watermelon slice has a green rind, transitioning from a darker green on the outside to a paler green towards the inner red flesh. The drawing has a textured appearance from the water colored pencils, and there’s a gentle shadow under the slice, giving it a sense of depth and dimension. The background is plain and lightly textured. Hang it up in your summer themed kitchen, like the basic, normal, coffee drinking, white person you are.

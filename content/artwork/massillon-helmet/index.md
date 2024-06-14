@@ -10,7 +10,7 @@ progress: Painted with oil paint on canvas panel. Painting part by part, instead
 featured: true
 popularity: 9
 ratio: landscape
-power: 38
+power: 48
 
 type: Painting
 medium: Oil

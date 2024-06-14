@@ -9,7 +9,7 @@ progress: Drawn with oil pastels on black construction paper. This took a few da
 
 featured: false
 ratio: portrait
-power: 3
+power: 9
 
 type: Painting
 medium: Oil Pastel

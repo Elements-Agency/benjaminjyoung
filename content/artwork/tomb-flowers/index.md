@@ -9,7 +9,7 @@ progress: Drawn with watercolor pencil on cold press wood pulp watercolor paper.
 
 featured: false
 ratio: portrait
-power: 13
+power: 15
 
 type: Drawing
 medium: Watercolor Pencil

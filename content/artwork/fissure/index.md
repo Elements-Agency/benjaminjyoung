@@ -9,7 +9,7 @@ progress: The painting was quick and dirty. Pretty simple. The expression only l
 
 featured: false
 ratio: landscape
-power: 0
+power: 2
 
 type: Painting
 medium: Watercolor

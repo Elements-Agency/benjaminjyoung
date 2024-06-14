@@ -9,7 +9,7 @@ progress: This was painted using Oil Paint on Canvas Panel. I used layering to p
 
 featured: false
 ratio: square
-power: 27
+power: 37
 
 type: Painting
 medium: Oil

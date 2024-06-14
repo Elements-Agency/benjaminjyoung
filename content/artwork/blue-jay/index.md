@@ -10,7 +10,7 @@ progress: This was drawn with watercolor pencils on cold press wood pulp waterco
 featured: true
 popularity: 6
 ratio: landscape
-power: 40
+power: 41
 
 type: Drawing
 medium: Watercolor Pencil

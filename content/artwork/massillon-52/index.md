@@ -11,7 +11,7 @@ location: This scene takes place in Massillon Ohio, at the Massillon Washington 
 featured: true
 popularity: 10
 ratio: landscape
-power: 22
+power: 24
 
 type: Painting
 medium: Watercolor

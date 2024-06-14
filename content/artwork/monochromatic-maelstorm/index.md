@@ -9,7 +9,7 @@ progress: Watercolor of cold press wood pulp paper, taped down. Quick and easy. 
 
 featured: false
 ratio: landscape
-power: 0
+power: 2
 
 type: Painting
 medium: Watercolor

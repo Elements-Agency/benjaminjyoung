@@ -9,7 +9,7 @@ progress: Using a water soluble graphite pencil on cold press watercolor wodo pu
 
 featured: false
 ratio: landscape
-power: 0
+power: 1
 
 type: Painting
 medium: Water Soluble Graphite

@@ -8,9 +8,8 @@ author: Benjamin J. Young
 progress: Using a watercolor paint set on cold press wood pulp watercolor paper. This artwork took forever to do. Similar to Fry's Tree, the progress stretched out and the skills had developed past of when I started. I had to force myself to complete this one.
 
 featured: false
-popularity: 6
 ratio: landscape
-power: 53
+power: 68
 
 type: Painting
 medium: Watercolor
@@ -19,16 +18,32 @@ category: Hybrid Impressionism
 subject: Landscape
 size: 12x9in (30.4x22.8cm)
 
-aliases: [/young-farmhouse, /artwork/young-farmhome]
+materials:
+  - medium: Crayola Watercolor Paint
+  - on: Artist Loft Cold Press Watercolor Paper
+  - frame: Cyrus Custom Framing
+
+aliases: [/young-farmhouse, /artwork/young-farmhome, /artwork/young-farm, /artwork/jung-bauernhaus]
 images: ['painting.jpg']
 videos: [https://www.instagram.com/p/C3j7Q9FAkf6/, https://youtu.be/WWJK-CMWE_Q]
 tags: [farm, house, brick, home, east sparta, ohio, swing, walnut, tree, countryside, architecture, outdoors, watercolor, paint, landscape, for sale, patina]
+
+locations:
+  - patina: 2024-05-18 - current
+  - home: 2024-04-12 - 2024-05-18
+  - cyrus: 2024-03-29 - 2024-04-12
+  - home: 2024-02-10 - 2024-04-12
+
+hours: 6
+frame cost: $110
 
 status: sale
 products:
     - id: 648124011
       name: Original Painting
       price: $199
+
+buyer: 
 ---
 
 This **Young Farmhouse** painting portrays a rustic, rural scene. Dominating the left foreground is a large, dark brown walnut tree, its detailed bark texture suggesting an old and sturdy presence. From one of its branches, a swing with a wooden seat dangles, its ropes hanging limply, waiting for a visitor and adding balance to the painting. Further back, the scene opens to a golden field, which could be a harvested crop, bordered by a dense tree line that marks the edge of a forest. The trees are evergreens, standing tall and dark green against the horizon.

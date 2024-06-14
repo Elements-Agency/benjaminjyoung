@@ -10,7 +10,7 @@ progress: Watercolor pencil drawn on cold press watercolor wood pulp paper. Anyt
 featured: true
 popularity: 7
 ratio: portrait
-power: 63
+power: 163
 
 type: Drawing
 medium: Watercolor Pencil
