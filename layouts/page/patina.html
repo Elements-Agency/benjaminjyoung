@@ -34,11 +34,18 @@
 
             <p>
                 If you have any questions while I am not there, feel free to ask the front desk or head over to my <a href="/contact">contact page</a>.
-                Here are links to more information on all the current artwork that I currently have at Patina:
+                Please make any purchases through the front desk, if I am not there available to help for purchase.
+            </p>
+
+            <h3>Current Works at Patina</h3>
+
+            <p>
+                Here are links for the current artworks that reside at <a href="http://patinaartscentre.com/">Patina Art Centre</a>.
+                Feel free to click any of them, to read more information.
             </p>
 
             {{ $posts := slice }}
-            {{ range .Site.RegularPages }}
+            {{ range (sort .Site.RegularPages "Params.power" "desc") }}
                 {{ if in .Params.tags "patina" }}
                     {{ $posts = $posts | append . }}
                 {{ end }}

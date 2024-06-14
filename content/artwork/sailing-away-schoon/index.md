@@ -22,7 +22,7 @@ size: 14.1x10.2in (36x26cm)
 aliases: [/sailing-away-schoon, /artwork/sailing-away]
 images: ['painting.jpg']
 videos: []
-tags: [schooner, ocean, mist, sea, water, boat, waves, mountains, watercolor, paint, landscape, narrative, outdoors, for sale, patina]
+tags: [schooner, ocean, mist, sea, water, boat, waves, mountains, watercolor, paint, landscape, narrative, outdoors, for sale, patina, favorite]
 
 status: sale
 products:
