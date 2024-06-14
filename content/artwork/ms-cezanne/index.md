@@ -8,7 +8,6 @@ author: Benjamin J. Young
 progress: Oil pastels done on pastel paper. This took an evening to work on. It was meant to go quick and be expressive, to get that enjoyment of impressionism and force myself away from perfectionism.
 
 featured: false
-popularity: 19
 ratio: portrait
 power: 2
 

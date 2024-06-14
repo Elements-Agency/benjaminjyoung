@@ -8,7 +8,7 @@ author: Benjamin J. Young
 progress: This was drawn with watercolor pencils on cold press wood pulp watercolor paper. Anytime I draw with any colored pencils, it takes many going over in layers to intensify and blend the colors.
 
 featured: true
-popularity: 8
+popularity: 6
 ratio: landscape
 power: 40
 

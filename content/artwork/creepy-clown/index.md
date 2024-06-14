@@ -6,8 +6,7 @@ alt: This painting by Ben Young is a close up oil painting of creepy looking clo
 
 progress: Painted on tiny stretched canvas with oil paint, this painting was painted like most of my realism works. After drawing a basic pencil guide, in this case just a circle for the nose and the lines for the eyes and smile. Starting the painting process from the top left corner and painting my way down to the bottom right corner, section by section. To avoid smudging my hand on existing wet paint. Being a small work, it only took a few hours to complete this artwork. Most of that time was spent at the table with my date, as they painted their own tiny canvas with me.
 
-featured: true
-popularity: 15
+featured: false
 ratio: square
 power: 20
 

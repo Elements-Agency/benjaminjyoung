@@ -8,7 +8,7 @@ author: Benjamin J. Young
 progress: Painted with watercolor paint on a cold press cotton watercolor block. I built up the background first in many layers until I had what I wanted, then used watercolor pencil with water to build up the boat and darker ripple parts. Using the watercolor pencil again, but keeping it dry on the lighter ripple effects. Also using hints of yellow pencil and other small detailed corrections through the rest of the painting.
 
 featured: true
-popularity: 5
+popularity: 4
 ratio: landscape
 power: 57
 

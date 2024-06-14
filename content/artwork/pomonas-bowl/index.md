@@ -8,7 +8,7 @@ author: Benjamin J. Young
 progress: Oil paint on MDF board that I had plastered Gesso all over, that was previously existing art print from my childhood. Further refining my technique from the Massillon Helmet realism painting, I objectively forced myself to use abstract brushwork for not only blending, but for non-hard lines as well. This became my longest time consuming artwork, yet.
 
 featured: true
-popularity: 10
+popularity: 8
 ratio: landscape
 power: 35
 

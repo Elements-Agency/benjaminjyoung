@@ -8,8 +8,7 @@ author: Benjamin J. Young
 progress: This painting was done with watercolor on a cold press cotton paper block. I mixed in white gouache in to a perfume bottle, to spray over as a final step. This took quite some time and a many number of glazing layers. To create the depth of trees, I of course had to brush several layers of trees.
 location: The location this scene is derived from is a part of the Ohio to Erie Canal Towpath, situated between Canal Fulton and Massillon Ohio, likely Jackson township at that point of the trail. This part of the trail I have both hiked and cycled through easily over thousands of times, so I am familiar with this area like the back of my hand. The trail is especially peaceful after a fresh winter snow, at which point I love for it's meditative properties.
 
-featured: true
-popularity: 13
+featured: false
 ratio: landscape
 power: 26
 

@@ -8,7 +8,7 @@ author: Benjamin J. Young
 progress: Painted with a watercolor paint set, eventually adding some gouache in to the darker elements, on cold press wood pulp watercolor paper, that I had to tape down (and thus the white trim border). This painting took way longer than I wanted it too. It took many layers to get the right color and value. I had to mix in gouache with the watercolors to sometimes get the opaque I desired. I began to tire of working on it, so the progress stretched out. By the time I decided for forcefully wrap it up, I felt my skills have drastically improved and the base of the painting did not meet my standards.
 
 featured: true
-popularity: 4
+popularity: 5
 ratio: portrait
 power: 75
 
