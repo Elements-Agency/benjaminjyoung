@@ -31,17 +31,13 @@ timeout = '600'
     pageRef = '/artwork'
     weight = 30
 [[menus.main]]
-    name = 'Shop'
-    pageRef = '/Shop'
+    name = 'News'
+    pageRef = '/news'
     weight = 40
-[[menus.main]]
-    name = 'Commissions'
-    pageRef = '/commissions'
-    weight = 50
 [[menus.main]]
     name = 'Contact'
     pageRef = '/contact'
-    weight = 60
+    weight = 50
 
 [[menus.inside]]
     name = 'Home'
@@ -60,13 +56,17 @@ timeout = '600'
     pageRef = '/Shop'
     weight = 40
 [[menus.inside]]
+    name = 'News'
+    pageRef = '/news'
+    weight = 50
+[[menus.inside]]
     name = 'Commissions'
     pageRef = '/commissions'
-    weight = 50
+    weight = 60
 [[menus.inside]]
     name = 'Contact'
     pageRef = '/contact'
-    weight = 60
+    weight = 70
 
 [services]
   [services.googleAnalytics]

@@ -1,0 +1,7 @@
+{{ if and (.Get "href") (.Get "text") }}
+    <a class="button" href="{{ (.Get "text") }}">
+        {{ (.Get "text") }}
+    </a>
+{{ end }}
+<br>
+<br>
