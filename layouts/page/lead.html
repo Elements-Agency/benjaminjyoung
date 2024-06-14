@@ -4,6 +4,21 @@
 
 {{ define "scripts" }}
     {{ partial "inside-scripts.html" . }}
+
+    <script>
+      (function (s, e, n, d, er) {
+        s['Sender'] = er;
+        s[er] = s[er] || function () {
+          (s[er].q = s[er].q || []).push(arguments)
+        }, s[er].l = 1 * new Date();
+        var a = e.createElement(n),
+            m = e.getElementsByTagName(n)[0];
+        a.async = 1;
+        a.src = d;
+        m.parentNode.insertBefore(a, m)
+      })(window, document, 'script', 'https://cdn.sender.net/accounts_resources/universal.js', 'sender');
+      sender('3038bbc46b5014')
+    </script>
 {{ end }}
 
 {{ define "main" }}
@@ -26,10 +41,16 @@
               {{- .Content -}}
             </div>
 
+            <div id="lead">
+              <div style="text-align:center;" class="sender-form-field" data-sender-form-id="lxeno1ridjlwgac5vxp"></div>
+            </div>
+
+            <br>
+
             {{ partial "favorites.html" . }}
 
             <p style="text-align: center;">
-                <a href="/artwork" class="button">View All Artwork &gt;</a>
+                <a href="/" class="button">View Artwork &gt;</a>
             </p>
         </section>
     </div>
