@@ -56,6 +56,9 @@
                 </div></div></div>
 
                 <div style="float:left; padding:0 0 0 1.5em; text-align:left;">
+                  {{ if lt (sub (now.Unix) (.Date.Unix)) 2592000 }}
+                    <strong style="color:#043908;">(New)</strong>
+                  {{ end }}
                   <strong style="color:black;">{{ .Title }} &gt;</strong>
                 </div>
 
@@ -125,6 +128,9 @@
                 </div></div></div>
 
                 <div style="float:left; padding:0 0 0 1.5em; text-align:left;">
+                  {{ if lt (sub (now.Unix) (.Date.Unix)) 2592000 }}
+                    <strong style="color:#043908;">(New)</strong>
+                  {{ end }}
                   <strong style="color:black;">{{ .Title }} &gt;</strong>
                 </div>
 
