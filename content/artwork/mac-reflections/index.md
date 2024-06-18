@@ -11,8 +11,8 @@ aliases: [/mac-reflections]
 images: ['painting.jpg']
 videos: [https://www.instagram.com/p/C3mpPeQgORk/, https://youtube.com/shorts/JNBpBdWcFR0]
 
-featured: false
-order: 99
+featured: true
+order: 18
 ratio: portrait
 power: 9
 favorite: true
