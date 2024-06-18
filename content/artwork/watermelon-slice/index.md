@@ -37,6 +37,7 @@ inventory:
 hours: 1
 frame cost: 
 
+status: sale
 products:
     - id: 647330001
       name: Canvas Print

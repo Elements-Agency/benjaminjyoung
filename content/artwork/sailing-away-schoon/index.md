@@ -51,8 +51,6 @@ This watercolor painting, **Sailing Away Schoon**, depicts a solitary schooner b
 
 {{< purchase >}}
 
-**Prints will be for sale SOON.**
-
 ### Inspiration ###
 
 I honestly just wanted to work on some water effect techniques. I picked adding a sailboat and misty mountains in the background as a secondary objective. Seemed like a cool idea.
