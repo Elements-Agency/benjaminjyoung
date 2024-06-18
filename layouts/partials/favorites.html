@@ -1,6 +1,6 @@
 {{ $posts := slice }}
 {{ range (sort .Site.RegularPages "Params.power" "desc") }}
-    {{ if in .Params.tags "favorite" }}
+    {{ if .Params.favorite }}
         {{ $posts = $posts | append . }}
     {{ end }}
 {{ end }}

@@ -29,7 +29,7 @@
           {{ $section_name := index (.Site.Params.mainSections) 0 }}
           {{ $n_posts := $.Param "recent_posts_number" | default 120 }}
 
-          {{ range $i,$p := (sort (where $section "Params.featured" true) "Params.popularity" "asc") }}
+          {{ range $i,$p := (sort (where $section "Params.featured" true) "Params.order" "asc") }}
             {{ if lt $i 5 }}
 
               {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
@@ -98,7 +98,7 @@
           {{ $section_name := index (.Site.Params.mainSections) 0 }}
           {{ $n_posts := $.Param "recent_posts_number" | default 120 }}
 
-          {{ range $i,$p := (sort (where $section "Params.featured" true) "Params.popularity" "asc") }}
+          {{ range $i,$p := (sort (where $section "Params.featured" true) "Params.order" "asc") }}
             {{ if gt $i 4 }}
 
               {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
@@ -159,7 +159,7 @@
 
         <div class="item intro">
           <a class="bigtext" href="/all"><strong>View All Artwork &gt;</strong></a>
-          <p>Discover the entire collection of <a href="/tags/paint">paintings</a> and <a href="/tags/drawing">drawings</a> by Midwest and Ohio native artist <a href="/about">Benjamin Young</a>.</p>
+          <p>Discover the entire collection of <a href="/categories/painting">paintings</a> and <a href="/categories/drawing">drawings</a> by Midwest and Ohio native artist <a href="/about">Benjamin Young</a>.</p>
         </div>
       </div>
     </section>

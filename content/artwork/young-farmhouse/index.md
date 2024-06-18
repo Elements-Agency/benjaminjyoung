@@ -7,28 +7,31 @@ author: Benjamin J. Young
 
 progress: Using a watercolor paint set on cold press wood pulp watercolor paper. This artwork took forever to do. Similar to Fry's Tree, the progress stretched out and the skills had developed past of when I started. I had to force myself to complete this one.
 
-featured: false
-ratio: landscape
-power: 68
-
-type: Painting
-medium: Watercolor
-material: Cold Press Pulp Paper
-category: Hybrid Impressionism
-subject: Landscape
-size: 12x9in (30.4x22.8cm)
-
-materials:
-  - medium: Crayola Watercolor Paint
-  - on: Artist Loft Cold Press Watercolor Paper
-  - frame: Cyrus Custom Framing
-
 aliases: [/young-farmhouse, /artwork/young-farmhome, /artwork/young-farm, /artwork/jung-bauernhaus]
 images: ['painting.jpg']
 videos: [https://www.instagram.com/p/C3j7Q9FAkf6/, https://youtu.be/WWJK-CMWE_Q]
-tags: [farm, house, brick, home, east sparta, ohio, swing, walnut, tree, countryside, architecture, outdoors, watercolor, paint, landscape, for sale, patina]
 
-locations:
+featured: false
+order: 99
+ratio: landscape
+power: 68
+favorite: false
+
+supplies:
+  - medium: Crayola Watercolor Paint
+  - on: Artist Loft Cold Press Watercolor Paper
+  - frame: Cyrus Custom Framing
+size: 12x9in (30.4x22.8cm)
+
+categories: [impression, landscape, painting]
+mediums: [watercolor]
+materials: [paper]
+colors: [red, green, brown, blue]
+collections: []
+locations: [patina]
+tags: [farm, house, brick, home, east sparta, ohio, swing, walnut, tree, countryside, architecture, building, outdoors, spring, nostalgia]
+
+inventory:
   - patina: 2024-05-18 - current
   - home: 2024-04-12 - 2024-05-18
   - cyrus: 2024-03-29 - 2024-04-12

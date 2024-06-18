@@ -7,28 +7,43 @@ author: Benjamin J. Young
 
 progress: Oil paint on MDF board that I had plastered Gesso all over, that was previously existing art print from my childhood. Further refining my technique from the Massillon Helmet realism painting, I objectively forced myself to use abstract brushwork for not only blending, but for non-hard lines as well. This became my longest time consuming artwork, yet.
 
-featured: true
-popularity: 8
-ratio: landscape
-power: 37
-
-type: Painting
-medium: Oil
-material: MDF Board
-category: Realism
-subject: Landscape
-size: 20x16in (50.80x40.64cm)
-
 aliases: [/pomonas-bowl]
 images: ['painting.jpg']
 videos: []
-tags: [still life, study, red, pomegranate, fruit, bowl, velvet, tablecloth, dark room, table, shiny, bowl, indoors, oil, paint, realism, for sale, patina, favorite]
+
+featured: true
+order: 8
+ratio: landscape
+power: 37
+favorite: true
+
+supplies:
+  - medium: Winsor and Newton Winton Oil
+  - on: AMDF Board
+  - frame: 
+size: 20x16in (50.80x40.64cm)
+
+categories: [realism, still life, painting]
+mediums: [oil]
+materials: [mdf board]
+colors: [red, pink, purple, black]
+collections: []
+locations: [patina]
+tags: [pomegranate, fruit, shiny, metal, bowl, velvet, tablecloth, dark, indoors, table]
+
+inventory:
+  - patina: 2024-05-26 - current
+
+hours: 34
+frame cost: 
 
 status: sale
 products:
     - id: 663614894
       name: Original Painting
       price: $499
+
+buyer: 
 ---
 
 **Pomona's Bowl** is my practiced attempt finalize my technique, using abstract vibrant brushwork, to create my own desired style in the realism oil painting realm. With every still life, I use it methodically to refine how I want to improve or change my artwork. This still life opulence in a bowl to me is the overwhelming first step to finally realize my artistic painting style that I want to utilize in the direction of how I want my landscape and narrative pieces to convey from here on out. It is an accomplish in my own eyes, and what I consider the turning stone to take my work to the next level. Featuring a pomegranate fruit resting in a reflective metal bowl. Split open with it's glossy seeds spilling out. The red velvet table cloth drapes the cold black table, sitting along in the light of the room. The vibrancy of the hues of red, violet, blue, yellows, purple, pink, and peach; blend together to construct this oil painting that seems reminiscent of scene from the old masters. Looking closely, you can see each section of abstract artwork, slathered on by the soft bristles of my brush to construct something beautifully grand as you step back to take it all in at once.

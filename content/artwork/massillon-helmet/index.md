@@ -7,28 +7,46 @@ author: Benjamin J. Young
 
 progress: Painted with oil paint on canvas panel. Painting part by part, instead of layering paints, it took an extensive amount of time to mix and color match, and ensure I touched on every detail of the helmet and lighting. This was my longest and most complicated artwork as of yet. But it has proven how much more heighten the realism turned out to be.
 
-featured: true
-popularity: 9
-ratio: landscape
-power: 48
-
-type: Painting
-medium: Oil
-material: Canvas Board
-category: Realism
-subject: Still Life
-size: 14x11in (35.56cmx27.94cm)
-
 aliases: [/massillon-helmet]
 images: ['painting.jpg']
 videos: []
-tags: [massillon, ohio, tigers, football, sports, helmet, black, study, reflective tone, oil, paint, indoors, realism, still life, for sale]
+
+featured: true
+order: 9
+ratio: landscape
+power: 48
+favorite: false
+
+supplies:
+  - medium: Winsor & Newton Winton Oil
+  - on: Artist Loft Canvas Panel
+  - frame: Cyrus Custom Framing
+size: 14x11in (35.56cmx27.94cm)
+
+categories: [realism, still life, painting]
+mediums: [oil]
+materials: [canvas panel]
+colors: [black, orange]
+collections: [massillon football]
+locations: [home]
+tags: [massillon, ohio, tigers, football, sports, helmet, reflective, indoors]
+
+inventory:
+  - home: 2024-06-08 - current
+  - patina: 2024-06-06 - 2024-06-08
+  - cyrus: 2024-04-26 - 2024-06-06
+  - home: 2024-04-12 - 2024-04-26
+
+hours: 30
+frame cost: $126
 
 status: sale
 products:
     - id: 654299512
       name: Original Painting
       price: $599
+
+buyer: 
 ---
 
 The **Massillon Helmet** is an oil painting depicting a solitary, black Massillon Tiger's American football helmet in a three-quarter view, featuring a bold orange Massillon Ohio letter 'M' logo, symbolizing the Washington Highschool team's identity and spirit. I have rendered the subject with a strong attention to detail, from the subtle reflections and shadows on the helmet's glossy surface to the intricate structure of the face mask and the secure clasps. The background is a neutral, mixing with the multiple light source hues, with gradient shades that throws the focus entirely on the helmet, evoking a sense of nostalgia and Tiger pride, typical of any sports memorabilia. T-I-G!

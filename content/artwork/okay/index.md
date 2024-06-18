@@ -7,21 +7,35 @@ author: Benjamin J. Young
 
 progress: Drawn with graphite pencil on printer paper.
 
-featured: false
-ratio: portrait
-power: 1
-
-type: Drawing
-medium: Graphite Pencil
-material: Printer Paper
-category: Realism
-subject: Figure
-size: 
-
 aliases: [/okay]
 images: ['painting.jpg']
 videos: []
-tags: [human, hand, anatomy, drawing, graphite, pencil, realism, figure, black and white]
+
+featured: false
+order: 99
+ratio: portrait
+power: 1
+favorite: false
+
+supplies:
+  - medium: Graphite Pencil
+  - on: Printer Paper
+  - frame: 
+size: 
+
+categories: [realism, drawing]
+mediums: [graphite pencil]
+materials: [paper]
+colors: [black, white]
+collections: [drawings]
+locations: [home]
+tags: [figure, human, hand, sign, anatomy, funny]
+
+locations:
+  - home: 2022-12-20 - current
+
+hours: 4
+frame cost: 
 ---
 
 **Okay** depicts a human hand, my hand, sketched in pencil with a focus on realism and attention to detail. It is positioned in a relaxed pose, resting to the side of my leg with the fingers slightly curled inward. I have taken care to render the textures and lines on the skin, showing the unique patterns and creases that can be found on a person’s palm and fingers.

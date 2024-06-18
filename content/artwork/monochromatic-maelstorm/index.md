@@ -7,21 +7,38 @@ author: Benjamin J. Young
 
 progress: Watercolor of cold press wood pulp paper, taped down. Quick and easy. Two or three stages of layers and steps. I believe it only took two days, if that.
 
-featured: false
-ratio: landscape
-power: 2
-
-type: Painting
-medium: Watercolor
-material: Cold Press Pulp Paper
-category: Semiabstract
-subject: Water
-size: 12x9in (30.4x22.8cm)
-
 aliases: [/monochromatic-maelstorm, /artwork/monochromatic-maelstrom, /artwork/mono-chromatic-maelstorm]
 images: ['painting.jpg']
 videos: []
-tags: [water, swirl, watercolor, blue, paint, abstract, splash, broad stokes, neutral tone]
+
+featured: false
+order: 99
+ratio: landscape
+power: 2
+favorite: false
+
+supplies:
+  - medium: Marie's Watercolor Paint
+  - on: Artist Loft Cold Press Watercolor Paper
+  - frame: 
+size: 12x9in (30.4x22.8cm)
+
+categories: [abstract, painting]
+mediums: [watercolor]
+materials: [paper]
+colors: [blue, grey, black]
+collections: [abstract attempts]
+locations: [home]
+tags: [water, swirl, splash, broad, neutral, chaotic, storm]
+
+inventory:
+  - patina: 2024-05-18 - current
+  - home: 2024-04-12 - 2024-05-18
+  - cyrus: 2024-03-29 - 2024-04-12
+  - home: 2024-02-10 - 2024-04-12
+
+hours: 6
+frame cost: $110
 
 products:
     - id: 647311351

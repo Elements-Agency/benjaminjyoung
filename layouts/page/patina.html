@@ -46,7 +46,7 @@
 
             {{ $posts := slice }}
             {{ range (sort .Site.RegularPages "Params.power" "desc") }}
-                {{ if in .Params.tags "patina" }}
+                {{ if in .Params.locations "patina" }}
                     {{ $posts = $posts | append . }}
                 {{ end }}
             {{ end }}
@@ -67,7 +67,7 @@
             </ul>
 
             <p style="text-align: center;">
-                <a href="/tags/for-sale" class="button">Artwork For Sale &gt;</a>
+                <a href="/shop" class="button">Artwork For Sale &gt;</a>
             </p>
         </section>
     </div>

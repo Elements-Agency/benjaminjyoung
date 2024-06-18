@@ -8,28 +8,46 @@ author: Benjamin J. Young
 progress: Painted with watercolor on cold press cotton watercolor block. This was my first figure painting while using a reference photo. I freehanded the entire thing (like I do with most of my art), starting with some simple brushstrokes to draw the basic shapes and adjusting as I go. Blocking in some colors at first, and then starting to build the dimensions and details. Very similar to my Andrew Wyeth technique I use for most of my landscape and narrative watercolor paintings.
 location: This scene takes place in Massillon Ohio, at the Massillon Washington Highschool Paul Brown Stadium. During one of the Massillon Tigers vs Canton McKinley football games.
 
-featured: true
-popularity: 10
-ratio: landscape
-power: 24
-
-type: Painting
-medium: Watercolor
-material: Cold Press Cotton Paper
-category: Realism
-subject: Figure
-size: 16.1x12.2in (410x320mm)
-
 aliases: [/artwork/towniest-towns-football, /massillon-52]
 images: ['painting.jpg']
 videos: []
-tags: [massillon, ohio, tigers, joey, hallett, football, sports, field, autumn, team, watercolor, paint, realism, figure, outdoors, narrative, for sale]
+
+featured: true
+order: 10
+ratio: landscape
+power: 24
+favorite: false
+
+supplies:
+  - medium: Artist Loft Watercolor Paint
+  - on: Baohong Cold Press Watercolor Block
+  - frame: Cyrus Custom Framing
+size: 16.1x12.2in (410x320mm)
+
+categories: [realism, narrative, painting]
+mediums: [watercolor, gouache]
+materials: [cotton paper]
+colors: [orange, black, green]
+collections: [massillon football]
+locations: [home]
+tags: [massillon, ohio, tigers, joey, hallett, football, sports, field, autumn, team, win, figure, outdoors, crowd, trees]
+
+inventory:
+  - home: 2024-06-08 - current
+  - patina: 2024-06-06 - 2024-06-08
+  - cyrus: 2024-04-26 - 2024-06-06
+  - home: 2024-04-26 - 2024-04-26
+
+hours: 20
+frame cost: $198
 
 status: sale
 products:
     - id: 654299515
       name: Original Painting
       price: $399
+
+buyer: 
 ---
 
 The **Massillon 52** is a vibrant watercolor painting, showcasing two Massillon Football players. Both in a moment of intense celebration. On the left, player 52 is rendered with a fierce expression. To the right, an unknown teammate engages in clapping, hands blurred to add to the effect. Behind them, the stadium is alive with spectators in the stands, out of focus. Backset all to autumn trees and vibrant green turf. I managed to infuse the scene with movement and excitement, creating a palpable sense of the game's high stakes and the players' raw emotion.

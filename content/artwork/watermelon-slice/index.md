@@ -7,28 +7,31 @@ author: Benjamin J. Young
 
 progress: Drawn and painted wet with water and a brush, using watercolor pencils on cold press watercolor paper. It was a quick study that took just a few hours one evening. To test my new watercolor pencil set.
 
-featured: false
-ratio: square
-power: 7
-
-type: Painting
-medium: Watercolor
-material: Cold Press Pulp Paper
-category: Impressionism
-subject: Still Life
-size: 
-
-materials:
-  - medium: Kaloir Watercolor Pencils
-  - on: 
-  - frame: 
-
 aliases: [/watermelon-slice, /artwork/standing-watermelon]
 images: ['painting.jpg']
 videos: []
-tags: [watermelon, slice, juicy, red, melon, food, summer colors, seeds, watercolor, pencil, drawing, still life]
 
-locations:
+featured: false
+order: 99
+ratio: square
+power: 7
+favorite: false
+
+supplies:
+  - medium: Kaloir Watercolor Pencils
+  - on: 
+  - frame: 
+size: 
+
+categories: [realism, still life, drawing]
+mediums: [watercolor pencil]
+materials: [paper]
+colors: [red, green, black]
+collections: []
+locations: [home]
+tags: [watermelon, fruit, slice, juicy, seeds, food, summer, bright]
+
+inventory:
   - home: 2023-12-27 - current
 
 hours: 1

@@ -7,6 +7,52 @@ author: Benjamin J. Young
 
 progress: Done with a watercolor paint set on cold press wood pulp watercolor paper, taped down. This took a few stages of painting a layer and waiting for dry time. So it took a few days.
 
+aliases: [/dyzee]
+images: ['painting.jpg']
+videos: []
+
+featured: false
+order: 99
+ratio: portrait
+power: 3
+favorite: false
+
+supplies:
+  - medium: Marie's Watercolor Paint
+  - on: Artist Loft Cold Press Watercolor Paper
+  - frame: 
+size: 9x12in (22.8x30.4cm)
+
+categories: [abstract, floral, painting]
+mediums: [watercolor]
+materials: [paper]
+colors: [blue, yellow, grey]
+collections: [abstract attempts]
+locations: [home]
+tags: [daisy, flower, splash, broad]
+
+inventory:
+  - home: 2024-01-18 - current
+
+hours: 2
+frame cost: 
+
+products:
+    - id: 647311349
+      name: Thin Canvas Print
+      price: $49
+
+buyer: 
+---
+---
+date: 2024-01-18
+title: Dyzee
+description: Dyzee is an attempt to explore abstract watercolor painting. But the abstraction is subjectively representative to a floral reference by name, a Daisy flower.
+alt: This is an abstract watercolor painting by Ben Young featuring dynamic blue and black brushstrokes, with splatters and washes creating a sense of movement, anchored by a central burst of yellow.
+author: Benjamin J. Young
+
+progress: Done with a watercolor paint set on cold press wood pulp watercolor paper, taped down. This took a few stages of painting a layer and waiting for dry time. So it took a few days.
+
 featured: false
 ratio: portrait
 power: 3

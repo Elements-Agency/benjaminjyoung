@@ -7,21 +7,35 @@ author: Benjamin J. Young
 
 progress: Oil pastels done on pastel paper. This took an evening to work on. It was meant to go quick and be expressive, to get that enjoyment of impressionism and force myself away from perfectionism.
 
-featured: false
-ratio: portrait
-power: 2
-
-type: Painting
-medium: Oil Pastel
-material: Cold Press Pulp Paper
-category: Impressionism
-subject: Figure
-size: 9x12in (22.8x30.4cm)
-
 aliases: [/ms-cezanne, /artwork/nip-slip]
 images: ['painting.jpg']
 videos: ['https://www.instagram.com/p/C3lKtCjvEd5/']
-tags: [female, lady, woman, reclining, pose, paul, cezanne, oil pastels, drawing, impressionism, outdoors, figure]
+
+featured: false
+order: 99
+ratio: portrait
+power: 2
+favorite: false
+
+supplies:
+  - medium: Faber-Castell Oil Pastels
+  - on: Artist Loft Coldpress Wood Pulp Watercolor Paper
+  - frame: Michaels
+size: 9x12in (22.8x30.4cm)
+
+categories: [impression, drawing]
+mediums: [oil pastel]
+materials: [paper]
+colors: [yellow, green, grey, brown]
+collections: []
+locations: [home]
+tags: [human, female, lady, woman, recline, pose, paul, cezanne, outdoors, figure, repose, rich, warm, earthy]
+
+inventory:
+  - home: 2024-01-20 - current
+
+hours: 6
+frame cost: 
 ---
 
 The painting titled "Ms. Cezanne" features a woman reclined in a state of repose, stretching her arms above her head. Inspired by Paul Cezanne's work. Rendered with loose, expressive pastel stroke, suggestive of an interest in capturing movement and form rather than strict realism. The color palette is rich and warm. With earthy tones of brown and ochre for the background and vibrant yellow and green highlighting what appears to be a natural setting. The woman’s skin is painted in naturalistic tones, with highlights and shadows adding to the three-dimensional effect. Using bold outlines in places to define the figure’s form. With an impressionistic feel, focusing on light and color to convey a mood rather than detailed precision. This painting exudes a sense of relaxation and connection with nature.

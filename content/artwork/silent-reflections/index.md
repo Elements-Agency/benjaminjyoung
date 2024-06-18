@@ -7,28 +7,44 @@ author: Benjamin J. Young
 
 progress: Painted with watercolor paint on a cold press cotton watercolor block. I built up the background first in many layers until I had what I wanted, then used watercolor pencil with water to build up the boat and darker ripple parts. Using the watercolor pencil again, but keeping it dry on the lighter ripple effects. Also using hints of yellow pencil and other small detailed corrections through the rest of the painting.
 
-featured: true
-popularity: 4
-ratio: landscape
-power: 61
-
-type: Painting
-medium: Watercolor
-material: Cold Press Cotton Paper
-category: Hybrid Impressionism
-subject: Landscape
-size: 16.1x12.2in (410x320mm)
-
 aliases: [/silent-reflections]
 images: ['painting.jpg']
 videos: []
-tags: [human, figure, dark, mist, lake, water, boat, ripples, forrest, watercolor, paint, landscape, narrative, outdoors, for sale, patina]
+
+featured: true
+order: 4
+ratio: landscape
+power: 61
+favorite: false
+
+supplies:
+  - medium: Artist Loft Watercolor Paint
+  - on: Baohong Cold Press Watercolor Block
+  - frame: Michaels
+size: 16.1x12.2in (410x320mm)
+
+categories: [realism, landscape, narrative, painting]
+mediums: [watercolor]
+materials: [cotton paper]
+colors: [grey, blue]
+collections: [the colors of water]
+locations: [patina]
+tags: [lake, water, boat, human, figure, dark, mist, ripples, forrest, hills, outdoors, spring, dusk]
+
+inventory:
+  - patina: 2024-06-07 - current
+  - home: 2024-06-06 - 2024-06-07
+
+hours: 12
+frame cost: $30
 
 status: sale
 products:
     - id: 670473779
       name: Original Painting
       price: $299
+
+buyer: 
 ---
 
 This watercolor painting, titled "**Silent Reflections**," captures a serene and contemplative scene of two individuals in a small boat on a vast, calm body of water. The palette consists primarily of muted blues and grays, creating a tranquil and misty atmosphere. Light touches of yellow kiss the finer details to show the dancing of light. The reflections on the water's surface are subtly rendered, blending seamlessly with the surrounding landscape. In the background, the faint outlines of forested hills fade into the horizon, shrouded in a gentle haze. This watercolor painting is a  peaceful and introspective work of art.

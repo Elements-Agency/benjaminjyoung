@@ -7,28 +7,46 @@ author: Benjamin J. Young
 
 progress: Painted with watercolor paint on a cold press cotton watercolor block. My style generally focuses on impressionism, with certain elements shifting to realism that I want to draw focus to. This artwork however was a little different from that, where the realism elements where much more present than my other art pieces. This was a very labor intensive and detailed piece. Many stages of doing a layer, drying, and continuing on with the next step. I enjoyed the journey though and it's one of my favorite artworks. I later learned that my for this painting technique closely matches the master artist, Andrew Wyeth.
 
-featured: true
-popularity: 2
-ratio: portrait
-power: 182
-
-type: Painting
-medium: Watercolor
-material: Cold Press Cotton Paper
-category: Realism
-subject: Landscape
-size: 10.2x14.1in (26x36cm)
-
 aliases: [/erie-rock]
 images: ['painting.jpg']
 videos: [https://www.instagram.com/p/C3rgdrrA3oI/, https://www.youtube.com/shorts/XCMouswfCm4]
-tags: [rocks, lake, erie, cleveland, sandusky, ohio, great lakes, beach, water, waves, nature, outdoors, landscape, watercolor, paint, overcast, coastal, realism, sold, favorite]
+
+featured: true
+order: 2
+ratio: portrait
+power: 182
+favorite: true
+
+supplies:
+  - medium: Marie's Watercolor and Gouache Paint
+  - on: Baohong Cold Press Watercolor Block
+  - frame: Cyrus Custom Framing
+size: 10.2x14.1in (26x36cm)
+
+categories: [realism, landscape, painting]
+mediums: [watercolor]
+materials: [cotton paper]
+colors: [green, blue, grey, black]
+collections: [the colors of water]
+locations: [sold]
+tags: [lake, erie, rock, beach, cleveland, ohio, sandusky, great lakes, water, waves, nature, outdoors, overcast, costal, winter]
+
+inventory:
+  - buyer: 2024-03-20
+  - home: 2024-03-16 - 2024-03-20
+  - cyrus: 2024-03-01 - 2024-03-16
+  - home: 2024-02-18 - 2024-03-01
+
+hours: 8
+frame cost: $168
 
 status: sold
 products:
     - id: 646845144
       name: Framed Print
       price: $49.99
+
+buyer: Ted Turner
 ---
 
 This evocative painting captures a unique and striking rock formation located along the shores of Lake Erie, near Cleveland, Ohio, portraying a natural monument that stands as a silent guardian amidst the lapping waves. The overcast sky suggests a typical Great Lakes ambiance, while the resilient trees on the rock's summit are a testament to nature's adaptability in the face of the elements. The artwork invites contemplation on the enduring beauty of Lake Erie's coastal landscape, subtly colored by the artist to reflect the area's serene yet dynamic character.

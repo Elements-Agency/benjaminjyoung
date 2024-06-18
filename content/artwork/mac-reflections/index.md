@@ -7,27 +7,43 @@ author: Benjamin J. Young
 
 progress: Drawn with oil pastels on black construction paper. This took a few days of stepping away from the art, getting a fresh pair of eyes, and continuing to develop the depth of the artwork.
 
-featured: false
-ratio: portrait
-power: 9
-
-type: Painting
-medium: Oil Pastel
-material: Construction Paper
-category: Impressionism
-subject: Self Portrait
-size: 9x12in (22.9x30.5cm)
-
 aliases: [/mac-reflections]
 images: ['painting.jpg']
 videos: [https://www.instagram.com/p/C3mpPeQgORk/, https://youtube.com/shorts/JNBpBdWcFR0]
-tags: [facial hair, human, face, beard, oil pastels, drawing, black, impressionism, dark tone, impressionist artist, self portrait, indoors, for sale, favorite]
+
+featured: false
+order: 99
+ratio: portrait
+power: 9
+favorite: true
+
+supplies:
+  - medium: Faber-Castell Oil Pastels
+  - on: Art Street Construction Paper
+  - frame: Michaels
+size: 9x12in (22.9x30.5cm)
+
+categories: [impression, self portrait, drawing]
+mediums: [oil pastel]
+materials: [construction paper]
+colors: [black, grey]
+collections: [self portraits]
+locations: [home]
+tags: [human, face, self, facial hair, beard, dark, peace, calm, indoors]
+
+inventory:
+  - home: 2024-02-03 - current
+
+hours: 4
+frame cost: $30
 
 status: sale
 products:
     - id: 645940870
       name: Original Drawing
       price: $99
+
+buyer: 
 ---
 
 The Mac Reflections painting depicts a close-up impressionism portrait of myself, rendered with a strong emphasis on texture and a limited color palette, to show it's reflective nature. My figure is implied to be  emerging from a dark background, with light only faintly illuminating the right side of the face. The strokes are expressive and sculptural, creating an array of thick, impasto strokes that give the image a dynamic and tactile quality. My expression is pensive and subdued, with eyes cast downward and away from the viewer, adding to the painting’s introspective quality. The overall effect is one of profound reflection, with the textured brushwork and dramatic chiaroscuro suggesting a moment captured in time, where the inner world of my personal subject is as significant as the outer representation. It’s a powerful image that invites the viewer to consider the subject’s thoughts and feelings.

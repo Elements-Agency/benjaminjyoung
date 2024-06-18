@@ -7,28 +7,31 @@ author: Benjamin J. Young
 
 progress: Drawn with watercolor pencil on cold press wood pulp watercolor paper. I used a wash on the background, using water, to turn the pencil shading in to paint. The subject of the flower was left dried as a drawing.
 
-featured: false
-ratio: portrait
-power: 15
-
-type: Drawing
-medium: Watercolor Pencil
-material: Cold Press Pulp Paper
-category: Realism
-subject: Floral
-size: 8x12.5in (20.32x31.75cm)
-
-materials:
-  - medium: Kaloir Watercolor Pencils
-  - on: 
-  - frame: Cyrus Custom Framing
-
 aliases: [/tomb-flowers, /artwork/ajs-grave-flowers]
 images: ['painting.jpg']
 videos: []
-tags: [flower, white, lily, andrea, hartman, blue, drawing, watercolor, pencil, drawing, realism, floral, for sale, patina]
 
-locations:
+featured: false
+order: 99
+ratio: portrait
+power: 15
+favorite: false
+
+supplies:
+  - medium: Kaloir Watercolor Pencils
+  - on: Paper
+  - frame: Cyrus Custom Framing
+size: 8x12.5in (20.32x31.75cm)
+
+categories: [realism, floral, drawing]
+mediums: [watercolor pencil]
+materials: [paper]
+colors: [white, blue, green]
+collections: [lilies]
+locations: [patina]
+tags: [lily, flower, tomb, resting, andrea, aj, surreal, spring]
+
+inventory:
   - patina: 2024-05-18 - current
   - home: 2024-05-02 - 2024-05-18
   - cyrus: 2024-04-18 - 2024-05-02
