@@ -36,7 +36,15 @@ inventory:
   - home: 2024-06-16 - current
 
 hours: 6
-frame cost: 
+frame cost: $30
+
+status: sale
+products:
+    - id: 672644323
+      name: Original Painting
+      price: $399
+
+buyer: 
 ---
 
 This exquisite watercolor painting captures the tranquil beauty of a pond scene, in **Lily Pad**. Dominated by lush, green lily pads that float serenely on the water's surface, the composition is centered around a single, vibrant pink water lily in full bloom. The delicate petals of the lily showcase a gradient of pink hues, leading to a bright yellow core, contrasting beautifully with the dark, reflective water below. The intricate details of the lily pads, including the subtle veins and slight imperfections, add a touch of realism to the scene. I have used a combination of light and shadow to create depth, making the lily and its surrounding pads appear almost three-dimensional. This painting evokes a sense of peace and natural harmony.
