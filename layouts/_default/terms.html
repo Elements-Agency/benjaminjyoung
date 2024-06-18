@@ -33,15 +33,15 @@
           <div class="mw8 center">
             <section class="ph4">
               <ul>
-                {{ range $taxo := site.Taxonomies }}
-                  {{ $terms := $taxo.ByCount }}
-                  {{ $terms := where $terms "Count" "!=" 1}}
-                  {{ range $terms }}
-                    <li>
-                      <a href="/tags/{{.Term }}">
-                        {{.Term }}
+                {{ range .Data.Terms.ByCount }}
+                  {{ if gt .Count 1 }}
+                    <li style="display: inline-block; list-style: none;">
+                      <a class="button" style="margin: 0.5em 0;" href="{{ .Page.Permalink }}">
+                        {{ .Page.Title }}
+                        <span class="count" style="color:gray;">
+                          ({{ .Count }})
+                        </span>
                       </a>
-                      : {{ .Count }} Posts
                     </li>
                   {{ end }}
                 {{ end }}
