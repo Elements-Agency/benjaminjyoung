@@ -27,7 +27,7 @@ categories: [realism, floral, drawing]
 mediums: [graphite pencil]
 materials: [paper]
 colors: [black, white]
-collections: [drawings]
+collections: [lilies, drawings]
 locations: [home]
 tags: [lily, flower, spring, day]
 
