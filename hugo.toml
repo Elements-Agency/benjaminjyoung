@@ -4,7 +4,6 @@ title = 'Artist Ben Young'
 copyright = 'Ben Young Arts, LLC.'
 enableRobotsTXT = true
 timeout = '600'
-disableKinds = ["RSS", "taxonomy", "term"]
 
 [taxonomies]
   category = 'categories'
