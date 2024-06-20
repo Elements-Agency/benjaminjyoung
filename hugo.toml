@@ -4,6 +4,7 @@ title = 'Artist Ben Young'
 copyright = 'Ben Young Arts, LLC.'
 enableRobotsTXT = true
 timeout = '600'
+disableKinds = ["RSS", "taxonomy", "term"]
 
 [taxonomies]
   category = 'categories'
@@ -79,6 +80,10 @@ timeout = '600'
 [services]
   [services.googleAnalytics]
     ID = 'G-LKWC4KDVH8'
+
+[sitemap]
+    changefreq = 'monthly'
+    priority = 1.0
 
 [related]
   includeNewer = true
@@ -156,6 +161,8 @@ timeout = '600'
     toLower = false
     type = 'basic'
     weight = 100
+
+[deployment]
 
 [[deployment.matchers]]
 # Cache static assets for 1 year.
