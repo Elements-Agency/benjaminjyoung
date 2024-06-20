@@ -44,7 +44,7 @@
             {{ $thumbnail := $thumbnail.Resize "140x webp q90" }}
 
             <a href="{{ .RelPermalink }}" class="image" title="{{ .Title }} ({{ .Date| time.Format `2006` }})">
-                <img width="140px" height="140px" src="{{ $thumbnail.RelPermalink }}" loading="lazy" alt="{{ .Params.alt }}" title='{{ .Title }} ({{ .Date| time.Format "2006" }}) by Ben Young'>
+                <img style="background: #000 url('/images/loader.gif') center no-repeat;" width="140px" height="140px" src="{{ $thumbnail.RelPermalink }}" loading="lazy" alt="{{ .Params.alt }}" title='{{ .Title }} ({{ .Date| time.Format "2006" }}) by Ben Young'>
             </a>
             {{ end }}
         {{ end }}

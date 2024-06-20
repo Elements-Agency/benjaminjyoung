@@ -28,7 +28,7 @@
             {{ $thumbnail := $thumbnail.Fill "120x120 Center" }}
             {{ $thumbnail := $thumbnail.Resize "120x webp q85" }}
 
-            <img src="{{ $thumbnail.RelPermalink }}" width="120px" height="120px" loading="lazy" alt="{{- .Title -}}" title='{{ .Title }}' />
+            <img style="background: #000 url('/images/loader.gif') center no-repeat;" src="{{ $thumbnail.RelPermalink }}" width="120px" height="120px" loading="lazy" alt="{{- .Title -}}" title='{{ .Title }}' />
           </a>
         </li>
 	    {{ end }}
