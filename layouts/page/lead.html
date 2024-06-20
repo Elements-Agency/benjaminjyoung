@@ -41,8 +41,6 @@
               {{- .Content -}}
             </div>
 
-            {{ partial "favorites.html" . }}
-
             <br>
 
             <div id="lead">
@@ -53,27 +51,7 @@
 
             <h3>More Artwork by Ben Young</h3>
 
-            {{ $posts := slice }}
-            {{ range (sort .Site.RegularPages "Params.power" "desc") }}
-                {{ if and (eq .Params.favorite false) .Params.featured }}
-                    {{ $posts = $posts | append . }}
-                {{ end }}
-            {{ end }}
-            {{ $favorites := $posts | symdiff .Data.Pages }}
-
-            <ul style="text-align: center; padding: 0; margin: 0;">
-                {{ range first 12 $favorites }}
-                    <li style="list-style:none; display:inline-block; text-align:center;">
-                    <a class="thumbnail" href="{{ .RelPermalink }}">
-                        {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
-                        {{ $thumbnail := $thumbnail.Fill "200x200 Center" }}
-                        {{ $thumbnail := $thumbnail.Resize "200x webp q90" }}
-
-                        <img style="background: #000 url('/images/loader.gif') center no-repeat;" src="{{ $thumbnail.RelPermalink }}" width="130px" height="130px" loading="lazy" alt="{{- .Title -}}" title='{{ .Title }}' />
-                    </a>
-                    </li>
-                {{ end }}
-            </ul>
+            {{ partial "favorites.html" . }}
 
             <p style="text-align: center;">
                 <a href="/" class="button">View Artwork &gt;</a>
