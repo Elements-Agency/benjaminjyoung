@@ -57,7 +57,7 @@ buyer:
 
 In the midst of a serene, snow-covered landscape, a solitary figure captures our attention in this evocative painting, titled **Back To**. Striding the lone figure once again, across the snow covered Ohio and Erie Canal Towpath Trail.
 
-This is the second iteration in the [Winter Escape collection](/collections/winter-escape).
+This is the second iteration in the [Winter Escape collection](/collections/winter-escape/).
 
 {{< purchase >}}
 
@@ -65,6 +65,6 @@ This is the second iteration in the [Winter Escape collection](/collections/wint
 
 {{< img src="reference.webp" width="200px" height="267px" class="floatright" gallery="progress" alt="Back To Reference Photo" title="Snow covered Towpath trail" link="reference.jpg" >}}
 
-I have walked many times on the [Ohio and Erie Canal Towpath Trail](https://www.ohioanderiecanalway.com/explore/the-towpath-trail/), especially through winter's snow. There is just something enchanting on those hikes, when no one else is on that trail, and all you have are the noises of the winter wind and snowfall. This artwork is meant to depict and resonate those feelings. Continuing forward with the narrative and story I want to show in the [Winter Escape collection](/collection/winter-escape-series).
+I have walked many times on the [Ohio and Erie Canal Towpath Trail](https://www.ohioanderiecanalway.com/explore/the-towpath-trail/), especially through winter's snow. There is just something enchanting on those hikes, when no one else is on that trail, and all you have are the noises of the winter wind and snowfall. This artwork is meant to depict and resonate those feelings. Continuing forward with the narrative and story I want to show in the [Winter Escape collection](/collections/winter-escape-series).
 
 I can say with confidence I have spent more time on the Towpath Trail than most, other than a select few. I have traveled it's crushed limestone path on foot and bicycle tie as my second home.

@@ -47,6 +47,6 @@ buyer: Jeni Burns
 
 **Creepy Clown** was a quick artwork done on a tiny canvas, that I did as a gift to a friend. Who has an appreciation for creepy clowns and serial killers. While I don't share those interests, I did my best to try to convey that sense allure on this 4x4in square, making quick work of it. The design was heavily inspired by the first IT Movie's antagonist clown character. The yellow tinted smiling teeth were captured well, wrapping around the edge of the canvas.
 
-This small work painting is the first one apart of the [tiny canvas collection](/collections/tiny-canvas).
+This small work painting is the first one apart of the [tiny canvas collection](/collections/tiny-canvas/).
 
 {{< purchase >}}
