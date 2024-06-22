@@ -15,7 +15,7 @@ featured: true
 order: 5
 ratio: landscape
 power: 37
-favorite: true
+favorite: false
 
 supplies:
   - medium: Winsor and Newton Winton Oil

@@ -16,7 +16,7 @@ featured: true
 order: 2
 ratio: landscape
 power: 300
-favorite: false
+favorite: true
 
 supplies:
   - medium: Artist Loft Watercolor Paint

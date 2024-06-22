@@ -15,7 +15,7 @@ featured: true
 order: 18
 ratio: portrait
 power: 9
-favorite: true
+favorite: false
 
 supplies:
   - medium: Faber-Castell Oil Pastels
