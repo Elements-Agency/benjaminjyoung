@@ -11,8 +11,8 @@ aliases: [/watermelon-slice, /artwork/standing-watermelon]
 images: ['painting.jpg']
 videos: []
 
-featured: false
-order: 99
+featured: true
+order: 20
 ratio: square
 power: 7
 favorite: false

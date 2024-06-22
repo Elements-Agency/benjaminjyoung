@@ -11,8 +11,8 @@ aliases: [/ms-cezanne, /artwork/nip-slip]
 images: ['painting.jpg']
 videos: ['https://www.instagram.com/p/C3lKtCjvEd5/']
 
-featured: false
-order: 99
+featured: true
+order: 21
 ratio: portrait
 power: 2
 favorite: false

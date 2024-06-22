@@ -12,7 +12,7 @@ images: ['painting.jpg']
 videos: [https://www.instagram.com/p/C3fAU-6ON7E/, https://youtube.com/shorts/JsbqhoQqTnA]
 
 featured: true
-order: 10
+order: 13
 ratio: portrait
 power: 163
 favorite: true
@@ -35,7 +35,7 @@ inventory:
   - buyer: 2024-04-17
   - home: 2024-01-25 - 2024-04-17
 
-hours: 8
+hours: 9
 frame cost: $60
 
 status: sold
