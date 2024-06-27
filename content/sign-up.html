@@ -13,9 +13,7 @@ private: true
 
 <p>
   Thanks for signing up for my artist newsletter!
-  I'm glad to see you interested in my work.
   As a reward, use the discount code <strong><em>NEWSLETTER10</em></strong> for <strong>10% OFF</strong> on all print orders.
-  As well as free shipping for all orders.
   This discount can not be combined with other discount codes.
 </p>
 
@@ -24,7 +22,27 @@ private: true
   Below are some links to some of the artwork you can order prints of:
 </p>
 
+<p style="text-align: center; border:2px black dotted; padding: 1em;">
+  Share this link with friends and for every subscriber you refer, you will get an additional entry for the drawing.
+  <br>
+  <a id="copylink" style="display: inline-block; border: 2px solid black; padding: 0.1em 1em;" href="https://benjaminjyoung.com/lead?utm_source=affiliate&utm_campaign=1">
+    https://benjaminjyoung.com/lead?utm_source=affiliate&utm_campaign=1
+  </a>
+  <button id="copy" onclick="navigator.clipboard.writeText(document.querySelector('#copylink').textContent)">Copy</button>
+</p>
+
+<script>
+  var id = Math.floor(Math.random()*90000) + 10000;
+  var text = document.querySelector('#copylink').textContent.trim();
+  var link = text + id;
+  document.querySelector('#copylink').textContent = link;
+  document.querySelector('#copylink').href = link;
+</script>
+
+<h2 style="text-align: center;">Browse Paintings</h2>
 <p style="text-align: center;">
+  Now, check out which artwork you may want as a print, if you happen to win!
+  <br>
   {{< preview painting="/artwork/jennys-contemplation/" >}}
   {{< preview painting="/artwork/erie-rock/" >}}
   {{< preview painting="/artwork/escape/" >}}
@@ -39,8 +57,6 @@ private: true
   {{< preview painting="/artwork/pomonas-bowl/" >}}
   {{< preview painting="/artwork/mac-reflections/" >}}
 </p>
-
-<br>
 
 <p style="text-align: center;">
   <a class="button" href="/all">
