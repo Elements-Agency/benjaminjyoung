@@ -20,14 +20,24 @@ private: true
   You will also be entered for a <strong>chance to win a free art print</strong>, automatically each month!
 </p>
 
-<p style="text-align: center; border:2px black dotted; padding: 1em;">
+<div style="text-align: center; border:2px black dotted; padding: 1em;">
   Share this link with friends and for every subscriber you refer, you will get an additional entry for the drawing.
   <br>
+
   <a id="copylink" style="display:inline-block; border:2px solid black; padding:0.1em 1em; font-size:0.7em;" href="https://benjaminjyoung.com/lead?utm_source=affiliate&utm_campaign=1">
     https://benjaminjyoung.com/lead?utm_source=affiliate&utm_campaign=1
   </a>
+
   <button id="copy" onclick="navigator.clipboard.writeText(document.querySelector('#copylink').textContent)">Copy</button>
-</p>
+
+  <!-- Your share button code -->
+  <div class="fb-share-button" 
+    data-href="https://benjaminjyoung.com/lead?utm_source=affiliate" 
+    data-layout="button"
+    data-size="large"
+    style="display:inline-block; background:none !important; float:none !important;">
+  </div>
+</div>
 
 <script>
   var id = Math.floor(Math.random()*90000) + 10000;
@@ -36,6 +46,16 @@ private: true
   document.querySelector('#copylink').textContent = link;
   document.querySelector('#copylink').href = link;
 </script>
+
+  <!-- Load Facebook SDK for JavaScript -->
+  <div id="fb-root"></div>
+  <script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
+  fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script>
 
 <br>
 
