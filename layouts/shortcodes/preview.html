@@ -10,7 +10,7 @@
         <a class="thumbnail" href="{{ .RelPermalink }}">
             {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
             {{ $thumbnail := $thumbnail.Fill "150x150 Center" }}
-            {{ $thumbnail := $thumbnail.Resize "150 webp q90" }}
+            {{ $thumbnail := $thumbnail.Resize "150x webp q90" }}
 
             <img style="background: #000 url('/images/loader.gif') center no-repeat;" src="{{ $thumbnail.RelPermalink }}" width="100px" height="100px" loading="lazy" alt="{{- .Title -}}" title='{{ .Title }}' />
         </a>
