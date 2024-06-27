@@ -28,7 +28,9 @@ private: true
     https://benjaminjyoung.com/lead?utm_source=affiliate&utm_campaign=1
   </a>
 
-  <button id="copy" onclick="navigator.clipboard.writeText(document.querySelector('#copylink').textContent)">Copy</button>
+  <button id="copy" onclick="navigator.clipboard.writeText(document.querySelector('#copylink').textContent)" style="padding:0 2em; margin:0.5em 0.2em;">
+    Copy
+  </button>
 
   <!-- Your share button code -->
   <div class="fb-share-button" 
@@ -62,7 +64,7 @@ private: true
 <h2 style="text-align: center;">Browse Paintings</h2>
 <p style="text-align: center;">
   Now, check out which artwork you may want as a print, if you happen to win!
-  
+
   <br>
 
   {{< preview painting="/artwork/the-artists-assistant/" >}}
