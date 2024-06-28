@@ -32,19 +32,22 @@
             
             <ul style="list-style:none;">
                 <li style="display:inline-block;">
-                    <a href="/shipping">Shipping Policy</a>
+                    <a href="/shipping#main">Shipping Policy</a>
                 </li>
                 <li style="display:inline-block;">
-                    <a href="/returns">Returns Policy</a>
+                    <a href="/returns#main">Returns Policy</a>
                 </li>
                 <li style="display:inline-block;">
-                    <a href="/privacy">Privacy Policy</a>
+                    <a href="/privacy#main">Privacy Policy</a>
                 </li>
             </ul>
         </section>
     </div>
 
-    {{ block "footer" . }}{{ partialCached "inside-footer.html" . }}{{ end }}
+    {{ block "footer" . }}
+        {{ partialCached "inside-footer.html" . }}
+        <script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?101772706&data_platform=singleproduct_v2" charset="utf-8"></script>
+    {{ end }}
   </div>
 
 {{ end }}

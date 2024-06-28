@@ -11,7 +11,7 @@
     <section id="main">
       <div class="items">
         <div style="text-align: center;">
-          <a href="/about">
+          <a href="/about#main">
             <img src="/images/ben-small.webp" alt="Contemporary Artist" width="120px" height="120px" style="margin-top:20px; border-radius: 500px; box-shadow: 0 0 10px #000;">
             <img src="/images/logo.png" alt="Ben Young" height="100px" width="200px">
           </a>
@@ -48,10 +48,10 @@
                 {{ $thumbnail := $thumbnail.Resize "600x webp q90" }}
               {{ end }}
 
-              <a href="{{ .RelPermalink }}" class="image" title="{{ .Title }} ({{ .Date| time.Format `2006` }})">
+              <a href="{{ .RelPermalink }}#main" class="image" title="{{ .Title }} ({{ .Date| time.Format `2006` }})">
                 <div class="outset"><div class="frame"><div class="inset">
                   <article class="item thumb span-{{ .Params.ratio }}">
-                    <img src="{{ $thumbnail.RelPermalink }}" loading="lazy" alt="{{ .Params.alt }}" title='{{ .Title }} ({{ .Date| time.Format "2006" }}) by Ben Young'>
+                    <img src="{{ $thumbnail.RelPermalink }}" {{ if gt $i 2 }}loading="lazy"{{ end }} alt="{{ .Params.alt }}" title='{{ .Title }} ({{ .Date| time.Format "2006" }}) by Ben Young'>
                   </article>
                 </div></div></div>
 
@@ -120,7 +120,7 @@
                 {{ $thumbnail := $thumbnail.Resize "600x webp q90" }}
               {{ end }}
 
-              <a href="{{ .RelPermalink }}" class="image" title="{{ .Title }} ({{ .Date| time.Format `2006` }})">
+              <a href="{{ .RelPermalink }}#main" class="image" title="{{ .Title }} ({{ .Date| time.Format `2006` }})">
                 <div class="outset"><div class="frame"><div class="inset">
                   <article class="item thumb span-{{ .Params.ratio }}">
                     <img src="{{ $thumbnail.RelPermalink }}" loading="lazy" alt="{{ .Params.alt }}" title='{{ .Title }} ({{ .Date| time.Format "2006" }}) by Ben Young'>
@@ -164,8 +164,8 @@
         {{ end }}
 
         <div class="item intro">
-          <a class="bigtext" href="/all"><strong>View All Artwork &gt;</strong></a>
-          <p>Discover the entire collection of <a href="/categories/painting/">paintings</a> and <a href="/categories/drawing/">drawings</a> by Midwest and Ohio native artist <a href="/about">Benjamin Young</a>.</p>
+          <a class="bigtext" href="/all#main"><strong>View All Artwork &gt;</strong></a>
+          <p>Discover the entire collection of <a href="/categories/painting/#main">paintings</a> and <a href="/categories/drawing/#main">drawings</a> by Midwest and Ohio native artist <a href="/about#main">Benjamin Young</a>.</p>
         </div>
       </div>
     </section>
