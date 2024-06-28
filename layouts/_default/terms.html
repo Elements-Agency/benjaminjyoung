@@ -36,7 +36,7 @@
                 {{ range .Data.Terms.ByCount }}
                   {{ if gt .Count 1 }}
                     <li style="display: inline-block; list-style: none;">
-                      <a class="button" style="margin: 0.5em 0;" href="{{ .Page.Permalink }}">
+                      <a class="button" style="margin: 0.5em 0;" href="{{ .Page.Permalink }}#main">
                         {{ .Page.Title }}
                         <span class="count" style="color:gray;">
                           ({{ .Count }})

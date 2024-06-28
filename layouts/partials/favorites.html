@@ -9,7 +9,7 @@
 <ul style="text-align: center; padding: 0; margin: 0;">
     {{ range first 6 $favorites }}
         <li style="list-style:none; display:inline-block; text-align:center;">
-        <a class="thumbnail" href="{{ .RelPermalink }}">
+        <a class="thumbnail" href="{{ .RelPermalink }}#main">
             {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
             {{ $thumbnail := $thumbnail.Fill "200x200 Center" }}
             {{ $thumbnail := $thumbnail.Resize "200x webp q90" }}

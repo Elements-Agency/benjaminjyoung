@@ -7,7 +7,7 @@
     {{ end }}
 
     {{ range $posts }}
-        <a class="thumbnail" href="{{ .RelPermalink }}">
+        <a class="thumbnail" href="{{ .RelPermalink }}#main">
             {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
             {{ $thumbnail := $thumbnail.Fill "100x100 Center" }}
             {{ $thumbnail := $thumbnail.Resize "100x webp q90" }}

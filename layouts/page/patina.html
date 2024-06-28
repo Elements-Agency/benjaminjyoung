@@ -29,7 +29,7 @@
             {{ partial "favorites.html" . }}
 
             <p style="text-align: center;">
-                <a href="/artwork" class="button">View All Artwork &gt;</a>
+                <a href="/artwork#main" class="button">View All Artwork &gt;</a>
             </p>
 
             <p>
@@ -55,7 +55,7 @@
             <ul style="text-align: center; padding: 0; margin: 0;">
                 {{ range $favorites }}
                     <li style="list-style:none; display:inline-block; text-align:center;">
-                    <a class="thumbnail" href="{{ .RelPermalink }}">
+                    <a class="thumbnail" href="{{ .RelPermalink }}#main">
                         {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
                         {{ $thumbnail := $thumbnail.Fill "200x200 Center" }}
                         {{ $thumbnail := $thumbnail.Resize "200x webp q90" }}
@@ -67,7 +67,7 @@
             </ul>
 
             <p style="text-align: center;">
-                <a href="/shop" class="button">Artwork For Sale &gt;</a>
+                <a href="/shop#main" class="button">Artwork For Sale &gt;</a>
             </p>
         </section>
     </div>

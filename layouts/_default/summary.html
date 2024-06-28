@@ -6,14 +6,14 @@
       {{ $thumbnail := $thumbnail.Resize "300x webp q90" }}
 
       {{ with $thumbnail }}
-        <a class="thumbnail" href="{{ $.RelPermalink }}" data-position="center">
+        <a class="thumbnail" href="{{ $.RelPermalink }}#main" data-position="center">
           <img src="{{ .RelPermalink }}" width="300px" height="300px" style="float:right; margin:3.5em 4em 2em;" alt="{{ $.Params.alt }}" title='{{ $.Title }} ({{ $.Date| time.Format "2006" }}) by Ben Young' />
         </a>
       {{ end }}
     {{ end }}
 
     <h2 class="f3 near-black" style="font-size:3em; margin-bottom:0.2em;">
-      <a href="{{ .RelPermalink }}" class="link black dim">
+      <a href="{{ .RelPermalink }}#main" class="link black dim">
         {{ .Title }}
       </a>
     </h2>
@@ -26,7 +26,7 @@
       <p>{{ .Summary }}</p>
     </div>
 
-    <a href="{{ .RelPermalink }}" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">
+    <a href="{{ .RelPermalink }}#main" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">
       <strong>
         {{ if .Resources.GetMatch "painting.jpg" }}
           View Full Artwork &amp;
