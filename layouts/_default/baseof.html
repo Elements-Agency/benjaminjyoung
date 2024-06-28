@@ -11,8 +11,8 @@
     {{ hugo.Generator }}
 
     {{ $logo := resources.GetMatch "images/logo.png" }}
-    {{ $logo := $logo.Fill "400x200 Center" }}
-    {{ $logo := $logo.Resize "400x webp q80" }}
+    {{ $logo := $logo.Fill "600x300 Center" }}
+    {{ $logo := $logo.Resize "600x webp q86" }}
     {{ .Store.Set "logo" $logo.Permalink }}
     
     {{ $production := eq (getenv "HUGO_ENV") "production" | or (eq site.Params.env "production") }}
