@@ -28,11 +28,12 @@ mediums: [acrylic]
 materials: [canvas]
 colors: [yellow, white, green]
 collections: []
-locations: [home]
+locations: [patina]
 tags: [lemon, flower, textured, citrus, tree, leaves, branch, impasto]
 
 inventory:
-  - home: 2024-03-21 - current
+  - patina: 2024-06-29 - current
+  - home: 2024-03-21 - 2024-06-29
 
 hours: 2
 frame cost: 

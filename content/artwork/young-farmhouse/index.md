@@ -28,11 +28,12 @@ mediums: [watercolor]
 materials: [paper]
 colors: [red, green, brown, blue]
 collections: []
-locations: [patina]
+locations: [home]
 tags: [farm, house, brick, home, east sparta, ohio, swing, walnut, tree, countryside, architecture, building, outdoors, spring, nostalgia]
 
 inventory:
-  - patina: 2024-05-18 - current
+  - home: 2024-06-29 - current
+  - patina: 2024-05-18 - 2024-06-29
   - home: 2024-04-12 - 2024-05-18
   - cyrus: 2024-03-29 - 2024-04-12
   - home: 2024-02-10 - 2024-04-12

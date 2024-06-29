@@ -35,11 +35,13 @@ mediums: [watercolor]
 materials: [cotton paper]
 colors: [white, blue, grey]
 collections: [winter escape]
-locations: [patina]
+locations: [home]
 tags: [human, figure, hiker, snow, winter, trail, trees, forest, tracks, outdoors, evening, snowy, snowfall, hazy, lonely, isolation, tiring]
 
 inventory:
-  - home: 2024-05-02 - current
+  - home: 2024-06-29 - current
+  - patina: 2024-05-18 - 2024-06-29
+  - home: 2024-05-02 - 2024-05-18
   - cyrus framing: 2024-04-18 - 2024-05-02
   - home: 2024-03-13 - 2024-04-18
 
