@@ -29,7 +29,7 @@ materials: [cotton paper]
 colors: [blue, green]
 collections: [the colors of water]
 locations: [home]
-tags: [girl, human, figure, dock, lake, water, clouds, sky, melancholy, hills, waves, reflection, tranquility, calm, introspection, solitude, summer]
+tags: [girl, woman, stranger, human, figure, dock, lake, water, clouds, sky, melancholy, hills, waves, reflection, tranquility, calm, introspection, solitude, summer]
 
 inventory:
   - home: 2024-06-20 - current
@@ -46,10 +46,10 @@ products:
 buyer: 
 ---
 
-**Jenny's Contemplation** is both expressive and metaphoric in it's design. It's a variety of color splashes introduced in the world of light across the lake's surface of water. A girl sits on a weathered wooden dock, peering in to thought. A foreign intrusion sits right-of-center, still in what is seemingly like the calm part of the water; an island pier. The waves turn in a moment of calmness and introspection. The summer sun's light dances through the sky and across the the refraction of rippling waves among the lake's surface. Nestled hills roll in the attached land's horizon, muted by the bipolar clouds mood. The melancholic mood set by the this vibrant world, give a sense of tranquility and reflection. The subtle details and gentle colors create a peaceful, almost dreamlike quality, inviting the viewer to pause and share in this moment of solitude and serenity.
+**Jenny's Contemplation** is both expressive and metaphoric in it's design. It's a variety of color splashes introduced in the world of light across the lake's surface of water. A woman stranger sits on a weathered wooden dock, peering in to thought. A foreign intrusion sits right-of-center, still in what is seemingly like the calm parts of the water; an island pier. The waves turn in a moment of calmness and introspection, surrounding the subject in intrusive thought. The summer sun's light dances through the sky and across the the refraction of rippling waves among the lake's surface. Nestled hills roll in the attached land's horizon, muted by the bipolar clouds mood. The melancholic mood set by the this vibrant world, give a sense of tranquility and reflection. The curiosity of what the girl may be thinking, is left to burden the viewer with their own ideas. The subtle details and gentle colors create a peaceful, almost dreamlike quality, inviting the viewer to pause and share in this moment of solitude and serenity.
 
 ### Inspiration ###
 
 {{< img src="reference.webp" width="200px" height="226px" class="floatright" gallery="progress" alt="Photo of En plein air watercolor painting" title="En plein air process" link="reference.jpg" >}}
 
-I sat out peering over the [Nimisila Reservoir](https://www.summitmetroparks.org/nimisila-reservoir-metro-park.aspx), people watching the paddle boarders, especially a girl and her dog make their way across the lake. I studied the colors of the water as the sun reflected across the surface of the water and drew inspiration in it's nuances.
+I sat out peering over the [Nimisila Reservoir](https://www.summitmetroparks.org/nimisila-reservoir-metro-park.aspx), people watching the paddle boarders, especially a random girl and her boston terrier dog make their way across the lake. I studied the colors of the water as the sun reflected across the surface of the water and drew inspiration in it's nuances.
