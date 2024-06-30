@@ -21,7 +21,7 @@
     {{ if .Resources.GetMatch .Params.preview_image }}
       {{ $thumbnail := .Resources.GetMatch .Params.preview_image }}
       {{ $thumbnail := $thumbnail.Fill "300x300 Center" }}
-      {{ $thumbnail := $thumbnail.Resize "300x webp q90" }}
+      {{ $thumbnail := $thumbnail.Resize "300x webp" }}
 
       {{ with $thumbnail }}
         <a class="thumbnail" href="{{ $.RelPermalink }}#main" data-position="center">
