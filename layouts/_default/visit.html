@@ -1,0 +1,65 @@
+{{ define "styles" }}
+    {{ partial "inside-style.html" . }}
+{{ end }}
+
+{{ define "scripts" }}
+    {{ partial "inside-scripts.html" . }}
+{{ end }}
+
+{{ define "main" }}
+  {{ $section := .Site.GetPage "section" .Section }}
+    <div id="wrapper">
+      <!-- Do NOT remove inlinse styles on bg below -->
+      <div class="bg fixed" style='position:fixed; top:0; left:0; z-index:-1; width:100vw; height:100vh; background-color:#ddd; background-image:url("/images/background.webp"); background-size:cover; background-position:center; background-repeat:no-repeat; background-attachment:scroll;'></div>
+
+    {{ block "header" . }}{{ partial "inside-header.html" .}}{{ end }}
+
+    {{ block "nav" . }}{{ partial "inside-navigation.html" .}}{{ end }}
+
+    <div id="main">
+        <article class="post">
+            <header class="major">
+                <h1>{{ .Title }}</h1>
+            </header>
+
+            <p>You can visit some of my artwork and paintings at <a href="http://patinaartscentre.com/">Patina Art Centre</a>.</p>
+
+            {{ $posts := slice }}
+            {{ range (sort .Site.RegularPages "Params.power" "desc") }}
+                {{ if in .Params.locations $.Params.place }}
+                    {{ $posts = $posts | append . }}
+                {{ end }}
+            {{ end }}
+            {{ $favorites := $posts | symdiff .Data.Pages }}
+
+            <ul style="text-align: center; padding: 0; margin: 0;">
+                {{ range $favorites }}
+                    <li style="list-style:none; display:inline-block; text-align:center;">
+                    <a class="thumbnail" href="{{ .RelPermalink }}#main">
+                        {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
+                        {{ $thumbnail := $thumbnail.Fill "200x200 Center" }}
+                        {{ $thumbnail := $thumbnail.Resize "200x webp q90" }}
+
+                        <img style="background: #000 url('/images/loader.gif') center no-repeat;" src="{{ $thumbnail.RelPermalink }}" width="90px" height="90px" loading="lazy" alt="{{- .Title -}}" title='{{ .Title }}' />
+                    </a>
+                    </li>
+                {{ end }}
+            </ul>
+
+            <br>
+
+            <div>
+                {{- .Content -}}
+            </div>
+
+            <br class="clear">
+
+            <p style="text-align: center;">
+                <a href="/" class="button">View More &gt;</a>
+            </p>
+        </section>
+    </div>
+
+    {{ block "footer" . }}{{ partialCached "inside-footer.html" . }}{{ end }}
+  </div>
+{{ end }}
