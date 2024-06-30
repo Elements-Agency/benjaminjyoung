@@ -37,10 +37,12 @@
                     <li style="list-style:none; display:inline-block; text-align:center;">
                     <a class="thumbnail" href="{{ .RelPermalink }}#main">
                         {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
-                        {{ $thumbnail := $thumbnail.Fill "200x200 Center" }}
-                        {{ $thumbnail := $thumbnail.Resize "200x webp q90" }}
+                        {{ if $thumbnail }}
+                            {{ $thumbnail := $thumbnail.Fill "200x200 Center" }}
+                            {{ $thumbnail := $thumbnail.Resize "200x webp q90" }}
 
-                        <img style="background: #000 url('/images/loader.gif') center no-repeat;" src="{{ $thumbnail.RelPermalink }}" width="90px" height="90px" loading="lazy" alt="{{- .Title -}}" title='{{ .Title }}' />
+                            <img style="background: #000 url('/images/loader.gif') center no-repeat;" src="{{ $thumbnail.RelPermalink }}" width="90px" height="90px" loading="lazy" alt="{{- .Title -}}" title='{{ .Title }}' />
+                        {{ end }}
                     </a>
                     </li>
                 {{ end }}
