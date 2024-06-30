@@ -18,6 +18,18 @@
       </a>
     </h2>
 
+    {{ if .Resources.GetMatch .Params.preview_image }}
+      {{ $thumbnail := .Resources.GetMatch .Params.preview_image }}
+      {{ $thumbnail := $thumbnail.Fill "300x300 Center" }}
+      {{ $thumbnail := $thumbnail.Resize "300x webp q90" }}
+
+      {{ with $thumbnail }}
+        <a class="thumbnail" href="{{ $.RelPermalink }}#main" data-position="center">
+          <img src="{{ .RelPermalink }}" width="300px" height="300px" style="float:right; margin:3.5em 4em 2em;" alt="{{ $.Params.alt }}" title='{{ $.Title }} ({{ $.Date| time.Format "2006" }}) by Ben Young' />
+        </a>
+      {{ end }}
+    {{ end }}
+
     <div class="nested-links f5 lh-copy nested-copy-line-height">
       <p>
         <em>{{ .Date | time.Format "January 2, 2006" }}</em>
