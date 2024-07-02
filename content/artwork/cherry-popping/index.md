@@ -12,7 +12,7 @@ images: ['painting.jpg']
 videos: []
 
 featured: true
-order: 18
+order: 19
 ratio: square
 power: 37
 favorite: false

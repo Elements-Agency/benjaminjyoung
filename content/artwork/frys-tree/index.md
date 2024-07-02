@@ -12,7 +12,7 @@ images: ['painting.jpg']
 videos: [https://www.instagram.com/p/C3hi4DjAYqg/, https://youtu.be/Pcuv_QkT7Qo]
 
 featured: true
-order: 4
+order: 5
 ratio: portrait
 power: 118
 favorite: true
