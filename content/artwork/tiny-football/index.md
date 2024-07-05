@@ -20,16 +20,17 @@ supplies:
   - frame: 
 size: 4x4in (10.16x10.16cm)
 
-categories: [realism, close up, painting]
+categories: [realism, still life, close up, painting]
 mediums: [oil]
 materials: [canvas]
 colors: [brown, white, black]
 collections: [tiny canvas]
-locations: [home]
-tags: [american, football, sports, ball, dark]
+locations: [patina]
+tags: [american, football, sports, ball, dark, indoors, canton, massillon, ohio]
 
 inventory:
-  - buyer: 2024-07-03
+  - patina: 2024-07-05 - current
+  - home: 2024-07-03 - 2024-07-05
 
 hours: 4
 frame cost: $0
