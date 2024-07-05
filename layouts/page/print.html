@@ -45,7 +45,7 @@
             </div>
 
             {{ $posts := slice }}
-            {{ range (sort .Site.RegularPages "Params.power" "desc") }}
+            {{ range .Site.RegularPages }}
                 {{ if in .Params.locations "patina" }}
                     {{ $posts = $posts | append . }}
                 {{ end }}
