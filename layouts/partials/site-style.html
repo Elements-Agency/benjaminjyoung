@@ -3,7 +3,7 @@
 {{ end }}
 
 {{ with partialCached "func/style/GetFontsCSS" "style/GetFontsCSS" }}
-  <link rel="stylesheet" href="{{ .RelPermalink }}" >
+  <link rel="stylesheet" href="{{ .RelPermalink }}" defer>
 {{ end }}
 
 {{ range site.Params.custom_css }}
