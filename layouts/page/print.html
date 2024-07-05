@@ -1,0 +1,69 @@
+{{ define "styles" }}
+    {{ partial "inside-style.html" . }}
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script type="text/javascript" src="/js/jquery.qrcode.js"></script>
+    <script type="text/javascript" src="/js/qrcode.js"></script>
+{{ end }}
+
+{{ define "scripts" }}
+    {{ partial "inside-scripts.html" . }}
+{{ end }}
+
+{{ define "main" }}
+  {{ $section := .Site.GetPage "section" .Section }}
+    <div id="wrapper">
+      <!-- Do NOT remove inlinse styles on bg below -->
+      <div class="bg fixed" style='position:fixed; top:0; left:0; z-index:-1; width:100vw; height:100vh; background-color:#ddd; background-image:url("/images/background.webp"); background-size:cover; background-position:center; background-repeat:no-repeat; background-attachment:scroll;'></div>
+
+    {{ block "header" . }}{{ partial "inside-header.html" .}}{{ end }}
+
+    {{ block "nav" . }}{{ partial "inside-navigation.html" .}}{{ end }}
+
+    <div id="main">
+        <article class="post">
+            <header class="major">
+                <h1>{{ .Title }}</h1>
+            </header>
+
+            <div>
+              {{- .Content -}}
+            </div>
+
+            {{ $posts := slice }}
+            {{ range (sort .Site.RegularPages "Params.power" "desc") }}
+                {{ if in .Params.locations "patina" }}
+                    {{ $posts = $posts | append . }}
+                {{ end }}
+            {{ end }}
+            {{ $favorites := $posts | symdiff .Data.Pages }}
+
+            <ul style="text-align: left; padding: 0; margin: 0;">
+                {{ range $favorites }}
+                    {{ $hash := math.Rand | mul 999999 | math.Floor }}
+                    {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
+                    {{ $thumbnail := $thumbnail.Fill "200x200 Center" }}
+                    {{ $thumbnail := $thumbnail.Resize "200x webp q90" }}
+                    <li style="list-style:none; clear:both; border:dashed grey 1px; display: inline-block; padding: 20px;">
+                        <a href="{{ .RelPermalink }}#main" style="float:left; padding:0; margin:0; line-height: 0;">
+                            <img style="background: #000 url('/images/loader.gif') center no-repeat; padding:0; margin:0;" src="{{ $thumbnail.RelPermalink }}" width="120px" height="120px" alt="{{- .Title -}}" title='{{ .Title }}'>
+                        </a>
+                        <div style="float:left; padding:23px 20px 0 20px;">
+                            <h2 style="text-transform: none; padding:0; margin:0; letter-spacing:normal;">{{ .Title}}</h2>
+                            <p style="padding:0; margin:0;">{{ title (index (.Params.mediums) 0) }} on {{ title (index (.Params.materials) 0) }}</p>
+                        </div>
+                        <div id="qr-{{ $hash }}" style="float:left; padding:10px 10px 0 10px;"></div>
+                        <script>
+                            $('#qr-{{ $hash }}').qrcode({width: 100,height: 100,text: "size doesn't matter"});
+                        </script>
+                    </li>
+                {{ end }}
+            </ul>
+
+            <br class="clear">
+        </section>
+    </div>
+
+    {{ block "footer" . }}{{ partialCached "inside-footer.html" . }}{{ end }}
+  </div>
+{{ end }}
