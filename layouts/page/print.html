@@ -16,6 +16,8 @@
             h2 {
                 font-size: 1.2em;
             }
+
+            .noprint {display: none;}
         }
     </style>
 {{ end }}
@@ -28,19 +30,21 @@
   {{ $section := .Site.GetPage "section" .Section }}
     <div id="wrapper">
       <!-- Do NOT remove inlinse styles on bg below -->
-      <div class="bg fixed" style='position:fixed; top:0; left:0; z-index:-1; width:100vw; height:100vh; background-color:#ddd; background-image:url("/images/background.webp"); background-size:cover; background-position:center; background-repeat:no-repeat; background-attachment:scroll;'></div>
+      <div class="bg fixed noprint" style='position:fixed; top:0; left:0; z-index:-1; width:100vw; height:100vh; background-color:#ddd; background-image:url("/images/background.webp"); background-size:cover; background-position:center; background-repeat:no-repeat; background-attachment:scroll;'></div>
 
-    {{ block "header" . }}{{ partial "inside-header.html" .}}{{ end }}
+    <div class="noprint">
+        {{ block "header" . }}{{ partial "inside-header.html" .}}{{ end }}
 
-    {{ block "nav" . }}{{ partial "inside-navigation.html" .}}{{ end }}
+        {{ block "nav" . }}{{ partial "inside-navigation.html" .}}{{ end }}
+    </div>
 
     <div id="main">
         <article class="post">
-            <header class="major">
+            <header class="major noprint">
                 <h1>{{ .Title }}</h1>
             </header>
 
-            <div>
+            <div class="noprint">
               {{- .Content -}}
             </div>
 
@@ -78,6 +82,8 @@
         </section>
     </div>
 
-    {{ block "footer" . }}{{ partialCached "inside-footer.html" . }}{{ end }}
+    <div class="noprint">
+        {{ block "footer" . }}{{ partialCached "inside-footer.html" . }}{{ end }}
+    </div>
   </div>
 {{ end }}
