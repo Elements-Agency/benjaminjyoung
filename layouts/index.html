@@ -30,7 +30,7 @@
           {{ $n_posts := $.Param "recent_posts_number" | default 120 }}
 
           {{ range $i,$p := (sort (where $section "Params.featured" true) "Params.order" "asc") }}
-            {{ if lt $i 11 }}
+            {{ if lt $i 9 }}
 
               {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
               {{ $thumbnail := $thumbnail.Fit "600x600 Center" }}
@@ -102,7 +102,7 @@
           {{ $n_posts := $.Param "recent_posts_number" | default 120 }}
 
           {{ range $i,$p := (sort (where $section "Params.featured" true) "Params.order" "asc") }}
-            {{ if gt $i 10 }}
+            {{ if gt $i 8 }}
 
               {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
               {{ $thumbnail := $thumbnail.Fit "600x600 Center" }}

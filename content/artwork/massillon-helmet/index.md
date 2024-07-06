@@ -12,9 +12,9 @@ images: ['painting.jpg']
 videos: []
 
 featured: true
-order: 14
+order: 18
 ratio: landscape
-power: 48
+power: 33
 favorite: false
 
 supplies:

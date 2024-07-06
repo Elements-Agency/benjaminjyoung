@@ -12,9 +12,9 @@ images: ['painting.jpg']
 videos: []
 
 featured: true
-order: 3
+order: 2
 ratio: portrait
-power: 300
+power: 84
 favorite: true
 
 supplies:
