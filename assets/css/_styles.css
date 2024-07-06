@@ -546,6 +546,19 @@ input, select, textarea {
 				opacity: 0;
 			}
 
+
+			#main .item.span-portrait {
+				width: 10em;
+			}
+
+			#main .item.span-square {
+				width: 14em;
+			}
+
+			#main .item.span-landscape {
+				width: 19em;
+			}
+
 		@media screen and (max-width: 1680px) {
 
 			#main .item {
@@ -555,18 +568,6 @@ input, select, textarea {
 			#main .item.intro {
 				height: 16em;
 			}
-
-				#main .item.span-portrait {
-					width: 10em;
-				}
-
-				#main .item.span-square {
-					width: 14em;
-				}
-
-				#main .item.span-landscape {
-					width: 19em;
-				}
 
 		}
 
