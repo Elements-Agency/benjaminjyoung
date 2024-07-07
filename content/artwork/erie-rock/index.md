@@ -42,9 +42,9 @@ frame cost: $168
 
 status: sold
 products:
-    - id: 646845144
-      name: Framed Print
-      price: $49.99
+    - id: 678649273
+      name: Limited Print
+      price: $29
 
 buyer: Ted Turner
 ---

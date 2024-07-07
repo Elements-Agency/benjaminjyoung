@@ -40,9 +40,9 @@ frame cost: $60
 
 status: sold
 products:
-    - id: 648383272
-      name: Framed Print
-      price: $49.99
+    - id: 678649275
+      name: Limited Print
+      price: $29
 
 buyer: Bruce Treiber
 ---

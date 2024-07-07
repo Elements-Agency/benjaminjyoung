@@ -42,9 +42,9 @@ frame cost: $140
 
 status: sold
 products:
-    - id: 646466899
-      name: Framed Print
-      price: $49.99
+    - id: 678649270
+      name: Limited Print
+      price: $29
 
 buyer: Fred Boone
 ---
