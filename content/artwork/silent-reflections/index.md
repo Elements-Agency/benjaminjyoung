@@ -42,7 +42,7 @@ status: sale
 products:
     - id: 670473779
       name: Original Painting
-      price: $399
+      price: $400
 
 buyer: 
 ---
