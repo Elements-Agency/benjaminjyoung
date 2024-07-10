@@ -37,13 +37,13 @@ inventory:
   - home: 2024-02-06 - 2024-04-18
 
 hours: 4
-frame cost: $200
+frame cost: $30
 
 status: sale
 products:
     - id: 645932227
       name: Original Painting
-      price: $299
+      price: $199
 
 buyer: 
 ---
