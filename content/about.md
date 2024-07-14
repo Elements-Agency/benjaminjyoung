@@ -35,6 +35,11 @@ Through those struggles to heal, and at the age of 33, I was reminded that I onc
 
 Thank you, for listening to this Young man's story.
 
+{{< img class="" width="200px" src="/images/ben-tennis.jpg" alt="Ben playing tennis" title="Ben playing tennis" >}}
+{{< img class="" width="200px" src="/images/ben-cycling.jpg" alt="Ben cycling" title="Ben cycling" >}}
+{{< img class="" width="200px" src="/images/ben-tennis2.jpg" alt="Ben hitting a tennis ball" title="Ben hitting a tennis ball" >}}
+{{< img class="" width="200px" src="/images/ben-posing.jpg" alt="Ben posing with his bicycle" title="Ben posing with his bicycle" >}}
+
 ---
 
 ## Frequently Asked Questions ##
