@@ -23,7 +23,7 @@ supplies:
   - frame: Michaels
 size: 14.1x10.2in (36x26cm)
 
-categories: [realism, landscape, narrative, painting]
+categories: [realism, landscape, painting]
 mediums: [watercolor]
 materials: [cotton paper]
 colors: [blue, grey]

@@ -8,3 +8,5 @@ private: true
 ---
 
 Below is the entire catalog of artwork by artist Ben Young. Click any of the icons to view and read more.
+
+Filter by: [All](/all), [Narratives](/all/narratives), [Landscapes](/all/landscapes)
