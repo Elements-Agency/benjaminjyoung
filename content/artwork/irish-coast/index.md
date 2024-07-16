@@ -27,7 +27,7 @@ categories: [realism, landscape, drawing]
 mediums: [oil pastel]
 materials: [construction paper]
 colors: [blue, green, brow, white]
-collections: []
+collections: [the colors of water]
 locations: [home]
 tags: [coast, sea, ocean, waves, rock, water, sun, sky, summer, warm, outdoors, ireland, dim, relaxing]
 
