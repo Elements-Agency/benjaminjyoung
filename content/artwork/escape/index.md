@@ -27,7 +27,7 @@ categories: [realism, landscape, narrative, painting]
 mediums: [watercolor]
 materials: [cotton paper]
 colors: [white, blue]
-collections: [winter escape]
+collections: [winter escape, figure facing from view]
 locations: [sold]
 tags: [human, figure, snow, winter, fence, tracks, cool, cold, outdoors, gate, calm, lonely, isolation, peaceful]
 
