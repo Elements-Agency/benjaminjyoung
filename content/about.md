@@ -13,6 +13,8 @@ I'm more of a traditional painter. Focusing a lot on landscapes or paintings tha
 
 My artistic journey is not on par with most of your every-day artists. I never went to art school. I have no formal education in drawing or painting. I was born with artistic talent. Probably a gift at birth from my father. Everyone will agree I have the gift intelligence. I have out of the box creativity. I can objectively look at my work, identify and harshly judge what I have done wrong, and I'm no stranger to obsession through failure until I can make it right. Often battling with my own perfectionism, as do most artists do.
 
+{{< button text="Browse Artwork" href="/gallery" >}}
+
 ### Artist Story ###
 
 {{< img class="floatright" width="200px" src="/images/ben-kid.jpg" alt="Child Ben" title="Child Ben" >}}
@@ -34,6 +36,8 @@ Six years from that fatal day, something caused a small spark to ignite back tho
 Through those struggles to heal, and at the age of 33, I was reminded that I once used to enjoy making art. Finally, 18 years since stopping art all-together, I picked it up back again. I was quickly reminded I was good at it. This was when I first began painting as well. And the rest of the story, is here on display... Hoping to express those emotions I experienced, on to canvas and paper. For you to all enjoy and appreciate.
 
 Thank you, for listening to this Young man's story.
+
+{{< button text="Contact Artist" href="/contact" >}}
 
 {{< img class="" width="200px" src="/images/ben-tennis.jpg" alt="Ben playing tennis" title="Ben playing tennis" >}}
 {{< img class="" width="200px" src="/images/ben-cycling.jpg" alt="Ben cycling" title="Ben cycling" >}}
