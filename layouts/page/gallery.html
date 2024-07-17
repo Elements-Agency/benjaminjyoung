@@ -1,0 +1,219 @@
+{{ define "styles" }}
+    {{ partial "site-style.html" . }}
+{{ end }}
+
+{{ define "scripts" }}
+    {{ partial "site-scripts.html" . }}
+{{ end }}
+
+{{ define "main" }}
+  <div id="wrapper">
+    <section id="main">
+      <div class="items">
+        <div style="text-align: center;">
+          <a href="/about#main">
+            <img src="/images/ben-small.webp" alt="Contemporary Artist" width="120px" height="120px" style="margin-top:20px; border-radius: 500px; box-shadow: 0 0 10px #000;">
+            <img src="/images/logo.png" alt="Ben Young" height="100px" width="200px">
+          </a>
+        </div>
+        <div class="item intro" style="position: relative;">
+          <h1>{{ .Params.heading }}</h1>
+          {{ .Content }}
+        </div>
+
+        {{ $mainSections := .Site.Params.mainSections | default (slice "post") }}
+        {{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
+        {{ $section_count := len $section }}
+
+        {{ if ge $section_count 1 }}
+          {{ $section_name := index (.Site.Params.mainSections) 0 }}
+          {{ $n_posts := $.Param "recent_posts_number" | default 120 }}
+
+          {{ range $i,$p := (sort (where $section "Params.featured" true) "Params.order" "asc") }}
+            {{ if lt $i 9 }}
+
+              {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
+              {{ $thumbnail := $thumbnail.Fit "600x600 Center" }}
+              {{ $thumbnail := $thumbnail.Resize "600x webp q90" }}
+
+              {{ if eq $.Params.ratio "landscape" }}
+                {{ $thumbnail = .Resources.GetMatch "painting.jpg" }}
+                {{ $thumbnail := $thumbnail.Fit "600x400 Center" }}
+                {{ $thumbnail := $thumbnail.Resize "600x webp q90" }}
+              {{ end }}
+
+              {{ if eq $.Params.ratio "portrait" }}
+                {{ $thumbnail = .Resources.GetMatch "painting.jpg" }}
+                {{ $thumbnail := $thumbnail.Fit "600x700 Center" }}
+                {{ $thumbnail := $thumbnail.Resize "600x webp q90" }}
+              {{ end }}
+
+              <a href="{{ .RelPermalink }}#main" class="image" title="{{ .Title }} ({{ .Date| time.Format `2006` }})">
+                <div class="outset"><div class="frame"><div class="inset">
+                  <article class="item thumb span-{{ .Params.ratio }}">
+                    <img src="{{ $thumbnail.RelPermalink }}" {{ if gt $i 2 }}loading="lazy"{{ end }} alt="{{ .Params.alt }}" title='{{ .Title }} ({{ .Date| time.Format "2006" }}) by Ben Young'>
+                  </article>
+                </div></div></div>
+
+                <div style="float:left; padding:0 0 0 1.5em; text-align:left;">
+                  {{ if lt (sub (now.Unix) (.Date.Unix)) 2592000 }}
+                    <strong style="color:#043908;">(New)</strong>
+                  {{ end }}
+                  <strong style="color:black;">{{ .Title }} &gt;</strong>
+                </div>
+
+                <div style="color:black; float:right; padding:0 1.5em 0 0; text-align:right;">
+                    {{ if or (eq .Params.status "sold") (eq .Params.status "gift") }}
+                      <strong style="color:#c00;">SOLD</strong>
+                    {{ else }}
+                      {{ if eq .Params.status "sale" }}
+                        {{ if .Params.products }}
+                          {{ $original := index (.Params.products) 0 }}
+                          <strong style="color:rgb(6, 67, 137);">{{ $original.price |  }}</strong>
+                        {{ end }}
+                      {{ end }}
+                    {{ end }}
+                </div>
+              </a>
+
+              <div class="mobmore">
+                <p>
+                  {{ .Description }}
+                </p>
+                <br>
+                {{ if or (eq .Params.status "sold") (eq .Params.status "gift") }}
+                  <a class="button" href="{{ .RelPermalink }}#purchase">Purchase Prints</a>
+                {{ else }}
+                  <a class="button" href="{{ .RelPermalink }}#purchase">Purchase Original</a>
+                {{ end }}
+              </div>
+            {{ end }}
+          {{ end }}
+        {{ end }}
+      </div>
+
+      <div class="items">
+        {{ $mainSections := .Site.Params.mainSections | default (slice "post") }}
+        {{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
+        {{ $section_count := len $section }}
+
+        {{ if ge $section_count 1 }}
+          {{ $section_name := index (.Site.Params.mainSections) 0 }}
+          {{ $n_posts := $.Param "recent_posts_number" | default 120 }}
+
+          {{ range $i,$p := (sort (where $section "Params.featured" true) "Params.order" "asc") }}
+            {{ if gt $i 8 }}
+
+              {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
+              {{ $thumbnail := $thumbnail.Fit "600x600 Center" }}
+              {{ $thumbnail := $thumbnail.Resize "600x webp q90" }}
+
+              {{ if eq $.Params.ratio "landscape" }}
+                {{ $thumbnail = .Resources.GetMatch "painting.jpg" }}
+                {{ $thumbnail := $thumbnail.Fit "600x400 Center" }}
+                {{ $thumbnail := $thumbnail.Resize "600x webp q90" }}
+              {{ end }}
+
+              {{ if eq $.Params.ratio "portrait" }}
+                {{ $thumbnail = .Resources.GetMatch "painting.jpg" }}
+                {{ $thumbnail := $thumbnail.Fit "600x700 Center" }}
+                {{ $thumbnail := $thumbnail.Resize "600x webp q90" }}
+              {{ end }}
+
+              <a href="{{ .RelPermalink }}#main" class="image" title="{{ .Title }} ({{ .Date| time.Format `2006` }})">
+                <div class="outset"><div class="frame"><div class="inset">
+                  <article class="item thumb span-{{ .Params.ratio }}">
+                    <img src="{{ $thumbnail.RelPermalink }}" loading="lazy" alt="{{ .Params.alt }}" title='{{ .Title }} ({{ .Date| time.Format "2006" }}) by Ben Young'>
+                  </article>
+                </div></div></div>
+
+                <div style="float:left; padding:0 0 0 1.5em; text-align:left;">
+                  {{ if lt (sub (now.Unix) (.Date.Unix)) 2592000 }}
+                    <strong style="color:#043908;">(New)</strong>
+                  {{ end }}
+                  <strong style="color:black;">{{ .Title }} &gt;</strong>
+                </div>
+
+                <div style="color:black; float:right; padding:0 1.5em 0 0; text-align:right;">
+                    {{ if or (eq .Params.status "sold") (eq .Params.status "gift") }}
+                      <strong style="color:#c00;">SOLD</strong>
+                    {{ else }}
+                      {{ if eq .Params.status "sale" }}
+                        {{ if .Params.products }}
+                          {{ $original := index (.Params.products) 0 }}
+                          <strong style="color:rgb(6, 67, 137);">{{ $original.price }}</strong>
+                        {{ end }}
+                      {{ end }}
+                    {{ end }}
+                </div>
+              </a>
+
+              <div class="mobmore">
+                <p>
+                  {{ .Description }}
+                </p>
+                <br>
+                {{ if or (eq .Params.status "sold") (eq .Params.status "gift") }}
+                  <a class="button" href="{{ .RelPermalink }}#purchase">Purchase Prints</a>
+                {{ else }}
+                  <a class="button" href="{{ .RelPermalink }}#purchase">Purchase Original</a>
+                {{ end }}
+              </div>
+            {{ end }}
+          {{ end }}
+        {{ end }}
+
+        <div class="item intro">
+          <a class="bigtext" href="/all#main"><strong>View All Artwork &gt;</strong></a>
+          <p>Discover the entire collection of <a href="/categories/painting/#main">paintings</a> and <a href="/categories/drawing/#main">drawings</a> by Midwest and Ohio native artist <a href="/about#main">Benjamin Young</a>.</p>
+        </div>
+      </div>
+    </section>
+
+    <section id="footer">
+      <section>
+        {{ partial "site-navigation.html" .}}
+
+        <address style="color: #aaa;">
+          324 Cleveland Ave NW.
+          Canton, Ohio 44702
+        </address>
+      </section>
+      <section>
+        <ul class="icons">
+          <li>
+            <a href="https://www.facebook.com/artist.benjamin.young" class="icon brands fa-facebook" title="Facebook" target="_blank">
+              <span class="label">Follow me on Facebook</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.instagram.com/artistbenyoung" class="icon brands fa-instagram" title="Instagram" target="_blank">
+              <span class="label">Follow me on Instagram</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.pinterest.com/artistbenyoung/" class="icon brands fa-pinterest" title="Pinterest" target="_blank">
+              <span class="label">Follow me on Pinterest</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://twitter.com/artistbenyoung" class="icon brands fa-twitter" title="Twitter" target="_blank">
+              <span class="label">Follow me on Twitter</span>
+            </a>
+          </li>
+        </ul>
+        <ul class="copyright" style="color: #aaa;">
+          <li>
+            &copy;
+            {{ with .Site.Copyright | default .Site.Title }}
+              {{ . | safeHTML }}
+              2023 -
+              {{ now.Format "2006"}}
+            {{ end }}
+          </li>
+        </ul>
+      </section>
+    </section>
+  </div>
+
+{{ end }}

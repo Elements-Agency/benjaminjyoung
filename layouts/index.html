@@ -1,219 +1,318 @@
-{{ define "styles" }}
-    {{ partial "site-style.html" . }}
-{{ end }}
+<!DOCTYPE HTML>
+<!--
+	Story by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Story by HTML5 UP</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="/css/main.css" />
+		<noscript><link rel="stylesheet" href="/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
 
-{{ define "scripts" }}
-    {{ partial "site-scripts.html" . }}
-{{ end }}
+		<!-- Wrapper -->
+			<div id="wrapper" class="divided">
 
-{{ define "main" }}
-  <div id="wrapper">
-    <section id="main">
-      <div class="items">
-        <div style="text-align: center;">
-          <a href="/about#main">
-            <img src="/images/ben-small.webp" alt="Contemporary Artist" width="120px" height="120px" style="margin-top:20px; border-radius: 500px; box-shadow: 0 0 10px #000;">
-            <img src="/images/logo.png" alt="Ben Young" height="100px" width="200px">
-          </a>
-        </div>
-        <div class="item intro" style="position: relative;">
-          <h1>{{ .Params.heading }}</h1>
-          {{ .Content }}
-        </div>
+				<!-- One -->
+					<section class="banner style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right">
+						<div class="content">
+							<h1>Artist Ben Young</h1>
+							<p class="major">
+								Benjamin is a contemporary artist, originating from North East Ohio.
+								Ben has journeyed around the world and through life, hoping to use those experiences in his paintings.
+								Bringing his emotions in to his narritive pieces, as well as capturing the sights he has treked in his landscapes.
+								Explore and feel through the emotions and sights of his masterpieces, all online.
+							</p>
+							<ul class="actions stacked">
+								<li><a href="#gallery" class="button big wide smooth-scroll-middle">Learn More</a></li>
+							</ul>
+						</div>
+						<div class="image">
+							<img src="images/banner.jpg" alt="" />
+						</div>
+					</section>
 
-        {{ $mainSections := .Site.Params.mainSections | default (slice "post") }}
-        {{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
-        {{ $section_count := len $section }}
+					<section class="wrapper style1 align-center" id="gallery">
+						<!-- Gallery -->
+                        <div class="gallery style2 medium lightbox onscroll-fade-in">
+                            {{ $mainSections := .Site.Params.mainSections | default (slice "post") }}
+                            {{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
+                            {{ range $i,$p := (sort (where (where $section "Params.featured" true) "Params.power" "lt" 300) "Params.order" "asc") }}
+                                {{ if lt $i 10 }}
+                                    {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
+                                    {{ $thumbnail := $thumbnail.Fill "360x250 Center" }}
+                                    {{ $thumbnail := $thumbnail.Resize "360x webp q90" }}
 
-        {{ if ge $section_count 1 }}
-          {{ $section_name := index (.Site.Params.mainSections) 0 }}
-          {{ $n_posts := $.Param "recent_posts_number" | default 120 }}
+                                    <article>
+                                        <a href="{{ .RelPermalink }}#main" class="image">
+                                            <img src="{{ $thumbnail.RelPermalink }}" alt="" />
+                                        </a>
+                                        <div class="caption">
+                                            <h3>{{ .Title }}</h3>
+                                            <p>{{ .Description }}</p>
+                                            <ul class="actions fixed">
+                                                <li><span class="button small">Details</span></li>
+                                            </ul>
+                                        </div>
+                                    </article>
+                                {{ end }}
+                            {{ end }}
+                        </div>
 
-          {{ range $i,$p := (sort (where $section "Params.featured" true) "Params.order" "asc") }}
-            {{ if lt $i 9 }}
+						<div class="inner">
+							<h2>Featured Artwork</h2>
+							<p>
+								Ben mainly works with oil paint and watercolors.
+								Occassionally drawing with watercolor pencils or oil pastels.
+								Inspired by impressionism, he mainly paints in realism.
+								The use of landscapes is inspired from everywhere he has visited, from Ohio to Germany.
+								His narritives are an expression of his own experiences and emotions.
+								The brushwork, an abstract expression in to every detail
+							</p>
 
-              {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
-              {{ $thumbnail := $thumbnail.Fit "600x600 Center" }}
-              {{ $thumbnail := $thumbnail.Resize "600x webp q90" }}
+								<ul class="actions stacked">
+									<li><a href="/gallery" class="button">View Gallery</a></li>
+								</ul>
+						</div>
 
-              {{ if eq $.Params.ratio "landscape" }}
-                {{ $thumbnail = .Resources.GetMatch "painting.jpg" }}
-                {{ $thumbnail := $thumbnail.Fit "600x400 Center" }}
-                {{ $thumbnail := $thumbnail.Resize "600x webp q90" }}
-              {{ end }}
+					</section>
 
-              {{ if eq $.Params.ratio "portrait" }}
-                {{ $thumbnail = .Resources.GetMatch "painting.jpg" }}
-                {{ $thumbnail := $thumbnail.Fit "600x700 Center" }}
-                {{ $thumbnail := $thumbnail.Resize "600x webp q90" }}
-              {{ end }}
+				<!-- Three -->
+					<section class="spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in">
+						<div class="content">
+							<h2>Latest News</h2>
+							<p>
+                                <em>July 16, 2024</em>
+                                -
+                                As the summer weather is in full force in the blazing sun of Ohio, the winter blues have melted away, and that emotion is clearly showing in my painting’s colors and mood. An update on my store front: I was not happy with the quality of the Print Posters I was offering through a Print on Order supplier. It was a mix of print quality and mainly to do with shipping methods of being rolled, causing some creasing.
+                            </p>
+							<ul class="actions stacked">
+								<li><a href="/news/2024-07-16/#main" class="button">Read More</a></li>
+							</ul>
+						</div>
+						<div class="image">
+							<img src="images/spotlight01.jpg" alt="" />
+						</div>
+					</section>
 
-              <a href="{{ .RelPermalink }}#main" class="image" title="{{ .Title }} ({{ .Date| time.Format `2006` }})">
-                <div class="outset"><div class="frame"><div class="inset">
-                  <article class="item thumb span-{{ .Params.ratio }}">
-                    <img src="{{ $thumbnail.RelPermalink }}" {{ if gt $i 2 }}loading="lazy"{{ end }} alt="{{ .Params.alt }}" title='{{ .Title }} ({{ .Date| time.Format "2006" }}) by Ben Young'>
-                  </article>
-                </div></div></div>
+				<!-- Four -->
+					<section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in">
+						<div class="content">
+							<h2>Newsletter Signup</h2>
+							<p>
+								Signup for Ben's art newsletter, and be entered in to a monthly drawing for a free reward.
+							</p>
+							<ul class="actions stacked">
+								<li><a href="/lead" class="button">Sign Up</a></li>
+							</ul>
+						</div>
+						<div class="image">
+							<img src="images/spotlight02.jpg" alt="" />
+						</div>
+					</section>
 
-                <div style="float:left; padding:0 0 0 1.5em; text-align:left;">
-                  {{ if lt (sub (now.Unix) (.Date.Unix)) 2592000 }}
-                    <strong style="color:#043908;">(New)</strong>
-                  {{ end }}
-                  <strong style="color:black;">{{ .Title }} &gt;</strong>
-                </div>
+				<!-- Five -->
+					<section class="wrapper style1 align-center">
+						<div class="inner">
+							<h2>Latest Creations</h2>
+							<p>Catch up on all of Ben's latest creations, paintings, and artwork, below.</p>
+							<ul class="actions stacked">
+								<li><a href="/artwork" class="button">Artwork Blog</a></li>
+							</ul>
+						</div>
 
-                <div style="color:black; float:right; padding:0 1.5em 0 0; text-align:right;">
-                    {{ if or (eq .Params.status "sold") (eq .Params.status "gift") }}
-                      <strong style="color:#c00;">SOLD</strong>
-                    {{ else }}
-                      {{ if eq .Params.status "sale" }}
-                        {{ if .Params.products }}
-                          {{ $original := index (.Params.products) 0 }}
-                          <strong style="color:rgb(6, 67, 137);">{{ $original.price |  }}</strong>
-                        {{ end }}
-                      {{ end }}
-                    {{ end }}
-                </div>
-              </a>
+						<!-- Gallery -->
+                        <div class="gallery style2 medium lightbox onscroll-fade-in">
+                            {{ $mainSections := .Site.Params.mainSections | default (slice "post") }}
+                            {{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
+                            {{ range $i,$p := $section }}
+                                {{ if lt $i 10 }}
+                                    {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
+                                    {{ $thumbnail := $thumbnail.Fill "360x250 Center" }}
+                                    {{ $thumbnail := $thumbnail.Resize "360x webp q90" }}
 
-              <div class="mobmore">
-                <p>
-                  {{ .Description }}
-                </p>
-                <br>
-                {{ if or (eq .Params.status "sold") (eq .Params.status "gift") }}
-                  <a class="button" href="{{ .RelPermalink }}#purchase">Purchase Prints</a>
-                {{ else }}
-                  <a class="button" href="{{ .RelPermalink }}#purchase">Purchase Original</a>
-                {{ end }}
-              </div>
-            {{ end }}
-          {{ end }}
-        {{ end }}
-      </div>
+                                    <article>
+                                        <a href="{{ .RelPermalink }}#main" class="image">
+                                            <img src="{{ $thumbnail.RelPermalink }}" alt="" />
+                                        </a>
+                                        <div class="caption">
+                                            <h3>{{ .Title }}</h3>
+                                            <p>{{ .Description }}</p>
+                                            <ul class="actions fixed">
+                                                <li><span class="button small">Details</span></li>
+                                            </ul>
+                                        </div>
+                                    </article>
+                                {{ end }}
+                            {{ end }}
+                        </div>
+					</section>
 
-      <div class="items">
-        {{ $mainSections := .Site.Params.mainSections | default (slice "post") }}
-        {{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
-        {{ $section_count := len $section }}
+				<!-- Six -->
+					<section class="wrapper style1 align-center">
+						<div class="inner">
+							<h2>Popular Prints</h2>
 
-        {{ if ge $section_count 1 }}
-          {{ $section_name := index (.Site.Params.mainSections) 0 }}
-          {{ $n_posts := $.Param "recent_posts_number" | default 120 }}
+							<script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?101772706&data_platform=code&data_date=2024-07-17" charset="utf-8"></script>
+							<script type="text/javascript">xProduct()</script>
 
-          {{ range $i,$p := (sort (where $section "Params.featured" true) "Params.order" "asc") }}
-            {{ if gt $i 8 }}
+							<p>
+								Not only does Ben offer the sale of <a href="/shop/#!/Originals/c/166807501">originals</a> online, but you can buy <a href="/shop/#!/Prints/c/166807502">prints</a> directly as well.
+							</p>
 
-              {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
-              {{ $thumbnail := $thumbnail.Fit "600x600 Center" }}
-              {{ $thumbnail := $thumbnail.Resize "600x webp q90" }}
+							<div id="my-search-101772706"></div>
+							<div>
+								<script type="text/javascript"> xSearch("id=my-search-101772706"); </script>
+							</div>
 
-              {{ if eq $.Params.ratio "landscape" }}
-                {{ $thumbnail = .Resources.GetMatch "painting.jpg" }}
-                {{ $thumbnail := $thumbnail.Fit "600x400 Center" }}
-                {{ $thumbnail := $thumbnail.Resize "600x webp q90" }}
-              {{ end }}
+							<div class="items style1 medium onscroll-fade-in">
+								<section>
+									<h3>Northern Cardinal</h3>
+									<div class="ecsp ecsp-SingleProduct-v2 ecsp-SingleProduct-v2-centered ecsp-Product ec-Product-678649275" itemscope itemtype="http://schema.org/Product" data-single-product-id="678649275">
+										<div itemprop="image"></div>
+										<div class="ecsp-title" itemprop="name" style="display:none;" content="Limited Print"></div>
+										<div itemtype="http://schema.org/Offer" itemscope itemprop="offers">
+											<div class="ecsp-productBrowser-price ecsp-price" itemprop="price" content="29" data-spw-price-location="button">
+												<div itemprop="priceCurrency" content="USD"></div>
+											</div>
+										</div>
+										<div customprop="addtobag"></div>
+									</div>
+							  </section>
+								<section>
+									<h3>Fry's Tree</h3>
+									<div class="ecsp ecsp-SingleProduct-v2 ecsp-SingleProduct-v2-centered ecsp-Product ec-Product-678649536" itemscope itemtype="http://schema.org/Product" data-single-product-id="678649536">
+										<div itemprop="image"></div>
+										<div class="ecsp-title" itemprop="name" style="display:none;" content="Limited Print"></div>
+										<div itemtype="http://schema.org/Offer" itemscope itemprop="offers">
+											<div class="ecsp-productBrowser-price ecsp-price" itemprop="price" content="29" data-spw-price-location="button">
+												<div itemprop="priceCurrency" content="USD"></div>
+											</div>
+										</div>
+										<div customprop="addtobag"></div>
+									</div>
+								</section>
+								<section>
+									<h3>Escape</h3>
+									<div class="ecsp ecsp-SingleProduct-v2 ecsp-SingleProduct-v2-centered ecsp-Product ec-Product-678649270" itemscope itemtype="http://schema.org/Product" data-single-product-id="678649270">
+										<div itemprop="image"></div>
+										<div class="ecsp-title" itemprop="name" style="display:none;" content="Limited Print"></div>
+										<div itemtype="http://schema.org/Offer" itemscope itemprop="offers">
+											<div class="ecsp-productBrowser-price ecsp-price" itemprop="price" content="29" data-spw-price-location="button">
+												<div itemprop="priceCurrency" content="USD"></div>
+											</div>
+										</div>
+										<div customprop="addtobag"></div>
+									</div>
+								</section>
+								<section>
+									<h3>Erie Rock</h3>
+									<div class="ecsp ecsp-SingleProduct-v2 ecsp-SingleProduct-v2-centered ecsp-Product ec-Product-678649273" itemscope itemtype="http://schema.org/Product" data-single-product-id="678649273">
+										<div itemprop="image"></div>
+										<div class="ecsp-title" itemprop="name" style="display:none;" content="Limited Print"></div>
+										<div itemtype="http://schema.org/Offer" itemscope itemprop="offers">
+											<div class="ecsp-productBrowser-price ecsp-price" itemprop="price" content="29" data-spw-price-location="button">
+												<div itemprop="priceCurrency" content="USD"></div>
+											</div>
+										</div>
+										<div customprop="addtobag"></div>
+									</div>
+							  </section>
+								<section>
+									<h3>Lily Pad</h3>
+									<div class="ecsp ecsp-SingleProduct-v2 ecsp-SingleProduct-v2-centered ecsp-Product ec-Product-678635073" itemscope itemtype="http://schema.org/Product" data-single-product-id="678635073">
+										<div itemprop="image"></div>
+										<div class="ecsp-title" itemprop="name" style="display:none;" content="Limited Print"></div>
+										<div itemtype="http://schema.org/Offer" itemscope itemprop="offers">
+											<div class="ecsp-productBrowser-price ecsp-price" itemprop="price" content="29" data-spw-price-location="button">
+												<div itemprop="priceCurrency" content="USD"></div>
+											</div>
+										</div>
+										<div customprop="addtobag"></div>
+									</div>
+							  </section>
+								<section>
+									<h3>Gehen Heim</h3>
+									<div class="ecsp ecsp-SingleProduct-v2 ecsp-SingleProduct-v2-centered ecsp-Product ec-Product-678652002" itemscope itemtype="http://schema.org/Product" data-single-product-id="678649275">
+										<div itemprop="image"></div>
+										<div class="ecsp-title" itemprop="name" style="display:none;" content="Limited Print"></div>
+										<div itemtype="http://schema.org/Offer" itemscope itemprop="offers">
+											<div class="ecsp-productBrowser-price ecsp-price" itemprop="price" content="29" data-spw-price-location="button">
+												<div itemprop="priceCurrency" content="USD"></div>
+											</div>
+										</div>
+										<div customprop="addtobag"></div>
+									</div>
+							  </section>
+							</div>
 
-              {{ if eq $.Params.ratio "portrait" }}
-                {{ $thumbnail = .Resources.GetMatch "painting.jpg" }}
-                {{ $thumbnail := $thumbnail.Fit "600x700 Center" }}
-                {{ $thumbnail := $thumbnail.Resize "600x webp q90" }}
-              {{ end }}
+							<div id="my-categories-101772706"></div>
+							<div>
+								<script type="text/javascript"> xCategoriesV2("id=my-categories-101772706"); </script>
+							</div>
+						</div>
+					</section>
 
-              <a href="{{ .RelPermalink }}#main" class="image" title="{{ .Title }} ({{ .Date| time.Format `2006` }})">
-                <div class="outset"><div class="frame"><div class="inset">
-                  <article class="item thumb span-{{ .Params.ratio }}">
-                    <img src="{{ $thumbnail.RelPermalink }}" loading="lazy" alt="{{ .Params.alt }}" title='{{ .Title }} ({{ .Date| time.Format "2006" }}) by Ben Young'>
-                  </article>
-                </div></div></div>
+				<!-- Footer -->
+					<footer class="wrapper style1 align-center">
+						<div class="inner">
+                            <strong>Quick Links:</strong>
+                            <ul style="list-style:none; display:inline-block;">
+                                <li style="display:inline-block;">
+                                    <a href="/about#main">About Artist</a>
+                                </li>
+                                <li style="display:inline-block;">
+                                    <a href="/artwork#main">Artwork &amp; Paintings</a>
+                                </li>
+                                <li style="display:inline-block;">
+                                    <a href="/shop#main">Shop Products</a>
+                                </li>
+                                <li style="display:inline-block;">
+                                    <a href="/news#main">News Updates</a>
+                                </li>
+                                <li style="display:inline-block;">
+                                    <a href="/contact#main">Contact Ben</a>
+                                </li>
+                            </ul>
+                            <br>
+                            <strong>Order Resources:</strong>
+                            <ul style="list-style:none; display:inline-block;">
+                                <li style="display:inline-block;">
+                                    <a href="/shipping#main">Shipping Policy</a>
+                                </li>
+                                <li style="display:inline-block;">
+                                    <a href="/returns#main">Returns Policy</a>
+                                </li>
+                                <li style="display:inline-block;">
+                                    <a href="/privacy#main">Privacy Policy</a>
+                                </li>
+                            </ul>
+                            
+							<ul class="icons">
+								<li><a href="https://instagram.com/artistbenyoung" class="icon brands style2 fa-instagram"><span class="label">Instagram</span></a></li>
+								<li><a href="https://facebook.com/artist.benjamin.young" class="icon brands style2 fa-facebook-f"><span class="label">Facebook</span></a></li>
+								<li><a href="https://twitter.com/artistbenyoung" class="icon brands style2 fa-twitter"><span class="label">Twitter</span></a></li>
+								<li><a href="https://pinterest.com/artistbenyoung" class="icon brands style2 fa-pinterest"><span class="label">Pinterest</span></a></li>
+								<li><a href="/contact" class="icon style2 fa-envelope"><span class="label">Email</span></a></li>
+							</ul>
+							<p>&copy; 2023-2024 Ben Young Arts, LLC. All rights reserved.</p>
+						</div>
+					</footer>
 
-                <div style="float:left; padding:0 0 0 1.5em; text-align:left;">
-                  {{ if lt (sub (now.Unix) (.Date.Unix)) 2592000 }}
-                    <strong style="color:#043908;">(New)</strong>
-                  {{ end }}
-                  <strong style="color:black;">{{ .Title }} &gt;</strong>
-                </div>
+			</div>
 
-                <div style="color:black; float:right; padding:0 1.5em 0 0; text-align:right;">
-                    {{ if or (eq .Params.status "sold") (eq .Params.status "gift") }}
-                      <strong style="color:#c00;">SOLD</strong>
-                    {{ else }}
-                      {{ if eq .Params.status "sale" }}
-                        {{ if .Params.products }}
-                          {{ $original := index (.Params.products) 0 }}
-                          <strong style="color:rgb(6, 67, 137);">{{ $original.price }}</strong>
-                        {{ end }}
-                      {{ end }}
-                    {{ end }}
-                </div>
-              </a>
+		<!-- Scripts -->
+			<script src="/js/jquery.min.js"></script>
+			<script src="/js/jquery.scrollex.min.js"></script>
+			<script src="/js/jquery.scrolly.min.js"></script>
+			<script src="/js/browser.min.js"></script>
+			<script src="/js/breakpoints.min.js"></script>
+			<script src="/js/util.js"></script>
+			<script src="/js/main.js"></script>
 
-              <div class="mobmore">
-                <p>
-                  {{ .Description }}
-                </p>
-                <br>
-                {{ if or (eq .Params.status "sold") (eq .Params.status "gift") }}
-                  <a class="button" href="{{ .RelPermalink }}#purchase">Purchase Prints</a>
-                {{ else }}
-                  <a class="button" href="{{ .RelPermalink }}#purchase">Purchase Original</a>
-                {{ end }}
-              </div>
-            {{ end }}
-          {{ end }}
-        {{ end }}
-
-        <div class="item intro">
-          <a class="bigtext" href="/all#main"><strong>View All Artwork &gt;</strong></a>
-          <p>Discover the entire collection of <a href="/categories/painting/#main">paintings</a> and <a href="/categories/drawing/#main">drawings</a> by Midwest and Ohio native artist <a href="/about#main">Benjamin Young</a>.</p>
-        </div>
-      </div>
-    </section>
-
-    <section id="footer">
-      <section>
-        {{ partial "site-navigation.html" .}}
-
-        <address style="color: #aaa;">
-          324 Cleveland Ave NW.
-          Canton, Ohio 44702
-        </address>
-      </section>
-      <section>
-        <ul class="icons">
-          <li>
-            <a href="https://www.facebook.com/artist.benjamin.young" class="icon brands fa-facebook" title="Facebook" target="_blank">
-              <span class="label">Follow me on Facebook</span>
-            </a>
-          </li>
-          <li>
-            <a href="https://www.instagram.com/artistbenyoung" class="icon brands fa-instagram" title="Instagram" target="_blank">
-              <span class="label">Follow me on Instagram</span>
-            </a>
-          </li>
-          <li>
-            <a href="https://www.pinterest.com/artistbenyoung/" class="icon brands fa-pinterest" title="Pinterest" target="_blank">
-              <span class="label">Follow me on Pinterest</span>
-            </a>
-          </li>
-          <li>
-            <a href="https://twitter.com/artistbenyoung" class="icon brands fa-twitter" title="Twitter" target="_blank">
-              <span class="label">Follow me on Twitter</span>
-            </a>
-          </li>
-        </ul>
-        <ul class="copyright" style="color: #aaa;">
-          <li>
-            &copy;
-            {{ with .Site.Copyright | default .Site.Title }}
-              {{ . | safeHTML }}
-              2023 -
-              {{ now.Format "2006"}}
-            {{ end }}
-          </li>
-        </ul>
-      </section>
-    </section>
-  </div>
-
-{{ end }}
+	</body>
+</html>
