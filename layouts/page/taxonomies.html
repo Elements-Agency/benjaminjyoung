@@ -29,7 +29,7 @@
             <div class="measure-wide-l center f4 lh-copy nested-copy-line-height nested-links {{ $.Param "text_color" | default "mid-gray" }}">
               <h1>{{ .Title }}</h1>
               <p>{{ .Content }}</p>
-              <p>Here is a list of all repeated tags, sorted by most used:</p>
+              <p>Here is a cloud chart of all repeated taxonomies:</p>
             </div>
           </article>
           <div class="mw8 center">
@@ -37,11 +37,13 @@
             <script>
                 document.addEventListener("DOMContentLoaded", () => {
                     var data = [
-                      {{ range .Data.Terms.ByCount }}
-                          {{ if gt .Count 1 }}
-                              {x: "{{ .Page.Title }}", value: {{ .Count }}, link: {{ .Page.Permalink }} },
-                          {{ end }}
-                      {{ end }}
+                    {{ range $taxonomy, $terms := .Site.Taxonomies }}
+                        {{ range $terms.ByCount }}
+                            {{ if gt .Count 1 }}
+                                {x: "{{ .Page.Title }}", value: {{ .Count }}, link: {{ .Page.Permalink }} },
+                            {{ end }}
+                        {{ end }}
+                    {{ end }}
                     ];
 
                     // create a chart and set the data
@@ -73,22 +75,6 @@
                     chart.draw();
                 });
             </script>
-            <section class="ph4">
-              <ul>
-                {{ range .Data.Terms.ByCount }}
-                  {{ if gt .Count 1 }}
-                    <li style="display: inline-block; list-style: none;">
-                      <a class="button" style="margin: 0.5em 0;" href="{{ .Page.Permalink }}#main">
-                        {{ .Page.Title }}
-                        <span class="count" style="color:gray;">
-                          ({{ .Count }})
-                        </span>
-                      </a>
-                    </li>
-                  {{ end }}
-                {{ end }}
-              </ul>
-            </section>
           </div>
         </section>
     </div>
