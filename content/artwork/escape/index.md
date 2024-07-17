@@ -45,6 +45,12 @@ products:
     - id: 678649270
       name: Limited Print
       price: $29
+    - id: 646467810
+      name: Jigsaw Puzzle
+      price: $39.99
+    - id: 645943624
+      name: Original Painting
+      price: $400
 
 buyer: Fred Boone
 ---

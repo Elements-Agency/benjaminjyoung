@@ -42,6 +42,9 @@ products:
     - id: 679421847
       name: Original Drawing
       price: $200
+    - id: 647332753
+      name: Framed Print
+      price: $59.99
 
 buyer: 
 ---

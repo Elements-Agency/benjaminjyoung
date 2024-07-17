@@ -44,7 +44,7 @@ status: sale
 products:
     - id: 647311351
       name: Thin Canvas Print
-      price: $49
+      price: $49.99
 ---
 
 **Monochromatic Maelstorm** is an abstract painting. The color palette is primarily monochromatic, featuring different shades of black, gray, and white, with some areas where a deep, navy-like blue is present. The composition is dynamic, with fluid shapes and splatters distributed across the canvas. The use of black and blue creates a sense of depth and contrast against the lighter areas. There are also spots where the paint seems to have been allowed to drip or splatter freely, giving the piece a spontaneous and expressive feel.

@@ -45,6 +45,9 @@ products:
     - id: 678652002
       name: Limited Print
       price: $29
+    - id: 645990286
+      name: Original Painting
+      price: $500
 
 buyer: Fred Boone
 ---

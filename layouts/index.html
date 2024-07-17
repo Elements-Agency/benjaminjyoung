@@ -80,7 +80,7 @@
                         </div>
 
 						<!-- Gallery -->
-                        <div class="gallery style2 medium lightbox onscroll-fade-in">
+                        <div class="gallery style2 medium onscroll-fade-in">
                             {{ $mainSections := .Site.Params.mainSections | default (slice "post") }}
                             {{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
                             {{ range $i,$p := (sort (where (where $section "Params.featured" true) "Params.power" "lt" 300) "Params.order" "asc") }}
@@ -165,7 +165,7 @@
                         </div>
 
 						<!-- Gallery -->
-                        <div class="gallery style2 medium lightbox onscroll-fade-in">
+                        <div class="gallery style2 medium onscroll-fade-in">
                             {{ $mainSections := .Site.Params.mainSections | default (slice "post") }}
                             {{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
                             {{ range $i,$p := $section }}

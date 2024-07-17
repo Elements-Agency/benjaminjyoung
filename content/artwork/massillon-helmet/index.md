@@ -45,6 +45,12 @@ products:
     - id: 654299512
       name: Original Painting
       price: $800
+    - id: 651736516
+      name: Framed Print
+      price: $59.99
+    - id: 651739322
+      name: Coffee Mug
+      price: $19.99
 
 buyer: 
 ---

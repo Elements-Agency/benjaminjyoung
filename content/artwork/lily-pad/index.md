@@ -44,6 +44,9 @@ products:
     - id: 672644323
       name: Original Painting
       price: $300
+    - id: 678635073
+      name: Limited Print
+      price: $29
 
 buyer: 
 ---

@@ -45,6 +45,12 @@ products:
     - id: 678649536
       name: Limited Print
       price: $29
+    - id: 658509196
+      name: Jigsaw Puzzle
+      price: $39.99
+    - id: 645990323
+      name: Original Painting
+      price: $600
 
 buyer: Ted Turner
 ---

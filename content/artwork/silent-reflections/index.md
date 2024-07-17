@@ -43,6 +43,12 @@ products:
     - id: 670473779
       name: Original Painting
       price: $400
+    - id: 671656572
+      name: Dry Run
+      price: $50
+    - id: 671275580
+      name: Framed Print
+      price: $59.99
 
 buyer: 
 ---

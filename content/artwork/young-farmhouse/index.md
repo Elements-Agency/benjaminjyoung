@@ -46,6 +46,9 @@ products:
     - id: 648124011
       name: Original Painting
       price: $300
+    - id: 648790896
+      name: Framed Print
+      price: $59.99
 
 buyer: 
 ---

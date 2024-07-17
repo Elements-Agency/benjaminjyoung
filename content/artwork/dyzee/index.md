@@ -41,7 +41,7 @@ status: sale
 products:
     - id: 647311349
       name: Thin Canvas Print
-      price: $49
+      price: $49.99
 
 buyer: 
 ---

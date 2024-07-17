@@ -45,6 +45,9 @@ products:
     - id: 645940862
       name: Original Painting
       price: $300
+    - id: 647310888
+      name: Canvas Print
+      price: $49.99
 
 buyer: 
 ---
