@@ -6,7 +6,9 @@
     {{ partial "inside-scripts.html" . }}
 
     <script>
-      fbq('track', 'Search');
+      document.addEventListener("DOMContentLoaded", () => {
+        fbq('track', 'Search');
+      });
     </script>
 {{ end }}
 

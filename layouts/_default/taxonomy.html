@@ -4,6 +4,12 @@
 
 {{ define "scripts" }}
     {{ partial "inside-scripts.html" . }}
+
+    <script>
+      document.addEventListener("DOMContentLoaded", () => {
+        fbq('track', 'Search');
+      });
+    </script>
 {{ end }}
 
 {{ define "main" }}
@@ -46,9 +52,5 @@
 
     {{ block "footer" . }}{{ partialCached "inside-footer.html" . }}{{ end }}
   </div>
-
-  <script>
-    fbq('track', 'Search');
-  </script>
   
 {{ end }}
