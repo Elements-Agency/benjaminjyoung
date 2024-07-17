@@ -23,7 +23,7 @@ supplies:
   - frame: Michaels
 size: 9x12in (22.8x30.4cm)
 
-categories: [impression, drawing]
+categories: [impressionism, drawing]
 mediums: [oil pastel]
 materials: [paper]
 colors: [yellow, green, grey, brown]

@@ -23,7 +23,7 @@ supplies:
   - frame: 
 size: 8x10in (20.32x25.4)
 
-categories: [impression, still life, floral, painting]
+categories: [impressionism, still life, floral, painting]
 mediums: [acrylic]
 materials: [canvas]
 colors: [yellow, white, green]

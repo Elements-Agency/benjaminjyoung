@@ -23,7 +23,7 @@ supplies:
   - frame: Cyrus Custom Framing
 size: 12x9in (30.4x22.8cm)
 
-categories: [impression, landscape, painting]
+categories: [impressionism, landscape, painting]
 mediums: [watercolor]
 materials: [paper]
 colors: [red, green, brown, blue]

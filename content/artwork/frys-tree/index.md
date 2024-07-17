@@ -23,7 +23,7 @@ supplies:
   - frame: Cyrus Custom Framing
 size: 9x12in (22.8x30.4cm)
 
-categories: [impression, realism, landscape, painting]
+categories: [impressionism, realism, landscape, painting]
 mediums: [watercolor, gouache]
 materials: [paper]
 colors: [black, blue]

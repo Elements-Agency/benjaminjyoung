@@ -23,7 +23,7 @@ supplies:
   - frame: Michaels
 size: 9x12in (22.9x30.5cm)
 
-categories: [impression, self portrait, drawing]
+categories: [impressionism, self portrait, drawing]
 mediums: [oil pastel]
 materials: [construction paper]
 colors: [black, grey]

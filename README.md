@@ -31,7 +31,7 @@ supplies:
   - frame: Cyrus Custom Framing
 size: 1x2in (2.54x5.08cm)
 
-categories: [impression, realism, abstract, landscape, animal, still life, floral, self portrait, narrative, painting, drawing]
+categories: [impressionism, realism, abstract, landscape, animal, still life, floral, self portrait, narrative, painting, drawing]
 mediums: [watercolor, oil, oil pastel, graphite pencil, watercolor pencil, gouache]
 materials: [cotton paper, canvas]
 colors: [red, green, blue]
