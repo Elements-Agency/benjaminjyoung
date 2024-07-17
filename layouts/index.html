@@ -86,12 +86,12 @@
                             {{ range $i,$p := (sort (where (where $section "Params.featured" true) "Params.power" "lt" 300) "Params.order" "asc") }}
                                 {{ if lt $i 10 }}
                                     {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
-                                    {{ $thumbnail := $thumbnail.Fill "420x292 Center" }}
-                                    {{ $thumbnail := $thumbnail.Resize "420x webp q90" }}
+                                    {{ $thumbnail := $thumbnail.Fill "360x250 Center" }}
+                                    {{ $thumbnail := $thumbnail.Resize "360x webp q90" }}
 
                                     <article>
                                         <a href="{{ .RelPermalink }}#main" class="image">
-                                            <img src="{{ $thumbnail.RelPermalink }}" alt="{{ .Params.alt }}" width="420px" height="292px" />
+                                            <img src="{{ $thumbnail.RelPermalink }}" alt="{{ .Params.alt }}" width="360px" height="250px" />
                                         </a>
                                         <div class="caption">
                                             <h3>{{ .Title }}</h3>
@@ -125,14 +125,14 @@
 				<!-- Three -->
 					<section class="spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in">
 						<div class="content">
-							<h2>Latest News</h2>
+							<h2><a href="/news">Latest News</a></h2>
 							<p>
-                                <em>July 16, 2024</em>
+                                <a href="/news/2024-07-16/#main"><em>July 16, 2024</em></a>
                                 -
                                 As the summer weather is in full force in the blazing sun of Ohio, the winter blues have melted away, and that emotion is clearly showing in my painting’s colors and mood. An update on my store front: I was not happy with the quality of the Print Posters I was offering through a Print on Order supplier. It was a mix of print quality and mainly to do with shipping methods of being rolled, causing some creasing.
                             </p>
 							<ul class="actions stacked">
-								<li><a href="/news/2024-07-16/#main" class="button">Read More</a></li>
+								<li><a href="/news/2024-07-16/#main" class="button">Read Article</a></li>
 							</ul>
 						</div>
 						<div class="image">
@@ -171,12 +171,12 @@
                             {{ range $i,$p := $section }}
                                 {{ if lt $i 10 }}
                                     {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
-                                    {{ $thumbnail := $thumbnail.Fill "420x292 Center" }}
-                                    {{ $thumbnail := $thumbnail.Resize "420x webp q90" }}
+                                    {{ $thumbnail := $thumbnail.Fill "360x250 Center" }}
+                                    {{ $thumbnail := $thumbnail.Resize "360x webp q90" }}
 
                                     <article>
                                         <a href="{{ .RelPermalink }}#main" class="image">
-                                            <img src="{{ $thumbnail.RelPermalink }}" alt="{{ .Params.alt }}" width="420px" height="292px"  />
+                                            <img src="{{ $thumbnail.RelPermalink }}" alt="{{ .Params.alt }}" width="360px" height="250px"  />
                                         </a>
                                         <div class="caption">
                                             <h3>{{ .Title }}</h3>
@@ -343,11 +343,11 @@
                             </ul>
                             
 							<ul class="icons">
-								<li><a href="https://instagram.com/artistbenyoung" class="icon brands style2 fa-instagram"><span class="label">Follow Me on Instagram</span></a></li>
-								<li><a href="https://facebook.com/artist.benjamin.young" class="icon brands style2 fa-facebook-f"><span class="label">Follow Me on Facebook</span></a></li>
-								<li><a href="https://twitter.com/artistbenyoung" class="icon brands style2 fa-twitter"><span class="label">Follow me on Twitter</span></a></li>
-								<li><a href="https://pinterest.com/artistbenyoung" class="icon brands style2 fa-pinterest"><span class="label">Follow Me on Pinterest</span></a></li>
-								<li><a href="/contact" class="icon style2 fa-envelope"><span class="label">Contact Me by Email</span></a></li>
+								<li><a href="https://instagram.com/artistbenyoung" class="icon brands style2 fa-instagram" aria-label="Follow Artist Ben Young on Instagram"><span class="label">Instagram</span></a></li>
+								<li><a href="https://facebook.com/artist.benjamin.young" class="icon brands style2 fa-facebook-f" aria-label="Follow Artist Ben Young on Facebook"><span class="label">Facebook</span></a></li>
+								<li><a href="https://twitter.com/artistbenyoung" class="icon brands style2 fa-twitter" aria-label="Follow Artist Ben Young on Twitter"><span class="label">Twitter</span></a></li>
+								<li><a href="https://pinterest.com/artistbenyoung" class="icon brands style2 fa-pinterest" aria-label="Follow Artist Ben Young on Pinterest"><span class="label">Pinterest</span></a></li>
+								<li><a href="/contact" class="icon style2 fa-envelope" aria-label="Contact Artist Ben Young"><span class="label">Email</span></a></li>
 							</ul>
 
                             <p>
