@@ -4,6 +4,12 @@
 
 {{ define "scripts" }}
     {{ partial "inside-scripts.html" . }}
+
+    <script>
+      document.addEventListener("DOMContentLoaded", () => {
+        fbq('track', 'ViewContent');
+      });
+    </script>
 {{ end }}
 
 {{ define "main" }}
