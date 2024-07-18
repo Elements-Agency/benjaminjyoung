@@ -530,6 +530,9 @@ readers do not read off random characters that represent icons */
 .fa-map-pin::before {
   content: "\f276"; }
 
+.fa-shopping-cart:before {
+  content: "\f07a"; }
+
 .fa-facebook:before {
   content: "\f09a"; }
   
