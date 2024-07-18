@@ -107,128 +107,6 @@
               <div>
                 {{ if or (eq .Params.status "sale") (eq .Params.status "sold") }}
                   <hr class="clear">
-                  
-                  <!--{{ $product := index (.Params.products) 0 }}
-
-                  <h2 id="purchase">Purchase {{ $product.name }}</h2>
-
-                  <p style="line-height:1.5em;">
-                    Save site-wide with a <strong>LIMITED TIME DISCOUNT</strong> on all products, including <strong>FREE SHIPPING</strong> on domestic orders!
-                    <span id="holiday"></span>
-                  </p>
-                  <script>
-                    function pad(d) {
-                      return (d < 10) ? '0' + d.toString() : d.toString();
-                    }
-
-                    var now = new Date();
-                    var start = new Date(now.getFullYear(), 0, 0);
-                    var diff = (now - start) + ((start.getTimezoneOffset() - now.getTimezoneOffset()) * 60 * 1000);
-                    var oneDay = 1000 * 60 * 60 * 24;
-                    var day = Math.floor(diff / oneDay);
-
-                    var holiday = 'Dec 31';
-                    var datestring = '';
-
-                    if (day <= 15) {
-                      var holiday = 'In celebration of the New Year, get some new artwork!';
-                      var datestring = 'Jan 15';
-                    } else if (day <= 31) {
-                      var holiday = '';
-                      var datestring = 'Feb 1';
-                    } else if (day <= 46) {
-                      var holiday = 'Buy something for a Valentines gift!';
-                      var datestring = 'Feb 15';
-                    } else if (day <= 60) {
-                      var holiday = '';
-                      var datestring = 'Mar 1';
-                    } else if (day <= 78) {
-                      var holiday = 'Save for St. Patricks Day.';
-                      var datestring = 'Mar 18';
-                    } else if (day <= 81) {
-                      var holiday = 'Save for upcoming spring, in my Spring Cleaning sale!';
-                      var datestring = 'Mar 21';
-                    } else if (day <= 110) {
-                      var holiday = 'Save for an Easter gift.';
-                      var datestring = 'Apr 20';
-                    } else if (day <= 113) {
-                      var holiday = 'Save for Earth Day and we give back to offset carbon footprint.';
-                      var datestring = 'Apr 23';
-                    } else if (day <= 129) {
-                      var holiday = 'Just in time for Mothers Day.';
-                      var datestring = 'May 9';
-                    } else if (day <= 171) {
-                      var holiday = 'Save just in time for Fathers Day and get dad something truly unique.';
-                      var datestring = 'Jun 20';
-                    } else if (day <= 173) {
-                      var holiday = 'Save for the upcoming summer.';
-                      var datestring = 'Jun 22';
-                    } else if (day <= 259) {
-                      var holiday = 'Back to school sale!';
-                      var datestring = 'Sep 16';
-                    } else if (day <= 266) {
-                      var holiday = 'Celebrate the upcoming Autumn with my festive artwork.';
-                      var datestring = 'Sep 23';
-                    } else if (day <= 283) {
-                      var holiday = 'Save and give back for World Mental Health Day.';
-                      var datestring = 'Oct 10';
-                    } else if (day <= 335) {
-                      var holiday = 'Black Friday Savings, for the month of November!';
-                      var datestring = 'Dec 1';
-                    } else if (day <= 362) {
-                      var holiday = 'December Multi-Holiday Sale!';
-                      var datestring = 'Dec 27';
-                    } else if (day <= 366) {
-                      var holiday = 'New Years, New Savings!';
-                      var datestring = 'Jan 15';
-                    }
-
-                    document.getElementById('holiday').innerHTML = holiday;
-                  </script>-->
-
-                  <!--<div id="my-store-101772706"></div>
-                  <div>
-                    <script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?101772706&data_platform=code&data_date=2024-05-05" charset="utf-8"></script>
-                    <script type="text/javascript">
-                      document.addEventListener("DOMContentLoaded", () => {
-                        window.ec=window.ec||{}; 
-                        window.ec.config = window.ec.config || Object();
-                        window.ec.config.navigation_scrolling = "DISABLED";
-                        window.ec.storefront=window.ec.storefront||{}; 
-                        window.ec.storefront.enable_navigation=true;
-                        window.ec.storefront.product_details_layout="TWO_COLUMNS_SIDEBAR_ON_THE_RIGHT";
-                        window.ec.storefront.product_details_gallery_layout="SINGLE_IMAGE";
-                        window.ec.storefront.product_details_two_columns_with_right_sidebar_show_product_description_on_sidebar=true;
-                        window.ec.storefront.product_details_two_columns_with_left_sidebar_show_product_description_on_sidebar=false;
-                        window.ec.storefront.product_details_show_product_name=true;
-                        window.ec.storefront.product_details_show_breadcrumbs=false;
-                        window.ec.storefront.product_details_show_product_sku=false;
-                        window.ec.storefront.product_details_show_product_price=true;
-                        window.ec.storefront.product_details_show_in_stock_label=true;
-                        window.ec.storefront.product_details_show_number_of_items_in_stock=true;
-                        window.ec.storefront.product_details_show_qty=false;
-                        window.ec.storefront.product_details_show_wholesale_prices=false;
-                        window.ec.storefront.product_details_show_product_options=true;
-                        window.ec.storefront.product_details_show_product_description=true;
-                        window.ec.storefront.product_details_show_delivery_time=undefined;
-                        window.ec.storefront.product_details_show_share_buttons=false;
-                        window.ec.storefront.product_details_position_product_name=100;
-                        window.ec.storefront.product_details_position_breadcrumbs=200;
-                        window.ec.storefront.product_details_position_product_sku=300;
-                        window.ec.storefront.product_details_position_product_price=500;
-                        window.ec.storefront.product_details_position_product_options=undefined;
-                        window.ec.storefront.product_details_position_buy_button=600;
-                        window.ec.storefront.product_details_position_wholesale_prices=700;
-                        window.ec.storefront.product_details_position_product_description=900;
-                        window.ec.storefront.product_details_position_delivery_time=undefined;
-                        window.ec.storefront.product_details_position_share_buttons=800;
-                        window.ec.storefront.product_details_position_subtitle=400;
-                        window.ec.storefront.product_details_show_subtitle=true;
-
-                        xProductBrowser("categoriesPerRow=3","views=grid(20,3) list(60) table(60)","categoryView=grid","searchView=list","defaultProductId={{ $product.id }}","defaultSlug={{ .Slug }}-purchase","id=my-store-101772706");
-                      });
-                    </script>
-                  </div>-->
 
                   <h2 id="purchase">Purchase {{ .Title }}</h2>
 
@@ -322,13 +200,13 @@
 
             <div class="next-post" style="float:left;">
               {{ if .NextPage }}
-              <a class="link-reverse" href="{{ .NextPage.Permalink }}#main">« {{ .NextPage.Title | truncate 50 "..." }}</a>
+                <a class="link-reverse" href="{{ .NextPage.Permalink }}#main">« {{ .NextPage.Title | truncate 50 "..." }}</a>
               {{ end }}
             </div>
             
             <div class="previous-post" style="float:right;">
               {{ if .PrevPage }}
-              <a class="link-reverse" href="{{ .PrevPage.Permalink }}#main">{{ .PrevPage.Title | truncate 50 "..."}} »</a>
+                <a class="link-reverse" href="{{ .PrevPage.Permalink }}#main">{{ .PrevPage.Title | truncate 50 "..."}} »</a>
               {{ end }}
             </div>
         </section>
