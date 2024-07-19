@@ -6,16 +6,20 @@
 {{ end }}
 {{ $favorites := $posts | symdiff .Data.Pages }}
 
-<ul style="text-align: center; padding: 0; margin: 0;">
-    {{ range first 6 $favorites }}
-        <li style="list-style:none; display:inline-block; text-align:center;">
-        <a class="thumbnail" href="{{ .RelPermalink }}#main">
-            {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
-            {{ $thumbnail := $thumbnail.Fill "200x200 Center" }}
-            {{ $thumbnail := $thumbnail.Resize "200x webp q90" }}
+<div class="box alt">
+    <div class="row gtr-50 gtr-uniform">
+        {{ range first 6 $favorites }}
+            <div class="col-2">
+                <span class="image fit">
+                    <a class="thumbnail" href="{{ .RelPermalink }}#main">
+                        {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
+                        {{ $thumbnail := $thumbnail.Fill "300x300 Center" }}
+                        {{ $thumbnail := $thumbnail.Resize "300x webp q90" }}
 
-            <img style="background: #000 url('/images/loader.gif') center no-repeat;" src="{{ $thumbnail.RelPermalink }}" width="130px" height="130px" loading="lazy" alt="{{- .Title -}}" title='{{ .Title }}' />
-        </a>
-        </li>
-    {{ end }}
-</ul>
+                        <img class="loader" src="{{ $thumbnail.RelPermalink }}" loading="lazy" alt="{{- .Title -}}" title='{{ .Title }}' />
+                    </a>
+                </span>
+            </div>
+        {{ end }}
+    </div>
+</div>

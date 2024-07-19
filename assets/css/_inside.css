@@ -4691,6 +4691,9 @@ input, select, textarea {
 		border-radius: 500px;
 		margin: 0 0 1em 2em;
 	}
+	.rounded {
+		border-radius: 500px;
+	}
 
 	.clear {
 		clear: both;
@@ -4712,4 +4715,8 @@ input, select, textarea {
 	.floatleftstack {
 		float: left;
 		padding: 0 5px;
+	}
+
+	.loader {
+		background: #000 url('/images/loader.gif') center no-repeat;
 	}

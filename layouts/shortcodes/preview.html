@@ -7,12 +7,14 @@
     {{ end }}
 
     {{ range $posts }}
-        <a class="thumbnail" href="{{ .RelPermalink }}#main">
-            {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
-            {{ $thumbnail := $thumbnail.Fill "100x100 Center" }}
-            {{ $thumbnail := $thumbnail.Resize "100x webp q90" }}
+        {{ if ($.Get "col") }}<div class="col-{{ $.Get "col" }}"><span class="image fit">{{ end }}
+            <a class="thumbnail" href="{{ .RelPermalink }}#main">
+                {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
+                {{ $thumbnail := $thumbnail.Fill "400x400 Center" }}
+                {{ $thumbnail := $thumbnail.Resize "400x webp q90" }}
 
-            <img style="background: #000 url('/images/loader.gif') center no-repeat;" src="{{ $thumbnail.RelPermalink }}" width="100px" height="100px" loading="lazy" alt="{{- .Title -}}" title='{{ .Title }}' />
-        </a>
+                <img style="background: #000 url('/images/loader.gif') center no-repeat;" src="{{ $thumbnail.RelPermalink }}" loading="lazy" alt="{{- .Title -}}" title='{{ .Title }}' />
+            </a>
+        {{ if ($.Get "col") }}</span></div>{{ end }}
     {{ end }}
 {{ end }}

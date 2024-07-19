@@ -13,10 +13,12 @@ The winner IS: **Richard R.** from Ohio!
 
 I will run another contest and a free art print winner will be chosen again at the end of July, to all email newsletter subscribers. An be sure to also checkout the latest paintings done recently, below:
 
-{{< preview painting="/artwork/sailing-away-schoon/" >}}
-{{< preview painting="/artwork/silent-reflections/" >}}
-{{< preview painting="/artwork/creepy-clown/" >}}
-{{< preview painting="/artwork/pomonas-bowl/" >}}
-{{< preview painting="/artwork/blue-jay/" >}}
+{{< row-start >}}
+    {{< preview col="2" painting="/artwork/sailing-away-schoon/" >}}
+    {{< preview col="2" painting="/artwork/silent-reflections/" >}}
+    {{< preview col="2" painting="/artwork/creepy-clown/" >}}
+    {{< preview col="2" painting="/artwork/pomonas-bowl/" >}}
+    {{< preview col="2" painting="/artwork/blue-jay/" >}}
+{{< row-end >}}
 
-{{< button text="View More Artwork" href="/" >}}
+{{< button class="fit" text="View More Artwork" href="/" >}}

@@ -5,19 +5,19 @@ heading: About Artist
 description: Learn more about the contemporary artist, Ben Young. From his artistic story to his specialties in painting.
 ---
 
-{{< img class="benpro" width="140px" height="140px" src="/images/ben-small.webp" alt="Photo of Benjamin J. Young" title="Ben Young" >}}
-
 ## Benjamin J. Young ##
+
+{{< img span="image right" class="rounded" src="/images/ben-small.webp" alt="Photo of Benjamin J. Young" title="Ben Young" >}}
 
 I'm more of a traditional painter. Focusing a lot on landscapes or paintings that carry some narrative, a lot of times conjoining those two subjects. As a contemporary artist, my style is heavily influenced by impressionism, but is still within the realm of realism. The most important objective with my artwork, is if I can get the viewers of it to resonate some emotion or memory, I have done my job well. That's not to say it will always be a happy feeling, but each individual will hopefully have their own interpretation and unique relation to what they see in front of them.
 
 My artistic journey is not on par with most of your every-day artists. I never went to art school. I have no formal education in drawing or painting. I was born with artistic talent. Probably a gift at birth from my father. Everyone will agree I have the gift intelligence. I have out of the box creativity. I can objectively look at my work, identify and harshly judge what I have done wrong, and I'm no stranger to obsession through failure until I can make it right. Often battling with my own perfectionism, as do most artists do.
 
-{{< button text="Browse Artwork" href="/gallery" >}}
+{{< button class="fit" text="Browse Artwork" href="/gallery" >}}
 
 ### Artist Story ###
 
-{{< img class="floatright" width="200px" src="/images/ben-kid.jpg" alt="Child Ben" title="Child Ben" >}}
+{{< img span="image right" src="/images/ben-kid.jpg" alt="Child Ben" title="Child Ben" >}}
 
 In childhood, I was told from my earliest memories my drawing skills were phenomenal. The phrase "child prodigy" was thrown around far too much, and I wish it hadn't. I was receptively pressured to refine my skills, eventually being put in to private programs to help me develop my skills. As my maverick personality was in it's adolescence of development, eventually being told what to do constantly ignited my spite of something I used to enjoy of my own free will.
 
@@ -25,11 +25,11 @@ So after my last 8th grade art class (age 15), I never picked up another pencil 
 
 In adulthood, I became a Software Engineer. I would go on for 15 years building that career, being heavily recognized in that field for some of the projects I helped build. Meanwhile, I have lost count of how many LLCs I have owned over the years, some of them failures, and some of them not. Continuing my hunger for learning, and starting businesses on the side in marketing, investments, and even chemistry. I loved my career and accomplishments. I still do. But my career had nothing to do with my come-back in to art...
 
-{{< img class="floatleft" width="200px" src="/images/ben-fat.jpg" alt="Fat Ben" title="Fat Ben" >}}
+{{< img span="image left" src="/images/ben-fat.jpg" alt="Fat Ben" title="Fat Ben" >}}
 
 ...It was always about love for me. Sometimes love for us, can have lasting and traumatizing consequences. It was in my early 20s, I would meet someone special. It was during a time of darkness for me, not long after I had split with my highschool sweetheart and prior fiancee. Her loving and supportive nature of me was simply fantastic, but it sadly would only last a few years. The moments I would watch her bright blue eyes close shut for the last time, still haunt me to this day. Through that loss, I suffered a great deal of trauma. More than I could handle. So the for following six years, I began suppressing and shallowing every emotion I had. For six years, I became a shell of a human being. The suppression and lack of caring for my own physical body would go to show.
 
-{{< img class="floatright" width="200px" src="/images/ben-fit.jpg" alt="Fit Ben" title="Fit Ben" >}}
+{{< img  span="image right" src="/images/ben-fit.jpg" alt="Fit Ben" title="Fit Ben" >}}
 
 Six years from that fatal day, something caused a small spark to ignite back those feelings. While I refuse to go in to details of what that was now, it wasn't easy at first to finally have to confront the emotions of loss and finally be able to cycle through them. I struggled at first, for a few months, but eventually something caught fire and I would go on to take an incredible amount of action to start taking better care of both my body and mind.
 
@@ -37,12 +37,9 @@ Through those struggles to heal, and at the age of 33, I was reminded that I onc
 
 Thank you, for listening to this Young man's story.
 
-{{< button text="Contact Artist" href="/contact" >}}
+{{< button class="fit" text="Contact Artist" href="/contact" >}}
 
-{{< img class="" width="200px" src="/images/ben-tennis.jpg" alt="Ben playing tennis" title="Ben playing tennis" >}}
-{{< img class="" width="200px" src="/images/ben-cycling.jpg" alt="Ben cycling" title="Ben cycling" >}}
-{{< img class="" width="200px" src="/images/ben-tennis2.jpg" alt="Ben hitting a tennis ball" title="Ben hitting a tennis ball" >}}
-{{< img class="" width="200px" src="/images/ben-posing.jpg" alt="Ben posing with his bicycle" title="Ben posing with his bicycle" >}}
+{{< about >}}
 
 ---
 

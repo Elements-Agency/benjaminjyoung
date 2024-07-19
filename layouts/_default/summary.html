@@ -1,22 +1,24 @@
 <div id="{{ trim .Title " -" | safeURL }}" class="relative w-100 mb4 bg-white nested-copy-line-height">
   <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <h2 class="f3 near-black" style="font-size:3em; margin-bottom:0.2em;">
+      <a href="{{ .RelPermalink }}#main" class="link black dim">
+        {{ .Title }}
+      </a>
+    </h2>
+
     {{ if .Resources.GetMatch "painting.jpg" }}
       {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
       {{ $thumbnail := $thumbnail.Fill "300x300 Center" }}
       {{ $thumbnail := $thumbnail.Resize "300x webp q90" }}
 
       {{ with $thumbnail }}
-        <a class="thumbnail" href="{{ $.RelPermalink }}#main" data-position="center">
-          <img src="{{ .RelPermalink }}" width="300px" height="300px" style="float:right; margin:3.5em 4em 2em;" alt="{{ $.Params.alt }}" title='{{ $.Title }} ({{ $.Date| time.Format "2006" }}) by Ben Young' />
-        </a>
+        <span class="image right">
+          <a class="thumbnail" href="{{ $.RelPermalink }}#main" data-position="center">
+            <img src="{{ .RelPermalink }}" alt="{{ $.Params.alt }}" title='{{ $.Title }} ({{ $.Date| time.Format "2006" }}) by Ben Young' />
+          </a>
+        </span>
       {{ end }}
     {{ end }}
-
-    <h2 class="f3 near-black" style="font-size:3em; margin-bottom:0.2em;">
-      <a href="{{ .RelPermalink }}#main" class="link black dim">
-        {{ .Title }}
-      </a>
-    </h2>
 
     {{ if .Resources.GetMatch .Params.preview_image }}
       {{ $thumbnail := .Resources.GetMatch .Params.preview_image }}
@@ -24,9 +26,11 @@
       {{ $thumbnail := $thumbnail.Resize "300x webp" }}
 
       {{ with $thumbnail }}
-        <a class="thumbnail" href="{{ $.RelPermalink }}#main" data-position="center">
-          <img src="{{ .RelPermalink }}" width="300px" height="300px" style="float:right; margin:3.5em 4em 2em;" alt="{{ $.Params.alt }}" title='{{ $.Title }} ({{ $.Date| time.Format "2006" }}) by Ben Young' />
-        </a>
+        <span class="image right">
+          <a class="thumbnail" href="{{ $.RelPermalink }}#main" data-position="center">
+            <img src="{{ .RelPermalink }}" alt="{{ $.Params.alt }}" title='{{ $.Title }} ({{ $.Date| time.Format "2006" }}) by Ben Young' />
+          </a>
+        </span>
       {{ end }}
     {{ end }}
 
