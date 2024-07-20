@@ -6,8 +6,10 @@
     {{ partial "inside-scripts.html" . }}
 
     <script>
-      document.addEventListener("DOMContentLoaded", () => {
-        fbq('track', 'ViewContent');
+      fbq('track', 'ViewContent', {
+        content_name: '{{- .Title -}}',
+        content_ids: [{{ range $product := .Params.products }}'{{ $product.id }}',{{ end }}],
+        content_type: 'product',
       });
     </script>
 {{ end }}
