@@ -21,9 +21,7 @@
           <h1>{{ .Title }}</h1>
       </header>
 
-      <div style="padding:0;">
-        {{- .Content -}}
-      </div>
+      {{- .Content -}}
     </div>
 
     {{ block "footer" . }}{{ partialCached "inside-footer.html" . }}{{ end }}
