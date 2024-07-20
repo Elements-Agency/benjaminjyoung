@@ -14,7 +14,7 @@
         {{ if .Params.products }}
           {{ $first := index (.Params.products) 0 }}
           value: {{ trim $first.price "$" }},
-          currency: 'usd',
+          currency: 'USD',
         {{ end }}
       });
     </script>
