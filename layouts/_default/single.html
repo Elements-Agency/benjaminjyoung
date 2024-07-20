@@ -7,9 +7,15 @@
 
     <script>
       fbq('track', 'ViewContent', {
+        content_category: 'Artwork',
         content_name: '{{- .Title -}}',
         content_ids: [{{ range $product := .Params.products }}'{{ $product.id }}',{{ end }}],
         content_type: 'product',
+        {{ if .Params.products }}
+          {{ $first := index (.Params.products) 0 }}
+          value: {{ trim $first.price "$" }},
+          currency: 'usd',
+        {{ end }}
       });
     </script>
 {{ end }}
