@@ -47,6 +47,8 @@ products:
       name: Limited Print
       price: $29
 
+limited: 30
+
 buyer: 
 ---
 

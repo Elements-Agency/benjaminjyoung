@@ -52,6 +52,8 @@ products:
       name: Original Painting
       price: $400
 
+limited: 30
+
 buyer: Fred Boone
 ---
 

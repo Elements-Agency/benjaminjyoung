@@ -50,6 +50,8 @@ products:
     name: Greeting Card
     price: $12.99
 
+limited: 30
+
 buyer: 
 ---
 

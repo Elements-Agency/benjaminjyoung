@@ -43,6 +43,8 @@ products:
       name: Original Drawing
       price: $600
 
+limited: 30
+
 buyer: 
 ---
 

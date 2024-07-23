@@ -52,6 +52,8 @@ products:
       name: Original Painting
       price: $600
 
+limited: 30
+
 buyer: Ted Turner
 ---
 

@@ -120,8 +120,23 @@
               {{- .Content -}}
 
               {{ if or (eq .Params.status "sale") (eq .Params.status "sold") }}
-                <div class="box clear" style="background-color: #eee;">
-                  <h2 id="purchase" style="text-align: center;">Purchase {{ .Title }}</h2>
+                <div id="purchase" class="box clear" style="background-color: #eee;">
+                  <h2 style="text-align: center;">Purchase {{ .Title }}</h2>
+                  
+                  {{ if eq .Params.status "sold" }}
+                    <p>
+                      The original of this painting has been sold and is no longer available for sale.
+                      You may still view the product page for archival reasons, link below.
+                    </p>
+                  {{ end }}
+
+                  {{ if gt .Params.limited 0 }}
+                    <p>
+                      Prints and framed prints for this artwork are limited to {{ .Params.limited }}, total to be sold for purchase.
+                      You may find how much are left in inventory on the limited print product page, link below.
+                    </p>
+                  {{ end }}
+
                   <div class="row" style="text-align: center;">
                     {{ range $product := .Params.products }}
                       <div class="col-4 col-12-small">
@@ -196,11 +211,6 @@
               {{ if in .Params.locations "massmu" }}
                 <h3>Where To Visit</h3>
                 <p>This painting is currently on display at <a href="https://www.massillonmuseum.org">Massillon Museum</a> in Massillon Ohio, and can be viewed there.</p>
-              {{ end }}
-
-              {{ if eq .Params.status "sold" }}
-                <h3>Original Sale</h3>
-                <p>The original of this painting has been sold and is no longer available for sale.</p>
               {{ end }}
 
               {{ if .Resources.GetMatch "painting.jpg" }}

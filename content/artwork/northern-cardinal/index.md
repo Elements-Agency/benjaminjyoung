@@ -50,6 +50,8 @@ products:
       name: Original Drawing
       price: $300
 
+limited: 30
+
 buyer: Bruce Treiber
 ---
 
