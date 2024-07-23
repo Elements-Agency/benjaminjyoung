@@ -43,12 +43,12 @@ products:
     - id: 678649275
       name: Limited Print
       price: $29
-    - id: 645991759
-      name: Original Drawing
-      price: $300
     - id: 650002838
       name: Greeting Card
       price: $12.99
+    - id: 645991759
+      name: Original Drawing
+      price: $300
 
 buyer: Bruce Treiber
 ---

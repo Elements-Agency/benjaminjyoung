@@ -43,9 +43,9 @@ products:
     - id: 670400475
       name: Original Painting
       price: $500
-    - id: 671273712
-      name: Framed Print
-      price: $59.99
+    - id: 683160413
+      name: Limited Print
+      price: $29
 
 buyer: 
 ---
