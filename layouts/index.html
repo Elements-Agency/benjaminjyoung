@@ -62,7 +62,7 @@
 							<p class="major">
 								Benjamin is a contemporary artist, originating from North East Ohio.
 								Ben has journeyed around the world and through life, hoping to use those experiences in his paintings.
-								Bringing his emotions in to his narritive pieces, as well as capturing the sights he has treked in his landscapes.
+								Bringing his emotions in to his narrative pieces, as well as capturing the sights he has trekked in his landscapes.
 								Explore and feel through the emotions and sights of his masterpieces, all online.
 							</p>
 							<ul class="actions stacked">
@@ -84,7 +84,7 @@
                             {{ $mainSections := .Site.Params.mainSections | default (slice "post") }}
                             {{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
                             {{ range $i,$p := (sort (where (where $section "Params.featured" true) "Params.power" "lt" 300) "Params.order" "asc") }}
-                                {{ if lt $i 10 }}
+                                {{ if lt $i 12 }}
                                     {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
                                     {{ $thumbnail := $thumbnail.Fill "360x250 Center" }}
                                     {{ $thumbnail := $thumbnail.Resize "360x webp q90" }}
@@ -169,7 +169,7 @@
                             {{ $mainSections := .Site.Params.mainSections | default (slice "post") }}
                             {{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
                             {{ range $i,$p := $section }}
-                                {{ if lt $i 10 }}
+                                {{ if lt $i 6 }}
                                     {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
                                     {{ $thumbnail := $thumbnail.Fill "360x250 Center" }}
                                     {{ $thumbnail := $thumbnail.Resize "360x webp q90" }}
