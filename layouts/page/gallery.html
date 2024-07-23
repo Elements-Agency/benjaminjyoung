@@ -80,12 +80,15 @@
                 <p>
                   {{ .Description }}
                 </p>
-                <br>
-                {{ if or (eq .Params.status "sold") (eq .Params.status "gift") }}
-                  <a class="button" href="{{ .RelPermalink }}#purchase">Purchase Prints</a>
-                {{ else }}
-                  <a class="button" href="{{ .RelPermalink }}#purchase">Purchase Original</a>
+
+                {{ if or (eq .Params.status "sold") }}
+                  <br>
+                  <p>The original has sold, but prints are available for purchase.</p>
                 {{ end }}
+
+                <br>
+                
+                <a class="button" href="{{ .RelPermalink }}#main">View Artwork</a>
               </div>
             {{ end }}
           {{ end }}
@@ -152,12 +155,15 @@
                 <p>
                   {{ .Description }}
                 </p>
-                <br>
-                {{ if or (eq .Params.status "sold") (eq .Params.status "gift") }}
-                  <a class="button" href="{{ .RelPermalink }}#purchase">Purchase Prints</a>
-                {{ else }}
-                  <a class="button" href="{{ .RelPermalink }}#purchase">Purchase Original</a>
+
+                {{ if or (eq .Params.status "sold") }}
+                  <br>
+                  <p>The original has sold, but prints are available for purchase.</p>
                 {{ end }}
+
+                <br>
+                
+                <a class="button" href="{{ .RelPermalink }}#main">View Artwork</a>
               </div>
             {{ end }}
           {{ end }}
