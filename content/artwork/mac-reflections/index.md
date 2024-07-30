@@ -28,7 +28,7 @@ mediums: [oil pastel]
 materials: [construction paper]
 colors: [black, grey]
 collections: [self portraits]
-locations: [home]
+locations: [sold]
 tags: [human, face, self, facial hair, beard, dark, peace, calm, indoors]
 
 inventory:

@@ -120,14 +120,14 @@ timeout = '600'
     pattern = ''
     toLower = false
     type = 'basic'
-    weight = 100
+    weight = 200
 [[related.indices]]
     name = 'colors'
     applyFilter = false
     pattern = ''
     toLower = false
     type = 'basic'
-    weight = 20
+    weight = 60
 
 [deployment]
 

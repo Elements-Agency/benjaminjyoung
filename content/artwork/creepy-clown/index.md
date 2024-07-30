@@ -26,7 +26,7 @@ categories: [realism, close up, painting]
 mediums: [oil]
 materials: [canvas]
 colors: [red, white]
-collections: [tiny canvas]
+collections: [tiny canvas, twenty two]
 locations: [sold]
 tags: [creepy, clown, scary, face, nose, smile, teeth]
 

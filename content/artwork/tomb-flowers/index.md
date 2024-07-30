@@ -27,7 +27,7 @@ categories: [realism, floral, drawing]
 mediums: [watercolor pencil]
 materials: [paper]
 colors: [white, blue, green]
-collections: [lilies]
+collections: [lilies, two]
 locations: [patina]
 tags: [lily, flower, tomb, resting, andrea, aj, surreal, spring]
 

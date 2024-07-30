@@ -27,7 +27,7 @@ categories: [realism, narrative, painting]
 mediums: [oil]
 materials: [canvas]
 colors: []
-collections: [the harts desire]
+collections: [the harts desire, two]
 locations: [home]
 tags: [andrea]
 
