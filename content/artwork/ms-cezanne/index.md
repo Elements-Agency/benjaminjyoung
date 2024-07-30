@@ -28,11 +28,12 @@ mediums: [oil pastel]
 materials: [paper]
 colors: [yellow, green, grey, brown]
 collections: []
-locations: [home]
+locations: [patina]
 tags: [human, female, lady, woman, recline, pose, paul, cezanne, outdoors, figure, repose, rich, warm, earthy]
 
 inventory:
-  - home: 2024-01-20 - current
+  - patina: 2024-07-27 - current
+  - home: 2024-01-20 - 2024-07-27
 
 hours: 6
 frame cost: $4

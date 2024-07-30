@@ -28,11 +28,12 @@ mediums: [watercolor]
 materials: [cotton paper]
 colors: [grey, blue]
 collections: [the colors of water]
-locations: [patina]
+locations: [home]
 tags: [lake, water, boat, human, figure, dark, mist, ripples, forrest, hills, outdoors, spring, dusk]
 
 inventory:
-  - patina: 2024-06-07 - current
+  - home: 2024-07-27 - current
+  - patina: 2024-06-07 - 2024-07-27
   - home: 2024-06-06 - 2024-06-07
 
 hours: 12

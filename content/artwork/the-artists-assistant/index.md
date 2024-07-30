@@ -27,12 +27,13 @@ categories: [realism, animal, narrative, painting]
 mediums: [watercolor]
 materials: [cotton paper]
 colors: [black, blue]
-collections: []
-locations: [patina]
+collections: [two]
+locations: [home]
 tags: [princess, cat, cup, hat, head, brush, tennis, ball, inception, humor, funny, lighthearted, childish, dark, morbid, foreshadowing]
 
 inventory:
-  - patina: 2024-06-29 - current
+  - home: 2024-07-27 - current
+  - patina: 2024-06-29 - 2024-07-27
   - home: 2024-06-26 - 2024-06-29
 
 hours: 12

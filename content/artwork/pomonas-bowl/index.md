@@ -28,11 +28,12 @@ mediums: [oil]
 materials: [mdf board]
 colors: [red, pink, purple, black]
 collections: []
-locations: [patina]
+locations: [home]
 tags: [pomegranate, fruit, shiny, metal, bowl, velvet, tablecloth, dark, indoors, table]
 
 inventory:
-  - patina: 2024-05-26 - current
+  - home: 2024-07-27 - current
+  - patina: 2024-05-26 - 2024-07-27
 
 hours: 34
 frame cost: 

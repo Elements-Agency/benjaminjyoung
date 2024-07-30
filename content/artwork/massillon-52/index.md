@@ -29,11 +29,12 @@ mediums: [watercolor, gouache]
 materials: [cotton paper]
 colors: [orange, black, green]
 collections: [massillon football]
-locations: [home]
+locations: [patina]
 tags: [massillon, ohio, tigers, joey, hallett, football, sports, field, autumn, team, win, figure, outdoors, crowd, trees]
 
 inventory:
-  - home: 2024-06-08 - current
+  - patina: 2024-07-27 - current
+  - home: 2024-06-08 - 2024-07-27
   - patina: 2024-06-06 - 2024-06-08
   - cyrus: 2024-04-26 - 2024-06-06
   - home: 2024-04-26 - 2024-04-26

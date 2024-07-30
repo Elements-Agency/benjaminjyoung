@@ -28,11 +28,12 @@ mediums: [oil]
 materials: [canvas panel]
 colors: [red, white]
 collections: []
-locations: [patina]
+locations: [auction]
 tags: [cherry, stem, bright, indoors, summer]
 
 inventory:
-  - patina: 2024-06-29 - current
+  - auction: 2024-07-27 - current
+  - patina: 2024-06-29 - 2024-07-27
   - home: 2024-06-08 - 2024-06-29
   - patina: 2024-05-26 - 2024-06-08
   - home: 2024-03-17 - 2024-05-26
