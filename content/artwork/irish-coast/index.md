@@ -42,6 +42,9 @@ products:
     - id: 680225708
       name: Original Drawing
       price: $600
+    - id: 685245016
+      name: Limited Print
+      price: $29
 
 limited: 30
 
