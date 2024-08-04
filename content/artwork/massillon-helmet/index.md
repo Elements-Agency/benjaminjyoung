@@ -11,8 +11,8 @@ aliases: [/massillon-helmet]
 images: ['painting.jpg']
 videos: []
 
-featured: true
-order: 13
+featured: false
+order: 99
 ratio: landscape
 power: 33
 favorite: false

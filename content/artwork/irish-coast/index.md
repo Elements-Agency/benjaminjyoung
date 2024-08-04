@@ -12,7 +12,7 @@ images: ['painting.jpg']
 videos: []
 
 featured: true
-order: 9
+order: 12
 ratio: landscape
 power: 50
 favorite: false
@@ -41,7 +41,7 @@ status: sale
 products:
     - id: 680225708
       name: Original Drawing
-      price: $600
+      price: $500
     - id: 685245016
       name: Limited Print
       price: $29

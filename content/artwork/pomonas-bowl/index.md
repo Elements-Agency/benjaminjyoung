@@ -12,7 +12,7 @@ images: ['painting.jpg']
 videos: []
 
 featured: true
-order: 12
+order: 7
 ratio: landscape
 power: 36
 favorite: true
@@ -42,7 +42,7 @@ status: sale
 products:
     - id: 663614894
       name: Original Painting
-      price: $2,000
+      price: $1,200
     - id: 671273872
       name: Framed Canvas Print
       price: $79.99

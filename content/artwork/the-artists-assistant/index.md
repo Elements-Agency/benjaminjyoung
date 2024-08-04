@@ -12,7 +12,7 @@ images: ['painting.jpg']
 videos: []
 
 featured: true
-order: 2
+order: 3
 ratio: portrait
 power: 84
 favorite: true
@@ -43,7 +43,7 @@ status: sale
 products:
     - id: 675661538
       name: Original Painting
-      price: $1,200
+      price: $600
     - id: 683098813
       name: Limited Print
       price: $29
