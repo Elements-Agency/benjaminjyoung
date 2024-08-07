@@ -43,7 +43,7 @@ frame cost: $140
 status: sold
 products:
     - id: 678652002
-      name: Limited Print
+      name: Limited Reproduction
       price: $29
     - id: 645990286
       name: Original Painting

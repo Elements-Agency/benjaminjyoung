@@ -43,7 +43,7 @@ frame cost: $168
 status: sold
 products:
     - id: 678649273
-      name: Limited Print
+      name: Limited Reproduction
       price: $29
     - id: 646847609
       name: Jigsaw Puzzle

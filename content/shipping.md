@@ -19,7 +19,7 @@ Usually, it takes 3–7 days to fulfill an order, after which it’s shipped out
 
 ### Where will my order ship from? ###
 
-For prints, I work with an on-demand order fulfillment company with facilities worldwide! If it is an original painting, it is either shipped directly from my Ohio location or from the gallery that original is currently presiding.
+For mass productions prints, I work with an on-demand order fulfillment company with facilities worldwide! If it is an original painting or a framed limited reproduction, it is either shipped directly from my Ohio location or from the gallery that original is currently presiding.
 
 ### Will I be charged customs for my order? ###
 
@@ -35,13 +35,13 @@ Before getting in touch with us, please help us out by doing the following:
 
 If the shipping address was correct, and the package wasn't left at the post office or at your neighbor’s, [get in touch with me](/contact) with your order number.
 
-If you did find a mistake in your delivery address, we can send you a replacement order (only for prints), but shipping will be at your own cost.
+If you did find a mistake in your delivery address, we can send you a replacement order (only for reproductions), but shipping will be at your own cost.
  
 ## Orders ##
 
 ### How are your products made? ###
 
-I work with a print-on-demand drop shipper. They have locations worldwide, so depending on where you are, your orders are printed and shipped from the facility that can do it most efficiently!
+I work with a quality and archival print-on-demand shipper. They have locations worldwide, so depending on where you are, your orders are printed and shipped from the facility that can do it most efficiently!
 
 ### How do I track my order? ###
 

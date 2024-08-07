@@ -11,4 +11,4 @@ aliases: [/gallery]
 Benjamin J. Young is a [contemporary artist](/about). Specializing in [landscapes](/categories/landscape/) and [narrative](/categories/narrative/) paintings.
 Using [oil](/mediums/oil/) and [watercolor](/mediums/watercolor/) paint.
 
-* [Shop Originals &amp; Prints &gt;](/shop)
+* [Shop Originals &amp; Reproductions &gt;](/shop)

@@ -45,7 +45,7 @@ products:
       name: Original Painting
       price: $600
     - id: 683098813
-      name: Limited Print
+      name: Limited Reproduction
       price: $29
 
 limited: 30
@@ -58,8 +58,6 @@ This painting has everything you need. Cute cats, funny hats, and a dark sense o
 On the surface and by design, it's meant to be humorous and lighthearted. Something to chuckle about and give a grin. To appreciate in the little life moments. It looks simple and there's no requirement to dig past that innocence. You may enjoy it without the necessity of any further analysis of the artwork. However, some of us always desire a deeper and more complex understanding. For those who know me, or those who will get to know my narrative through my art, it's a dark foreshadowing. A millennial coping mechanism to exist alongside our traumas. To laugh in the face of pain and hardships. To not forget to enjoy in the moment and not live in the past or reminisce beyond what's require to bring healing. The subtle hints within the scene, I will one day write that story with paint. For now, just enjoy the cuteness and moments life brings to offer to enjoy.
 
 {{< purchase >}}
-
-**Prints will be for sale SOON.** If you are interested in ordering a print, please [contact me](/contact) to let me know and I can prioritize setting up printing.
 
 ### Inspiration ###
 
