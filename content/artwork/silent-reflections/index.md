@@ -48,8 +48,8 @@ products:
       name: Dry Run
       price: $50
     - id: 671275580
-      name: Framed Print
-      price: $59.99
+      name: Limited Reproduction
+      price: $99
 
 buyer: 
 ---

@@ -43,9 +43,9 @@ products:
   - id: 658238185
     name: Original Drawing
     price: $300
-  - id: 658509165
-    name: Framed Print
-    price: $59.99
+  - id: 687153132
+    name: Limited Reproduction
+    price: $59
   - id: 658507371
     name: Greeting Card
     price: $12.99

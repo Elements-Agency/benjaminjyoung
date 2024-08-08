@@ -44,8 +44,8 @@ products:
       name: Original Painting
       price: $1,200
     - id: 671273872
-      name: Framed Canvas Print
-      price: $79.99
+      name: Limited Reproduction
+      price: $99
 
 buyer: 
 ---
