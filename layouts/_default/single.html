@@ -6,7 +6,7 @@
     {{ partial "inside-scripts.html" . }}
 
     <script>
-      fbq('track', 'ViewContent', {
+      /*fbq('track', 'ViewContent', {
         content_category: 'Artwork',
         content_name: '{{- .Title -}}',
         content_ids: [{{ range $product := .Params.products }}'{{ $product.id }}',{{ end }}],
@@ -16,7 +16,7 @@
           value: {{ trim $first.price "$" }},
           currency: 'USD',
         {{ end }}
-      });
+      });*/
     </script>
 {{ end }}
 
