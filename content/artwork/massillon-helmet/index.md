@@ -49,6 +49,9 @@ products:
     - id: 651739322
       name: Coffee Mug
       price: $19.99
+    - id: 654299515
+      name: Original Painting
+      price: $500
 
 buyer: 
 ---
