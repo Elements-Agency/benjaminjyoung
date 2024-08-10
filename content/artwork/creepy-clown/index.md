@@ -41,6 +41,7 @@ products:
     - id: 669390403
       name: Original Painting
       price: $100
+      sold: true
 
 buyer: Jeni Burns
 ---

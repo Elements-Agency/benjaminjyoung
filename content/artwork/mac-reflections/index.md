@@ -43,6 +43,7 @@ products:
     - id: 645940870
       name: Original Drawing
       price: $400
+      sold: true
 
 buyer: Ben Young
 ---

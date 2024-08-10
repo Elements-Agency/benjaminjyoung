@@ -51,6 +51,7 @@ products:
     - id: 645990284
       name: Original Painting
       price: $600
+      sold: true
 
 limited: 30
 

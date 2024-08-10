@@ -150,7 +150,11 @@
                           </div>
                         </div>
 
-                        <a class="button fit primary clear" href="/shop/#!/p/{{ $product.id }}">
+                        {{ if $product.sold }}
+                          <strong style="color: red; text-transform: uppercase;">Sold Out</strong>
+                        {{ end }}
+
+                        <a class="button fit {{ if $product.sold }}secondary{{ else }}primary{{ end }} clear" href="/shop/#!/p/{{ $product.id }}">
                           View {{ $product.name }}
                         </a>
                         <br>

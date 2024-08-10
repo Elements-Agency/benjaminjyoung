@@ -49,6 +49,7 @@ products:
     - id: 645991759
       name: Original Drawing
       price: $300
+      sold: true
 
 limited: 30
 
