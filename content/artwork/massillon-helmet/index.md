@@ -28,11 +28,12 @@ mediums: [oil]
 materials: [canvas panel]
 colors: [black, orange]
 collections: [massillon football]
-locations: [patina]
+locations: [massmu]
 tags: [massillon, ohio, tigers, football, sports, helmet, reflective, indoors]
 
 inventory:
-  - patina: 2024-07-27 - current
+  - massmu: 2024-08-09 - current
+  - patina: 2024-07-27 - 2024-08-09
   - home: 2024-06-08 - 2024-07-27
   - patina: 2024-06-06 - 2024-06-08
   - cyrus: 2024-04-26 - 2024-06-06

@@ -28,11 +28,12 @@ mediums: [watercolor]
 materials: [cotton paper]
 colors: [black, blue]
 collections: [two]
-locations: [home]
+locations: [patina]
 tags: [princess, cat, cup, hat, head, brush, tennis, ball, inception, humor, funny, lighthearted, childish, dark, morbid, foreshadowing]
 
 inventory:
-  - home: 2024-07-27 - current
+  - patina: 2024-08-05 - current
+  - home: 2024-07-27 - 2024-08-05
   - patina: 2024-06-29 - 2024-07-27
   - home: 2024-06-26 - 2024-06-29
 
