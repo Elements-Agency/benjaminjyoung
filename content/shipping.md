@@ -11,7 +11,7 @@ description: Read the shipping policy for Ben Young's Artist website.
 
 Usually, for **limited reproductions**, it takes 1–5 business days to fulfill an order, after which it’s shipped out. The shipping time depends on your location and type.
 
-For framed mat reproductions (typically for watercolor):
+For framed mat reproductions (typically for watercolor reproductions):
 
   * United States: 7-13 business days
   * Canada: 9-12 business days
@@ -23,7 +23,7 @@ For framed mat reproductions (typically for watercolor):
   * Mexico: 19-25 business days
   * International: 10–20 business days
 
-For framed canvas reproductions (typically for oil):
+For framed canvas reproductions (typically for oil reproductions):
 
   * United States: 2-11 business days
   * Canada: 4-11 business days
@@ -35,7 +35,7 @@ For framed canvas reproductions (typically for oil):
   * Korea: 20-30 business days
   * International: 30-40 business days
 
-For **originals**, it's more of direct relation process. I will stay in touch with you directly to ensure everything goes smoothly. While the product is all ready to go, packaging is done very carefully to not ensure any damage. I will give you a delivery estimate on order, and you can get a full refund any time prior to confirming and finalizing shipment.
+For **originals**, it's more of direct relation process. I will stay in touch with you directly to ensure everything goes smoothly. It's best to (contact me)[/contact] prior to ordering for more information. While the painting is all ready to go, packaging is done very carefully to ensure no damage in shipping. I will give you a delivery estimate personally, and you can get a full refund any time prior to confirming and finalizing shipment.
 
 ### Where will my order ship from? ###
 
@@ -78,6 +78,6 @@ I am sorry if the product you ordered arrived damaged. To help me resolve this f
 
 If you have any questions about this Privacy Policy, please [contact us](/contact).
 
-This Privacy Policy is effective as of April 20th, 2024 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
+This Privacy Policy is effective as of August 11th, 2024 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
 
 [<< Back](/shop)
