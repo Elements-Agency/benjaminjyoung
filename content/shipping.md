@@ -9,13 +9,33 @@ description: Read the shipping policy for Ben Young's Artist website.
 
 ### When will I get my order? ###
 
-Usually, it takes 3–7 days to fulfill an order, after which it’s shipped out. The shipping time depends on your location, but can be estimated as follows:
+Usually, for **limited reproductions**, it takes 1–5 business days to fulfill an order, after which it’s shipped out. The shipping time depends on your location and type.
 
-  * USA: 3–4 business days
-  * Europe: 6–8 business days
-  * Australia: 2–14 business days
-  * Japan: 4–8 business days
+For framed mat reproductions (typically for watercolor):
+
+  * United States: 7-13 business days
+  * Canada: 9-12 business days
+  * Europe: 2–6 business days
+  * Australia: 7–12 business days
+  * Philippines: 7-15 business days
+  * Japan: 11–13 business days
+  * Korea: 11-15 business days
+  * Mexico: 19-25 business days
   * International: 10–20 business days
+
+For framed canvas reproductions (typically for oil):
+
+  * United States: 2-11 business days
+  * Canada: 4-11 business days
+  * Europe: 4–8 business days
+  * Mexico: 9-26 business days
+  * Australia: 10-30 business days
+  * Philippines: 20-30 business days
+  * Japan: 20-30 business days
+  * Korea: 20-30 business days
+  * International: 30-40 business days
+
+For **originals**, it's more of direct relation process. I will stay in touch with you directly to ensure everything goes smoothly. While the product is all ready to go, packaging is done very carefully to not ensure any damage. I will give you a delivery estimate on order, and you can get a full refund any time prior to confirming and finalizing shipment.
 
 ### Where will my order ship from? ###
 
