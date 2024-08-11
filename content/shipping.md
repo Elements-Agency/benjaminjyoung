@@ -19,7 +19,9 @@ Usually, it takes 3–7 days to fulfill an order, after which it’s shipped out
 
 ### Where will my order ship from? ###
 
-For mass productions prints, I work with an on-demand order fulfillment company with facilities worldwide! If it is an original painting or a framed limited reproduction, it is either shipped directly from my Ohio location or from the gallery that original is currently presiding.
+For **limited reproductions**, I have a quality print distributed vendor I partnered with. It will depend on the country of purchaser, but it may either be shipped from multiple locations in the United States, Europe, Australia, Mexico, or Japan. It is a print on demand process, but this way I can ensure shipping is cheaper and faster being able to print closer to the customer's delivery address. Plus be more ecologically friendlier with cutting down on logistics and undesired product waste.
+
+For **originals**, will always be shipped from the United States (Ohio), directly from my studio. One exception to this, is if the piece is being held at an exhibit, which the painting description will detail. If you are not within the United States, international shipping is included in the price, but it will have to go through customs.
 
 ### Will I be charged customs for my order? ###
 
