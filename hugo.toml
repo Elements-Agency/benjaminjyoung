@@ -52,10 +52,6 @@ timeout = '600'
     pageRef = '/'
     weight = 10
 [[menus.inside]]
-    name = 'Gallery'
-    pageRef = '/gallery'
-    weight = 20
-[[menus.inside]]
     name = 'About'
     pageRef = '/about'
     weight = 30
@@ -71,10 +67,6 @@ timeout = '600'
     name = 'News'
     pageRef = '/news'
     weight = 60
-[[menus.inside]]
-    name = 'Commissions'
-    pageRef = '/commissions'
-    weight = 70
 [[menus.inside]]
     name = 'Contact'
     pageRef = '/contact'
