@@ -5,7 +5,7 @@ description: Pomona's Bowl is a still life to finally refine my abstract brushwo
 alt: This painting by Ben Young is a still life oil painting of an pomegranate fruit sitting in a metal bowl atop a velvet clothed table.
 author: Benjamin J. Young
 
-progress: Oil paint on MDF board that I had plastered Gesso all over, that was previously existing art print from my childhood. Further refining my technique from the Massillon Helmet realism painting, I objectively forced myself to use abstract brushwork for not only blending, but for non-hard lines as well. This became my longest time consuming artwork, yet.
+progress: I was about to throw away an old painting print I had from childhood, that was on MDF board. Instead of being wasteful, I decided to repurpose it. I sanded off the old artwork and protective film, resealed it, and then loosely applied multiple thick applications of gesso. You can see some of those gesso brush strokes through the layers of oil paint still. After the MDF board was prepped, I sketched the under painting to layout guidelines. Then I used  Winsor and Newton oil paint to paint, with only Linseed oil as an medium additive. No solvents were used at all, both to protect my health and to not have any waste environmental impact. Only one layer of paint was used, as I worked directly on the gesso working my way from the top left down to the bottom right. In some areas, I make corrections, after the entire painting is filled in. This way I can intensely focus on the makeup of each tiny element on the colors and values, isolating it from the rest of the painting or gesso trying to bias my judgement. This became my longest time consuming artwork, as of yet.
 
 aliases: [/pomonas-bowl]
 images: ['painting.jpg']
@@ -57,9 +57,3 @@ buyer:
 ### Inspiration ###
 
 After completing [my second oil painting](/artwork/massillon-helmet), I realized the missing element of what I was missing to bring my realism to the next level, was abstract brush work. So I set out starting this painting with that as the only priority to practice and utilize in this artwork. As you view the artwork up close, you can see the grains and multi-directions of every brush stroke. Ransom impasto chunks of color are vomited on the page. All the imperfections and chaos forms something grand and beautiful when you step back and take it all in. Just as it is with life it's self. Perfection is bland and boring, but the imperfections we have in everything are what make up the character of those whole entities and systems, and that was the end ambition I pursued with this painting.
-
-### Process ###
-
-I was about to throw away an old painting print I had from childhood, that was on MDF board. Instead of being wasteful, I decided to repurpose it. I sanded off the old artwork and protective film, resealed it, and then loosely applied multiple thick applications of gesso. You can see some of those gesso brush strokes through the layers of oil paint still.
-
-After the MDF board was prepped, I sketched the under painting to layout guidelines. Then I used Winsor and Newton oil paint, with only Linseed oil as an medium additive. No solvents were used at all, both to protect my health and to not have any waste environmental impact. Only one layer of paint was used, as I worked directly on the gesso working my way from the top left down to the bottom right. In some areas, I make corrections, after the entire painting is filled in. This way I can intensely focus on the makeup of each tiny element on the colors and values, isolating it from the rest of the painting or gesso trying to bias my judgement.
