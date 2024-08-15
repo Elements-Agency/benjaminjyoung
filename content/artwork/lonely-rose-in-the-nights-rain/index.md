@@ -37,7 +37,7 @@ frame cost: $30
 
 status: sale
 products:
-    - id: 680225708
+    - id: 688767257
       name: Original Painting
       price: $300
 
