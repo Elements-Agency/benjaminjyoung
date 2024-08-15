@@ -54,6 +54,9 @@ products:
     - id: 651739322
       name: Coffee Mug
       price: $19.99
+    - id: 677888659
+      name: Tiny Work
+      price: $100
 
 buyer: 
 ---

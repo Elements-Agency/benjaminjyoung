@@ -56,6 +56,9 @@ products:
     - id: 654299515
       name: Original Painting
       price: $500
+    - id: 677888659
+      name: Tiny Work
+      price: $100
 
 buyer: 
 ---
