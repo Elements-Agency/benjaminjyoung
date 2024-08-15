@@ -7,7 +7,7 @@ author: Benjamin J. Young
 
 progress: I started out with just sketching values using a pencil to form the shapes. Then, layer by layer, added the color. This painting is special in the fact I left the bare cotton paper exposed in the inception of it's self on the watercolor block in the painting. As well as finding a subtle way to integrate my signature in to the painting, on the painted painting it's self...
 
-aliases: [/the-artists-assistant]
+aliases: [/the-artists-assistant, /artwork/artists-assistant]
 images: ['painting.jpg']
 videos: []
 
