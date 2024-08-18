@@ -62,9 +62,6 @@ products:
     - id: 689326464
       name: Postcard
       price: $4.99
-    - id: 677888659
-      name: Tiny Work
-      price: $100
 
 buyer: 
 ---

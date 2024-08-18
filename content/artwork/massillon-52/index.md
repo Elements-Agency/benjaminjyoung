@@ -33,7 +33,7 @@ locations: [massmu]
 tags: [massillon, ohio, tigers, joey, hallett, football, sports, field, autumn, team, win, figure, outdoors, crowd, trees]
 
 inventory:
-  - massmu: 2024-1080-09 - current
+  - massmu: 2024-08-09 - current
   - patina: 2024-07-27 - 2024-08-09
   - home: 2024-06-08 - 2024-07-27
   - patina: 2024-06-06 - 2024-06-08
