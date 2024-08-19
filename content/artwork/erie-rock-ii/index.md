@@ -35,6 +35,14 @@ inventory:
 frame cost: $168
 
 status: sold
+products:
+    - id: 689537964
+      name: Limited Reproduction
+      price: $99
+    - id: 689389017
+      name: Original Painting
+      price: $700
+      sold: true
 
 buyer: Eric Anderson
 ---
