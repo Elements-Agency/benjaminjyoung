@@ -83,7 +83,7 @@
                         <div class="gallery style2 medium onscroll-fade-in">
                             {{ $mainSections := .Site.Params.mainSections | default (slice "post") }}
                             {{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
-                            {{ range $i,$p := (sort (where (where $section "Params.featured" true) "Params.power" "lt" 300) "Params.order" "asc") }}
+                            {{ range $i,$p := (sort (where $section "Params.featured" true) "Params.order" "asc") }}
                                 {{ if lt $i 12 }}
                                     {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
                                     {{ $thumbnail := $thumbnail.Fill "360x250 Center" }}
@@ -194,7 +194,8 @@
 							<p>
                                 Catch up on all of Ben's latest artworks, creations, paintings, and drawings; below.
                                 The above slider of paintings are his newest artworks.
-								Or feel free to also follow him on social media on either <a href="https://facebook.com/artist.benjamin.young">Facebook</a> or <a href="https://instagram.com/artistbenyoung">Instagram</a>.
+								Or feel free to also follow him on social media on either
+								<a href="https://facebook.com/artist.benjamin.young">Facebook</a> or <a href="https://instagram.com/artistbenyoung">Instagram</a>.
                             </p>
 							<ul class="actions stacked">
 								<li><a href="/artwork" class="button">Artwork Blog</a></li>

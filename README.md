@@ -22,7 +22,7 @@ videos: []
 featured: true/false
 order: 0-99
 ratio: landscape/portrait/square
-power: 0-300
+power: 0-9999
 favorite: true/false
 
 supplies:
