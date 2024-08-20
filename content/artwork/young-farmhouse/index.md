@@ -11,8 +11,8 @@ aliases: [/young-farmhouse, /artwork/young-farmhome, /artwork/young-farm, /artwo
 images: ['painting.jpg']
 videos: [https://www.instagram.com/p/C3j7Q9FAkf6/, https://youtu.be/WWJK-CMWE_Q]
 
-featured: true
-order: 15
+featured: false
+order: 99
 ratio: landscape
 power: 64
 favorite: false
