@@ -8,7 +8,7 @@
     <script>
       function trackInterest() {
         return;
-        
+
         fbq('track', 'ViewContent', {
           content_category: 'Artwork',
           content_name: '{{- .Title -}}',
@@ -135,7 +135,7 @@
               {{- .Content -}}
 
               {{ if or (eq .Params.status "sale") (eq .Params.status "sold") }}
-                <article id="purchase">
+                <article id="purchase" class="clear">
                   <div class="box" style="font-weight:bold; background:#721f1f; color:#fff;">
                     <p style="text-align:center;">
                       Early Labor Day Sale! 10% off all orders using discount code 'LABOR10' until September 2nd. Online only.
@@ -154,8 +154,8 @@
 
                     {{ if gt .Params.limited 0 }}
                       <p>
-                        Prints and framed prints for this artwork are limited to {{ .Params.limited }}, total to be sold for purchase.
-                        You may find how much are left in inventory on the limited print product page, link below.
+                        Reproductions for this artwork are limited to {{ .Params.limited }}, total to be sold for purchase.
+                        You may find how much are left in inventory on the limited reproduction product page, link below.
                       </p>
                     {{ end }}
 

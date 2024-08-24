@@ -12,7 +12,7 @@ Drum roll please... 🥁
 The winner IS: **Michele O.** in South Carolina! 
 
 
-For everyone else, I am offering a limited use discount code of 30% OFF all originals and limited prints. It's limited to the first 5 people to use it.
+For everyone else, I am offering a limited use discount code of 30% OFF all originals and limited reproductions. It's limited to the first 5 people to use it.
 
 Coupon Code: **S0W4CSL2B2RA**
 
