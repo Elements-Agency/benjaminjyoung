@@ -105,7 +105,7 @@ timeout = '600'
     pattern = ''
     toLower = false
     type = 'basic'
-    weight = 40
+    weight = 100
 [[related.indices]]
     name = 'collections'
     applyFilter = false
