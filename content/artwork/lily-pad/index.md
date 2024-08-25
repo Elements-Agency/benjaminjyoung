@@ -24,13 +24,13 @@ supplies:
   - frame: 
 size: 12.2x8.3in (310x210mm)
 
-categories: [realism, floral, painting]
+categories: [realism, floral, painting, close up]
 mediums: [watercolor, gouache]
 materials: [cotton paper]
 colors: [pink, green, white, brown]
 collections: [lilies]
 locations: [patina]
-tags: [lily, flower, pad, water, pond, stones]
+tags: [lily, flower, pad, water, pond, stones, outdoors, summer]
 
 inventory:
   - patina: 2024-06-29 - current

@@ -21,13 +21,13 @@ supplies:
   - frame: 
 size: 10.2x7in (260x180mm)
 
-categories: [realism, animal, painting]
+categories: [realism, animal, painting, close up]
 mediums: [watercolor]
 materials: [cotton paper]
 colors: [blue, green, brown, black]
 collections: []
 locations: [patina]
-tags: [butterfly, insect, leaf, wings, summer]
+tags: [butterfly, insect, leaf, wings, summer, outdoors]
 
 inventory:
   - patina: 2024-08-24 - current
