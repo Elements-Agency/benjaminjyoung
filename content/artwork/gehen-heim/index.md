@@ -11,8 +11,8 @@ aliases: [/gehen-heim, /artwork/going-home]
 images: ['painting.jpg']
 videos: []
 
-featured: true
-order: 16
+featured: false
+order: 99
 ratio: landscape
 power: 116
 favorite: false

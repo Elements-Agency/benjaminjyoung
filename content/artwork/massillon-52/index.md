@@ -12,8 +12,8 @@ aliases: [/artwork/towniest-towns-football, /massillon-52]
 images: ['painting.jpg']
 videos: []
 
-featured: true
-order: 11
+featured: false
+order: 99
 ratio: landscape
 power: 57
 favorite: false
