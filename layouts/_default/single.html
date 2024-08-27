@@ -7,9 +7,7 @@
 
     <script>
       function trackInterest() {
-        return;
-
-        fbq('track', 'ViewContent', {
+        fbq('track', 'Search', {
           content_category: 'Artwork',
           content_name: '{{- .Title -}}',
           content_ids: [{{ range $product := .Params.products }}'{{ $product.id }}',{{ end }}],
