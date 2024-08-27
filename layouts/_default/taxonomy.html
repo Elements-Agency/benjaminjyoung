@@ -7,7 +7,9 @@
 
     <script>
       fbq('track', 'Search', {
-        search_string: '{{- .Title -}}',
+        content_category: 'Category',
+        content_name: 'Taxonomy',
+        search_string: '{{- .Title -}}'
       });
     </script>
 {{ end }}

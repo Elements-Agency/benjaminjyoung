@@ -6,7 +6,10 @@
     {{ partial "inside-scripts.html" . }}
 
     <script>
-      fbq('track', 'Search');
+      fbq('track', 'Search', {
+        content_category: 'Category',
+        content_name: 'List'
+      });
     </script>
 {{ end }}
 
