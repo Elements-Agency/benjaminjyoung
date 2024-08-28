@@ -69,4 +69,4 @@ The composition of the piece was selected because it's one of my "little" cousin
 
 ### Accolades ###
 
- * Being featured in the [Massillon Museum 2024 Brown’s Town Exhibit](https://paulbrownmuseum.org/exhibits/detail/browns-town-art-inspired-by-ohios-football-heritage).
+ * Featured in the [2024 Brown’s Town Exhibit](https://paulbrownmuseum.org/exhibits/detail/browns-town-art-inspired-by-ohios-football-heritage) at the [Massillon Museum](https://massillonmuseum.org/).
