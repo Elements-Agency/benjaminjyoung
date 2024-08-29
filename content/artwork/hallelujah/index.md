@@ -1,5 +1,5 @@
 ---
-date: 2024-08-28
+date: 2024-08-29
 title: Hallelujah
 description: Hallelujah is a narrative painting over the song of the same title, mixed with Ben Young's own personal experiences.
 alt: This painting depicts a solemn and intimate moment between two individuals, where a woman is carefully cutting the hair of a man sitting with his back to the viewer, set against a dark, textured background that enhances the emotional depth of the scene.
