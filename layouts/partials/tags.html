@@ -1,35 +1,55 @@
 <ul class="pa0">
-  {{ range .GetTerms "collections" }}
-   <li class="list di" style="list-style:none; display:inline-block;">
-     <a href="{{ .RelPermalink }}" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">
-       {{- .LinkTitle -}}
-     </a>
-   </li>
-  {{ end }}
-  {{ range .GetTerms "categories" }}
-   <li class="list di" style="list-style:none; display:inline-block;">
-     <a href="{{ .RelPermalink }}" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">
-       {{- .LinkTitle -}}
-     </a>
-   </li>
-  {{ end }}
-  {{ range .GetTerms "mediums" }}
-   <li class="list di" style="list-style:none; display:inline-block;">
-     <a href="{{ .RelPermalink }}" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">
-       {{- .LinkTitle -}}
-     </a>
-   </li>
-  {{ end }}
+
+  <li style="list-style:none; display:inline-block;">
+    <strong>Keywords:</strong>
+  </li>
   {{ range .GetTerms "tags" }}
-   <li class="list di" style="list-style:none; display:inline-block;">
-     <a href="{{ .RelPermalink }}" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">
+  <li style="list-style:none; display:inline-block; border:1px solid #bbb; border-radius:5px; padding:0 1em;">
+    <a href="{{ .RelPermalink }}">
+      {{- .LinkTitle -}}
+    </a>
+  </li>
+ {{ end }}
+
+  <li style="list-style:none; display:inline-block;">
+    <strong>Collections:</strong>
+  </li>
+  {{ range .GetTerms "collections" }}
+   <li style="list-style:none; display:inline-block; border:1px solid #bbb; border-radius:5px; padding:0 1em;">
+     <a href="{{ .RelPermalink }}">
        {{- .LinkTitle -}}
      </a>
    </li>
   {{ end }}
+
+  <li style="list-style:none; display:inline-block;">
+    <strong>Categories:</strong>
+  </li>
+  {{ range .GetTerms "categories" }}
+   <li style="list-style:none; display:inline-block; border:1px solid #bbb; border-radius:5px; padding:0 1em;">
+     <a href="{{ .RelPermalink }}">
+       {{- .LinkTitle -}}
+     </a>
+   </li>
+  {{ end }}
+
+  <li style="list-style:none; display:inline-block;">
+    <strong>Mediums:</strong>
+  </li>
+  {{ range .GetTerms "mediums" }}
+   <li style="list-style:none; display:inline-block; border:1px solid #bbb; border-radius:5px; padding:0 1em;">
+     <a href="{{ .RelPermalink }}">
+       {{- .LinkTitle -}}
+     </a>
+   </li>
+  {{ end }}
+
+  <li style="list-style:none; display:inline-block;">
+    <strong>Colors:</strong>
+  </li>
   {{ range .GetTerms "colors" }}
-   <li class="list di" style="list-style:none; display:inline-block;">
-     <a href="{{ .RelPermalink }}" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">
+   <li style="list-style:none; display:inline-block; border:1px solid #bbb; border-radius:5px; padding:0 1em;">
+     <a href="{{ .RelPermalink }}">
        {{- .LinkTitle -}}
      </a>
    </li>
