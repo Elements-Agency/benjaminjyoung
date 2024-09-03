@@ -34,7 +34,7 @@ categories: [realism, narrative, painting]
 mediums: [watercolor]
 materials: [cotton paper]
 colors: [white, blue, grey]
-collections: [winter escape, figure facing from view]
+collections: [winter escape, figures facing from view]
 locations: [home]
 tags: [human, figure, hiker, snow, winter, trail, trees, forest, tracks, outdoors, evening, snowy, snowfall, hazy, lonely, isolation, tiring]
 

@@ -25,9 +25,9 @@ categories: [realism, narrative, painting]
 mediums: [oil]
 materials: [canvas]
 colors: [black, blue, tan, brown, grey]
-collections: [five, reserve, the dark trio]
+collections: [reserved, the dark trio, figures facing from view]
 locations: [patina]
-tags: [song, chair, scissors, woman, man, figure, dark, melancholy, indoors]
+tags: [song, chair, scissors, woman, man, figure, dark, melancholy, indoor, number five]
 
 inventory:
   - patina: 2024-08-28 - current

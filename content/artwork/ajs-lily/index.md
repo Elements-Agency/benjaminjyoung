@@ -27,9 +27,9 @@ categories: [realism, floral, drawing]
 mediums: [graphite pencil]
 materials: [paper]
 colors: [black, white]
-collections: [lilies, drawings, two]
+collections: [lilies, drawings]
 locations: [home]
-tags: [lily, flower, spring, day]
+tags: [lily, flower, spring, day, number two]
 
 inventory:
   - home: 2023-12-17 - current

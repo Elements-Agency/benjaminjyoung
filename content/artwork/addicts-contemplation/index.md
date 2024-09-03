@@ -27,9 +27,9 @@ categories: [realism, landscape, narrative, painting]
 mediums: [watercolor]
 materials: [cotton paper]
 colors: [blue, green]
-collections: [the colors of water, figure facing from view, twenty two]
+collections: [the colors of water, figures facing from view]
 locations: [patina]
-tags: [girl, woman, stranger, human, figure, dock, lake, water, clouds, sky, melancholy, hills, waves, reflection, tranquility, calm, introspection, solitude, summer]
+tags: [girl, woman, stranger, human, figure, dock, lake, water, clouds, sky, melancholy, hills, waves, reflection, tranquility, calm, introspection, solitude, summer, number twenty two]
 
 inventory:
   - patina: 2024-06-29 - current
