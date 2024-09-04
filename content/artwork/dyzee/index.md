@@ -29,7 +29,7 @@ materials: [paper]
 colors: [blue, yellow, grey]
 collections: [abstract attempts]
 locations: [home]
-tags: [daisy, flower, splash, broad]
+tags: [daisy, flower, splash, broad, cool]
 
 inventory:
   - home: 2024-01-18 - current

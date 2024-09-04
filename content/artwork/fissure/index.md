@@ -29,7 +29,7 @@ materials: [cotton paper]
 colors: [brown, black]
 collections: [abstract attempts]
 locations: [home]
-tags: [fissure, crack, broad, earthy]
+tags: [fissure, crack, broad, earthy, warm]
 
 inventory:
   - home: 2024-02-27 - current

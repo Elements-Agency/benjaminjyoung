@@ -29,7 +29,7 @@ materials: [construction paper]
 colors: [green, brown, white]
 collections: []
 locations: [home]
-tags: [wine, bottle, pitcher, jug, wood, bowl, tablecloth, dropcloth, dining, room, table, backdrop, indoors]
+tags: [wine, bottle, pitcher, jug, wood, bowl, tablecloth, dropcloth, dining, room, table, backdrop, warm, indoors]
 
 inventory:
   - home: 2024-07-27 - current

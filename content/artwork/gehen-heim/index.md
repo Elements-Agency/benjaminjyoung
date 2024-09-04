@@ -29,7 +29,7 @@ materials: [cotton paper]
 colors: [white, grey, black]
 collections: [winter escape, figures facing from view]
 locations: [sold]
-tags: [human, figure, snow, winter, storm, dusk, sky, night, forest, outdoors, dark, frozen, lake, marina, dock, dim, lonely, isolation, sad]
+tags: [human, figure, snow, winter, storm, dusk, sky, night, forest, outdoors, dark, frozen, lake, marina, dock, dim, lonely, isolation, sad, melancholy, warm]
 
 inventory:
   - buyer: 2024-05-15

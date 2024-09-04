@@ -27,7 +27,7 @@ materials: [cotton paper]
 colors: [blue, green, brown, black]
 collections: []
 locations: [patina]
-tags: [butterfly, insect, leaf, wings, summer, outdoors]
+tags: [butterfly, insect, leaf, wings, summer, cool, outdoors]
 
 inventory:
   - patina: 2024-08-24 - current

@@ -29,7 +29,7 @@ materials: [cotton paper]
 colors: [blue, grey]
 collections: [the colors of water]
 locations: [patina]
-tags: [schooner, boat, ocean, waves, mist, morning, sea, water, mountains, outdoors, spring]
+tags: [schooner, boat, ocean, waves, mist, morning, sea, water, mountains, outdoors, spring, cool]
 
 inventory:
   - patina: 2024-06-07 - current

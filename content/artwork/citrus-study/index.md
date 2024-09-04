@@ -29,7 +29,7 @@ materials: [cotton paper]
 colors: [red, green, yellow]
 collections: []
 locations: [home]
-tags: [mug, cup, lemon, lime, citrus, fruit, dark, indoors, table]
+tags: [mug, cup, lemon, lime, citrus, fruit, dark, indoors, warm, table]
 
 inventory:
   - home: 2024-05-02 - current

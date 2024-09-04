@@ -29,7 +29,7 @@ materials: [paper]
 colors: [yellow, green, grey, brown]
 collections: []
 locations: [patina]
-tags: [human, female, lady, woman, recline, pose, paul, cezanne, outdoors, figure, repose, rich, warm, earthy]
+tags: [human, female, lady, woman, recline, pose, paul, cezanne, outdoors, figure, repose, rich, warm, earthy, warm]
 
 inventory:
   - patina: 2024-07-27 - current

@@ -30,7 +30,7 @@ materials: [cotton paper]
 colors: [pink, green, white, brown]
 collections: [lilies]
 locations: [patina]
-tags: [lily, flower, pad, water, pond, stones, outdoors, summer]
+tags: [lily, flower, pad, water, pond, stones, outdoors, summer, cool]
 
 inventory:
   - patina: 2024-06-29 - current

@@ -29,7 +29,7 @@ materials: [canvas]
 colors: [yellow, white, green]
 collections: []
 locations: [home]
-tags: [lemon, flower, textured, citrus, tree, leaves, branch, impasto]
+tags: [lemon, flower, textured, citrus, tree, leaves, branch, impasto, cool]
 
 inventory:
   - home: 2024-07-27 - current

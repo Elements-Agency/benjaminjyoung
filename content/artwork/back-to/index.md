@@ -36,7 +36,7 @@ materials: [cotton paper]
 colors: [white, blue, grey]
 collections: [winter escape, figures facing from view]
 locations: [home]
-tags: [human, figure, hiker, snow, winter, trail, trees, forest, tracks, outdoors, evening, snowy, snowfall, hazy, lonely, isolation, tiring]
+tags: [human, figure, hiker, snow, winter, trail, trees, forest, tracks, outdoors, evening, snowy, snowfall, hazy, lonely, isolation, tiring, cool, melancholy]
 
 inventory:
   - home: 2024-06-29 - current

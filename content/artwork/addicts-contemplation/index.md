@@ -29,7 +29,7 @@ materials: [cotton paper]
 colors: [blue, green]
 collections: [the colors of water, figures facing from view]
 locations: [patina]
-tags: [girl, woman, stranger, human, figure, dock, lake, water, clouds, sky, melancholy, hills, waves, reflection, tranquility, calm, introspection, solitude, summer, number twenty two]
+tags: [girl, woman, stranger, human, figure, dock, lake, water, clouds, sky, melancholy, hills, waves, reflection, tranquility, thinking, calm, introspection, solitude, summer, cool, number twenty two]
 
 inventory:
   - patina: 2024-06-29 - current

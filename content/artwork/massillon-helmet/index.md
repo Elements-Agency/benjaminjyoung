@@ -29,7 +29,7 @@ materials: [canvas panel]
 colors: [black, orange]
 collections: [massillon football]
 locations: [massmu]
-tags: [massillon, ohio, tigers, football, sports, helmet, reflective, indoors]
+tags: [massillon, ohio, tigers, football, sports, helmet, reflective, indoors, cool]
 
 inventory:
   - massmu: 2024-08-09 - current

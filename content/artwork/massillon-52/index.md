@@ -30,7 +30,7 @@ materials: [cotton paper]
 colors: [orange, black, green]
 collections: [massillon football]
 locations: [massmu]
-tags: [massillon, ohio, tigers, joey, hallett, football, sports, field, autumn, team, win, figure, outdoors, crowd, trees]
+tags: [massillon, ohio, tigers, joey, hallett, football, sports, field, autumn, team, win, figure, outdoors, crowd, trees, warm]
 
 inventory:
   - massmu: 2024-08-09 - current

@@ -26,7 +26,7 @@ materials: [canvas]
 colors: [brown, white, black]
 collections: [tiny canvas]
 locations: [patina]
-tags: [american, football, sports, ball, dark, indoors, canton, massillon, ohio]
+tags: [american, football, sports, ball, dark, indoors, canton, massillon, ohio, warm]
 
 inventory:
   - patina: 2024-07-05 - current

@@ -29,7 +29,7 @@ materials: [canvas panel]
 colors: [red, white]
 collections: []
 locations: [sold]
-tags: [cherry, stem, bright, indoors, summer]
+tags: [cherry, stem, bright, indoors, warm, summer]
 
 inventory:
   - buyer: 2024-07-28 - buyer

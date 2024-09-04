@@ -29,7 +29,7 @@ materials: [paper]
 colors: [white, blue, green]
 collections: [lilies]
 locations: [patina]
-tags: [lily, flower, tomb, resting, andrea, aj, surreal, spring, number two]
+tags: [lily, flower, tomb, resting, andrea, aj, surreal, spring, cool, loss, number two]
 
 inventory:
   - patina: 2024-05-18 - current

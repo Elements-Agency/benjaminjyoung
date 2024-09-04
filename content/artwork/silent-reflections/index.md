@@ -29,7 +29,7 @@ materials: [cotton paper]
 colors: [grey, blue]
 collections: [the colors of water]
 locations: [home]
-tags: [lake, water, boat, human, figure, dark, mist, ripples, forrest, hills, outdoors, spring, dusk]
+tags: [lake, water, boat, human, figure, dark, mist, ripples, forrest, hills, outdoors, spring, dusk, cool]
 
 inventory:
   - home: 2024-07-27 - current

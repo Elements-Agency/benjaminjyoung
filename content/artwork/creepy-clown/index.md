@@ -28,7 +28,7 @@ materials: [canvas]
 colors: [red, white]
 collections: [tiny canvas]
 locations: [sold]
-tags: [creepy, clown, scary, face, nose, smile, teeth, number twenty two]
+tags: [creepy, clown, scary, face, nose, smile, teeth, warm, number twenty two]
 
 inventory:
   - buyer: 2024-05-30

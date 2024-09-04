@@ -29,7 +29,7 @@ materials: [mdf board]
 colors: [red, pink, purple, black]
 collections: []
 locations: [home]
-tags: [pomegranate, fruit, shiny, metal, bowl, velvet, tablecloth, dark, indoors, table]
+tags: [pomegranate, fruit, shiny, metal, bowl, velvet, tablecloth, dark, indoors, table, warm]
 
 inventory:
   - home: 2024-07-27 - current

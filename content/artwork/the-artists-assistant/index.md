@@ -29,7 +29,7 @@ materials: [cotton paper]
 colors: [black, blue]
 collections: [two]
 locations: [patina]
-tags: [princess, cat, cup, hat, head, brush, tennis, ball, inception, humor, funny, lighthearted, childish, dark, morbid, foreshadowing, indoors, number two]
+tags: [princess, cat, cup, hat, head, brush, tennis, ball, inception, humor, funny, lighthearted, childish, morbid, foreshadowing, loss, indoors, warm, number two]
 
 inventory:
   - patina: 2024-08-05 - current

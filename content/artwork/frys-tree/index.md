@@ -29,7 +29,7 @@ materials: [paper]
 colors: [black, blue]
 collections: []
 locations: [sold]
-tags: [tree, forrest, night, sky, twilight, dusk, east sparta, ohio, park, nature, outdoors, calm, spooky, autumn]
+tags: [tree, forrest, night, sky, twilight, dark, dusk, east sparta, ohio, park, nature, outdoors, calm, spooky, autumn, melancholy, cool]
 
 inventory:
   - buyer: 2024-04-16

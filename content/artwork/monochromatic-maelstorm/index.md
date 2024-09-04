@@ -29,7 +29,7 @@ materials: [paper]
 colors: [blue, grey, black]
 collections: [abstract attempts]
 locations: [home]
-tags: [water, swirl, splash, broad, neutral, chaotic, storm]
+tags: [water, swirl, splash, broad, neutral, chaotic, storm, cool]
 
 inventory:
   - patina: 2024-05-18 - current

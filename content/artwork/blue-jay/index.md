@@ -29,7 +29,7 @@ materials: [cotton paper]
 colors: [blue, white, grey, brown]
 collections: [primary winter birds]
 locations: [patina]
-tags: [blue jay, bird, outdoors, nature, winter, snow, log, tree, berries, perched, overcast]
+tags: [blue jay, bird, outdoors, nature, winter, snow, log, tree, berries, perched, cool, overcast]
 
 inventory:
   - patina: 2024-05-18 - current

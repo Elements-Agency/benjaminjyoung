@@ -29,7 +29,7 @@ materials: [paper]
 colors: [red, green, black]
 collections: []
 locations: [home]
-tags: [watermelon, fruit, slice, juicy, seeds, food, summer, bright]
+tags: [watermelon, fruit, slice, juicy, seeds, food, summer, bright, cool]
 
 inventory:
   - home: 2023-12-27 - current

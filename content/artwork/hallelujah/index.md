@@ -27,7 +27,7 @@ materials: [canvas]
 colors: [black, blue, tan, brown, grey]
 collections: [reserved, the dark trio, figures facing from view]
 locations: [patina]
-tags: [song, chair, scissors, woman, man, figure, dark, melancholy, indoor, number five]
+tags: [song, chair, scissors, woman, man, figure, rope, dark, melancholy, sad, tied, bound, broken, intimate, fixing, trauma, cut, indoors, warm, loss, number five]
 
 inventory:
   - patina: 2024-08-28 - current

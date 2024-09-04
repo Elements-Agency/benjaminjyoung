@@ -29,7 +29,7 @@ materials: [cotton paper]
 colors: [white, blue]
 collections: [winter escape, figures facing from view]
 locations: [sold]
-tags: [human, figure, snow, winter, fence, tracks, cool, cold, outdoors, gate, calm, lonely, isolation, peaceful]
+tags: [human, figure, snow, winter, fence, tracks, cool, cold, outdoors, gate, calm, lonely, isolation, peaceful, melancholy, cool]
 
 inventory:
   - buyer: 2024-03-16

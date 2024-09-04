@@ -29,7 +29,7 @@ materials: [paper]
 colors: [red]
 collections: [primary winter birds]
 locations: [sold]
-tags: [northern, red, cardinal, bird, outdoors, nature, winter, snow, branch, perched, overcast]
+tags: [northern, red, cardinal, bird, outdoors, nature, winter, snow, branch, perched, overcast, warm]
 
 inventory:
   - buyer: 2024-04-17
