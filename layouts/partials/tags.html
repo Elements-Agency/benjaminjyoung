@@ -1,6 +1,6 @@
 <ul class="pa0">
 
-  <li style="list-style:none; display:inline-block;">
+  <li style="list-style:none;">
     <strong>Keywords:</strong>
   </li>
   {{ range .GetTerms "tags" }}
@@ -11,7 +11,7 @@
   </li>
  {{ end }}
 
-  <li style="list-style:none; display:inline-block;">
+  <li style="list-style:none;">
     <strong>Collections:</strong>
   </li>
   {{ range .GetTerms "collections" }}
@@ -22,7 +22,18 @@
    </li>
   {{ end }}
 
-  <li style="list-style:none; display:inline-block;">
+  <li style="list-style:none;">
+    <strong>Colors:</strong>
+  </li>
+  {{ range .GetTerms "colors" }}
+   <li style="list-style:none; display:inline-block; border:1px solid #bbb; border-radius:5px; padding:0 1em;">
+     <a href="{{ .RelPermalink }}">
+       {{- .LinkTitle -}}
+     </a>
+   </li>
+  {{ end }}
+
+  <li style="list-style:none;">
     <strong>Categories:</strong>
   </li>
   {{ range .GetTerms "categories" }}
@@ -33,21 +44,10 @@
    </li>
   {{ end }}
 
-  <li style="list-style:none; display:inline-block;">
+  <li style="list-style:none;">
     <strong>Mediums:</strong>
   </li>
   {{ range .GetTerms "mediums" }}
-   <li style="list-style:none; display:inline-block; border:1px solid #bbb; border-radius:5px; padding:0 1em;">
-     <a href="{{ .RelPermalink }}">
-       {{- .LinkTitle -}}
-     </a>
-   </li>
-  {{ end }}
-
-  <li style="list-style:none; display:inline-block;">
-    <strong>Colors:</strong>
-  </li>
-  {{ range .GetTerms "colors" }}
    <li style="list-style:none; display:inline-block; border:1px solid #bbb; border-radius:5px; padding:0 1em;">
      <a href="{{ .RelPermalink }}">
        {{- .LinkTitle -}}
