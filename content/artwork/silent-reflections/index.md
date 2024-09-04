@@ -43,7 +43,7 @@ status: sale
 products:
     - id: 670473779
       name: Original Painting
-      price: $400
+      price: $500
     - id: 671656572
       name: Dry Run
       price: $50
