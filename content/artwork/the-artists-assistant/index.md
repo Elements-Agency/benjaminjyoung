@@ -26,7 +26,7 @@ size: 14.1x10.2in (360x260mm)
 categories: [realism, animal, narrative, painting]
 mediums: [watercolor]
 materials: [cotton paper]
-colors: [black, blue]
+colors: [black, blue, green]
 collections: [two]
 locations: [patina]
 tags: [princess, cat, cup, hat, head, brush, tennis, ball, inception, humor, funny, lighthearted, childish, morbid, foreshadowing, loss, indoors, warm, number two]

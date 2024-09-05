@@ -1,5 +1,7 @@
-{{ if (.Get "span") }}<span class="{{ .Get "span" }}">{{ end }}
-    {{ if (.Get "link") }}<a href="{{ .Get "link" }}" {{ if (.Get "gallery")}}class="preview" data-gall="{{ .Get "gallery" }}"{{ end }} {{ if or (.Get "alt") (.Get "caption") }}title="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" }}{{ end }}"{{ end }}>{{ end }}
-        <img style="background: url('/images/loader.gif') center no-repeat;" src="{{ .Get "src" }}" width="{{ .Get "width" }}" height="{{ .Get "height" }}" loading="lazy" class="{{ .Get "class" }}" {{ if or (.Get "alt") (.Get "caption") }}alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" }}{{ end }}"{{ end }} >
-    {{ if (.Get "link") }}</a>{{ end }}
-{{ if (.Get "span") }}</span>{{ end }}
+{{ if ($.Get "col") }}<div class="col-{{ $.Get "col" }}"><span class="image fit">{{ end }}
+    {{ if (.Get "span") }}<span class="{{ .Get "span" }}">{{ end }}
+        {{ if (.Get "link") }}<a href="{{ .Get "link" }}" {{ if (.Get "gallery")}}class="preview" data-gall="{{ .Get "gallery" }}"{{ end }} {{ if or (.Get "alt") (.Get "caption") }}title="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" }}{{ end }}"{{ end }}>{{ end }}
+            <img style="background: url('/images/loader.gif') center no-repeat;" src="{{ .Get "src" }}" width="{{ .Get "width" }}" height="{{ .Get "height" }}" loading="lazy" class="{{ .Get "class" }}" {{ if or (.Get "alt") (.Get "caption") }}alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" }}{{ end }}"{{ end }} >
+        {{ if (.Get "link") }}</a>{{ end }}
+    {{ if (.Get "span") }}</span>{{ end }}
+{{ if ($.Get "col") }}</span></div>{{ end }}
