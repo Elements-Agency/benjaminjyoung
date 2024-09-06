@@ -3,6 +3,7 @@ date: 2024-08-29
 title: Hallelujah
 description: Hallelujah is a narrative painting over the song of the same title, mixed with Ben Young's own personal experiences.
 alt: This painting depicts a solemn and intimate moment between two individuals, where a woman is carefully cutting the hair of a man sitting with his back to the viewer, set against a dark, textured background that enhances the emotional depth of the scene.
+progress: I approached this painting the same way I did with my Massillon Helmet. The background was painted a little bit more impasto and looser, as well as the definition of details were not as focused moving away from the focal point of the two faces in the center. This being my biggest painting so far is also my most time consuming thus so far. It was obviously well worth the time spent! I truly love this painting and it's journey. Both how I came to the narrative, it's wait for me to practice before tackling it, and the actual painting it's self. This design has been in the back of my mind for over six months.
 author: Benjamin J. Young
 
 aliases: [/hallelujah]
