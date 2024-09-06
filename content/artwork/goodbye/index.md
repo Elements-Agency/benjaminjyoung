@@ -29,7 +29,7 @@ materials: [canvas]
 colors: []
 collections: [the harts desire, reserved]
 locations: [home]
-tags: [andrea, number two]
+tags: [andrea, ben, number two]
 
 inventory:
   - home: 2044-01-01 - current

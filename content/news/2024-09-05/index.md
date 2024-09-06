@@ -21,7 +21,7 @@ On top of that, I have been getting ready for my first exhibit at [Massillon Mus
 
 {{< img span="image fit" src="massmu.jpg" alt="Massillon Museum Exhibit" title="Massillon Museum Exhibit" >}}
 
-As for the other works I have completed
+As for the other works I have completed:
 
 {{< row-start >}}
     {{< preview col="4" painting="/artwork/lonely-rose-in-the-nights-rain/" >}}
@@ -34,7 +34,7 @@ As for the other works I have completed
 
 ## Upcoming Exhibits ##
 
-I entered in [Hallelujah](/artwork/hallelujah/) in to the [Rod Meadow's Art Exhibit](https://www.facebook.com/people/Rod-Meadows-Canton-Art-Call/100083858452065/) at the [Julliard Art Center](https://juilliardartscenter.wixsite.com/).
+I entered [Hallelujah](/artwork/hallelujah/) in to the [Rod Meadow's Art Exhibit](https://www.facebook.com/people/Rod-Meadows-Canton-Art-Call/100083858452065/) at the [Julliard Art Center](https://juilliardartscenter.wixsite.com/).
 
 Tomorrow, on September 6th, the exhibit [Wings and Whimsy](https://www.facebook.com/events/1031065925277126/) will also open at [Patina Arts Centre](https://www.patinaartscentre.com/). Featuring my [Blue Butterfly Watercolor Painting](/artwork/blue-morpho-butterfly/) that was recently completed.
 
