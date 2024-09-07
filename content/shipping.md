@@ -35,7 +35,7 @@ For framed canvas reproductions (typically for oil reproductions):
   * Korea: 20-30 business days
   * International: 30-40 business days
 
-For **originals**, it's more of direct relation process. I will stay in touch with you directly to ensure everything goes smoothly. It's best to (contact me)[/contact] prior to ordering for more information. While the painting is all ready to go, packaging is done very carefully to ensure no damage in shipping. I will give you a delivery estimate personally, and you can get a full refund any time prior to confirming and finalizing shipment.
+For **originals**, it's more of direct relation process. I will stay in touch with you directly to ensure everything goes smoothly. It's best to [contact me](/contact) prior to ordering for more information. While the painting is all ready to go, packaging is done very carefully to ensure no damage in shipping. I will give you a delivery estimate personally, and you can get a full refund any time prior to confirming and finalizing shipment.
 
 ### Where will my order ship from? ###
 
