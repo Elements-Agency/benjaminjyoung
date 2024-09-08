@@ -28,11 +28,12 @@ mediums: [oil]
 materials: [mdf board]
 colors: [red, pink, purple, black]
 collections: []
-locations: [home]
+locations: [patina]
 tags: [pomegranate, fruit, shiny, metal, bowl, velvet, tablecloth, dark, indoors, table, warm]
 
 inventory:
-  - home: 2024-07-27 - current
+  - patina: 2024-09-04 - current
+  - home: 2024-07-27 - 2024-09-04
   - patina: 2024-05-26 - 2024-07-27
 
 hours: 34

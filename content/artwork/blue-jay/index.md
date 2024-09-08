@@ -28,11 +28,12 @@ mediums: [watercolor pencil]
 materials: [cotton paper]
 colors: [blue, white, grey, brown]
 collections: [primary winter birds]
-locations: [patina]
+locations: [home]
 tags: [blue jay, bird, outdoors, nature, winter, snow, log, tree, berries, perched, cool, overcast]
 
 inventory:
-  - patina: 2024-05-18 - current
+  - home: 2024-09-04 - current
+  - patina: 2024-05-18 - 2024-09-04
   - home: 2024-05-14 - 2024-05-18
 
 hours: 8
