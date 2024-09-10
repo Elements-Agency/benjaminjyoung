@@ -235,12 +235,32 @@
 
               {{ if in .Params.locations "patina" }}
                 <h3>Where To Visit</h3>
-                <p>This painting is currently on display at <a href="https://www.patinaartscentre.com">Patina Art Centre</a> in Canton Ohio, and can be viewed there.</p>
+                <p>
+                  This painting is currently on display at
+                  <a href="https://www.patinaartscentre.com" onclick="fbq('track', 'FindLocation');" target="_blank">
+                    Patina Art Centre
+                  </a>
+                  in Canton Ohio, and can be viewed there.
+                  The address is
+                  <a href="https://maps.app.goo.gl/JWTQp1JTtvitaH6J7" onclick="fbq('track', 'FindLocation');" target="_blank">
+                    324 Cleveland Ave NW, Canton, OH 44702.
+                  </a>
+                </p>
               {{ end }}
 
               {{ if in .Params.locations "massmu" }}
                 <h3>Where To Visit</h3>
-                <p>This painting is currently on display at <a href="https://www.massillonmuseum.org">Massillon Museum</a> in Massillon Ohio, and can be viewed there.</p>
+                <p>
+                  This painting is currently on display at
+                  <a href="https://www.massillonmuseum.org" onclick="fbq('track', 'FindLocation');" target="_blank">
+                    Massillon Museum
+                  </a>
+                  in Massillon Ohio, and can be viewed there.
+                  The address is
+                  <a href="https://maps.app.goo.gl/LNEqdnnnmoeMoV5TA" onclick="fbq('track', 'FindLocation');" target="_blank">
+                    121 Lincoln Way E, Massillon, OH 44646
+                  </a>
+                </p>
               {{ end }}
 
               {{ if .Resources.GetMatch "painting.jpg" }}
