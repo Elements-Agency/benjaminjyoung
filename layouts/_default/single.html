@@ -148,6 +148,18 @@
                         The original of this painting has been sold and is no longer available for sale.
                         You may still view the product page for archival reasons, link below.
                       </p>
+                    {{ else }}
+                      {{ if and (eq .Params.status "sale") (.Params.products) }}
+                        {{ $original := index (.Params.products) 0 }}
+                        <p>
+                          The original painting is currently for sale.
+                          If you would like to negotiate the price of the original, you can visit the
+                          <a href="/negotiate?name={{ .Title }}&price={{ trim $original.price "$" }}">
+                            negotiation form
+                          </a>
+                          to make an offer.
+                        </p>
+                      {{ end }}
                     {{ end }}
 
                     {{ if gt .Params.limited 0 }}
