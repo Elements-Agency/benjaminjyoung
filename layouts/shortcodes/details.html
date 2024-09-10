@@ -1,0 +1,20 @@
+<h3>Painting Detail Features</h3>
+<p>Click any image to view it.</p>
+<div class="box alt">
+    <div class="row gtr-50 gtr-uniform">
+        {{ with $files := .Page.Resources.Match "details/*.jpg" }}
+            {{ range $index, $file := $files }}
+                {{ $full := $file.Fit "800x800" }}
+                {{ $thumbnail := $file.Fill "300x300 Center q85" }}
+
+                <div class="col-3">
+                    <span class="image fit">
+                        <a href="{{ $full.RelPermalink }}" class="preview vbox-item" data-gall="progress">
+                            <img style="background:url(/images/loader.gif) 50% no-repeat;" src="{{ $thumbnail.RelPermalink }}" loading="lazy" alt="Detail {{ add $index 1 }}">
+                        </a>
+                    </span>
+                </div>
+            {{ end }}
+        {{ end }}
+    </div>
+</div>

@@ -47,9 +47,4 @@ products:
 
 {{< purchase >}}
 
-{{< row-start >}}
-    {{< img col="3" gallery="progress" src="details/1.jpg" link="details/1.jpg" alt="Farmhouse" title="Farmhouse" >}}
-    {{< img col="3" gallery="progress" src="details/2.jpg" link="details/2.jpg" alt="Tree" title="Tree" >}}
-    {{< img col="3" gallery="progress" src="details/4.jpg" link="details/4.jpg" alt="Left Trees" title="Left Trees" >}}
-    {{< img col="3" gallery="progress" src="details/3.jpg" link="details/3.jpg" alt="Man" title="Man" >}}
-{{< row-end >}}
+{{< details >}}
