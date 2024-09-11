@@ -11,7 +11,7 @@
     <section id="main">
       <div class="items">
         <div style="text-align: center;">
-          <a href="/about#main">
+          <a href="/">
             <img src="/images/ben-small.webp" alt="Contemporary Artist" width="120px" height="120px" style="margin-top:20px; border-radius: 500px; box-shadow: 0 0 10px #000;">
             <img src="/images/logo.png" alt="Ben Young" height="100px" width="200px">
           </a>
@@ -23,13 +23,20 @@
 
         {{ $mainSections := .Site.Params.mainSections | default (slice "post") }}
         {{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
+        {{ $section := where $section "Params.featured" true }}
         {{ $section_count := len $section }}
 
-        {{ if ge $section_count 1 }}
-          {{ $section_name := index (.Site.Params.mainSections) 0 }}
-          {{ $n_posts := $.Param "recent_posts_number" | default 120 }}
+        <script>
+          fbq('track', 'Search', {
+            content_category: 'Artwork',
+            content_name: 'Featured',
+            content_ids: [{{ range $page := $section }}{{ if $page.Params.products }}'{{ (index ($page.Params.products) 0).id }}',{{ end }}{{ end }}],
+            content_type: 'product_group'
+          });
+        </script>
 
-          {{ range $i,$p := (sort (where $section "Params.featured" true) "Params.order" "asc") }}
+        {{ if ge $section_count 1 }}
+          {{ range $i,$p := (sort $section "Params.order" "asc") }}
             {{ if lt $i 8 }}
 
               {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
@@ -96,15 +103,8 @@
       </div>
 
       <div class="items">
-        {{ $mainSections := .Site.Params.mainSections | default (slice "post") }}
-        {{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
-        {{ $section_count := len $section }}
-
         {{ if ge $section_count 1 }}
-          {{ $section_name := index (.Site.Params.mainSections) 0 }}
-          {{ $n_posts := $.Param "recent_posts_number" | default 120 }}
-
-          {{ range $i,$p := (sort (where $section "Params.featured" true) "Params.order" "asc") }}
+          {{ range $i,$p := (sort $section "Params.order" "asc") }}
             {{ if gt $i 7 }}
 
               {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}

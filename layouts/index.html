@@ -79,11 +79,22 @@
 						    <h2>Featured Artwork</h2>
                         </div>
 
+						{{ $mainSections := .Site.Params.mainSections | default (slice "post") }}
+						{{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
+						{{ $section := where $section "Params.featured" true }}
+
+						<script>
+							fbq('track', 'Search', {
+							  content_category: 'Artwork',
+							  content_name: 'Home',
+							  content_ids: [{{ range $i,$page := $section }}{{ if lt $i 10 }}{{ if $page.Params.products }}'{{ (index ($page.Params.products) 0).id }}',{{ end }}{{ end }}{{ end }}],
+							  content_type: 'product_group'
+							});
+						</script>
+
 						<!-- Gallery -->
                         <div class="gallery style2 medium onscroll-fade-in">
-                            {{ $mainSections := .Site.Params.mainSections | default (slice "post") }}
-                            {{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
-                            {{ range $i,$p := (sort (where $section "Params.featured" true) "Params.order" "asc") }}
+                            {{ range $i,$p := (sort $section "Params.order" "asc") }}
                                 {{ if lt $i 12 }}
                                     {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
                                     {{ $thumbnail := $thumbnail.Fill "360x250 Center" }}

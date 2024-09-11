@@ -14,6 +14,15 @@
 {{ end }}
 
 {{ define "main" }}
+  <script>
+    fbq('track', 'Search', {
+      content_category: 'Artwork',
+      content_name: 'All',
+      content_ids: [{{ range $page := .Paginator.Pages }}{{ if $page.Params.products }}'{{ (index ($page.Params.products) 0).id }}',{{ end }}{{ end }}],
+      content_type: 'product_group'
+    });
+  </script>
+
   <div id="wrapper">
     <!-- Do NOT remove inline styles on bg below -->
     <div class="bg fixed" style='position:fixed; top:0; left:0; z-index:-1; width:100vw; height:100vh; background-color:#ddd; background-image:url("/images/background.webp"); background-size:cover; background-position:center; background-repeat:no-repeat; background-attachment:scroll;'></div>

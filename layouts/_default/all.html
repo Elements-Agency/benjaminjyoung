@@ -4,13 +4,6 @@
 
 {{ define "scripts" }}
     {{ partial "inside-scripts.html" . }}
-
-    <script>
-      fbq('track', 'Search', {
-        content_category: 'Category',
-        content_name: 'All'
-      });
-    </script>
 {{ end }}
 
 {{ define "main" }}
@@ -41,14 +34,23 @@
             {{ $section_name := index (.Site.Params.mainSections) 0 }}
             {{ $n_posts := $.Param "recent_posts_number" | default 120 }}
 
-            {{ range $i,$p := (sort $section "Params.power" "desc") }}
-            {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
-            {{ $thumbnail := $thumbnail.Fill "160x160 Center" }}
-            {{ $thumbnail := $thumbnail.Resize "160x webp q90" }}
+            <script>
+              fbq('track', 'Search', {
+                content_category: 'Category',
+                content_name: 'All',
+                content_ids: [{{ range $page := $section }}{{ if $page.Params.products }}'{{ (index ($page.Params.products) 0).id }}',{{ end }}{{ end }}],
+                content_type: 'product_group'
+              });
+            </script>
 
-            <a href="{{ .RelPermalink }}#main" class="image" title="{{ .Title }} ({{ .Date| time.Format `2006` }})">
-                <img style="background: #000 url('/images/loader.gif') center no-repeat;" width="140px" height="140px" src="{{ $thumbnail.RelPermalink }}" loading="lazy" alt="{{ .Params.alt }}" title='{{ .Title }} ({{ .Date| time.Format "2006" }}) by Ben Young'>
-            </a>
+            {{ range $i,$p := (sort $section "Params.power" "desc") }}
+              {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
+              {{ $thumbnail := $thumbnail.Fill "160x160 Center" }}
+              {{ $thumbnail := $thumbnail.Resize "160x webp q90" }}
+
+              <a href="{{ .RelPermalink }}#main" class="image" title="{{ .Title }} ({{ .Date| time.Format `2006` }})">
+                  <img style="background: #000 url('/images/loader.gif') center no-repeat;" width="140px" height="140px" src="{{ $thumbnail.RelPermalink }}" loading="lazy" alt="{{ .Params.alt }}" title='{{ .Title }} ({{ .Date| time.Format "2006" }}) by Ben Young'>
+              </a>
             {{ end }}
         {{ end }}
 
