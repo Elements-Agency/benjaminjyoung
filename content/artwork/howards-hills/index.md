@@ -53,3 +53,7 @@ limited: 30
 {{< purchase >}}
 
 {{< details >}}
+
+## Charity ##
+
+10% of all online sale proceeds of any products that sell related to Howard's Hills will be donated to [Alcoholics Anonymous](https://www.aa.org).

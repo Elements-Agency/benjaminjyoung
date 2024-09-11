@@ -215,7 +215,7 @@
 
               {{ if .Params.progress}}
                 <div>
-                  <h3>Artwork Process</h3>
+                  <h2>Artwork Process</h2>
                   <p>{{ .Params.progress }}</p>
 
                   {{ if .Page.Resources.Match "process/*.jpg" }}
@@ -243,13 +243,13 @@
 
               {{ if .Params.location }}
                 <div>
-                  <h3>Scene Location Information</h3>
+                  <h2>Scene Location Information</h2>
                   <p>{{ .Params.location }}</p>
                 </div>
               {{ end }}
 
               {{ if in .Params.locations "patina" }}
-                <h3>Where To Visit</h3>
+                <h2>Where To Visit</h2>
                 <p>
                   This painting is currently on display at
                   <a href="https://www.patinaartscentre.com" onclick="fbq('track', 'FindLocation');" target="_blank">
@@ -264,7 +264,7 @@
               {{ end }}
 
               {{ if in .Params.locations "massmu" }}
-                <h3>Where To Visit</h3>
+                <h2>Where To Visit</h2>
                 <p>
                   This painting is currently on display at
                   <a href="https://www.massillonmuseum.org" onclick="fbq('track', 'FindLocation');" target="_blank">
@@ -279,7 +279,7 @@
               {{ end }}
 
               {{ if .Resources.GetMatch "painting.jpg" }}
-                <h3>Tags</h3>
+                <h2>Tags</h2>
                 <p>
                   {{- partial "tags.html" . -}}
                 </p>
