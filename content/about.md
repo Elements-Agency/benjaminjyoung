@@ -62,3 +62,11 @@ Yes. Only if you are local where you can pickup an original painting, where I do
 
 ### Do you have a physical location? ###
 Yes, you can find me on the 2nd floor at [Patina Art Centre](https://www.patinaartscentre.com) in downtown Canton.
+
+## Past Exhibits ##
+
+  * 2024
+    * [Patina Arts Centre First Fundraiser: A Celebration of Art, Community, and Creativity](https://www.facebook.com/events/869821251632238/) hosted at [Patina Arts Centre](https://www.patinaartscentre.com)
+    * [Brown's Town: Art Inspired by Ohio's Football Heritage](https://paulbrownmuseum.org/exhibits/detail/browns-town-art-inspired-by-ohios-football-heritage) hosted at [Massillon Museum](http://massillonmuseum.org/)
+    * [Wings and Whimsy: the Art of Taking Flight](https://www.facebook.com/events/1031065925277126) hosted at [Patina Arts Centre](http://patinaartscentre.com/)
+    * [Ron Meadows Art Call](https://www.juilliardartscenter.com/ron-meadows-art-call-2024.html) hosted at [Juilliard Arts Center](https://www.juilliardartscenter.com)

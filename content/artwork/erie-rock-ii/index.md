@@ -55,4 +55,4 @@ Done as a commissioned remake of [Erie Rock](/artwork/erie-rock), I set the tone
 
 ## Charity ##
 
-10% of all online sale proceeds of any products that sell related to Erie Rock will be donated to [Ohio & Erie Canalway Coalition](https://www.ohioeriecanal.org).
+10% of all online sale proceeds of any products that sell related to Erie Rock will be donated to the [Ohio & Erie Canalway Coalition](https://www.ohioeriecanal.org).

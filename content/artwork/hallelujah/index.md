@@ -60,8 +60,9 @@ The template for the narrative is set to the song's verse, from Hallelujah, "She
 
 ## Accolades ##
 
-This artwork was partially painted live at the [2024 Patina Arts Centre Fundraiser](https://www.facebook.com/events/869821251632238).
+* Painted live at the [2024 Patina Arts Centre Fundraiser](https://www.facebook.com/events/869821251632238) in the front window area of [Patina Arts Centre](https://www.patinaartscentre.com).
+* Featured in the [Ron Meadows Art Call](https://www.juilliardartscenter.com/ron-meadows-art-call-2024.html) located at [Juilliard Arts Center](https://www.juilliardartscenter.com)
 
 ## Charity ##
 
-10% of all online sale proceeds of any products that sell related to Hallelujah will be donated to [National Alliance on Mental Illness](https://www.nami.org).
+10% of all online sale proceeds of any products that sell related to Hallelujah will be donated to the [National Alliance on Mental Illness](https://www.nami.org).
