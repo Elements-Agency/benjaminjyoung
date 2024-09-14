@@ -40,7 +40,7 @@ status: sale
 products:
     - id: 691515054
       name: Original Painting
-      price: $4200
+      price: $2800
     - id: 691515048
       name: Limited Reproduction
       price: $99

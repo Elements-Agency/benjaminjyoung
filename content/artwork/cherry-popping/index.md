@@ -46,7 +46,7 @@ status: sold
 products:
     - id: 645940862
       name: Original Painting
-      price: $300
+      price: $400
       sold: true
 
 buyer: Richard Reikowski

@@ -41,7 +41,7 @@ products:
       price: $59
     - id: 689389017
       name: Original Painting
-      price: $700
+      price: $600
       sold: true
 
 buyer: Eric Anderson
