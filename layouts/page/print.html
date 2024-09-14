@@ -66,9 +66,18 @@
                         <a class="left" href="{{ .RelPermalink }}#main" style="float:left; padding:0; margin:0; line-height: 0;">
                             <img style="background: #000 url('/images/loader.gif') center no-repeat; padding:0; margin:0;" src="{{ $thumbnail.RelPermalink }}" width="120px" height="120px" alt="{{- .Title -}}" title='{{ .Title }}'>
                         </a>
-                        <div class="left" style="float:left; padding:23px 20px 0 20px;">
+                        <div class="left" style="float:left; padding:10px 20px 0 20px;">
                             <h2 style="text-transform: none; padding:0; margin:0; letter-spacing:normal;">{{ .Title}}</h2>
-                            <p style="padding:0; margin:0;">{{ title (index (.Params.mediums) 0) }} on {{ title (index (.Params.materials) 0) }}</p>
+                            <p style="padding:0; margin:0;">
+                                {{ if eq .Params.status "sold" }}
+                                    Framed Limited Reproduction
+                                {{ else }}
+                                    {{ title (index (.Params.mediums) 0) }} on {{ title (index (.Params.materials) 0) }}
+                                {{ end }}
+                            </p>
+                            <p style="padding:0; margin:0;">
+                                <strong style="color:#0f7d0f">{{ (index (.Params.products) 0).price }}</strong>
+                            </p>
                         </div>
                         <div class="left" id="qr-{{ $hash }}" style="float:left; padding:10px 10px 0 10px;"></div>
                         <script>
