@@ -27,11 +27,12 @@ mediums: [oil]
 materials: [canvas]
 colors: [black, blue, tan, brown, grey]
 collections: [reserved, the dark trio, figures facing from view]
-locations: [patina]
+locations: [juilliard]
 tags: [song, chair, scissors, woman, man, figure, rope, dark, melancholy, sad, tied, bound, broken, intimate, fixing, trauma, cut, indoors, warm, ben, fat, loss, number five]
 
 inventory:
-  - patina: 2024-08-28 - current
+  - juilliard: 2024-09-12 - current
+  - patina: 2024-08-28 - 2024-09-12
 
 hours: 60
 frame cost: 
