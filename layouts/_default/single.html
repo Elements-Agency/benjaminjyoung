@@ -251,7 +251,12 @@
               {{ if in .Params.locations "patina" }}
                 <h2>Where To Visit</h2>
                 <p>
-                  This painting is currently on display at
+                  {{ if eq .Params.status "sold" }}
+                    A <strong>limited reproduction</strong>
+                  {{ else }}
+                    The <strong>original painting</strong>
+                  {{ end }}
+                  is currently on display at
                   <a href="https://www.patinaartscentre.com" onclick="fbq('track', 'FindLocation');" target="_blank">
                     Patina Art Centre
                   </a>
@@ -261,12 +266,18 @@
                     324 Cleveland Ave NW, Canton, OH 44702.
                   </a>
                 </p>
+
+                {{ if eq .Params.status "sold" }}
+                  <p>
+                    The <strong>original painting</strong> has sold and remains with the buyer.
+                  </p>
+                {{ end }}
               {{ end }}
 
               {{ if in .Params.locations "massmu" }}
                 <h2>Where To Visit</h2>
                 <p>
-                  This painting is currently on display at
+                  The <strong>original painting</strong> is currently on display at
                   <a href="https://www.massillonmuseum.org" onclick="fbq('track', 'FindLocation');" target="_blank">
                     Massillon Museum
                   </a>
@@ -274,6 +285,21 @@
                   The address is
                   <a href="https://maps.app.goo.gl/LNEqdnnnmoeMoV5TA" onclick="fbq('track', 'FindLocation');" target="_blank">
                     121 Lincoln Way E, Massillon, OH 44646.
+                  </a>
+                </p>
+              {{ end }}
+
+              {{ if in .Params.locations "juilliard" }}
+                <h2>Where To Visit</h2>
+                <p>
+                  The <strong>original painting</strong> is currently on display at
+                  <a href="https://www.juilliardartscenter.com" onclick="fbq('track', 'FindLocation');" target="_blank">
+                    Juilliard Arts Center
+                  </a>
+                  in Canton Ohio, and can be viewed there.
+                  The address is
+                  <a href="https://maps.app.goo.gl/soooHgSYbZiKUUjd7" onclick="fbq('track', 'FindLocation');" target="_blank">
+                    600 Market Ave N, Canton, OH 44702.
                   </a>
                 </p>
               {{ end }}
