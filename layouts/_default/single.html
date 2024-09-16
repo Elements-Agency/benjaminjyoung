@@ -167,7 +167,7 @@
 
                     {{ if gt .Params.limited 0 }}
                       <p>
-                        Reproductions for this artwork are limited to {{ .Params.limited }}, total to be sold for purchase.
+                        Reproductions for this artwork are <strong>limited to {{ .Params.limited }}</strong> total to be sold for purchase.
                         You may find how much are left in inventory on the limited reproduction product page, link below.
                       </p>
                     {{ end }}
@@ -190,6 +190,10 @@
 
                           {{ if $product.sold }}
                             <strong style="color: red; text-transform: uppercase;">Sold Out</strong>
+                          {{ end }}
+
+                          {{ if $product.left }}
+                            <strong style="color: orange; text-transform: uppercase;">{{ $product.left }} Left</strong>
                           {{ end }}
 
                           <a class="button fit {{ if $product.sold }}secondary{{ else }}primary{{ end }} clear"
