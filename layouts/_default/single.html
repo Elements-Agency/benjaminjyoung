@@ -144,31 +144,26 @@
                     <h2 style="text-align: center;">Purchase {{ .Title }}</h2>
                     
                     {{ if eq .Params.status "sold" }}
-                      <p>
-                        The original of this painting has been sold and is no longer available for sale.
-                        You may still view the product page for archival reasons, link below.
+                      <p style="font-size:0.9em; margin-bottom:0;">
+                        The original of this painting has been sold.
                       </p>
                     {{ else }}
                       {{ if and (eq .Params.status "sale") (.Params.products) }}
                         {{ $original := index (.Params.products) 0 }}
-                        <p>
-                          The original painting is currently for sale.
+                        <p style="font-size:0.9em; margin-bottom:0;">
                           If you would like to negotiate the price of the original, you can visit the
-                          <a href="/negotiate?name={{ .Title }}&price={{ trim $original.price "$" }}">
-                            negotiation form
-                          </a>
-                          to make an offer.
-                          Or you can always
+                          <a href="/negotiate?name={{ .Title }}&price={{ trim $original.price "$" }}">negotiation form</a>.
+                          Or
                           <a href="/contact">contact me</a>
-                          for more information before purchasing.
+                          for more information.
                         </p>
                       {{ end }}
                     {{ end }}
 
                     {{ if gt .Params.limited 0 }}
-                      <p>
-                        Reproductions for this artwork are <strong>limited to {{ .Params.limited }}</strong> total to be sold for purchase.
-                        You may find how much are left in inventory on the limited reproduction product page, link below.
+                      <p style="font-size:0.9em;">
+                        Reproductions are <strong>limited to {{ .Params.limited }}</strong> total.
+                        You may find how much are left on the product page, link below.
                       </p>
                     {{ end }}
 
