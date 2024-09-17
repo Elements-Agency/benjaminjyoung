@@ -61,7 +61,7 @@ Yes, if I like the idea of what you want me to paint. I'm a strong believer of n
 Yes. Only if you are local where you can pickup an original painting, where I don't have to pay for shipping or commission for a curator site. This applies to originals only. Limited reproductions, I can not negotiate, as the profit margin is already too slim with my production costs. I do however offer volume discounts on reproductions, which are automatically applied once added to the cart. Please [contact me](/contact) to discuss details and work out a price.
 
 ### Do you have a physical location? ###
-Yes, you can find me on the 2nd floor at [Patina Art Centre](https://www.patinaartscentre.com) in downtown Canton.
+Yes, you can find me on the 2nd floor at [Patina Arts Centre](https://www.patinaartscentre.com) in downtown Canton.
 
 ## Past Exhibits ##
 

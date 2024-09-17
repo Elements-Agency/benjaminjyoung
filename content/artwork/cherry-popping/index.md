@@ -62,4 +62,4 @@ This study was my first oil painting, hence the name "Cherry Popping". I wanted 
 
 ### Accolades ###
 
-This artwork was featured, auctioned, and sold for charity at [Patina Art Centre's 2024 Charity Fundraiser](https://www.facebook.com/events/869821251632238/).
+This artwork was featured, auctioned, and sold for charity at [Patina Arts Centre's 2024 Charity Fundraiser](https://www.facebook.com/events/869821251632238/).
