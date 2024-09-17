@@ -186,10 +186,10 @@
                           <div>
                             {{ if $product.sold }}
                               <strong style="color: red; text-transform: uppercase;">Sold Out</strong>
-                            {{ end }}
-
-                            {{ if $product.left }}
-                              <strong style="color: orange; text-transform: uppercase;">{{ $product.left }} Left</strong>
+                            {{ else if $product.left }}
+                              <strong style="color: orange; text-transform: uppercase;">Only {{ $product.left }} Left</strong>
+                            {{ else }}
+                            <strong style="color: green; text-transform: uppercase;">For Sale</strong>
                             {{ end }}
                           </div>
 
