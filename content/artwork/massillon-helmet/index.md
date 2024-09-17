@@ -52,6 +52,7 @@ products:
       name: Limited Reproduction
       price: $59
       starting: true
+      left: 24 #29
     - id: 651739322
       name: Coffee Mug
       price: $19.99

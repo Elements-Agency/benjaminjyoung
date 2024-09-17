@@ -46,6 +46,7 @@ products:
     - id: 683160413
       name: Limited Reproduction
       price: $59
+      left: 22 #26
 
 limited: 30
 

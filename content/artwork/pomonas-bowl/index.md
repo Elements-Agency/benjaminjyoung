@@ -48,6 +48,7 @@ products:
       name: Limited Reproduction
       price: $59
       starting: true
+      left: 27
 
 buyer: 
 ---

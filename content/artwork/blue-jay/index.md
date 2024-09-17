@@ -50,6 +50,7 @@ products:
   - id: 658507371
     name: Greeting Card
     price: $19
+    left: 27
 
 limited: 30
 
