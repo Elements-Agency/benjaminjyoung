@@ -27,11 +27,12 @@ mediums: [watercolor]
 materials: [paper]
 colors: [brown, yellow, white, black]
 collections: [figures facing from view]
-locations: [home]
+locations: [patina]
 tags: [hills, father, jay, howard, farm, house, old, man, figure, tree, muted, countryside, building, outdoors, autumn, solitary, rustic, farmhouse, east sparta, ohio]
 
 inventory:
-  - patina: 2024-09-10 - current
+  - patina: 2024-09-16 - current
+  - home: 2024-09-10 - 2024-09-16
 
 hours: 40
 frame cost: 
