@@ -43,7 +43,7 @@ products:
     - id: 678649275
       name: Limited Reproduction
       price: $89
-      left: 2 #27
+      left: 2 #26
     - id: 650002838
       name: Greeting Card
       price: $12.99
