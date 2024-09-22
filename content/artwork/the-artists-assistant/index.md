@@ -61,6 +61,8 @@ On the surface and by design, it's meant to be humorous and lighthearted. Someth
 
 {{< purchase >}}
 
+{{< details >}}
+
 ### Inspiration ###
 
 {{< img src="reference.webp" width="200px" height="267px" class="floatright" gallery="progress" alt="Reference Photo of Princess" title="Princess Young" link="reference.jpg" >}}
