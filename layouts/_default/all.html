@@ -60,6 +60,26 @@
         <p style="text-align: center;">
             <a href="/shop#main" class="button">Shop Artwork &gt;</a>
         </p>
+
+        <h2>Text List</h2>
+        {{ $mainSections := .Site.Params.mainSections | default (slice "post") }}
+        {{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
+        {{ $section_count := len $section }}
+
+        {{ if ge $section_count 1 }}
+          <ul>
+            {{ $section_name := index (.Site.Params.mainSections) 0 }}
+            {{ $n_posts := $.Param "recent_posts_number" | default 120 }}
+
+            {{ range $i,$p := (sort $section "Params.power" "desc") }}
+              <li style="padding:0; margin:0; line-height:1.2em;">
+                <a href="{{ .RelPermalink }}#main">
+                    {{ .Title }}
+                </a>
+              </li>
+            {{ end }}
+          </ul>
+        {{ end }}
       </article>
     </div>
 
