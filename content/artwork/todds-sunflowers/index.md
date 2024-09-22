@@ -8,8 +8,8 @@ aliases: [/todds-sunflowers]
 images: ['painting.jpg']
 videos: []
 
-featured: false
-order: 99
+featured: true
+order: 11
 ratio: portrait
 power: 50
 favorite: false
