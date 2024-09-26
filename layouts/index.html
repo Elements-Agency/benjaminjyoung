@@ -97,8 +97,8 @@
                             {{ range $i,$p := (sort $section "Params.order" "asc") }}
                                 {{ if lt $i 12 }}
                                     {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
-                                    {{ $thumbnail := $thumbnail.Fill "360x250 Center" }}
-                                    {{ $thumbnail := $thumbnail.Resize "360x webp q90" }}
+                                    {{ $thumbnail := $thumbnail.Fill "420x350 Center" }}
+                                    {{ $thumbnail := $thumbnail.Resize "420x webp q90" }}
 
                                     <article>
                                         <a href="{{ .RelPermalink }}#main" class="image">
@@ -182,8 +182,8 @@
                             {{ range $i,$p := $section }}
                                 {{ if lt $i 6 }}
                                     {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
-                                    {{ $thumbnail := $thumbnail.Fill "360x250 Center" }}
-                                    {{ $thumbnail := $thumbnail.Resize "360x webp q90" }}
+                                    {{ $thumbnail := $thumbnail.Fill "420x350 Center" }}
+                                    {{ $thumbnail := $thumbnail.Resize "420x webp q90" }}
 
                                     <article>
                                         <a href="{{ .RelPermalink }}#main" class="image">
