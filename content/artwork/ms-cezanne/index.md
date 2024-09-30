@@ -28,11 +28,12 @@ mediums: [oil pastel]
 materials: [paper]
 colors: [yellow, green, grey, brown]
 collections: []
-locations: [patina]
+locations: [home]
 tags: [human, female, lady, woman, recline, pose, paul, cezanne, outdoors, figure, repose, rich, warm, earthy, warm]
 
 inventory:
-  - patina: 2024-07-27 - current
+  - home: 2024-09-29 - current
+  - patina: 2024-07-27 - 2024-09-29
   - home: 2024-01-20 - 2024-07-27
 
 hours: 6

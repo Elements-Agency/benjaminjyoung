@@ -28,7 +28,7 @@ mediums: [watercolor]
 materials: [cotton paper]
 colors: [white, blue]
 collections: [winter escape, figures facing from view]
-locations: [patina, sold]
+locations: [sold]
 tags: [human, figure, snow, winter, fence, tracks, cool, cold, outdoors, gate, calm, lonely, isolation, peaceful, melancholy, cool]
 
 inventory:

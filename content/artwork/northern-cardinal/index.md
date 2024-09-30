@@ -28,7 +28,7 @@ mediums: [watercolor pencil]
 materials: [paper]
 colors: [red]
 collections: [primary winter birds]
-locations: [patina, sold]
+locations: [sold]
 tags: [northern, red, cardinal, bird, outdoors, nature, winter, snow, branch, perched, overcast, warm]
 
 inventory:

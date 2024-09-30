@@ -28,11 +28,12 @@ mediums: [oil pastel]
 materials: [construction paper]
 colors: [blue, green, brow, white]
 collections: [the colors of water]
-locations: [patina]
+locations: [home]
 tags: [coast, sea, ocean, waves, rock, water, sun, sky, summer, warm, outdoors, ireland, dim, relaxing, cool]
 
 inventory:
-  - patina: 2024-08-14 - current
+  - home: 2024-09-29 - current
+  - patina: 2024-08-14 - 2024-09-29
   - home: 2024-07-09 - 2024-08-14
 
 hours: 6
