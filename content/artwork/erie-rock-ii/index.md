@@ -38,8 +38,8 @@ status: sold
 products:
     - id: 689537964
       name: Limited Reproduction
-      price: $89
-      left: 7 #29
+      price: $39
+      left: 24
     - id: 689389017
       name: Original Painting
       price: $600

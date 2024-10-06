@@ -43,11 +43,7 @@ status: sale
 products:
     - id: 680225708
       name: Original Drawing
-      price: $200
-    - id: 685245016
-      name: Limited Reproduction
-      price: $99
-      left: 27
+      price: $100
 
 limited: 30
 

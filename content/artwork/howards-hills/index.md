@@ -44,8 +44,8 @@ products:
       price: $1,000
     - id: 694564503
       name: Limited Reproduction
-      price: $99
-      left: 6 #29
+      price: $39
+      left: 24
     - id: 695956275
       name: Jigsaw Puzzle
       price: $39
