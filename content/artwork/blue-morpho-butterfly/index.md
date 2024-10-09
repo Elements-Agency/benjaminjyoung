@@ -26,11 +26,12 @@ mediums: [watercolor]
 materials: [cotton paper]
 colors: [blue, green, brown, black]
 collections: []
-locations: [patina]
+locations: [home]
 tags: [butterfly, insect, leaf, wings, summer, cool, outdoors]
 
 inventory:
-  - patina: 2024-08-24 - current
+  - home: 2024-10-07 - current
+  - patina: 2024-08-24 - 2024-10-07
 
 hours: 
 frame cost: 
