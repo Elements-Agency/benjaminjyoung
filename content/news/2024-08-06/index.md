@@ -9,6 +9,8 @@ The July winner has been selected from newsletter subscribers, and has picked a 
 
 Drum roll please... 🥁
 
+<!--more-->
+
 The winner IS: **Michele O.** in South Carolina! 
 
 

@@ -65,6 +65,8 @@ buyer:
 
 In the midst of a serene, snow-covered landscape, a solitary figure captures our attention in this evocative painting, titled **Back To**. Striding the lone figure once again, across the snow covered Ohio and Erie Canal Towpath Trail.
 
+<!--more-->
+
 This is the second iteration in the [Winter Escape collection](/collections/winter-escape/).
 
 {{< purchase >}}

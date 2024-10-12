@@ -56,6 +56,8 @@ buyer:
 
 This **Young Farmhouse** painting portrays a rustic, rural scene. Dominating the left foreground is a large, dark brown walnut tree, its detailed bark texture suggesting an old and sturdy presence. From one of its branches, a swing with a wooden seat dangles, its ropes hanging limply, waiting for a visitor and adding balance to the painting. Further back, the scene opens to a golden field, which could be a harvested crop, bordered by a dense tree line that marks the edge of a forest. The trees are evergreens, standing tall and dark green against the horizon.
 
+<!--more-->
+
 Behind the tree, set in the middle ground, is a quaint brick house with multiple windows, exuding a cozy, lived-in feel. To the house's left, there is a small, white outbuilding with a single red window, that was once a chicken coupe but now acts as a shed. These structures are nestled within a green landscape with patches of darker and lighter shades, indicating the undulating terrain.
 
 {{< purchase >}}

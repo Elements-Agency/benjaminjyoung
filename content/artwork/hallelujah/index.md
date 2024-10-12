@@ -52,6 +52,8 @@ limited: 30
 
 **Hallelujah** captures a profound and intimate moment between two figures, a woman and a man, bathed in muted, melancholic tones. The woman, with a look of quiet concentration, gently holds the man’s head as she carefully cuts his hair. The tenderness in her touch contrasts with the rough, darkened surroundings, suggesting a setting filled with history and emotional weight. The man, seated with his back to the viewer, seems resigned, his body language conveying a sense of vulnerability. Likely his pose shows signs of trauma. His unruly hair and the scattered clippings on his shoulders evoke a passage of time and perhaps a long period of neglect or hardship.
 
+<!--more-->
+
 The composition is tightly framed, drawing the viewer’s focus to the emotional connection between the two figures. The dim lighting and earthy palette create a somber mood, emphasizing the gravity of the moment they share. The texture of the background, with its worn and almost decayed appearance, adds to the narrative of endurance and care amidst adversity. This scene, though quiet and understated, resonates with themes of compassion, resilience, and the human need for connection, even in the bleakest of times. The painting speaks to the viewer on a deeply emotional level, inviting reflection on the nuances of care and the quiet strength found in such moments of solace and support.
 
 {{< purchase >}}

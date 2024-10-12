@@ -55,6 +55,8 @@ buyer:
 
 This watercolor painting, **Sailing Away Schoon**, depicts a solitary schooner boat navigating through misty waters. The scene is serene and atmospheric, with soft, muted colors creating a sense of calm and tranquility. The sailboat, with its sails billowing gently, is positioned towards the right side of the painting, moving forward through the slightly choppy, dark blue waves. The background features indistinct, hazy mountains that blend seamlessly with the overcast sky, enhancing the overall misty ambiance. The use of watercolor techniques adds a fluid and ethereal quality to the painting, capturing the essence of a quiet journey through a tranquil seascape.
 
+<!--more-->
+
 {{< purchase >}}
 
 ### Inspiration ###

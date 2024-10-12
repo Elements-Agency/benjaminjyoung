@@ -50,6 +50,8 @@ buyer: Eric Anderson
 
 This watercolor painting captures a striking and serene scene of a solitary rock formation rising from the shallow waters. The rock, dark and textured, is crowned by a small group of slender trees, their delicate branches reaching skyward. The surrounding water is a soft, muted green, gently reflecting the rock's rugged base. The sky above is overcast, with layers of pale gray clouds stretching across the horizon, adding a contemplative mood to the piece. The overall composition evokes a sense of isolation and resilience, as the rock and trees stand alone, enduring the passage of time in a tranquil, almost ethereal landscape.
 
+<!--more-->
+
 ### Inspiration ###
 
 Done as a commissioned remake of [Erie Rock](/artwork/erie-rock), I set the tone more for summer than that of winter in the previous version. The emotions of winter blues vs summer joy absolutely showed in the difference.

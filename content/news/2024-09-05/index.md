@@ -8,6 +8,8 @@ preview_alt: Massillon Museum Art Exhibit
 	
 The end of summer is fast approaching, and I've been busy as ever with my art-related activities. I had to skip last month's newsletter, just because it's been a little overwhelming. There's been some key obvious reasons of what I have been up to, even though I have not been able to complete as much work as I have desired.
 
+<!--more-->
+
 The first big thing... The completion of what I consider my first "masterpiece", [Hallelujah](/artwork/hallelujah/). I will let the painting speak for it's self:
 
 {{< row-start >}}

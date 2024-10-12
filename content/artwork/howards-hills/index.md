@@ -55,6 +55,8 @@ limited: 30
 
 **Howard’s Hills** is a watercolor painting that was done after so many people have noted my favorite watercolor paintings reminded them of the great [Andrew Wyeth](https://en.wikipedia.org/wiki/Andrew_Wyeth)’s work. So I took the time to study a lot of technique and incorporated it heavily in to this narrative and architectural landscape painting I created. Especially a lot of his dry brushing technique and using lots of layers/details until the form in perfect to how I want it to flow. Diverting slightly where I feel more natural to my own organic techniques. I came up with an Appalachia landscape, very similar to the rolling hills I grew up in. The style heavily influenced by Wyatt’s style, such as in his [Christina’s World](https://www.moma.org/collection/works/78455) painting. The house is inspired by a lot of the old farmhouses that were still standing during my childhood but in need of repairs. The man is based off my elderly father, hiking his way across our family farm land. I have found my watercolor style!
 
+<!--more-->
+
 {{< purchase >}}
 
 {{< details >}}

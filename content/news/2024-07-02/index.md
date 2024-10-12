@@ -9,6 +9,8 @@ The June winner has been selected from newsletter subscribers, and will receive 
 
 Drum roll please...
 
+<!--more-->
+
 The winner IS: **Richard R.** from Ohio!
 
 I will run another contest and a free art print winner will be chosen again at the end of July, to all email newsletter subscribers. An be sure to also checkout the latest paintings done recently, below:

@@ -10,6 +10,8 @@ Hey everyone, I hope you are doing well.
 
 As the summer weather is in full force in the blazing sun of Ohio, the winter blues have melted away, and that emotion is clearly showing in my painting's colors and mood.
 
+<!--more-->
+
 {{< img span="image fit" src="lake.jpg" alt="Painting by the lake" title="Painting by the lake" >}}
 
 An update on my store front: I was not happy with the quality of the Print Posters I was offering through a Print on Order supplier. It was a mix of print quality and mainly to do with shipping methods of being rolled, causing some creasing. Any framed prints were perfectly fine, but I have gone ahead and disabled all non-framed poster prints on my online store. I have already been working with higher quality printer to supply art prints that meet my standard. I may also very well move to mainly offering Limited Edition prints, which will also allow me the opportunity to sign all prints on-going and ensure proper shipping quality are maintained. You will already start to see some of these prints offered in my online store.

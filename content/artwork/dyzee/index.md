@@ -42,6 +42,8 @@ buyer:
 
 This **Dyzee** painting is an abstract composition dominated by fluid, dynamic strokes and splashes of paint. The color palette is primarily monochromatic, featuring different shades of blue and black, with a significant contrast provided by a central burst of olive or moss green. The expressive lines and shapes seem to swirl around this central point of color, creating a sense of movement that draws the eye inward. The splatters and spots of paint across the canvas add to the feeling of spontaneity and action, suggesting the artist worked quickly and with a degree of improvisation.
 
+<!--more-->
+
 {{< purchase >}}
 
 ### Inspiration ###

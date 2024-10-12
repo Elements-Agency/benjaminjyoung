@@ -7,6 +7,8 @@ preview_image: patina.jpg
 
 I'm currently playing catch up with writing newsletters and showing off my painting releases. I've been busying getting ready as a new artist and investing a lot of time in not only painting, but also marketing and building my exposure. So this month is going to include quite a lot of new paintings to divulge through.
 
+<!--more-->
+
 {{< img span="image fit" link="http://patinaartscentre.com/" src="patina.jpg" alt="Patina Arts Centre Front Door" title="Patina Arts Centre" >}}
 
 I also have moved in to [Patina Arts Centre](http://patinaartscentre.com/) as a resident artist. I have some artwork hanging up there, so feel free to go visit during their business hours and you can find me on the second floor.

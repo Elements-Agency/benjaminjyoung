@@ -57,6 +57,8 @@ buyer:
 
 The **Massillon 52** is a vibrant watercolor painting, showcasing two Massillon Football players. Both in a moment of intense celebration. On the left, player 52 is rendered with a fierce expression. To the right, an unknown teammate engages in clapping, hands blurred to add to the effect. Behind them, the stadium is alive with spectators in the stands, out of focus. Backset all to autumn trees and vibrant green turf. I managed to infuse the scene with movement and excitement, creating a palpable sense of the game's high stakes and the players' raw emotion.
 
+<!--more-->
+
 {{< purchase >}}
 
 ### Inspiration ###

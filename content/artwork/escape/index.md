@@ -61,6 +61,8 @@ buyer: Fred Boone
 
 **Escape** is a painting that depicts a tranquil winter scene, including a solitary figure is shown walking away from the viewer, journeying along a curved path that has been carved through the snow from what may have been a vehicle. With overcast skies, soft grays and cobalts that blend seamlessly with the snowy ground,  tire tracks that are visible in the snow, all reinforcing the sense that the figure has journeyed alone. The overall mood of this watercolor painting is one of solitude and silence, evoking a sense of introspection or the quiet beauty of nature in winter.
 
+<!--more-->
+
 This is the first iteration in the [Winter Escape collection](/collections/winter-escape/).
 
 {{< purchase >}}

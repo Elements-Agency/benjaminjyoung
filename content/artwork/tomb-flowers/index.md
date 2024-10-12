@@ -52,6 +52,8 @@ buyer:
 
 **Tomb Flowers** is a watercolor pencil drawing, with a brushed and washed colorful background, of white lilies. That's all I really have to say about this artwork piece.
 
+<!--more-->
+
 {{< purchase >}}
 
 ### Inspiration ###
