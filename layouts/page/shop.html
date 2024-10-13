@@ -24,14 +24,14 @@
 
     <div id="main">
         <section style="text-align:center;">
-            <div class="box" style="font-weight:bold; background:#721f1f; color:#fff;">
-                <p style="text-align:center;">
+            <div class="box" style="font-weight:bold; background:#721f1f; color:#fff; padding:0.5em;">
+                <p style="text-align:center; font-size:0.8em;">
                     {{ .Site.Params.sale }}
                 </p>
             </div>
 
-            <header class="major">
-                <h1>{{ .Title }}</h1>
+            <header class="major" style="margin-bottom:0;">
+                <h1 style="font-size:3em;">{{ .Title }}</h1>
             </header>
 
             {{ .Content }}
@@ -44,7 +44,7 @@
             </div>
 
             <div style="background:#f6f6f6; padding-top:15px;">
-                <img src="/images/safe.jpg" alt="Safe checkout guaranteed">
+                <img src="/images/safe.jpg" alt="Safe checkout guaranteed" style="width:100%; max-width:500px">
             </div>
 
             <br>
