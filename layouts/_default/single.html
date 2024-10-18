@@ -324,6 +324,21 @@
                 </p>
               {{ end }}
 
+              {{ if in .Params.locations "bztat" }}
+                <h2>Where To Visit</h2>
+                <p>
+                  The <strong>original painting</strong> is currently on display at
+                  <a href="http://bztatstudios.com" onclick="fbq('track', 'FindLocation');" target="_blank">
+                    BZTAT STudios
+                  </a>
+                  in Canton Ohio, and can be viewed there.
+                  The address is
+                  <a href="https://maps.app.goo.gl/ZP3mWY4MsbtKQMJz6" onclick="fbq('track', 'FindLocation');" target="_blank">
+                    730 Market Ave S, Canton, OH 44702
+                  </a>
+                </p>
+              {{ end }}
+
               {{ if .Resources.GetMatch "painting.jpg" }}
                 <h2>Tags</h2>
                 <p>

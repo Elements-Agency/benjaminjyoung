@@ -25,11 +25,12 @@ mediums: [oil]
 materials: [canvas]
 colors: [brown, white, black]
 collections: [tiny canvas]
-locations: [patina]
+locations: [bztat]
 tags: [american, football, sports, ball, dark, indoors, canton, massillon, ohio, warm]
 
 inventory:
-  - patina: 2024-07-05 - current
+  - bztat: 2024-10-18 - current
+  - patina: 2024-07-05 - 2024-10-18
   - home: 2024-07-03 - 2024-07-05
 
 hours: 4
