@@ -31,7 +31,8 @@ locations: [home]
 tags: [song, chair, scissors, woman, man, figure, rope, dark, melancholy, sad, tied, bound, broken, intimate, fixing, trauma, cut, indoors, warm, ben, fat, loss, number five]
 
 inventory:
-  - cyrus: 2024-10-18 - current
+  - patina: 2024-10-24 - current
+  - cyrus: 2024-10-18 - 2024-10-24
   - patina: 2024-10-13 - 2024-10-18
   - juilliard: 2024-09-12 - 2024-10-13
   - patina: 2024-08-28 - 2024-09-12
