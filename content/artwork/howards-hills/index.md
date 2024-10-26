@@ -63,6 +63,10 @@ This painting is apart of the [Shades of Olson Collection](/collections/shades-o
 
 {{< details >}}
 
+## Accolades ##
+
+* Featured in the [2024 ActLoCLE Exhibit](https://www.actlocle.org/).
+
 ## Charity ##
 
 10% of all online sale proceeds of any products that sell related to Howard's Hills will be donated to [Alcoholics Anonymous](https://www.aa.org).

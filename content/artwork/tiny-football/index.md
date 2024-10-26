@@ -50,3 +50,11 @@ buyer:
 <!--more-->
 
 This small work painting is the first one apart of the [tiny canvas collection](/collections/tiny-canvas/).
+
+## Accolades ##
+
+* Featured in the 2024 The Art of Toys Exhibit at [BZTAT Studios](http://bztatstudios.com).
+
+## Charity ##
+
+10% of all online sale proceeds of any products that sell related to Tiny Football will be donated to [Toys For Tots](https://www.toysfortots.org).
