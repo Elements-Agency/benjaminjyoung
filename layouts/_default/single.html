@@ -134,12 +134,6 @@
 
               {{ if or (eq .Params.status "sale") (eq .Params.status "sold") }}
                 <article id="purchase" class="clear">
-                  <div class="box" style="font-weight:bold; background:#721f1f; color:#fff;">
-                    <p style="text-align:center;">
-                      {{ .Site.Params.sale }}
-                    </p>
-                  </div>
-
                   <div class="box clear" style="background-color: #eee;">
                     <h2 style="text-align: center;">Purchase {{ .Title }}</h2>
                     
