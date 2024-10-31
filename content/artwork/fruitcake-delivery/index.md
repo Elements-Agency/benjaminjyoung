@@ -3,7 +3,6 @@ date: 2024-10-29
 title: Fruitcake Delivery
 description: Fruitcake Delivery is a watercolor that paints a scene of a delivery truck and driver bringing the joy of fruitcake to the resident of a blue house.
 alt: This watercolor painting depicts a cozy winter scene of a snow-covered house warmly lit from within, as a delivery truck labeled "Fruitcake Haus" unloads boxes in the quiet evening.
-progress: Sticking to my natural style, I start off with a wash using wet-on-wet. Then building up middle layers using wet-on-dry, to then finalize the painting with a lot of dry-on-dry brush marks. The painting consists of hundreds if not thousands of layers of watercolor painting. Building on each time to the depth of values and to as fine detail as I can achieve with the lack of control of the watercolor medium. As I have been becoming more and more familiar with my preference of tones, I am introducing more and more earthy pigments, especially yellow ochre and burnt umber in this piece.
 author: Benjamin J. Young
 
 aliases: [/fruitcake-delivery, /artwork/rachels-house]
@@ -49,13 +48,23 @@ limited: 30
 
 <!--more-->
 
-{{< purchase >}}
+{{< signup >}}
+
+### Inspiration ###
+
+The scene is painted and altered from my own memory of some shenanigans I've been involved in with the past. Nothing more than silly humor, but it was ultimately what triggered the start of a long and complicated chain of events that would lead to me starting painting.
 
 {{< details >}}
 
-## Inspiration ##
+### Artwork Process ###
 
-The scene is painted and altered from my own memory of some shenanigans I've been involved in with the past. Nothing more than silly humor, but it was ultimately what triggered the start of a long and complicated chain of events that would lead to me starting painting.
+Sticking to my natural style, I start off with a wash using wet-on-wet. Then building up middle layers using wet-on-dry, to then finalize the painting with a lot of dry-on-dry brush marks. The painting consists of hundreds if not thousands of layers of watercolor painting. Building on each time to the depth of values and to as fine detail as I can achieve with the lack of control of the watercolor medium. As I have been becoming more and more familiar with my preference of tones, I am introducing more and more earthy pigments, especially yellow ochre and burnt umber in this piece.
+
+{{< progress >}}
+
+### Accolades ###
+
+* Featured in the [2024 Patina Resident Artist Exhibit](https://www.patinaartscentre.com).
 
 ## Charity ##
 

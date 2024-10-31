@@ -29,7 +29,7 @@ materials: [paper]
 colors: [yellow, green, grey, brown]
 collections: []
 locations: [home]
-tags: [human, female, lady, woman, recline, pose, paul, cezanne, outdoors, figure, repose, rich, warm, earthy, warm]
+tags: [human, female, lady, woman, nude, recline, pose, paul, cezanne, outdoors, figure, repose, rich, warm, earthy, warm]
 
 inventory:
   - home: 2024-09-29 - current

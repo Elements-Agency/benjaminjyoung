@@ -3,7 +3,6 @@ date: 2024-10-12
 title: Standoff
 description: Standoff is a watercolor painting of two silhouettes standing in a golden field, highlighting the tenseness of the couple.
 alt: This watercolor painting depicts two silhouetted figures standing apart in a vast, golden field under a cloudy sky, creating a mood of quiet tension and isolation against a distant mountainous backdrop.
-progress: This one was pretty straight forward. I started it originally to test a new technique of using masking liquid to help paint grass. Plus my lack of grass detailing in Howard's Hills left me hungry to paint something new to try it out. I blocked in the shapes, and from there it was just a matter of layering up the details and deepening the values.
 author: Benjamin J. Young
 
 aliases: [/standoff, /artwork/stand-off]
@@ -50,6 +49,12 @@ limited: 30
 
 This painting is apart of the [Shades of Olson Collection](/collections/shades-of-olson).
 
-{{< purchase >}}
+{{< signup >}}
 
 {{< details >}}
+
+### Artwork Process ###
+
+This one was pretty straight forward. I started it originally to test a new technique of using masking liquid to help paint grass. Plus my lack of grass detailing in Howard's Hills left me hungry to paint something new to try it out. I blocked in the shapes, and from there it was just a matter of layering up the details and deepening the values.
+
+{{< progress >}}
