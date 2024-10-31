@@ -83,15 +83,6 @@
 						{{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
 						{{ $section := where $section "Params.featured" true }}
 
-						<script>
-							/*fbq('track', 'Search', {
-							  content_category: 'Artwork',
-							  content_name: 'Home',
-							  content_ids: [{{ range $i,$page := $section }}{{ if lt $i 10 }}{{ if $page.Params.products }}'{{ (index ($page.Params.products) 0).id }}',{{ end }}{{ end }}{{ end }}],
-							  content_type: 'product_group'
-							});*/
-						</script>
-
 						<!-- Gallery -->
                         <div class="gallery style2 medium onscroll-fade-in">
                             {{ range $i,$p := (sort $section "Params.order" "asc") }}
