@@ -9,9 +9,11 @@
 {{ define "main" }}
     <script>
         fbq('track', 'Search', {
-        content_category: 'Shop',
-        content_name: 'Main'
+            content_category: 'Shop',
+            content_name: 'Main'
         });
+
+        fbq('track', 'ViewContent');
     </script>
 
     <div id="wrapper">
