@@ -1,42 +1,44 @@
-<ul style="list-style:none; text-align:center; margin-bottom:0;">
-    {{ with $files := .Page.Resources.Match "process/*.jpg" }}
-        {{ range $index, $file := $files }}
-            {{ $full := $file.Fit "800x800" }}
-            {{ $thumbnail := $file.Fill "90x90 Center q85" }}
-            <li style="display:inline-block;">
-                <a class="preview" href="{{ $full.RelPermalink }}" data-gall="progress">
-                    <img style="background: #000 url('/images/loader.gif') center no-repeat;" src="{{ $thumbnail.RelPermalink }}" width="90px" height="90px" loading="lazy" alt="Progress step {{ add $index 1 }}" title="Progress step {{ add $index 1 }}">
-                    <br>
-                    Step {{ add $index 1 }}
-                </a>
-            </li>
+<div class="box alt">
+    <div class="row gtr-50 gtr-uniform">
+        {{ with $files := .Page.Resources.Match "process/*.jpg" }}
+            {{ range $index, $file := $files }}
+                {{ $full := $file.Fit "800x800" }}
+                {{ $thumbnail := $file.Fill "300x300 Center q85" }}
+                <div class="col-3">
+                    <span class="image fit">
+                        <a class="preview" href="{{ $full.RelPermalink }}" data-gall="progress">
+                            <img style="background: #000 url('/images/loader.gif') center no-repeat;" src="{{ $thumbnail.RelPermalink }}" loading="lazy" alt="Progress step {{ add $index 1 }}" title="Progress step {{ add $index 1 }}">
+                        </a>
+                    </span>
+                </div>
+            {{ end }}
         {{ end }}
-    {{ end }}
 
-    {{if .Get "progress" }}
-        <li style="display:inline-block;">
-            <a class="preview" data-autoplay="true" data-fitview="true" data-vbtype="iframe" data-gall="progress" href="{{ .Get "progress" }}">
-                {{ $overlay := "" }}
-                {{ $path := "images/play.png" }}
-                {{ with resources.Get $path }}
-                    {{ $overlay = .Fit "60x60 Center" }}
-                {{ else }}
-                    {{ errorf "Unable to get resource %q" $path }}
-                {{ end }}
-
-                {{ $filter := images.Overlay $overlay 15 15 }}
-
-                {{ with $thumbnail := .Page.Resources.GetMatch "painting.jpg" }}
-                    {{ $thumbnail := $thumbnail.Fill "90x90 Center q85" }}
-                    {{ with $thumbnail }}
-                        {{ with . | images.Filter $filter }}
-                            <img style="background: #000 url('/images/loader.gif') center no-repeat;" src="{{ .RelPermalink }}" width="90px" height="90px" loading="lazy" alt="Video progress timelapse" title="Progress Video Timelapse">
-                            <br>
-                            Video
+        {{if .Get "progress" }}
+            <div class="col-3">
+                <span class="image fit">
+                    <a class="preview" data-autoplay="true" data-fitview="true" data-vbtype="iframe" data-gall="progress" href="{{ .Get "progress" }}">
+                        {{ $overlay := "" }}
+                        {{ $path := "images/play.png" }}
+                        {{ with resources.Get $path }}
+                            {{ $overlay = .Fit "300x300 Center" }}
+                        {{ else }}
+                            {{ errorf "Unable to get resource %q" $path }}
                         {{ end }}
-                    {{ end }}
-                {{ end }}
-            </a>
-        </li>
-    {{ end }}
-</ul>
+
+                        {{ $filter := images.Overlay $overlay 15 15 }}
+
+                        {{ with $thumbnail := .Page.Resources.GetMatch "painting.jpg" }}
+                            {{ $thumbnail := $thumbnail.Fill "300x300 Center q85" }}
+                            {{ with $thumbnail }}
+                                {{ with . | images.Filter $filter }}
+                                    <img style="background: #000 url('/images/loader.gif') center no-repeat;" src="{{ .RelPermalink }}" loading="lazy" alt="Video progress timelapse" title="Progress Video Timelapse">
+                                {{ end }}
+                            {{ end }}
+                        {{ end }}
+                    </a>
+                </span>
+            </div>
+        {{ end }}
+    </div>
+</div>
