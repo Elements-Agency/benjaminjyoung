@@ -58,3 +58,7 @@ This painting is apart of the [Shades of Olson Collection](/collections/shades-o
 This one was pretty straight forward. I started it originally to test a new technique of using masking liquid to help paint grass. Plus my lack of grass detailing in Howard's Hills left me hungry to paint something new to try it out. I blocked in the shapes, and from there it was just a matter of layering up the details and deepening the values.
 
 {{< progress >}}
+
+## Accolades ##
+
+* Featured in the [2024 Patina Resident Artist Exhibit](https://www.patinaartscentre.com).
