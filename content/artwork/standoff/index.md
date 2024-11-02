@@ -5,7 +5,7 @@ description: Standoff is a watercolor painting of two silhouettes standing in a 
 alt: This watercolor painting depicts two silhouetted figures standing apart in a vast, golden field under a cloudy sky, creating a mood of quiet tension and isolation against a distant mountainous backdrop.
 author: Benjamin J. Young
 
-aliases: [/standoff, /artwork/stand-off, /arwtwork/stand-off]
+aliases: [/standoff, /artwork/stand-off, /arwtwork/standoff]
 images: ['painting.jpg']
 videos: []
 

@@ -5,7 +5,7 @@ description: Fruitcake Delivery is a watercolor that paints a scene of a deliver
 alt: This watercolor painting depicts a cozy winter scene of a snow-covered house warmly lit from within, as a delivery truck labeled "Fruitcake Haus" unloads boxes in the quiet evening.
 author: Benjamin J. Young
 
-aliases: [/fruitcake-delivery, /artwork/rachels-house]
+aliases: [/fruitcake-delivery, /artwork/rachels-house, /arwtwork/fruitcake-delivery]
 images: ['painting.jpg']
 videos: []
 
