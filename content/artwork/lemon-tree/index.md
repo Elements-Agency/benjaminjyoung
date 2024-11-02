@@ -43,7 +43,7 @@ status: sale
 products:
     - id: 648083433
       name: Original Painting
-      price: $100
+      price: $60
 
 buyer: 
 ---

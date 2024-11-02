@@ -44,9 +44,6 @@ products:
   - id: 658238185
     name: Original Drawing
     price: $300
-  - id: 687153132
-    name: Limited Reproduction
-    price: $39
   - id: 658507371
     name: Greeting Card
     price: $19

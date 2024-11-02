@@ -43,7 +43,7 @@ status: sale
 products:
     - id: 680225708
       name: Original Drawing
-      price: $100
+      price: $200
 
 limited: 30
 

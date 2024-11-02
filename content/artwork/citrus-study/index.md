@@ -33,7 +33,7 @@ tags: [mug, cup, lemon, lime, citrus, fruit, dark, indoors, warm, table]
 
 inventory:
   - home: 2024-05-02 - current
-  - cyrus framing: 2024-04-18 - 2024-05-02
+  - cyrus: 2024-04-18 - 2024-05-02
   - home: 2024-02-06 - 2024-04-18
 
 hours: 4

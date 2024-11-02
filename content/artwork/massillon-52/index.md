@@ -47,7 +47,7 @@ status: sale
 products:
     - id: 654299515
       name: Original Painting
-      price: $400
+      price: $600
     - id: 689326464
       name: Postcard
       price: $4.99

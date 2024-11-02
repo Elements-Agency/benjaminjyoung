@@ -46,11 +46,7 @@ status: sale
 products:
     - id: 654299512
       name: Original Painting
-      price: $600
-    - id: 688644272
-      name: Limited Reproduction
-      price: $39
-      left: 27
+      price: $800
     - id: 651739322
       name: Coffee Mug
       price: $19.99

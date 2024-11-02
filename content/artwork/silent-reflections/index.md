@@ -47,7 +47,7 @@ products:
       price: $400
     - id: 671656572
       name: Dry Run
-      price: $50
+      price: $60
     - id: 687196821
       name: Limited Reproduction
       price: $39

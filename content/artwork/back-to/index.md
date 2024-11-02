@@ -42,7 +42,7 @@ inventory:
   - home: 2024-06-29 - current
   - patina: 2024-05-18 - 2024-06-29
   - home: 2024-05-02 - 2024-05-18
-  - cyrus framing: 2024-04-18 - 2024-05-02
+  - cyrus: 2024-04-18 - 2024-05-02
   - home: 2024-03-13 - 2024-04-18
 
 hours: 18
@@ -53,10 +53,6 @@ products:
   - id: 654299503
     name: Original Painting
     price: $400
-  - id: 687153829
-    name: Limited Reproduction
-    price: $39
-    left: 27
 
 limited: 30
 
