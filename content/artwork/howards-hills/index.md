@@ -5,7 +5,7 @@ description: Howard's Hills is Ben's watercolor painting to expand further in An
 alt: This watercolor painting depicts a solitary figure walking toward a rustic white farmhouse, set against a backdrop of rolling hills and bare trees under a soft, muted sky.
 author: Benjamin J. Young
 
-aliases: [/howards-hills]
+aliases: [/howards-hills, /arwtwork/howards-hills]
 images: ['painting.jpg']
 videos: []
 
