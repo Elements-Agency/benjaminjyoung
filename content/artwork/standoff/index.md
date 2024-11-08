@@ -27,7 +27,7 @@ materials: [paper]
 colors: [brown, yellow, gold, black]
 collections: [figures facing from view, shades of olson]
 locations: [home]
-tags: [field, farm, couple, man, woman, figure, muted, countryside, wheat, outdoors, autumn, tension, rustic, melancholy]
+tags: [field, farm, couple, man, woman, figure, muted, countryside, wheat, outdoors, autumn, tension, rustic, melancholy, number twenty]
 
 inventory:
   - home: 2024-10-12 - current
