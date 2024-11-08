@@ -25,7 +25,7 @@ categories: [realism, narrative, painting]
 mediums: [oil]
 materials: [canvas]
 colors: [black, blue, tan, brown, grey]
-collections: [reserved, the dark trio, figures facing from view]
+collections: [the dark trio, figures facing from view, reserved]
 locations: [home]
 tags: [song, chair, scissors, woman, man, figure, rope, dark, melancholy, sad, tied, bound, broken, intimate, fixing, trauma, cut, indoors, warm, ben, fat, loss, number five]
 

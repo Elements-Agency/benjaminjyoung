@@ -24,9 +24,9 @@ categories: [realism, painting]
 mediums: [watercolor, graphite]
 materials: [cotton paper]
 colors: [pink, red, tan]
-collections: [watercolor sketches]
+collections: [watercolor sketches, reserved]
 locations: [home]
-tags: [woman, figure, lounging, nude, pose, recline, indoors, zorn]
+tags: [woman, figure, lounging, nude, pose, recline, indoors, zorn, number thirteen]
 
 inventory:
   - home: 2024-10-17 - current

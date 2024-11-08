@@ -27,7 +27,7 @@ categories: [realism, floral, drawing]
 mediums: [graphite pencil]
 materials: [paper]
 colors: [black, white]
-collections: [lilies, drawings]
+collections: [lilies, drawings, reserved]
 locations: [home]
 tags: [lily, flower, spring, day, andrea, number two]
 

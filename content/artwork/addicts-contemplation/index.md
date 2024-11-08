@@ -27,7 +27,7 @@ categories: [realism, landscape, narrative, painting]
 mediums: [watercolor]
 materials: [cotton paper]
 colors: [blue, green]
-collections: [the colors of water, figures facing from view]
+collections: [the colors of water, figures facing from view, reserved]
 locations: [home]
 tags: [girl, woman, stranger, human, figure, dock, lake, water, clouds, sky, melancholy, hills, waves, reflection, tranquility, thinking, calm, introspection, solitude, summer, cool, number twenty two]
 

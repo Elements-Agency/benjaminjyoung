@@ -25,9 +25,9 @@ categories: [realism, narrative, landscape, architecture, painting]
 mediums: [watercolor]
 materials: [paper]
 colors: [blue, white, black, yellow]
-collections: [figures facing from view]
+collections: [figures facing from view, reserved]
 locations: [patina]
-tags: [house, fruitcake, delivery, truck, driver, figure, package, light, windows, tree, snow, street, outdoors, winter, solitary, rustic, whimsical, shenanigans, massillon, ohio]
+tags: [house, fruitcake, delivery, truck, driver, figure, package, light, windows, tree, snow, street, outdoors, winter, solitary, rustic, whimsical, shenanigans, massillon, ohio, number five]
 
 inventory:
   - patina: 2024-10-29 - current
