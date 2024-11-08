@@ -9,8 +9,8 @@ aliases: [/lonely-rose-in-the-nights-rain, /artwork/lonely-rose]
 images: ['painting.jpg']
 videos: []
 
-featured: false
-order: 99
+featured: true
+order: 7
 ratio: portrait
 power: 169
 favorite: false

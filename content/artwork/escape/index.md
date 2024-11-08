@@ -11,8 +11,8 @@ aliases: [/escape]
 images: ['painting.jpg']
 videos: [https://www.instagram.com/p/C3pK2JvOevm/, https://youtube.com/shorts/TSyQTgGJjD0]
 
-featured: true
-order: 12
+featured: false
+order: 99
 ratio: landscape
 power: 738
 favorite: false

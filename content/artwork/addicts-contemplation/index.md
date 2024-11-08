@@ -11,8 +11,8 @@ aliases: [/jennys-contemplation, /artwork/jennys-contemplation, /artwork/jenis-c
 images: ['painting.jpg']
 videos: []
 
-featured: true
-order: 15
+featured: false
+order: 99
 ratio: landscape
 power: 162
 favorite: true

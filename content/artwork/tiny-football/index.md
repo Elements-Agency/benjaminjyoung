@@ -8,8 +8,8 @@ aliases: [/tiny-football]
 images: ['painting.jpg']
 videos: []
 
-featured: false
-order: 99
+featured: true
+order: 15
 ratio: square
 power: 28
 favorite: false
