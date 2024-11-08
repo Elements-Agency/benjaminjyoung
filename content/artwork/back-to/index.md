@@ -15,7 +15,7 @@ videos: [https://www.instagram.com/p/C4fX_ZiuC8p/, https://youtube.com/shorts/35
 featured: false
 order: 99
 ratio: landscape
-power: 10
+power: 162
 favorite: false
 
 supplies:
