@@ -26,11 +26,12 @@ mediums: [watercolor]
 materials: [paper]
 colors: [brown, yellow, gold, black]
 collections: [figures facing from view, shades of olson]
-locations: [home]
+locations: [patina]
 tags: [field, farm, couple, man, woman, figure, muted, countryside, wheat, outdoors, autumn, tension, rustic, melancholy, number twenty]
 
 inventory:
-  - home: 2024-10-12 - current
+  - patina: 2024-11-05 - current
+  - home: 2024-10-12 - 2024-11-05
 
 hours: 20
 frame cost: 
@@ -40,6 +41,7 @@ products:
     - id: 702627109
       name: Original Painting
       price: $600
+      patina: $500
 limited: 30
 ---
 
