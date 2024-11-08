@@ -26,7 +26,7 @@ mediums: [oil]
 materials: [canvas]
 colors: [black, blue, tan, brown, grey]
 collections: [the dark trio, figures facing from view, reserved]
-locations: [home]
+locations: [patina]
 tags: [song, chair, scissors, woman, man, figure, rope, dark, melancholy, sad, tied, bound, broken, intimate, fixing, trauma, cut, indoors, warm, ben, fat, loss, number five]
 
 inventory:
@@ -43,7 +43,8 @@ status: sale
 products:
     - id: 691515054
       name: Original Painting
-      price: $2000
+      price: $2,000
+      patina: $1,600
     - id: 691515048
       name: Limited Reproduction
       price: $39
