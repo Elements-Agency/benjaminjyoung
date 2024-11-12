@@ -29,7 +29,7 @@ materials: [paper]
 colors: [red, green, brown, blue]
 collections: []
 locations: [home]
-tags: [farm, house, brick, home, east sparta, ohio, swing, walnut, tree, countryside, building, outdoors, spring, nostalgia, warm]
+tags: [farm, house, brick, home, east sparta, ohio, swing, walnut, tree, countryside, building, outdoors, spring, nostalgia, warm, appalachia]
 
 inventory:
   - home: 2024-06-29 - current
