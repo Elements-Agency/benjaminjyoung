@@ -25,7 +25,7 @@ categories: [realism, narrative, landscape, architecture, painting]
 mediums: [watercolor]
 materials: [paper]
 colors: [blue, white, black, yellow]
-collections: [figures facing from view, reserved]
+collections: [shades of olson, figures facing from view, reserved]
 locations: [patina]
 tags: [house, fruitcake, delivery, truck, driver, figure, package, light, windows, tree, snow, street, outdoors, winter, solitary, rustic, whimsical, shenanigans, massillon, ohio, number five]
 
@@ -50,6 +50,8 @@ limited: 30
 <!--more-->
 
 {{< signup >}}
+
+This painting is apart of the [Shades of Olson Collection](/collections/shades-of-olson).
 
 ### Inspiration ###
 
