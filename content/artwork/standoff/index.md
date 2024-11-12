@@ -49,9 +49,9 @@ limited: 30
 
 <!--more-->
 
-This painting is apart of the [Shades of Olson Collection](/collections/shades-of-olson).
-
 {{< signup >}}
+
+This painting is apart of the [Shades of Olson Collection](/collections/shades-of-olson).
 
 {{< details >}}
 
