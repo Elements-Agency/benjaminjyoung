@@ -57,6 +57,10 @@ This painting is apart of the [Shades of Olson Collection](/collections/shades-o
 
 The man of course is myself, the artist, with the blond hair shimmering from the bright autumn sun. The dog is my late Border Collie, Izzy. The landscape is yet again inspired by the Ohio Appalachian Plateau hills I grew up with. It's a memory I never got to have with my faithful companion, before she passed. She was always by my side in her life span, but sometimes time escapes us too quickly, and by the time I was in a state of hiking myself, she had grown to elderly and weary to join me in my long walks.
 
+### Narrative ###
+
+The building in the distance is an important element, as it's a play on the white lie, "taken to a farm upstate". Where parents of my generation would use to describe the death of a family pet. As this is the direction both Izzy and myself are walking in that direction, together. By each other's side, much how insisted to be with her upon her final moments.
+
 ### Artwork Process ###
 
 I know I'm going to get a lot of flack for stating this, but to me this piece starts to transcends in to impressionism. A different, warmer and earthly color pallet was use, one that you will likely see continue in my other watercolor paintings, but the use of brush strokes is abstract and impressionistic magic. If you study the details closely, it's a chaotic mess. After stepping away, you see the entirety of the painting is my own little magic trick. Tricking the eyes and perception of the view to form something in mind to render in their brain it's a scene. To me, I have no desire in to journeying in to ultra-realism, but I love the trickery of using chaos to create something more grand and beautiful. Much as I hope this painting achieves.
