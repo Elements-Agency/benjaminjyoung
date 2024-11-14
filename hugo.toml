@@ -5,6 +5,9 @@ copyright = 'Ben Young Arts, LLC.'
 enableRobotsTXT = true
 timeout = '600'
 
+[language]
+  languageCode = 'en-us'
+
 [taxonomies]
   category = 'categories'
   medium = 'mediums'
