@@ -16,7 +16,7 @@ timeout = '600'
 [params]
   commentoEnable = false
   location = "324 Cleveland Ave NW. Canton, Ohio 44702. USA."
-  sale = "Halloween Sale! 10% off all orders using discount code 'SPOOKY10' until October 31st. Online orders only."
+  sale = "1 Year Anniversary Sale! 50% OFF originals using discount code 'DEC20ANNIVERSARY'."
   favicon = '/favicon.ico'
   [params.social]
     facebook		= "artist.benjamin.young"
