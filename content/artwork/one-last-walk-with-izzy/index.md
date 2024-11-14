@@ -21,7 +21,7 @@ supplies:
   - frame: 
 size: 20x14in (51x34cm)
 
-categories: [realism, narrative, landscape, painting]
+categories: [realism, narrative, animal, landscape, painting]
 mediums: [watercolor]
 materials: [paper]
 colors: [green, blue, yellow]
