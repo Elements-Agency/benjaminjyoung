@@ -23,6 +23,7 @@ supplies:
   - frame: Cyrus Custom Framing
 size: 14x11in (35.56cmx27.94cm)
 
+series: [football]
 categories: [realism, still life, painting]
 mediums: [oil]
 materials: [canvas panel]

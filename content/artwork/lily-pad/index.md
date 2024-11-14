@@ -24,6 +24,7 @@ supplies:
   - frame: 
 size: 12.2x8.3in (310x210mm)
 
+series: [floral]
 categories: [realism, floral, painting, close up]
 mediums: [watercolor, gouache]
 materials: [cotton paper]

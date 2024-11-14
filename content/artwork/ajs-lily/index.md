@@ -23,6 +23,7 @@ supplies:
   - frame: 
 size: 
 
+series: [floral]
 categories: [realism, floral, drawing]
 mediums: [graphite pencil]
 materials: [paper]

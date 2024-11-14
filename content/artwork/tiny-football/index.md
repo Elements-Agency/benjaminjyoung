@@ -20,6 +20,7 @@ supplies:
   - frame: 
 size: 4x4in (10.16x10.16cm)
 
+series: [football]
 categories: [realism, still life, close up, painting]
 mediums: [oil]
 materials: [canvas]

@@ -23,6 +23,7 @@ supplies:
   - frame: Michaels
 size: 9x12in (22.8x30.4cm)
 
+series: [primary winter birds]
 categories: [realism, animal, drawing]
 mediums: [watercolor pencil]
 materials: [paper]

@@ -23,6 +23,7 @@ supplies:
   - frame: Cyrus Custom Framing
 size: 14.1x10.2in (36x26cm)
 
+series: [winter escape]
 categories: [realism, landscape, narrative, painting]
 mediums: [watercolor]
 materials: [cotton paper]

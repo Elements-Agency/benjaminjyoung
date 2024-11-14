@@ -23,6 +23,7 @@ supplies:
   - frame: 
 size: 9x12in (22.8x30.4cm)
 
+series: [abstract]
 categories: [abstract, floral, painting]
 mediums: [watercolor]
 materials: [paper]

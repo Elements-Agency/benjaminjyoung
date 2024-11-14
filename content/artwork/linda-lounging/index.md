@@ -20,6 +20,7 @@ supplies:
   - frame: 
 size: 10.2x7in (260x180mm)
 
+series: [watercolor sketches]
 categories: [realism, painting]
 mediums: [watercolor, graphite]
 materials: [cotton paper]

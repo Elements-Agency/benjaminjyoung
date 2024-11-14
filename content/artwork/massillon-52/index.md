@@ -24,6 +24,7 @@ supplies:
   - frame: Cyrus Custom Framing
 size: 16.1x12.2in (410x320mm)
 
+series: [football]
 categories: [realism, narrative, painting]
 mediums: [watercolor, gouache]
 materials: [cotton paper]

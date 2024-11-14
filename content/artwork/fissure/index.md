@@ -23,6 +23,7 @@ supplies:
   - frame: 
 size: 
 
+series: [abstract]
 categories: [abstract, painting]
 mediums: [watercolor]
 materials: [cotton paper]

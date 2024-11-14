@@ -23,6 +23,7 @@ supplies:
   - frame: Michaels
 size: 16.1x12.2in (410x320mm)
 
+series: [seascape]
 categories: [realism, landscape, narrative, painting]
 mediums: [watercolor]
 materials: [cotton paper]

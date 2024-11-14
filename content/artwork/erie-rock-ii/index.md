@@ -21,6 +21,7 @@ supplies:
   - frame: Cyrus Custom Framing
 size: 16.1inx12.2in (41cmx31cm)
 
+series: [ohio landscapes]
 categories: [realism, landscape, painting]
 mediums: [watercolor]
 materials: [cotton paper]

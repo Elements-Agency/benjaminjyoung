@@ -22,6 +22,7 @@ supplies:
   - frame: 
 size: 4x4in (10.16x10.16cm)
 
+series: [close up]
 categories: [realism, close up, painting]
 mediums: [oil]
 materials: [canvas]

@@ -23,6 +23,7 @@ supplies:
   - frame: 
 size: 8x10in (20.32x25.4)
 
+series: [still life]
 categories: [impressionism, still life, floral, painting]
 mediums: [acrylic]
 materials: [canvas]

@@ -23,6 +23,7 @@ supplies:
   - frame: 
 size: 20x16in (50.80x40.64cm)
 
+series: [still life]
 categories: [realism, still life, painting]
 mediums: [oil]
 materials: [mdf board]

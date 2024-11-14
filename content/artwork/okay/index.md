@@ -23,6 +23,7 @@ supplies:
   - frame: 
 size: 
 
+series: [hands]
 categories: [realism, drawing]
 mediums: [graphite pencil]
 materials: [paper]

@@ -30,6 +30,7 @@ material: Cold Press Cotton Paper
 category: Hybrid Impressionism
 subject: Landscape
 
+series: [winter escape]
 categories: [realism, narrative, painting]
 mediums: [watercolor]
 materials: [cotton paper]

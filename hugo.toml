@@ -12,6 +12,7 @@ timeout = '600'
   collection = 'collections'
   location = 'locations'
   tag = 'tags'
+  series = 'series'
 
 [params]
   commentoEnable = false
@@ -85,6 +86,13 @@ timeout = '600'
   includeNewer = true
   threshold = 80
   toLower = false
+[[related.indices]]
+    name = 'mediums'
+    applyFilter = false
+    pattern = ''
+    toLower = false
+    type = 'basic'
+    weight = 100
 [[related.indices]]
     name = 'tags'
     applyFilter = false

@@ -23,6 +23,7 @@ supplies:
   - frame: Michaels
 size: 8x10in (20.32x25.40cm)
 
+series: [still life]
 categories: [impressionism, still life, drawing]
 mediums: [oil pastel]
 materials: [construction paper]

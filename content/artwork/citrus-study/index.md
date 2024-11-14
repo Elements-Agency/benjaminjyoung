@@ -23,6 +23,7 @@ supplies:
   - frame: Cyrus Custom Framing
 size: 14.1x10.2in (36x26cm)
 
+series: [still life]
 categories: [realism, still life, painting]
 mediums: [watercolor, gouache]
 materials: [cotton paper]

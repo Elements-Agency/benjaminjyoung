@@ -23,6 +23,7 @@ supplies:
   - frame: Cyrus Custom Framing
 size: 18x12in (45.7x30.5cm)
 
+series: [seascape]
 categories: [realism, landscape, drawing]
 mediums: [oil pastel]
 materials: [construction paper]

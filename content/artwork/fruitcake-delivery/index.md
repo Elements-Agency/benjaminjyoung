@@ -21,6 +21,7 @@ supplies:
   - frame: 
 size: 16x12in (41x31cm)
 
+series: [shades of olson]
 categories: [realism, narrative, landscape, architecture, painting]
 mediums: [watercolor]
 materials: [paper]

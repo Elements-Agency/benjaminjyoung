@@ -23,6 +23,7 @@ supplies:
   - frame: Cyrus Custom Framing
 size: 8x12.5in (20.32x31.75cm)
 
+series: [floral]
 categories: [realism, floral, drawing]
 mediums: [watercolor pencil]
 materials: [paper]

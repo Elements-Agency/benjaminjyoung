@@ -18,11 +18,12 @@ power: 175
 favorite: false
 
 supplies:
-  - medium:  Winsor & Newton Winton Oil
+  - medium: Winsor & Newton Winton Oil
   - on: Artist Loft Canvas Panel
   - frame: Michaels
 size: 14x11in (35.56cmx27.94cm)
 
+series: [still life]
 categories: [realism, still life, painting]
 mediums: [oil]
 materials: [canvas panel]

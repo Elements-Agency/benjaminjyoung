@@ -23,6 +23,7 @@ supplies:
   - frame: Cyrus Custom Framing
 size: 12x9in (30.4x22.8cm)
 
+series: [ohio landscapes]
 categories: [impressionism, landscape, architecture, painting]
 mediums: [watercolor]
 materials: [paper]

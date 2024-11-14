@@ -21,6 +21,7 @@ supplies:
   - frame: 
 size: 24x36in (60.96x91.44cm)
 
+series: [the dark trio]
 categories: [realism, narrative, painting]
 mediums: [oil]
 materials: [canvas]
