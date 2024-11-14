@@ -4,6 +4,8 @@ title: October (2024) Newsletter
 description: Artist Newsletter for October, 2024. Updates on Ben Young artwork completed, sold, and current exhibits.
 preview_image: artoberfest.jpg
 preview_alt: Massillon Community Art Council Artoberfest
+images:
+    - artoberfest.jpg
 ---
 	
 This past month has been busy. Too much to do, too little time. I have not had as much time to paint as I wanted, but at least the other amounts of time not painting were used to sell some of my artwork.

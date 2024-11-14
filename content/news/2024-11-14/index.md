@@ -4,6 +4,8 @@ title: November (2024) Newsletter
 description: Artist Newsletter for November, 2024. Updates on Ben Young's artwork and activities'
 preview_image: residence.jpg
 preview_alt: Patina Resident Artist Showcase
+images:
+    - residence.jpg
 ---
 
 This last month has been busy gearing up for the holiday season, filled with exhibit receptions, more exhibits, and dealing with life. I wrapped up the [Rod Meadow's Art Exhibit](https://www.facebook.com/people/Rod-Meadows-Canton-Art-Call/100083858452065/) with their reception, attended both the [Paul Brown Town Exhibit](https://paulbrownmuseum.org) and [Stark County Artists Exhibit](https://www.massillonmuseum.org/) receptions, a currently now having my artwork featured in the [Patina Resident Artist Showcase](http://patinaartscentre.com/), and was also announced to be included in the [1st Annual ActLoCLE Juried Art Exhibition](https://www.actlocle.org/firstexhibition/). So it's been a busy month of stepping outside of my art studio at Patina.

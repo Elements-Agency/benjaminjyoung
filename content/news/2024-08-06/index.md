@@ -3,6 +3,8 @@ date: 2024-08-06
 title: July (2024) Winner
 description: The winner of the July 2024 free art drawing
 preview_image: michele.png
+images:
+    - michele.jpg
 ---
 
 The July winner has been selected from newsletter subscribers, and has picked a free art print be delivered to them.

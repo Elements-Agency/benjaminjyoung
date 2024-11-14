@@ -3,6 +3,8 @@ date: 2024-07-02
 title: June (2024) Winner
 description: The winner of the June 2024 free art drawing
 preview_image: richard.png
+images:
+    - richard.jpg
 ---
 
 The June winner has been selected from newsletter subscribers, and will receive a follow up email for their pick of a free art print be mailed to them.

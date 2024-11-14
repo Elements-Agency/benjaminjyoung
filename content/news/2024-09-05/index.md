@@ -4,6 +4,8 @@ title: September (2024) Newsletter
 description: Artist Newsletter for September, 2024. Updates on Ben Young artwork completed, sold, and current exhibits.
 preview_image: massmu.jpg
 preview_alt: Massillon Museum Art Exhibit
+images:
+    - massmu.jpg
 ---
 	
 The end of summer is fast approaching, and I've been busy as ever with my art-related activities. I had to skip last month's newsletter, just because it's been a little overwhelming. There's been some key obvious reasons of what I have been up to, even though I have not been able to complete as much work as I have desired.

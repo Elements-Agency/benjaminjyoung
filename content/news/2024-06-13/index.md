@@ -3,6 +3,8 @@ date: 2024-06-13
 title: June (2024) Newsletter
 description: Artist Newsletter for June, 2024. Updates on Ben Young artwork completed, sold, and an upcoming Massillon Museum exhibit
 preview_image: patina.jpg
+images:
+    - patina.jpg
 ---
 
 I'm currently playing catch up with writing newsletters and showing off my painting releases. I've been busying getting ready as a new artist and investing a lot of time in not only painting, but also marketing and building my exposure. So this month is going to include quite a lot of new paintings to divulge through.
