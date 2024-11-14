@@ -44,10 +44,16 @@ products:
     - id: 673936559
       name: Original Painting
       price: $300
+    - id: 683098807
+      name: Limited Reproduction
+      price: $39
+      left: 25
 
 limited: 30
 
-buyer: 
+reproductions:
+  - 1: Fred Boone (Canton, OH)
+  - 2: Lydia Carmary (Canton, OH)
 ---
 
 **Addict's Contemplation** is both expressive and metaphoric in it's design. It's a variety of color splashes introduced in the world of light across the lake's surface of water. A woman stranger sits on a weathered wooden dock, peering in to thought. A foreign intrusion sits right-of-center, still in what is seemingly like the calm parts of the water; an island pier. The waves turn in a moment of calmness and introspection, surrounding the subject in intrusive thought. The summer sun's light dances through the sky and across the the refraction of rippling waves among the lake's surface. Nestled hills roll in the attached land's horizon, muted by the bipolar clouds mood. The melancholic mood set by the this vibrant world, give a sense of tranquility and reflection. The curiosity of what the girl may be thinking, is left to burden the viewer with their own ideas. The subtle details and gentle colors create a peaceful, almost dreamlike quality, inviting the viewer to pause and share in this moment of solitude and serenity.

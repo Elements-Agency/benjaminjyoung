@@ -45,12 +45,15 @@ products:
     - id: 694564503
       name: Limited Reproduction
       price: $39
-      left: 24
+      left: 26
     - id: 695956275
       name: Jigsaw Puzzle
       price: $39
 
 limited: 30
+
+reproductions:
+  - 1: Artober (Massillon, OH)
 ---
 
 **Howard’s Hills** is a watercolor painting that was done after so many people have noted my favorite watercolor paintings reminded them of the great [Andrew Wyeth](https://en.wikipedia.org/wiki/Andrew_Wyeth)’s work. So I took the time to study a lot of technique and incorporated it heavily in to this narrative and architectural landscape painting I created. Especially a lot of his dry brushing technique and using lots of layers/details until the form in perfect to how I want it to flow. Diverting slightly where I feel more natural to my own organic techniques.

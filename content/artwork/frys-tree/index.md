@@ -45,7 +45,7 @@ products:
     - id: 678649536
       name: Limited Reproduction
       price: $39
-      left: 24
+      left: 26
     - id: 658509196
       name: Jigsaw Puzzle
       price: $49
@@ -57,6 +57,9 @@ products:
 limited: 30
 
 buyer: Ted Turner
+
+reproductions:
+  - 1: Artober (Massillon, OH)
 ---
 
 **Fry's Tree** portrays a solitary, robust tree standing prominently in the center against a twilight or pre-dawn sky. Set in the Fry Family Park, of East Sparta Ohio. The leaves and branches creates a lace-like pattern against the sky, which shifts from a dark blue at the top to lighter hues near the horizon, indicating dusk or the approach of nightfall. There's a sense of tranquility and solitude in this scene, as the tree stands alone in the quiet moments of transition between day and night.
