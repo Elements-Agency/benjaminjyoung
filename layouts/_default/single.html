@@ -5,7 +5,9 @@
 {{ define "scripts" }}
     {{ partial "inside-scripts.html" . }}
 
-    <script>
+    <script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?101772706&data_platform=singleproduct_v2" charset="utf-8"></script>
+
+    <script type="text/javascript">
       function trackInterest() {
         fbq('track', 'Search', {
           content_category: 'Artwork',
@@ -30,6 +32,10 @@
           currency: 'USD',
         });
       }
+
+      document.addEventListener("DOMContentLoaded", () => {
+        xProduct();
+      });
     </script>
 {{ end }}
 
@@ -303,13 +309,6 @@
                         </div>
                       {{ end }}
                     </div>
-
-                    <script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?101772706&data_platform=singleproduct_v2" charset="utf-8"></script>
-                    <script type="text/javascript">
-                      document.addEventListener("DOMContentLoaded", () => {
-                        xProduct();
-                      });
-                    </script>
                   </div>
                 </article>
               {{ end }}

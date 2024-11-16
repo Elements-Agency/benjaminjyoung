@@ -4,18 +4,17 @@
 
 {{ define "scripts" }}
     {{ partial "inside-scripts.html" . }}
+
+    <script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?101772706&data_platform=code&data_date=2024-04-07" charset="utf-8"></script>
+
+    <script type="text/javascript">
+        xProductBrowser("categoriesPerRow=3","views=grid(20,3) list(60) table(60)","categoryView=grid","searchView=list","id=my-store-101772706");
+
+        xSearch("id=my-search-101772706");
+    </script>
 {{ end }}
 
 {{ define "main" }}
-    <script>
-        fbq('track', 'Search', {
-            content_category: 'Shop',
-            content_name: 'Main'
-        });
-
-        fbq('track', 'ViewContent');
-    </script>
-
     <div id="wrapper">
         <!-- Do NOT remove inline styles on bg below -->
         <div class="bg fixed" style='position:fixed; top:0; left:0; z-index:-1; width:100vw; height:100vh; background-color:#ddd; background-image:url("/images/background.webp"); background-size:cover; background-position:center; background-repeat:no-repeat; background-attachment:scroll;'></div>
@@ -33,29 +32,21 @@
             </div>
 
             <header class="major" style="margin-bottom:0;">
-                <h1 style="font-size:3em;">{{ .Title }}</h1>
+                <h1 style="font-size:3em;">
+                    {{ .Title }}
+                </h1>
             </header>
 
             {{ .Content }}
 
-            <script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?101772706&data_platform=code&data_date=2024-04-07" charset="utf-8"></script>
-
             <div id="my-store-101772706" class="loader" style="min-height:400px;"></div>
-            <div>
-              <script type="text/javascript"> xProductBrowser("categoriesPerRow=3","views=grid(20,3) list(60) table(60)","categoryView=grid","searchView=list","id=my-store-101772706");</script>
-            </div>
 
             <div style="background:#f6f6f6; padding-top:15px;">
                 <img src="/images/safe.jpg" alt="Safe checkout guaranteed" style="width:100%; max-width:500px">
             </div>
 
             <br>
-
             <div id="my-search-101772706"></div>
-            <div>
-                <script type="text/javascript"> xSearch("id=my-search-101772706"); </script>
-            </div>
-
             <br>
             
             <strong>Order Resources:</strong>
