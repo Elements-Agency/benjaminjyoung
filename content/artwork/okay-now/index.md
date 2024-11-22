@@ -59,3 +59,13 @@ This painting is apart of the [Shades of Olson Collection](/collections/shades-o
 ### Inspiration ###
 
 The painting depicts an altered version of an old and wise friend of mine.
+
+### Artwork Process ###
+
+I approached this much like I did [Hallelujah](/artwork/hallelujah), working inch by inch. At least on the face. The background was done wet-on-wet, and building up as it dried.
+
+{{< progress >}}
+
+## Charity ##
+
+10% of all proceeds (both original and any limited reproductions) will be donated to [Meals on Wheels](https://www.mealsonwheelsamerica.org).
