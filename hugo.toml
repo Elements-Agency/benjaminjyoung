@@ -20,7 +20,7 @@ timeout = '600'
 [params]
   commentoEnable = false
   location = "324 Cleveland Ave NW. Canton, Ohio 44702. USA."
-  sale = "1 Year Anniversary Sale! 50% OFF originals using discount code 'DEC20ANNIVERSARY'."
+  sale = "1 Year Anniversary Sale! 50% OFF originals using discount code 'DEC20ANNIVERSARY'. Now until the end of the year."
   favicon = '/favicon.ico'
   [params.social]
     facebook		= "artist.benjamin.young"
