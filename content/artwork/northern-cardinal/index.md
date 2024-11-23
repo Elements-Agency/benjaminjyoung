@@ -41,10 +41,6 @@ frame cost: $60
 
 status: sold
 products:
-    - id: 678649275
-      name: Limited Reproduction
-      price: $39
-      left: 25
     - id: 650002838
       name: Greeting Card
       price: $12.99
