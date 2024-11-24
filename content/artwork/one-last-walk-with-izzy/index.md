@@ -27,7 +27,7 @@ mediums: [watercolor]
 materials: [paper]
 colors: [green, blue, yellow]
 collections: [shades of olson, figures facing from view]
-locations: [patina]
+locations: [patina, print]
 tags: [man, figure, dog, border collie, walk, hike, hills, forrest, house, sky, field, outdoors, autumn, rustic, serene, appalachia, east sparta, ohio]
 
 inventory:

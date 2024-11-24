@@ -29,7 +29,7 @@ mediums: [watercolor pencil]
 materials: [paper]
 colors: [red]
 collections: [primary winter birds]
-locations: [sold]
+locations: [sold, print]
 tags: [northern, red, cardinal, bird, outdoors, nature, winter, snow, branch, perched, overcast, warm]
 
 inventory:
