@@ -56,8 +56,6 @@ buyer:
 
 <!--more-->
 
-{{< purchase >}}
-
 ### Inspiration ###
 
 {{< img src="reference.webp" width="200px" height="222px" class="floatright" gallery="progress" alt="AJ's Lily Reference Photo" title="Reference Photo" link="reference.jpg" >}}

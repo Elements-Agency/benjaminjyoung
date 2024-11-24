@@ -44,8 +44,6 @@ Juicy! A fruity painting that depicts a slice of watermelon. Watermelon Slice is
 
 <!--more-->
 
-{{< purchase >}}
-
 ### Inspiration ###
 
 {{< img src="reference.webp" width="200px" height="200px" class="floatright" gallery="progress" alt="Photo of a Watermelon slices" title="Watermelon Slices" link="reference.jpg" >}}

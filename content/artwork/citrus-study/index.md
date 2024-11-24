@@ -54,8 +54,6 @@ The **Citrus Study** painting features a still life composition with three objec
 
 <!--more-->
 
-{{< purchase >}}
-
 ### Inspiration ###
 
 This was done as a study to not only focus on lighting values, but my ability to blend water colors as well. Even with cheap paint used. The cheap paint may have resulted in extra work to keep fixing the condensed pigmented dried edges.

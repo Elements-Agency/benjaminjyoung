@@ -54,7 +54,7 @@ buyer:
 
 <!--more-->
 
-{{< purchase >}}
+{{< cta >}}
 
 ### Inspiration ###
 

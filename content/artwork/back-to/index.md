@@ -67,7 +67,7 @@ In the midst of a serene, snow-covered landscape, a solitary figure captures our
 
 This is the second iteration in the [Winter Escape collection](/collections/winter-escape/).
 
-{{< purchase >}}
+{{< cta >}}
 
 ### Inspiration ###
 

@@ -59,8 +59,6 @@ This exquisite watercolor painting captures the tranquil beauty of a pond scene,
 
 <!--more-->
 
-{{< purchase >}}
-
 ### Inspiration ###
 
 {{< img src="reference.webp" width="200px" height="197px" class="floatright" gallery="progress" alt="Lily Pad Inspiration Photo" title="Me sitting in front of my pond, painting" link="reference.jpg" >}}

@@ -57,7 +57,7 @@ reproductions:
 
 <!--more-->
 
-{{< purchase >}}
+{{< cta >}}
 
 ### Inspiration ###
 

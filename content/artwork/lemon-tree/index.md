@@ -53,8 +53,6 @@ buyer:
 
 <!--more-->
 
-{{< purchase >}}
-
 ### Inspiration ###
 
 I just wanted to try acrylic paints. I was not a fan. I think I'm going to stick with my watercolor and oil paint for now on.

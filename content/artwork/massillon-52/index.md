@@ -61,8 +61,6 @@ The **Massillon 52** is a vibrant watercolor painting, showcasing two Massillon 
 
 <!--more-->
 
-{{< purchase >}}
-
 ### Inspiration ###
 
 {{< img src="reference.webp" width="200px" height="197px" class="floatright" gallery="progress" alt="Massillon 52 Reference Photo" title="Joe Hallet with the Massillon Football Game" link="reference.jpg" >}}

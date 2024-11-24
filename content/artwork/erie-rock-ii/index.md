@@ -57,6 +57,8 @@ This watercolor painting captures a striking and serene scene of a solitary rock
 
 <!--more-->
 
+{{< cta >}}
+
 ### Inspiration ###
 
 Done as a commissioned remake of [Erie Rock](/artwork/erie-rock), I set the tone more for summer than that of winter in the previous version. The emotions of winter blues vs summer joy absolutely showed in the difference.

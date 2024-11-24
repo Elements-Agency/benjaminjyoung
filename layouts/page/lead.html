@@ -6,6 +6,8 @@
     {{ partial "inside-scripts.html" . }}
 
     <script type="text/javascript">
+      fbq('track', 'ViewContent');
+      
       (function (s, e, n, d, er) {
         s['Sender'] = er;
         s[er] = s[er] || function () {

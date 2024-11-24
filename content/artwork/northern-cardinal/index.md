@@ -63,7 +63,7 @@ reproductions:
 
 This drawing is apart of the [Primary Winter Birds Collection](/collections/primary-winter-birds/)
 
-{{< purchase >}}
+{{< cta >}}
 
 ### Inspiration ###
 

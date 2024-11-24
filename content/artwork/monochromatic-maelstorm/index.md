@@ -46,8 +46,6 @@ frame cost:
 
 <!--more-->
 
-{{< purchase >}}
-
 ### Inspiration ###
 
 {{< img src="reference.webp" width="200px" height="133px" class="floatright" gallery="progress" alt="Whirlpool Reference Photo" title="Reference Photo" link="reference.jpg" >}}

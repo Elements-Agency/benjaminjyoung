@@ -62,7 +62,7 @@ This watercolor painting, **Sailing Away Schoon**, depicts a solitary schooner b
 
 <!--more-->
 
-{{< purchase >}}
+{{< cta >}}
 
 ### Inspiration ###
 

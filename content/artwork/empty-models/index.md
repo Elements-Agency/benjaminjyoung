@@ -54,8 +54,6 @@ buyer:
 
 <!--more-->
 
-{{< purchase >}}
-
 ### Inspiration ###
 
 This was my first painting, and it only happened after I stumbled upon an old art lesson book with some included oil pastels. I wanted to test what I could still accomplish.

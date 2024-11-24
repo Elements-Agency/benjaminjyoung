@@ -58,8 +58,6 @@ This **Young Farmhouse** painting portrays a rustic, rural scene. Dominating the
 
 Behind the tree, set in the middle ground, is a quaint brick house with multiple windows, exuding a cozy, lived-in feel. To the house's left, there is a small, white outbuilding with a single red window, that was once a chicken coupe but now acts as a shed. These structures are nestled within a green landscape with patches of darker and lighter shades, indicating the undulating terrain.
 
-{{< purchase >}}
-
 ### Inspiration ###
 
 {{< img src="reference.webp" width="200px" height="150px" class="floatright" gallery="progress" alt="Young Farmhouse Reference Photo" title="Reference Photo" link="reference.jpg" >}}

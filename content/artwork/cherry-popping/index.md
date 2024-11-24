@@ -57,8 +57,6 @@ The **Cherry Popping** painting depicts two cherries with a realistic appearance
 
 <!--more-->
 
-{{< purchase >}}
-
 ### Inspiration ###
 
 This study was my first oil painting, hence the name "Cherry Popping". I wanted to do a painting to explore how to use and manipulate oil paint. So it was essentially an exploration and mainly a learning artwork piece.

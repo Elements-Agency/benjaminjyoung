@@ -60,8 +60,6 @@ This evocative painting captures a unique and striking rock formation located al
 
 <!--more-->
 
-{{< purchase >}}
-
 ### Inspiration ###
 
 {{< img src="reference.webp" width="200px" height="267px" class="floatright" gallery="progress" alt="Erie Rock Reference Photo" title="Reference Photo" link="reference.jpg" >}}

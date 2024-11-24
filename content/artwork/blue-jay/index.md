@@ -62,8 +62,6 @@ buyer:
 
 This drawing is apart of the [Primary Winter Birds Collection](/collections/primary-winter-birds/).
 
-{{< purchase >}}
-
 ### Inspiration ###
 
 {{< img src="reference.webp" width="200px" height="134px" class="floatright" gallery="progress" alt="Photo of a Male Blue Jay" title="A Male Blue Jay" link="reference.jpg" >}}

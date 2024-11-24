@@ -53,8 +53,6 @@ The Mac Reflections painting depicts a close-up impressionism portrait of myself
 
 <!--more-->
 
-{{< purchase >}}
-
 ### Inspiration ###
 
 {{< img src="reference.webp" width="200px" height="216px" class="floatright" gallery="progress" alt="Mac Reflections Reference Photo" title="Reference Photo" link="reference.jpg" >}}

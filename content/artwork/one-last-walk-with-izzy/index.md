@@ -54,7 +54,7 @@ limited: 30
 
 <!--more-->
 
-{{< signup >}}
+{{< cta >}}
 
 This painting is apart of the [Shades of Olson Collection](/collections/shades-of-olson).
 

@@ -59,7 +59,7 @@ buyer: Fred Boone
 
 This is the third iteration in the [Winter Escape collection](/collections/winter-escape/).
 
-{{< purchase >}}
+{{< cta >}}
 
 ### Inspiration ###
 
