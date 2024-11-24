@@ -60,7 +60,7 @@ This painting is apart of the [Shades of Olson Collection](/collections/shades-o
 
 ### Inspiration ###
 
-The man of course is myself, the artist, with the blond hair shimmering from the bright autumn sun. The dog is my late Border Collie, Izzy. The landscape is yet again inspired by the Ohio Appalachian Plateau hills I grew up with. It's a memory I never got to have with my faithful companion, before she passed. She was always by my side in her life span, but sometimes time escapes us too quickly, and by the time I was in a state of hiking myself, she had grown to elderly and weary to join me in my long walks.
+The man of course is myself, the artist, with the blond hair shimmering from the bright autumn sun. The companion by my side is my late Border Collie dog, Izzy. The landscape is inspired by the Ohio Appalachian Plateau hills I grew up with. It's a memory I never got to have with my faithful family member, before she passed. She was always by my side in her life span, but sometimes time escapes us too quickly, and by the time I was in healthy enough state to hike myself, she had grown too elderly and weary to join me in my long walks of reflection.
 
 ### Narrative ###
 
