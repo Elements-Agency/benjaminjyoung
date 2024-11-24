@@ -44,6 +44,7 @@ status: sale
 products:
   - id: 658238185
     name: Original Drawing
+    patina: $200
     price: $300
   - id: 658507371
     name: Greeting Card

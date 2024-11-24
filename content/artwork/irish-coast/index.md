@@ -45,6 +45,7 @@ products:
     - id: 680225708
       name: Original Drawing
       price: $200
+      patina: $100
 
 limited: 30
 
