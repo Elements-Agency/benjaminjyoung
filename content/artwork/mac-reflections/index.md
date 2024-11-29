@@ -36,9 +36,6 @@ inventory:
   - buy: 2024-07-06
   - home: 2024-02-03 - 2024-07-06
 
-hours: 4
-frame cost: $30
-
 status: sold
 products:
     - id: 645940870

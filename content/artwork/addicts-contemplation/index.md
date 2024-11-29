@@ -36,9 +36,6 @@ inventory:
   - patina: 2024-06-29 - 2024-09-29
   - home: 2024-06-20 - 2024-06-29
 
-hours: 8
-frame cost: 
-
 status: sale
 products:
     - id: 673936559
@@ -46,7 +43,7 @@ products:
       patina: $200
       price: $300
 
-limited: 30
+limited: 10
 
 reproductions:
   - 1: Fred Boone (Canton, OH)

@@ -33,17 +33,12 @@ inventory:
   - patina: 2024-09-21 - current
   - home: 2024-09-20 - 2024-09-21
 
-hours: 1
-frame cost: $0
-
 status: sale
 products:
     - id: 696913012
       name: Original Painting
       price: $90
       patina: $60
-
-buyer: 
 ---
 
 **Pink Orchid** is a quick and easy graphite pencil sketch painted in with watercolor. This simple small artwork is a nice little decoration to hang in your room. Orchids being one of my favorite flowers, usually white though, I decided to go with a pink one instead to avoid having to paint a background.

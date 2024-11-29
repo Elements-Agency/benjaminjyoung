@@ -34,17 +34,12 @@ inventory:
   - patina: 2024-07-05 - 2024-10-18
   - home: 2024-07-03 - 2024-07-05
 
-hours: 4
-frame cost: $0
-
 status: sale
 products:
     - id: 677888659
       name: Original Painting
       price: $100
       patina: $60
-
-buyer: 
 ---
 
 **Tiny Football** was another quick artwork done on a tiny canvas. A tribute to one of Canton's large driving parts of their economy, American Football. Since our city hosts the [Pro Football Hall of Fame](https://www.profootballhof.com), which is the biggest reason for tourism and festivals in our tiny city, I figured it was a good idea to have this sitting out on my studio space as a pick-me-up. Sports!

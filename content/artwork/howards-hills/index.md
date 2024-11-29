@@ -34,9 +34,6 @@ inventory:
   - patina: 2024-09-16 - current
   - home: 2024-09-10 - 2024-09-16
 
-hours: 40
-frame cost: 
-
 status: sale
 products:
     - id: 694481795
@@ -47,13 +44,12 @@ products:
       name: Limited Reproduction
       price: $69
       patina: $49
-      left: 26
+      left: 8
     - id: 695956275
       name: Jigsaw Puzzle
       price: $39
 
-limited: 30
-
+limited: 10
 reproductions:
   - 1: Artober (Massillon, OH)
 ---

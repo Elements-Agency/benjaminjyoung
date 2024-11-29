@@ -38,9 +38,6 @@ inventory:
   - cyrus: 2024-03-01 - 2024-03-16
   - home: 2024-02-09 - 2024-03-01
 
-hours: 4
-frame cost: $140
-
 status: sold
 products:
     - id: 646467810
@@ -51,10 +48,9 @@ products:
       price: $400
       sold: true
 
-limited: 30
-
 buyer: Fred Boone
 
+limited: 10
 reproductions:
   - 1: Marcus Young (East Sparta, OH)
 ---

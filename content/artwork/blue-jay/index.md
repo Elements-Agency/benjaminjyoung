@@ -37,9 +37,6 @@ inventory:
   - patina: 2024-05-18 - 2024-09-04
   - home: 2024-05-14 - 2024-05-18
 
-hours: 8
-frame cost: $30
-
 status: sale
 products:
   - id: 658238185
@@ -52,8 +49,6 @@ products:
     left: 27
 
 limited: 30
-
-buyer: 
 ---
 
 **Blue Jay** depicts a blue jay perched on a snowy surface, delicately pecking at a cluster of red berries on a nearby branch. The bird's vivid blue plumage, accented with black and white markings, contrasts beautifully with the soft, white snow. I captured the texture of the bird's feathers and the intricate details of the berries and branches. The overall scene exudes a serene winter atmosphere, with the red berries adding a touch of color and life to the otherwise muted background.

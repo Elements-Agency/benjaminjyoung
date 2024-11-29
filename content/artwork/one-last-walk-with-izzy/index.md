@@ -33,9 +33,6 @@ tags: [man, figure, dog, border collie, walk, hike, hills, forrest, house, sky, 
 inventory:
   - patina: 2024-11-11 - current
 
-hours: 60
-frame cost: 
-
 status: sale
 products:
     - id: 708668936
@@ -45,9 +42,11 @@ products:
     - id: 711216285
       name: Limited Reproduction
       price: $69
-      left: 27
+      left: 8
 
-limited: 30
+limited: 10
+reproductions:
+  - 1: Fred Boone (Canton, OH)
 ---
 
 **One Last Walk With Izzy** is a exquisite watercolor painting depicting a peaceful countryside scene, where a man walks alongside his faithful Border Collie dog companion across gently rolling hills bathed in golden sunlight. The vibrant hues of green and yellow fields blend harmoniously with the rich textures of the trees, creating a sense of depth and tranquility. A cozy house sits nestled on the distant hill, framed by soft clouds drifting through a serene sky. This artwork beautifully captures the simplicity and charm of rural life, making it a perfect piece for adding warmth and a touch of nature to any space.

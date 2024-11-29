@@ -31,11 +31,6 @@ tags: [woman, figure, lounging, nude, pose, recline, indoors, zorn, number thirt
 
 inventory:
   - home: 2024-10-17 - current
-
-hours: 1
-frame cost: $0
-
-buyer: 
 ---
 
 **Linda Lounging** is a quick study of my friend (name has been changed for privacy), lounging on the couch. It was done at her request, jokingly said by her, "paint me like one of you french girls". Although, my name isn't Jack nor do I plan on getting on any boat any time soon. Especially since the cold Ohio winter is already starting. I also used this piece to be my first practice using the ZORN pallette.

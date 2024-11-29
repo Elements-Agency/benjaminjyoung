@@ -37,17 +37,12 @@ inventory:
   - home: 2024-07-27 - 2024-09-04
   - patina: 2024-05-26 - 2024-07-27
 
-hours: 34
-frame cost: 
-
 status: sale
 products:
     - id: 663614894
       name: Original Painting
       price: $800
       patina: $500
-
-buyer: 
 ---
 
 **Pomona's Bowl** is my practiced attempt to finalize my technique, using abstract vibrant brushwork, to create my own desired style in the realism oil painting realm. With every still life, I use it methodically to refine how I want to improve or change my artwork. This still life opulence in a bowl to me is the overwhelming first step to finally realize my artistic painting style that I want to utilize in the direction of how I want my landscape and narrative pieces to convey from here on out. It is an accomplishment in my own eyes, and what I consider the turning stone to take my work to the next level. Featuring a pomegranate fruit resting in a reflective metal bowl. Split open with it's glossy seeds spilling out. The red velvet table cloth drapes the cold black table, sitting along in the light of the room. The vibrancy of the hues of red, violet, blue, yellows, purple, pink, and peach; blend together to construct this oil painting that seems reminiscent of scene from the old masters. Looking closely, you can see each section of abstract artwork, slathered on by the soft bristles of my brush to construct something beautifully grand as you step back to take it all in at once.

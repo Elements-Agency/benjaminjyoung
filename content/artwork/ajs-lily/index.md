@@ -34,9 +34,6 @@ tags: [lily, flower, spring, day, andrea, number two]
 
 inventory:
   - home: 2023-12-17 - current
-
-hours: 3
-frame cost: 
 ---
 
 The **AJ's Lily** drawing is a pencil drawing that captures the delicate beauty of a lily flower in bloom. The flower stands out with its petals gracefully curving outward, showcasing the fine details of its texture and venation, while the stamens reach out from the center, detailed with care to convey their slender form and powdery pollen tips. Below the flower, the stem leads to a pair of leaves that frame the composition, their pointed tips adding to the overall elegance of the sketch. The artist's use of shading provides depth, highlighting the organic curves and giving the lily a lifelike appearance. The background is left unadorned, ensuring that all attention remains on the intricacies of the flower and its natural allure.

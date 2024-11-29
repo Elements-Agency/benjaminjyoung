@@ -36,9 +36,6 @@ inventory:
   - buyer: 2024-04-17
   - home: 2024-01-25 - 2024-04-17
 
-hours: 9
-frame cost: $60
-
 status: sold
 products:
     - id: 650002838
@@ -49,10 +46,9 @@ products:
       price: $300
       sold: true
 
-limited: 30
-
 buyer: Bruce Treiber
 
+limited: 10
 reproductions:
   - 1: Michele Oakley (Aynor, SC)
 ---

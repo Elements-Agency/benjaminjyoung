@@ -37,9 +37,6 @@ inventory:
   - patina: 2024-06-29 - 2024-07-27
   - home: 2024-06-26 - 2024-06-29
 
-hours: 12
-frame cost: $30
-
 status: sale
 products:
     - id: 675661538
@@ -50,9 +47,9 @@ products:
       name: Limited Reproduction
       price: $69
       patina: $49
-      left: 25
+      left: 7
 
-limited: 30
+limited: 10
 
 reproductions:
   - 1: Steph Sweany (Canton, OH)

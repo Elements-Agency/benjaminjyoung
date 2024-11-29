@@ -34,9 +34,6 @@ tags: [andrea, aj, ben, number two]
 
 inventory:
   - home: 2044-01-01 - current
-
-hours: 100
-frame cost: 
 ---
 
 This is the final painting in to the **[The Hart's Desire Series](/collections/the-harts-desire)**. This entry concludes the narrative of this story.

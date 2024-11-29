@@ -33,9 +33,6 @@ tags: [woman, lady, old, window, wood, face, expression, gaze, house, glasses, e
 inventory:
   - patina: 2024-21-11 - current
 
-hours: 30
-frame cost: 
-
 status: sale
 products:
     - id: 710975182
@@ -46,9 +43,11 @@ products:
       name: Limited Reproduction
       price: $69
       patina: $49
-      left: 26
+      left: 8
 
-limited: 30
+limited: 10
+reproductions:
+  - 1: Denise Hunt (Canton, OH)
 ---
 
 I knew an old wise woman once. She told me to make my way back to Strasbourg, so I did. From her pine framed window, she bid farewell, "**Okay now**. I'll be seeing you." With her gaze and expression of both endearment and concern, but excitement for me. Looking on in to the day's sun. This painting perfectly captures those feelings and experiences with my dear old friend.

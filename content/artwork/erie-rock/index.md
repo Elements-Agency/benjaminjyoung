@@ -38,9 +38,6 @@ inventory:
   - cyrus: 2024-03-01 - 2024-03-16
   - home: 2024-02-18 - 2024-03-01
 
-hours: 8
-frame cost: $168
-
 status: sold
 products:
     - id: 646847609
@@ -51,7 +48,7 @@ products:
       price: $400
       sold: true
 
-limited: 30
+limited: 10
 
 buyer: Ted Turner
 ---

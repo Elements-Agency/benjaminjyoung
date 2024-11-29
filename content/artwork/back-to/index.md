@@ -46,9 +46,6 @@ inventory:
   - cyrus: 2024-04-18 - 2024-05-02
   - home: 2024-03-13 - 2024-04-18
 
-hours: 18
-frame cost: $140
-
 status: sale
 products:
   - id: 654299503
@@ -56,9 +53,7 @@ products:
     patina: $300
     price: $400
 
-limited: 30
-
-buyer: 
+limited: 10
 ---
 
 In the midst of a serene, snow-covered landscape, a solitary figure captures our attention in this evocative painting, titled **Back To**. Striding the lone figure once again, across the snow covered Ohio and Erie Canal Towpath Trail.

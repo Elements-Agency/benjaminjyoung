@@ -37,9 +37,6 @@ inventory:
   - patina: 2024-08-14 - 2024-09-29
   - home: 2024-07-09 - 2024-08-14
 
-hours: 6
-frame cost: 
-
 status: sale
 products:
     - id: 680225708
@@ -47,9 +44,7 @@ products:
       price: $200
       patina: $100
 
-limited: 30
-
-buyer: 
+limited: 10
 ---
 
 **Irish Coast** is a oil pastel artwork of a beautiful landscape somewhere off an Ireland coastline. Featuring a wave crashing against two standing rocks, finally kissing a pebbled beach. The sky is mostly clear except a few faint clouds, bright and cool feeling. As you can almost feel the nice cool wind blown against your face, to balance out the warmth of the sun as it hits you and the rolling green cliffs standing against the sea.

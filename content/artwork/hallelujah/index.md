@@ -37,9 +37,6 @@ inventory:
   - juilliard: 2024-09-12 - 2024-10-13
   - patina: 2024-08-28 - 2024-09-12
 
-hours: 60
-frame cost: 
-
 status: sale
 products:
     - id: 691515054
@@ -50,10 +47,9 @@ products:
       name: Limited Reproduction
       price: $69
       patina: $49
-      left: 26
+      left: 8
 
-limited: 30
-
+limited: 10
 reproductions:
   - 1: Artober (Massillon, OH)
 ---

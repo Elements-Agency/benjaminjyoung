@@ -41,8 +41,6 @@ products:
       name: Original Painting
       price: $90
       patina: $60
-
-buyer: 
 ---
 
 **Blue Bells** features a single, gracefully arched bellflower stem, delicately balanced against a soft, neutral background. Each bell-shaped bloom hangs naturally from the stem, painted in a rich, muted purple that exudes quiet elegance. The artist has used soft strokes and subtle shading to create a realistic, almost three-dimensional effect, emphasizing the organic curve and texture of the flower.

@@ -38,9 +38,6 @@ inventory:
   - patina: 2024-06-29 - 2024-09-29
   - home: 2024-06-16 - 2024-06-29
 
-hours: 6
-frame cost: $30
-
 status: sale
 products:
     - id: 672644323
@@ -48,8 +45,7 @@ products:
       price: $300
       patina: $200
 
-limited: 30
-
+limited: 10
 reproductions:
   - 1: Richard Reikowski (Tallmadge, OH)
   - 2: Marcus Young (East Sparta, OH)

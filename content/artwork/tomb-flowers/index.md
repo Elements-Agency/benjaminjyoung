@@ -37,10 +37,7 @@ inventory:
   - patina: 2024-05-18 - 2024-09-04
   - home: 2024-05-02 - 2024-05-18
   - cyrus: 2024-04-18 - 2024-05-02
-  - home: 2024-03-14 - 2024-04-18
-
-hours: 8
-frame cost: $135
+  - home: 2024-03-14 - 2024-04-18=
 
 status: sale
 products:
@@ -48,8 +45,6 @@ products:
       name: Original Painting
       price: $300
       patina: $200
-
-buyer: 
 ---
 
 **Tomb Flowers** is a watercolor pencil drawing, with a brushed and washed colorful background, of white lilies. That's all I really have to say about this artwork piece.

@@ -40,9 +40,6 @@ inventory:
   - patina: 2024-05-26 - 2024-06-08
   - home: 2024-03-17 - 2024-05-26
 
-hours: 12
-frame cost: $40
-
 status: sold
 products:
     - id: 645940862

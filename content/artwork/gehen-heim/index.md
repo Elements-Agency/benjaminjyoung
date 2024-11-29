@@ -38,9 +38,6 @@ inventory:
   - cyrus: 2024-03-29 - 2024-04-12
   - home: 2024-03-23 - 2024-03-29
 
-hours: 12
-frame cost: $140
-
 status: sold
 products:
     - id: 645990286
@@ -48,7 +45,7 @@ products:
       price: $400
       sold: true
 
-limited: 30
+limited: 10
 
 buyer: Fred Boone
 ---

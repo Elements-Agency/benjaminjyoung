@@ -34,9 +34,6 @@ tags: [creepy, clown, scary, face, nose, smile, teeth, it, warm, number twenty t
 inventory:
   - buyer: 2024-05-30
 
-hours: 4
-frame cost: $0
-
 status: sold
 products:
     - id: 669390403

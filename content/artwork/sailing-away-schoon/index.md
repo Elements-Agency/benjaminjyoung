@@ -36,9 +36,6 @@ inventory:
   - patina: 2024-06-07 - current
   - home: 2024-06-07 - 2024-06-07
 
-hours: 6
-frame cost: 
-
 status: sale
 products:
     - id: 670400475
@@ -49,10 +46,9 @@ products:
       name: Limited Reproduction
       price: $69
       patina: $49
-      left: 25
+      left: 7
 
-limited: 30
-
+limited: 10
 reproductions:
   - 1: Fred Boone (Canton, OH)
   - 2: Chloe Oberting (Cuyahoga Falls, OH)

@@ -33,15 +33,13 @@ tags: [lake, erie, rock, beach, cleveland, ohio, sandusky, great lakes, water, w
 inventory:
   - home: 2024-08-18 - current
 
-frame cost: $168
-
 status: sold
 products:
     - id: 689537964
       name: Limited Reproduction
       price: $69
       patina: $49
-      left: 26
+      stock: 6
     - id: 689389017
       name: Original Painting
       price: $600
@@ -49,6 +47,7 @@ products:
 
 buyer: Eric Anderson
 
+limited: 10
 reproductions:
   - 1: Artober (Massillon, OH)
 ---
