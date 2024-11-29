@@ -293,7 +293,7 @@
                             {{ if $product.sold }}
                               <strong style="color: red; text-transform: uppercase;">Sold Out</strong>
                             {{ else if $product.left }}
-                              <strong style="color: orange; text-transform: uppercase;">Only {{ $product.left }} Left of 30</strong>
+                              <strong style="color: orange; text-transform: uppercase;">Only {{ $product.left }} Left of {{ $.Params.limited }}</strong>
                             {{ else }}
                             <strong style="color: green; text-transform: uppercase;">For Sale</strong>
                             {{ end }}
