@@ -29,7 +29,7 @@ mediums: [oil pastel]
 materials: [paper]
 colors: [yellow, green, grey, brown]
 collections: []
-locations: [home]
+locations: [sold]
 tags: [human, female, lady, woman, nude, recline, pose, paul, cezanne, outdoors, figure, repose, rich, warm, earthy, warm]
 
 inventory:
@@ -37,12 +37,15 @@ inventory:
   - patina: 2024-07-27 - 2024-09-29
   - home: 2024-01-20 - 2024-07-27
 
-status: sale
+status: sold
 products:
     - id: 679421847
       name: Original Drawing
       price: $100
       patina: $90
+      sold: true
+
+buyer: discontinued
 ---
 
 The painting titled "Ms. Cezanne" features a woman reclined in a state of repose, stretching her arms above her head. Inspired by Paul Cezanne's work. Rendered with loose, expressive pastel stroke, suggestive of an interest in capturing movement and form rather than strict realism. The color palette is rich and warm. With earthy tones of brown and ochre for the background and vibrant yellow and green highlighting what appears to be a natural setting. The woman’s skin is painted in naturalistic tones, with highlights and shadows adding to the three-dimensional effect. Using bold outlines in places to define the figure’s form. With an impressionistic feel, focusing on light and color to convey a mood rather than detailed precision. This painting exudes a sense of relaxation and connection with nature.

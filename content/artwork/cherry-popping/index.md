@@ -33,7 +33,7 @@ locations: [sold]
 tags: [cherry, stem, bright, indoors, warm, summer]
 
 inventory:
-  - buyer: 2024-07-28 - buyer
+  - buyer: 2024-07-28
   - auction: 2024-07-27 - 2024-07-29
   - patina: 2024-06-29 - 2024-07-27
   - home: 2024-06-08 - 2024-06-29

@@ -31,7 +31,8 @@ locations: [sold, print]
 tags: [lake, erie, rock, beach, cleveland, ohio, sandusky, great lakes, water, waves, nature, outdoors, overcast, costal, cool, summer]
 
 inventory:
-  - home: 2024-08-18 - current
+  - buyer: 2024-09-13
+  - home: 2024-08-18 - 2024-09-13
 
 status: sold
 products:

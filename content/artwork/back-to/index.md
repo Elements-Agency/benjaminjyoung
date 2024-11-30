@@ -36,7 +36,7 @@ mediums: [watercolor]
 materials: [cotton paper]
 colors: [white, blue, grey]
 collections: [winter escape, figures facing from view]
-locations: [home]
+locations: [sold]
 tags: [human, figure, hiker, snow, winter, trail, trees, forest, tracks, outdoors, evening, snowy, snowfall, hazy, lonely, isolation, tiring, cool, melancholy]
 
 inventory:
@@ -46,14 +46,17 @@ inventory:
   - cyrus: 2024-04-18 - 2024-05-02
   - home: 2024-03-13 - 2024-04-18
 
-status: sale
+status: sold
 products:
   - id: 654299503
     name: Original Painting
     patina: $300
     price: $400
+    sold: true
 
 limited: 10
+
+buyer: discontinued
 ---
 
 In the midst of a serene, snow-covered landscape, a solitary figure captures our attention in this evocative painting, titled **Back To**. Striding the lone figure once again, across the snow covered Ohio and Erie Canal Towpath Trail.
