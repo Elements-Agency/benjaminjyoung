@@ -21,7 +21,7 @@ timeout = '600'
   commentoEnable = false
   location = "324 Cleveland Ave NW. Canton, Ohio 44702. USA."
   #sale = "1 Year Anniversary Sale! 50% OFF originals using discount code 'DEC20ANNIVERSARY'. Now until the end of the year."
-  sale = "Black Friday Sale! 50% OFF originals and reproductions using discount code 'DARKARTFRIDAY'."
+  sale = "Cyber Monday Sale! 40% OFF limited reproductions using discount code 'CYBERMONDAY'."
   favicon = '/favicon.ico'
   [params.social]
     facebook		= "artist.benjamin.young"
