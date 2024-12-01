@@ -43,6 +43,10 @@ products:
       name: Original Drawing
       price: $200
       patina: $100
+    - id: 685245016
+      name: Limited Reproduction
+      price: $29
+      sold: true
 
 limited: 10
 ---

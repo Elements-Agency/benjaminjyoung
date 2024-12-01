@@ -44,6 +44,10 @@ products:
       name: Original Painting
       price: $400
       patina: $300
+    - id: 687196821
+      name: Limited Reproduction
+      price: $29
+      sold: true
     - id: 671656572
       name: Dry Run
       price: $60

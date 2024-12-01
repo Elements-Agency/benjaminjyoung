@@ -40,6 +40,10 @@ inventory:
 
 status: sold
 products:
+    - id: 678652002
+      name: Limited Reproduction
+      price: $29
+      sold: true
     - id: 645990286
       name: Original Painting
       price: $400
