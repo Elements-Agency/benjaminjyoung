@@ -29,11 +29,12 @@ mediums: [watercolor pencil]
 materials: [paper]
 colors: [white, blue, green]
 collections: [lilies, reserved]
-locations: [home]
+locations: [patina]
 tags: [lily, flower, tomb, resting, andrea, aj, andrea, surreal, spring, cool, loss, number two]
 
 inventory:
-  - home: 2024-09-04 - current
+  - patina: 2024-12-01 - current
+  - home: 2024-09-04 - 2024-12-01
   - patina: 2024-05-18 - 2024-09-04
   - home: 2024-05-02 - 2024-05-18
   - cyrus: 2024-04-18 - 2024-05-02
