@@ -80,7 +80,7 @@
                             <p style="padding:0; margin:0;">
                                 <strong>Sale Price:</strong>
                                 {{ if (index (.Params.products) 0).price }}
-                                    <del style="color:#999;">{{ (index (.Params.products) 0).price }}</del>
+                                    <del style="color:#555;">{{ (index (.Params.products) 0).price }}</del>
                                     <strong style="color:#0f7d0f;">{{ (index (.Params.products) 0).patina }}</strong>
                                 {{ else }}
                                     <strong style="color:#0f7d0f;">{{ (index (.Params.products) 0).price }}</strong>
@@ -121,11 +121,11 @@
                                 Limited Reproduction
                                 <br><br>
                                 <strong>Unframed:</strong>
-                                <del style="color:#999;">$69</del>
+                                <del style="color:#555;">$69</del>
                                 <strong style="color:#0f7d0f;">$39</strong>
                                 <br>
                                 <strong>Framed:</strong>
-                                <del style="color:#999;">$99</del>
+                                <del style="color:#555;">$99</del>
                                 <strong style="color:#0f7d0f;">$59</strong>
                             </p>
                         </div>
