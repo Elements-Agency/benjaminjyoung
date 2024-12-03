@@ -29,7 +29,7 @@ mediums: [watercolor]
 materials: [cotton paper]
 colors: [blue, grey]
 collections: [the colors of water]
-locations: [patina]
+locations: [patina, print]
 tags: [schooner, boat, ocean, waves, mist, morning, sea, water, mountains, outdoors, spring, cool]
 
 inventory:
@@ -44,9 +44,8 @@ products:
       patina: $300
     - id: 683160413
       name: Limited Reproduction
-      price: $69
-      patina: $49
-      left: 7
+      price: $49
+      left: 5
 
 limited: 10
 reproductions:

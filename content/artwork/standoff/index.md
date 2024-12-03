@@ -27,7 +27,7 @@ mediums: [watercolor]
 materials: [paper]
 colors: [brown, yellow, gold, black]
 collections: [figures facing from view, shades of olson]
-locations: [patina]
+locations: [patina, print]
 tags: [field, farm, couple, man, woman, figure, muted, countryside, wheat, outdoors, autumn, tension, rustic, melancholy, number twenty]
 
 inventory:
@@ -42,8 +42,7 @@ products:
       patina: $400
     - id: 711209802
       name: Limited Reproduction
-      price: $69
-      patina: $49
+      price: $49
       left: 9
 
 limited: 10
