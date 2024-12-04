@@ -29,7 +29,7 @@ mediums: [oil]
 materials: [mdf board]
 colors: [red, pink, purple, black]
 collections: []
-locations: [patina]
+locations: [office]
 tags: [pomegranate, fruit, shiny, metal, bowl, velvet, tablecloth, dark, indoors, table, warm]
 
 inventory:
