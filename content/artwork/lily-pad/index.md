@@ -45,6 +45,7 @@ products:
       name: Original Painting
       price: $300
       patina: $150
+      pending: true
 
 limited: 10
 reproductions:
