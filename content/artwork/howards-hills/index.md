@@ -39,7 +39,7 @@ products:
     - id: 694481795
       name: Original Painting
       price: $1,200
-      patina: $800
+      patina: $600
     - id: 694564503
       name: Limited Reproduction
       price: $69

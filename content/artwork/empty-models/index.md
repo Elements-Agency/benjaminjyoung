@@ -29,7 +29,7 @@ mediums: [oil pastel]
 materials: [construction paper]
 colors: [green, brown, white]
 collections: []
-locations: [home]
+locations: [storage]
 tags: [wine, bottle, pitcher, jug, wood, bowl, tablecloth, dropcloth, dining, room, table, backdrop, warm, indoors]
 
 inventory:
