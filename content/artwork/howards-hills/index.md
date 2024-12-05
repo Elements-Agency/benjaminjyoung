@@ -44,7 +44,7 @@ products:
     - id: 694564503
       name: Limited Reproduction
       price: $69
-      patina: $49
+      patina: $59
       left: 6
     - id: 695956275
       name: Jigsaw Puzzle

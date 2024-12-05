@@ -42,8 +42,8 @@ products:
       pending: true
     - id: 711216285
       name: Limited Reproduction
-      price: $49
-      left: 8
+      price: $59
+      left: 6
 
 limited: 10
 reproductions:

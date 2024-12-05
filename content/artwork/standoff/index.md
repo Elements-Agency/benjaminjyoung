@@ -42,7 +42,7 @@ products:
       patina: $300
     - id: 711209802
       name: Limited Reproduction
-      price: $49
+      price: $59
       left: 9
 
 limited: 10
