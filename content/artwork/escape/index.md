@@ -52,7 +52,7 @@ products:
       price: $400
       sold: true
 
-buyer: Fred Boone
+buyer: Fred Boone (Bolivar, OH)
 
 limited: 10
 reproductions:

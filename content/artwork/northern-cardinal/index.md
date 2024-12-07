@@ -50,7 +50,7 @@ products:
       price: $300
       sold: true
 
-buyer: Bruce Treiber
+buyer: Bruce Treiber (Massillon, OH)
 
 limited: 10
 reproductions:

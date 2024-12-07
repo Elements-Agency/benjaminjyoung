@@ -45,7 +45,7 @@ products:
       price: $600
       sold: true
 
-buyer: Eric Anderson
+buyer: Eric Anderson (Columbus, OH)
 
 limited: 10
 reproductions:

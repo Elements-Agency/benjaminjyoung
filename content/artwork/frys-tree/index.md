@@ -54,7 +54,7 @@ products:
 
 limited: 10
 
-buyer: Ted Turner
+buyer: Ted Turner (Aurora, OH)
 
 reproductions:
   - 1: Artober (Massillon, OH)
