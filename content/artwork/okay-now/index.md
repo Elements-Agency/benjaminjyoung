@@ -1,7 +1,7 @@
 ---
 date: 2024-11-21
 title: Okay Now
-description: Okay Now is a watercolor painting a old black woman looking out of a window.
+description: Okay Now is a watercolor painting of an old black woman looking out of a window.
 alt: This watercolor painting portrays an elderly woman with expressive eyes and glasses, gazing thoughtfully out of a weathered wooden window frame.
 author: Benjamin J. Young
 
@@ -31,7 +31,7 @@ locations: [patina, print]
 tags: [woman, lady, old, window, wood, face, expression, gaze, house, glasses, earthy, outdoors, summer, rustic]
 
 inventory:
-  - patina: 2024-21-11 - current
+  - patina: 2024-11-21 - current
 
 status: sale
 products:
