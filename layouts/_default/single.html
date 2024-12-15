@@ -20,6 +20,8 @@
             currency: 'USD',
           {{ end }}
         });
+
+        fbq('track', 'ClickAction');
       }
 
       function trackProduct(id, name, value) {
@@ -31,10 +33,24 @@
           value: value,
           currency: 'USD',
         });
+
+        fbq('track', 'ClickProduct', {
+          content_category: 'Artwork',
+          content_name: name,
+          content_ids: [id],
+          content_type: 'product',
+          value: value,
+          currency: 'USD',
+        });
       }
 
       document.addEventListener("DOMContentLoaded", () => {
         xProduct();
+
+        fbq('track', 'ViewPainting', {
+          content_category: 'Artwork',
+          content_name: '{{- .Title -}}',
+        });
       });
     </script>
 {{ end }}
