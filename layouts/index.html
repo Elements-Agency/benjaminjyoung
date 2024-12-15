@@ -56,9 +56,11 @@
 			<div id="wrapper" class="divided">
 
 				<!-- One -->
-					<section class="banner style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right">
+					<section class="banner style1 orient-left content-align-left image-position-center fullscreen onload-image-fade-in onload-content-fade-right">
 						<div class="content">
-							<h1>Artist Ben Young</h1>
+							<div class="logo" style="text-align: center;">
+								<h1><img src="/images/logo.png" title="Artist Ben Young" alt="Artist Ben Young"></h1>
+							</div>
 							<p class="major">
 								{{ .Content }}
 							</p>
@@ -73,7 +75,7 @@
 
 					<section class="wrapper style1 align-center" id="gallery">
                         <div class="inner">
-						    <h2>Featured Artwork</h2>
+						    <h2 class="strong">Featured Artwork</h2>
                         </div>
 
 						{{ $mainSections := .Site.Params.mainSections | default (slice "post") }}
@@ -123,7 +125,7 @@
 					</section>
 
 				<!-- Three -->
-					<section class="spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in">
+					<section class="spotlight style1 orient-left content-align-right image-position-center onscroll-image-fade-in">
 						<div class="content">
 							<h2><a href="/news">Latest News</a></h2>
 							<p>
