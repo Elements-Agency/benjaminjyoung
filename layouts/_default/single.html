@@ -21,7 +21,7 @@
           {{ end }}
         });
 
-        fbq('track', 'ClickAction');
+        fbq('trackCustom', 'ClickAction');
       }
 
       function trackProduct(id, name, value) {
@@ -34,7 +34,7 @@
           currency: 'USD',
         });
 
-        fbq('track', 'ClickProduct', {
+        fbq('trackCustom', 'ClickProduct', {
           content_category: 'Artwork',
           content_name: name,
           content_ids: [id],
