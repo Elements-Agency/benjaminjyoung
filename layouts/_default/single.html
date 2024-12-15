@@ -47,7 +47,7 @@
       document.addEventListener("DOMContentLoaded", () => {
         xProduct();
 
-        fbq('track', 'ViewPainting', {
+        fbq('trackCustom', 'ViewPainting', {
           content_category: 'Artwork',
           content_name: '{{- .Title -}}',
         });
