@@ -27,7 +27,7 @@ In a monument of both the boredom of winter, and desperation, I found an old set
 
 ---
 
-## Past Exhibitions ##
+## Past Group Exhibitions ##
 
   * 2024
     * [Patina Arts Centre First Fundraiser: A Celebration of Art, Community, and Creativity](https://www.facebook.com/events/869821251632238/) hosted at [Patina Arts Centre](https://www.patinaartscentre.com).
