@@ -37,3 +37,6 @@ In a monument of both the boredom of winter, and desperation, I found an old set
     * [ActLoCLE Exhibit](https://www.actlocle.org/) hosted Online for the Cleveland Ohio area.
     * The Art of Toys Exhibit hosted at [BZTAT Studios](http://bztatstudios.com).
     * Resident Artist Showcase hosted at [Patina Arts Centre](http://patinaartscentre.com/).
+
+## Upcoming Shows ##
+  * FRESH Exhibition hosted at [Summit Artspace](https://www.summitartspace.org)
