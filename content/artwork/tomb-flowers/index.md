@@ -11,8 +11,8 @@ aliases: [/tomb-flowers, /artwork/ajs-grave-flowers]
 images: ['painting.jpg']
 videos: []
 
-featured: true
-order: 17
+featured: false
+order: 99
 ratio: portrait
 power: 70
 favorite: false

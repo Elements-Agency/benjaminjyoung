@@ -9,8 +9,8 @@ aliases: [/blue-morpho-butterfly, /artwork/blue-butterfly]
 images: ['painting.jpg']
 videos: []
 
-featured: true
-order: 11
+featured: false
+order: 99
 ratio: landscape
 power: 208
 favorite: false

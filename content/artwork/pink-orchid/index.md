@@ -8,8 +8,8 @@ aliases: [/pink-orchid]
 images: ['painting.jpg']
 videos: []
 
-featured: true
-order: 12
+featured: false
+order: 99
 ratio: landscape
 power: 15
 favorite: false

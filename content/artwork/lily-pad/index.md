@@ -12,8 +12,8 @@ aliases: [/lily-pad]
 images: ['painting.jpg']
 videos: []
 
-featured: true
-order: 14
+featured: false
+order: 99
 ratio: landscape
 power: 97
 favorite: false
