@@ -21,7 +21,7 @@ supplies:
   - frame: 
 size: 20x14in (51x34cm)
 
-categories: [realism, painting]
+categories: [realism, still life, painting]
 mediums: [watercolor]
 materials: [paper]
 colors: [red, white, black]
