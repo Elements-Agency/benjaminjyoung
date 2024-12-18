@@ -11,7 +11,7 @@ description: Learn more about the contemporary artist, Ben Young. From his artis
 
 I'm new to painting, as I had just started in December of 2023. With no prior experience in art since 8th grade art class. I mainly paint with watercolor and occasionally oil, working in narrative realism. My objective is to paint the emotions first, aesthetics secondary. If my painting moves someone emotionally, then I have done my job. My style tends to remind a lot of Andrew Wyeth's work, and honestly I had no idea who he was until people started pointing that out and I had to google him. I've just let that style however take hold naturally to my own expression and technique. Much of my works are developed from my own experiences, traumas, and emotions; and I hope I can successfully resonate those in others.
 
-{{< button class="fit" text="Browse Artwork" href="/gallery" >}}
+{{< button class="fit" text="Browse Artwork" href="/artwork" >}}
 
 ### Artist Story ###
 

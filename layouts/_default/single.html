@@ -269,24 +269,6 @@
                       <p style="font-size:0.9em; margin-bottom:0;">
                         The original of this painting has been sold.
                       </p>
-                    {{ else }}
-                      {{ if and (eq .Params.status "sale") (.Params.products) }}
-                        {{ $original := index (.Params.products) 0 }}
-                        <p style="font-size:0.9em; margin-bottom:0;">
-                          If you would like to negotiate the price of the original, you can visit the
-                          <a href="/negotiate?name={{ .Title }}&price={{ trim $original.price "$" }}">negotiation form</a>.
-                          Or
-                          <a href="/contact">contact me</a>
-                          for more information.
-                        </p>
-                      {{ end }}
-                    {{ end }}
-
-                    {{ if gt .Params.limited 0 }}
-                      <p style="font-size:0.9em;">
-                        Reproductions are <strong>limited to {{ .Params.limited }}</strong> total.
-                        You may find how much are left on the product page, link below.
-                      </p>
                     {{ end }}
 
                     <div class="row" style="text-align: center;">
