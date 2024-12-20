@@ -43,7 +43,7 @@ products:
     - id: 711216285
       name: Limited Reproduction
       price: $59
-      left: 6
+      left: 5
 
 limited: 10
 reproductions:
@@ -75,6 +75,10 @@ The painting follows the rest of my recent Wyeth-like paintings. Starting from w
 A new technique I used in this, was leaving some of the white paper exposed as my whites, at least on the man and dog figures. I wanted to give this a try after looking at and studying one paintings of my cycling friends (and fellow watercolor artist), [Ted Lawson](https://tedlawsonartist.com).
 
 {{< progress >}}
+
+### Accolades ###
+
+* Featured in the [2025 FRESH Summit Artspace Exhibit](https://www.summitartspace.org).
 
 ## Charity ##
 

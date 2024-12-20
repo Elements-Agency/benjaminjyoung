@@ -33,6 +33,13 @@ tags: [woman, lady, man, smoke, embrace, hug, couple, death, figure, love, suit,
 inventory:
   - patina: 2024-12-20 - current
 
+status: sale
+products:
+    - id: 716135890
+      name: Limited Reproduction
+      price: $59
+      left: 9
+
 limited: 10
 ---
 
