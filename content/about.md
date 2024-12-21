@@ -35,8 +35,8 @@ In a monument of both the boredom of winter, and desperation, I found an old set
     * [Wings and Whimsy: the Art of Taking Flight](https://www.facebook.com/events/1031065925277126) hosted at [Patina Arts Centre](http://patinaartscentre.com/).
     * [Rod Meadows Art Call](https://www.juilliardartscenter.com/ron-meadows-art-call-2024.html) hosted at [Juilliard Arts Center](https://www.juilliardartscenter.com).
     * [ActLoCLE Exhibit](https://www.actlocle.org/) hosted Online for the Cleveland Ohio area.
-    * The Art of Toys Exhibit hosted at [BZTAT Studios](http://bztatstudios.com).
-    * Resident Artist Showcase hosted at [Patina Arts Centre](http://patinaartscentre.com/).
+    * [The Art of Toys Exhibit](https://www.facebook.com/events/886574973454122) hosted at [BZTAT Studios](http://bztatstudios.com).
+    * [Resident Artist Showcase](https://www.facebook.com/events/512553025101953) hosted at [Patina Arts Centre](http://patinaartscentre.com/).
 
 ## Upcoming Shows ##
   * FRESH Exhibition hosted at [Summit Artspace](https://www.summitartspace.org)

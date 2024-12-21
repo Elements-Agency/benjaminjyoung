@@ -50,7 +50,7 @@ This small work painting is the first one apart of the [tiny canvas collection](
 
 ## Accolades ##
 
-* Featured in the 2024 The Art of Toys Exhibit at [BZTAT Studios](http://bztatstudios.com).
+* Featured in the [2024 The Art of Toys Exhibit](https://www.facebook.com/events/886574973454122) at [BZTAT Studios](http://bztatstudios.com).
 
 ## Charity ##
 

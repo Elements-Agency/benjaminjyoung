@@ -66,4 +66,4 @@ This one was pretty straight forward. I started it originally to test a new tech
 
 ## Accolades ##
 
-* Featured in the [2024 Patina Resident Artist Exhibit](https://www.patinaartscentre.com).
+* Featured in the [2024 Patina Resident Artist Exhibit](https://www.facebook.com/events/512553025101953) at [Patina Arts Centre](https://www.patinaartscentre.com).

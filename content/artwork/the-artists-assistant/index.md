@@ -78,7 +78,7 @@ I frequently have the need to sit on the carpeted floor and paint. I just find t
 
 ### Accolades ###
 
-* Featured in the [2024 Patina Resident Artist Exhibit](https://www.patinaartscentre.com).
+* Featured in the [2024 Patina Resident Artist Exhibit](https://www.facebook.com/events/512553025101953) at [Patina Arts Centre](https://www.patinaartscentre.com).
 
 ## Charity ##
 
