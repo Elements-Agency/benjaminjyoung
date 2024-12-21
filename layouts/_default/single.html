@@ -260,6 +260,21 @@
                 </p>
               {{ end }}
 
+              {{ if in .Params.locations "summit" }}
+                <h2>Where To Visit</h2>
+                <p>
+                  The <strong>original painting</strong> is currently on display at
+                  <a href="http://summitartspace.org/" onclick="fbq('track', 'FindLocation');" target="_blank">
+                    Summit Artspace
+                  </a>
+                  in Akron Ohio, and can be viewed there.
+                  The address is
+                  <a href="https://maps.app.goo.gl/o2kKwGuyiAsge4ou6" onclick="fbq('track', 'FindLocation');" target="_blank">
+                    140 E Market Street, Akron OH 44308
+                  </a>
+                </p>
+              {{ end }}
+
               {{ if or (eq .Params.status "sale") (eq .Params.status "sold") }}
                 <article id="purchase" class="clear">
                   <div class="box clear" style="background-color: #eee;">

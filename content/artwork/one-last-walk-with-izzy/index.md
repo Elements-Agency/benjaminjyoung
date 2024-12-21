@@ -27,11 +27,12 @@ mediums: [watercolor]
 materials: [paper]
 colors: [green, blue, yellow]
 collections: [shades of olson, figures facing from view]
-locations: [patina, print]
+locations: [summit, print]
 tags: [man, figure, dog, border collie, walk, hike, hills, forrest, house, sky, field, outdoors, autumn, rustic, serene, appalachia, east sparta, ohio]
 
 inventory:
-  - patina: 2024-11-11 - current
+  - summit: 2024-12-20 - current
+  - patina: 2024-11-11 - 2024-12-20
 
 status: sale
 products:
