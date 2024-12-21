@@ -33,7 +33,7 @@ In a monument of both the boredom of winter, and desperation, I found an old set
     * [Patina Arts Centre First Fundraiser: A Celebration of Art, Community, and Creativity](https://www.facebook.com/events/869821251632238/) hosted at [Patina Arts Centre](https://www.patinaartscentre.com).
     * [Brown's Town: Art Inspired by Ohio's Football Heritage](https://paulbrownmuseum.org/exhibits/detail/browns-town-art-inspired-by-ohios-football-heritage) hosted at [Massillon Museum](http://massillonmuseum.org/).
     * [Wings and Whimsy: the Art of Taking Flight](https://www.facebook.com/events/1031065925277126) hosted at [Patina Arts Centre](http://patinaartscentre.com/).
-    * [Ron Meadows Art Call](https://www.juilliardartscenter.com/ron-meadows-art-call-2024.html) hosted at [Juilliard Arts Center](https://www.juilliardartscenter.com).
+    * [Rod Meadows Art Call](https://www.juilliardartscenter.com/ron-meadows-art-call-2024.html) hosted at [Juilliard Arts Center](https://www.juilliardartscenter.com).
     * [ActLoCLE Exhibit](https://www.actlocle.org/) hosted Online for the Cleveland Ohio area.
     * The Art of Toys Exhibit hosted at [BZTAT Studios](http://bztatstudios.com).
     * Resident Artist Showcase hosted at [Patina Arts Centre](http://patinaartscentre.com/).
