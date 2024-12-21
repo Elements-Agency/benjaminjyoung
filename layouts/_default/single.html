@@ -24,6 +24,46 @@
         fbq('trackCustom', 'ClickAction');
       }
 
+      var element = document.getElementById('purchase');
+      var elementHeight = element.clientHeight;
+      var hitEnd = false;
+
+      function inView() {
+        var windowHeight = window.innerHeight;
+        var scrollY = window.scrollY || window.pageYOffset;
+        
+        var scrollPosition = scrollY + windowHeight;
+        var elementPosition = element.getBoundingClientRect().top + scrollY + elementHeight;
+        
+        if (scrollPosition > elementPosition) {
+          return true;
+        }
+        
+        return false;
+      }
+
+      function trackEnd() {console.log('hit');
+        fbq('trackCustom', 'ViewProduct', {
+          content_category: 'Artwork',
+          content_name: '{{- .Title -}}',
+          content_ids: [{{ range $product := .Params.products }}'{{ $product.id }}',{{ end }}],
+          {{ if .Params.products }}
+            {{ $first := index (.Params.products) 0 }}
+            value: {{ trim $first.price "$" }},
+            currency: 'USD',
+          {{ end }}
+        });
+      }
+
+      function watchScroll() {
+        if (inView() && !hitEnd) {
+          hitEnd = true;
+          trackEnd();
+        }
+      }
+
+      document.addEventListener('scroll', watchScroll);
+
       function trackProduct(id, name, value) {
         fbq('track', 'ViewContent', {
           content_category: 'Artwork',
