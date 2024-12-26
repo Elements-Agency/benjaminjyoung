@@ -33,6 +33,9 @@ tags: [woman, lady, man, smoke, embrace, hug, couple, death, figure, love, suit,
 inventory:
   - patina: 2024-12-20 - current
 
+planning:
+  - door2art: 2025-02-10 - 2025-03-17
+
 status: sale
 products:
     - id: 716381943

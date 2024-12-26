@@ -37,6 +37,9 @@ inventory:
   - juilliard: 2024-09-12 - 2024-10-13
   - patina: 2024-08-28 - 2024-09-12
 
+planning:
+  - door2art: 2025-02-10 - 2025-03-17
+
 status: sale
 products:
     - id: 691515054

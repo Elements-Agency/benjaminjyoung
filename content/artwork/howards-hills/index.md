@@ -34,6 +34,9 @@ inventory:
   - patina: 2024-09-16 - current
   - home: 2024-09-10 - 2024-09-16
 
+planning:
+  - brydu: 2025-03-01 - 2025-03-30
+
 status: sale
 products:
     - id: 694481795

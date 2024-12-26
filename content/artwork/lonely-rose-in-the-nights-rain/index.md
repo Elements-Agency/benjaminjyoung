@@ -33,6 +33,9 @@ tags: [rose, flower, stem, rain, night, dark, outdoors, summer, warm]
 inventory:
   - patina: 2024-08-14 - current
 
+planning:
+  - whiterabbit: 2025-01-08 - 2025-03-02
+
 status: sale
 products:
     - id: 688767257

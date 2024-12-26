@@ -33,6 +33,10 @@ tags: [woman, lady, old, window, wood, face, expression, gaze, house, glasses, e
 inventory:
   - patina: 2024-11-21 - current
 
+planning:
+  - brydu: 2025-03-01 - 2025-03-30
+  - ows: 2025-05-03 - 2025-08-03
+
 status: sale
 products:
     - id: 710975182

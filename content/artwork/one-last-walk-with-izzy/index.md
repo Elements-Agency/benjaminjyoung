@@ -34,6 +34,9 @@ inventory:
   - summit: 2024-12-20 - current
   - patina: 2024-11-11 - 2024-12-20
 
+planning:
+  - summit: 2024-12-20 - 2025-03-16 (confirmed)
+
 status: sale
 products:
     - id: 708668936

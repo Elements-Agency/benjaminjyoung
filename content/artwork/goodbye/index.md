@@ -13,7 +13,7 @@ videos: []
 
 featured: false
 order: 0
-ratio: landscape
+ratio: portrait
 power: 9000
 favorite: false
 
