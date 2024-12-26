@@ -65,15 +65,6 @@
       document.addEventListener('scroll', watchScroll);
 
       function trackProduct(id, name, value) {
-        fbq('track', 'ViewContent', {
-          content_category: 'Artwork',
-          content_name: name,
-          content_ids: [id],
-          content_type: 'product',
-          value: value,
-          currency: 'USD',
-        });
-
         fbq('trackCustom', 'ClickProduct', {
           content_category: 'Artwork',
           content_name: name,
