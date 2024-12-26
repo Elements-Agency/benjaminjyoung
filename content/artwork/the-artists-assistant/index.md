@@ -37,17 +37,17 @@ inventory:
   - patina: 2024-06-29 - 2024-07-27
   - home: 2024-06-26 - 2024-06-29
 
-status: sale
+status: sold
 products:
+    - id: 683098813
+      name: Limited Reproduction
+      price: $59
+      left: 5
     - id: 675661538
       name: Original Painting
       price: $500
       patina: $250
       sold: true
-    - id: 683098813
-      name: Limited Reproduction
-      price: $59
-      left: 5
 
 limited: 10
 

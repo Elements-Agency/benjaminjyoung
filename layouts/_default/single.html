@@ -319,9 +319,18 @@
                 <article id="purchase" class="clear">
                   <div class="box clear" style="background-color: #eee;">
                     <h2 style="text-align: center;">Purchase {{ .Title }}</h2>
+
+                    {{ if $.Site.Params.sale }}
+                      <p style="font-size:0.9em; margin-bottom:0.5em;">
+                        <strong style="color:red;">
+                          Limited Time Sale:
+                        </strong>
+                        {{ $.Site.Params.sale }}
+                      </p>
+                    {{ end }}
                     
                     {{ if eq .Params.status "sold" }}
-                      <p style="font-size:0.9em; margin-bottom:0;">
+                      <p style="font-size:0.9em; margin-bottom:0.5em;">
                         The original of this painting has been sold.
                       </p>
                     {{ end }}
