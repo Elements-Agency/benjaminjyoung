@@ -37,7 +37,6 @@ products:
     - id: 696990423
       name: Original Painting
       price: $90
-      patina: $60
 ---
 
 **Todd's Sunflowers** is a quick and easy graphite pencil sketch painted in with watercolor. This simple small artwork is a nice little decoration to hang in your room. Sunflowers being the favorite flower of one of my favorite painters, Van Gogh, and the added bonus of being a vibrant yellow to attract a summer time feel. My reference was my cousin's yard, so these are Todd's Sunflowers.

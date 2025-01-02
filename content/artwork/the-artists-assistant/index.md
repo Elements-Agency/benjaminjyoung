@@ -46,7 +46,6 @@ products:
     - id: 675661538
       name: Original Painting
       price: $500
-      patina: $250
       sold: true
 
 limited: 10

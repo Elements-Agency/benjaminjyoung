@@ -46,7 +46,7 @@ products:
     - id: 654299515
       name: Original Painting
       price: $600
-      patina: $400
+      patina: $500
     - id: 689326464
       name: Postcard
       price: $4.99
