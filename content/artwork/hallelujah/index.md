@@ -55,6 +55,8 @@ products:
 limited: 10
 reproductions:
   - 1: Johnathan Becker (Artober. Massillon, OH)
+
+tag: The template for the narrative is set to the song's verse, from Hallelujah, "She tied you to the kitchen chair. She broke your throne, and she cut your hair." The man, is myself, when my hair was longer and wild with curls. A time when I was younger. The framing design displays a moment between myself and the woman that is focused and touches briefly on the duality of emotions seeing this painting evokes in me. Much like the meaning and interpretation of the song.
 ---
 
 **Hallelujah** captures a profound and intimate moment between two figures, a woman and a man, bathed in muted, melancholic tones. The woman, with a look of quiet concentration, gently holds the man’s head as she carefully cuts his hair. The tenderness in her touch contrasts with the rough, darkened surroundings, suggesting a setting filled with history and emotional weight. The man, seated with his back to the viewer, seems resigned, his body language conveying a sense of vulnerability. Likely his pose shows signs of trauma. His unruly hair and the scattered clippings on his shoulders evoke a passage of time and perhaps a long period of neglect or hardship.
