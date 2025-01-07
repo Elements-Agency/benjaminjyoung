@@ -42,9 +42,11 @@ products:
     - id: 711216274
       name: Limited Reproduction
       price: $59
-      left: 9
+      left: 8
 
 limited: 10
+reproductions:
+  - 1: Pam Pratt (Winchester, KY)
 
 tag: This quaint winter scene showcases a Fruitcake delivery truck and it's driver preparing to drop off it's abundant order of 30 fruitcakes to the anxiously awaiting recipient in the blue snow covered house. A wasteful purchase that would later go on to be donated to the local food bank, with an absurd and humorous smile. The package handler's confident movements inferring that him and homeowner inside are intertwined in scandalous love affair. The calmness of the winter night should be heard in mind. It's left up to the viewer to form their own opinions of what the delivery figure may be thinking or what will transpire when the door bell rings.
 ---
