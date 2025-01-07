@@ -1,8 +1,8 @@
 ---
-date: 2044-11-01
+date: 2025-01-06
 title: Avalanche Lilies
-description: 
-alt: 
+description: Avalanche Lilies is a watercolor painting of white flowers with Mount Rainier in the background.
+alt: This watercolor painting depicts delicate white lilies illuminated against a rugged alpine landscape with golden grasses, shadowed mountains, and a snow-capped peak under a moody sky.
 author: Benjamin J. Young
 
 progress: 
@@ -11,7 +11,7 @@ aliases: [/avalanche-lilies]
 images: ['painting.jpg']
 videos: []
 
-featured: false
+featured: true
 order: 0
 ratio: landscape
 power: 9000
@@ -26,32 +26,51 @@ supplies:
   - medium: M. Graham Watercolor Paint
   - on: Arches Cold Press Watercolor Paper
   - frame: Cyrus Custom Framing
-size: 30x23in
+size: 30x22in
 
 series: []
 categories: [realism, landscape, floral, painting]
 mediums: [watercolor]
 materials: [paper]
 colors: []
-collections: [reserved]
-locations: [home]
+collections: [lilies, reserved]
+locations: [cyrus]
 tags: [avalanche, mountain, field, snow, grass, flower, lily, petal, leaf, rock, number two]
 
 inventory:
-  - home: 2044-01-01 - current
+  - cyrus: 2025-01-07 - current
+  - patina: 2025-01-06 - 2025-01-07
 
-tag: A faux Stargazer lily decorated the shelves at the bar we met, which you noted it’s identity and your fixation; in the aspirations of our conversations. When you brought me home, Easter lilies decorated throughout your bedroom, complimenting the white orchid that was center stage of the contemporary decor. In one of my first attempts of affection for you, I transplanted Tawny Daylilies from the wilds of the valley where I grew up in to the suburban yard that welcomed you each weekend. It was in front of one of Monet’s works of water lilies that we first exchanged the words “I love you” to one another. You wanted Royal Lilies to partner the echos of violins at our future wedding. There was a twinkle in your eye talking about your desire to go see a vast field of **Avalanche Lilies** in the mountains. It was Madonna Lilies I placed on the mound of your grave. The repeated significance of the flower is why they were symbolically hosted in my home in troves for so long, and why a single white one was left to the lost soul that ignited my ambition to face my own loss; in a sign of both of our gratitude and valedictions. I’ve hiked and traveled the world for you; to honor both of us. Nothing has tugged more at my heartstrings than as much as this view. So… Will you sit with me, with this spectacular sunsetted view? One last time. I painted some flowers for you, my dear.
+status: sale
+products:
+    - id: 718508603
+      name: Original Painting
+      price: $4,000
+      patina: $3,000
+    - id: 718515517
+      name: Limited Reproduction
+      price: $59
+      left: 9
+
+limited: 10
+reproductions:
+
+tag: A faux Stargazer lily decorated the shelves at the bar where we met, and you noted its identity and your fixation; in the aspirations of our conversations. When you brought me home, Easter lilies were decorated throughout your bedroom, complimenting the white orchid that was center stage of the contemporary decor. In one of my first attempts of affection for you, I transplanted Tawny Daylilies from the wilds of the valley where I grew up into the suburban yard that welcomed you each weekend. In front of one of Monet’s works of water lilies, we first exchanged the words “I love you” with one another. You wanted Royal Lilies to partner the echos of violins at our future wedding. There was a twinkle in your eye discussing your desire to visit a vast field of Avalanche lilies in the mountains. It was Madonna Lilies I placed on the mound of your grave. The repeated significance of the flowers is why they were symbolically hosted in my home in troves for so long, and why a single white one was left to the lost soul that ignited my ambition to face my loss; in a sign of both of our gratitude and valedictions. I’ve hiked and traveled the world for you; to honor both of us. Nothing has tugged more at my heartstrings than as much as this view. So… Will you sit with me, with this spectacular sunsetted view? One last time. I painted a flower for you, my dear.
 ---
 
-A faux Stargazer lily decorated the shelves at the bar we met, which you noted it’s identity and your fixation; in the aspirations of our conversations. When you brought me home, Easter lilies decorated throughout your bedroom, complimenting the white orchid that was center stage of the contemporary decor. In one of my first attempts of affection for you, I transplanted Tawny Daylilies from the wilds of the valley where I grew up in to the suburban yard that welcomed you each weekend. It was in front of one of Monet’s works of water lilies that we first exchanged the words “I love you” to one another. You wanted Royal Lilies to partner the echos of violins at our future wedding. There was a twinkle in your eye talking about your desire to go see a vast field of **Avalanche Lilies** in the mountains. It was Madonna Lilies I placed on the mound of your grave. The repeated significance of the flower is why they were symbolically hosted in my home in troves for so long, and why a single white one was left to the lost soul that ignited my ambition to face my own loss; in a sign of both of our gratitude and valedictions. I’ve hiked and traveled the world for you; to honor both of us. Nothing has tugged more at my heartstrings than as much as this view. So… Will you sit with me, with this spectacular sunsetted view? One last time. I painted some flowers for you, my dear.
+A faux Stargazer lily decorated the shelves at the bar where we met, and you noted its identity and your fixation; in the aspirations of our conversations. When you brought me home, Easter lilies were decorated throughout your bedroom, complimenting the white orchid that was center stage of the contemporary decor. In one of my first attempts of affection for you, I transplanted Tawny Daylilies from the wilds of the valley where I grew up into the suburban yard that welcomed you each weekend. In front of one of Monet’s works of water lilies, we first exchanged the words “I love you” with one another. You wanted Royal Lilies to partner the echos of violins at our future wedding. There was a twinkle in your eye discussing your desire to visit a vast field of **Avalanche Lilies** in the mountains. It was Madonna Lilies I placed on the mound of your grave. The repeated significance of the flowers is why they were symbolically hosted in my home in troves for so long, and why a single white one was left to the lost soul that ignited my ambition to face my loss; in a sign of both of our gratitude and valedictions. I’ve hiked and traveled the world for you; to honor both of us. Nothing has tugged more at my heartstrings than as much as this view. So… Will you sit with me, with this spectacular sunsetted view? One last time. I painted a flower for you, my dear.
 
 <!--more-->
 
 {{< cta >}}
 
+This watercolor painting features a dramatic alpine landscape with a foreground of delicate white lilies. The flowers are beautifully detailed, with their petals catching subtle light, standing out against the darker and rugged surroundings. The mid-ground consists of golden grasses and rocks, transitioning to a backdrop of majestic, shadowed mountains, crowned by a snow-covered peak under a cloudy sky.
+
+The overall tone is a juxtaposition of serene beauty (represented by the lilies) and the stark, untamed majesty of nature (symbolized by the mountains). The earthy, muted palette emphasizes the contrast between the bright lilies and the dark, brooding environment. This piece conveys a sense of quiet resilience and harmony amidst rugged conditions.
+
 ### Inspiration ###
 
-The scene is that of avalanche lilies with Mount Rainier in the background. I creatively warped the mountain set so the composition and lines all try to draw the eye towards the center focus of the glowing flowers from the setting sun.
+The scene is that of my visual creative take of Avalanche Lilies with Mount Rainier in the background. I creatively warped the mountain set so the composition and lines all try to draw the eye towards the center focus of the glowing flowers from the setting sun.
 
 ## Charity ##
 
