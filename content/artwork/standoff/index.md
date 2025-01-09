@@ -34,9 +34,6 @@ inventory:
   - patina: 2024-11-05 - current
   - home: 2024-10-12 - 2024-11-05
 
-planning:
-  - morgan: 2025-02-07 - 2025-05-01
-
 status: sale
 products:
     - id: 702627109

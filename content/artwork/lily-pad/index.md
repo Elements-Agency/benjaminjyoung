@@ -40,7 +40,7 @@ inventory:
   - home: 2024-06-16 - 2024-06-29
 
 planning:
-  - whiterabbit: 2025-01-08 - 2025-03-02
+  - whiterabbit: 2025-01-08 - 2025-03-02 (confirmed)
 
 status: sale
 products:

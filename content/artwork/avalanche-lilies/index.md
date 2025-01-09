@@ -18,7 +18,7 @@ power: 9000
 favorite: false
 
 planning:
-  - whiterabbit: 2025-01-08 - 2025-03-01
+  - whiterabbit: 2025-01-08 - 2025-03-01 (confirmed)
   - brydu: 2025-03-01 - 2025-03-30
   - ows: 2025-05-03 - 2025-08-03
 
