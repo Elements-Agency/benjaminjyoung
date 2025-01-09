@@ -85,9 +85,9 @@ A new technique I used in this, was leaving some of the white paper exposed as m
 
 {{< progress >}}
 
-### Accolades ###
+## Accolades ##
 
-* Featured in the [2025 FRESH Summit Artspace Exhibit](https://www.summitartspace.org).
+* Featured in the [2025 Juried FRESH Exhibit](https://www.summitartspace.org/fresh-2025/) at [Summit Artspace](https://www.summitartspace.org).
 
 ## Charity ##
 

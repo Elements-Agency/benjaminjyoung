@@ -65,3 +65,7 @@ This exquisite watercolor painting captures the tranquil beauty of a pond scene,
 {{< img src="reference.webp" width="200px" height="197px" class="floatright" gallery="progress" alt="Lily Pad Inspiration Photo" title="Me sitting in front of my pond, painting" link="reference.jpg" >}}
 
 I have spent many summers observing the lily pads at my home's pond. Which is exactly where I drew inspiration from for this painting.
+
+## Accolades ##
+
+* Featured in the [3rd Annual Juried Flora Exhibit](https://www.whiterabbitgalleries.org/event-details/flora-3rd-annual-juried-exhibition-2025-01-17-16-00) at the [White Rabbit Galleries](https://www.whiterabbitgalleries.org).

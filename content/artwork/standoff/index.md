@@ -70,3 +70,4 @@ This one was pretty straight forward. I started it originally to test a new tech
 ## Accolades ##
 
 * Featured in the [2024 Patina Resident Artist Exhibit](https://www.facebook.com/events/512553025101953) at [Patina Arts Centre](https://www.patinaartscentre.com).
+* Featured in the [Surface and Structure: A Dialogue in Texture Exhibit](https://artsinstark.com/surface-and-structure-a-dialogue-in-texture-opens-january-16-at-the-cultural-center-gallery/?fbclid=IwY2xjawHs4upleHRuA2FlbQIxMAABHVuxYcp1388QiP1wHwfzSl_zD5yaXzqCEaEzwQRiffFD4fi50l4KhCRbIQ_aem_y6Loqj6coj59e3x-HEd1yg) at the [Canton Cultural Center Gallery](https://culturalcenterforthearts.com).

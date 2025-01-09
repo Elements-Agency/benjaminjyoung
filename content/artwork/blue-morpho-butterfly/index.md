@@ -45,6 +45,6 @@ This watercolor painting captures the delicate beauty of a blue butterfly perche
 
 <!--more-->
 
-### Accolades ###
+## Accolades ##
 
  * Featured in the [Wings and Whimsy: the Art of Taking Flight Exhibit](https://www.facebook.com/events/1031065925277126) at [Patina Arts Centre](http://patinaartscentre.com/).

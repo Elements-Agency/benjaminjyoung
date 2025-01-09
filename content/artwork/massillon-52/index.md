@@ -64,6 +64,6 @@ After the deadline was extended for the [Massillon Museum](http://massillonmuseu
 
 The composition of the piece was selected because it's one of my "little" cousin's favorite [Massillon Football](https://massillontigers.com) pictures while he played on varsity. I'm not much of a football fan myself, but it was a nice reference photo to paint from.
 
-### Accolades ###
+## Accolades ##
 
- * Featured in the [2024 Brown’s Town Exhibit](https://paulbrownmuseum.org/exhibits/detail/browns-town-art-inspired-by-ohios-football-heritage) at the [Massillon Museum](https://massillonmuseum.org/).
+ * Featured in the [2024 Juried Brown’s Town Exhibit](https://paulbrownmuseum.org/exhibits/detail/browns-town-art-inspired-by-ohios-football-heritage) at the [Massillon Museum](https://massillonmuseum.org/).

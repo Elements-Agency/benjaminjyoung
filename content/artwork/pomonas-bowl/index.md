@@ -54,3 +54,7 @@ products:
 ### Inspiration ###
 
 After completing [my second oil painting](/artwork/massillon-helmet), I realized the missing element of what I was missing to bring my realism to the next level, was abstract brush work. So I set out starting this painting with that as the only priority to practice and utilize in this artwork. As you view the artwork up close, you can see the grains and multi-directions of every brush stroke. Ransom impasto chunks of color are vomited on the page. All the imperfections and chaos forms something grand and beautiful when you step back and take it all in. Just as it is with life it's self. Perfection is bland and boring, but the imperfections we have in everything are what make up the character of those whole entities and systems, and that was the end ambition I pursued with this painting.
+
+## Accolades ##
+
+* Featured in the [Surface and Structure: A Dialogue in Texture Exhibit](https://artsinstark.com/surface-and-structure-a-dialogue-in-texture-opens-january-16-at-the-cultural-center-gallery/?fbclid=IwY2xjawHs4upleHRuA2FlbQIxMAABHVuxYcp1388QiP1wHwfzSl_zD5yaXzqCEaEzwQRiffFD4fi50l4KhCRbIQ_aem_y6Loqj6coj59e3x-HEd1yg) at the [Canton Cultural Center Gallery](https://culturalcenterforthearts.com).

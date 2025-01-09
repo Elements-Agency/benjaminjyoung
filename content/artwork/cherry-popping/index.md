@@ -58,6 +58,6 @@ The **Cherry Popping** painting depicts two cherries with a realistic appearance
 
 This study was my first oil painting, hence the name "Cherry Popping". I wanted to do a painting to explore how to use and manipulate oil paint. So it was essentially an exploration and mainly a learning artwork piece.
 
-### Accolades ###
+## Accolades ##
 
 This artwork was featured, auctioned, and sold for charity at [Patina Arts Centre's 2024 Charity Fundraiser](https://www.facebook.com/events/869821251632238/).

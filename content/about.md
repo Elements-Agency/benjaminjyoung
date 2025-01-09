@@ -37,6 +37,7 @@ In a monument of both the boredom of winter, and desperation, I found an old set
     * [ActLoCLE Exhibit](https://www.actlocle.org/) hosted Online for the Cleveland Ohio area.
     * [The Art of Toys Exhibit](https://www.facebook.com/events/886574973454122) hosted at [BZTAT Studios](http://bztatstudios.com).
     * [Resident Artist Showcase](https://www.facebook.com/events/512553025101953) hosted at [Patina Arts Centre](http://patinaartscentre.com/).
-
-## Upcoming Shows ##
-  * FRESH Exhibition hosted at [Summit Artspace](https://www.summitartspace.org)
+  * 2025
+    * [FRESH Exhibition](https://www.summitartspace.org/fresh-2025/) hosted at [Summit Artspace](https://www.summitartspace.org).
+    * [Flora Exhibition](https://www.whiterabbitgalleries.org/event-details/flora-3rd-annual-juried-exhibition-2025-01-17-16-00) hosted at [White Rabbit Galleries](https://www.whiterabbitgalleries.org).
+    * [Surface and Structure: A Dialogue in Texture Opens](https://artsinstark.com/surface-and-structure-a-dialogue-in-texture-opens-january-16-at-the-cultural-center-gallery/?fbclid=IwY2xjawHs4upleHRuA2FlbQIxMAABHVuxYcp1388QiP1wHwfzSl_zD5yaXzqCEaEzwQRiffFD4fi50l4KhCRbIQ_aem_y6Loqj6coj59e3x-HEd1yg) hosted at the [Canton Cultural Center Gallery](https://culturalcenterforthearts.com).

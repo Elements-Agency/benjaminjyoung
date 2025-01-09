@@ -77,7 +77,7 @@ The painting was mainly done while studying a reference photo I took. Actually p
 
 I frequently have the need to sit on the carpeted floor and paint. I just find this more comforting, which is something just originating from my childhood. Princess is most of the time laying or sitting by my side, when I paint in this spot. Normally nestling up against me or cuddling with her second-hand tennis ball, past down from me.
 
-### Accolades ###
+## Accolades ##
 
 * Featured in the [2024 Patina Resident Artist Exhibit](https://www.facebook.com/events/512553025101953) at [Patina Arts Centre](https://www.patinaartscentre.com).
 

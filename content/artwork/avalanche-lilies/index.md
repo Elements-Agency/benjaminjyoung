@@ -72,6 +72,10 @@ The overall tone is a juxtaposition of serene beauty (represented by the lilies)
 
 The scene is that of my visual creative take of Avalanche Lilies with Mount Rainier in the background. I creatively warped the mountain set so the composition and lines all try to draw the eye towards the center focus of the glowing flowers from the setting sun.
 
+## Accolades ##
+
+* Featured in the [3rd Annual Juried Flora Exhibit](https://www.whiterabbitgalleries.org/event-details/flora-3rd-annual-juried-exhibition-2025-01-17-16-00) at the [White Rabbit Galleries](https://www.whiterabbitgalleries.org).
+
 ## Charity ##
 
 10% of all online sale proceeds of any products that sell related to this painting will be donated to [Mother's Against Drunk Driving](https://madd.org).
