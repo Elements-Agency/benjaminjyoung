@@ -40,6 +40,17 @@ I am hoping to spam art exhibits this year. It's just a matter of having enough 
     {{< img col="6" span="image fit" src="with_tom.jpg" alt="Talking to the Great Tom Delamater" title="Talking to the Great Tom Delamater" >}}
 {{< row-end >}}
 
+## Newsletter Winners ##
+
+Congratulations to the following group of people, winning their choice of a limit reproduction!
+
+  * Pam P. of Winchester KY
+  * Lucy L. of Gainesville FL
+  * Chloe O. of Cuyahoga Falls OH
+  * Rita F. of Plymouth Meeting PA
+
+Emails have separately been sent out to claim your prizes.
+
 ## Sale ##
 
 The 1 year anniversary sale is now over, but you can receive **10% OFF all orders!** Now until the end of the winter. Just use the discount code **SNOWFALL** at checkout.
