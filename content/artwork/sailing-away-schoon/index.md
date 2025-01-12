@@ -11,8 +11,8 @@ aliases: [/sailing-away-schoon, /artwork/sailing-away]
 images: ['painting.jpg']
 videos: []
 
-featured: true
-order: 8
+featured: false
+order: 99
 ratio: landscape
 power: 53
 favorite: false

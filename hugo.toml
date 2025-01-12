@@ -87,15 +87,15 @@ timeout = '600'
 
 [related]
   includeNewer = true
-  threshold = 80
+  threshold = 100
   toLower = false
 [[related.indices]]
-    name = 'mediums'
+    name = 'series'
     applyFilter = false
     pattern = ''
     toLower = false
     type = 'basic'
-    weight = 100
+    weight = 200
 [[related.indices]]
     name = 'tags'
     applyFilter = false
@@ -103,7 +103,7 @@ timeout = '600'
     pattern = ''
     toLower = false
     type = 'basic'
-    weight = 40
+    weight = 30
 [[related.indices]]
     name = 'mediums'
     applyFilter = false
@@ -117,21 +117,21 @@ timeout = '600'
     pattern = ''
     toLower = false
     type = 'basic'
-    weight = 100
+    weight = 30
 [[related.indices]]
     name = 'collections'
     applyFilter = false
     pattern = ''
     toLower = false
     type = 'basic'
-    weight = 200
+    weight = 60
 [[related.indices]]
     name = 'colors'
     applyFilter = false
     pattern = ''
     toLower = false
     type = 'basic'
-    weight = 60
+    weight = 20
 
 [deployment]
 

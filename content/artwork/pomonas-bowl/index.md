@@ -11,8 +11,8 @@ aliases: [/pomonas-bowl]
 images: ['painting.jpg']
 videos: []
 
-featured: true
-order: 12
+featured: false
+order: 99
 ratio: landscape
 power: 24
 favorite: true

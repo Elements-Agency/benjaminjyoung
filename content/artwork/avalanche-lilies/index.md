@@ -28,14 +28,14 @@ supplies:
   - frame: Cyrus Custom Framing
 size: 30x22in
 
-series: []
+series: [floral]
 categories: [realism, landscape, floral, painting]
 mediums: [watercolor]
 materials: [paper]
-colors: []
+colors: [yellow, brown, white, green]
 collections: [lilies, reserved]
 locations: [cyrus]
-tags: [avalanche, mountain, field, snow, grass, flower, lily, petal, leaf, rock, number two]
+tags: [avalanche, mountain, field, snow, grass, flower, lily, petal, leaf, rock, warm, outside, autumn, number two]
 
 inventory:
   - cyrus: 2025-01-07 - current
