@@ -27,7 +27,7 @@ In a monument of both the boredom of winter, and desperation, I found an old set
 
 ---
 
-## Past Group Exhibitions ##
+## Group Exhibitions ##
 
   * 2024
     * [Patina Arts Centre First Fundraiser: A Celebration of Art, Community, and Creativity](https://www.facebook.com/events/869821251632238/) hosted at [Patina Arts Centre](https://www.patinaartscentre.com).
@@ -40,4 +40,4 @@ In a monument of both the boredom of winter, and desperation, I found an old set
   * 2025
     * [FRESH Exhibition](https://www.summitartspace.org/fresh-2025/) hosted at [Summit Artspace](https://www.summitartspace.org).
     * [Flora Exhibition](https://www.whiterabbitgalleries.org/event-details/flora-3rd-annual-juried-exhibition-2025-01-17-16-00) hosted at [White Rabbit Galleries](https://www.whiterabbitgalleries.org).
-    * [Surface and Structure: A Dialogue in Texture Opens](https://artsinstark.com/surface-and-structure-a-dialogue-in-texture-opens-january-16-at-the-cultural-center-gallery/?fbclid=IwY2xjawHs4upleHRuA2FlbQIxMAABHVuxYcp1388QiP1wHwfzSl_zD5yaXzqCEaEzwQRiffFD4fi50l4KhCRbIQ_aem_y6Loqj6coj59e3x-HEd1yg) hosted at the [Canton Cultural Center Gallery](https://culturalcenterforthearts.com).
+    * [Surface and Structure: A Dialogue in Texture](https://artsinstark.com/surface-and-structure-a-dialogue-in-texture-opens-january-16-at-the-cultural-center-gallery/?fbclid=IwY2xjawHs4upleHRuA2FlbQIxMAABHVuxYcp1388QiP1wHwfzSl_zD5yaXzqCEaEzwQRiffFD4fi50l4KhCRbIQ_aem_y6Loqj6coj59e3x-HEd1yg) hosted at the [Canton Cultural Center Gallery](https://culturalcenterforthearts.com).
