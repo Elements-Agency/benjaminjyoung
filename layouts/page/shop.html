@@ -38,6 +38,15 @@
                 </h1>
             </header>
 
+            {{ if $.Site.Params.sale }}
+                <p style="font-size:0.9em; margin-bottom:0.5em; text-align:center;">
+                    <strong style="color:red;">
+                        Limited Time Sale:
+                    </strong>
+                    {{ $.Site.Params.sale }}
+                </p>
+            {{ end }}
+
             <div id="my-store-101772706" class="loader" style="min-height:400px;"></div>
 
             <br>
