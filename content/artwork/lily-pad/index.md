@@ -30,11 +30,12 @@ mediums: [watercolor, gouache]
 materials: [cotton paper]
 colors: [pink, green, white, brown]
 collections: [lilies]
-locations: [patina]
+locations: [whiterabbit]
 tags: [lily, flower, pad, water, pond, stones, outdoors, summer, cool]
 
 inventory:
-  - patina: 2024-12-01 - current
+  - whiterabbit: 2025-01-10 - current
+  - patina: 2024-12-01 - 2025-01-10
   - home: 2024-09-29 - 2024-12-01
   - patina: 2024-06-29 - 2024-09-29
   - home: 2024-06-16 - 2024-06-29

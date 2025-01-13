@@ -17,11 +17,6 @@ ratio: landscape
 power: 1000
 favorite: false
 
-planning:
-  - whiterabbit: 2025-01-08 - 2025-03-01 (confirmed)
-  - brydu: 2025-03-01 - 2025-03-30
-  - ows: 2025-05-03 - 2025-08-03
-
 supplies:
   - medium: M. Graham Watercolor Paint
   - on: Arches Cold Press Watercolor Paper
@@ -34,12 +29,18 @@ mediums: [watercolor]
 materials: [paper]
 colors: [yellow, brown, white, green]
 collections: [lilies, reserved]
-locations: [cyrus]
+locations: [whiterabbit]
 tags: [avalanche, mountain, field, snow, grass, flower, lily, petal, leaf, rock, warm, outside, autumn, number two]
 
 inventory:
-  - cyrus: 2025-01-07 - current
+  - whiterabbit: 2025-01-10 - current
+  - cyrus: 2025-01-07 - 2025-01-10
   - patina: 2025-01-06 - 2025-01-07
+
+planning:
+  - whiterabbit: 2025-01-08 - 2025-03-01 (confirmed)
+  - brydu: 2025-03-01 - 2025-03-30
+  - ows: 2025-05-03 - 2025-08-03
 
 status: sale
 products:

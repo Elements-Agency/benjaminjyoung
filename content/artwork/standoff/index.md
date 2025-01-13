@@ -27,11 +27,12 @@ mediums: [watercolor]
 materials: [paper]
 colors: [brown, yellow, gold, black]
 collections: [figures facing from view, shades of olson]
-locations: [patina, print]
+locations: [culturalcenter]
 tags: [field, farm, couple, man, woman, figure, muted, countryside, wheat, outdoors, autumn, tension, rustic, melancholy, number twenty]
 
 inventory:
-  - patina: 2024-11-05 - current
+  - culturalcenter: 2025-01-10 - current
+  - patina: 2024-11-05 - 2025-01-10
   - home: 2024-10-12 - 2024-11-05
 
 status: sale
