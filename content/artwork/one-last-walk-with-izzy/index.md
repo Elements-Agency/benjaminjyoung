@@ -1,7 +1,7 @@
 ---
 date: 2024-11-11
 title: One Last Walk With Izzy
-description: Fruitcake Delivery is a watercolor painting of the artist Ben and his dog, Izzy, walking across the rolling hills of Ohio.
+description: A watercolor painting of the artist and his dog, Izzy, walking across the rolling hills of Appalachia Ohio.
 alt: This watercolor painting depicts a serene watercolor capturing a man and a Border Collie dog strolling through rolling hills, evoking the peaceful charm of the countryside.
 author: Benjamin J. Young
 

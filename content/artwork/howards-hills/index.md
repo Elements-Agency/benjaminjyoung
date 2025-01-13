@@ -1,7 +1,7 @@
 ---
 date: 2024-09-10
 title: Howard's Hills
-description: Howard's Hills is Ben's watercolor painting to expand further in Andrew Wyeth's style and technique.
+description: A Wyeth style watercolor painting watching the artist's father limp along the winter grass rut to the childhood hills the artist belonged.
 alt: This watercolor painting depicts a solitary figure walking toward a rustic white farmhouse, set against a backdrop of rolling hills and bare trees under a soft, muted sky.
 author: Benjamin J. Young
 

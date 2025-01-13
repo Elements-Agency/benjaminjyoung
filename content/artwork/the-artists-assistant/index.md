@@ -1,7 +1,7 @@
 ---
 date: 2024-06-26
 title: The Artist's Assistant
-description: The Artist's Assistant is a watercolor painting featuring a cat, named Princess. Wearing a water cup as a hat on her head.
+description: A watercolor painting featuring a cat, named Princess. Wearing a water cup as a hat on her head. As she sits and watches the artist paint.
 alt: This watercolor painting depicts a black and white cat wearing an upside-down green water cup on its head, sitting beside a tennis ball and a painting of a stick-figure family, with a paintbrush resting nearby.
 author: Benjamin J. Young
 

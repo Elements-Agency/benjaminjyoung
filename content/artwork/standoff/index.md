@@ -1,7 +1,7 @@
 ---
 date: 2024-10-12
 title: Standoff
-description: Standoff is a watercolor painting of two silhouettes standing in a golden field, highlighting the tenseness of the couple.
+description: A watercolor painting of two silhouettes standing in a golden field, highlighting the tenseness of the couple.
 alt: This watercolor painting depicts two silhouetted figures standing apart in a vast, golden field under a cloudy sky, creating a mood of quiet tension and isolation against a distant mountainous backdrop.
 author: Benjamin J. Young
 

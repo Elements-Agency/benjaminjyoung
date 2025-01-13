@@ -1,7 +1,7 @@
 ---
 date: 2024-11-21
 title: Okay Now
-description: Okay Now is a watercolor painting of an old black woman looking out of a window.
+description: A watercolor painting featuring a dear old friend, looking onward to the future.
 alt: This watercolor painting portrays an elderly woman with expressive eyes and glasses, gazing thoughtfully out of a weathered wooden window frame.
 author: Benjamin J. Young
 

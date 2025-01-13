@@ -1,7 +1,7 @@
 ---
 date: 2024-12-20
 title: Embrace
-description: Embrace is an oil painting a young couple embracing in a surreal and dramatic setting.
+description: An oil painting a young couple embracing in a surreal and dramatic setting. Could it be a dream the artist had once again holding his greatest loss or the final moments of acceptance of something else?
 alt: This oil painting captures a tender and intimate moment of a couple embracing under dramatic, soft lighting against a dark, textured background, evoking deep emotion and connection.
 author: Benjamin J. Young
 

@@ -1,7 +1,7 @@
 ---
 date: 2024-10-29
 title: Fruitcake Delivery
-description: Fruitcake Delivery is a watercolor that paints a scene of a delivery truck and driver bringing the joy of fruitcake to the resident of a blue house.
+description: A watercolor that paints a scene of a delivery truck and driver bringing the joy of fruitcake to the resident of a blue house.
 alt: This watercolor painting depicts a cozy winter scene of a snow-covered house warmly lit from within, as a delivery truck labeled "Fruitcake Haus" unloads boxes in the quiet evening.
 author: Benjamin J. Young
 
