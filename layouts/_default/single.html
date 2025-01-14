@@ -133,7 +133,7 @@
             <article>
               {{ if .Resources.GetMatch "painting.jpg" }}
                 <h2 id="about">
-                  About The Painting
+                  About The {{ title (index (.Params.mediums) 0) }} Painting
                 </h2>
               {{ end }}
 
