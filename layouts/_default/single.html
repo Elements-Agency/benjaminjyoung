@@ -117,7 +117,7 @@
             {{ if .Resources.GetMatch "painting.jpg" }}
               <section style="text-align:center;">
                 {{ $full := .Resources.GetMatch "painting.jpg" }}
-                {{ $full := $full.Fit "800x800 webp q85" }}
+                {{ $full := $full.Fit "960x960 webp q90" }}
 
                 {{ $top := .Resources.GetMatch "painting.jpg" }}
                 {{ $top := $top.Fit "1600x1600 q100" }}
