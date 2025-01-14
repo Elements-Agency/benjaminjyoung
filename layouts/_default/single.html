@@ -98,16 +98,18 @@
 
     <div id="main">
         <section class="post">
-          {{ if .IsPage }}
-            <nav class="breadcrumbs">
-              <a href="{{ .Site.BaseURL }}#{{ trim .Title " -" | safeURL }}" class="link blue hover-black">Home</a>
-              <span class="mh1">/</span>
-              <a href="{{ .CurrentSection.RelPermalink }}#{{ trim .Title " -" | safeURL }}" class="link blue hover-black">{{ .CurrentSection.Title }}</a>
-              <span class="mh1">/</span>
-              <a href="{{ .RelPermalink }}" class="link blue hover-black">{{ .Title }}</a>
-            </nav>
-          {{ end }}
+            {{ if .IsPage }}
+              <nav class="breadcrumbs">
+                <a href="{{ .Site.BaseURL }}#{{ trim .Title " -" | safeURL }}" class="link blue hover-black">Home</a>
+                <span class="mh1">/</span>
+                <a href="{{ .CurrentSection.RelPermalink }}#{{ trim .Title " -" | safeURL }}" class="link blue hover-black">{{ .CurrentSection.Title }}</a>
+                <span class="mh1">/</span>
+                <a href="{{ .RelPermalink }}" class="link blue hover-black">{{ .Title }}</a>
+              </nav>
+            {{ end }}
+
             <br>
+
             <header class="major">
                 <h1>{{- .Title -}}</h1>
             </header>
@@ -120,51 +122,11 @@
                 {{ $top := .Resources.GetMatch "painting.jpg" }}
                 {{ $top := $top.Fit "1600x1600 q100" }}
 
-                <a class="painting preview" href="{{ $top.RelPermalink }}" data-gall="progress" data-position="center" style="display:block; border:#000 4px outset; box-shadow:0 0 30px rgba(0, 0, 0, 0.8); padding:0; background:#000; position:relative; z-index:2;" title="{{ .Title }} by {{ .Params.author | default .Site.Params.author }}">
-                  <div class="frame" style="border:#111 3vw solid; box-shadow:inset 0 0 30px rgba(0, 0, 0, 1);">
-                    <div class="frame-inside" style="border:#000 4px inset; position:relative; z-index:-1;">
-                      <div class="mat" style="background:#fff; border:#fff 6vw solid; line-height:0.5em;">
-                        <br class="clear" style="clear:both;">
-                        
-                        <div class="loader" style="background:#000 url('/images/loader.gif') center no-repeat;">
-                          <img class="canvas" src="{{ $full.RelPermalink }}" width="800" height="800" style="display:block; width:100%; height:auto;" alt="{{ .Params.alt }}" title='{{ .Title }} ({{ .Date| time.Format "2006" }}) by Ben Young'>
-                        </div>
-                        
-                        <br class="clear" style="clear:both;">
-
-                        <div class="info" style="font-size:0.5em; width:100%; line-height:1.5em;">
-                          <div class="author" style="float:left; text-align:left; width:50%; padding:0 0.5em;">
-                            <strong class="title" style="font-size:1.2em;">
-                              {{ .Params.author | default .Site.Params.author }}
-                            </strong>
-                            <br>
-                            American, 1990 - Current
-                          </div>
-
-                          <div class="description" style="float:right; text-align:right; width:50%; padding:0 0.5em;">
-                            <span class="title" style="font-size:1.2em;">
-                              <strong>
-                                {{ .Title }}
-                              </strong>
-                              (
-                              <em>
-                                {{ .Date | time.Format (default "2006" .Site.Params.date_format) }}
-                              </em>
-                              )
-                            </span>
-                            <br>
-                            {{ title (index (.Params.mediums) 0) }} on {{ title (index (.Params.materials) 0) }}
-                          </div>
-                        </div>
-
-                        <br class="clear" style="clear:both;">
-                      </div>
-                    </div>
+                <a class="painting preview" href="{{ $top.RelPermalink }}" data-gall="progress" data-position="center" title="{{ .Title }} by {{ .Params.author | default .Site.Params.author }}">
+                  <div class="loader" style="url('/images/loader.gif') center no-repeat;">
+                    <img class="image fit" src="{{ $full.RelPermalink }}" alt="{{ .Params.alt }}" title='{{ .Title }} ({{ .Date| time.Format "2006" }}) by Ben Young'>
                   </div>
                 </a>
-
-                <br>
-
               </section>
             {{ end }}
 
