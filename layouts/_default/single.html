@@ -117,10 +117,10 @@
             {{ if .Resources.GetMatch "painting.jpg" }}
               <section style="text-align:center;">
                 {{ $full := .Resources.GetMatch "painting.jpg" }}
-                {{ $full := $full.Fit "960x960 webp q90" }}
+                {{ $full := $full.Fit "1600x1600 webp q86" }}
 
                 {{ $top := .Resources.GetMatch "painting.jpg" }}
-                {{ $top := $top.Fit "1600x1600 q100" }}
+                {{ $top := $top.Fit "3200x3200 q100" }}
 
                 <a class="painting preview" href="{{ $top.RelPermalink }}" data-gall="progress" data-position="center" title="{{ .Title }} by {{ .Params.author | default .Site.Params.author }}">
                   <div class="loader" style="url('/images/loader.gif') center no-repeat;">
