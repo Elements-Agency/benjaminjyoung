@@ -11,8 +11,6 @@ description: Learn more about the contemporary artist, Ben Young. From his artis
 
 I'm new to painting, as I had just started in December of 2023. With no prior experience in art since 8th grade art class. I mainly paint with watercolor and occasionally oil, working in narrative realism. My objective is to paint the emotions first, aesthetics secondary. If my painting moves someone emotionally, then I have done my job. My style tends to remind a lot of Andrew Wyeth's work, and honestly I had no idea who he was until people started pointing that out and I had to google him. I've just let that style however take hold naturally to my own expression and technique. Much of my works are developed from my own experiences, traumas, and emotions; and I hope I can successfully resonate those in others.
 
-{{< button class="fit" text="Browse Artwork" href="/artwork" >}}
-
 ### Artist Story ###
 
 {{< img span="image right" src="/images/ben-kid.jpg" alt="Child Ben" title="Child Ben" >}}
@@ -23,21 +21,27 @@ So after my last 8th grade art class (age 15), I never picked up another pencil 
 
 In a monument of both the boredom of winter, and desperation, I found an old set of oil pastels and a Crayola Watercolor kit. From there, you can see the works I've made all listed out in my [Artwork Blog](/artwork).
 
-{{< button class="fit" text="Contact Artist" href="/contact" >}}
+{{< button class="fit" text="Browse Artwork" href="/artwork" >}}
 
 ---
 
-## Group Exhibitions ##
+## Awards and Accomplishments ##
 
-  * 2024
-    * [Patina Arts Centre First Fundraiser: A Celebration of Art, Community, and Creativity](https://www.facebook.com/events/869821251632238/) hosted at [Patina Arts Centre](https://www.patinaartscentre.com).
-    * [Brown's Town: Art Inspired by Ohio's Football Heritage](https://paulbrownmuseum.org/exhibits/detail/browns-town-art-inspired-by-ohios-football-heritage) hosted at [Massillon Museum](http://massillonmuseum.org/).
-    * [Wings and Whimsy: the Art of Taking Flight](https://www.facebook.com/events/1031065925277126) hosted at [Patina Arts Centre](http://patinaartscentre.com/).
-    * [Rod Meadows Art Call](https://www.juilliardartscenter.com/ron-meadows-art-call-2024.html) hosted at [Juilliard Arts Center](https://www.juilliardartscenter.com).
-    * [ActLoCLE Exhibit](https://www.actlocle.org/) hosted Online for the Cleveland Ohio area.
-    * [The Art of Toys Exhibit](https://www.facebook.com/events/886574973454122) hosted at [BZTAT Studios](http://bztatstudios.com).
-    * [Resident Artist Showcase](https://www.facebook.com/events/512553025101953) hosted at [Patina Arts Centre](http://patinaartscentre.com/).
+### Exhibitions ###
+
   * 2025
-    * [FRESH Exhibition](https://www.summitartspace.org/fresh-2025/) hosted at [Summit Artspace](https://www.summitartspace.org).
-    * [Flora Exhibition](https://www.whiterabbitgalleries.org/event-details/flora-3rd-annual-juried-exhibition-2025-01-17-16-00) hosted at [White Rabbit Galleries](https://www.whiterabbitgalleries.org).
-    * [Surface and Structure: A Dialogue in Texture](https://artsinstark.com/surface-and-structure-a-dialogue-in-texture-opens-january-16-at-the-cultural-center-gallery/?fbclid=IwY2xjawHs4upleHRuA2FlbQIxMAABHVuxYcp1388QiP1wHwfzSl_zD5yaXzqCEaEzwQRiffFD4fi50l4KhCRbIQ_aem_y6Loqj6coj59e3x-HEd1yg) hosted at the [Canton Cultural Center Gallery](https://culturalcenterforthearts.com).
+    * **JURIED** [FRESH Exhibition](https://www.summitartspace.org/fresh-2025/) hosted at [Summit Artspace](https://www.summitartspace.org).
+    * **JURIED** [Flora Exhibition](https://www.whiterabbitgalleries.org/event-details/flora-3rd-annual-juried-exhibition-2025-01-17-16-00) hosted at [White Rabbit Galleries](https://www.whiterabbitgalleries.org).
+    * **GROUP** [Surface and Structure: A Dialogue in Texture](https://artsinstark.com/surface-and-structure-a-dialogue-in-texture-opens-january-16-at-the-cultural-center-gallery/?fbclid=IwY2xjawHs4upleHRuA2FlbQIxMAABHVuxYcp1388QiP1wHwfzSl_zD5yaXzqCEaEzwQRiffFD4fi50l4KhCRbIQ_aem_y6Loqj6coj59e3x-HEd1yg) hosted at the [Canton Cultural Center Gallery](https://culturalcenterforthearts.com).
+    * **GROUP** New Artist Showcase at [The Hub](https://www.thehubcanton.com).
+  * 2024
+    * **GROUP** [Patina First Fundraiser: A Celebration of Art, Community, and Creativity](https://www.facebook.com/events/869821251632238/) hosted at [Patina Arts Centre](https://www.patinaartscentre.com).
+    * **JURIED**  [Brown's Town: Art Inspired by Ohio's Football Heritage](https://paulbrownmuseum.org/exhibits/detail/browns-town-art-inspired-by-ohios-football-heritage) hosted at [Massillon Museum](http://massillonmuseum.org/).
+    * **GROUP** [Wings and Whimsy: the Art of Taking Flight](https://www.facebook.com/events/1031065925277126) hosted at [Patina Arts Centre](http://patinaartscentre.com/).
+    * **JURIED**  [Rod Meadows Art Call](https://www.juilliardartscenter.com/ron-meadows-art-call-2024.html) hosted at [Juilliard Arts Center](https://www.juilliardartscenter.com).
+    * **JURIED**  [ActLoCLE Exhibit](https://www.actlocle.org/) hosted Online for the Cleveland Ohio area.
+    * **GROUP** [The Art of Toys Exhibit](https://www.facebook.com/events/886574973454122) hosted at [BZTAT Studios](http://bztatstudios.com).
+    * **GROUP** [Resident Artist Showcase](https://www.facebook.com/events/512553025101953) hosted at [Patina Arts Centre](http://patinaartscentre.com/).
+
+
+{{< button class="fit" text="Contact Artist" href="/contact" >}}

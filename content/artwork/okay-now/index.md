@@ -1,7 +1,7 @@
 ---
 date: 2024-11-21
 title: Okay Now
-description: A watercolor painting featuring a dear old friend, looking onward to the future.
+description: A watercolor painting featuring a dear old friend, looking onward to the future with both hope and concern.
 alt: This watercolor painting portrays an elderly woman with expressive eyes and glasses, gazing thoughtfully out of a weathered wooden window frame.
 author: Benjamin J. Young
 
