@@ -47,9 +47,9 @@ products:
     - id: 720610314
       name: Limited Reproduction
       price: $29
-      left: 3
+      left: 63
 
-limited: 10
+limited: 100
 reproductions:
   - 1: Fred Boone (Canton, OH)
   - 2: Lorie Hobbie (Arlington, TX)
