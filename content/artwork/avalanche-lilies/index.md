@@ -76,6 +76,7 @@ The scene is that of my visual creative take of Avalanche Lilies with Mount Rain
 ## Accolades ##
 
 * Featured in the [3rd Annual Juried Flora Exhibit](https://www.whiterabbitgalleries.org/event-details/flora-3rd-annual-juried-exhibition-2025-01-17-16-00) at the [White Rabbit Galleries](https://www.whiterabbitgalleries.org).
+* **Honorable Mention** at the [3rd Annual Juried Flora Exhibit](https://www.whiterabbitgalleries.org/event-details/flora-3rd-annual-juried-exhibition-2025-01-17-16-00).
 
 ## Charity ##
 
