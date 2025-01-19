@@ -42,12 +42,12 @@ products:
       name: Original Painting
       price: $1,600
       patina: $1,200
-    - id: 716135890
+    - id: 721105464
       name: Limited Reproduction
-      price: $59
-      left: 6
+      price: $29
+      left: 86
 
-limited: 10
+limited: 100
 reproductions:
   - 1: Chloe Oberting (Cuyahoga Falls, OH)
 
