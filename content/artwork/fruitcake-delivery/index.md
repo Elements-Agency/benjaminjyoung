@@ -10,7 +10,7 @@ images: ['painting.jpg']
 videos: []
 
 featured: true
-order: 7
+order: 9
 ratio: landscape
 power: 100
 favorite: true
