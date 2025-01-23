@@ -4,23 +4,6 @@
 
 {{ define "scripts" }}
     {{ partial "inside-scripts.html" . }}
-
-    <script type="text/javascript">
-      fbq('trackCustom', 'ViewSignup');
-      
-      (function (s, e, n, d, er) {
-        s['Sender'] = er;
-        s[er] = s[er] || function () {
-          (s[er].q = s[er].q || []).push(arguments)
-        }, s[er].l = 1 * new Date();
-        var a = e.createElement(n),
-            m = e.getElementsByTagName(n)[0];
-        a.async = 1;
-        a.src = d;
-        m.parentNode.insertBefore(a, m)
-      })(window, document, 'script', 'https://cdn.sender.net/accounts_resources/universal.js', 'sender');
-      sender('3038bbc46b5014')
-    </script>
 {{ end }}
 
 {{ define "main" }}
@@ -43,8 +26,35 @@
               {{- .Content -}}
             </div>
 
-            <div id="lead" style="min-height:500px; overflow:visible;background:#555 url('/images/loader.gif') center no-repeat; padding:2em 0 1em 0;">
-              <div style="text-align:center; " class="sender-form-field" data-sender-form-id="lxeno1ridjlwgac5vxp"></div>
+            <div style="text-align: left" class="sender-form-field">
+              <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
+              <div id="mc_embed_signup">
+                  <form action="https://benjaminjyoung.us14.list-manage.com/subscribe/post?u=5a284b4c27bab02102d3645de&amp;id=a01ee307ec&amp;f_id=00e0c0e0f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
+                      <div id="mc_embed_signup_scroll">
+                          <div class="mc-field-group field"><label for="mce-EMAIL">Email Address <span class="asterisk">*</span></label><input type="email" name="EMAIL" class="required email" id="mce-EMAIL" required="" value=""></div>
+                          <div class="mc-field-group field"><label for="mce-FNAME">First Name </label><input type="text" name="FNAME" class=" text" id="mce-FNAME" value=""></div>
+                          <div class="mc-field-group field"><label for="mce-LNAME">Last Name </label><input type="text" name="LNAME" class=" text" id="mce-LNAME" value=""></div>
+                          <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+                        <div hidden=""><input type="hidden" name="tags" value="7257335"></div>
+                        <div id="mce-responses" class="clear foot">
+                          <div class="response" id="mce-error-response" style="display: none;"></div>
+                          <div class="response" id="mce-success-response" style="display: none;"></div>
+                      </div>
+                      <div aria-hidden="true" style="position: absolute; left: -5000px;">
+                          /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */
+                          <input type="text" name="b_5a284b4c27bab02102d3645de_a01ee307ec" tabindex="-1" value="">
+                      </div>
+                      <div class="optionalParent">
+                          <div class="clear foot">
+                            <ul class="actions">
+                              <li>
+                                <input type="submit" name="subscribe" id="mc-embedded-subscribe" value="Subscribe">
+                              </li>
+                          </div>
+                      </div>
+                  </div>
+              </form>
+            </div>
             </div>
 
             <hr>
