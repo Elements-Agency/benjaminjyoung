@@ -44,8 +44,8 @@ status: sale
 products:
     - id: 654233365
       name: Original Painting
-      price: $300
-      patina: $200
+      price: $290
+      patina: $190
 ---
 
 **Tomb Flowers** is a watercolor pencil drawing, with a brushed and washed colorful background, of white lilies. That's all I really have to say about this artwork piece.

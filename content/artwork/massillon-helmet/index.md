@@ -44,8 +44,8 @@ status: sale
 products:
     - id: 654299512
       name: Original Painting
-      price: $800
-      patina: $600
+      price: $490
+      patina: $390
     - id: 651739322
       name: Coffee Mug
       price: $19.99

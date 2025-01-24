@@ -41,8 +41,8 @@ status: sale
 products:
     - id: 694481795
       name: Original Painting
-      price: $1,200
-      patina: $1,000
+      price: $1,152
+      patina: $890
       pending: true
     - id: 694564503
       name: Limited Reproduction
