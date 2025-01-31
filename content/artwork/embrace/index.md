@@ -64,6 +64,10 @@ This painting is apart of the [Feb 26th Due][/collection/feb-26]
 
 Embrace is a small taste of the narrative I have been trying to ready myself in to painting. Released specifically on December 20th, a date very important and tragic to me. While this surreal painting is set on February 26th, 2020, the prior December 20th had marked the sixth year anniversary of the loss of the woman in the painting. Those six years were a living hell for me. I didn’t want to live through another anniversary. Nor to survive this ordeal in to my 30s. I had planned out my demise for that December 20th, but by pure happenstance, that plan had been delayed. In those final moments before I would fall in to the darkness, this is the acceptance I have illustrated of that private moment. The irony that very acceptance was what allowed the loving man that was lost before to finally return back. The courage gained from facing death would finally allow me to face the loss that caused so much pain the six years prior.
 
+## Accolades ##
+
+* Featured in the [2025 Door 2 Art Show](https://www.door2art.com/artshow) at [Door 2 Art](https://www.door2art.com).
+
 ## Charity ##
 
 As a way of me giving back, 10% of all proceeds (both original and any limited reproductions) will be donated to [National Alliance on Mental Illness](https://www.nami.org). Had it not been for the help and support of this organization, I would not be here today to share my emotions in artwork.
