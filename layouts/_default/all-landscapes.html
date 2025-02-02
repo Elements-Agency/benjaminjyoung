@@ -42,6 +42,9 @@
                 content_ids: [{{ range $page := $section }}{{ if $page.Params.products }}'{{ (index ($page.Params.products) 0).id }}',{{ end }}{{ end }}],
                 content_type: 'product_group'
               });
+              pintrk('track', 'search', {
+                search_query: 'Landscapes'
+              });
             </script>
 
             {{ range $i,$p := (sort $section "Params.power" "desc") }}

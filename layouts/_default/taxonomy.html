@@ -15,6 +15,10 @@
       content_ids: [{{ range $page := .Pages }}{{ if $page.Params.products }}'{{ (index ($page.Params.products) 0).id }}',{{ end }}{{ end }}],
       content_type: 'product_group'
     });
+
+    pintrk('track', 'search', {
+      search_query: 'Taxonomy'
+    });
   </script>
 
   <div id="wrapper">

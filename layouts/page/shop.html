@@ -12,12 +12,16 @@
             content_category: 'Shop',
             content_name: 'Main'
         });
+        pintrk('track', 'search', {
+            search_query: 'Shop'
+        });
 
         xProductBrowser("categoriesPerRow=3","views=grid(20,3) list(60) table(60)","categoryView=grid","searchView=list","id=my-store-101772706");
 
         xSearch("id=my-search-101772706");
 
         fbq('trackCustom', 'ViewShop');
+        pintrk('track', 'shop');
     </script>
 {{ end }}
 

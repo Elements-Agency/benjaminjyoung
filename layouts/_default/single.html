@@ -21,7 +21,12 @@
           {{ end }}
         });
 
+        pintrk('track', 'search', {
+          search_query: 'Artwork'
+        });
+
         fbq('trackCustom', 'ClickAction');
+        pintrk('track', 'action');
       }
 
       var element = document.getElementById('purchase');
@@ -53,6 +58,8 @@
             currency: 'USD',
           {{ end }}
         });
+
+        pintrk('track', 'scroll');
       }
 
       function watchScroll() {
@@ -73,6 +80,8 @@
           value: value,
           currency: 'USD',
         });
+
+        pintrk('track', 'product');
       }
 
       document.addEventListener("DOMContentLoaded", () => {
@@ -82,6 +91,8 @@
           content_category: 'Artwork',
           content_name: '{{- .Title -}}',
         });
+
+        pintrk('track', 'view');
       });
     </script>
 {{ end }}
