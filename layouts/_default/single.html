@@ -354,7 +354,9 @@
                                 {{ if not $product.sold }}
                                   <meta itemprop="availability" content="https://schema.org/InStock" />
                                 {{ end }}
-                                <div class="ecsp-productBrowser-price ecsp-price" itemprop="price" content="{{ trim $product.price '$' }}">
+                                {{ $price := trim $product.price "$" }}
+                                {{ $price = replace $price "," "" }}
+                                <div class="ecsp-productBrowser-price ecsp-price" itemprop="price" content="{{ printf "%.2f" (float $price) }}">
                                   <div itemprop="priceCurrency" content="USD"></div>
                                 </div>
                               </div>
