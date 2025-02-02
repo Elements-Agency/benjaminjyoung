@@ -20,12 +20,13 @@
             currency: 'USD',
           {{ end }}
         });
-
+        rdt('track', 'Search');
         pintrk('track', 'search', {
           search_query: 'Artwork'
         });
 
         fbq('trackCustom', 'ClickAction');
+        rdt('track', 'Custom', { customEventName: 'Click Action' });
         pintrk('track', 'action');
       }
 
@@ -58,7 +59,7 @@
             currency: 'USD',
           {{ end }}
         });
-
+        rdt('track', 'Custom', { customEventName: 'View Product' });
         pintrk('track', 'scroll');
       }
 
@@ -80,7 +81,7 @@
           value: value,
           currency: 'USD',
         });
-
+        rdt('track', 'Custom', { customEventName: 'Click Product' });
         pintrk('track', 'product');
       }
 
@@ -91,7 +92,7 @@
           content_category: 'Artwork',
           content_name: '{{- .Title -}}',
         });
-
+        rdt('track', 'Custom', { customEventName: 'View Painting' });
         pintrk('track', 'view');
       });
     </script>

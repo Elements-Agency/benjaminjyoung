@@ -12,6 +12,7 @@
         content_ids: [{{ range $page := .Paginator.Pages }}{{ if $page.Params.products }}'{{ (index ($page.Params.products) 0).id }}',{{ end }}{{ end }}],
         content_type: 'product_group'
       });
+      rdt('track', 'Search');
       pintrk('track', 'search', {
         search_query: 'All'
       });
