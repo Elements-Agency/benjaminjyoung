@@ -58,6 +58,8 @@ tag: February 26th, 2020. “You’ve grown tired, have’t you dear?”, she re
 
 <!--more-->
 
+{{< cta >}}
+
 This painting is apart of the [Feb 26th Collection](/collection/feb-26)
 
 ### Inspiration ###
