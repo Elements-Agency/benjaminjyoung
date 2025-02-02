@@ -40,6 +40,7 @@ In a monument of both the boredom of winter, and desperation, I found an old set
     * **GROUP** [Surface and Structure: A Dialogue in Texture](https://artsinstark.com/surface-and-structure-a-dialogue-in-texture-opens-january-16-at-the-cultural-center-gallery/?fbclid=IwY2xjawHs4upleHRuA2FlbQIxMAABHVuxYcp1388QiP1wHwfzSl_zD5yaXzqCEaEzwQRiffFD4fi50l4KhCRbIQ_aem_y6Loqj6coj59e3x-HEd1yg) hosted at the [Canton Cultural Center Gallery](https://culturalcenterforthearts.com).
     * **JURIED** [Door 2 Art Show](https://www.door2art.com/artshow) hosted at [Door 2 Art](https://www.door2art.com).
     * **GROUP** New Artist Showcase at [The Hub Art Factory](https://www.thehubcanton.com).
+    * **GROUP** [Stark County Bar Association's](https://starkctybar.com) Law in Art Exhibit at [Cyrus Custom Framing & Art Gallery](https://www.cyruscustom.com).
   * 2024
     * **GROUP** [Patina First Fundraiser: A Celebration of Art, Community, and Creativity](https://www.facebook.com/events/869821251632238/) hosted at [Patina Arts Centre](https://www.patinaartscentre.com).
     * **JURIED**  [Brown's Town: Art Inspired by Ohio's Football Heritage](https://paulbrownmuseum.org/exhibits/detail/browns-town-art-inspired-by-ohios-football-heritage) hosted at [Massillon Museum](http://massillonmuseum.org/).
