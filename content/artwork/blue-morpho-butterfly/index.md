@@ -26,7 +26,7 @@ mediums: [watercolor]
 materials: [cotton paper]
 colors: [blue, green, brown, black]
 collections: []
-locations: [patina]
+locations: [office]
 tags: [butterfly, insect, leaf, wings, summer, cool, outdoors]
 
 inventory:

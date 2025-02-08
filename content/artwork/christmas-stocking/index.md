@@ -26,7 +26,7 @@ mediums: [watercolor]
 materials: [paper]
 colors: [red, white, black]
 collections: []
-locations: [patina]
+locations: [office]
 tags: [christmas, stocking, holidary, cheer, dark, winter, ben, resident, artist]
 
 inventory:

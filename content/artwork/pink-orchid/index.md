@@ -26,7 +26,7 @@ mediums: [watercolor, graphite]
 materials: [cotton paper]
 colors: [pink, white, green]
 collections: [watercolor sketches]
-locations: [patina]
+locations: [office]
 tags: [orchid, flower, stem, petals, plant, summer, outdoors]
 
 inventory:

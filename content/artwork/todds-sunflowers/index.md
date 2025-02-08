@@ -26,7 +26,7 @@ mediums: [watercolor, graphite]
 materials: [cotton paper]
 colors: [yellow, green, brown]
 collections: [watercolor sketches]
-locations: [patina]
+locations: [office]
 tags: [sunflower, flower, stem, leaf, petals, plant, summer, outdoors]
 
 inventory:

@@ -26,7 +26,7 @@ mediums: [watercolor, graphite]
 materials: [cotton paper]
 colors: [blue, purple, green]
 collections: [watercolor sketches]
-locations: [patina]
+locations: [office]
 tags: [bluebell, flower, stem, petals, plant, spring, outdoors]
 
 inventory:

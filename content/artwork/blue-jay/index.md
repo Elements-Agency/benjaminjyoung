@@ -29,7 +29,7 @@ mediums: [watercolor pencil]
 materials: [cotton paper]
 colors: [blue, white, grey, brown]
 collections: [primary winter birds]
-locations: [patina]
+locations: [office]
 tags: [blue jay, bird, outdoors, nature, winter, snow, log, tree, berries, perched, cool, overcast]
 
 inventory:

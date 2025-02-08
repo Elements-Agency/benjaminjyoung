@@ -29,7 +29,7 @@ mediums: [watercolor pencil]
 materials: [paper]
 colors: [white, blue, green]
 collections: [lilies, reserved]
-locations: [patina]
+locations: [office]
 tags: [lily, flower, tomb, resting, andrea, aj, andrea, surreal, spring, cool, loss, number two]
 
 inventory:
