@@ -38,6 +38,7 @@ Coming VERY soon.
 
   * Upcoming
     * March 2nd - **GROUP** New Artist Showcase at [The Hub Art Factory](https://www.thehubcanton.com).
+    * March 7th - **JURIED** [Bryn Du Art Show](https://www.bryndu.com/bryn-du-art-show) at the [Bryn Du Mansion](https://www.bryndu.com).
     * March 13th - **JURIED** [Door 2 Art Show](https://www.door2art.com/artshow) hosted at [Door 2 Art](https://www.door2art.com).
     * April 1st - **GROUP** Itty Bitty Art Exhibby at [Brewtifully](https://www.tracydawnbrewer.com)
     * September 12th - **GROUP** [Stark County Bar Association's](https://starkctybar.com) Law in Art Exhibit at [Cyrus Custom Framing & Art Gallery](https://www.cyruscustom.com).
