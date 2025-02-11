@@ -44,12 +44,12 @@ products:
       price: $1,680
       patina: $1190
       pending: true
-    - id: 720610314
+    - id: 711216285
       name: Limited Reproduction
       price: $29
-      left: 63
+      left: 3
 
-limited: 100
+limited: 10
 reproductions:
   - 1: Fred Boone (Canton, OH)
   - 2: Lorie Hobbie (Arlington, TX)
