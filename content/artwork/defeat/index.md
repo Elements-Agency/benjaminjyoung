@@ -33,6 +33,13 @@ tags: [human, figure, tennis, racket, summer, emotion, agony, failure, warm, out
 inventory:
   - patina: 2025-02-02 - current
 
+status: sale
+products:
+    - id: 726369026
+      name: Limited Reproduction
+      price: $29
+      left: 9
+
 limited: 10
 
 tag: A few years ago I had accomplished a dream of mine and won my way with my beloved team to the United States Tennis Association National Championships. I had spent many years prior, captaining and building teams just to fall short of winning districts each year. Finally winning our season, sectionals, districts, state, and then winning the Midwest championship; we finally did it. This painting isn't about the feeling of defeat on the court, as that's always a chance to improve and grow. I didn't lose in that aspect, because I was nearly undefeated that year and was almost a guaranteed win on doubles. This painting represents the agony, disappointment, disgust, and deceit, I felt when I learned I could not go to play alongside my friends in the championship in Scottsdale Arizona. I had let my team down and missed out on a once in a lifetime accomplishment.
