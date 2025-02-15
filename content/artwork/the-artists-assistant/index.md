@@ -43,6 +43,9 @@ products:
       name: Limited Reproduction
       price: $29
       left: 5
+    - id: 727455556
+      name: Greeting Card
+      price: $7.99
     - id: 675661538
       name: Original Painting
       price: $500
