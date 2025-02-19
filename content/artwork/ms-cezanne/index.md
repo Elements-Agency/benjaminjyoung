@@ -33,7 +33,8 @@ locations: [sold]
 tags: [human, female, lady, woman, nude, recline, pose, paul, cezanne, outdoors, figure, repose, rich, warm, earthy, warm]
 
 inventory:
-  - home: 2024-09-29 - current
+  - patina: 2025-02-01 - current
+  - home: 2024-09-29 - 2025-02-01
   - patina: 2024-07-27 - 2024-09-29
   - home: 2024-01-20 - 2024-07-27
 

@@ -35,7 +35,7 @@ inventory:
   - home: 2024-09-10 - 2024-09-16
 
 planning:
-  - brydu: 2025-03-01 - 2025-03-30
+  - thehub: 2025-03-04 - 2025-03-11
 
 status: sale
 products:

@@ -27,11 +27,13 @@ mediums: [oil]
 materials: [canvas]
 colors: [black, blue, tan, brown, grey]
 collections: [the dark trio, figures facing from view, reserved]
-locations: [culturalcenter, print]
+locations: [door2art, print]
 tags: [song, chair, scissors, woman, man, figure, rope, dark, melancholy, sad, tied, bound, broken, intimate, fixing, trauma, cut, indoors, warm, ben, fat, loss, number five]
 
 inventory:
-  - culturalcenter: 2025-01-10 - current
+  - door2art: 20215-02-19 - current
+  - patina: 20215-02-18 - 20215-02-19
+  - culturalcenter: 2025-01-10 - 20215-02-18
   - patina: 2024-10-24 - 2025-01-10
   - cyrus: 2024-10-18 - 2024-10-24
   - patina: 2024-10-13 - 2024-10-18

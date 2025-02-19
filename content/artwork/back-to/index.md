@@ -40,7 +40,8 @@ locations: [sold]
 tags: [human, figure, hiker, snow, winter, trail, trees, forest, tracks, outdoors, evening, snowy, snowfall, hazy, lonely, isolation, tiring, cool, melancholy]
 
 inventory:
-  - home: 2024-06-29 - current
+  - patina: 2025-02-01 - current
+  - home: 2024-06-29 - 2025-02-01
   - patina: 2024-05-18 - 2024-06-29
   - home: 2024-05-02 - 2024-05-18
   - cyrus: 2024-04-18 - 2024-05-02

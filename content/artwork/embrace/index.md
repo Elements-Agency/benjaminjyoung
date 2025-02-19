@@ -27,11 +27,12 @@ mediums: [oil]
 materials: [canvas]
 colors: [black, brown, white]
 collections: [feb 26]
-locations: [patina]
+locations: [door2art]
 tags: [woman, lady, man, smoke, embrace, hug, couple, death, figure, love, suit, dress, dark, indoors, dramatic, winter, surreal]
 
 inventory:
-  - patina: 2024-12-20 - current
+  - door2art: 20215-02-19 - current
+  - patina: 2024-12-20 - 20215-02-19
 
 planning:
   - door2art: 2025-02-10 - 2025-03-17

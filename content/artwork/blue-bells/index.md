@@ -30,7 +30,8 @@ locations: [office]
 tags: [bluebell, flower, stem, petals, plant, spring, outdoors]
 
 inventory:
-  - home: 2024-10-26 - current
+  - patina: 2025-02-01 - current
+  - home: 2024-10-26 - 2025-02-01
 
 hours: 1
 frame cost: $0

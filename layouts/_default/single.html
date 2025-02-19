@@ -314,6 +314,51 @@
                 </p>
               {{ end }}
 
+              {{ if in .Params.locations "door2art" }}
+                <h2>Where To Visit</h2>
+                <p>
+                  The <strong>original painting</strong> is currently on display at
+                  <a href="https://www.door2art.com" onclick="fbq('track', 'FindLocation');" target="_blank">
+                    Door 2 Art
+                  </a>
+                  in Hudson Ohio, and can be viewed there.
+                  The address is
+                  <a href="https://maps.app.goo.gl/wFfVVFcgkWc3rrDt6" onclick="fbq('track', 'FindLocation');" target="_blank">
+                    5374 Darrow Rd, Hudson, OH 44236
+                  </a>
+                </p>
+              {{ end }}
+
+              {{ if in .Params.locations "door2art" }}
+                <h2>Where To Visit</h2>
+                <p>
+                  The <strong>original painting</strong> is currently on display at
+                  <a href="https://www.thehubcanton.com" onclick="fbq('track', 'FindLocation');" target="_blank">
+                    The Hub Art Factory
+                  </a>
+                  in Canton Ohio, and can be viewed there.
+                  The address is
+                  <a href="https://maps.app.goo.gl/mcBm1Wfsyoor8ALz9" onclick="fbq('track', 'FindLocation');" target="_blank">
+                    336 6th St NW, Canton, OH 44702
+                  </a>
+                </p>
+              {{ end }}
+
+              {{ if in .Params.locations "door2art" }}
+                <h2>Where To Visit</h2>
+                <p>
+                  The <strong>original painting</strong> is currently on display at the
+                  <a href="https://www.bryndu.com" onclick="fbq('track', 'FindLocation');" target="_blank">
+                    Bryn Du Mansion
+                  </a>
+                  in Granville Ohio, and can be viewed there.
+                  The address is
+                  <a href="https://maps.app.goo.gl/TPYb3ncUktvwQdFu6" onclick="fbq('track', 'FindLocation');" target="_blank">
+                    537 Jones Rd NE, Granville, OH 43023
+                  </a>
+                </p>
+              {{ end }}
+
               {{ if or (eq .Params.status "sale") (eq .Params.status "sold") }}
                 <article id="purchase" class="clear">
                   <div class="box clear" style="background-color: #eee;">

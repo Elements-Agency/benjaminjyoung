@@ -30,7 +30,8 @@ locations: [office]
 tags: [sunflower, flower, stem, leaf, petals, plant, summer, outdoors]
 
 inventory:
-  - home: 2024-09-21 - current
+  - patina: 2025-02-01 - current
+  - home: 2024-09-21 - 2025-02-01
 
 status: sale
 products:

@@ -33,6 +33,9 @@ tags: [human, figure, tennis, racket, summer, emotion, agony, failure, warm, out
 inventory:
   - patina: 2025-02-02 - current
 
+planning:
+  - thehub: 2025-03-04 - 2025-03-11
+
 status: sale
 products:
     - id: 726369026

@@ -29,11 +29,12 @@ mediums: [oil pastel]
 materials: [construction paper]
 colors: [green, brown, white]
 collections: []
-locations: [storage]
+locations: [office]
 tags: [wine, bottle, pitcher, jug, wood, bowl, tablecloth, dropcloth, dining, room, table, backdrop, warm, indoors]
 
 inventory:
-  - home: 2024-07-27 - current
+  - patina: 2025-02-01 - current
+  - home: 2024-07-27 - 2025-02-01
   - patina: 2024-05-18 - 2024-07-27
   - home: 2023-12-15 - 2024-06-08
 
