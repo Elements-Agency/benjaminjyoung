@@ -198,32 +198,6 @@
                 </div>
               {{ end }}
 
-              {{ if in .Params.locations "patina" }}
-                <h2>Where To Visit</h2>
-                <p>
-                  {{ if eq .Params.status "sold" }}
-                    A <strong>limited reproduction</strong>
-                  {{ else }}
-                    The <strong>original painting</strong>
-                  {{ end }}
-                  is currently on display at
-                  <a href="https://www.patinaartscentre.com" onclick="fbq('track', 'FindLocation');" target="_blank">
-                    Patina Arts Centre
-                  </a>
-                  in Canton Ohio, and can be viewed there.
-                  The address is
-                  <a href="https://maps.app.goo.gl/JWTQp1JTtvitaH6J7" onclick="fbq('track', 'FindLocation');" target="_blank">
-                    324 Cleveland Ave NW, Canton, OH 44702.
-                  </a>
-                </p>
-
-                {{ if eq .Params.status "sold" }}
-                  <p>
-                    The <strong>original painting</strong> has sold and remains with the buyer.
-                  </p>
-                {{ end }}
-              {{ end }}
-
               {{ if in .Params.locations "massmu" }}
                 <h2>Where To Visit</h2>
                 <p>

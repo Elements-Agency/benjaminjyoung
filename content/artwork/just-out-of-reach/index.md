@@ -27,7 +27,7 @@ mediums: [watercolor]
 materials: [cotton paper]
 colors: [white, blue, black]
 collections: [winter escape, figures facing from view]
-locations: [patina]
+locations: [office]
 tags: [human, figure, snow, winter, cabin, collapse, death, forest, cool, cold, outdoors, night]
 
 inventory:

@@ -19,7 +19,7 @@ timeout = '600'
 
 [params]
   commentoEnable = false
-  location = "324 Cleveland Ave NW. Canton, Ohio 44702. USA."
+  location = "Studio #22. 318 Cleveland Ave NW. Canton, Ohio 44702. USA."
   sale = "Winter Sale. 10% OFF all orders using discount code 'SNOWFALL'. Until March 20th. Or receive 20% OFF when you"
   favicon = '/favicon.ico'
   [params.social]

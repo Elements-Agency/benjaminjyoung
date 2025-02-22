@@ -26,7 +26,7 @@ mediums: [oil]
 materials: [canvas]
 colors: [brown, white, black]
 collections: [tiny canvas]
-locations: [patina]
+locations: [office]
 tags: [american, football, sports, ball, dark, indoors, canton, massillon, ohio, warm]
 
 inventory:

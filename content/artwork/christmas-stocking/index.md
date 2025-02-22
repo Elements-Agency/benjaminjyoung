@@ -37,4 +37,4 @@ This watercolor painting depicts a bold and festive red Christmas stocking adorn
 
 <!--more-->
 
-Not a serious piece, but I painted this over a few hours to have a decoration to throw up as my "Christmas Stocking" as a resident artist of [Patina Arts Centre](http://patinaartscentre.com/). The artwork is currently not for sale and is meant to be only decorative for me personally.
+Not a serious piece, but I painted this over a few hours to have a decoration to throw up as my "Christmas Stocking" as a resident artist of Patina Arts Centre. The artwork is currently not for sale and is meant to be only decorative for me personally.

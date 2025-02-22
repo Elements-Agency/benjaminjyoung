@@ -8,7 +8,7 @@ images:
     - residence.jpg
 ---
 
-The last month has been prepping mainly for the biggest sale I will do, celebrating both the holidays and one year of painting. The only exhibit I have going on right now is the closing reception for the [Patina Resident Artist Showcase](http://patinaartscentre.com/). However, I have a plethora of upcoming exhibits I am spamming to apply to. My only problem right now is my limitation of original paintings I have left to apply with to exhibits.
+The last month has been prepping mainly for the biggest sale I will do, celebrating both the holidays and one year of painting. The only exhibit I have going on right now is the closing reception for the Patina Resident Artist Showcase. However, I have a plethora of upcoming exhibits I am spamming to apply to. My only problem right now is my limitation of original paintings I have left to apply with to exhibits.
 
 <!--more-->
 

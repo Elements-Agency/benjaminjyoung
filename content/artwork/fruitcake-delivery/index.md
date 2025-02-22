@@ -27,7 +27,7 @@ mediums: [watercolor]
 materials: [paper]
 colors: [blue, white, black, yellow]
 collections: [shades of olson, figures facing from view, reserved]
-locations: [patina, print]
+locations: [office]
 tags: [house, fruitcake, delivery, truck, driver, figure, package, light, windows, tree, snow, street, outdoors, winter, solitary, rustic, whimsical, shenanigans, massillon, ohio, number five]
 
 inventory:
@@ -73,7 +73,7 @@ Sticking to my natural style, I start off with a wash using wet-on-wet. Then bui
 
 ## Accolades ##
 
-* Featured in the [2024 Patina Resident Artist Exhibit](https://www.facebook.com/events/512553025101953) at [Patina Arts Centre](https://www.patinaartscentre.com).
+* Featured in the [2024 Patina Resident Artist Exhibit](https://www.facebook.com/events/512553025101953) at Patina Arts Centre.
 
 ## Charity ##
 

@@ -29,7 +29,7 @@ mediums: [watercolor]
 materials: [cotton paper]
 colors: [grey, blue]
 collections: [the colors of water]
-locations: [patina]
+locations: [office]
 tags: [lake, water, boat, human, figure, dark, mist, ripples, forrest, hills, outdoors, spring, dusk, cool]
 
 inventory:

@@ -27,7 +27,7 @@ mediums: [watercolor]
 materials: [paper]
 colors: [brown, yellow, white, black]
 collections: [figures facing from view, shades of olson]
-locations: [patina, print]
+locations: [office]
 tags: [hills, father, jay, howard, farm, house, old, man, figure, tree, muted, countryside, building, outdoors, autumn, solitary, rustic, farmhouse, appalachia, east sparta, ohio]
 
 inventory:
@@ -83,7 +83,7 @@ I first built the wash of the sky up and then mainly worked my way down the pain
 ## Accolades ##
 
 * Featured in the [1st Annual Juried ActLoCLE Exhibit](https://www.actlocle.org/).
-* Featured in the [2024 Patina Resident Artist Exhibit](https://www.facebook.com/events/512553025101953) at [Patina Arts Centre](https://www.patinaartscentre.com).
+* Featured in the [2024 Patina Resident Artist Exhibit](https://www.facebook.com/events/512553025101953) at Patina Arts Centre.
 
 ## Charity ##
 

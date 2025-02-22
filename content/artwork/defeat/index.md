@@ -27,7 +27,7 @@ mediums: [watercolor]
 materials: [cotton paper]
 colors: [white, blue, tan]
 collections: []
-locations: [patina]
+locations: [office]
 tags: [human, figure, tennis, racket, summer, emotion, agony, failure, warm, outdoors, day]
 
 inventory:

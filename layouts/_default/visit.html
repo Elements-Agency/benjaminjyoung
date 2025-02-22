@@ -21,9 +21,7 @@
             <header class="major">
                 <h1>{{ .Title }}</h1>
             </header>
-
-            <p>You can visit some of my artwork and paintings at <a href="http://patinaartscentre.com/">Patina Arts Centre</a>.</p>
-
+            
             {{ $posts := slice }}
             {{ range (sort .Site.RegularPages "Params.power" "desc") }}
                 {{ if in .Params.locations $.Params.place }}

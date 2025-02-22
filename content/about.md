@@ -48,13 +48,13 @@ Coming VERY soon.
     * **JURIED** [Flora Exhibition](https://www.whiterabbitgalleries.org/event-details/flora-3rd-annual-juried-exhibition-2025-01-17-16-00) hosted at [White Rabbit Galleries](https://www.whiterabbitgalleries.org).
     * **GROUP** [Surface and Structure: A Dialogue in Texture](https://artsinstark.com/surface-and-structure-a-dialogue-in-texture-opens-january-16-at-the-cultural-center-gallery/?fbclid=IwY2xjawHs4upleHRuA2FlbQIxMAABHVuxYcp1388QiP1wHwfzSl_zD5yaXzqCEaEzwQRiffFD4fi50l4KhCRbIQ_aem_y6Loqj6coj59e3x-HEd1yg) hosted at the [Canton Cultural Center Gallery](https://culturalcenterforthearts.com).
   * 2024
-    * **GROUP** [Patina First Fundraiser: A Celebration of Art, Community, and Creativity](https://www.facebook.com/events/869821251632238/) hosted at [Patina Arts Centre](https://www.patinaartscentre.com).
+    * **GROUP** [Patina First Fundraiser: A Celebration of Art, Community, and Creativity](https://www.facebook.com/events/869821251632238/) hosted at Patina Arts Centre.
     * **JURIED**  [Brown's Town: Art Inspired by Ohio's Football Heritage](https://paulbrownmuseum.org/exhibits/detail/browns-town-art-inspired-by-ohios-football-heritage) hosted at [Massillon Museum](http://massillonmuseum.org/).
-    * **GROUP** [Wings and Whimsy: the Art of Taking Flight](https://www.facebook.com/events/1031065925277126) hosted at [Patina Arts Centre](http://patinaartscentre.com/).
+    * **GROUP** [Wings and Whimsy: the Art of Taking Flight](https://www.facebook.com/events/1031065925277126) hosted at Patina Arts Centre.
     * **JURIED**  [Rod Meadows Art Call](https://www.juilliardartscenter.com/ron-meadows-art-call-2024.html) hosted at [Juilliard Arts Center](https://www.juilliardartscenter.com).
     * **JURIED**  [ActLoCLE Exhibit](https://www.actlocle.org/) hosted Online for the Cleveland Ohio area.
     * **GROUP** [The Art of Toys Exhibit](https://www.facebook.com/events/886574973454122) hosted at [BZTAT Studios](http://bztatstudios.com).
-    * **GROUP** [Resident Artist Showcase](https://www.facebook.com/events/512553025101953) hosted at [Patina Arts Centre](http://patinaartscentre.com/).
+    * **GROUP** [Resident Artist Showcase](https://www.facebook.com/events/512553025101953) hosted at Patina Arts Centre.
 
 
 {{< button class="fit" text="Contact Artist" href="/contact" >}}

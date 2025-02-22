@@ -13,7 +13,7 @@ I'm currently playing catch up with writing newsletters and showing off my paint
 
 {{< img span="image fit" link="http://patinaartscentre.com/" src="patina.jpg" alt="Patina Arts Centre Front Door" title="Patina Arts Centre" >}}
 
-I also have moved in to [Patina Arts Centre](http://patinaartscentre.com/) as a resident artist. I have some artwork hanging up there, so feel free to go visit during their business hours and you can find me on the second floor.
+I also have moved in to Patina Arts Centre as a resident artist. I have some artwork hanging up there, so feel free to go visit during their business hours and you can find me on the second floor.
 
 First off, let's start off with the last month of new paintings:
 
