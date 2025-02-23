@@ -87,7 +87,7 @@ timeout = '600'
 
 [related]
   includeNewer = true
-  threshold = 100
+  threshold = 50
   toLower = false
 [[related.indices]]
     name = 'series'

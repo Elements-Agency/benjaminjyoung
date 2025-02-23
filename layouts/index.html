@@ -99,7 +99,7 @@
 						<!-- Gallery -->
                         <div class="gallery style1 medium onscroll-fade-in">
                             {{ range $i,$p := (sort $section "Params.order" "asc") }}
-                                {{ if lt $i 8 }}
+                                {{ if lt $i 12 }}
                                     {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
                                     {{ $thumbnail := $thumbnail.Fill "420x350 Center" }}
                                     {{ $thumbnail := $thumbnail.Resize "420x webp q90" }}
