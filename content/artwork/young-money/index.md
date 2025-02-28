@@ -31,7 +31,7 @@ locations: [home]
 tags: [human, figure, office, work, room, desk, shadow, melancholy, success, warm, indoors, day]
 
 inventory:
-  - home: 2025-02-023 - current
+  - home: 2025-02-23 - current
 
 limited: 10
 

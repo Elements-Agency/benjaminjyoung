@@ -9,7 +9,7 @@ aliases: [/standoff, /artwork/stand-off, /arwtwork/standoff]
 images: ['painting.jpg']
 videos: []
 
-featured: true
+featured: false
 order: 7
 ratio: landscape
 power: 97
