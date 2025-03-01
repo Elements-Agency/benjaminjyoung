@@ -11,7 +11,7 @@ I'm currently playing catch up with writing newsletters and showing off my paint
 
 <!--more-->
 
-{{< img span="image fit" link="http://patinaartscentre.com/" src="patina.jpg" alt="Patina Arts Centre Front Door" title="Patina Arts Centre" >}}
+{{< img span="image fit" src="patina.jpg" alt="Patina Arts Centre Front Door" title="Patina Arts Centre" >}}
 
 I also have moved in to Patina Arts Centre as a resident artist. I have some artwork hanging up there, so feel free to go visit during their business hours and you can find me on the second floor.
 
