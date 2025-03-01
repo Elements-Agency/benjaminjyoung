@@ -26,7 +26,7 @@ As for paintings completed, I have three main pieces I've been working on comple
     {{< preview col="4" painting="/artwork/standoff/" >}}
 {{< row-end >}}
 
-I also had two minor paintings completed, that are apart of my [watercolor sketch collection](collections/watercolor-sketches). More artwork will be coming to completion soon.
+I also had two minor paintings completed, that are apart of my [watercolor sketch collection](/collections/watercolor-sketches). More artwork will be coming to completion soon.
 
 The other big piece of news, is I am now coming up on the 1 year anniversary of starting painting. I know that can be surprising to some of you to believe I have only been painting for a year! For me it's surprising it's been a year already! However, to help celebrate that anniversary, I'm having my biggest sales yet. **50% OFF all originals!** Now until the end of the year. Just use the discount code **DEC20ANNIVERSARY** at checkout. This will help support me in continuing to paint and set aside more time to keep up with my developing craft. I would like to thank all my supporters, collectors, and buyers for this amazing past year. Thank you!
 

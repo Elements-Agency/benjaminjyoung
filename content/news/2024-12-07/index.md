@@ -16,7 +16,7 @@ The last month has been prepping mainly for the biggest sale I will do, celebrat
     {{< img col="12" span="image fit" src="residence.jpg" alt="Patina Resident Artist Showcase" title="Patina Resident Artist Showcase" >}}
 {{< row-end >}}
 
-As for paintings completed, I just have two. One done not as a serious piece, but more for decoration, [Christmas Stocking](/artwork/christmans-stocking). The other, one of my favorites painted so far, [Okay Now](/artwork/okay-now).
+As for paintings completed, I just have two. One done not as a serious piece, but more for decoration, [Christmas Stocking](/artwork/christmas-stocking). The other, one of my favorites painted so far, [Okay Now](/artwork/okay-now).
 
 {{< row-start >}}
     {{< preview col="6" painting="/artwork/okay-now/" >}}

@@ -4,7 +4,7 @@ title: Tiny Football
 description: Tiny Football is a tiny canvas painted with oil for Canton Ohio's sports economy.
 alt: This painting by Ben Young is a close up oil painting of an american football ball.
 
-aliases: [/tiny-football]
+aliases: [/artwork/tiny-fooball, /tiny-football]
 images: ['painting.jpg']
 videos: []
 

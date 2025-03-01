@@ -7,7 +7,7 @@ author: Benjamin J. Young
 
 progress: The technique with the water was to stay loose, like I did with Sailing Away Schoon. Borrowing a lot of my usage of colors and values from Escape, but trying to improve on it after learning my realism technique in Oil Painting. I used almost entirely watercolor paint, but did incorporated blots of white gouache to give parts of the clouds it's texture. As well as the signature incorporated a mixture of white gouache and blue watercolor mixed together, to set someone contrast but subtle in the lower right corner in the depths of the dark water.
 
-aliases: [/jennys-contemplation, /artwork/jennys-contemplation, /artwork/jenis-contemplation, /artwork/just-another-addict, /addicts-contemplation]
+aliases: [/jennys-contemplation, /artwork/jennys-contemplation, /artwork/jenis-contemplation, /artwork/just-another-addict, /artwork/adicts-contemplation, /addicts-contemplation]
 images: ['painting.jpg']
 videos: []
 
