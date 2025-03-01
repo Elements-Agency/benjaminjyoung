@@ -139,8 +139,22 @@
                 {{ $top := $top.Fit "3200x3200 q100" }}
 
                 <a class="painting preview" href="{{ $top.RelPermalink }}" data-gall="progress" data-position="center" title="{{ .Title }} by {{ .Params.author | default .Site.Params.author }}">
-                  <div class="loader" style="url('/images/loader.gif') center no-repeat;">
-                    <img class="image fit" src="{{ $full.RelPermalink }}" alt="{{ .Params.alt }}" title='{{ .Title }} ({{ .Date| time.Format "2006" }}) by Ben Young'>
+                  <div class="loader" style="url('/images/loader.gif') center no-repeat;" itemscope itemtype="https://schema.org/ImageObject">
+                    <img class="image fit" src="{{ $full.RelPermalink }}" alt="{{ .Params.alt }}" title='{{ .Title }} ({{ .Date| time.Format "2006" }}) by Ben Young' itemprop="contentUrl">
+                    <div style="display:none; height:0;">
+                      <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                        <meta itemprop="name" content="{{ .Params.author }}" />
+                      </span>
+                      <span itemprop="copyrightNotice">
+                        {{ with $.Site.Copyright | default $.Site.Title }}
+                          &copy;
+                          {{ $.Date | time.Format "2006" }}
+                          {{ . | safeHTML }}
+                          All rights reserved.
+                        {{ end }}
+                      </span>
+                      <span itemprop="creditText">{{ $.Site.Copyright }}</span>
+                    </div>
                   </div>
                 </a>
               </section>

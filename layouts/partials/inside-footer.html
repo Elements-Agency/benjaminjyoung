@@ -77,11 +77,12 @@
 <div id="copyright">
     <ul>
         <li>
-          &copy;
           {{ with .Site.Copyright | default .Site.Title }}
-            {{ . | safeHTML }}
+            &copy;
             2023 -
             {{ now.Format "2006"}}
+            {{ . | safeHTML }}
+            All rights reserved.
           {{ end }}
         </li>
         <li>

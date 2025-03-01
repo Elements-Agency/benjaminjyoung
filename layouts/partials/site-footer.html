@@ -3,7 +3,7 @@
 
   <ul class="copyright">
     <li>
-      &copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006"}}. {{ end }}
+      &copy; {{ now.Format "2006"}} {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }}. {{ end }} All rights reserved.
     </li>
     <li>
         <a href="/privacy">Privacy Policy</a>
