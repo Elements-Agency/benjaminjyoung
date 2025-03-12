@@ -34,7 +34,8 @@ inventory:
   - patina: 2024-11-21 - current
 
 planning:
-  - brydu: 2025-03-01 - 2025-03-30
+  - brydu: 2025-03-01 - 2025-03-30 (confirmed)
+  - summit: 2025-03-24 - 2025-06-16
   - ows: 2025-05-03 - 2025-08-03
 
 status: sale

@@ -42,6 +42,7 @@ inventory:
 
 planning:
   - door2art: 2025-02-10 - 2025-03-17
+  - mansfield: 2025-03-20 - 2025-04-20
 
 status: sale
 products:

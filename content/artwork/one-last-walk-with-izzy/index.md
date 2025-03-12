@@ -36,6 +36,7 @@ inventory:
 
 planning:
   - summit: 2024-12-20 - 2025-03-16 (confirmed)
+  - mansfield: 2025-03-20 - 2025-04-20
 
 status: sale
 products:
