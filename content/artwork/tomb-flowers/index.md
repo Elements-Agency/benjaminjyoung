@@ -29,22 +29,26 @@ mediums: [watercolor pencil]
 materials: [paper]
 colors: [white, blue, green]
 collections: [lilies, reserved]
-locations: [office]
+locations: [sold]
 tags: [lily, flower, tomb, resting, andrea, aj, andrea, surreal, spring, cool, loss, number two]
 
 inventory:
-  - patina: 2024-12-01 - current
+  - buyer: 2024-04-12
+  - patina: 2024-12-01 - 2024-04-12
   - home: 2024-09-04 - 2024-12-01
   - patina: 2024-05-18 - 2024-09-04
   - home: 2024-05-02 - 2024-05-18
   - cyrus: 2024-04-18 - 2024-05-02
-  - home: 2024-03-14 - 2024-04-18=
+  - home: 2024-03-14 - 2024-04-18
 
-status: sale
+buyer: Fred Boone (Canton, OH)
+
+status: sold
 products:
     - id: 654233365
       name: Original Painting
       price: $200
+      sold: true
 ---
 
 **Tomb Flowers** is a watercolor pencil drawing, with a brushed and washed colorful background, of white lilies. That's all I really have to say about this artwork piece.

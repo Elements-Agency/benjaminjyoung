@@ -27,7 +27,7 @@ mediums: [watercolor]
 materials: [cotton paper]
 colors: [red, black]
 collections: []
-locations: [office]
+locations: [sold]
 tags: [bug, ladybug, insect, creepy]
 
 inventory:
