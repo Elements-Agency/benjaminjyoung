@@ -28,7 +28,7 @@ categories: [realism, landscape, floral, painting]
 mediums: [watercolor]
 materials: [paper]
 colors: [yellow, brown, white, green]
-collections: [lilies, reserved]
+collections: [lilies, reserved, timeline]
 locations: [kolp]
 tags: [avalanche, mountain, field, snow, grass, flower, lily, petal, leaf, rock, warm, outside, autumn, number two]
 

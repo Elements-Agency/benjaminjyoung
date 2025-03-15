@@ -26,7 +26,7 @@ categories: [realism, narrative, painting]
 mediums: [watercolor]
 materials: [cotton paper]
 colors: [white, blue, tan]
-collections: []
+collections: [timeline]
 locations: [kolp]
 tags: [human, figure, tennis, racket, summer, emotion, agony, failure, warm, outdoors, day]
 
@@ -51,7 +51,7 @@ limited: 10
 tag: A few years ago I had accomplished a dream of mine and won my way with my beloved team to the United States Tennis Association National Championships. I had spent many years prior, captaining and building teams just to fall short of winning districts each year. Finally winning our season, sectionals, districts, state, and then winning the Midwest championship; we finally did it. This painting isn't about the feeling of defeat on the court, as that's always a chance to improve and grow. I didn't lose in that aspect, because I was nearly undefeated that year and was almost a guaranteed win on doubles. This painting represents the agony, disappointment, disgust, and deceit, I felt when I learned I could not go to play alongside my friends in the championship in Scottsdale Arizona. I had let my team down and missed out on a once in a lifetime accomplishment.
 ---
 
-A few years ago I had accomplished a dream of mine and won my way with my beloved team to the United States Tennis Association National Championships. I had spent many years prior, captaining and building teams just to fall short of winning districts each year. Finally winning our season, sectionals, districts, state, and then winning the Midwest championship; we finally did it. This painting isn't about the feeling of defeat on the court, as that's always a chance to improve and grow. I didn't lose in that aspect, because I was nearly undefeated that year and was almost a guaranteed win on doubles. This painting represents the agony, disappointment, disgust, and deceit, I felt when I learned I could not go to play alongside my friends in the championship in Scottsdale Arizona. I had let my team down and missed out on a once in a lifetime accomplishment.
+_On October 7th, 2022:_ A few years ago I had accomplished a dream of mine and won my way with my beloved team to the United States Tennis Association National Championships. I had spent many years prior, captaining and building teams just to fall short of winning districts each year. Finally winning our season, sectionals, districts, state, and then winning the Midwest championship; we finally did it. This painting isn't about the feeling of defeat on the court, as that's always a chance to improve and grow. I didn't lose in that aspect, because I was nearly undefeated that year and was almost a guaranteed win on doubles. This painting represents the agony, disappointment, disgust, and deceit, I felt when I learned I could not go to play alongside my friends in the championship in Scottsdale Arizona. I had let my team down and missed out on a once in a lifetime accomplishment.
 
 <!--more-->
 

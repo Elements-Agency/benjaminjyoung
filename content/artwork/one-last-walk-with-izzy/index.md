@@ -26,7 +26,7 @@ categories: [realism, narrative, animal, landscape, painting]
 mediums: [watercolor]
 materials: [paper]
 colors: [green, blue, yellow]
-collections: [shades of olson, figures facing from view]
+collections: [shades of olson, figures facing from view, timeline]
 locations: [summit, print]
 tags: [man, figure, dog, border collie, walk, hike, hills, forrest, house, sky, field, outdoors, autumn, rustic, serene, appalachia, east sparta, ohio]
 
@@ -59,7 +59,7 @@ reproductions:
 tag: The man walking is myself, with the blond hair shimmering from the bright autumn sun. The companion by my side is my late Border Collie dog, Izzy. The landscape is inspired by the Ohio Appalachian Plateau hills I grew up with. It's a memory I never got to have with my faithful family member, before she passed. She was always by my side in her life span, but sometimes time escapes us too quickly, and by the time I was in healthy enough state to hike myself, she had grown too elderly and weary to join me in my long walks of reflection.
 ---
 
-**One Last Walk With Izzy** is a exquisite watercolor painting depicting a peaceful countryside scene, where a man walks alongside his faithful Border Collie dog companion across gently rolling hills bathed in golden sunlight. The vibrant hues of green and yellow fields blend harmoniously with the rich textures of the trees, creating a sense of depth and tranquility. A cozy house sits nestled on the distant hill, framed by soft clouds drifting through a serene sky. This artwork beautifully captures the simplicity and charm of rural life, making it a perfect piece for adding warmth and a touch of nature to any space.
+_On July 1st, 2021:_ **One Last Walk With Izzy** is a exquisite watercolor painting depicting a peaceful countryside scene, where a man walks alongside his faithful Border Collie dog companion across gently rolling hills bathed in golden sunlight. The vibrant hues of green and yellow fields blend harmoniously with the rich textures of the trees, creating a sense of depth and tranquility. A cozy house sits nestled on the distant hill, framed by soft clouds drifting through a serene sky. This artwork beautifully captures the simplicity and charm of rural life, making it a perfect piece for adding warmth and a touch of nature to any space.
 
 <!--more-->
 

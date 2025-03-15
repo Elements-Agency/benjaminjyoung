@@ -26,15 +26,15 @@ categories: [realism, narrative, painting]
 mediums: [watercolor]
 materials: [paper]
 colors: [brown, black, white]
-collections: [shades of olson]
+collections: [shades of olson, timeline]
 locations: [office]
 tags: [woman, lady, old, window, wood, face, expression, gaze, house, glasses, earthy, outdoors, summer, rustic]
 
 inventory:
-  - patina: 2024-11-21 - current
+  - brydu: idk - current
+  - patina: 2024-11-21 - idk
 
 planning:
-  - brydu: 2025-03-01 - 2025-03-30 (confirmed)
   - summit: 2025-03-24 - 2025-06-16
   - ows: 2025-05-03 - 2025-08-03
 
