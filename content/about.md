@@ -30,6 +30,7 @@ In a monument of both the boredom of winter, and desperation, I found an old set
 ### Awards & Recognition ###
   * **Honorable Mention** at [Flora](https://www.whiterabbitgalleries.org/event-details/flora-3rd-annual-juried-exhibition-2025-01-17-16-00) for [Avalanche Lilies](/artwork/avalanche-lilies).
   * **Featured Artist** Friday for [ActLoCLE](https://www.actlocle.org/)
+  * **Honorable Mention** at [Door 2 Art Show](https://www.door2art.com/artshow)
 
 ### News & Press ###
 Coming VERY soon.
