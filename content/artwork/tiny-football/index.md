@@ -30,7 +30,8 @@ locations: [office]
 tags: [american, football, sports, ball, dark, indoors, canton, massillon, ohio, warm]
 
 inventory:
-  - patina: 2025-01-15 - current
+  - kolp: idk - current
+  - patina: 2025-01-15 - idk
   - bztat: 2024-10-18 - 2025-01-15
   - patina: 2024-07-05 - 2024-10-18
   - home: 2024-07-03 - 2024-07-05
@@ -39,8 +40,7 @@ status: sale
 products:
     - id: 677888659
       name: Original Painting
-      price: $100
-      patina: $90
+      price: $80
 ---
 
 **Tiny Football** was another quick artwork done on a tiny canvas. A tribute to one of Canton's large driving parts of their economy, American Football. Since our city hosts the [Pro Football Hall of Fame](https://www.profootballhof.com), which is the biggest reason for tourism and festivals in our tiny city, I figured it was a good idea to have this sitting out on my studio space as a pick-me-up. Sports!

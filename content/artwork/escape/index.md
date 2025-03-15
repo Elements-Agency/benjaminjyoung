@@ -40,16 +40,13 @@ inventory:
 
 status: sold
 products:
-    - id: 646467810
-      name: Jigsaw Puzzle
-      price: $49
     - id: 678649270
       name: Limited Reproduction
       price: $59
       sold: true
     - id: 645943624
       name: Original Painting
-      price: $400
+      price: $420
       sold: true
 
 buyer: Fred Boone (Bolivar, OH)

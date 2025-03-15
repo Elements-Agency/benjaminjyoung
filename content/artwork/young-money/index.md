@@ -27,16 +27,29 @@ mediums: [watercolor]
 materials: [cotton paper]
 colors: [black, brown]
 collections: []
-locations: [home]
+locations: [kolp]
 tags: [human, figure, office, work, room, desk, shadow, melancholy, success, warm, indoors, day]
 
 inventory:
-  - home: 2025-02-23 - current
+  - kolp: idk - current
+  - cyrus: idk - idk
+  - home: 2025-02-23 - idk
 
 planning:
   - summit: 2025-03-24 - 2025-06-16
 
+status: sale
+products:
+    - id: 734463473
+      name: Original Painting
+      price: $1,980
+    - id: 734463429
+      name: Limited Reproduction
+      price: $29
+      left: 9
+
 limited: 10
+reproductions:
 
 tag: For 15 years, I built a career in software engineering. Working my way up the white-collar ladder. At the height of my career, working up to the Director or Executive level. At times, running my own businesses. My same-aged friends coined the nickname “Young Money” for me, which I was never big on being titled. Sooner or later, I believe all of us working in an office setting eventually reflect and ask ourselves, “What am I doing?” Questioning if what we’re doing is even meaningful. Maybe longing for the outdoors and venturing into the rest of the world beyond the concrete highrise walls in that corporate park. This painting is meant to exemplify that moment of reflection.
 ---

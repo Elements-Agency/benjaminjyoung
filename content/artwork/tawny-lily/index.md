@@ -26,17 +26,18 @@ mediums: [watercolor, graphite]
 materials: [cotton paper]
 colors: [orange, green]
 collections: [watercolor sketches]
-locations: [office]
+locations: [kolp]
 tags: [tawny, tiger, lily, flower, stem, petals, plant, summer, outdoors]
 
 inventory:
-  - home: 2024-09-29 - current
+  - kolp: idk - current
+  - home: 2024-09-29 - idk
 
 status: sale
 products:
     - id: 698999371
       name: Original Painting
-      price: $90
+      price: $80
 ---
 
 **Tawny Lily** is a quick and easy graphite pencil sketch painted in with watercolor. This simple small artwork is a nice little decoration to hang in your room. The Tiger Lily or Tawny Lily, is my favorite flower. Even though I normally decorate my home with either orchids or white lilies, the orange flower is one that grew wild in the valley I grew up in along the ponds and creek sides.

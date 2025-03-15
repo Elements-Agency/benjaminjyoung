@@ -33,7 +33,7 @@ locations: [sold]
 tags: [human, face, self, facial hair, beard, dark, peace, calm, ben, indoors, cool]
 
 inventory:
-  - buy: 2024-07-06
+  - buyer: 2024-07-06
   - home: 2024-02-03 - 2024-07-06
 
 status: sold

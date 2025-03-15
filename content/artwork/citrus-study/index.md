@@ -41,7 +41,7 @@ status: sold
 products:
     - id: 645932227
       name: Original Painting
-      price: $100
+      price: $200
       sold: true
 
 buyer: discontinued

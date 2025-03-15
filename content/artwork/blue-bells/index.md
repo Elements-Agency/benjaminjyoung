@@ -26,21 +26,18 @@ mediums: [watercolor, graphite]
 materials: [cotton paper]
 colors: [blue, purple, green]
 collections: [watercolor sketches]
-locations: [office]
+locations: [kolp]
 tags: [bluebell, flower, stem, petals, plant, spring, outdoors]
 
 inventory:
-  - patina: 2025-02-01 - current
+  - patina: 2025-02-01 - idk
   - home: 2024-10-26 - 2025-02-01
-
-hours: 1
-frame cost: $0
 
 status: sale
 products:
     - id: 705973991
       name: Original Painting
-      price: $90
+      price: $80
 ---
 
 **Blue Bells** features a single, gracefully arched bellflower stem, delicately balanced against a soft, neutral background. Each bell-shaped bloom hangs naturally from the stem, painted in a rich, muted purple that exudes quiet elegance. The artist has used soft strokes and subtle shading to create a realistic, almost three-dimensional effect, emphasizing the organic curve and texture of the flower.

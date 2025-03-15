@@ -31,13 +31,14 @@ locations: [office]
 tags: [house, fruitcake, delivery, truck, driver, figure, package, light, windows, tree, snow, street, outdoors, winter, solitary, rustic, whimsical, shenanigans, massillon, ohio, number five]
 
 inventory:
-  - patina: 2024-10-29 - current
+  - kolp: idk - current
+  - patina: 2024-10-29 - idk
 
 status: sale
 products:
     - id: 705991341
       name: Original Painting
-      price: $600
+      price: $580
     - id: 711216274
       name: Limited Reproduction
       price: $29

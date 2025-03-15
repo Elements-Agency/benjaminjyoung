@@ -44,7 +44,7 @@ status: sold
 products:
     - id: 645940862
       name: Original Painting
-      price: $400
+      price: $310
       sold: true
 
 buyer: Richard Reikowski (Tallmadge, OH)

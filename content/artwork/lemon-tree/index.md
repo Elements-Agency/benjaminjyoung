@@ -41,8 +41,7 @@ status: sold
 products:
     - id: 648083433
       name: Original Painting
-      price: $100
-      patina: $80
+      price: $80
       sold: true
 
 buyer: discontinued

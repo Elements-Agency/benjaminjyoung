@@ -31,26 +31,20 @@ locations: [office]
 tags: [hills, father, jay, howard, farm, house, old, man, figure, tree, muted, countryside, building, outdoors, autumn, solitary, rustic, farmhouse, appalachia, east sparta, ohio]
 
 inventory:
+  - kolp: 2025-03-11 - current
+  - thehub: 2025-03-04 - 2025-03-11
   - patina: 2024-09-16 - current
   - home: 2024-09-10 - 2024-09-16
-
-planning:
-  - thehub: 2025-03-04 - 2025-03-11
 
 status: sale
 products:
     - id: 694481795
       name: Original Painting
       price: $600
-      pending: true
     - id: 694564503
       name: Limited Reproduction
-      price: $69
-      patina: $29
+      price: $29
       left: 6
-    - id: 695956275
-      name: Jigsaw Puzzle
-      price: $39
 
 limited: 10
 reproductions:

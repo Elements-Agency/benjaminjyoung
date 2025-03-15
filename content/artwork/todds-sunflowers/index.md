@@ -26,18 +26,19 @@ mediums: [watercolor, graphite]
 materials: [cotton paper]
 colors: [yellow, green, brown]
 collections: [watercolor sketches]
-locations: [office]
+locations: [kolp]
 tags: [sunflower, flower, stem, leaf, petals, plant, summer, outdoors]
 
 inventory:
-  - patina: 2025-02-01 - current
+  - kolp: idk - current
+  - patina: 2025-02-01 - idk
   - home: 2024-09-21 - 2025-02-01
 
 status: sale
 products:
     - id: 696990423
       name: Original Painting
-      price: $90
+      price: $80
 ---
 
 **Todd's Sunflowers** is a quick and easy graphite pencil sketch painted in with watercolor. This simple small artwork is a nice little decoration to hang in your room. Sunflowers being the favorite flower of one of my favorite painters, Van Gogh, and the added bonus of being a vibrant yellow to attract a summer time feel. My reference was my cousin's yard, so these are Todd's Sunflowers.

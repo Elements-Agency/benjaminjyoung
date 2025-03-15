@@ -42,7 +42,7 @@ products:
       left: 6
     - id: 689389017
       name: Original Painting
-      price: $600
+      price: $580
       sold: true
 
 buyer: Eric Anderson (Columbus, OH)

@@ -30,14 +30,15 @@ locations: [office]
 tags: [orchid, flower, stem, petals, plant, summer, outdoors]
 
 inventory:
-  - patina: 2024-09-21 - current
+  - kolp: idk - current
+  - patina: 2024-09-21 - idk
   - home: 2024-09-20 - 2024-09-21
 
 status: sale
 products:
     - id: 696913012
       name: Original Painting
-      price: $90
+      price: $80
 ---
 
 **Pink Orchid** is a quick and easy graphite pencil sketch painted in with watercolor. This simple small artwork is a nice little decoration to hang in your room. Orchids being one of my favorite flowers, usually white though, I decided to go with a pink one instead to avoid having to paint a background.

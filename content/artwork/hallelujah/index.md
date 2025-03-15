@@ -28,7 +28,7 @@ materials: [canvas]
 colors: [black, blue, tan, brown, grey]
 collections: [the dark trio, figures facing from view, reserved]
 locations: [door2art, print]
-tags: [song, chair, scissors, woman, man, figure, rope, dark, melancholy, sad, tied, bound, broken, intimate, fixing, trauma, cut, indoors, warm, ben, fat, loss, number five]
+tags: [song, chair, scissors, woman, man, figure, rope, dark, melancholy, sad, tied, bound, broken, intimate, fixing, trauma, cut, indoors, warm, ben, fat, loss, massillon, number five]
 
 inventory:
   - door2art: 20215-02-19 - current
@@ -49,7 +49,6 @@ products:
     - id: 691515054
       name: Original Painting
       price: $2,600
-      pending: true
     - id: 691515048
       name: Limited Reproduction
       price: $29

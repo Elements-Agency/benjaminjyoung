@@ -38,7 +38,7 @@ status: sold
 products:
     - id: 669390403
       name: Original Painting
-      price: $100
+      price: $60
       sold: true
 
 buyer: Jeni Burns (Canton, OH)

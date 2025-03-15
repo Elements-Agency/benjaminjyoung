@@ -34,24 +34,19 @@ locations: [whiterabbit]
 tags: [lily, flower, pad, water, pond, stones, outdoors, summer, cool]
 
 inventory:
-  - whiterabbit: 2025-01-10 - current
+  - kolp: idk - current
+  - whiterabbit: 2025-01-10 - idk
   - patina: 2024-12-01 - 2025-01-10
   - home: 2024-09-29 - 2024-12-01
   - patina: 2024-06-29 - 2024-09-29
   - home: 2024-06-16 - 2024-06-29
 
-planning:
-  - whiterabbit: 2025-01-08 - 2025-03-02 (confirmed)
-
 status: sale
 products:
     - id: 672644323
       name: Original Painting
-      price: $290
-      patina: $190
-      pending: true
+      price: $200
 
-limited: 10
 reproductions:
   - 1: Richard Reikowski (Tallmadge, OH)
   - 2: Marcus Young (East Sparta, OH)

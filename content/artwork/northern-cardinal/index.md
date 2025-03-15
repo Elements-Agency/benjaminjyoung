@@ -38,13 +38,6 @@ inventory:
 
 status: sold
 products:
-    - id: 650002838
-      name: Greeting Card
-      price: $12.99
-    - id: 678649275
-      name: Limited Reproduction
-      price: $29
-      sold: true
     - id: 645991759
       name: Original Drawing
       price: $300
@@ -52,7 +45,6 @@ products:
 
 buyer: Bruce Treiber (Massillon, OH)
 
-limited: 10
 reproductions:
   - 1: Michele Oakley (Aynor, SC)
 ---

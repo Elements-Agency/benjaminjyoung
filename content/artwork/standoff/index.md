@@ -31,7 +31,8 @@ locations: [culturalcenter]
 tags: [field, farm, couple, man, woman, figure, muted, countryside, wheat, outdoors, autumn, tension, rustic, melancholy, number twenty]
 
 inventory:
-  - culturalcenter: 2025-01-10 - current
+  - kolp: 2025-03-15 - current
+  - culturalcenter: 2025-01-10 - 2025-03-15
   - patina: 2024-11-05 - 2025-01-10
   - home: 2024-10-12 - 2024-11-05
 
@@ -39,11 +40,7 @@ status: sale
 products:
     - id: 702627109
       name: Original Painting
-      price: $560
-    - id: 711209802
-      name: Limited Reproduction
-      price: $29
-      left: 9
+      price: $280
 
 limited: 10
 ---

@@ -32,7 +32,8 @@ locations: [sold, print]
 tags: [princess, cat, pet, cup, hat, head, brush, stick figure, tennis, ball, inception, humor, funny, lighthearted, childish, morbid, foreshadowing, loss, ben, andrea, marcus, audrey, izzy, indoors, warm, number two]
 
 inventory:
-  - patina: 2024-08-05 - current
+  - buyer: idk
+  - patina: 2024-08-05 - idk
   - home: 2024-07-27 - 2024-08-05
   - patina: 2024-06-29 - 2024-07-27
   - home: 2024-06-26 - 2024-06-29
@@ -43,9 +44,6 @@ products:
       name: Limited Reproduction
       price: $29
       left: 5
-    - id: 727455556
-      name: Greeting Card
-      price: $7.99
     - id: 675661538
       name: Original Painting
       price: $500

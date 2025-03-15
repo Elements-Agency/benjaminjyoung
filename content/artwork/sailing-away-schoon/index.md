@@ -33,20 +33,16 @@ locations: [office]
 tags: [schooner, boat, ocean, waves, mist, morning, sea, water, mountains, outdoors, spring, cool]
 
 inventory:
-  - patina: 2024-06-07 - current
+  - kolp: idk - current
+  - patina: 2024-06-07 - idk
   - home: 2024-06-07 - 2024-06-07
 
 status: sale
 products:
     - id: 670400475
       name: Original Painting
-      price: $280
-    - id: 683160413
-      name: Limited Reproduction
-      price: $29
-      left: 5
+      price: $140
 
-limited: 10
 reproductions:
   - 1: Fred Boone (Canton, OH)
   - 2: Chloe Oberting (Cuyahoga Falls, OH)

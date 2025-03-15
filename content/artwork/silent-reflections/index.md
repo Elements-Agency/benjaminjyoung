@@ -33,7 +33,8 @@ locations: [office]
 tags: [lake, water, boat, human, figure, dark, mist, ripples, forrest, hills, outdoors, spring, dusk, cool]
 
 inventory:
-  - patina: 2024-09-29 - current
+  - kolp: idk - current
+  - patina: 2024-09-29 - idk
   - home: 2024-07-27 - 2024-09-29
   - patina: 2024-06-07 - 2024-07-27
   - home: 2024-06-06 - 2024-06-07
@@ -42,15 +43,7 @@ status: sale
 products:
     - id: 670473779
       name: Original Painting
-      price: $290
-      patina: $190
-    - id: 687196821
-      name: Limited Reproduction
-      price: $29
-      sold: true
-    - id: 671656572
-      name: Dry Run
-      price: $60
+      price: $200
 ---
 
 This watercolor painting, titled "**Silent Reflections**," captures a serene and contemplative scene of two individuals in a small boat on a vast, calm body of water. The palette consists primarily of muted blues and grays, creating a tranquil and misty atmosphere. Light touches of yellow kiss the finer details to show the dancing of light. The reflections on the water's surface are subtly rendered, blending seamlessly with the surrounding landscape. In the background, the faint outlines of forested hills fade into the horizon, shrouded in a gentle haze. This watercolor painting is a  peaceful and introspective work of art.

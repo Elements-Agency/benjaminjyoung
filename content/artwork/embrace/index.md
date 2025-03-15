@@ -35,14 +35,13 @@ inventory:
   - patina: 2024-12-20 - 20215-02-19
 
 planning:
-  - door2art: 2025-02-10 - 2025-03-17
   - mansfield: 2025-03-20 - 2025-04-20
 
 status: sale
 products:
     - id: 716381943
       name: Original Painting
-      price: $960
+      price: $1,280
     - id: 716135890
       name: Limited Reproduction
       price: $29

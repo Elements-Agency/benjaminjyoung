@@ -40,19 +40,10 @@ inventory:
 
 status: sold
 products:
-    - id: 658509196
-      name: Jigsaw Puzzle
-      price: $49
-    - id: 678649536
-      name: Limited Reproduction
-      price: $29
-      sold: true
     - id: 645990323
       name: Original Painting
-      price: $400
+      price: $270
       sold: true
-
-limited: 10
 
 buyer: Ted Turner (Aurora, OH)
 

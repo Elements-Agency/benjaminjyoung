@@ -26,11 +26,12 @@ mediums: [watercolor]
 materials: [paper]
 colors: [red, white, black]
 collections: []
-locations: [office]
+locations: [kolp]
 tags: [christmas, stocking, holidary, cheer, dark, winter, ben, resident, artist]
 
 inventory:
-  - patina: 2024-11-28 - current
+  - kolp: idk - current
+  - patina: 2024-11-28 - idk
 ---
 
 This watercolor painting depicts a bold and festive red Christmas stocking adorned with the name "Ben" in dark, block letters at its center. The stocking's textured surface showcases rich, layered shades of red, giving it a realistic and slightly worn appearance, while its white, fluffy cuff contrasts beautifully with a subtle mix of cream tones, evoking a cozy, wintry feel. The dark, almost black background creates a dramatic contrast, making the stocking the focal point and giving the composition a sense of warmth and nostalgia.

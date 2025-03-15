@@ -16,10 +16,10 @@ power: 500
 favorite: false
 
 supplies:
-  - medium: M. Graham Watercolor Paint
-  - on: Baohong Cold Press Watercolor Block
+  - medium: M Graham Watercolor Paints
+  - on: Baohong Cold Press Cotton Paper Block
   - frame: 
-size: 14.1x10.2in (36x26cm)
+size: 12x16in (31x41cm)
 
 series: []
 categories: [realism, narrative, painting]
@@ -27,17 +27,20 @@ mediums: [watercolor]
 materials: [cotton paper]
 colors: [white, blue, tan]
 collections: []
-locations: [office]
+locations: [kolp]
 tags: [human, figure, tennis, racket, summer, emotion, agony, failure, warm, outdoors, day]
 
 inventory:
-  - patina: 2025-02-02 - current
-
-planning:
+  - kolp: idk - current
   - thehub: 2025-03-04 - 2025-03-11
+  - kolp: idk - 2025-03-04
+  - patina: 2025-02-02 - idk
 
 status: sale
 products:
+    - id: 734461977
+      name: Original Painting
+      price: $580
     - id: 726369026
       name: Limited Reproduction
       price: $29

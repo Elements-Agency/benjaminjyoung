@@ -40,7 +40,8 @@ locations: [sold]
 tags: [human, figure, hiker, snow, winter, trail, trees, forest, tracks, outdoors, evening, snowy, snowfall, hazy, lonely, isolation, tiring, cool, melancholy]
 
 inventory:
-  - patina: 2025-02-01 - current
+  - kolp: idk - current
+  - patina: 2025-02-01 - idk
   - home: 2024-06-29 - 2025-02-01
   - patina: 2024-05-18 - 2024-06-29
   - home: 2024-05-02 - 2024-05-18
@@ -49,14 +50,9 @@ inventory:
 
 status: sold
 products:
-  - id: 687153829
-    name: Limited Reproduction
-    price: $29
-    sold: true
   - id: 654299503
     name: Original Painting
-    patina: $300
-    price: $400
+    price: $280
     sold: true
 
 limited: 10

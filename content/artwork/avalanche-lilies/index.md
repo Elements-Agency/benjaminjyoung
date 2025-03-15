@@ -29,24 +29,23 @@ mediums: [watercolor]
 materials: [paper]
 colors: [yellow, brown, white, green]
 collections: [lilies, reserved]
-locations: [whiterabbit]
+locations: [kolp]
 tags: [avalanche, mountain, field, snow, grass, flower, lily, petal, leaf, rock, warm, outside, autumn, number two]
 
 inventory:
-  - whiterabbit: 2025-01-10 - current
+  - kolp: idk - current
+  - whiterabbit: 2025-01-10 - idk
   - cyrus: 2025-01-07 - 2025-01-10
   - patina: 2025-01-06 - 2025-01-07
 
 planning:
-  - whiterabbit: 2025-01-08 - 2025-03-01 (confirmed)
   - ows: 2025-05-03 - 2025-08-03
 
 status: sale
 products:
     - id: 718508603
       name: Original Painting
-      price: $3,960
-      patina: $2,590
+      price: $1,980
     - id: 718515517
       name: Limited Reproduction
       price: $29

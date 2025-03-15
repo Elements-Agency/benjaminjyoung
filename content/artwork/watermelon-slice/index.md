@@ -28,11 +28,12 @@ mediums: [watercolor pencil]
 materials: [paper]
 colors: [red, green, black]
 collections: []
-locations: [office]
+locations: [kolp]
 tags: [watermelon, fruit, slice, juicy, seeds, food, summer, bright, cool]
 
 inventory:
-  - patina: 2025-02-01 - current
+  - kolp: idk - current
+  - patina: 2025-02-01 - idk
   - home: 2023-12-27 - 2025-02-01
 ---
 
