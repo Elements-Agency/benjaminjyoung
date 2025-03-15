@@ -76,6 +76,10 @@ I approached this much like I did [Hallelujah](/artwork/hallelujah), working inc
 
 {{< progress >}}
 
+## Accolades ##
+
+* Featured in the [Bryn Du Art Show](https://www.bryndu.com/bryn-du-art-show) at the [Bryn Du Mansion](https://www.bryndu.com)
+
 ## Charity ##
 
 10% of all proceeds (both original and any limited reproductions) will be donated to [Meals on Wheels](https://www.mealsonwheelsamerica.org).

@@ -38,17 +38,17 @@ Coming VERY soon.
 ### Exhibitions ###
 
   * Upcoming
-    * March 13th - **JURIED** [Door 2 Art Show](https://www.door2art.com/artshow) hosted at [Door 2 Art](https://www.door2art.com).
     * September 12th - **GROUP** [Stark County Bar Association's](https://starkctybar.com) Law in Art Exhibit at [Cyrus Custom Framing & Art Gallery](https://www.cyruscustom.com).
     * December - **SOLO** Exhibit at [Brewtifully](https://www.tracydawnbrewer.com)
   * 2025
     * **JURIED** [FRESH Exhibition](https://www.summitartspace.org/fresh-2025/) hosted at [Summit Artspace](https://www.summitartspace.org).
     * **JURIED** [Flora Exhibition](https://www.whiterabbitgalleries.org/event-details/flora-3rd-annual-juried-exhibition-2025-01-17-16-00) hosted at [White Rabbit Galleries](https://www.whiterabbitgalleries.org).
     * **GROUP** [Surface and Structure: A Dialogue in Texture](https://artsinstark.com/surface-and-structure-a-dialogue-in-texture-opens-january-16-at-the-cultural-center-gallery/?fbclid=IwY2xjawHs4upleHRuA2FlbQIxMAABHVuxYcp1388QiP1wHwfzSl_zD5yaXzqCEaEzwQRiffFD4fi50l4KhCRbIQ_aem_y6Loqj6coj59e3x-HEd1yg) hosted at the [Canton Cultural Center Gallery](https://culturalcenterforthearts.com).
-    * March 2nd - **GROUP** New Artist Showcase at [The Hub Art Factory](https://www.thehubcanton.com).
-    * March 7th - **JURIED** [Bryn Du Art Show](https://www.bryndu.com/bryn-du-art-show) at the [Bryn Du Mansion](https://www.bryndu.com).
+    * **GROUP** New Artist Showcase at [The Hub Art Factory](https://www.thehubcanton.com).
+    * **JURIED** [Bryn Du Art Show](https://www.bryndu.com/bryn-du-art-show) at the [Bryn Du Mansion](https://www.bryndu.com).
+    * **JURIED** [Door 2 Art Show](https://www.door2art.com/artshow) hosted at [Door 2 Art](https://www.door2art.com).
   * 2024
-    * **GROUP** [Patina First Fundraiser: A Celebration of Art, Community, and Creativity](https://www.facebook.com/events/869821251632238/) hosted at Patina Arts Centre.
+    * **BENEFIT** [Patina First Fundraiser: A Celebration of Art, Community, and Creativity](https://www.facebook.com/events/869821251632238/) hosted at Patina Arts Centre.
     * **JURIED**  [Brown's Town: Art Inspired by Ohio's Football Heritage](https://paulbrownmuseum.org/exhibits/detail/browns-town-art-inspired-by-ohios-football-heritage) hosted at [Massillon Museum](http://massillonmuseum.org/).
     * **GROUP** [Wings and Whimsy: the Art of Taking Flight](https://www.facebook.com/events/1031065925277126) hosted at Patina Arts Centre.
     * **JURIED**  [Rod Meadows Art Call](https://www.juilliardartscenter.com/ron-meadows-art-call-2024.html) hosted at [Juilliard Arts Center](https://www.juilliardartscenter.com).
