@@ -77,6 +77,7 @@ I first built the wash of the sky up and then mainly worked my way down the pain
 
 * Featured in the [1st Annual Juried ActLoCLE Exhibit](https://www.actlocle.org/).
 * Featured in the [2024 Patina Resident Artist Exhibit](https://www.facebook.com/events/512553025101953) at Patina Arts Centre.
+* Featured in the New Artist Showcase at [The Hub Art Factory](https://www.thehubcanton.com).
 
 ## Charity ##
 
