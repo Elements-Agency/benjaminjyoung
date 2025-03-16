@@ -69,15 +69,15 @@ _On the night of December 24th, 2019:_ **Hallelujah** captures a profound and in
 
 The composition is tightly framed, drawing the viewer’s focus to the emotional connection between the two figures. The dim lighting and earthy palette create a somber mood, emphasizing the gravity of the moment they share. The texture of the background, with its worn and almost decayed appearance, adds to the narrative of endurance and care amidst adversity. This scene, though quiet and understated, resonates with themes of compassion, resilience, and the human need for connection, even in the bleakest of times. The painting speaks to the viewer on a deeply emotional level, inviting reflection on the nuances of care and the quiet strength found in such moments of solace and support.
 
+### Narrative ###
+
+The template for the narrative is set to the song's verse, from Hallelujah, "She tied you to the kitchen chair. She broke your throne, and she cut your hair." The woman for now will remain unnamed, but will be expanded on hopefully soon in further painting narratives. The man, is myself, when my hair was longer and wild with curls. A time when I was younger. The framing design displays a moment between myself and the woman that is focused and touches briefly on the duality of emotions seeing this painting evokes in me. Much like the meaning and interpretation of the song. This is the first painting of [The Dark Trio Collection](/collections/the-dark-trio), which is a collection to touch on three of my most challenging losses.
+
 ### Artwork Process ###
 
 I approached this painting the same way I did with my Massillon Helmet. The background was painted a little bit more impasto and looser, as well as the definition of details were not as focused moving away from the focal point of the two faces in the center. This being my biggest painting so far is also my most time consuming thus so far. It was obviously well worth the time spent! I truly love this painting and it's journey. Both how I came to the narrative, it's wait for me to practice before tackling it, and the actual painting it's self. This design has been in the back of my mind for over six months.
 
 {{< progress >}}
-
-### Narrative ###
-
-The template for the narrative is set to the song's verse, from Hallelujah, "She tied you to the kitchen chair. She broke your throne, and she cut your hair." The woman for now will remain unnamed, but will be expanded on hopefully soon in further painting narratives. The man, is myself, when my hair was longer and wild with curls. A time when I was younger. The framing design displays a moment between myself and the woman that is focused and touches briefly on the duality of emotions seeing this painting evokes in me. Much like the meaning and interpretation of the song. This is the first painting of [The Dark Trio Collection](/collections/the-dark-trio), which is a collection to touch on three of my most challenging losses.
 
 ## Accolades ##
 

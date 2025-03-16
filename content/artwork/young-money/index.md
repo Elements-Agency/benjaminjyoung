@@ -61,3 +61,9 @@ _In 2021:_ For 15 years, I built a career in software engineering. Working my wa
 {{< cta >}}
 
 This watercolor painting presents a moody, atmospheric scene of a solitary man standing in a dimly lit office. The composition uses strong contrasts of light and shadow, with sunlight streaming through large glass windows on the left, casting elongated shadows across the floor. The man, dressed in a dark suit, stands with his back to the viewer, gazing towards a simple wooden desk adorned with papers, a computer, and other office essentials. The room has a minimalist, almost surreal feel, with sparse furniture—a single office chair and framed artworks on the walls—enhancing the sense of isolation. The color palette is dominated by earthy tones, giving the scene a melancholic and introspective quality, reminiscent of Edward Hopper’s style. The overall effect is one of contemplation, solitude, and perhaps existential reflection.
+
+### Artwork Process ###
+
+Another large watercolor work. Always working in layers upon layers with watercolor.
+
+{{< progress >}}
