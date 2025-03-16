@@ -5,7 +5,7 @@ heading: Artwork Story
 description: My main bodies of work are laid out in my life's story.
 ---
 
-My main bodies of artwork make up my life story. They are split in six current sections or "eras".
+My main bodies of artwork make up my life story. They are split in six current sections or "eras". I have most works that I have not started, already planned out. Since after all, it is my life and memory.
 
 ## Childhood Era ##
 _1990 - 2007_
@@ -101,3 +101,4 @@ Future titles of this era will include:
   * Dove
   * Rehabilitated
   * Witnessing Escape
+  * Silver Ballet
