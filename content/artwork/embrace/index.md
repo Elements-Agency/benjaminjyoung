@@ -70,7 +70,3 @@ Embrace is a small taste of the narrative I have been trying to ready myself in 
 ## Accolades ##
 
 * Featured in the [2025 Door 2 Art Show](https://www.door2art.com/artshow) at [Door 2 Art](https://www.door2art.com).
-
-## Charity ##
-
-As a way of me giving back, 10% of all proceeds (both original and any limited reproductions) will be donated to [National Alliance on Mental Illness](https://www.nami.org). Had it not been for the help and support of this organization, I would not be here today to share my emotions in artwork.

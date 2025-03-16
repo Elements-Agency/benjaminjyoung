@@ -61,7 +61,3 @@ This watercolor painting captures a striking and serene scene of a solitary rock
 ### Inspiration ###
 
 Done as a commissioned remake of [Erie Rock](/artwork/erie-rock), I set the tone more for summer than that of winter in the previous version. The emotions of winter blues vs summer joy absolutely showed in the difference.
-
-## Charity ##
-
-10% of all online sale proceeds of any products that sell related to Erie Rock will be donated to the [Ohio & Erie Canalway Coalition](https://www.ohioeriecanal.org).

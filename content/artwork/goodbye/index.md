@@ -47,7 +47,3 @@ _December 20th, 2013:_ That ringing... That damn wretched ringing! That piercing
 ### Inspiration ###
 
 'Goodbye' is to dive in to the hurricanes of emotions that I as an artist faces from my absolute greatest loss and trauma. A moment captured that decayed my mental wellbeing for six years. It serves as a low turning point in my life, and a way to fearlessly face against the pain and suffering such a small amount of time can have such lasting effects on one's life. This moment painted comes directly from the my own memory and experiences.
-
-## Charity ##
-
-10% of all online sale proceeds of any products that sell related to Goodbye will be donated to [Mother's Against Drunk Driving](https://madd.org).

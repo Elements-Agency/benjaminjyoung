@@ -88,7 +88,3 @@ A new technique I used in this, was leaving some of the white paper exposed as m
 ## Accolades ##
 
 * Featured in the [2025 Juried FRESH Exhibit](https://www.summitartspace.org/fresh-2025/) at [Summit Artspace](https://www.summitartspace.org).
-
-## Charity ##
-
-10% of proceeds all online sales for any related products of this painting will be donated to [One of a Kind Pets](https://www.oneofakindpets.com). While Izzy was adopted by a now non-existent Border Collie rescue, after a series of abuse, her sister (Princess) was adopted from One of a Kind Pets.

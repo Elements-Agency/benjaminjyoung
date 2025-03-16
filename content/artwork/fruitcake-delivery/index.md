@@ -74,7 +74,3 @@ Sticking to my natural style, I start off with a wash using wet-on-wet. Then bui
 ## Accolades ##
 
 * Featured in the [2024 Patina Resident Artist Exhibit](https://www.facebook.com/events/512553025101953) at Patina Arts Centre.
-
-## Charity ##
-
-In spirit of the holidays and due to the history of inspiration of this fine art piece, 10% of all proceeds (both original and any limited reproductions) will be donated to [Stark Hunger Task Force](http://starkhunger.org).

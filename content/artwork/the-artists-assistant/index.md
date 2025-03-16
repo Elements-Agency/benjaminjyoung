@@ -81,7 +81,3 @@ I frequently have the need to sit on the carpeted floor and paint. I just find t
 ## Accolades ##
 
 * Featured in the [2024 Patina Resident Artist Exhibit](https://www.facebook.com/events/512553025101953) at Patina Arts Centre.
-
-## Charity ##
-
-10% of proceeds all online sales for any Artist Assistant related products will be donated to [One of a Kind Pets](https://www.oneofakindpets.com), a pet rescue organization where Princess was adopted from!

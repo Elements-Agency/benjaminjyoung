@@ -61,7 +61,3 @@ reproductions:
 {{< img src="reference.webp" width="200px" height="226px" class="floatright" gallery="progress" alt="Photo of En plein air watercolor painting" title="En plein air process" link="reference.jpg" >}}
 
 I sat out peering over the [Nimisila Reservoir](https://www.summitmetroparks.org/nimisila-reservoir-metro-park.aspx), people watching the paddle boarders, especially a random girl and her boston terrier dog make their way across the lake. I studied the colors of the water as the sun reflected across the surface of the water and drew inspiration in it's nuances.
-
-## Charity ##
-
-10% of all online sale proceeds of any products that sell related to Addict's Contemplation will be donated to [Narcotics Anonymous](https://usa-na.org).
