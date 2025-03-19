@@ -29,8 +29,8 @@ In a monument of both the boredom of winter, and desperation, I found an old set
 
 ### Awards & Recognition ###
   * **Honorable Mention** at [Flora](https://www.whiterabbitgalleries.org/event-details/flora-3rd-annual-juried-exhibition-2025-01-17-16-00) for [Avalanche Lilies](/artwork/avalanche-lilies).
-  * **Featured Artist** Friday for [ActLoCLE](https://www.actlocle.org/)
-  * **Honorable Mention** at [Door 2 Art Show](https://www.door2art.com/artshow)
+  * **Featured Artist** Friday for [ActLoCLE](https://www.actlocle.org/).
+  * **Honorable Mention** at [Door 2 Art Show](https://www.door2art.com/artshow) for [Hallelujah](/artwork/hallelujah).
 
 ### News & Press ###
 Coming VERY soon.
@@ -39,7 +39,7 @@ Coming VERY soon.
 
   * Upcoming
     * September 12th - **GROUP** [Stark County Bar Association's](https://starkctybar.com) Law in Art Exhibit at [Cyrus Custom Framing & Art Gallery](https://www.cyruscustom.com).
-    * December - **SOLO** Exhibit at [Brewtifully](https://www.tracydawnbrewer.com)
+    * December - **SOLO** Exhibit at [Brewtifully](https://www.tracydawnbrewer.com).
   * 2025
     * **JURIED** [FRESH Exhibition](https://www.summitartspace.org/fresh-2025/) hosted at [Summit Artspace](https://www.summitartspace.org).
     * **JURIED** [Flora Exhibition](https://www.whiterabbitgalleries.org/event-details/flora-3rd-annual-juried-exhibition-2025-01-17-16-00) hosted at [White Rabbit Galleries](https://www.whiterabbitgalleries.org).
