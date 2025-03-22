@@ -64,6 +64,8 @@ tag: February 26th, 2020. “You’ve grown tired, have’t you dear?”, she re
 
 This painting is apart of the [Feb 26th Collection](/collections/feb-26)
 
+This oil painting captures an intimate embrace between a man and a woman, rendered in a dramatic and moody style. The couple is dressed in dark clothing, their bodies entwined as they hold each other closely. Their faces are partially obscured by shadows, emphasizing the emotional depth of their connection rather than individual expressions. The background is a deep, textured black, enhancing the contrast and drawing attention to the warm highlights on their skin and hair.
+
 ### Inspiration ###
 
 Embrace is a small taste of the narrative I have been trying to ready myself in to painting. Released specifically on December 20th, a date very important and tragic to me. While this surreal painting is set on February 26th, 2020, the prior December 20th had marked the sixth year anniversary of the loss of the woman in the painting. Those six years were a living hell for me. I didn’t want to live through another anniversary. Nor to survive this ordeal in to my 30s. I had planned out my demise for that December 20th, but by pure happenstance, that plan had been delayed. In those final moments before I would fall in to the darkness, this is the acceptance I have illustrated of that private moment. The irony that very acceptance was what allowed the loving man that was lost before to finally return back. The courage gained from facing death would finally allow me to face the loss that caused so much pain the six years prior.
