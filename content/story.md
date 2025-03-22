@@ -5,7 +5,7 @@ heading: Artwork Story
 description: My main bodies of work are laid out in my life's story.
 ---
 
-My main bodies of artwork make up my life story. They are split in six current sections or "eras". I have most works that I have not started, already planned out. Since after all, it is my life and memory.
+My main bodies of artwork make up my life story. They are split in six current sections or "eras". I have most works that I have not started, already planned out. I know exactly how I want them to look and how I want them to feel. Since after all, it is my life and memory.
 
 ## Childhood Era ##
 _1990 - 2007_
@@ -27,7 +27,7 @@ No current works in this era that are planned have been painted. Future titles o
 ## The Hart's Desire ##
 _2011 - 2013_
 
-This era starts with meeting my second fiancee. Following the relation as it builds, as we both grow together. Her pulling me out of my "Dark Era" and to learn to become the man I am now, living life the best I can make of it. The story will end in tragedy and will go on to destroy me emotionally and mentally.
+This era starts with meeting my second fiancee. Following the relation as it builds, as we both grow together. Her pulling me out of my "Dark Era" and to learn to become the man I am now, living life the best I can make of it.
 
 No current works in this era are completed yet. Future titles of this era will include:
   * First Glance
@@ -36,7 +36,7 @@ No current works in this era are completed yet. Future titles of this era will i
   * Adopting Izzy
   * Expecting
   * Goodbye (December 20th, 2013)
-  * Broken (December 21st, 2013)
+  * Broken (December 20th, 2013)
 
 ## Purgatory Era ##
 _2014 - 2018_
@@ -71,7 +71,7 @@ More context to this era will be expanded on, when The Hart's Desire era paintin
 ## Escaping Era ##
 _2020 - 2023_
 
-This era follows me trying to escape the painful memories of my home and seek out peace. Running in to trouble that would lead me to painting.
+This era follows me trying to escape the painful memories of my home and seek out peace. Running in to difficulties that would lead me to painting.
 
 {{< row-start >}}
     {{< preview col="3" painting="/artwork/one-last-walk-with-izzy/" >}}
@@ -89,7 +89,7 @@ More context to this era will be expanded on, when The Hart's Desire era paintin
 ## Recovery Era ##
 _2024 - present_
 
-This era follows dealing with the fallout of the previous, and is when I would begin painting as a necessity. Seeking only a life of content and means of survival.
+This era follows dealing with the fallout of the previous events, and is when I would begin painting as a necessity. Seeking only a life of being content.
 
 {{< row-start >}}
     {{< preview col="3" painting="/artwork/erie-rock-ii/" >}}
