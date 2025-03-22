@@ -10,12 +10,12 @@ My main bodies of artwork make up my life story. They are split in six current s
 ## Childhood Era ##
 _1990 - 2007_
 
-It will be a number of years until I start painting to paint this era.
+It will be a number of years until I start painting anything in this era. Filled with nostalgia and childhood topics.
 
 ## The Dark Era ##
 _2009 - 2011_
 
-A segment of time I have always referred to as the dark part of my life. It was a bleak moment of life, while I was still young in adulthood. Dealing with situations forced on me and my lifetime plans drastically changing, with me having to adapt to survive.
+A segment of time I have always referred to as the dark part of my life. It was a bleak moment of life, while I was still young in adulthood. Dealing with situations forced on me and my lifetime plans drastically changing several times, with me having to adapt for survival.
 
 This era focuses on the short amount of time of becoming a young parent, becoming engaged, and facing threatening loss of both of those topics. It was not a happy time for me.
 
@@ -25,21 +25,21 @@ No current works in this era that are planned have been painted. Future titles o
   * Electrifying
 
 ## The Hart's Desire ##
-_2012 - 2013_
+_2011 - 2013_
 
-This era starts with meeting my second fiancee. Following the relation as it builds, and we both grow together. Her pulling me out of my "Dark Era" and to learn to become who I am now, living life the best I can make of it. The story will end in tragedy and will go on to destroy me emotionally and mentally.
+This era starts with meeting my second fiancee. Following the relation as it builds, as we both grow together. Her pulling me out of my "Dark Era" and to learn to become the man I am now, living life the best I can make of it. The story will end in tragedy and will go on to destroy me emotionally and mentally.
 
 No current works in this era are completed yet. Future titles of this era will include:
   * First Glance
   * Shared Words
   * Hot Spring
-  * Izzy
+  * Adopting Izzy
   * Expecting
-  * Goodbye
-  * Broken
+  * Goodbye (December 20th, 2013)
+  * Broken (December 21st, 2013)
 
 ## Purgatory Era ##
-_2014 - 2017_
+_2014 - 2018_
 
 After the night of my life's biggest loss, this era begins. This era is mainly uneventful, myself living in a emotional purgatory and suppression. 
 
@@ -64,12 +64,12 @@ More context to this era will be expanded on, when The Hart's Desire era paintin
   * You Took Care of Me
   * Red Purse
   * Last Drinks
-  * The Dam Cracks
+  * The Dam Cracks (December 24th, 2019)
   * Boujee
-  * The Trek
+  * The Trek Begins
 
 ## Escaping Era ##
-_2021 - 2022_
+_2020 - 2023_
 
 This era follows me trying to escape the painful memories of my home and seek out peace. Running in to trouble that would lead me to painting.
 
@@ -81,20 +81,21 @@ This era follows me trying to escape the painful memories of my home and seek ou
 {{< row-end >}}
 
 More context to this era will be expanded on, when The Hart's Desire era paintings are completed. Future titles of this era will include:
-  * Fear
+  * Fear or Spite
   * Circus Act
   * Clown in a Two Piece
-  * Guilty
+  * Conviction
 
 ## Recovery Era ##
-_2023 -_
+_2024 - present_
 
 This era follows dealing with the fallout of the previous, and is when I would begin painting as a necessity. Seeking only a life of content and means of survival.
 
 {{< row-start >}}
-    {{< preview col="4" painting="/artwork/the-artists-assistant/" >}}
-    {{< preview col="4" painting="/artwork/okay-now/" >}}
-    {{< preview col="4" painting="/artwork/avalanche-lilies/" >}}
+    {{< preview col="3" painting="/artwork/erie-rock-ii/" >}}
+    {{< preview col="3" painting="/artwork/the-artists-assistant/" >}}
+    {{< preview col="3" painting="/artwork/okay-now/" >}}
+    {{< preview col="3" painting="/artwork/avalanche-lilies/" >}}
 {{< row-end >}}
 
 Future titles of this era will include:
