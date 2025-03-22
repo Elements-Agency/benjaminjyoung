@@ -42,11 +42,14 @@ status: sale
 products:
     - id: 710975182
       name: Original Painting
+      sold: true
       price: $600
     - id: 711193420
       name: Limited Reproduction
       price: $29
       left: 5
+
+buyer: Gary Stewart (Columbus, OH)
 
 limited: 10
 reproductions:
