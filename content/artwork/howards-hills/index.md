@@ -61,6 +61,8 @@ tag: This painting features an Appalachia landscape, very similar to the rolling
 
 This painting is apart of the [Shades of Olson Collection](/collections/shades-of-olson).
 
+This watercolor painting captures a quiet, nostalgic rural scene, featuring an aged white farmhouse nestled among rolling golden fields and bare trees. The soft, muted tones of the landscape evoke a sense of late autumn or early winter. A lone figure, dressed in dark trousers, a loose-fitting coat, and a black hat, walks along a winding dirt path toward the house, adding a contemplative and perhaps melancholic element to the composition. The hills in the background and the sky, painted in subtle grays and browns, create a tranquil yet slightly somber atmosphere. The detailed brushwork on the trees and the texture of the farmhouse give the painting a timeless quality, reminiscent of traditional Americana and rural solitude.
+
 ### Inspiration ###
 
 I came up with an Appalachia landscape, very similar to the rolling hills I grew up in. The style heavily influenced by Wyatt’s style, such as in his [Christina’s World](https://www.moma.org/collection/works/78455) painting. The house is inspired by a lot of the old farmhouses that were still standing during my childhood but in need of repairs. The man is based off my elderly father, hiking his way across our family farm land. I have found my watercolor style!
