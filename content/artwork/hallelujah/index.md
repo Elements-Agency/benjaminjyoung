@@ -27,11 +27,12 @@ mediums: [oil]
 materials: [canvas]
 colors: [black, blue, tan, brown, grey]
 collections: [the dark trio, figures facing from view, reserved, timeline]
-locations: [door2art, print]
+locations: [kolp, print]
 tags: [song, chair, scissors, woman, man, figure, rope, dark, melancholy, sad, tied, bound, broken, intimate, fixing, trauma, cut, indoors, warm, ben, fat, loss, massillon, number five]
 
 inventory:
-  - door2art: 20215-02-19 - current
+  - kolp: 2025-03-17 - current
+  - door2art: 20215-02-19 - 2025-03-17
   - patina: 20215-02-18 - 20215-02-19
   - culturalcenter: 2025-01-10 - 20215-02-18
   - patina: 2024-10-24 - 2025-01-10
@@ -41,7 +42,6 @@ inventory:
   - patina: 2024-08-28 - 2024-09-12
 
 planning:
-  - door2art: 2025-02-10 - 2025-03-17
   - mansfield: 2025-03-20 - 2025-04-20
 
 status: sale
