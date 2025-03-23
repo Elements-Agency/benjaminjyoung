@@ -27,7 +27,7 @@ mediums: [watercolor]
 materials: [paper]
 colors: [brown, yellow, gold, black]
 collections: [figures facing from view, shades of olson]
-locations: [culturalcenter]
+locations: [kolp]
 tags: [field, farm, couple, man, woman, figure, muted, countryside, wheat, outdoors, autumn, tension, rustic, melancholy, number twenty]
 
 inventory:

@@ -29,11 +29,12 @@ mediums: [oil]
 materials: [canvas panel]
 colors: [black, orange]
 collections: [massillon football]
-locations: [office]
+locations: [kolp]
 tags: [massillon, ohio, tigers, football, sports, helmet, reflective, indoors, cool]
 
 inventory:
-  - patina: 2025-01-18 - current
+  - kolp: idk - current
+  - patina: 2025-01-18 - idk
   - massmu: 2024-08-09 - 2025-01-18
   - patina: 2024-07-27 - 2024-08-09
   - home: 2024-06-08 - 2024-07-27

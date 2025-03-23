@@ -26,7 +26,7 @@ mediums: [oil]
 materials: [canvas]
 colors: [brown, white, black]
 collections: [tiny canvas]
-locations: [office]
+locations: [kolp]
 tags: [american, football, sports, ball, dark, indoors, canton, massillon, ohio, warm]
 
 inventory:

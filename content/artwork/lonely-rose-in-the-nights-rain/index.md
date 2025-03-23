@@ -27,7 +27,7 @@ mediums: [watercolor]
 materials: [cotton paper]
 colors: [red, black, blue, green]
 collections: []
-locations: [office]
+locations: [kolp]
 tags: [rose, flower, stem, rain, night, dark, outdoors, summer, warm]
 
 inventory:

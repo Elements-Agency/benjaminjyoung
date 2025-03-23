@@ -27,7 +27,7 @@ mediums: [watercolor]
 materials: [paper]
 colors: [blue, white, black, yellow]
 collections: [shades of olson, figures facing from view, reserved, timeline]
-locations: [office]
+locations: [kolp]
 tags: [house, fruitcake, delivery, truck, driver, figure, package, light, windows, tree, snow, street, outdoors, winter, solitary, rustic, whimsical, shenanigans, massillon, ohio, number five]
 
 inventory:

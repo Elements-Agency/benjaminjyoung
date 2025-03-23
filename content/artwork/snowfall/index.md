@@ -27,7 +27,7 @@ mediums: [watercolor]
 materials: [cotton paper]
 colors: [white, black, tan]
 collections: [feb 26, timeline]
-locations: [home]
+locations: [office]
 tags: [human, figure, forest, night, dark, tree, snow, winter, melancholy, cold, outdoors]
 
 inventory:

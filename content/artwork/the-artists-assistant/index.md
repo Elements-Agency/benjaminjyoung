@@ -28,7 +28,7 @@ mediums: [watercolor]
 materials: [cotton paper]
 colors: [black, blue, green]
 collections: [timeline]
-locations: [sold, print]
+locations: [sold]
 tags: [princess, cat, pet, cup, hat, head, brush, stick figure, tennis, ball, inception, humor, funny, lighthearted, childish, morbid, foreshadowing, loss, ben, andrea, marcus, audrey, izzy, indoors, warm, number two]
 
 inventory:

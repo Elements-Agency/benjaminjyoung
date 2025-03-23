@@ -27,11 +27,12 @@ mediums: [oil]
 materials: [canvas]
 colors: [black, brown, white]
 collections: [feb 26, timeline]
-locations: [kolp]
+locations: [office]
 tags: [woman, lady, man, smoke, embrace, hug, couple, death, figure, love, suit, dress, dark, indoors, dramatic, winter, surreal]
 
 inventory:
-  - kolp: 2025-03-17 - current
+  - cyrus: 2025-03-22 - current
+  - kolp: 2025-03-17 - 2025-03-22
   - door2art: 20215-02-19 - 2025-03-17
   - patina: 2024-12-20 - 20215-02-19
 

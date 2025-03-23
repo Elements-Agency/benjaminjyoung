@@ -26,7 +26,7 @@ mediums: [watercolor, graphite]
 materials: [cotton paper]
 colors: [orange, green]
 collections: [watercolor sketches]
-locations: [kolp]
+locations: [office]
 tags: [tawny, tiger, lily, flower, stem, petals, plant, summer, outdoors]
 
 inventory:

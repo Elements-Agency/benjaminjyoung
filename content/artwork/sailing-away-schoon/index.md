@@ -29,7 +29,7 @@ mediums: [watercolor]
 materials: [cotton paper]
 colors: [blue, grey]
 collections: [the colors of water]
-locations: [office]
+locations: [kolp]
 tags: [schooner, boat, ocean, waves, mist, morning, sea, water, mountains, outdoors, spring, cool]
 
 inventory:

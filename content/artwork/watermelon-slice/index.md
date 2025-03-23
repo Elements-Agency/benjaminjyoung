@@ -28,7 +28,7 @@ mediums: [watercolor pencil]
 materials: [paper]
 colors: [red, green, black]
 collections: []
-locations: [kolp]
+locations: [office]
 tags: [watermelon, fruit, slice, juicy, seeds, food, summer, bright, cool]
 
 inventory:

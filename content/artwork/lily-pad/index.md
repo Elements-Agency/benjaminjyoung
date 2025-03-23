@@ -30,7 +30,7 @@ mediums: [watercolor, gouache]
 materials: [cotton paper]
 colors: [pink, green, white, brown]
 collections: [lilies]
-locations: [whiterabbit]
+locations: [kolp]
 tags: [lily, flower, pad, water, pond, stones, outdoors, summer, cool]
 
 inventory:
