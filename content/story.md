@@ -30,7 +30,7 @@ _2011 - 2013_
 This era starts with meeting my second fiancee. Following the relation as it builds, as we both grow together. Her pulling me out of my "Dark Era" and to learn to become the man I am now, living life the best I can make of it.
 
 No current works in this era are completed yet. Future titles of this era will include:
-  * First Glance
+  * Show Me What I'm Looking For
   * Shared Words
   * Hot Spring
   * Adopting Izzy
