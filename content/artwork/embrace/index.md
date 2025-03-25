@@ -26,9 +26,9 @@ categories: [realism, surrealism, narrative, painting]
 mediums: [oil]
 materials: [canvas]
 colors: [black, brown, white]
-collections: [feb 26, timeline]
+collections: [feb 26, one last december, timeline]
 locations: [office]
-tags: [woman, lady, man, smoke, embrace, hug, couple, death, figure, love, suit, dress, dark, indoors, dramatic, winter, surreal]
+tags: [woman, lady, man, ben, andrea, smoke, embrace, hug, couple, death, figure, love, suit, dress, dark, indoors, dramatic, winter, surreal]
 
 inventory:
   - cyrus: 2025-03-22 - current

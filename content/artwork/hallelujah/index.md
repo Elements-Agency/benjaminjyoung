@@ -26,9 +26,9 @@ categories: [realism, narrative, painting]
 mediums: [oil]
 materials: [canvas]
 colors: [black, blue, tan, brown, grey]
-collections: [the dark trio, figures facing from view, reserved, timeline]
+collections: [the dark trio, one last december, figures facing from view, reserved, timeline]
 locations: [kolp]
-tags: [song, chair, scissors, woman, man, figure, rope, dark, melancholy, sad, tied, bound, broken, intimate, fixing, trauma, cut, indoors, warm, ben, fat, loss, massillon, number five]
+tags: [song, chair, scissors, woman, man, ben, figure, rope, dark, melancholy, sad, tied, bound, broken, intimate, fixing, trauma, cut, indoors, warm, ben, fat, loss, massillon, number five]
 
 inventory:
   - kolp: 2025-03-17 - current

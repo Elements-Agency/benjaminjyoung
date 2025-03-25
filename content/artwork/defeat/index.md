@@ -28,7 +28,7 @@ materials: [cotton paper]
 colors: [white, blue, tan]
 collections: [timeline]
 locations: [kolp]
-tags: [human, figure, tennis, racket, summer, emotion, agony, failure, warm, outdoors, day]
+tags: [human, man, ben, figure, tennis, racket, summer, emotion, agony, failure, warm, outdoors, day]
 
 inventory:
   - kolp: idk - current

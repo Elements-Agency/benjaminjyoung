@@ -30,7 +30,7 @@ materials: [canvas]
 colors: []
 collections: [the harts desire, reserved, timeline]
 locations: [home]
-tags: [andrea, aj, ben, number two]
+tags: [andrea, aj, ben, pain, loss, trauma, death, number two]
 
 inventory:
   - home: 2044-01-01 - current

@@ -26,9 +26,9 @@ categories: [realism, narrative, landscape, painting]
 mediums: [watercolor]
 materials: [cotton paper]
 colors: [white, black, tan]
-collections: [feb 26, timeline]
+collections: [feb 26, one last december, timeline]
 locations: [office]
-tags: [human, figure, forest, night, dark, tree, snow, winter, melancholy, cold, outdoors]
+tags: [human, figure, ben, forest, night, dark, tree, snow, dundee falls, winter, melancholy, cold, outdoors]
 
 inventory:
   - cyrus: idk - current

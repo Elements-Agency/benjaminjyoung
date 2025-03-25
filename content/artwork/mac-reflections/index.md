@@ -30,7 +30,7 @@ materials: [construction paper]
 colors: [black, grey]
 collections: [self portraits]
 locations: [sold]
-tags: [human, face, self, facial hair, beard, dark, peace, calm, ben, indoors, cool]
+tags: [human, face, self, ben, facial hair, beard, dark, peace, calm, ben, indoors, cool]
 
 inventory:
   - buyer: 2024-07-06

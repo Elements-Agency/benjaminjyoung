@@ -28,7 +28,7 @@ materials: [cotton paper]
 colors: [black, brown]
 collections: [timeline]
 locations: [kolp]
-tags: [human, figure, office, work, room, desk, shadow, melancholy, success, warm, indoors, day]
+tags: [human, figure, man, ben, office, work, room, desk, shadow, melancholy, success, warm, indoors, day]
 
 inventory:
   - kolp: idk - current
