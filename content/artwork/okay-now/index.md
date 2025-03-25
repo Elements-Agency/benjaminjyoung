@@ -10,7 +10,7 @@ images: ['painting.jpg']
 videos: []
 
 featured: true
-order: 2
+order: 5
 ratio: portrait
 power: 337
 favorite: true
@@ -31,7 +31,8 @@ locations: [sold]
 tags: [woman, lady, old, window, wood, face, expression, gaze, house, glasses, earthy, outdoors, summer, rustic]
 
 inventory:
-  - brydu: idk - current
+  - buyer: 2025-03-30
+  - brydu: idk - 2025-03-30
   - patina: 2024-11-21 - idk
 
 planning:
