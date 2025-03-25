@@ -35,8 +35,10 @@ No current works in this era are completed yet. Future titles of this era will i
   * Hot Spring
   * Adopting Izzy
   * Expecting
+  * Carol of the Bells
+  * The Call (December 20th, 2013)
   * Goodbye (December 20th, 2013)
-  * Broken (December 20th, 2013)
+  * Broken (December 21st, 2013)
 
 ## Purgatory Era ##
 _2014 - 2018_
@@ -44,6 +46,7 @@ _2014 - 2018_
 After the night of my life's biggest loss, this era begins. This era is mainly uneventful, myself living in a emotional purgatory and suppression. 
 
 No current works in this era are completed yet. Future titles of this era will include:
+  * Going to Voicemail
   * Office Christmas Party
   * Lapels and Pens
   * People Watching
