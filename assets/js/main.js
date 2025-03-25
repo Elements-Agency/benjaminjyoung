@@ -1,8 +1,15 @@
-/*
-	Parallelism by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
+function trackEngaged() {
+	if (localStorage.engaged) {
+		return;
+	}
+
+	fbq('trackCustom', 'Engaged');
+	rdt('track', 'Custom', { customEventName: 'Engaged' });
+	pintrk('track', 'engagement');
+	gtag('event', 'engaged', {});
+	
+	localStorage.engaged = true;
+}
 
 (function($) {
 
@@ -386,5 +393,9 @@
 					});
 
 			})();
+
+	$('a, button, input').click(function() {
+		trackEngaged();
+	});
 
 })(jQuery);
