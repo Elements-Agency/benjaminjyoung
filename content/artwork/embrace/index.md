@@ -37,7 +37,7 @@ inventory:
   - patina: 2024-12-20 - 20215-02-19
 
 planning:
-  - mansfield: 2025-03-20 - 2025-04-20
+  zanesville: 2025-04-15 - 2025-09-13
 
 status: sale
 products:

@@ -41,6 +41,9 @@ inventory:
   - patina: 2024-06-29 - 2024-09-29
   - home: 2024-06-16 - 2024-06-29
 
+planning:
+  - little: 2025-04-15 - 2025-07-01
+
 status: sale
 products:
     - id: 672644323

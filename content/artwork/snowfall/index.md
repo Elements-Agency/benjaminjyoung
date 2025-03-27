@@ -35,7 +35,7 @@ inventory:
   - home: 2025-02-26 - idk
 
 planning:
-  - mansfield: 2025-03-20 - 2025-04-20
+  zanesville: 2025-04-15 - 2025-09-13
 
 status: sale
 products:

@@ -36,6 +36,9 @@ inventory:
   - patina: 2024-09-16 - current
   - home: 2024-09-10 - 2024-09-16
 
+planning:
+  - oaca: 2025-05-30 - 2025-09-14
+
 status: sale
 products:
     - id: 694481795

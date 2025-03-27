@@ -42,7 +42,7 @@ inventory:
   - patina: 2024-08-28 - 2024-09-12
 
 planning:
-  - mansfield: 2025-03-20 - 2025-04-20
+  - oaca: 2025-05-30 - 2025-09-14
 
 status: sale
 products:

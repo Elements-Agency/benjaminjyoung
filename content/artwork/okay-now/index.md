@@ -35,10 +35,6 @@ inventory:
   - brydu: idk - 2025-03-30
   - patina: 2024-11-21 - idk
 
-planning:
-  - summit: 2025-03-24 - 2025-06-16
-  - ows: 2025-05-03 - 2025-08-03
-
 status: sale
 products:
     - id: 710975182

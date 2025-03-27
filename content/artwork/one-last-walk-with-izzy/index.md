@@ -35,10 +35,6 @@ inventory:
   - summit: 2024-12-20 - idk
   - patina: 2024-11-11 - 2024-12-20
 
-planning:
-  - summit: 2024-12-20 - 2025-03-16 (confirmed)
-  - mansfield: 2025-03-20 - 2025-04-20
-
 status: sale
 products:
     - id: 708668936
