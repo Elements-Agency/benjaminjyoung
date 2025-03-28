@@ -49,7 +49,7 @@
         return false;
       }
 
-      function trackEnd() {console.log('hit');
+      function trackEnd() {
         fbq('trackCustom', 'ViewProduct', {
           content_category: 'Artwork',
           content_name: '{{- .Title -}}',
@@ -63,6 +63,8 @@
         rdt('track', 'Custom', { customEventName: 'View Product' });
         pintrk('track', 'scroll');
         gtag('event', 'view_product', {});
+
+        trackEngaged();
       }
 
       function watchScroll() {
