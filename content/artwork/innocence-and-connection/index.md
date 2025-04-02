@@ -9,10 +9,10 @@ aliases: [/innocence-and-connection]
 images: ['painting.jpg']
 videos: []
 
-featured: true
-order: 0
+featured: false
+order: 99
 ratio: square
-power: 9000
+power: 1
 favorite: false
 
 supplies:
@@ -38,6 +38,7 @@ products:
     - id: 738046313
       name: Original Painting
       price: $100,000
+      sold: true
 
 tag: A true masterpiece, with an amazing amount of details and complexity hidden beneath layers of paint.
 ---
