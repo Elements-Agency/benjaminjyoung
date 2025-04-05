@@ -50,3 +50,5 @@ tag: A true masterpiece, with an amazing amount of details and complexity hidden
 {{< cta >}}
 
 This striking minimalist oil painting captures the essence of human connection through two simple stick figures holding hands against a bold black background. The stark contrast of white on black creates a powerful visual impact, evoking both childlike innocence and deep emotional symbolism. The raw, unembellished style invites interpretation, making it a thought-provoking centerpiece for any modern space. Signed by the artist, this unique piece blends simplicity with depth, offering a compelling conversation starter for collectors and art enthusiasts alike.
+
+This piece will hopefully hang in the halls of The Guggenheim or The Met.
