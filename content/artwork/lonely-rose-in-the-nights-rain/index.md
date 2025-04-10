@@ -34,6 +34,9 @@ inventory:
   - kolp: idk - current
   - patina: 2024-08-14 - idk
 
+planning:
+  - little: 2025-04-15 - 2025-07-01
+
 status: sale
 products:
     - id: 688767257

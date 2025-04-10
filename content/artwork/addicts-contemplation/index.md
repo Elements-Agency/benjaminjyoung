@@ -37,6 +37,9 @@ inventory:
   - patina: 2024-06-29 - 2024-09-29
   - home: 2024-06-20 - 2024-06-29
 
+planning:
+  - whiterabbit: 2025-06-07 - 2025-07-12
+
 status: sale
 products:
     - id: 673936559

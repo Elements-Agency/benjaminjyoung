@@ -37,7 +37,7 @@ inventory:
   - patina: 2025-02-02 - idk
 
 planning:
-  - little: 2025-04-15 - 2025-07-01
+  - whiterabbit: 2025-06-07 - 2025-07-12
 
 status: sale
 products:
