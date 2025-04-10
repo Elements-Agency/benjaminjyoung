@@ -29,11 +29,12 @@ mediums: [oil]
 materials: [mdf board]
 colors: [red, pink, purple, black]
 collections: []
-locations: [kolp]
+locations: [cyrus]
 tags: [pomegranate, fruit, shiny, metal, bowl, velvet, tablecloth, dark, indoors, table, warm]
 
 inventory:
-  - kolp: 2025-03-15 - current
+  - cyrus: 2025-04-07 - custom
+  - kolp: 2025-03-15 - 2025-04-07
   - culturalcenter: 2025-01-10 - 2025-03-15
   - patina: 2024-09-04 - 2025-01-10
   - home: 2024-07-27 - 2024-09-04

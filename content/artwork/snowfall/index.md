@@ -27,11 +27,12 @@ mediums: [watercolor]
 materials: [cotton paper]
 colors: [white, black, tan]
 collections: [feb 26, one last december, timeline]
-locations: [office]
+locations: [kolp]
 tags: [human, figure, ben, forest, night, dark, tree, snow, dundee falls, winter, melancholy, cold, outdoors]
 
 inventory:
-  - cyrus: idk - current
+  - kolp: 2025-04-07 - current
+  - cyrus: idk - 2025-04-07
   - home: 2025-02-26 - idk
 
 planning:

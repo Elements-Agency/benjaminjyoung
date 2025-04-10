@@ -29,7 +29,7 @@ mediums: [oil pastel]
 materials: [construction paper]
 colors: [blue, green, brow, white]
 collections: [the colors of water]
-locations: [kolp]
+locations: [office]
 tags: [coast, sea, ocean, waves, rock, water, sun, sky, summer, warm, outdoors, ireland, dim, relaxing, cool]
 
 inventory:

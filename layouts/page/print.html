@@ -91,7 +91,7 @@
 
             {{ $posts := slice }}
             {{ range .Site.RegularPages }}
-                {{ if in .Params.locations "patina" }}
+                {{ if in .Params.locations "kolp" }}
                     {{ $posts = $posts | append . }}
                 {{ end }}
             {{ end }}
@@ -126,13 +126,9 @@
                                         <br>
                                     </strong>-->
                                 {{ end }}
-                                <!--<strong>Sale Price:</strong>
                                 {{ if (index (.Params.products) 0).price }}
-                                    <del style="color:#555;">{{ (index (.Params.products) 0).price }}</del>
-                                    <strong style="color:#0f7d0f;">{{ (index (.Params.products) 0).patina }}</strong>
-                                {{ else }}
-                                    <strong style="color:#0f7d0f;">{{ (index (.Params.products) 0).price }}</strong>
-                                {{ end }}-->
+                                    {{ (index (.Params.products) 0).price }}
+                                {{ end }}
                             </p>
                         </div>
                         <div class="{{ if .Params.tag }}right{{ else }}left{{ end }} align-center" style="{{ if .Params.tag }}float:right;{{ else }}float:left;{{ end }} padding:10px 10px 0 10px;">
@@ -140,13 +136,13 @@
                             <div style="color:#555; line-height:1em; font-size:0.6em;">Scan to Learn More</div>
                         </div>
                         {{ if .Params.tag }}
-                            <div style="clear:both; padding:10px 20px 0 20px;">
+                            <!--<div style="clear:both; padding:10px 20px 0 20px;">
                                 <br>
                                 <p style="line-height:1.2em;">{{ .Params.tag}}</p>
-                            </div>
+                            </div>-->
                         {{ end }}
                         <script>
-                            $('#qr-{{ $hash }}').qrcode({width: 100,height: 100,text: "https://benjaminjyoung.com/{{ .RelPermalink }}?utm_campaign=gallery&utm_source=patina"});
+                            $('#qr-{{ $hash }}').qrcode({width: 100,height: 100,text: "https://benjaminjyoung.com/{{ .RelPermalink }}?utm_campaign=gallery&utm_source=kolp"});
                         </script>
 
                         <div class="enable field">
@@ -202,7 +198,7 @@
                             <div style="color:#555; line-height:1em; font-size:0.6em;">Scan to Learn More</div>
                         </div>
                         <script>
-                            $('#qr-{{ $hash }}').qrcode({width: 100,height: 100,text: "https://benjaminjyoung.com/{{ .RelPermalink }}?utm_campaign=gallery&utm_source=patina"});
+                            $('#qr-{{ $hash }}').qrcode({width: 100,height: 100,text: "https://benjaminjyoung.com/{{ .RelPermalink }}?utm_campaign=gallery&utm_source=kolp"});
                         </script>
 
                         <div class="enable field">

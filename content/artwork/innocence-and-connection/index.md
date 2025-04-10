@@ -27,7 +27,7 @@ mediums: [oil]
 materials: [canvas]
 colors: [black, white]
 collections: []
-locations: [kolp]
+locations: [office]
 tags: [human, man, figure, woman, hand, holding, love, emotion, happiness, genius, masterpiece, complex]
 
 inventory:
