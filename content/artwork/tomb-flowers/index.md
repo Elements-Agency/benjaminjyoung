@@ -33,8 +33,8 @@ locations: [sold]
 tags: [lily, flower, tomb, resting, andrea, aj, andrea, surreal, spring, cool, loss, number two]
 
 inventory:
-  - buyer: 2024-04-12
-  - patina: 2024-12-01 - 2024-04-12
+  - buyer: 2025-04-12
+  - patina: 2024-12-01 - 2025-04-12
   - home: 2024-09-04 - 2024-12-01
   - patina: 2024-05-18 - 2024-09-04
   - home: 2024-05-02 - 2024-05-18
