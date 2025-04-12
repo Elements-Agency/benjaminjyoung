@@ -15,7 +15,9 @@
   https://gohugo.io/content-management/related/
 */}}
 
-{{ $related := .Site.RegularPages.Related . | first 6 }}
+{{ $related := .Site.RegularPages.Related . }}
+{{ $related := where $related "Params.disliked" "ne" true }}
+{{ $related := $related | first 6 }}
 
 {{ with $related }}
   <div style="text-align:center;">
