@@ -6,4 +6,4 @@ keywords: [ben young, benjamin young, contemporary artist, artwork paintings, im
 aliases: [/gallery]
 ---
 
-Ben Young is a contemporary fine arts painter, originating from Appalachia Ohio. Painting in watercolor and oil paint since beginning in December 2023. A fairly new artist with a lot of raw talent continuing to develop. He specializes in painting emotional narratives based on his own experiences and feelings.
+Ben Young is a contemporary fine arts painter hailing from Appalachia Ohio. Painting in watercolor and oil paint since December 2023. He is a relatively new artist with lots of raw talent and continuing to refine his style. He specializes in painting emotional narratives based on his own experiences and feelings.
