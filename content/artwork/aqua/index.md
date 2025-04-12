@@ -16,6 +16,7 @@ order: 99
 ratio: portrait
 power: 13
 favorite: false
+disliked: true
 
 supplies:
   - medium: Water Soluble Pencils

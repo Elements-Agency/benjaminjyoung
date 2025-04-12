@@ -16,6 +16,7 @@ order: 99
 ratio: portrait
 power: 15
 favorite: false
+disliked: true
 
 supplies:
   - medium: Liquitex Basic Acrylics

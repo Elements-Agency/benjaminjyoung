@@ -14,6 +14,7 @@ order: 99
 ratio: square
 power: 55
 favorite: false
+disliked: true
 
 supplies:
   - medium: M Graham Oil Paints

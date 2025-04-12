@@ -13,6 +13,7 @@ order: 99
 ratio: portrait
 power: 9
 favorite: false
+disliked: true
 
 supplies:
   - medium: M Graham Watercolor

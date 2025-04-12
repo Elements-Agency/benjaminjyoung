@@ -16,6 +16,7 @@ order: 99
 ratio: square
 power: 49
 favorite: false
+disliked: true
 
 supplies:
   - medium: Kaloir Watercolor Pencils

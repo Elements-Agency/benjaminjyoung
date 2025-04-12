@@ -16,6 +16,7 @@ order: 99
 ratio: landscape
 power: 220
 favorite: false
+disliked: true
 
 supplies:
   - medium: Crayola Watercolor Paint

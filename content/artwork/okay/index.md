@@ -16,6 +16,7 @@ order: 99
 ratio: portrait
 power: 12
 favorite: false
+disliked: true
 
 supplies:
   - medium: Graphite Pencil

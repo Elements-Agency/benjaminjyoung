@@ -13,6 +13,7 @@ order: 99
 ratio: landscape
 power: 31
 favorite: false
+disliked: true
 
 supplies:
   - medium: M Graham Watercolor

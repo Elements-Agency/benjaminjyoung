@@ -16,6 +16,7 @@ order: 99
 ratio: portrait
 power: 546
 favorite: false
+disliked: true
 
 supplies:
   - medium: Crayola Watercolor Paint

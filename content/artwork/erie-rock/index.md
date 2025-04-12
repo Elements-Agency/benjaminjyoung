@@ -16,6 +16,7 @@ order: 99
 ratio: portrait
 power: 552
 favorite: false
+disliked: true
 
 supplies:
   - medium: Marie's Watercolor and Gouache Paint

@@ -17,6 +17,7 @@ order: 99
 ratio: landscape
 power: 142
 favorite: false
+disliked: true
 
 supplies:
   - medium: Marie's Watercolor Paint
