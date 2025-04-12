@@ -14,7 +14,7 @@ videos: [https://www.instagram.com/p/C3mpPeQgORk/, https://youtube.com/shorts/JN
 featured: false
 order: 99
 ratio: portrait
-power: 37
+power: 38
 favorite: false
 
 supplies:

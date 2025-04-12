@@ -12,7 +12,7 @@ videos: []
 featured: false
 order: 99
 ratio: square
-power: 1
+power: 55
 favorite: false
 
 supplies:

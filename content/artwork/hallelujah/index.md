@@ -12,7 +12,7 @@ videos: []
 featured: true
 order: 1
 ratio: portrait
-power: 1172
+power: 1524
 favorite: true
 
 supplies:

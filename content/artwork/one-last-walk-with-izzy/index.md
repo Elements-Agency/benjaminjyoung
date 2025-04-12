@@ -12,7 +12,7 @@ videos: []
 featured: true
 order: 3
 ratio: landscape
-power: 2311
+power: 6754
 favorite: true
 
 supplies:

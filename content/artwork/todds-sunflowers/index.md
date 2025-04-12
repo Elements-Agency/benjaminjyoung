@@ -11,7 +11,7 @@ videos: []
 featured: false
 order: 99
 ratio: portrait
-power: 22
+power: 25
 favorite: false
 
 supplies:

@@ -14,7 +14,7 @@ videos: []
 featured: false
 order: 99
 ratio: landscape
-power: 158
+power: 192
 favorite: false
 
 supplies:
