@@ -39,6 +39,7 @@ Coming VERY soon.
 
   * Upcoming
     * September 12th - **GROUP** [Stark County Bar Association's](https://starkctybar.com) Law in Art Exhibit at [Cyrus Custom Framing & Art Gallery](https://www.cyruscustom.com).
+    * September 20th - **JURIED** [Ohio Watercolor Society's Exhibit](https://www.ohiowatercolorsociety.org/watercolor-ohio-2025) hosted at [Springfield Museum of Art](https://www.springfieldart.net).
     * December - **SOLO** Exhibit at [Brewtifully](https://www.tracydawnbrewer.com).
   * 2025
     * **JURIED** [FRESH Exhibition](https://www.summitartspace.org/fresh-2025/) hosted at [Summit Artspace](https://www.summitartspace.org).
@@ -47,6 +48,7 @@ Coming VERY soon.
     * **GROUP** New Artist Showcase at [The Hub Art Factory](https://www.thehubcanton.com).
     * **JURIED** [Bryn Du Art Show](https://www.bryndu.com/bryn-du-art-show) at the [Bryn Du Mansion](https://www.bryndu.com).
     * **JURIED** [Door 2 Art Show](https://www.door2art.com/artshow) hosted at [Door 2 Art](https://www.door2art.com).
+    * **JURIED** [Artists of Rubber City Exhibit](https://www.summitartspace.org/aorc-juried-exhibition-2025/) hosted at [Summit Artspace](https://www.summitartspace.org).
   * 2024
     * **BENEFIT** [Patina First Fundraiser: A Celebration of Art, Community, and Creativity](https://www.facebook.com/events/869821251632238/) hosted at Patina Arts Centre.
     * **JURIED**  [Brown's Town: Art Inspired by Ohio's Football Heritage](https://paulbrownmuseum.org/exhibits/detail/browns-town-art-inspired-by-ohios-football-heritage) hosted at [Massillon Museum](http://massillonmuseum.org/).

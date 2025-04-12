@@ -5,7 +5,7 @@ description: Young Money is a watercolor painting displaying my contempt of corp
 alt: A watercolor painting of a solitary man in a dark suit stands in a dimly lit office, his back to the viewer, as stark contrasts of light and shadow create a melancholic, introspective atmosphere.
 author: Benjamin J. Young
 
-aliases: [/young-money]
+aliases: [/young-money, /artwork/pretrial, /pretrial]
 images: ['painting.jpg']
 videos: []
 
@@ -68,3 +68,7 @@ This watercolor painting presents a moody, atmospheric scene of a solitary man s
 Another large watercolor work. Always working in layers upon layers with watercolor.
 
 {{< progress >}}
+
+## Accolades ##
+
+* Featured in the [2025 Artists of Rubber City Exhibit](https://www.summitartspace.org/aorc-juried-exhibition-2025/) hosted at [Summit Artspace](https://www.summitartspace.org).

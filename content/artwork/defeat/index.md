@@ -38,6 +38,7 @@ inventory:
 
 planning:
   - whiterabbit: 2025-06-07 - 2025-07-12
+  - oacb: 2025-10-11 - 2026-02-01
 
 status: sale
 products:

@@ -40,6 +40,7 @@ inventory:
 
 planning:
   - ows: 2025-05-03 - 2025-08-03
+  - oacb: 2025-10-11 - 2026-02-01
 
 status: sale
 products:
@@ -75,3 +76,4 @@ The scene is that of my visual creative take of Avalanche Lilies with Mount Rain
 
 * Featured in the [3rd Annual Juried Flora Exhibit](https://www.whiterabbitgalleries.org/event-details/flora-3rd-annual-juried-exhibition-2025-01-17-16-00) at the [White Rabbit Galleries](https://www.whiterabbitgalleries.org).
 * **Honorable Mention** at the [3rd Annual Juried Flora Exhibit](https://www.whiterabbitgalleries.org/event-details/flora-3rd-annual-juried-exhibition-2025-01-17-16-00).
+* Featured in the [2025 Ohio Watercolor Society's Exhibit](https://www.ohiowatercolorsociety.org/watercolor-ohio-2025) hosted at [Springfield Museum of Art](https://www.springfieldart.net).

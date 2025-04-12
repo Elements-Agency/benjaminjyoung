@@ -36,6 +36,7 @@ inventory:
   
 planning:
   - little: 2025-04-15 - 2025-07-01
+  - oacb: 2025-10-11 - 2026-02-01
 
 status: sale
 products:
