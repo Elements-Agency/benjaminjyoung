@@ -20,7 +20,7 @@ timeout = '600'
 [params]
   commentoEnable = false
   location = "Studio #220. 318 Cleveland Ave NW. Canton, Ohio 44702. USA."
-  sale = "Winter Sale. 10% OFF all orders using discount code 'SNOWFALL'. Until March 20th. Or receive 20% OFF when you"
+  sale = "Receive 20% OFF when you"
   favicon = '/favicon.ico'
   [params.social]
     facebook		= "artist.benjamin.young"
