@@ -52,7 +52,7 @@
               {{ $thumbnail := $thumbnail.Fill "160x160 Center" }}
               {{ $thumbnail := $thumbnail.Resize "160x webp q90" }}
 
-              <a href="{{ .RelPermalink }}#main" class="image" title="{{ .Title }} ({{ .Date| time.Format `2006` }})">
+              <a href="{{ .RelPermalink }}" class="image" title="{{ .Title }} ({{ .Date| time.Format `2006` }})">
                   <img style="background: #000 url('/images/loader.gif') center no-repeat;" width="140px" height="140px" src="{{ $thumbnail.RelPermalink }}" loading="lazy" alt="{{ .Params.alt }}" title='{{ .Title }} ({{ .Date| time.Format "2006" }}) by Ben Young'>
               </a>
             {{ end }}
@@ -62,7 +62,7 @@
         <br>
 
         <p style="text-align: center;">
-            <a href="/shop#main" class="button">Shop Artwork &gt;</a>
+            <a href="/shop" class="button">Shop Artwork &gt;</a>
         </p>
       </article>
     </div>

@@ -430,13 +430,13 @@
 
             <div class="next-post" style="float:left;">
               {{ if .NextPage }}
-                <a class="link-reverse" href="{{ .NextPage.Permalink }}#main">« {{ .NextPage.Title | truncate 50 "..." }}</a>
+                <a class="link-reverse" href="{{ .NextPage.Permalink }}">« {{ .NextPage.Title | truncate 50 "..." }}</a>
               {{ end }}
             </div>
             
             <div class="previous-post" style="float:right;">
               {{ if .PrevPage }}
-                <a class="link-reverse" href="{{ .PrevPage.Permalink }}#main">{{ .PrevPage.Title | truncate 50 "..."}} »</a>
+                <a class="link-reverse" href="{{ .PrevPage.Permalink }}">{{ .PrevPage.Title | truncate 50 "..."}} »</a>
               {{ end }}
             </div>
         </section>
@@ -445,7 +445,7 @@
           <aside class="w-30-l mt6-l">
             {{- partial "menu-contextual.html" . -}}
 
-            <p style="text-align:center;"><strong><a href="/artwork#main">View All Artwork &gt;</a></strong></p>
+            <p style="text-align:center;"><strong><a href="/artwork">View All Artwork &gt;</a></strong></p>
           </aside>
         {{ end }}
     </div>

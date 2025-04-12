@@ -1,7 +1,7 @@
 <div id="{{ trim .Title " -" | safeURL }}" class="relative w-100 mb4 bg-white nested-copy-line-height">
   <div class="bg-white mb3 pa4 gray overflow-hidden">
     <h2 class="f3 near-black" style="font-size:3em; margin-bottom:0.2em;">
-      <a href="{{ .RelPermalink }}#main" class="link black dim">
+      <a href="{{ .RelPermalink }}" class="link black dim">
         {{ .Title }}
       </a>
     </h2>
@@ -13,7 +13,7 @@
 
       {{ with $thumbnail }}
         <span class="image right">
-          <a class="thumbnail" href="{{ $.RelPermalink }}#main" data-position="center">
+          <a class="thumbnail" href="{{ $.RelPermalink }}" data-position="center">
             <img src="{{ .RelPermalink }}" alt="{{ $.Params.alt }}" title='{{ $.Title }} ({{ $.Date| time.Format "2006" }}) by Ben Young' />
           </a>
         </span>
@@ -27,7 +27,7 @@
 
       {{ with $thumbnail }}
         <span class="image right">
-          <a class="thumbnail" href="{{ $.RelPermalink }}#main" data-position="center">
+          <a class="thumbnail" href="{{ $.RelPermalink }}" data-position="center">
             <img src="{{ .RelPermalink }}" alt="{{ $.Params.alt }}" title='{{ $.Title }} ({{ $.Date| time.Format "2006" }}) by Ben Young' />
           </a>
         </span>
@@ -42,7 +42,7 @@
       <p>{{ .Summary }}</p>
     </div>
 
-    <a href="{{ .RelPermalink }}#main" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">
+    <a href="{{ .RelPermalink }}" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">
       <strong>
         {{ if .Resources.GetMatch "painting.jpg" }}
           View Full Artwork &amp;

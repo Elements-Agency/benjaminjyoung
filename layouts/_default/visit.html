@@ -33,7 +33,7 @@
             <ul style="text-align: center; padding: 0; margin: 0;">
                 {{ range $favorites }}
                     <li style="list-style:none; display:inline-block; text-align:center;">
-                    <a class="thumbnail" href="{{ .RelPermalink }}#main">
+                    <a class="thumbnail" href="{{ .RelPermalink }}">
                         {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
                         {{ if $thumbnail }}
                             {{ $thumbnail := $thumbnail.Fill "200x200 Center" }}
