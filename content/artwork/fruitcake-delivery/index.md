@@ -21,12 +21,12 @@ supplies:
   - frame: 
 size: 16x12in (41x31cm)
 
-series: [shades of olson]
+series: []
 categories: [realism, narrative, landscape, architecture, painting]
 mediums: [watercolor]
 materials: [paper]
 colors: [blue, white, black, yellow]
-collections: [shades of olson, figures facing from view, reserved, timeline]
+collections: [figures facing from view, reserved, timeline]
 locations: [kolp]
 tags: [house, fruitcake, delivery, truck, driver, figure, package, light, windows, tree, snow, street, outdoors, winter, solitary, rustic, whimsical, shenanigans, massillon, ohio, number five]
 
@@ -60,8 +60,6 @@ On December 22nd, 2020: **Fruitcake Delivery** is just in time for the upcoming 
 <!--more-->
 
 {{< cta >}}
-
-This painting is apart of the [Shades of Olson Collection](/collections/shades-of-olson).
 
 ### Inspiration ###
 

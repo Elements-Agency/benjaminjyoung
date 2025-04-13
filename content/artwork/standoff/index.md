@@ -21,12 +21,12 @@ supplies:
   - frame: 
 size: 20x14in (51x36cm)
 
-series: [shades of olson]
+series: []
 categories: [realism, narrative, landscape, painting]
 mediums: [watercolor]
 materials: [paper]
 colors: [brown, yellow, gold, black]
-collections: [figures facing from view, shades of olson]
+collections: [figures facing from view]
 locations: [kolp]
 tags: [field, farm, couple, man, woman, figure, muted, countryside, wheat, outdoors, autumn, tension, rustic, melancholy, number twenty]
 
@@ -53,8 +53,6 @@ limited: 10
 <!--more-->
 
 {{< cta >}}
-
-This painting is apart of the [Shades of Olson Collection](/collections/shades-of-olson).
 
 {{< details >}}
 

@@ -50,7 +50,6 @@ products:
       left: 9
 
 limited: 10
-reproductions:
 
 tag: For 15 years, I built a career in software engineering. Working my way up the white-collar ladder. At the height of my career, working up to the Director or Executive level. At times, running my own businesses. My same-aged friends coined the nickname “Young Money” for me, which I was never big on being titled. Sooner or later, I believe all of us working in an office setting eventually reflect and ask ourselves, “What am I doing?” Questioning if what we’re doing is even meaningful. Maybe longing for the outdoors and venturing into the rest of the world beyond the concrete highrise walls in that corporate park. This painting is meant to exemplify that moment of reflection.
 ---

@@ -46,10 +46,10 @@ products:
       price: $600
     - id: 694564503
       name: Limited Reproduction
-      price: $29
-      left: 6
+      price: $49
+      left: 49
 
-limited: 10
+limited: 60
 reproductions:
   - 1: Artober (Massillon, OH)
 

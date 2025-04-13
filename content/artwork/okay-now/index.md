@@ -43,12 +43,12 @@ products:
       price: $600
     - id: 711193420
       name: Limited Reproduction
-      price: $29
-      left: 4
+      price: $49
+      left: 37
 
 buyer: Gary Stewart (Columbus, OH)
 
-limited: 10
+limited: 60
 reproductions:
   - 1: Denise Hunt (Canton, OH)
   - 2: Teresa Hoffman (Bothell, Washington)
