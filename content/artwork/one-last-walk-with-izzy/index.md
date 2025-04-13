@@ -48,7 +48,7 @@ products:
 
 buyer: Gary Stewart (Columbus, OH)
 
-limited: 10
+limited: 60
 reproductions:
   - 1: Fred Boone (Canton, OH)
   - 2: Lorie Hobbie (Arlington, TX)
