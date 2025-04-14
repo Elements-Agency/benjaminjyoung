@@ -47,10 +47,10 @@ products:
       price: $960
     - id: 716135890
       name: Limited Reproduction
-      price: $29
-      left: 7
+      price: $49
+      left: 48
 
-limited: 10
+limited: 60
 reproductions:
   - 1: Chloe Oberting (Cuyahoga Falls, OH)
   - 2: Becky Myers (Ada, MI)

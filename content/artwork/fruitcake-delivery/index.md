@@ -45,10 +45,10 @@ products:
       price: $580
     - id: 711216274
       name: Limited Reproduction
-      price: $29
-      left: 8
+      price: $49
+      left: 49
 
-limited: 10
+limited: 60
 reproductions:
   - 1: Pam Pratt (Winchester, KY)
 

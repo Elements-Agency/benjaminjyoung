@@ -38,8 +38,8 @@ status: sold
 products:
     - id: 689537964
       name: Limited Reproduction
-      price: $29
-      left: 6
+      price: $49
+      left: 49
     - id: 689389017
       name: Original Painting
       price: $580
@@ -47,7 +47,7 @@ products:
 
 buyer: Eric Anderson (Columbus, OH)
 
-limited: 10
+limited: 60
 reproductions:
   - 1: Artober (Massillon, OH)
 ---

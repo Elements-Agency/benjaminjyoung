@@ -42,14 +42,14 @@ status: sold
 products:
     - id: 683098813
       name: Limited Reproduction
-      price: $29
-      left: 5
+      price: $49
+      left: 38
     - id: 675661538
       name: Original Painting
       price: $500
       sold: true
 
-limited: 10
+limited: 60
 
 reproductions:
   - 1: Steph Sweany (Canton, OH)

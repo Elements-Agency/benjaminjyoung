@@ -51,10 +51,10 @@ products:
       price: $2,600
     - id: 691515048
       name: Limited Reproduction
-      price: $29
-      left: 6
+      price: $49
+      left: 39
 
-limited: 10
+limited: 60
 reproductions:
   - 1: Johnathan Becker (Artober. Massillon, OH)
 
