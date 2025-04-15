@@ -33,8 +33,6 @@ tags: [bug, ladybug, insect, creepy]
 inventory:
   - kolp: 2025-03-02 - current
 
-limited: 10
-
 tag: A 1 hour watercolor painting of a ladybug.
 ---
 
