@@ -1,7 +1,7 @@
 <ul class="pa0">
 
   <li style="list-style:none; display:inline-block;">
-    <strong>Keywords:</strong>
+    <strong>Keywords: </strong>
   </li>
   {{ range .GetTerms "tags" }}
   <li style="list-style:none; display:inline-block; border:1px solid #bbb; border-radius:5px; padding:0 1em;">
@@ -12,7 +12,7 @@
  {{ end }}
 
   <li style="list-style:none; display:inline-block;">
-    <strong>Collections:</strong>
+    <strong>Collections: </strong>
   </li>
   {{ range .GetTerms "collections" }}
    <li style="list-style:none; display:inline-block; border:1px solid #bbb; border-radius:5px; padding:0 1em;">
@@ -23,7 +23,7 @@
   {{ end }}
 
   <li style="list-style:none; display:inline-block;">
-    <strong>Colors:</strong>
+    <strong>Colors: </strong>
   </li>
   {{ range .GetTerms "colors" }}
    <li style="list-style:none; display:inline-block; border:1px solid #bbb; border-radius:5px; padding:0 1em;">
@@ -34,7 +34,7 @@
   {{ end }}
 
   <li style="list-style:none; display:inline-block;">
-    <strong>Categories:</strong>
+    <strong>Categories: </strong>
   </li>
   {{ range .GetTerms "categories" }}
    <li style="list-style:none; display:inline-block; border:1px solid #bbb; border-radius:5px; padding:0 1em;">
@@ -45,7 +45,7 @@
   {{ end }}
 
   <li style="list-style:none; display:inline-block;">
-    <strong>Mediums:</strong>
+    <strong>Mediums: </strong>
   </li>
   {{ range .GetTerms "mediums" }}
    <li style="list-style:none; display:inline-block; border:1px solid #bbb; border-radius:5px; padding:0 1em;">
