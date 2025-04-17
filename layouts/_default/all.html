@@ -45,6 +45,8 @@
               pintrk('track', 'search', {
                 search_query: 'All'
               });
+
+              trackEngaged();
             </script>
 
             {{ range $i,$p := (sort $section "Params.power" "desc") }}

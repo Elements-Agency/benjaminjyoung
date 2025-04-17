@@ -46,6 +46,8 @@
               pintrk('track', 'search', {
                 search_query: 'Narratives'
               });
+
+              trackEngaged();
             </script>
 
             {{ range $i,$p := (sort $section "Params.power" "desc") }}
