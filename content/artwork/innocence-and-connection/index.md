@@ -44,9 +44,11 @@ products:
 tag: A true masterpiece, with an amazing amount of details and complexity hidden beneath layers of paint.
 ---
 
-**Innocence and Connection** is a true masterpiece, and both my greatest and biggest work yet! The countless hours over months this painting took me, and the excruciating details in every inch. It's a spark of genius in a 4 foot by 4 foot canvas. This painting will echo through time as one of true masterpieces to have every been painted.
+*This was my **April Fools joke** for 2025.* The canvas will be repurposed to paint "Silver Ballet."
 
 <!--more-->
+
+**Innocence and Connection** is a true masterpiece, and both my greatest and biggest work yet! The countless hours over months this painting took me, and the excruciating details in every inch. It's a spark of genius in a 4 foot by 4 foot canvas. This painting will echo through time as one of true masterpieces to have every been painted.
 
 {{< cta >}}
 

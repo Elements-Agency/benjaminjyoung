@@ -18,7 +18,7 @@ favorite: true
 supplies:
   - medium: M Graham Oil Paints
   - on: Stretched Cotton Canvas
-  - frame: 
+  - frame:  Cyrus Custom Framing
 size: 16x20in
 
 series: [feb 26]

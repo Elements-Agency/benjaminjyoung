@@ -5,7 +5,9 @@ heading: Artwork Story
 description: My main bodies of work are laid out in my life's story.
 ---
 
-My main focus of artwork makes up my life story. They are split into six current sections or "eras". I have most work that I have not started, already planned out. I know exactly how I want them to look and how I want them to feel. After all, it is my life and memory.
+While each painting objectively should stand on it's own, my main focus of artworks makes up my life story. There is a continued narrative among each iteration. As a group, they are split into six current sections or "eras". Most work that has not started is already planned out. I know exactly how I want them to look and how I want them to feel. After all, it is my life and memory.
+
+Follow the story of my life story in these paintings, grouped by their respected eras:
 
 ## Childhood Era ##
 _1990 - 2008_
@@ -50,7 +52,7 @@ No current works in this era have been completed yet. Future titles of this era 
   * **Decembers** - I hate Decembers.
   * **Office Christmas Party** - Me holding a keg as my friend does a keg stand in jean cut-off short-shorts.
   * **Lapels and Pens** - My bespoke suits and gold-nibbed Mont Blanc.
-  * **People Watching** - A past-time. Sometimes with good company.
+  * **Summer Shandy** - A strange guest shows up at my door with a six pack of Summer Shandy Ale.
 
 ## Second Hartbeat Era ##
 _2018 - 2020_
@@ -65,12 +67,13 @@ This era follows the events that took place that lead me to seek healing my trau
 {{< row-end >}}
 
 More context in this era will be expanded on when The Hart's Desire era paintings are completed. Future titles of this era will include:
+  * **People Watching** - A past-time. Sometimes with good company.
   * **You Took Care of Me** - Chariot with leather seats await.
   * **Red Purse** - My 29th birthday dinner.
   * **Last Call** _(December 21st, 2019)_ - A final round of drinks with friends.
   * **The Dam Cracks** _(December 24th, 2019)_ - A surrealism explosion of emotions.
   * **Boujee** - A man in a suit confronts a pool boy.
-  * **The Trek Begins** - From 262lbs, to down 100...
+  * **The Trek Begins** - From 262lbs, down to 158lbs...
 
 ## Escaping Era ##
 _2020 - 2023_
@@ -89,6 +92,7 @@ More context in this era will be expanded on when The Hart's Desire era painting
   * **Circus Act**
   * **Clown in a Two Piece**
   * **Conviction**
+  * **Imprisoned**
 
 ## Recovery Era ##
 _2024 - present_
@@ -106,6 +110,7 @@ Future titles of this era will include:
   * **Dove** - A man drags on a cigarette, staring at a pigeon under a street light.
   * **Rehabilitated** - A clown sits on the sidewalk, unable to return to the circus.
   * **Witnessing Escape** - An aging man sits at the window, staring out into the snowy landscape.
+  * **Little Reminders** - Sometimes something as simple as forgotten hair pin can be a reminder.
   * **Silver Ballet** - An old woman dancing ballet.
   * **Leather Shoes** - Sometimes you step in dog shit with your nice pair of dress shoes, and you just have to fling it off.
   * **Flame in the Dark** - A curious moment of intent focus staring into a candle flame.
