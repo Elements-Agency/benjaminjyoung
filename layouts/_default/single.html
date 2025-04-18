@@ -350,15 +350,17 @@
               {{ if or (eq .Params.status "sale") (eq .Params.status "sold") }}
                 <article id="purchase" class="clear">
                   <div class="box clear" style="background-color: #eee;">
-                    <h2 style="text-align: center;">Purchase {{ .Title }}</h2>
+                    <h2 style="text-align: center;">
+                      🛒 Purchase {{ .Title }} 🛒
+                    </h2>
 
                     {{ if $.Site.Params.sale }}
                       <p style="font-size:0.9em; margin-bottom:0.5em;">
                         <strong style="color:red;">
-                          Limited Time Sale:
+                          ⚠️ Limited Time Sale:
                         </strong>
                         {{ $.Site.Params.sale }}
-                        <a href="/sign-up">sign up for my newsletter</a>.
+                        <a href="/sign-up">sign up for my newsletter</a>. ✉️
                       </p>
                     {{ end }}
                     
