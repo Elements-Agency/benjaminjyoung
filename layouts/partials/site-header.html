@@ -7,7 +7,7 @@
     <img style="border-radius:500px;" src="{{ $ben.RelPermalink }}" width="150px" height="150px" title="It's {{ .Params.heading | default .Site.Title }}" alt="Photograph of {{ .Params.heading | default .Site.Title }}">
   </p>
 
-  {{ $logo := resources.GetMatch "images/logo.png" }}
+  {{ $logo := resources.GetMatch "images/logo-inverted.png" }}
   {{ $logo := $logo.Fill "300x150 Center" }}
   {{ $logo := $logo.Resize "300x webp q85" }}
   <h1 style="text-align:center;">

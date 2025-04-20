@@ -14,6 +14,11 @@
     {{ $logo := $logo.Fill "600x300 Center" }}
     {{ $logo := $logo.Resize "600x webp q86" }}
     {{ .Store.Set "logo" $logo.Permalink }}
+
+    {{ $logoinvert := resources.GetMatch "images/logo-inverted.png" }}
+    {{ $logoinvert := $logoinvert.Fill "600x300 Center" }}
+    {{ $logoinvert := $logoinvert.Resize "600x webp q86" }}
+    {{ .Store.Set "logoinvert" $logoinvert.Permalink }}
     
     {{ $production := eq (getenv "HUGO_ENV") "production" | or (eq site.Params.env "production") }}
     {{ $public := not .Params.private }}

@@ -3310,7 +3310,7 @@ input, select, textarea {
 
 	#intro .button {
 		text-shadow: none !important;
-		background-color: rgb(32, 32, 32) !important;
+		background-color: rgba(0, 0, 0, 0.5) !important;
 	}
 
 		#intro input, #intro select, #intro textarea {
@@ -3565,7 +3565,6 @@ input, select, textarea {
 			pointer-events: auto;
 			border-style: solid;
 			border-color: #ffffff;
-			background: rgba(255, 255, 255);
 			border-width: 5px !important;
 			font-family: "Source Sans Pro", Helvetica, sans-serif;
 			font-size: 2.25rem;
@@ -3616,7 +3615,7 @@ input, select, textarea {
 		-webkit-transition: -webkit-transform 1s ease, opacity 1s ease;
 		-ms-transition: -ms-transform 1s ease, opacity 1s ease;
 		transition: transform 1s ease, opacity 1s ease;
-		background: rgba(255, 255, 255, 0.175);
+		background: rgba(0, 0, 0, 0.5);
 		height: 4rem;
 		line-height: 4rem;
 		margin: -4rem auto 0 auto;
