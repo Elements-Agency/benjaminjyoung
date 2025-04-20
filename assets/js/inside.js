@@ -7,6 +7,8 @@ function trackEngaged() {
 	rdt('track', 'Custom', { customEventName: 'Engaged' });
 	pintrk('track', 'engagement');
 	gtag('event', 'engaged', {});
+
+	fbq('trackCustom', 'EngagedInside');
 	
 	localStorage.engaged = true;
 }
