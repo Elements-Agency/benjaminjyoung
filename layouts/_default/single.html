@@ -1,5 +1,19 @@
 {{ define "styles" }}
     {{ partial "inside-style.html" . }}
+
+    {{ if .Resources.GetMatch "painting.jpg" }}
+      {{ $bg := .Resources.GetMatch "painting.jpg" }}
+      {{ $bg := $bg.Fit "1680x2000 webp q80" }}
+
+      <style>
+        #wrapper > .bg {
+          background-image: url("{{ $bg.RelPermalink }}"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("/images/bg.jpg");
+          background-size: 100%;
+          background-position: center;
+          background-repeat: no-repeat;
+        }
+      </style>
+    {{ end }}
 {{ end }}
 
 {{ define "scripts" }}
@@ -105,30 +119,34 @@
 {{ define "main" }}
   {{ $section := .Site.GetPage "section" .Section }}
     <div id="wrapper">
-      <!-- Do NOT remove inline styles on bg below -->
-      <div class="bg fixed" style='position:fixed; top:0; left:0; z-index:-1; width:100vw; height:100vh; background-color:#ddd; background-image:url("/images/background.webp"); background-size:cover; background-position:center; background-repeat:no-repeat; background-attachment:scroll;'></div>
+      
+				<!-- Intro -->
+        <div id="intro">
+          <h1>{{- .Title -}}</h1>
+          <p>
+            {{ .Description }}
+          </p>
+          <ul class="actions">
+              <li><a href="#post" class="button big wide scrolly">See More</a></li>
+          </ul>
+      </div>
 
-    {{ block "header" . }}{{ partial "inside-header.html" .}}{{ end }}
+      {{ block "header" . }}{{ partial "inside-header.html" .}}{{ end }}
 
-    {{ block "nav" . }}{{ partial "inside-navigation.html" .}}{{ end }}
+      {{ block "nav" . }}{{ partial "inside-navigation.html" .}}{{ end }}
 
     <div id="main">
-        <section class="post">
-            {{ if .IsPage }}
-              <nav class="breadcrumbs">
-                <a href="{{ .Site.BaseURL }}#{{ trim .Title " -" | safeURL }}" class="link blue hover-black">Home</a>
-                <span class="mh1">/</span>
-                <a href="{{ .CurrentSection.RelPermalink }}#{{ trim .Title " -" | safeURL }}" class="link blue hover-black">{{ .CurrentSection.Title }}</a>
-                <span class="mh1">/</span>
-                <a href="{{ .RelPermalink }}" class="link blue hover-black">{{ .Title }}</a>
-              </nav>
-            {{ end }}
+        <section class="post" id="post">
+          <header class="major">
+            <span class="date">
+              {{ if not .Date.IsZero }}
+                <time class="date" {{ printf `datetime="%s"` (.Date.Format "2006-01-02T15:04:05Z07:00") | safeHTMLAttr }}>
+                  <em>{{- .Date | time.Format (default "January 2, 2006" .Site.Params.date_format) -}}</em>
+                </time>
+              {{ end }}
+            </span>
 
-            <br>
-
-            <header class="major">
-                <h1>{{- .Title -}}</h1>
-            </header>
+            <h2 id="title">{{ .Title }}</h2>
 
             {{ if .Resources.GetMatch "painting.jpg" }}
               <section style="text-align:center;">
@@ -159,6 +177,7 @@
                 </a>
               </section>
             {{ end }}
+          </header>
 
             <article>
               {{ if .Resources.GetMatch "painting.jpg" }}
@@ -166,14 +185,6 @@
                   About The {{ title (index (.Params.mediums) 0) }} Painting
                 </h2>
               {{ end }}
-
-              <p>
-                {{ if not .Date.IsZero }}
-                  <time class="date" {{ printf `datetime="%s"` (.Date.Format "2006-01-02T15:04:05Z07:00") | safeHTMLAttr }}>
-                    <em>{{- .Date | time.Format (default "January 2, 2006" .Site.Params.date_format) -}}</em>
-                  </time>
-                {{ end }}
-              </p>
 
               {{- .Content -}}
 
