@@ -84,7 +84,7 @@
 						{{ $section := where $section "Params.featured" true }}
 
 						<!-- Gallery -->
-                        <div class="gallery style1 medium onscroll-fade-in">
+                        <div class="gallery style1 small onscroll-fade-in">
                             {{ range $i,$p := (sort $section "Params.order" "asc") }}
                                 {{ if lt $i 12 }}
                                     {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
@@ -111,7 +111,6 @@
 							<p>
 								Ben mainly works with <a href="/mediums/oil">oil paint</a> and <a href="/mediums/watercolor">watercolors</a>.
 								Occasionally drawing with <a href="/mediums/watercolor-pencil">watercolor pencils</a> or <a href="/mediums/oil-pastel">oil pastels</a>.
-								Inspired by <a href="/categories/impressionism">impressionism</a>, he mainly paints in <a href="/categories/realism">realism</a>.
 								The use of <a href="/categories/landscape">landscapes</a> is inspired by everywhere he has traveled, from Ohio to Germany.
 								His <a href="/categories/narrative">narratives</a> are an expression of his own life experiences and emotions.
 								From trauma and loss to finding peace.
