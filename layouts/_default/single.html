@@ -147,7 +147,7 @@
               {{ end }}
             </span>
 
-            <h2 id="title">{{ .Title }}</h2>
+            <h2 id="title" style="font-size:3em;">{{ .Title }}</h2>
 
             {{ if .Resources.GetMatch "painting.jpg" }}
               <section style="text-align:center;">
@@ -177,6 +177,16 @@
                   </div>
                 </a>
               </section>
+
+              <p>
+                {{ .Title }}.
+                {{ title (index (.Params.mediums) 0) | default "Paint" }}
+                on {{ title (index (.Params.materials) 0) | default "Canvas" }}.
+                {{ .Params.size }}.
+                {{ .Params.author }}.
+                <br>
+                <a class="preview" href="{{ $full.RelPermalink }}">Click Image to View Full Screen</a>
+              </p>
             {{ end }}
           </header>
 
