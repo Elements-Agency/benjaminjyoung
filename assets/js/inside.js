@@ -1,4 +1,12 @@
 function trackEngaged() {
+	if (localStorage.engagedInside) {
+		return;
+	}
+
+	fbq('trackCustom', 'EngagedInside');
+
+	localStorage.engagedInside = true;
+
 	if (localStorage.engaged) {
 		return;
 	}
@@ -7,8 +15,6 @@ function trackEngaged() {
 	rdt('track', 'Custom', { customEventName: 'Engaged' });
 	pintrk('track', 'engagement');
 	gtag('event', 'engaged', {});
-
-	fbq('trackCustom', 'EngagedInside');
 	
 	localStorage.engaged = true;
 }
