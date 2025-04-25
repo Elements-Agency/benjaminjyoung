@@ -10,6 +10,7 @@ images: ['painting.jpg']
 videos: []
 
 featured: false
+more: true
 order: 7
 ratio: landscape
 power: 155
@@ -35,9 +36,6 @@ inventory:
   - culturalcenter: 2025-01-10 - 2025-03-15
   - patina: 2024-11-05 - 2025-01-10
   - home: 2024-10-12 - 2024-11-05
-
-planning:
-  - little: 2025-04-15 - 2025-07-01
 
 status: sale
 products:

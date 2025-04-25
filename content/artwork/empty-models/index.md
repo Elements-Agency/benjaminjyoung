@@ -12,6 +12,7 @@ images: ['painting.jpg']
 videos: [https://www.instagram.com/p/C3XZXDsuuum/]
 
 featured: false
+more: true
 order: 99
 ratio: portrait
 power: 45

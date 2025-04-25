@@ -10,7 +10,8 @@ images: ['painting.jpg']
 videos: []
 
 featured: false
-order: 99
+more: true
+order: 21
 ratio: portrait
 power: 201
 favorite: false
@@ -33,9 +34,6 @@ tags: [rose, flower, stem, rain, night, dark, outdoors, summer, warm]
 inventory:
   - kolp: idk - current
   - patina: 2024-08-14 - idk
-
-planning:
-  - little: 2025-04-15 - 2025-07-01
 
 status: sale
 products:

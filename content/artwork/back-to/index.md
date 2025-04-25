@@ -13,6 +13,7 @@ images: ['painting.jpg']
 videos: [https://www.instagram.com/p/C4fX_ZiuC8p/, https://youtube.com/shorts/35AX0Eu-C7w]
 
 featured: false
+more: false
 order: 99
 ratio: landscape
 power: 142

@@ -12,6 +12,7 @@ images: ['painting.jpg']
 videos: []
 
 featured: false
+more: false
 order: 99
 ratio: square
 power: 49

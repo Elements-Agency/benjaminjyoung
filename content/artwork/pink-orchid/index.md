@@ -9,6 +9,7 @@ images: ['painting.jpg']
 videos: []
 
 featured: false
+more: true
 order: 99
 ratio: landscape
 power: 19

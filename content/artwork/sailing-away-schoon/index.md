@@ -12,7 +12,8 @@ images: ['painting.jpg']
 videos: []
 
 featured: false
-order: 99
+more: true
+order: 16
 ratio: landscape
 power: 157
 favorite: false
@@ -36,9 +37,6 @@ inventory:
   - kolp: idk - current
   - patina: 2024-06-07 - idk
   - home: 2024-06-07 - 2024-06-07
-
-planning:
-  - little: 2025-04-15 - 2025-07-01
 
 status: sale
 products:

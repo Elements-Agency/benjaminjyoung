@@ -10,6 +10,7 @@ images: ['painting.jpg']
 videos: []
 
 featured: true
+more: true
 order: 3
 ratio: landscape
 power: 6754

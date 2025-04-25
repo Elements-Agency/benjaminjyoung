@@ -12,8 +12,9 @@ aliases: [/lily-pad]
 images: ['painting.jpg']
 videos: []
 
-featured: true
-order: 13
+featured: false
+more: true
+order: 20
 ratio: landscape
 power: 203
 favorite: false
@@ -40,9 +41,6 @@ inventory:
   - home: 2024-09-29 - 2024-12-01
   - patina: 2024-06-29 - 2024-09-29
   - home: 2024-06-16 - 2024-06-29
-
-planning:
-  - little: 2025-04-15 - 2025-07-01
 
 status: sale
 products:

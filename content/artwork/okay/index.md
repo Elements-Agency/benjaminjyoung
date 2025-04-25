@@ -12,6 +12,7 @@ images: ['painting.jpg']
 videos: []
 
 featured: false
+more: false
 order: 99
 ratio: portrait
 power: 12

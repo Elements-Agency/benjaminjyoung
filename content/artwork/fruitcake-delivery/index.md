@@ -10,6 +10,7 @@ images: ['painting.jpg']
 videos: []
 
 featured: true
+more: true
 order: 11
 ratio: landscape
 power: 166
@@ -35,7 +36,6 @@ inventory:
   - patina: 2024-10-29 - idk
   
 planning:
-  - little: 2025-04-15 - 2025-07-01
   - oacb: 2025-10-11 - 2026-02-01
 
 status: sale

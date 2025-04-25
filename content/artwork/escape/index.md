@@ -12,7 +12,8 @@ images: ['painting.jpg']
 videos: [https://www.instagram.com/p/C3pK2JvOevm/, https://youtube.com/shorts/TSyQTgGJjD0]
 
 featured: false
-order: 99
+more: false
+order: 14
 ratio: landscape
 power: 351
 favorite: false
@@ -40,10 +41,6 @@ inventory:
 
 status: sold
 products:
-    - id: 678649270
-      name: Limited Reproduction
-      price: $59
-      sold: true
     - id: 645943624
       name: Original Painting
       price: $420
