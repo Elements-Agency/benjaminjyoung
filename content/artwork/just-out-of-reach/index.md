@@ -41,7 +41,7 @@ planning:
 status: sale
 products:
     - id: 745421967
-      name: Original Drawing
+      name: Original Painting
       price: $420
 ---
 

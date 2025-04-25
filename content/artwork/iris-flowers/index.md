@@ -34,6 +34,12 @@ tags: [flower, bouquet, iris, leaf, petal, stem]
 inventory:
   - kolp: 2025-04-13 - current
 
+status: sale
+products:
+    - id: 745421974
+      name: Original Drawing
+      price: $160
+
 tag: My first attempt to mix both watercolor and oil pastels.
 ---
 
