@@ -9,7 +9,7 @@ aliases: [/just-out-of-reach]
 images: ['painting.jpg']
 videos: []
 
-featured: false
+featured: true
 more: true
 order: 13
 ratio: landscape
