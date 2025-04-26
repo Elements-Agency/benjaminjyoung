@@ -20,7 +20,7 @@ timeout = '600'
 [params]
   commentoEnable = false
   location = "Studio #220. 318 Cleveland Ave NW. Canton, Ohio 44702. USA."
-  sale = "Receive 20% OFF when you"
+  sale = "$25 Off Prints with code HOTPRINTS, or 10% off with WARMWEATHER. Or receive 20% OFF when you"
   favicon = '/favicon.ico'
   [params.social]
     facebook		= "artist.benjamin.young"
