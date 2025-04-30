@@ -20,7 +20,7 @@ supplies:
   - medium: M. Graham Watercolor Paint
   - on: Fabriano Artistico Cold Press Watercolor Block
   - frame: Cyrus Custom Framing
-size: 18x20in (45.7x50.8cm)
+size: 18x24in (45.7x61.0cm)
 
 series: []
 categories: [realism, narrative, painting]
