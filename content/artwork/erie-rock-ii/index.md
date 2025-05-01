@@ -40,7 +40,7 @@ products:
     - id: 689537964
       name: Limited Reproduction
       price: $49
-      left: 49
+      left: 58
     - id: 689389017
       name: Original Painting
       price: $580
@@ -50,7 +50,8 @@ buyer: Eric Anderson (Columbus, OH)
 
 limited: 60
 reproductions:
-  - 1: Artober (Massillon, OH)
+  - 1: Ben Young (East Sparta, OH)
+  - 2: Artober (Massillon, OH)
 ---
 
 This watercolor painting captures a striking and serene scene of a solitary rock formation rising from the shallow waters. The rock, dark and textured, is crowned by a small group of slender trees, their delicate branches reaching skyward. The surrounding water is a soft, muted green, gently reflecting the rock's rugged base. The sky above is overcast, with layers of pale gray clouds stretching across the horizon, adding a contemplative mood to the piece. The overall composition evokes a sense of isolation and resilience, as the rock and trees stand alone, enduring the passage of time in a tranquil, almost ethereal landscape.

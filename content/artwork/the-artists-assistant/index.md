@@ -44,7 +44,7 @@ products:
     - id: 683098813
       name: Limited Reproduction
       price: $49
-      left: 38
+      left: 57
     - id: 675661538
       name: Original Painting
       price: $500
@@ -53,8 +53,9 @@ products:
 limited: 60
 
 reproductions:
-  - 1: Steph Sweany (Canton, OH)
-  - 2: Canton Comedy Boom (Canton, OH)
+  - 1: Ben Young (East Sparta, OH)
+  - 2: Steph Sweany (Canton, OH)
+  - 3: Canton Comedy Boom (Canton, OH)
 
 buyer: Jocelyn Maciol (Los Angeles, CA)
 

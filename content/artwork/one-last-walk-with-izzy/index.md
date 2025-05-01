@@ -44,20 +44,23 @@ products:
       price: $840
     - id: 711216285
       name: Limited Reproduction
-      price: $49
+      price: $59
       left: 23
 
 buyer: Gary Stewart (Columbus, OH)
 
 limited: 60
 reproductions:
-  - 1: Fred Boone (Canton, OH)
-  - 2: Lorie Hobbie (Arlington, TX)
-  - 3: Lucy Lurz (Gainesville, FL)
-  - 4: Corey Sheppard (Roanoke, VA)
-  - 5: Maryanne Jensen-Gowan (Pelham, NH)
-  - 6: Allen Ernst (Bellevue, IA)
-  - 7: Christine Allen (West Chester, PA)
+  - 1: Ben Young (East Sparta, OH)
+  - 2: Fred Boone (Canton, OH)
+  - 3: Lorie Hobbie (Arlington, TX)
+  - 4: Lucy Lurz (Gainesville, FL)
+  - 5: Corey Sheppard (Roanoke, VA)
+  - 6: Maryanne Jensen-Gowan (Pelham, NH)
+  - 7: Allen Ernst (Bellevue, IA)
+  - 8: Christine Allen (West Chester, PA)
+  - 9: Sarah Heffington (Franklin, TN)
+  - 10: Cindy Swank (Corvallis, OR)
 
 tag: The man walking is myself, with the blond hair shimmering from the bright autumn sun. The companion by my side is my late Border Collie dog, Izzy. The landscape is inspired by the Ohio Appalachian Plateau hills I grew up with. It's a memory I never got to have with my faithful family member, before she passed. She was always by my side in her life span, but sometimes time escapes us too quickly, and by the time I was in healthy enough state to hike myself, she had grown too elderly and weary to join me in my long walks of reflection.
 ---

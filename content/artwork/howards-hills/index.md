@@ -48,11 +48,12 @@ products:
     - id: 694564503
       name: Limited Reproduction
       price: $49
-      left: 49
+      left: 58
 
 limited: 60
 reproductions:
-  - 1: Artober (Massillon, OH)
+  - 1: Ben Young (East Sparta, OH)
+  - 2: Artober (Massillon, OH)
 
 tag: This painting features an Appalachia landscape, very similar to the rolling hills I grew up in. The house is inspired by a lot of the old farmhouses that were still standing during my childhood but in need of repairs. The man is based off my elderly father, hiking his way across our family farm land.
 ---
