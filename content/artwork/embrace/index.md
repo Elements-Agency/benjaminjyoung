@@ -11,7 +11,7 @@ videos: []
 
 featured: true
 more: true
-order: 3
+order: 6
 ratio: portrait
 power: 554
 favorite: true
