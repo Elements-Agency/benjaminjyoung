@@ -44,6 +44,7 @@ inventory:
 
 planning:
   - oaca: 2025-05-30 - 2025-09-14
+  - massmu: 2025-10-22 - 2026-01-14
 
 status: sale
 products:

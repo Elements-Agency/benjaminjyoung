@@ -34,6 +34,9 @@ tags: [human, figure, ben, marcus, boy, youth, fire, flame, candle, dark, glow, 
 inventory:
   - kolp: 2025-04-30 - current
 
+planning:
+  - massmu: 2025-10-22 - 2026-01-14
+
 status: sale
 products:
     - id: 746855079

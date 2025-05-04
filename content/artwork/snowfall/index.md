@@ -37,7 +37,7 @@ inventory:
   - home: 2025-02-26 - idk
 
 planning:
-  zanesville: 2025-04-15 - 2025-09-13
+  zanesville: 2025-05-30 - 2025-09-13
 
 status: sale
 products:
