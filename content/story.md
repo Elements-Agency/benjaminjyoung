@@ -72,6 +72,7 @@ More context in this era will be expanded on when The Hart's Desire era painting
   * **Red Purse** - My 29th birthday dinner.
   * **Last Call** _(December 21st, 2019)_ - A final round of drinks with friends.
   * **The Dam Cracks** _(December 24th, 2019)_ - A surrealism explosion of emotions.
+  * **In To The Woods** _(February 26th, 2020)_ - A man walking in to the woods at sunset.
   * **Boujee** - A man in a suit confronts a pool boy.
   * **The Trek Begins** - From 262lbs, down to 158lbs...
 
