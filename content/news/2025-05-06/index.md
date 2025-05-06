@@ -32,7 +32,7 @@ I set out to specifically paint something dramatic and eye catching in watercolo
 {{< button class="fit" href="/artwork/in-the-dark/" text="View Painting" >}}
 
 
-## I'm headed to Springfield Museum of Art ##
+## I'm headed to the Springfield Museum of Art ##
 
 **[Avalanche Lilies](/artwork/avalanche-lilies)** has been accepted in to the 2025 Ohio Watercolor Society exhibit, at Springfield Museum of Art. That shoe is starting on September 20th. I am honored to have been chosen to have my work displayed in this exhibit and this is a big deal for me. If you're in South West or Central Ohio, be sure to check the exhibit out!
 
