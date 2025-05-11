@@ -50,8 +50,8 @@ products:
     - id: 750657720
       name: Limited Reproduction
       price: $19
-      limited: 120
-      left: 119
+      limited: 200
+      left: 199
 
 buyer: Gary Stewart (Columbus, OH)
 
