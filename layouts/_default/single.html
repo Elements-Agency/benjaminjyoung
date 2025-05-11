@@ -378,18 +378,12 @@
 
                     {{ if $.Site.Params.sale }}
                       <p style="font-size:0.9em; margin-bottom:0.5em;">
-                        <strong style="color:red;">
-                          ⚠️ Limited Time Sale:
-                        </strong>
-                        {{ $.Site.Params.sale }}
-                        <a href="/sign-up">sign up for my newsletter</a>. ✉️
+                        <strong>Newsletter Discount:</strong>
+                        Sign up for my artist newsletter to receive a <strong style="color:red;">20% OFF</strong> discount code for your first order.
+                        Plus receive exclusive updates and offers.
+                        <strong><a href="/sign-up">Click to Sign Up &gt;</a></strong>
                       </p>
-                    {{ end }}
-                    
-                    {{ if eq .Params.status "sold" }}
-                      <p style="font-size:0.9em; margin-bottom:0.5em;">
-                        The original of this painting has been sold.
-                      </p>
+                      <br>
                     {{ end }}
 
                     <div class="row" style="text-align: center;">
