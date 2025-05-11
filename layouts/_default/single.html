@@ -416,7 +416,15 @@
                             {{ if $product.sold }}
                               <strong style="color: red; text-transform: uppercase;">Sold Out</strong>
                             {{ else if $product.left }}
-                              <strong style="color: orange; text-transform: uppercase;">Only {{ $product.left }} Left of {{ $.Params.limited }}</strong>
+                              <strong style="color: orange; text-transform: uppercase;">
+                                Only {{ $product.left }}
+                                Left of
+                                {{ if $product.limited }}
+                                  {{ $product.limited }}
+                                {{ else }}
+                                  {{ $.Params.limited }}
+                                {{ end }}
+                              </strong>
                             {{ else }}
                               <strong style="color: green; text-transform: uppercase;">For Sale</strong>
                             {{ end }}
