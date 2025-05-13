@@ -34,9 +34,6 @@ tags: [house, fruitcake, delivery, truck, driver, figure, package, light, window
 inventory:
   - kolp: idk - current
   - patina: 2024-10-29 - idk
-  
-planning:
-  - oacb: 2025-10-11 - 2026-02-01
 
 status: sale
 products:
