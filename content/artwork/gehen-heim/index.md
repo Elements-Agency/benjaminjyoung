@@ -55,8 +55,6 @@ buyer: Fred Boone (Bolivar, OH)
 
 This is the third iteration in the [Winter Escape collection](/collections/winter-escape/).
 
-{{< cta >}}
-
 ### Inspiration ###
 
 This artwork is to further define the narrative of the [Winter Escape series](/collections/winter-escape/), bringing the setting to nightfall, to prepare for the final piece.

@@ -59,7 +59,7 @@ A flame glows brightest **in the dark**. I frequently use fire and ice as metaph
 
 <!--more-->
 
-{{< cta >}}
+{{< cta artwork="In The Dark" >}}
 
 This watercolor painting depicts a young man gazing intently at a single candle flame he cradles in his hands. The composition is strikingly dramatic, with deep shadows surrounding the subject and the warm candlelight casting vivid highlights across his face. I have captured the play of light and shadow, using warm hues to accentuate the boy’s concentrated expression, his blue eyes reflecting the flickering flame. The texture of the candle wax, the detail in his hair, and the subtle tones of his skin are all rendered with exceptional realism, creating a sense of quiet introspection and intimacy. This painting is an atmospheric and emotionally resonant work.
 

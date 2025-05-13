@@ -63,7 +63,7 @@ I knew an old wise woman once. She told me to make my way back to Strasbourg, so
 
 <!--more-->
 
-{{< cta >}}
+{{< cta artwork="Okay Now" >}}
 
 This watercolor painting captures a moment of quiet contemplation, featuring an elderly woman leaning out of a rustic wooden window. Her face is rich with detail, marked by deep wrinkles and a thoughtful expression, accentuated by her large glasses that reflect subtle light. The dark background contrasts with her warm, earthy skin tones and the light-colored blouse she wears, emphasizing her presence and evoking a sense of nostalgia. The worn texture of the wooden frame adds an authentic, aged character to the composition, further enhancing the storytelling within this evocative portrait.
 

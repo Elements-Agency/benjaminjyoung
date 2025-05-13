@@ -62,7 +62,7 @@ _Based on October 7th, 2022:_ A few years ago I had accomplished a dream of mine
 
 <!--more-->
 
-{{< cta >}}
+{{< cta artwork="Defeat" >}}
 
 This captivating watercolor painting portrays a tennis player standing tall in the midst of a vast, sunlit field, with his gaze directed upward toward the expansive blue sky. The interplay of light and shadow emphasizes the sweat glistening on his skin, capturing the raw intensity and effort of the moment. His posture, both weary and agonized, suggests a hard-fought battle, only to fall short, while the worn tennis racket in his hand hints at a story of resilience and determination. The textured brushstrokes and the rich, earthy tones of the landscape contrast beautifully with the vibrant blue sky, evoking a sense of serenity and reflection. It’s a striking composition that celebrates the spirit of emotion and the beauty of an imperfect life.
 

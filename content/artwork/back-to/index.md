@@ -68,8 +68,6 @@ In the midst of a serene, snow-covered landscape, a solitary figure captures our
 
 This is the second iteration in the [Winter Escape collection](/collections/winter-escape/).
 
-{{< cta >}}
-
 ### Inspiration ###
 
 {{< img src="reference.webp" width="200px" height="267px" class="floatright" gallery="progress" alt="Back To Reference Photo" title="Snow covered Towpath trail" link="reference.jpg" >}}

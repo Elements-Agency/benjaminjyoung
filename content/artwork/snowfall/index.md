@@ -61,7 +61,7 @@ tag: The snowfall to me is such a funny thing. Its tranquility is something I’
 
 <!--more-->
 
-{{< cta >}}
+{{< cta artwork="Snowfall" >}}
 
 This painting is apart of the [Feb 26th Collection](/collections/feb-26)
 

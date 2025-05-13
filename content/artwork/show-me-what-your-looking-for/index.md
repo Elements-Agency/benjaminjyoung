@@ -45,7 +45,7 @@ That was the night I met Andrea.
 
 This is the final painting of **[The Dark Trio Series](/collections/the-dark-trie)** and is the first painting in to the **[The Hart's Desire Series](/collections/the-harts-desire)**.
 
-{{< cta >}}
+{{< cta artwork="Show Me What Your Looking For" >}}
 
 ### Inspiration ###
 

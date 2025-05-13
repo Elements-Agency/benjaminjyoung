@@ -64,7 +64,7 @@ A faux Stargazer lily decorated the shelves at the bar where we met, and you not
 
 <!--more-->
 
-{{< cta >}}
+{{< cta artwork="Avalanche Lilies" >}}
 
 This watercolor painting features a dramatic alpine landscape with a foreground of delicate white lilies. The flowers are beautifully detailed, with their petals catching subtle light, standing out against the darker and rugged surroundings. The mid-ground consists of golden grasses and rocks, transitioning to a backdrop of majestic, shadowed mountains, crowned by a snow-covered peak under a cloudy sky.
 

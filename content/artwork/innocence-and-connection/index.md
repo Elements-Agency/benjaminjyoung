@@ -51,8 +51,6 @@ tag: A true masterpiece, with an amazing amount of details and complexity hidden
 
 **Innocence and Connection** is a true masterpiece, and both my greatest and biggest work yet! The countless hours over months this painting took me, and the excruciating details in every inch. It's a spark of genius in a 4 foot by 4 foot canvas. This painting will echo through time as one of true masterpieces to have every been painted.
 
-{{< cta >}}
-
 This striking minimalist oil painting captures the essence of human connection through two simple stick figures holding hands against a bold black background. The stark contrast of white on black creates a powerful visual impact, evoking both childlike innocence and deep emotional symbolism. The raw, unembellished style invites interpretation, making it a thought-provoking centerpiece for any modern space. Signed by the artist, this unique piece blends simplicity with depth, offering a compelling conversation starter for collectors and art enthusiasts alike.
 
 This piece will hopefully hang in the halls of The Guggenheim or The Met.

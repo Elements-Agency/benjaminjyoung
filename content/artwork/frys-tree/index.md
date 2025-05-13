@@ -58,8 +58,6 @@ reproductions:
 
 <!--more-->
 
-{{< cta >}}
-
 ### Inspiration ###
 
 {{< img src="reference.webp" width="200px" height="237px" class="floatright" gallery="progress" alt="Fry Tree Reference Photo" title="Reference Photo" link="reference.jpg" >}}

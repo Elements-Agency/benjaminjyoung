@@ -63,7 +63,7 @@ tag: This painting features an Appalachia landscape, very similar to the rolling
 
 <!--more-->
 
-{{< cta >}}
+{{< cta artwork="Howards Hills" >}}
 
 This painting is apart of the [Shades of Olson Collection](/collections/shades-of-olson).
 

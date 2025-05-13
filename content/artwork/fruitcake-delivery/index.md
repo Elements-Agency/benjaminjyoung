@@ -57,7 +57,7 @@ Based on December 22nd, 2020: **Fruitcake Delivery** is just in time for the upc
 
 <!--more-->
 
-{{< cta >}}
+{{< cta artwork="Fruitcake Delivery" >}}
 
 ### Inspiration ###
 

@@ -50,7 +50,7 @@ limited: 10
 
 <!--more-->
 
-{{< cta >}}
+{{< cta artwork="Standoff" >}}
 
 {{< details >}}
 

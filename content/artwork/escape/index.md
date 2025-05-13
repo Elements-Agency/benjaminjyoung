@@ -60,8 +60,6 @@ reproductions:
 
 This is the first iteration in the [Winter Escape collection](/collections/winter-escape/).
 
-{{< cta >}}
-
 ### Inspiration ###
 
 {{< img src="reference.webp" width="200px" height="355px" class="floatright" gallery="progress" alt="Escape Reference Photo" title="One of many of Ohio winter landscapes" link="reference.jpg" >}}

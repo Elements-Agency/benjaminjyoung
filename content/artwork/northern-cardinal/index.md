@@ -57,8 +57,6 @@ reproductions:
 
 This drawing is apart of the [Primary Winter Birds Collection](/collections/primary-winter-birds/)
 
-{{< cta >}}
-
 ### Inspiration ###
 
 {{< img src="reference.webp" width="200px" height="207px" class="floatright" gallery="progress" alt="Photo of a Northern Male Red Cardinal" title="A Northern Male Cardinal" link="reference.jpg" >}}

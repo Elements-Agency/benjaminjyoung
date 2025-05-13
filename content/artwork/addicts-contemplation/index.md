@@ -59,8 +59,6 @@ reproductions:
 
 <!--more-->
 
-{{< cta >}}
-
 ### Inspiration ###
 
 {{< img src="reference.webp" width="200px" height="226px" class="floatright" gallery="progress" alt="Photo of En plein air watercolor painting" title="En plein air process" link="reference.jpg" >}}

@@ -78,7 +78,7 @@ _Based on July 1st, 2021:_ **One Last Walk With Izzy** is a exquisite watercolor
 
 <!--more-->
 
-{{< cta >}}
+{{< cta artwork="One Last Walk With Izzy" >}}
 
 This painting is apart of the [Shades of Olson Collection](/collections/shades-of-olson).
 

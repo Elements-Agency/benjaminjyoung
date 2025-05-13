@@ -58,7 +58,7 @@ This watercolor painting captures a striking and serene scene of a solitary rock
 
 <!--more-->
 
-{{< cta >}}
+{{< cta artwork="Erie Rock II" >}}
 
 ### Inspiration ###
 

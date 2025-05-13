@@ -51,7 +51,7 @@ This watercolor painting, titled "**Silent Reflections**," captures a serene and
 
 <!--more-->
 
-{{< cta >}}
+{{< cta artwork="Silent Reflection" >}}
 
 ### Inspiration ###
 
