@@ -184,13 +184,9 @@
                             <p style="padding:0.5em 0 0 0; margin:0; line-height:1em;">
                                 Limited Reproduction
                                 <br><br>
-                                <strong>Unframed:</strong>
-                                <del style="color:#555;">$69</del>
-                                <strong style="color:#0f7d0f;">$39</strong>
-                                <br>
-                                <strong>Framed:</strong>
-                                <del style="color:#555;">$99</del>
-                                <strong style="color:#0f7d0f;">$59</strong>
+                                {{ if (index (.Params.products) 1).price }}
+                                    {{ (index (.Params.products) 1).price }}
+                                {{ end }}
                             </p>
                         </div>
                         <div class="left align-center" style="float:left; padding:10px 10px 0 10px;">

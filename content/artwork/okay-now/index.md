@@ -28,7 +28,7 @@ mediums: [watercolor]
 materials: [paper]
 colors: [brown, black, white]
 collections: [shades of olson, timeline]
-locations: [sold]
+locations: [sold, print]
 tags: [woman, lady, old, window, wood, face, expression, gaze, house, glasses, earthy, outdoors, summer, rustic]
 
 inventory:

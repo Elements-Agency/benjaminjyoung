@@ -46,7 +46,7 @@ products:
   - id: 645927912
     name: Original Painting
     price: $80
-      sold: true
+    sold: true
 
 buyer: Fred Boone (Bolivar, OH)
 ---
