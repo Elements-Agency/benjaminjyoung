@@ -46,7 +46,7 @@ products:
       name: Limited Reproduction
       price: $59
       limited: 60
-      left: 46
+      left: 45
     - id: 750657720
       name: Limited Reproduction
       price: $19
@@ -70,6 +70,7 @@ reproductions:
   - 11: Nancy Van Cleve (Geneva, IL)
   - 12: Scott Owens (Dunsmuir, CA)
   - 13: Robin McNeill (Youngsville, NC)
+  - 14: Teresa Vitulli (New Hope, PA)
 
 tag: The man walking is myself, with the blond hair shimmering from the bright autumn sun. The companion by my side is my late Border Collie dog, Izzy. The landscape is inspired by the Ohio Appalachian Plateau hills I grew up with. It's a memory I never got to have with my faithful family member, before she passed. She was always by my side in her life span, but sometimes time escapes us too quickly, and by the time I was in healthy enough state to hike myself, she had grown too elderly and weary to join me in my long walks of reflection.
 ---
