@@ -30,21 +30,25 @@ mediums: [oil pastel]
 materials: [construction paper]
 colors: [green, brown, white]
 collections: []
-locations: [kolp]
+locations: [sold]
 tags: [wine, bottle, pitcher, jug, wood, bowl, tablecloth, dropcloth, dining, room, table, backdrop, warm, indoors]
 
 inventory:
-  - kolp: idk - current
+  - buyer: 2025-05-14
+  - kolp: idk - 2025-05-14
   - patina: 2025-02-01 - idk
   - home: 2024-07-27 - 2025-02-01
   - patina: 2024-05-18 - 2024-07-27
   - home: 2023-12-15 - 2024-06-08
 
-status: sale
+status: sold
 products:
   - id: 645927912
     name: Original Painting
     price: $80
+      sold: true
+
+buyer: Fred Boone (Bolivar, OH)
 ---
 
 **Empty Models** is a still life painting featuring a collection of objects arranged on a surface. The composition includes two bottles, one with a dark red cap and the other in green, along with a green jug and a brown bowl. The bottles and jug have a reflective quality suggested by the use of light and dark tones, indicating the presence of light from a specific angle. In it, I employed a textural technique to give the objects a tactile feel. The background and surface on which the items rest are rendered with broad strokes of brown and white, creating a rustic ambiance that complements the simple, everyday nature of the subjects. The color palette is predominantly earthy, with variations of green, brown, and yellow hues, giving the painting a warm and cozy atmosphere. The artwork captures the simple beauty of the objects and the play of light and shadow on their surfaces, including the light cast through their glass.
