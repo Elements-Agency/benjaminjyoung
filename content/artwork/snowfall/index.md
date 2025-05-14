@@ -36,9 +36,6 @@ inventory:
   - cyrus: idk - 2025-04-07
   - home: 2025-02-26 - idk
 
-planning:
-  zanesville: 2025-05-30 - 2025-09-13
-
 status: sale
 products:
     - id: 734463471

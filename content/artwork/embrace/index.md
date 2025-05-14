@@ -38,9 +38,6 @@ inventory:
   - door2art: 20215-02-19 - 2025-03-17
   - patina: 2024-12-20 - 20215-02-19
 
-planning:
-  zanesville: 2025-05-30 - 2025-09-13
-
 status: sale
 products:
     - id: 716381943
