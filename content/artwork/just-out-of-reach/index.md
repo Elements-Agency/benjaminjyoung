@@ -27,7 +27,7 @@ categories: [realism, landscape, narrative, painting]
 mediums: [watercolor]
 materials: [cotton paper]
 colors: [white, blue, black]
-collections: [winter escape, figures facing from view]
+collections: [winter escape, figures facing from view, landscapes]
 locations: [kolp]
 tags: [human, figure, snow, winter, cabin, collapse, death, forest, cool, cold, outdoors, night]
 

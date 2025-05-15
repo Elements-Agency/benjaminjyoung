@@ -29,7 +29,7 @@ categories: [impressionism, still life, drawing]
 mediums: [oil pastel]
 materials: [construction paper]
 colors: [green, brown, white]
-collections: []
+collections: [still lifes]
 locations: [sold]
 tags: [wine, bottle, pitcher, jug, wood, bowl, tablecloth, dropcloth, dining, room, table, backdrop, warm, indoors]
 

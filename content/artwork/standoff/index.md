@@ -27,7 +27,7 @@ categories: [realism, narrative, landscape, painting]
 mediums: [watercolor]
 materials: [paper]
 colors: [brown, yellow, gold, black]
-collections: [figures facing from view]
+collections: [figures facing from view, figures]
 locations: [kolp]
 tags: [field, farm, couple, man, woman, figure, muted, countryside, wheat, outdoors, autumn, tension, rustic, melancholy, number twenty]
 

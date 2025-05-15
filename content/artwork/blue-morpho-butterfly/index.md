@@ -26,7 +26,7 @@ categories: [realism, animal, painting, close up]
 mediums: [watercolor]
 materials: [cotton paper]
 colors: [blue, green, brown, black]
-collections: []
+collections: [animals]
 locations: [kolp]
 tags: [butterfly, insect, leaf, wings, summer, cool, outdoors]
 

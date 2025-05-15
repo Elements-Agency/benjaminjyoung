@@ -27,7 +27,7 @@ categories: [realism, narrative, painting]
 mediums: [watercolor]
 materials: [cotton paper]
 colors: [brown, red, orange, tan]
-collections: [timeline]
+collections: [timeline, portraits]
 locations: [kolp]
 tags: [human, figure, ben, marcus, boy, youth, fire, flame, candle, dark, glow, warm, indoors]
 

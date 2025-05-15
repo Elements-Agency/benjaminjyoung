@@ -26,7 +26,7 @@ categories: [realism, still life, painting]
 mediums: [watercolor]
 materials: [paper]
 colors: [red, white, black]
-collections: []
+collections: [still lifes]
 locations: [office]
 tags: [christmas, stocking, holidary, cheer, dark, winter, ben, resident, artist]
 

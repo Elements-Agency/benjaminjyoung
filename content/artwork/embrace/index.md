@@ -27,7 +27,7 @@ categories: [realism, surrealism, narrative, painting]
 mediums: [oil]
 materials: [canvas]
 colors: [black, brown, white]
-collections: [feb 26, one last december, timeline]
+collections: [feb 26, one last december, timeline, figures]
 locations: [kolp]
 tags: [woman, lady, man, ben, andrea, smoke, embrace, hug, couple, death, figure, love, suit, dress, dark, indoors, dramatic, winter, surreal]
 

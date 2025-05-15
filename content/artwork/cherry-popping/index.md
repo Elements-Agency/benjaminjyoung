@@ -29,7 +29,7 @@ categories: [realism, still life, painting]
 mediums: [oil]
 materials: [canvas panel]
 colors: [red, white]
-collections: []
+collections: [still lifes]
 locations: [sold]
 tags: [cherry, stem, bright, indoors, warm, summer]
 

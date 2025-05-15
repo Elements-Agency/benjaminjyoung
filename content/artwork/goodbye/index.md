@@ -29,7 +29,7 @@ categories: [realism, narrative, painting]
 mediums: [oil]
 materials: [canvas]
 colors: []
-collections: [the harts desire, reserved, timeline]
+collections: [the harts desire, reserved, timeline, figures]
 locations: [home]
 tags: [andrea, aj, ben, pain, loss, trauma, death, number two]
 

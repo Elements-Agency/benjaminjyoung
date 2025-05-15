@@ -27,7 +27,7 @@ categories: [realism, narrative, painting]
 mediums: [watercolor]
 materials: [cotton paper]
 colors: [black, brown]
-collections: [timeline]
+collections: [timeline, figures]
 locations: [summit]
 tags: [human, figure, man, ben, office, work, room, desk, shadow, melancholy, success, warm, indoors, day]
 

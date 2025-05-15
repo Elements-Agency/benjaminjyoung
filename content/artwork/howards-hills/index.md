@@ -27,7 +27,7 @@ categories: [realism, narrative, landscape, architecture, painting]
 mediums: [watercolor]
 materials: [paper]
 colors: [brown, yellow, white, black]
-collections: [figures facing from view, shades of olson]
+collections: [figures facing from view, shades of olson, landscapes]
 locations: [kolp]
 tags: [hills, father, jay, howard, farm, house, old, man, figure, tree, muted, countryside, building, outdoors, autumn, solitary, rustic, farmhouse, appalachia, east sparta, ohio]
 

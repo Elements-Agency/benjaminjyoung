@@ -29,7 +29,7 @@ categories: [realism, still life, painting]
 mediums: [oil]
 materials: [canvas panel]
 colors: [black, orange]
-collections: [massillon football]
+collections: [massillon football, still lifes]
 locations: [kolp]
 tags: [massillon, ohio, tigers, football, sports, helmet, reflective, indoors, cool]
 

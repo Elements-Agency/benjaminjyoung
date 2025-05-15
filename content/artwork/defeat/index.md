@@ -27,7 +27,7 @@ categories: [realism, narrative, painting]
 mediums: [watercolor]
 materials: [cotton paper]
 colors: [white, blue, tan]
-collections: [timeline]
+collections: [timeline, figures]
 locations: [kolp]
 tags: [human, man, ben, figure, tennis, racket, summer, emotion, agony, failure, warm, outdoors, day]
 

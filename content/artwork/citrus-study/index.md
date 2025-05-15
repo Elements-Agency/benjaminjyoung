@@ -29,7 +29,7 @@ categories: [realism, still life, painting]
 mediums: [watercolor, gouache]
 materials: [cotton paper]
 colors: [red, green, yellow]
-collections: []
+collections: [still lifes]
 locations: [sold]
 tags: [mug, cup, lemon, lime, citrus, fruit, dark, indoors, warm, table]
 

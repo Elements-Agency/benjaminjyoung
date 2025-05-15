@@ -29,7 +29,7 @@ categories: [realism, narrative, painting]
 mediums: [oil]
 materials: [canvas]
 colors: []
-collections: [the dark trio, the harts desire, reserved, timeline]
+collections: [the dark trio, the harts desire, reserved, timeline, figures]
 locations: [home]
 tags: [andrea, aj, bar, chair, woman, figure, beauty, sitting, happiness, true, love, flirting, number two]
 

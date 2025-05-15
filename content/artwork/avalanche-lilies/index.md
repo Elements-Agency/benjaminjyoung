@@ -29,7 +29,7 @@ categories: [realism, landscape, floral, painting]
 mediums: [watercolor]
 materials: [paper]
 colors: [yellow, brown, white, green]
-collections: [lilies, reserved, timeline]
+collections: [lilies, reserved, timeline, landscapes]
 locations: [kolp]
 tags: [avalanche, mountain, field, snow, grass, flower, lily, petal, leaf, rock, warm, outside, autumn, andrea, number two]
 

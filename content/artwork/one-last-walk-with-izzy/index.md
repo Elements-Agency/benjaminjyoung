@@ -27,7 +27,7 @@ categories: [realism, narrative, animal, landscape, painting]
 mediums: [watercolor]
 materials: [paper]
 colors: [green, blue, yellow]
-collections: [shades of olson, figures facing from view, timeline]
+collections: [shades of olson, figures facing from view, timeline, landscapes, animals]
 locations: [sold, print]
 tags: [man, figure, dog, izzy, ben, border collie, walk, hike, hills, forrest, house, sky, field, outdoors, autumn, rustic, serene, appalachia, east sparta, ohio]
 

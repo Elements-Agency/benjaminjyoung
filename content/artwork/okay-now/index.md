@@ -27,7 +27,7 @@ categories: [realism, narrative, painting]
 mediums: [watercolor]
 materials: [paper]
 colors: [brown, black, white]
-collections: [shades of olson, timeline]
+collections: [shades of olson, timeline, portraits]
 locations: [sold, print]
 tags: [woman, lady, old, window, wood, face, expression, gaze, house, glasses, earthy, outdoors, summer, rustic]
 

@@ -30,7 +30,7 @@ categories: [impressionism, realism, landscape, painting]
 mediums: [watercolor, gouache]
 materials: [paper]
 colors: [black, blue]
-collections: []
+collections: [landscapes]
 locations: [sold]
 tags: [tree, forrest, night, sky, twilight, dark, dusk, east sparta, ohio, park, nature, outdoors, calm, spooky, autumn, melancholy, cool]
 

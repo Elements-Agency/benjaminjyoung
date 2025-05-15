@@ -29,7 +29,7 @@ categories: [realism, still life, painting]
 mediums: [oil]
 materials: [mdf board]
 colors: [red, pink, purple, black]
-collections: []
+collections: [still lifes]
 locations: [cyrus]
 tags: [pomegranate, fruit, shiny, metal, bowl, velvet, tablecloth, dark, indoors, table, warm]
 
