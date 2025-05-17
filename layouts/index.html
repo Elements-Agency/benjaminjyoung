@@ -160,11 +160,26 @@
 						<div class="content">
 							<h2>Newsletter Subscription</h2>
 							<p>
-								Sign up for Ben's art email newsletter, and be entered into a quarterly drawing for a free prize.
+								Sign up for Ben's art email newsletter, and be entered into a quarterly drawing for a <strong>free prize</strong>.
                                 Find out when paintings are completed, each month.
-								Receive any new sales and a continued 20% discount.
+								Receive any new sales and a continued <strong>20% discount</strong>.
                                 As well as any upcoming exhibits Ben will be at or sales going on.
+								<span id="addcountdown"></span>
 							</p>
+							<script>
+								// Insert the date two days from today in id addcountdown
+								var date = new Date();
+								date.setDate(date.getDate() + 2);
+								var countdown = document.getElementById("addcountdown");
+							
+								// set formattedcountdown to format like May 13th from countdown
+								var formattedcountdown = date.toLocaleDateString("en-US", {
+								  month: 'long',
+								  day: '2-digit'
+								});
+							
+								countdown.innerHTML = "Offer ends <u>" + formattedcountdown + "</u>.";
+							</script>
 							<ul class="actions stacked">
 								<li><a href="/sign-up" class="button">Sign Up</a></li>
 							</ul>
