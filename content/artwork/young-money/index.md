@@ -11,7 +11,7 @@ videos: []
 
 featured: true
 more: true
-order: 8
+order: 10
 ratio: landscape
 power: 67
 favorite: false
