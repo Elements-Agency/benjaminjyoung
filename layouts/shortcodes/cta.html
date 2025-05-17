@@ -9,7 +9,7 @@
     </p>
     <ul class="actions special">
         <li>
-            <a href="/sign-up{{ if (.Get "artwork") }}?artwork={{ .Get "artwork" }}{{ end }}" class="button primary" onclick="trackInterest()">
+            <a href="/sign-up{{ if (.Get "artwork") }}?artwork={{ .Get "artwork" }}&driven=prize{{ end }}" class="button primary" onclick="trackInterest()">
                 🏆 Enter To Win &gt;
             </a>
         </li>

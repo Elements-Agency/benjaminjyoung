@@ -43,7 +43,7 @@
                           <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
                         <div hidden="">
                           <input type="hidden" id="hid-MMERGE7" name="MMERGE7" value="">
-                          <input type="hidden" name="tags" value="7257335">
+                          <input type="hidden" id="signupTags" name="tags" value="7257335">
                         </div>
                         <div id="mce-responses" class="clear foot">
                           <div class="response" id="mce-error-response" style="display: none;"></div>
@@ -67,9 +67,20 @@
 
             <script>
               const urlParams = new URLSearchParams(window.location.search);
-              const myParam = urlParams.get('artwork');
+              const artParam = urlParams.get('artwork');
+              const drivenParam = urlParams.get('driven');
+
               document.getElementById("hid-MMERGE7").value =
-              document.getElementById("hid-MMERGE7").defaultValue = myParam;
+              document.getElementById("hid-MMERGE7").defaultValue = artParam;
+
+              if (drivenParam == 'discount') {
+                document.getElementById("signupTags").value =
+                document.getElementById("signupTags").defaultValue = '7257335,7257510';
+
+                fbq('trackCustom', 'ViewQualitySignup');
+                rdt('track', 'Custom', { customEventName: 'View Quality Signup' });
+                gtag('event', 'view_quality_signup', {});
+              }
             </script>
 
             <hr>
