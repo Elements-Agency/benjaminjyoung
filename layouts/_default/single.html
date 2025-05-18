@@ -3,11 +3,20 @@
 
     {{ if .Resources.GetMatch "painting.jpg" }}
       {{ $bg := .Resources.GetMatch "painting.jpg" }}
-      {{ $bg := $bg.Fit "1680x2000 webp q80" }}
+      {{ $bg1jpg := $bg.Fit "420x500 jpg q86" }}
+      {{ $bg1webp := $bg.Fit "420x500 webp q86" }}
+      {{ $bg2jpg := $bg.Fit "1680x2000 jpg q86" }}
+      {{ $bg2webp := $bg.Fit "1680x2000 webp q86" }}
+
 
       <style>
         #wrapper > .bg {
-          background-image: url("{{ $bg.RelPermalink }}");
+          background-image: image-set(
+            "{{ $bg1webp.RelPermalink }}" type("image/webp") 1x,
+            "{{ $bg2webp.RelPermalink }}" type("image/webp") 2x,
+            "{{ $bg1jpg.RelPermalink }}" type("image/jpg") 1x,
+            "{{ $bg2jpg.RelPermalink }}" type("image/jpg") 2x
+          );
           background-color: #000;
           background-size: 100%;
           background-position: center;
@@ -154,12 +163,32 @@
                 {{ $full := .Resources.GetMatch "painting.jpg" }}
                 {{ $full := $full.Fit "1600x1600 webp q86" }}
 
+                {{ $large := .Resources.GetMatch "painting.jpg" }}
+                {{ $large := $large.Fit "1200x1200 webp q86" }}
+
+                {{ $mid := .Resources.GetMatch "painting.jpg" }}
+                {{ $mid := $mid.Fit "800x800 webp q86" }}
+
+                {{ $small := .Resources.GetMatch "painting.jpg" }}
+                {{ $small := $small.Fit "400x400 webp q86" }}
+
                 {{ $top := .Resources.GetMatch "painting.jpg" }}
                 {{ $top := $top.Fit "3200x3200 q100" }}
 
                 <a class="painting preview" href="{{ $top.RelPermalink }}" data-gall="progress" data-position="center" title="{{ .Title }} by {{ .Params.author | default .Site.Params.author }}">
                   <div class="loader" style="url('/images/loader.gif') center no-repeat;" itemscope itemtype="https://schema.org/ImageObject">
-                    <img class="image fit" src="{{ $full.RelPermalink }}" alt="{{ .Params.alt }}" title='{{ .Title }} ({{ .Date| time.Format "2006" }}) by Ben Young' itemprop="contentUrl">
+                    
+                    <img class="image fit"
+                      src="{{ $full.RelPermalink }}"
+                      srcset="{{ $small.RelPermalink }} 400w,
+                              {{ $mid.RelPermalink }} 800w,
+                              {{ $large.RelPermalink }} 1200w,
+                              {{ $full.RelPermalink }} 1600w,
+                              {{ $top.RelPermalink }} 3200w"
+                      alt="{{ .Params.alt }}"
+                      title='{{ .Title }} ({{ .Date| time.Format "2006" }}) by Ben Young'
+                      itemprop="contentUrl">
+                    
                     <div style="display:none; height:0;">
                       <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
                         <meta itemprop="name" content="{{ .Params.author }}" />
@@ -382,7 +411,7 @@
                         Sign up for my artist newsletter to receive a <strong style="color:red;">20% OFF</strong> discount code for your first order.
                         Plus receive exclusive updates and offers.
                         <span id="addcountdown"></span>
-                        <strong><a href="/sign-up?artwork={{ .Title }}">Click to Sign Up &gt;</a></strong>
+                        <strong><a href="/sign-up?artwork={{ .Title }}&driven=discount">Click to Sign Up &gt;</a></strong>
                       </p>
                       <br>
 
