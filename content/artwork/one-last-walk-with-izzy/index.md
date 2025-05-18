@@ -38,20 +38,20 @@ inventory:
 
 status: sale
 products:
-    - id: 708668936
-      name: Original Painting
-      sold: true
-      price: $840
     - id: 711216285
-      name: Limited Reproduction
+      name: 9x12in Reproduction
       price: $59
       limited: 60
       left: 45
     - id: 750657720
-      name: Limited Reproduction
+      name: 4x6in Reproduction
       price: $19
       limited: 200
       left: 127
+    - id: 708668936
+      name: Original Painting
+      sold: true
+      price: $840
 
 buyer: Gary Stewart (Columbus, OH)
 

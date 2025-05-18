@@ -120,12 +120,6 @@
                                 {{ end }}
                             </p>
                             <p style="padding:0.5em 0 0 0; margin:0; line-height:1em;">
-                                {{ if (index (.Params.products) 0).pending }}
-                                    <!--<strong style="color:rgb(137, 0, 0);">
-                                        Hold for Pending Exhibit
-                                        <br>
-                                    </strong>-->
-                                {{ end }}
                                 {{ if (index (.Params.products) 0).price }}
                                     {{ (index (.Params.products) 0).price }}
                                 {{ end }}
