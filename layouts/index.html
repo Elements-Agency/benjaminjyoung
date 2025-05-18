@@ -60,7 +60,7 @@
 						<div class="content">
 							<div class="logo align-center">
 								<h1>
-									<img src="/images/logo.webp" title="Artist Ben Young" alt="Artist Ben Young"  width="300px" height="150px">
+									<img src="/images/logo.webp" title="Artist Ben Young" alt="Artist Ben Young">
 								</h1>
 							</div>
 							<p class="major">
@@ -71,7 +71,7 @@
 							</ul>
 						</div>
 						<div class="image">
-							<img src="images/banner.webp" srcset="images/banner-sm.webp 500w, images/banner.webp 1000w, images/banner-lg.webp 1500w" alt="Profile of Ben Young" width="700px" height="700px" />
+							<img src="images/banner-sm.webp" srcset="images/banner-sm.webp 500w, images/banner.webp 1000w, images/banner-lg.webp 1500w" alt="Profile of Ben Young" width="700px" height="700px" />
 						</div>
 					</section>
 
@@ -98,9 +98,16 @@
                                     {{ $thumbnail := $thumbnail.Fill "420x350 Center" }}
                                     {{ $thumbnail := $thumbnail.Resize "420x webp q90" }}
 
+									{{ $thumbnailsm := .Resources.GetMatch "painting.jpg" }}
+									{{ $thumbnailsm := $thumbnailsm.Fill "210x175 Center" }}
+                                    {{ $thumbnailsm := $thumbnailsm.Resize "210x webp q90" }}
+
                                     <article>
                                         <a href="{{ .RelPermalink }}" class="image">
-                                            <img src="{{ $thumbnail.RelPermalink }}" loading="lazy" alt="{{ .Params.alt }}" />
+                                            <img src="{{ $thumbnailsm.RelPermalink }}"
+											srcset="{{ $thumbnailsm.RelPermalink }} 210w, {{ $thumbnail.RelPermalink }} 420w"
+											loading="lazy"
+											alt="{{ .Params.alt }}" />
                                         </a>
                                         <div class="caption">
                                             <h3>{{ .Title }}</h3>
@@ -207,9 +214,16 @@
                                     {{ $thumbnail := $thumbnail.Fill "420x350 Center" }}
                                     {{ $thumbnail := $thumbnail.Resize "420x webp q90" }}
 
+									{{ $thumbnailsm := .Resources.GetMatch "painting.jpg" }}
+									{{ $thumbnailsm := $thumbnailsm.Fill "210x175 Center" }}
+									{{ $thumbnailsm := $thumbnailsm.Resize "210x webp q90" }}
+
                                     <article>
                                         <a href="{{ .RelPermalink }}" class="image">
-                                            <img src="{{ $thumbnail.RelPermalink }}" loading="lazy" alt="{{ .Params.alt }}" />
+                                            <img src="{{ $thumbnailsm.RelPermalink }}"
+											srcset="{{ $thumbnailsm.RelPermalink }} 210w, {{ $thumbnail.RelPermalink }} 420w"
+											loading="lazy"
+											alt="{{ .Params.alt }}" />
                                         </a>
                                         <div class="caption">
                                             <h3>{{ .Title }}</h3>
