@@ -40,12 +40,12 @@ status: sale
 products:
     - id: 711216285
       name: 9x12in Reproduction
-      price: $59
+      price: $60
       limited: 60
       left: 44
     - id: 750657720
       name: 4x6in Reproduction
-      price: $19
+      price: $20
       limited: 200
       left: 127
     - id: 708668936
