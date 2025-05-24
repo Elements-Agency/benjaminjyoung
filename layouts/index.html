@@ -44,6 +44,8 @@
     
         {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
           {{ template "_internal/google_analytics.html" . }}
+
+	    <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/5a284b4c27bab02102d3645de/de95c2316040c9ab83ad4f970.js");</script>
         {{ end }}
     
         {{ block "head" . }}
