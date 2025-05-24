@@ -36,7 +36,7 @@ inventory:
   - brydu: idk - 2025-03-30
   - patina: 2024-11-21 - idk
 
-status: sale
+status: sold
 products:
     - id: 711193420
       name: Limited Reproduction

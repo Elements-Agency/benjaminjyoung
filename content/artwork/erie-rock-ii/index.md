@@ -28,7 +28,7 @@ mediums: [watercolor]
 materials: [cotton paper]
 colors: [green, blue, black]
 collections: [the colors of water, landscapes]
-locations: [sold]
+locations: [sold, print]
 tags: [lake, erie, rock, beach, cleveland, ohio, sandusky, great lakes, water, waves, nature, outdoors, overcast, costal, cool, summer]
 
 inventory:

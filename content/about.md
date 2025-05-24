@@ -21,7 +21,9 @@ After my last 8th grade art class (age 15), I never picked up another pencil or 
 
 In a monument to both the boredom of winter and the desperation of emotional healing, I found an old set of tutorial oil pastels and a Crayola Watercolor set. I was caught off guard by interest in purchasing those works. From there, you can see the artwork I've made listed in my [Artwork Blog](/artwork).
 
-{{< button class="fit" text="Browse Artwork" href="/artwork" >}}
+That just reflects my life in the aspect of art... My paintings revolve around much deeper moments of my life. The narratives represent timelines of my life. Happiness, traumas, recoveries. All those main timeline works combined form a larger story...
+
+{{< button class="fit" text="Learn More" href="/story" >}}
 
 ---
 

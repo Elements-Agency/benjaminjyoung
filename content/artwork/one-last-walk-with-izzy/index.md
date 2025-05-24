@@ -36,7 +36,7 @@ inventory:
   - summit: 2024-12-20 - idk
   - patina: 2024-11-11 - 2024-12-20
 
-status: sale
+status: sold
 products:
     - id: 711216285
       name: 9x12in Reproduction

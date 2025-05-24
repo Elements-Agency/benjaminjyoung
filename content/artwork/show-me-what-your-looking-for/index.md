@@ -12,7 +12,6 @@ images: ['painting.jpg']
 videos: []
 
 featured: false
-more: true
 order: 0
 ratio: portrait
 power: 9000
@@ -29,9 +28,9 @@ categories: [realism, narrative, painting]
 mediums: [oil]
 materials: [canvas]
 colors: []
-collections: [the dark trio, the harts desire, reserved, timeline, figures]
+collections: [the dark trio, the harts desire, reserved, timeline]
 locations: [home]
-tags: [andrea, aj, bar, chair, woman, figure, beauty, sitting, happiness, true, love, flirting, number two]
+tags: [andrea, aj, bar, chair, woman, figure, beauty, sitting, happiness, love, flirting, number two]
 
 inventory:
   - home: 2044-01-01 - current
@@ -41,11 +40,11 @@ As I sit hidden away in the lounge corner of a dance club, I scan the room as I 
 
 <!--more-->
 
-That was the night I met Andrea.
+That was the night I met Andrea. This is when the most defining story of my life would begin. A night that would last forever in my mind.
 
 This is the final painting of **[The Dark Trio Series](/collections/the-dark-trie)** and is the first painting in to the **[The Hart's Desire Series](/collections/the-harts-desire)**.
 
-{{< cta artwork="Show Me What Your Looking For" >}}
+{{< cta >}}
 
 ### Inspiration ###
 

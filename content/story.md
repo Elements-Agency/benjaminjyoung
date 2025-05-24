@@ -12,7 +12,15 @@ Follow the story of my life story in these paintings, grouped by their respected
 ## Childhood Era ##
 _1990 - 2008_
 
-It will be several years before I start painting anything in this era. Filled with nostalgia and childhood topics.
+It will be several years before I start painting anything in this era. Filled with nostalgia and childhood topics. As well as some other darker topics of childhood.
+
+* **Shower Time** - The scene of my first loss.
+* **Too Loud** - A small boy being pummeled violently for being too loud, while playing outside with other children.
+* **Black Sheep** - The effects of an abuser can have making a child feel isolated and unloved from the world.
+* **Scar** - The story how I received my most haunting scar.
+* **Appalachian Forrest** - My safe place as a child.
+* **Serenity** - A small boy sits on top of a snowy hill, discovering a peace later used in meditation.
+
 
 ## The Dark Era ##
 _2008 - 2011_
@@ -31,7 +39,8 @@ _2011 - 2013_
 
 This era starts with meeting my second fiancee. Following the relationship as it builds, as we both grow together. Herself dragging me out of my "Dark Era” with loving support and to guiding me to become the man I am now, living life the best I can make of it.
 
-No current works in this era are completed yet. Future titles of this era will include:
+No current works in this era are completed yet. I'm still preparing myself for it. This era is both the most amazing point of my life and the most devastating to me. Future titles of this era will include:
+
   * **Show Me What I'm Looking For** - First time meeting eyes.
   * **Shared Words** - A couple sits together in front of a Monet.
   * **Hot Spring** - A romantic scene.
@@ -46,10 +55,11 @@ No current works in this era are completed yet. Future titles of this era will i
 ## Purgatory Era ##
 _2014 - 2018_
 
-After the night of my life's largest loss, this era begins. This era is mainly uneventful, myself living in emotional purgatory and suppression. 
+After the night of my life's largest loss, this era begins. This era is mainly uneventful, myself living in emotional purgatory and suppression. Six years of living through the effects of devastating trauma.
 
 No current works in this era have been completed yet. Future titles of this era will include:
   * **Straight to Voicemail** - Sometimes it's comforting hearing their voice again.
+  * **Violence** - A friend, grieving the loss of his sister and having a drug induced schzoprantic episode, stabs me in my right shoulder.
   * **Decembers** - I hate Decembers.
   * **Office Christmas Party** - Me holding a keg as my friend does a keg stand in jean cut-off short-shorts.
   * **Shepard** - Izzy returns, herding sheep.
@@ -60,20 +70,20 @@ No current works in this era have been completed yet. Future titles of this era 
 ## Second Hartbeat Era ##
 _2018 - 2020_
 
-This era follows the events that took place that lead me to seek healing my traumas.
+This era follows the events that took place that lead me to seek healing my traumas. It follows my journey to finally start to break free of traumatic emotional suppression, and coming back to who I was once again.
 
 {{< row-start >}}
     {{< preview col="2" painting="/artwork/hallelujah/" >}}
     {{< preview col="2" painting="/artwork/snowfall/" >}}
     {{< preview col="2" painting="/artwork/embrace/" >}}
     {{< preview col="2" painting="/artwork/in-the-dark/" >}}
-    {{< preview col="2" painting="/artwork/fruitcake-delivery/" >}}
 {{< row-end >}}
 
 More context in this era will be expanded on when The Hart's Desire era paintings are completed. Future titles of this era will include:
+
   * **People Watching** - A past-time. Sometimes with good company.
-  * **You Took Care of Me** - Chariot with leather seats await.
-  * **Red Purse** - My 29th birthday dinner.
+  * **You Took Care of Me** - Chariot with leather seats awaits.
+  * **Red Purse** - My 29th birthday dinner with friends.
   * **Last Call** _(December 21st, 2019)_ - A final round of drinks with friends.
   * **The Dam Cracks** _(December 24th, 2019)_ - A surrealism explosion of emotions.
   * **In To The Woods** _(February 26th, 2020)_ - A man walking in to the woods at sunset.
@@ -83,11 +93,12 @@ More context in this era will be expanded on when The Hart's Desire era painting
 ## Escaping Era ##
 _2020 - 2023_
 
-This era follows me trying to escape the painful memories of my home and seek out peace. Running into difficulties that would lead me back to art while being stuck in Ohio.
+This era follows me trying to escape the painful memories of my home and seek out peace. Running into difficulties that would lead me back to art while being stuck in a near frozen and frozen hellhole.
 
 {{< row-start >}}
     {{< preview col="2" painting="/artwork/one-last-walk-with-izzy/" >}}
     {{< preview col="2" painting="/artwork/young-money/" >}}
+    {{< preview col="2" painting="/artwork/fruitcake-delivery/" >}}
     {{< preview col="2" painting="/artwork/standoff/" >}}
     {{< preview col="2" painting="/artwork/escape/" >}}
     {{< preview col="2" painting="/artwork/gehen-heim/" >}}
@@ -96,18 +107,22 @@ This era follows me trying to escape the painful memories of my home and seek ou
 {{< row-end >}}
 
 More context in this era will be expanded on when The Hart's Desire era paintings are completed. Future titles of this era will include:
+
+  * **Audrey** - Thinking back what could have been my daughter.
+  * **Veganism** - I'm not a fan of delusional behavior.
   * **Busy** - A woman sits at a table, passed out from drugs.
   * **Little Reminders** - Sometimes something as simple as forgotten hair pin can be a reminder.
+  * **Little Pink Bow** - A little gift box or a smoking gun?
   * **Fear or Spite** - A woman screams in fear, pointing to a clown at the circus.
   * **Circus Act** - A clown stands trial for charges of being a menace to society.
   * **Clown in a Two Piece** - A prosector in clown makeup gives a closing statement.
-  * **Not funny** - A judge wearing a red clown nose, gives a verdict.
+  * **Unfunny Joke** - A judge wearing a red clown nose, makes a bias and spiteful decision.
   * **Imprisoned** - A depressed clown sits in jail.
 
 ## Recovery Era ##
 _2024 - present_
 
-This era follows dealing with the fallout of the previous events and is when I would begin painting as a necessity. Seeking only a life of being content.
+This era follows dealing with the fallout of the previous events and is when I would begin painting as a necessity. Seeking only a life of being content and peace.
 
 {{< row-start >}}
     {{< preview col="2" painting="/artwork/erie-rock-ii/" >}}
