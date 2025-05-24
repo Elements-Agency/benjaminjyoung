@@ -27,21 +27,21 @@ _2008 - 2011_
 
 A segment of time I have always referred to as the dark part of my life. It was a bleak moment of life, while I was still young in adulthood. Dealing with situations forced on me and my lifetime plans drastically changed several times, with me having to adapt for survival.
 
-This era focuses on the short amount of time of becoming a young parent, becoming engaged, and facing the loss of both of those topics. It was not a happy time for me.
+This era focuses on the short amount of time of becoming a young parent, becoming [engaged](/tags/number-one), and facing the loss of both of those topics. It was not a happy time for me.
 
 No current works in this era that are planned have been painted. Future titles of this era will include:
   * **Unexpected**
-  * **Unfaithful**
+  * 🖌️ **Unfaithful** - Painting 2 of 3 of [The Dark Trio](/collections/the-dark-trio),
   * **Electrifying**
 
 ## The Hart's Desire ##
 _2011 - 2013_
 
-This era starts with meeting my second fiancee. Following the relationship as it builds, as we both grow together. Herself dragging me out of my "Dark Era” with loving support and to guiding me to become the man I am now, living life the best I can make of it.
+This era starts with meeting my [second fiancee](/tags/number-two). Following the relationship as it builds, as we both grow together. Herself dragging me out of my "Dark Era” with loving support and to guiding me to become the man I am now, living life the best I can make of it.
 
 No current works in this era are completed yet. I'm still preparing myself for it. This era is both the most amazing point of my life and the most devastating to me. Future titles of this era will include:
 
-  * **Show Me What I'm Looking For** - First time meeting eyes.
+  * **Show Me What I'm Looking For** - Painting 3 of 3 of [The Dark Trio](/collections/the-dark-trio).
   * **Shared Words** - A couple sits together in front of a Monet.
   * **Hot Spring** - A romantic scene.
   * **Adopting Izzy** - The day my family grew one more.
@@ -55,7 +55,7 @@ No current works in this era are completed yet. I'm still preparing myself for i
 ## Purgatory Era ##
 _2014 - 2018_
 
-After the night of my life's largest loss, this era begins. This era is mainly uneventful, myself living in emotional purgatory and suppression. Six years of living through the effects of devastating trauma.
+After the night of my life's [largest loss](/tags/number-two), this era begins. This era is mainly uneventful, myself living in emotional purgatory and suppression. Six years of living through the effects of devastating trauma.
 
 No current works in this era have been completed yet. Future titles of this era will include:
   * **Straight to Voicemail** - Sometimes it's comforting hearing their voice again.
@@ -65,7 +65,7 @@ No current works in this era have been completed yet. Future titles of this era 
   * **Shepard** - Izzy returns, herding sheep.
   * **Enablement** - Friends supporting bad habits.
   * **Lapels and Pens** - My bespoke suits and gold-nibbed Mont Blanc.
-  * **Summer Shandy** - A strange guest shows up at my door with a six pack of Summer Shandy Ale.
+  * **Summer Shandy** - A [strange guest](/tags/number-five) shows up at my door with a six pack of Summer Shandy Ale.
 
 ## Second Hartbeat Era ##
 _2018 - 2020_
@@ -81,12 +81,12 @@ This era follows the events that took place that lead me to seek healing my trau
 
 More context in this era will be expanded on when The Hart's Desire era paintings are completed. Future titles of this era will include:
 
-  * **People Watching** - A past-time. Sometimes with good company.
+  * **People Watching** - A past-time. Sometimes with [good company](/tags/number-five).
   * **You Took Care of Me** - Chariot with leather seats awaits.
   * **Red Purse** - My 29th birthday dinner with friends.
   * **Last Call** _(December 21st, 2019)_ - A final round of drinks with friends.
   * **The Dam Cracks** _(December 24th, 2019)_ - A surrealism explosion of emotions.
-  * **In To The Woods** _(February 26th, 2020)_ - A man walking in to the woods at sunset.
+  * **In To The Woods** _([February 26th, 2020](/collections/feb-26))_ - A man walking in to the woods at sunset.
   * **Boujee** - A man in a suit confronts a pool boy.
   * **The Trek Begins** - From 262lbs, down to 158lbs...
 
@@ -110,12 +110,12 @@ More context in this era will be expanded on when The Hart's Desire era painting
 
   * **Audrey** - Thinking back what could have been my daughter.
   * **Veganism** - I'm not a fan of delusional behavior.
-  * **Busy** - A woman sits at a table, passed out from drugs.
+  * **Busy** - A [woman](/tags/number-seven) sits at a table, passed out from drugs.
   * **Little Reminders** - Sometimes something as simple as forgotten hair pin can be a reminder.
   * **Little Pink Bow** - A little gift box or a smoking gun?
-  * **Fear or Spite** - A woman screams in fear, pointing to a clown at the circus.
-  * **Circus Act** - A clown stands trial for charges of being a menace to society.
-  * **Clown in a Two Piece** - A prosector in clown makeup gives a closing statement.
+  * **Fear or Spite** - A [woman](/tags/number-five) screams in fear, pointing to a clown at the circus.
+  * 🖌️ **Circus Act** - A clown stands trial for charges of being a menace to society.
+  * 🖌️ **Clown in a Two Piece** - A prosector in clown makeup gives a closing statement.
   * **Unfunny Joke** - A judge wearing a red clown nose, makes a bias and spiteful decision.
   * **Imprisoned** - A depressed clown sits in jail.
 
@@ -133,11 +133,16 @@ This era follows dealing with the fallout of the previous events and is when I w
 
 Future titles of this era will include:
   * **Rehabilitated** - A clown sits on the sidewalk, unable to return to the circus.
+  * 🖌️ **Marcus** - Run, my son.
   * **Honeydew Trash** - A dog eats a cantaloupe from the garbage in an ally.
-  * **Dove** - A man drags on a cigarette, staring at a pigeon under a street light.
+  * **Dove** - A man drags on a cigarette, staring at a [pigeon](/tags/number-thirty-seven) under a street light.
+  * 🖌️ **Young Man In A Room** - Self Portrait
   * **Witnessing Escape** - An aging man sits at the window, staring out into the snowy landscape.
   * **Drifting** - A self portrait of me laying in a field of grass.
+  * 🖌️ **Pike Cabin** - A landscape.
   * **John Wayne** - An old man sits in a walker with his cowboy hat on, looking out in to the sunset.
-  * **Silver Ballet** - An old woman dancing ballet.
+  * 🖌️ **Silver Ballet** - An old woman dancing ballet.
   * **Leather Shoes** - Sometimes you step in dog shit with your nice pair of dress shoes, and you just have to fling it off.
   * **Antoinette** - A crack at the state of current modern art.
+
+🖌️ - Denotes this painting is currently in progress.
