@@ -42,7 +42,7 @@ products:
       name: 9x12in Reproduction
       price: $60
       limited: 60
-      left: 43
+      left: 42
     - id: 750657720
       name: 4x6in Reproduction
       price: $20
@@ -73,6 +73,7 @@ reproductions:
   - 14: Teresa Vitulli (New Hope, PA)
   - 15: Ryan Macdonald (Pleasant Hill, CA)
   - 16: Mary Milbet (Faribault, MN)
+  - 17: Zachary Nolan (Metamora, MI)
 
 tag: The man walking is myself, with the blond hair shimmering from the bright autumn sun. The companion by my side is my late Border Collie dog, Izzy. The landscape is inspired by the Ohio Appalachian Plateau hills I grew up with. It's a memory I never got to have with my faithful family member, before she passed. She was always by my side in her life span, but sometimes time escapes us too quickly, and by the time I was in healthy enough state to hike myself, she had grown too elderly and weary to join me in my long walks of reflection.
 ---
