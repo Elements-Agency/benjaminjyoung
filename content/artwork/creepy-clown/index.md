@@ -11,9 +11,8 @@ images: ['painting.jpg']
 videos: []
 
 subfeatured: true
-order: 99
 ratio: square
-power: 28
+power: 37
 favorite: false
 
 supplies:

@@ -12,7 +12,7 @@ images: ['painting.jpg']
 videos: []
 
 ratio: square
-power: 49
+power: 42
 favorite: false
 disliked: true
 

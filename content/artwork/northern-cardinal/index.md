@@ -14,7 +14,7 @@ videos: [https://www.instagram.com/p/C3fAU-6ON7E/, https://youtube.com/shorts/Js
 subfeatured: true
 order: 22
 ratio: portrait
-power: 427
+power: 253
 favorite: false
 
 supplies:

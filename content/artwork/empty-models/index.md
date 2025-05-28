@@ -12,9 +12,8 @@ images: ['painting.jpg']
 videos: [https://www.instagram.com/p/C3XZXDsuuum/]
 
 subfeatured: true
-order: 99
 ratio: portrait
-power: 45
+power: 28
 favorite: false
 
 supplies:

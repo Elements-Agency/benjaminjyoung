@@ -9,9 +9,8 @@ images: ['painting.jpg']
 videos: []
 
 subfeatured: true
-order: 99
 ratio: landscape
-power: 19
+power: 25
 favorite: false
 
 supplies:

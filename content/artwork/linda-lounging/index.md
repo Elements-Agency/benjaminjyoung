@@ -9,7 +9,7 @@ images: ['painting.jpg']
 videos: []
 
 ratio: landscape
-power: 31
+power: 33
 favorite: false
 disliked: true
 

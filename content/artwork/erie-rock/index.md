@@ -14,7 +14,7 @@ videos: [https://www.instagram.com/p/C3rgdrrA3oI/, https://www.youtube.com/short
 subfeatured: true
 order: 99
 ratio: portrait
-power: 552
+power: 99
 favorite: false
 disliked: true
 

@@ -9,8 +9,9 @@ aliases: [/christmas-stocking]
 images: ['painting.jpg']
 videos: []
 
+subfeatured: true
 ratio: portrait
-power: 15
+power: 19
 favorite: false
 
 supplies:
@@ -27,6 +28,7 @@ collections: [still lifes]
 locations: [office]
 tags: [christmas, stocking, holidary, cheer, dark, winter, ben, resident, artist]
 
+status: sold
 inventory:
   - kolp: idk - current
   - patina: 2024-11-28 - idk

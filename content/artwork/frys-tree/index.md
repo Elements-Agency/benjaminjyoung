@@ -11,11 +11,11 @@ aliases: [/frys-tree]
 images: ['painting.jpg']
 videos: [https://www.instagram.com/p/C3hi4DjAYqg/, https://youtu.be/Pcuv_QkT7Qo]
 
-subfeatured: true
+featured: true
 order: 19
 ratio: portrait
-power: 546
-favorite: false
+power: 238
+favorite: true
 disliked: true
 
 supplies:
@@ -29,7 +29,7 @@ categories: [impressionism, realism, landscape, painting]
 mediums: [watercolor, gouache]
 materials: [paper]
 colors: [black, blue]
-collections: [landscapes]
+collections: [landscapes, timeline]
 locations: [sold]
 tags: [tree, forrest, night, sky, twilight, dark, dusk, east sparta, ohio, park, nature, outdoors, calm, spooky, autumn, melancholy, cool]
 

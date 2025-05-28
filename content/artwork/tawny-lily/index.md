@@ -9,7 +9,6 @@ images: ['painting.jpg']
 videos: []
 
 ratio: portrait
-power: 9
 favorite: false
 disliked: true
 

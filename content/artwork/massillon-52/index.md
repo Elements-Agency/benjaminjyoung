@@ -12,10 +12,7 @@ aliases: [/artwork/towniest-towns-football, /massillon-52]
 images: ['painting.jpg']
 videos: []
 
-subfeatured: true
-order: 99
 ratio: landscape
-power: 75
 favorite: false
 
 supplies:
@@ -42,7 +39,7 @@ inventory:
   - cyrus: 2024-04-26 - 2024-06-06
   - home: 2024-04-26 - 2024-04-26
 
-status: sale
+status: sold
 products:
     - id: 654299515
       name: Original Painting

@@ -12,7 +12,6 @@ images: ['painting.jpg']
 videos: ['https://www.instagram.com/p/C3lKtCjvEd5/']
 
 subfeatured: true
-order: 99
 ratio: portrait
 power: 18
 favorite: false
@@ -29,7 +28,7 @@ mediums: [oil pastel]
 materials: [paper]
 colors: [yellow, green, grey, brown]
 collections: []
-locations: [sold]
+locations: [kolp]
 tags: [human, female, lady, woman, nude, recline, pose, paul, cezanne, outdoors, figure, repose, rich, warm, earthy, warm]
 
 inventory:
@@ -39,12 +38,11 @@ inventory:
   - patina: 2024-07-27 - 2024-09-29
   - home: 2024-01-20 - 2024-07-27
 
-status: sold
+status: sale
 products:
     - id: 679421847
       name: Original Drawing
       price: $100
-      sold: true
 
 buyer: discontinued
 ---

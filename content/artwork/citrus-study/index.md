@@ -13,7 +13,7 @@ videos: [https://www.instagram.com/p/C3aFj71ssZR/, https://youtu.be/CF7wcElqy8Y]
 
 subfeatured: true
 ratio: landscape
-power: 44
+power: 20
 favorite: false
 
 supplies:

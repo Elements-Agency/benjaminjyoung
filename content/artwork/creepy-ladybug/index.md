@@ -10,7 +10,7 @@ images: ['painting.jpg']
 videos: []
 
 subfeatured: true
-order: 99
+order: 18
 ratio: portrait
 power: 10
 favorite: false
@@ -30,6 +30,7 @@ collections: []
 locations: [sold]
 tags: [bug, ladybug, insect, creepy]
 
+status: sold
 inventory:
   - kolp: 2025-03-02 - current
 

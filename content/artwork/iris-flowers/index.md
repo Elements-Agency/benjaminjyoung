@@ -10,9 +10,8 @@ images: ['painting.jpg']
 videos: []
 
 subfeatured: true
-order: 99
 ratio: portrait
-power: 10
+power: 34
 favorite: false
 
 supplies:
