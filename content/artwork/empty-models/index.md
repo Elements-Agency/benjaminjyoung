@@ -11,8 +11,7 @@ aliases: [/empty-models]
 images: ['painting.jpg']
 videos: [https://www.instagram.com/p/C3XZXDsuuum/]
 
-featured: false
-more: false
+subfeatured: true
 order: 99
 ratio: portrait
 power: 45

@@ -11,9 +11,6 @@ aliases: [/drip]
 images: ['painting.jpg']
 videos: []
 
-featured: false
-more: false
-order: 99
 ratio: landscape
 power: 12
 favorite: false

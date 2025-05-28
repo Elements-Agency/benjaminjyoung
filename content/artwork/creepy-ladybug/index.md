@@ -9,8 +9,7 @@ aliases: [/creepy-ladybug]
 images: ['painting.jpg']
 videos: []
 
-featured: false
-more: false
+subfeatured: true
 order: 99
 ratio: portrait
 power: 10

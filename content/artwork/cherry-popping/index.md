@@ -11,8 +11,7 @@ aliases: [/cherry-popping]
 images: ['painting.jpg']
 videos: []
 
-featured: false
-more: true
+subfeatured: true
 order: 99
 ratio: square
 power: 165

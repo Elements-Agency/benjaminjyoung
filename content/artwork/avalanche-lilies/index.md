@@ -12,7 +12,6 @@ images: ['painting.jpg']
 videos: []
 
 featured: true
-more: true
 order: 8
 ratio: landscape
 power: 491

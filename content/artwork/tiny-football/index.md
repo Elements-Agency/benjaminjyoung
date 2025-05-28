@@ -8,8 +8,7 @@ aliases: [/artwork/tiny-fooball, /tiny-football]
 images: ['painting.jpg']
 videos: []
 
-featured: false
-more: false
+subfeatured: true
 order: 99
 ratio: square
 power: 27

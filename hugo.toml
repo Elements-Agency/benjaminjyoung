@@ -41,7 +41,7 @@ timeout = '600'
     weight = 20
 [[menus.main]]
     name = 'Artwork'
-    pageRef = '/artwork'
+    pageRef = '/featured'
     weight = 30
 [[menus.main]]
     name = 'News'
@@ -62,7 +62,7 @@ timeout = '600'
     weight = 30
 [[menus.inside]]
     name = 'Artwork'
-    pageRef = '/artwork'
+    pageRef = '/featured'
     weight = 40
 [[menus.inside]]
     name = 'Shop'

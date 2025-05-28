@@ -2148,11 +2148,35 @@ input, select, textarea {
 
                     {{ $mainSections := .Site.Params.mainSections | default (slice "post") }}
                     {{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
-                    {{ $section := where $section "Params.more" true }}
+                    {{ $section := where $section "Params.featured" true }}
+
+                    {{ $subsection := where .Site.RegularPages "Section" "in" $mainSections }}
+                    {{ $subsection := where $subsection "Params.subfeatured" true }}
 
 				<!-- Main -->
 					<div id="main">
                         {{ range $i,$p := (sort $section "Params.order" "asc") }}
+                            {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
+                            {{ $thumbnail := $thumbnail.Fill "1024x1024 Center" }}
+                            {{ $thumbnail := $thumbnail.Resize "1024x webp q90" }}
+
+                            <article class="thumb">
+                                <a href="{{ .RelPermalink }}" class="image">
+                                    <img src="{{ $thumbnail.RelPermalink }}" alt="{{ .Params.alt }}" />
+                                </a>
+                                <h2>{{ .Title }}</h2>
+                                <p>{{ .Description }}</p>
+                            </article>
+                        {{ end }}
+
+						<article class="thumb"></article>
+						<article class="thumb"></article>
+						<article class="thumb">
+							<h2 style="font-weight:bold;">Other Work:</h2>
+							<p>Here are some of my other works that I have created over the years. They are not featured in my main work, but they are still part of my portfolio.</p>
+						</article>
+
+						{{ range $i,$p := (sort $subsection "Params.order" "asc") }}
                             {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
                             {{ $thumbnail := $thumbnail.Fill "1024x1024 Center" }}
                             {{ $thumbnail := $thumbnail.Resize "1024x webp q90" }}

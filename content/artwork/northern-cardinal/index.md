@@ -11,8 +11,7 @@ aliases: [/northern-cardinal, /artwork/rage-fueled-bird]
 images: ['painting.jpg']
 videos: [https://www.instagram.com/p/C3fAU-6ON7E/, https://youtube.com/shorts/JsbqhoQqTnA]
 
-featured: false
-more: false
+subfeatured: true
 order: 22
 ratio: portrait
 power: 427

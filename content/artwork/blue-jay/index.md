@@ -11,8 +11,7 @@ aliases: [/blue-jay, /artwork/bluejay]
 images: ['painting.jpg']
 videos: []
 
-featured: false
-more: false
+subfeatured: true
 order: 23
 ratio: landscape
 power: 67

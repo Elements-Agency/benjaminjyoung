@@ -10,8 +10,7 @@ aliases: [/creepy-clown, /artwork/scary-clown, /artwork/jenis-clown]
 images: ['painting.jpg']
 videos: []
 
-featured: false
-more: false
+subfeatured: true
 order: 99
 ratio: square
 power: 28

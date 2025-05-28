@@ -11,9 +11,6 @@ aliases: [/lemon-tree, /artwork/lemons]
 images: ['painting.jpg']
 videos: []
 
-featured: false
-more: false
-order: 99
 ratio: portrait
 power: 15
 favorite: false

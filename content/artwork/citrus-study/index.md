@@ -11,9 +11,7 @@ aliases: [/citrus-study, /artwork/lemon-study]
 images: ['painting.jpg']
 videos: [https://www.instagram.com/p/C3aFj71ssZR/, https://youtu.be/CF7wcElqy8Y]
 
-featured: false
-more: false
-order: 99
+subfeatured: true
 ratio: landscape
 power: 44
 favorite: false

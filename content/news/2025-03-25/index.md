@@ -85,7 +85,7 @@ There's been a handful of other paintings I have completed, checkout the others 
 
 These paintings include; [Avalanche Lilies](/artwork/avalanche-lilies), [Defeat](/artwork/defeat), [Young Money](/artwork/young-money), and [Creepy Ladybug](/artwork/creepy-ladybug).
 
-{{< button class="fit" href="/artwork" text="View All Artwork" >}}
+{{< button class="fit" href="/featured" text="View All Artwork" >}}
 
 ## Originals Paintings Sold ##
 

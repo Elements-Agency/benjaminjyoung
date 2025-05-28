@@ -11,8 +11,7 @@ aliases: [/irish-coast, /artwork/ireland-coast]
 images: ['painting.jpg']
 videos: []
 
-featured: false
-more: false
+subfeatured: true
 order: 99
 ratio: landscape
 power: 49

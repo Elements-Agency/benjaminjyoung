@@ -9,8 +9,7 @@ aliases: [/erie-rock-ii]
 images: ['painting.jpg']
 videos: []
 
-featured: false
-more: true
+featured: true
 order: 15
 ratio: portrait
 power: 120

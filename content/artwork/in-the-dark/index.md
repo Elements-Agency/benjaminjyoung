@@ -10,7 +10,6 @@ images: ['painting.jpg']
 videos: []
 
 featured: true
-more: true
 order: 4
 ratio: portrait
 power: 9000
