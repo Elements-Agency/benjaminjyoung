@@ -2135,7 +2135,7 @@ input, select, textarea {
 						<nav>
                             {{ $currentPage := . }}
                             <ul>
-                                {{ range .Site.Menus.inside }}
+                                {{ range .Site.Menus.small }}
                                     <li class="{{if strings.Contains $currentPage.RelPermalink .URL }}{{if ne .Name "Home"}}active{{end}}{{ end }}">
                                         <a href="{{ .URL }}" title="{{ i18n "pageTitle" . }}" class="icon solid fa-info-circle">
                                             {{ .Name }}

@@ -77,6 +77,19 @@ timeout = '600'
     pageRef = '/contact'
     weight = 80
 
+[[menus.small]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+[[menus.small]]
+    name = 'About'
+    pageRef = '/about'
+    weight = 30
+[[menus.small]]
+    name = 'Contact'
+    pageRef = '/contact'
+    weight = 80
+
 [services]
   [services.googleAnalytics]
     ID = 'G-LKWC4KDVH8'
