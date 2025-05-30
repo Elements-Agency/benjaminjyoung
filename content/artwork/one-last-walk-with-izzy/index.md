@@ -42,11 +42,6 @@ products:
       price: $60
       limited: 60
       left: 42
-    - id: 750657720
-      name: 4x6in Reproduction
-      price: $20
-      limited: 200
-      left: 189
     - id: 708668936
       name: Original Painting
       sold: true
