@@ -70,6 +70,8 @@ This oil painting captures an intimate embrace between [my late fiancee](/tags/n
 
 Embrace is a small taste of the narrative I have been trying to ready myself in to painting. Released specifically on December 20th, a date very important and tragic to me. While this surreal painting is set on February 26th, 2020, the prior December 20th had marked the sixth year anniversary of the loss of my second fiancee in the painting. Those six years were a living hell for me. I didn’t want to live through another anniversary. Nor to survive this ordeal in to my 30s. I had planned out my demise for that December 20th, but by pure happenstance, that plan had [been delayed](/artwork/hallelujah) until the following February 26th. In those final moments before I would fall in to the darkness, this is the acceptance I have illustrated of that private moment. The irony that very acceptance was what allowed the loving man that was lost before to finally return back. The courage gained from facing death would finally allow me to face the loss that caused so much pain the six years prior.
 
+{{< progress >}}
+
 ## Accolades ##
 
 * Featured in the [2025 Door 2 Art Show](https://www.door2art.com/artshow) at [Door 2 Art](https://www.door2art.com).
