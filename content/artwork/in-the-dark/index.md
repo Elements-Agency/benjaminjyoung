@@ -44,7 +44,7 @@ products:
     - id: 746858779
       name: Limited Reproduction
       price: $50
-      left: 59
+      left: 58
 
 reproductions:
   - 1: Ben Young (East Sparta, OH)

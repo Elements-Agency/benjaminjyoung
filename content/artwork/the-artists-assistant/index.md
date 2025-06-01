@@ -43,7 +43,7 @@ products:
     - id: 683098813
       name: Limited Reproduction
       price: $50
-      left: 57
+      left: 56
     - id: 675661538
       name: Original Painting
       price: $500

@@ -33,10 +33,12 @@ That just reflects my life in the aspect of art... My paintings revolve around m
   * **Honorable Mention** at [Flora](https://www.whiterabbitgalleries.org/event-details/flora-3rd-annual-juried-exhibition-2025-01-17-16-00) for [Avalanche Lilies](/artwork/avalanche-lilies).
   * **Featured Artist** Friday for [ActLoCLE](https://www.actlocle.org/).
   * **Honorable Mention** at [Door 2 Art Show](https://www.door2art.com/artshow) for [Hallelujah](/artwork/hallelujah).
+  * **Featured Artist** for [Massillon Community Arts Council](https://massillonarts.com).
 
 ### Exhibitions ###
 
   * Upcoming
+    * June - **SOLO** Resident Artist Display at [Massillon Public Library](https://www.massillonlibrary.org) in Massillon, Ohio.
     * September 12th - **GROUP** [Stark County Bar Association's](https://starkctybar.com) Law in Art Exhibit at [Cyrus Custom Framing & Art Gallery](https://www.cyruscustom.com) in Canton, Ohio.
     * September 20th - **JURIED** [Ohio Watercolor Society's Exhibit](https://www.ohiowatercolorsociety.org/watercolor-ohio-2025) hosted at [Springfield Museum of Art](https://www.springfieldart.net) in Springfield, Ohio.
     * December - **SOLO** Exhibit at [Brewtifully](https://www.tracydawnbrewer.com) in North Canton, Ohio.
