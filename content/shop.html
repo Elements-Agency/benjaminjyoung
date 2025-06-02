@@ -14,13 +14,17 @@ shop: true
         20% off discount code for anyone <a href="/sign-up?driven=discount">signed up to my newsletter</a>.
         <span id="addcountdown"></span>
     </li>
-    <li><strong>10% Off Order:</strong> Ends <u>May 16th</u>, 10% off using code <strong>WARMWEATHER</strong>.</li>
+    <li>
+      <strong>Limited Time Sale:</strong>
+      10% off all orders using code <strong>KQD86GYS10N6</strong>.
+      <span id="addcountdownsale">.</span>
+    </li>
 </ul>
 
 <script>
     // Insert the date two days from today in id addcountdown
     var date = new Date();
-    date.setDate(date.getDate() + 2);
+    date.setDate(date.getDate() + 4);
     var countdown = document.getElementById("addcountdown");
 
     // set formattedcountdown to format like May 13th from countdown
@@ -30,4 +34,17 @@ shop: true
     });
 
     countdown.innerHTML = "Offer ends <u>" + formattedcountdown + "</u>.";
-  </script>
+
+
+    date = new Date();
+    date.setDate(date.getDate() + 1);
+    var countdownsale = document.getElementById("addcountdownsale");
+
+    // set formattedcountdown to format like May 13th from countdown
+    var formattedcountdown = date.toLocaleDateString("en-US", {
+      month: 'long',
+      day: '2-digit'
+    });
+
+    countdownsale.innerHTML = "Offer ends <u>" + formattedcountdown + "</u>.";
+</script>
