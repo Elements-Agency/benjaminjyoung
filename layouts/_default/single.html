@@ -462,7 +462,10 @@
                               <strong style="color: red; text-transform: uppercase;">Sold Out</strong>
                             {{ else if $product.left }}
                               <strong style="color: orange; text-transform: uppercase;">
-                                Only {{ $product.left }}
+                                Only
+                                <span class="ecsp-productBrowser-qty ecsp-qty" itemprop="quantity" content="{{ $product.left }}">
+                                  {{ $product.left }}
+                                </span>
                                 Left of
                                 {{ if $product.limited }}
                                   {{ $product.limited }}
@@ -500,14 +503,14 @@
             <br>
 
             <div class="next-post" style="float:left;">
-              {{ if .NextPage }}
-                <a class="link-reverse" href="{{ .NextPage.Permalink }}">« {{ .NextPage.Title | truncate 50 "..." }}</a>
+              {{ if .Next }}
+                <a class="link-reverse" href="{{ .Next.Permalink }}">« {{ .Next.Title | truncate 50 "..." }}</a>
               {{ end }}
             </div>
             
             <div class="previous-post" style="float:right;">
-              {{ if .PrevPage }}
-                <a class="link-reverse" href="{{ .PrevPage.Permalink }}">{{ .PrevPage.Title | truncate 50 "..."}} »</a>
+              {{ if .Prev }}
+                <a class="link-reverse" href="{{ .Prev.Permalink }}">{{ .Prev.Title | truncate 50 "..."}} »</a>
               {{ end }}
             </div>
         </section>
