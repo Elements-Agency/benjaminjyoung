@@ -27,7 +27,7 @@ mediums: [oil]
 materials: [canvas]
 colors: [black, blue, tan, brown, grey]
 collections: [the dark trio, one last december, figures facing from view, reserved, timeline, figures]
-locations: [kolp]
+locations: [kolp, print]
 tags: [song, chair, scissors, woman, man, ben, figure, rope, dark, melancholy, sad, tied, bound, broken, intimate, fixing, trauma, cut, indoors, warm, ben, fat, loss, massillon, number five]
 
 inventory:
@@ -42,7 +42,6 @@ inventory:
   - patina: 2024-08-28 - 2024-09-12
 
 planning:
-  - oaca: 2025-05-30 - 2025-09-14
   - massmu: 2025-10-22 - 2026-01-14
 
 status: sale

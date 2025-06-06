@@ -27,7 +27,7 @@ mediums: [watercolor]
 materials: [paper]
 colors: [brown, yellow, white, black]
 collections: [figures facing from view, shades of olson, landscapes]
-locations: [kolp]
+locations: [kolp, print]
 tags: [hills, father, jay, howard, farm, house, old, man, figure, tree, muted, countryside, building, outdoors, autumn, solitary, rustic, farmhouse, appalachia, east sparta, ohio]
 
 inventory:
@@ -37,7 +37,6 @@ inventory:
   - home: 2024-09-10 - 2024-09-16
 
 planning:
-  - oaca: 2025-05-30 - 2025-09-14
   - massmu: 2025-10-22 - 2026-01-14
 
 status: sale

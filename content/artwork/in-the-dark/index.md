@@ -27,7 +27,7 @@ mediums: [watercolor]
 materials: [cotton paper]
 colors: [brown, red, orange, tan]
 collections: [timeline, portraits]
-locations: [kolp]
+locations: [kolp, print]
 tags: [human, figure, ben, marcus, boy, youth, fire, flame, candle, dark, glow, warm, indoors]
 
 inventory:

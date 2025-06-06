@@ -27,7 +27,7 @@ mediums: [oil]
 materials: [canvas]
 colors: [black, brown, white]
 collections: [feb 26, one last december, timeline, figures]
-locations: [kolp]
+locations: [kolp, print]
 tags: [woman, lady, man, ben, andrea, smoke, embrace, hug, couple, death, figure, love, suit, dress, dark, indoors, dramatic, winter, surreal, number two]
 
 inventory:

@@ -34,9 +34,6 @@ inventory:
   - kolp: idk - current
   - patina: 2025-01-24 - idk
 
-planning:
-  - whiterabbit: 2025-06-07 - 2025-07-12
-
 status: sale
 products:
     - id: 745421967
