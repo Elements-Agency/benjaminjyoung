@@ -1,5 +1,5 @@
 ---
-layout: inside
+layout: list
 title: Artist Newsletter
 description: Stay up to date on the latest newsletter for artist Ben Young.
 keywords: [artist, news, updates, newsletter]
