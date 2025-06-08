@@ -36,14 +36,12 @@ inventory:
   - cyrus: 2024-04-18 - 2024-05-02
   - home: 2024-02-06 - 2024-04-18
 
-status: sold
+status: sale
 products:
     - id: 645932227
       name: Original Painting
       price: $200
-      sold: true
 
-buyer: discontinued
 ---
 
 The **Citrus Study** painting features a still life composition with three objects that appear on a table. On the left is a green lime, partially blending from green to a yellowish hue, indicating ripeness or a variation in color typical of certain lime varieties. In the middle, there's a red mug or cup with a visible handle on the right, suggesting it's meant for a right-handed person to pick up easily. The mug's rim is white, indicating the inside color and the reflection of light. On the right, there's a lemon with a bright yellow color, indicative of its ripeness and tartness. The background and surface are in muted dark tones, with the surface reflecting a bit of light, giving a sense of a shadowed room. The painting style is textured, with visible brushstrokes marks, which give it a tactile quality. The color palette is quite naturalistic, with a strong contrast between the brightly colored objects and the dark background, drawing attention to the subjects of the still life.

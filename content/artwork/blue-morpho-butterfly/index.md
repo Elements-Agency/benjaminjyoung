@@ -39,7 +39,7 @@ status: sale
 products:
     - id: 690656454
       name: Original Painting
-      price: $140
+      price: $240
 ---
 
 This watercolor painting captures the delicate beauty of a blue butterfly perched on a cluster of green and yellow leaves. The butterfly's wings are depicted in vivid shades of blue, with intricate black and white patterns along the edges, adding depth and contrast to the piece. The artist skillfully uses the dark, textured background to make the butterfly's bright colors pop, creating a striking visual effect. The leaves beneath the butterfly are painted with a mix of green and yellow tones, which add a natural, organic feel to the composition. Overall, the painting evokes a sense of tranquility and appreciation for the subtle details found in nature.

@@ -55,6 +55,8 @@ I know, spring is almost over. But... I need to free up some space in my studio 
     {{< preview col="2" painting="/artwork/iris-flowers/" >}}
 {{< row-end >}}
 
+Use code **'SPRINGCLEANING'** at checkout to received 50% off these originals.
+
 {{< button class="fit" href="/shop/" text="Shop All Artwork" >}}
 
 
