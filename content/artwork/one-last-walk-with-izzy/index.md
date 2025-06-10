@@ -41,13 +41,13 @@ products:
       name: 9x12in Reproduction
       price: $60
       limited: 60
-      left: 38
+      left: 37
       popular: true
     - id: 758199794
       name: 18x24in Reproduction
       price: $200
       limited: 30
-      left: 29
+      left: 28
       new: true
     - id: 758189666
       name: 30x40in Reproduction
@@ -70,26 +70,33 @@ buyer: Gary Stewart (Columbus, OH)
 
 limited: 60
 reproductions:
-  - 1: Ben Young (East Sparta, OH)
-  - 2: Fred Boone (Canton, OH)
-  - 3: Lorie Hobbie (Arlington, TX)
-  - 4: Lucy Lurz (Gainesville, FL)
-  - 5: Corey Sheppard (Roanoke, VA)
-  - 6: Maryanne Jensen-Gowan (Pelham, NH)
-  - 7: Allen Ernst (Bellevue, IA)
-  - 8: Christine Allen (West Chester, PA)
-  - 9: Sarah Heffington (Franklin, TN)
-  - 10: Cindy Swank (Corvallis, OR)
-  - 11: Nancy Van Cleve (Geneva, IL)
-  - 12: Scott Owens (Dunsmuir, CA)
-  - 13: Robin McNeill (Youngsville, NC)
-  - 14: Teresa Vitulli (New Hope, PA)
-  - 15: Ryan Macdonald (Pleasant Hill, CA)
-  - 16: Mary Milbet (Faribault, MN)
-  - 17: Zachary Nolan (Metamora, MI)
-  - 18: Alex Schmidt (West Chester, OH)
-  - 19: Peter Stephens (Grass Lake, MI)
-  - 20: Susan Lehman (Jupiter, FL)
+  - 9x12in:
+    - 1: Ben Young (East Sparta, OH)
+    - 2: Fred Boone (Canton, OH)
+    - 3: Lorie Hobbie (Arlington, TX)
+    - 4: Lucy Lurz (Gainesville, FL)
+    - 5: Corey Sheppard (Roanoke, VA)
+    - 6: Maryanne Jensen-Gowan (Pelham, NH)
+    - 7: Allen Ernst (Bellevue, IA)
+    - 8: Christine Allen (West Chester, PA)
+    - 9: Sarah Heffington (Franklin, TN)
+    - 10: Cindy Swank (Corvallis, OR)
+    - 11: Nancy Van Cleve (Geneva, IL)
+    - 12: Scott Owens (Dunsmuir, CA)
+    - 13: Robin McNeill (Youngsville, NC)
+    - 14: Teresa Vitulli (New Hope, PA)
+    - 15: Ryan Macdonald (Pleasant Hill, CA)
+    - 16: Mary Milbet (Faribault, MN)
+    - 17: Zachary Nolan (Metamora, MI)
+    - 18: Alex Schmidt (West Chester, OH)
+    - 19: Peter Stephens (Grass Lake, MI)
+    - 20: Susan Lehman (Jupiter, FL)
+    - 21: David Cushing (Canton, OH)
+  - 18x24in:
+    - 1: Ben Young (East Sparta, OH)
+    - 2: Susan Lehman (Jupiter, FL)
+  - 30x40in:
+    - 1: Ben Young (East Sparta, OH)
 
 tag: The man walking is myself, with the blond hair shimmering from the bright autumn sun. The companion by my side is my late Border Collie dog, Izzy. The landscape is inspired by the Ohio Appalachian Plateau hills I grew up with. It's a memory I never got to have with my faithful family member, before she passed. She was always by my side in her life span, but sometimes time escapes us too quickly, and by the time I was in healthy enough state to hike myself, she had grown too elderly and weary to join me in my long walks of reflection.
 ---
