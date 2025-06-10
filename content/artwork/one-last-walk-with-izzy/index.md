@@ -42,6 +42,25 @@ products:
       price: $60
       limited: 60
       left: 38
+      popular: true
+    - id: 758199794
+      name: 18x24in Reproduction
+      price: $200
+      limited: 30
+      left: 29
+      new: true
+    - id: 758189666
+      name: 30x40in Reproduction
+      price: $400
+      limited: 10
+      left: 9
+      new: true
+    - id: 750657720
+      name: 4x6in Reproduction
+      price: $20
+      limited: 200
+      left: 189
+      new: true
     - id: 708668936
       name: Original Painting
       sold: true

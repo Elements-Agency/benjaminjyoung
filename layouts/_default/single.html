@@ -441,7 +441,7 @@
                               {{ $pcon := $pcon.Fit "400x400 webp q85" }}
                               <div itemprop="image" content="{{ $pcon.RelPermalink }}"></div>
 
-                              <div class="ecsp-title" itemprop="name" content="{{ .Title }} {{ $product.name }}"></div>
+                              <div class="ecsp-title">{{ $product.name }}</div>
 
                               <div itemtype="http://schema.org/Offer" itemscope itemprop="offers">
                                 <link itemprop="url" href="/shop/#!/p/{{ $product.id }}" />
