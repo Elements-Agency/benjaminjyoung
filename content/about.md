@@ -33,12 +33,11 @@ That just reflects my life in the aspect of art... My paintings revolve around m
   * **Honorable Mention** at [Flora](https://www.whiterabbitgalleries.org/event-details/flora-3rd-annual-juried-exhibition-2025-01-17-16-00) for [Avalanche Lilies](/artwork/avalanche-lilies).
   * **Featured Artist** Friday for [ActLoCLE](https://www.actlocle.org/).
   * **Honorable Mention** at [Door 2 Art Show](https://www.door2art.com/artshow) for [Hallelujah](/artwork/hallelujah).
-  * **Featured Artist** for [Massillon Community Arts Council](https://massillonarts.com).
+  * **Featured Artist** for Massillon Community Arts Council.
 
 ### Exhibitions ###
 
   * Upcoming
-    * June - **SOLO** Resident Artist Display at [Massillon Public Library](https://www.massillonlibrary.org) in Massillon, Ohio.
     * September 12th - **GROUP** [Stark County Bar Association's](https://starkctybar.com) Law in Art Exhibit at [Cyrus Custom Framing & Art Gallery](https://www.cyruscustom.com) in Canton, Ohio.
     * September 20th - **JURIED** [Ohio Watercolor Society's Exhibit](https://www.ohiowatercolorsociety.org/watercolor-ohio-2025) hosted at [Springfield Museum of Art](https://www.springfieldart.net) in Springfield, Ohio.
     * December - **SOLO** Exhibit at [Brewtifully](https://www.tracydawnbrewer.com) in North Canton, Ohio.
@@ -50,14 +49,15 @@ That just reflects my life in the aspect of art... My paintings revolve around m
     * **JURIED** [Bryn Du Art Show](https://www.bryndu.com/bryn-du-art-show) at the [Bryn Du Mansion](https://www.bryndu.com) in Granville, Ohio.
     * **JURIED** [Door 2 Art Show](https://www.door2art.com/artshow) hosted at [Door 2 Art](https://www.door2art.com) in Hudson, Ohio.
     * **JURIED** [Artists of Rubber City Exhibit](https://www.summitartspace.org/aorc-juried-exhibition-2025/) hosted at [Summit Artspace](https://www.summitartspace.org) in Akron, Ohio.
+      * June - **SOLO** Resident Artist Display at [Massillon Public Library](https://www.massillonlibrary.org) in Massillon, Ohio.
   * 2024
-    * **BENEFIT** [Patina First Fundraiser](https://www.facebook.com/events/869821251632238/) hosted at Patina Arts Centre in Canton, Ohio.
+    * **BENEFIT** Patina First Fundraiser hosted at Patina Arts Centre in Canton, Ohio.
     * **JURIED**  [Brown's Town](https://paulbrownmuseum.org/exhibits/detail/browns-town-art-inspired-by-ohios-football-heritage) hosted at [Massillon Museum](http://massillonmuseum.org/) in Massillon, Ohio.
-    * **GROUP** [Wings and Whimsy](https://www.facebook.com/events/1031065925277126) hosted at Patina Arts Centre in Canton, Ohio.
+    * **GROUP** Wings and Whimsy hosted at Patina Arts Centre in Canton, Ohio.
     * **JURIED**  [Rod Meadows Art Call](https://www.juilliardartscenter.com/ron-meadows-art-call-2024.html) hosted at [Juilliard Arts Center](https://www.juilliardartscenter.com) in Canton, Ohio.
     * **JURIED**  [ActLoCLE Exhibit](https://www.actlocle.org/) hosted Online for the Cleveland Ohio area.
     * **GROUP** [The Art of Toys Exhibit](https://www.facebook.com/events/886574973454122) hosted at [BZTAT Studios](http://bztatstudios.com) in Canton, Ohio.
-    * **GROUP** [Resident Artist Showcase](https://www.facebook.com/events/512553025101953) hosted at Patina Arts Centre in Canton, Ohio.
+    * **GROUP** Resident Artist Showcase hosted at Patina Arts Centre in Canton, Ohio.
 
 
 {{< button class="fit" text="Contact Artist" href="/contact" >}}

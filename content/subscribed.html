@@ -16,6 +16,10 @@ private: true
   });
   gtag('event', 'lead', {});
 
+  fbq('trackCustom', 'ViewSignup');
+  rdt('track', 'Custom', { customEventName: 'View Signup' });
+  gtag('event', 'view_signup', {});
+
   trackEngaged();
 </script>
 
