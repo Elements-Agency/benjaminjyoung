@@ -41,7 +41,7 @@ products:
       name: 9x12in Reproduction
       price: $60
       limited: 60
-      left: 35
+      left: 34
       popular: true
     - id: 758199794
       name: 18x24in Reproduction
@@ -56,7 +56,7 @@ products:
       left: 9
       new: true
     - id: 750657720
-      name: 4x6in Reproduction
+      name: 4x5in Reproduction
       price: $20
       limited: 200
       left: 189
@@ -94,6 +94,7 @@ reproductions:
     - 21: David Cushing (Canton, OH)
     - 22: Debra Mee (Raleigh, NC)
     - 23: Abigail Ray (Akron, OH)
+    - 24: Leah Hartzler (Wooster, OH)
   - 18x24in:
     - 1: Ben Young (East Sparta, OH)
     - 2: Susan Lehman (Jupiter, FL)
