@@ -41,7 +41,7 @@ products:
       name: 9x12in Reproduction
       price: $60
       limited: 60
-      left: 37
+      left: 35
       popular: true
     - id: 758199794
       name: 18x24in Reproduction
@@ -92,6 +92,8 @@ reproductions:
     - 19: Peter Stephens (Grass Lake, MI)
     - 20: Susan Lehman (Jupiter, FL)
     - 21: David Cushing (Canton, OH)
+    - 22: Debra Mee (Raleigh, NC)
+    - 23: Abigail Ray (Akron, OH)
   - 18x24in:
     - 1: Ben Young (East Sparta, OH)
     - 2: Susan Lehman (Jupiter, FL)
