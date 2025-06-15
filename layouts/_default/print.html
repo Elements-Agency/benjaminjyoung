@@ -65,7 +65,7 @@
             </div>
 
             <script>
-                function toggle(source) {
+                function toggleElms(source) {
                     var checkboxes = document.querySelectorAll('input[type="checkbox"]');
                     for (var i = 0; i < checkboxes.length; i++) {
                         if (checkboxes[i] != source) {
@@ -76,7 +76,7 @@
             </script>
 
             <form class="noprint" style="margin:0;">
-                <input onclick="toggle(this)" id="toggle" name="toggle" type="checkbox">
+                <input onclick="toggleElms(this)" id="toggle" name="toggle" type="checkbox">
                 <label for="toggle">
                     Toggle All
                 </label>

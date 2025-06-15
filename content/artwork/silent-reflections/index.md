@@ -29,7 +29,7 @@ mediums: [watercolor]
 materials: [cotton paper]
 colors: [grey, blue]
 collections: [the colors of water, landscapes]
-locations: [kolp]
+locations: [sold]
 tags: [lake, water, boat, human, figure, dark, mist, ripples, forrest, hills, outdoors, spring, dusk, cool]
 
 inventory:
@@ -39,11 +39,14 @@ inventory:
   - patina: 2024-06-07 - 2024-07-27
   - home: 2024-06-06 - 2024-06-07
 
-status: sale
+buyer: Mark Danis (Arlington, VA)
+
+status: sold
 products:
     - id: 670473779
       name: Original Painting
       price: $200
+      sold: true
 ---
 
 This watercolor painting, titled "**Silent Reflections**," captures a serene and contemplative scene of two individuals in a small boat on a vast, calm body of water. The palette consists primarily of muted blues and grays, creating a tranquil and misty atmosphere. Light touches of yellow kiss the finer details to show the dancing of light. The reflections on the water's surface are subtly rendered, blending seamlessly with the surrounding landscape. In the background, the faint outlines of forested hills fade into the horizon, shrouded in a gentle haze. This watercolor painting is a  peaceful and introspective work of art.

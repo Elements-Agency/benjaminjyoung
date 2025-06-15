@@ -17,6 +17,12 @@ timeout = '600'
   tag = 'tags'
   series = 'series'
 
+[outputs]
+  home = ['html']
+  section = ['html']
+  taxonomy = ['html']
+  term = ['html']
+
 [params]
   commentoEnable = false
   location = "Studio #220. 318 Cleveland Ave NW. Canton, Ohio 44702. USA."
@@ -29,6 +35,9 @@ timeout = '600'
     twitter_domain	= "benjaminjyoung.com" # This domain shows in twitter cards as "View on `twitter_domain`"
     pinterest		= "artistbenyoung"
     instagram		= "artistbenyoung"
+  [params.author]
+    email = 'the@benjaminjyoung.com'
+    name = 'Ben Young'
 
 [menus]
 [[menus.main]]
