@@ -442,6 +442,7 @@
                               <div itemprop="image" content="{{ $pcon.RelPermalink }}"></div>
 
                               <div class="ecsp-title">{{ $product.name }}</div>
+                              <span itemprop="name" content="{{ .Title }} {{ $product.name }}" style="display:none;">{{ .Title }} {{ $product.name }}</span>
 
                               <div itemtype="http://schema.org/Offer" itemscope itemprop="offers">
                                 <link itemprop="url" href="/shop/#!/p/{{ $product.id }}" />
