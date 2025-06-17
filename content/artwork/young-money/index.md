@@ -17,7 +17,7 @@ favorite: false
 
 supplies:
   - medium: M. Graham Watercolor Paint
-  - on: Baohong Cold Press Watercolor Block
+  - on: Arches Cold Press Watercolor Paper
   - frame: Cyrus Custom Framing
 size: 30x22in
 
@@ -43,7 +43,7 @@ status: sale
 products:
     - id: 734463473
       name: Original Painting
-      price: $1,980 #$1,320
+      price: $1,320
     - id: 734463429
       name: Limited Reproduction
       price: $50
