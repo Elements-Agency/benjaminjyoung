@@ -115,6 +115,8 @@
       document.addEventListener("DOMContentLoaded", () => {
         xProduct();
 
+        localStorage.viewpainting = true;
+        
         fbq('trackCustom', 'ViewPainting', {
           content_category: 'Artwork',
           content_name: '{{- .Title -}}',
