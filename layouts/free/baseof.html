@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Free Painting Quiz</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- Bootstrap CSS CDN -->
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+	
+	{{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
+      {{ template "_internal/google_analytics.html" . }}
+
+		<!-- Meta Pixel Code -->
+		<script>
+			!function (f, b, e, v, n, t, s) {
+				if (f.fbq) return; n = f.fbq = function () {
+					n.callMethod ?
+					n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+				};
+				if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0';
+				n.queue = []; t = b.createElement(e); t.async = !0;
+				t.src = v; s = b.getElementsByTagName(e)[0];
+				s.parentNode.insertBefore(t, s)
+			}(window, document, 'script',
+				'https://connect.facebook.net/en_US/fbevents.js');
+
+			fbq('init', '786160320198316');
+			fbq('track', 'PageView');
+		</script>
+		<noscript>
+			<img height="1" width="1" style="display:none"
+				src="https://www.facebook.com/tr?id=786160320198316&ev=PageView&noscript=1" />
+		</noscript>
+		<!-- End Meta Pixel Code -->
+
+		<!-- Clarity Tracking Code -->
+		<script>
+			(function (c, l, a, r, i, t, y) { c[a] = c[a] || function () { (c[a].q = c[a].q || []).push(arguments) }; t = l.createElement(r); t.async = 1; t.src = "https://www.clarity.ms/tag/" + i + "?ref=bwt"; y = l.getElementsByTagName(r)[0]; y.parentNode.insertBefore(t, y); })(window, document, "clarity", "script", "ldfottlkpq");
+		</script>
+		<!-- End Clarity Clarity Code -->
+    {{ end }}
+</head>
+<body class="bg-light">
+	<div class="container py-5">
+		<div class="row justify-content-center mb-4">
+			<div class="col-auto">
+				<img src="/images/logo.png" alt="Logo" class="d-block mx-auto mb-3" style="max-width: 200px;">
+			</div>
+		</div>
+		
+		<div class="row justify-content-center mb-5">
+			<div class="col-md-6 text-center">
+				<img src="/images/banner.jpg" alt="Ben Young Painting" class="img-fluid rounded shadow">
+			</div>
+			<div class="col-md-6 text-center">
+				<h1 class="mb-3">Receive a Free Fine Art Print <br> by Ben Young</h1>
+				<p class="lead">Celebrate creativity with a complimentary fine art print from acclaimed artist Ben Young. This is your chance to own a beautiful piece of art—absolutely free! Just pay shipping and handling.</p>
+				<ul class="list-group mb-3 text-start">
+					<li class="list-group-item">
+						<strong>Get a free art print</strong> – just cover shipping and handling.
+					</li>
+					<li class="list-group-item">
+						<strong>Free digital copy access</strong> – use as phone or device backgrounds.
+					</li>
+					<li class="list-group-item">
+						<strong>Free insured shipping</strong> – your print arrives safely at your door.
+					</li>
+				</ul>
+				<a href="#select" class="btn btn-primary btn-lg mt-2">Claim Your Free Print</a>
+			</div>
+		</div>
+
+		<br>
+
+		<div class="row justify-content-center mb-5">
+			<div class="col-md-8">
+				<h2 class="mb-3 text-center">About Ben Young</h2>
+				<p class="fs-5 text-center">
+					Ben's artwork is deeply rooted in personal emotion, capturing moments of vulnerability, love, and loss. Each painting tells a heartfelt story, inviting viewers to connect with the raw feelings and experiences that inspired it. Through expressive brushwork and evocative themes, Ben creates pieces that resonate on a profound emotional level, offering comfort and reflection to those who encounter his art.
+				</p>
+				<p class="fs-5 text-center">
+					Working mainly in watercolor and sometimes oil, Ben's art has been featured in galleries and exhibitions around the US.
+				</p>
+				<p class="fs-5 text-center">
+					<a href="#select" class="btn btn-primary btn-lg mt-2">Claim Your Free Print</a>
+				</p>
+			</div>
+			<div class="col-md-4 text-center">
+				<img src="/images/showpiece.jpg" alt="Showpiece by Ben Young" class="img-fluid rounded shadow">
+			</div>
+		</div>
+
+		<br>
+
+		<div class="row justify-content-center mb-5">
+			<div class="col-12 text-center mb-4">
+				<h2 class="mb-3">What Collectors Are Saying</h2>
+				<p class="lead">See what others have to say about their free Ben Young art prints!</p>
+			</div>
+			<div class="col-md-4 mb-4">
+				<div class="card h-100 shadow-sm">
+					<div class="card-body">
+						<p class="card-text">"Absolutely stunning! The print quality is fantastic and it arrived in perfect condition. One Last Walk With Izzy touches my heart."</p>
+						<div class="d-flex align-items-center mt-3">
+							<img src="/images/reviewer1.png" alt="Reviewer 1" class="rounded-circle me-3" width="48" height="48">
+							<div>
+								<strong>Jessica M.</strong><br>
+								<small>Summerville, SC</small>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-4 mb-4">
+				<div class="card h-100 shadow-sm">
+					<div class="card-body">
+						<p class="card-text">"I couldn't believe this was free! The colors are vibrant and the artwork is so moving. Highly recommend to anyone who loves art."</p>
+						<div class="d-flex align-items-center mt-3">
+							<img src="/images/reviewer2.png" alt="Reviewer 2" class="rounded-circle me-3" width="48" height="48">
+							<div>
+								<strong>David L.</strong><br>
+								<small>Pittsburgh, PA</small>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-4 mb-4">
+				<div class="card h-100 shadow-sm">
+					<div class="card-body">
+						<p class="card-text">"Ben Young's art is beautiful and meaningful. The print was packaged well and looks amazing in my office. Thank you for this gift!"</p>
+						<div class="d-flex align-items-center mt-3">
+							<img src="/images/reviewer3.png" alt="Reviewer 3" class="rounded-circle me-3" width="48" height="48">
+							<div>
+								<strong>Kelly R.</strong><br>
+								<small>Akron, OH</small>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-12 text-center mt-4">
+				<a href="#select" class="btn btn-primary btn-lg">Claim Your Free Art Print</a>
+			</div>
+		</div>
+
+		<br>
+		<hr>
+		<br>
+
+		<div id="select" class="row justify-content-center mb-4">
+			<div class="col-md-8 text-center">
+				<h2 class="mb-3">Which Print Would You Like for Free?</h2>
+				<p class="lead">Select one of the four painting reproductions below to claim your free artwork!
+					<br>Just pay shipping and handling.</p>
+			</div>
+		</div>
+		<form>
+			<div class="row g-4">
+				<!-- Painting 1 -->
+				<div class="col-md-3 col-sm-6">
+					<div class="card h-100">
+						<a href="/select/one-last-walk-with-izzy">
+							<img src="/images/freeprint1.jpg" class="card-img-top" alt="Painting 1">
+						</a>
+						<div class="card-body text-center">
+							<h5 class="card-title">One Last Walk With Izzy</h5>
+							<p>One final walk with a faithful companion.</p>
+							<a href="/select/one-last-walk-with-izzy" class="btn btn-outline-primary mt-2">Select</a>
+						</div>
+					</div>
+				</div>
+				<!-- Painting 2 -->
+				<div class="col-md-3 col-sm-6">
+					<div class="card h-100">
+						<a href="/select/okay-now">
+							<img src="/images/freeprint2.jpg" class="card-img-top" alt="Painting 2">
+						</a>
+						<div class="card-body text-center">
+							<h5 class="card-title">Okay Now</h5>
+							<p>An expression of farewell from an old friend.</p>
+							<a href="/select/okay-now" class="btn btn-outline-primary mt-2">Select</a>
+						</div>
+					</div>
+				</div>
+				<!-- Painting 3 -->
+				<div class="col-md-3 col-sm-6">
+					<div class="card h-100">
+						<a href="/select/embrace">
+							<img src="/images/freeprint3.jpg" class="card-img-top" alt="Painting 3">
+						</a>
+						<div class="card-body text-center">
+							<h5 class="card-title">Embrace</h5>
+							<p>A dream of a final embrace with a late fiancee.</p>
+							<a href="/select/embrace" class="btn btn-outline-primary mt-2">Select</a>
+						</div>
+					</div>
+				</div>
+				<!-- Painting 4 -->
+				<div class="col-md-3 col-sm-6">
+					<div class="card h-100">
+						<a href="/select/howards-hills">
+							<img src="/images/freeprint4.jpg" class="card-img-top" alt="Painting 4">
+						</a>
+						<div class="card-body text-center">
+							<h5 class="card-title">Howard's Hills</h5>
+							<p>An elderly father hobbling along the rolling hills of SE Ohio.</p>
+							<a href="/select/howards-hills" class="btn btn-outline-primary mt-2">Select</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</form>
+
+		<br>
+		<hr>
+		<br>
+
+		<div class="row justify-content-center">
+			<div class="col-md-8">
+				<div class="alert alert-warning text-center fs-5" role="alert">
+					<strong>Important:</strong> To receive your free print, use coupon code <span class="fw-bold">FREEPRINT</span> at checkout.
+					Shipping and handling fees apply.
+				</div>
+			</div>
+		</div>
+
+		<br>
+
+		<footer class="text-center py-4">
+			<small>&copy; {{ now.Format "2006" }} Ben Young Arts LLC. All rights reserved.</small>
+		</footer>
+	</div>
+	<!-- Bootstrap JS CDN -->
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html></div>
