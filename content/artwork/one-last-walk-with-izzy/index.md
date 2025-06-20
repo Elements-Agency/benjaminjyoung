@@ -41,7 +41,7 @@ products:
       name: 9x12in Reproduction
       price: $60
       limited: 60
-      left: 33
+      left: 32
       popular: true
     - id: 758199794
       name: 18x24in Reproduction
@@ -96,6 +96,7 @@ reproductions:
     - 23: Abigail Ray (Akron, OH)
     - 24: Leah Hartzler (Wooster, OH)
     - 25: Sharon Williams (Fairhaven, MA)
+    - 26: Tom Delamator (North Canton, OH)
   - 18x24in:
     - 1: Ben Young (East Sparta, OH)
     - 2: Susan Lehman (Jupiter, FL)

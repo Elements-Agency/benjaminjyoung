@@ -44,10 +44,11 @@ products:
     - id: 746858779
       name: Limited Reproduction
       price: $50
-      left: 58
+      left: 57
 
 reproductions:
   - 1: Ben Young (East Sparta, OH)
+  - 2: J Mason (San Antonio, TX)
 
 limited: 60
 
