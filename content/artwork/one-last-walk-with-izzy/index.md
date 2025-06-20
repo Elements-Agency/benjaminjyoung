@@ -41,7 +41,7 @@ products:
       name: 9x12in Reproduction
       price: $60
       limited: 60
-      left: 34
+      left: 33
       popular: true
     - id: 758199794
       name: 18x24in Reproduction
@@ -95,6 +95,7 @@ reproductions:
     - 22: Debra Mee (Raleigh, NC)
     - 23: Abigail Ray (Akron, OH)
     - 24: Leah Hartzler (Wooster, OH)
+    - 25: Sharon Williams (Fairhaven, MA)
   - 18x24in:
     - 1: Ben Young (East Sparta, OH)
     - 2: Susan Lehman (Jupiter, FL)
