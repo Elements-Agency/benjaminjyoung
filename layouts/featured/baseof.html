@@ -2166,6 +2166,11 @@ input, select, textarea {
                                 </a>
                                 <h2>
 									{{ .Title }}
+									{{ if eq .Params.status "sold" }}
+										<br>
+										<strong style="color:rgb(230, 0, 0); font-weight:bold;">SOLD</strong>
+										- Reproductions Available
+									{{ end }}
 								</h2>
                                 <p>{{ .Description }}</p>
                             </article>
@@ -2188,7 +2193,8 @@ input, select, textarea {
                                 <h2>
 									{{ .Title }}
 									{{ if eq .Params.status "sold" }}
-										 <strong style="color:rgb(230, 0, 0); font-weight:bold;">(SOLD)</strong>
+										<br>
+										<strong style="color:rgb(230, 0, 0); font-weight:bold;">SOLD</strong>
 									{{ end }}
 								</h2>
                                 <p>{{ .Description }}</p>
