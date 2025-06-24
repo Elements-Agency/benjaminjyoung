@@ -2,12 +2,112 @@
 layout: inside
 title: Curation Information
 heading: Curation Information
-description: Sales Stats and Demographic Information
+description: Information for curators and galleries interested in exhibiting my work. With analysis and demographic information of a proven sales record.
 ---
     <script src="https://cdn.jsdelivr.net/npm/chart.js@4.5.0/dist/chart.umd.min.js"></script>
 
-    <p style="text-align: center;">Updated as of June 23, 2025</p>
+    <p style="text-align: center; font-style: italic;">Updated as of June 23, 2025</p>
 
+    <p>
+        I am an artist dedicated to creating work that invites reflection, connection, and emotional resonance. Through my paintings, I explore themes of memory, place, and narrative, using color, light, and composition to engage viewers on a deeper level. My art has found its way into private collections across the United States, and I am continually inspired by the opportunity to share my vision with new audiences.
+    </p>
+    <p>
+        I welcome inquiries and proposals from curators, galleries, and arts organizations for solo or group exhibitions. I am open to collaborations that provide thoughtful, meaningful contexts for presenting my work. Please feel free to reach out—I look forward to the possibility of working together.
+    </p>
+
+    <ul class="actions special">
+        <li>
+            <a href="/cv.pdf" class="button primary">
+                Artist CV
+            </a>
+        </li>
+        <li>
+            <a href="/contact" class="button">
+                Contact Artist
+            </a>
+        </li>
+    </ul>
+
+    <p>
+        Below, you will find detailed insights into the sales history of my artwork and an analysis of the collector demographics that support my work.
+        This information highlights where my pieces have found homes, the regions and communities that have shown strong interest, and the evolving patterns of my collector base.
+        Whether you are a curator, gallery, or potential collaborator, this analysis offers valuable context for understanding the reach and resonance of my art.
+    </p>
+
+    <h2>General Statistics at a Glance</h2>
+    <p>
+        From February 2024 to June 2025, I have had 68 sales, totalling $12,370.
+        16 of those were original paintings, and 52 were limited reproductions.
+        The majority of those sales were made within the last six months, as I have been focusing on scaling advertising efforts, after finding methods that finally work.
+    </p>
+
+    <div class="row">
+        <div class="col-6">
+            <canvas id="OnlineOrders"></canvas>
+        </div>
+        <div class="col-6">
+            <canvas id="OnlineOffline"></canvas>
+        </div>
+    </div>
+
+    <br>
+
+    <p>
+        The majority of art sales today are successfully driven through online platforms, leveraging the power of paid social media advertising and carefully designed sales funnels.
+        These digital tools allow for precise targeting of ideal collectors, delivering artwork directly to those most likely to connect with it.
+        By applying data-driven strategies—honed through my background in software development and affiliate marketing—I’m able to track engagement, optimize ad spend, and guide potential buyers seamlessly from discovery to purchase.
+        I utilize a toolset of my own custom hand-built website, integrated with the e-commerce platform Ecwid by Lightspeed, and enhanced by custom tracking pixels for a deeper user behavior analysis and ad targeting optimization.
+        I mainly target objection optimization for those that are willing to willing to sign up for my email newsletter, to them continuously re-target them with new artwork and offers, using automation campaigns through MailChimp.
+        This approach not only amplifies visibility but also creates a scalable, repeatable model for reaching new audiences and building lasting relationships with collectors.
+    </p>
+
+    <p>
+        The most pivotal aspect of my sales strategy is to focus selling myself, as the artist.
+        Displaying artwork for sale is a secondary content approach.
+    </p>
+
+    <h3>Original Paintings</h3>
+    <p>
+        Original painting sales totaled $7,630. My highest price point original was $1,980, with an average sale price point of $476.
+    </p>
+
+    <div class="row">
+        <div class="col-12">
+            <canvas id="Scatter"></canvas>
+        </div>
+    </div>
+
+    <br>
+
+    <p>
+        I price my original artwork using a square-inch pricing model.
+        Each piece is calculated based on its dimensions, with an added complexity factor that accounts for the level of detail, intricacy, and time investment required for the composition.
+        This approach ensures that pricing reflects both the size of the work and the artistic effort involved, offering fair value while accommodating a range of collectors and project scopes.
+        Planning for popularity growth in the future, as I become more established as an artist, I will slowly raise this complexity factor to increase prices.
+        Monitoring sales volume, to ensure revenue growth, while not pricing myself out of the market.
+    </p>
+
+    <p>
+        The majority of original paintings sales are made in-person or during an exhibit.
+    </p>
+
+    <h3>Reproductions</h3>
+    <p>
+        Reproduction sales totaled $4,740. My highest reproduction sale was $300, with an average sale of $91.
+    </p>
+
+    <p>
+        The majority of reproduction sales are made online, through my website.
+    </p>
+
+
+    <h2>Collector Demographic Breakdown</h2>
+    <p>
+        Through ongoing sales and collector engagement, clear patterns have emerged in the audiences drawn to my work.
+        My original paintings primarily appeal to retired or upper-aged men within the middle to upper class, who are often seeking meaningful, lasting additions to their personal collections.
+        In contrast, my limited edition reproductions tend to resonate most with middle-aged women, spanning a broad range of backgrounds without a specific leaning toward any particular wealth class.
+        This diversity reflects the wide emotional and aesthetic reach of my artwork across different communities.
+    </p>
     <div class="row">
         <div class="col-6">
             <canvas id="Genders"></canvas>
@@ -20,6 +120,10 @@ description: Sales Stats and Demographic Information
     <br>
 
     <h2>Geographical Sales per City</h2>
+    <p>
+        The majority of my art sales are concentrated on the East Coast of the United States, with a smaller but meaningful presence on the West Coast. This geographic pattern is likely influenced by the strong Americana themes woven throughout my work—imagery that resonates deeply with collectors drawn to nostalgic and regional narratives. Growing up in Appalachia, Ohio, surrounded by Midwestern traditions and landscapes, has shaped my artistic voice. These roots continue to inspire pieces that reflect the spirit, history, and character of rural and small-town America, connecting especially with audiences who appreciate that heritage.
+    </p>
+
     <gmp-map center="40,-95" zoom="3" map-id="DEMO_MAP_ID" style="height: 600px; width: 100%;">
       <gmp-advanced-marker position="40.798946, -81.378448" title="Canton, OH"></gmp-advanced-marker> <!-- 11 -->
       <gmp-advanced-marker position="40.787819, -81.519585" title="Massillon, OH"></gmp-advanced-marker> <!-- 6 -->
@@ -49,6 +153,7 @@ description: Sales Stats and Demographic Information
       <gmp-advanced-marker position="29.6502732, -82.3239424" title="Gainesville, FL"></gmp-advanced-marker> <!-- 1 -->
       <gmp-advanced-marker position="41.886872, -88.305282" title="Geneva, IL"></gmp-advanced-marker> <!-- 1 -->
       <gmp-advanced-marker position="42.251665, -84.2133758" title="Grass Lake, MI"></gmp-advanced-marker> <!-- 1 -->
+      <gmp-advanced-marker position="37.662571, -77.485130" title="Glen Allen, VA"></gmp-advanced-marker> <!-- 1 -->
       <gmp-advanced-marker position="34.053345, -118.242349" title=Los Angeles, CA"></gmp-advanced-marker> <!-- 1 -->
       <gmp-advanced-marker position="42.941584, -83.288306" title="Metamora, MI"></gmp-advanced-marker> <!-- 1 -->
       <gmp-advanced-marker position="40.876524, -81.402359" title="North Canton, OH"></gmp-advanced-marker> <!-- 1 -->
@@ -65,10 +170,61 @@ description: Sales Stats and Demographic Information
 
 
     <script
-      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBMYd2M5zFZoqBjuzmuvrIAICDVqzIFsc8&loading=async&libraries=marker&v=beta&solution_channel=GMP_CCS_complexmarkers_v3"
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDg6e4C7IJ_BI0H08An-ediTsabnwZ6bqQ&loading=async&libraries=marker&v=beta&solution_channel=GMP_CCS_complexmarkers_v3"
       defer
     ></script>
     <script>
+        const orders_ctx = document.getElementById('OnlineOrders');
+        const orders_labels = ['Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec', 'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun'];
+        const orders_data = {
+            labels: orders_labels,
+            datasets: [
+                {
+                    label: 'Online Orders',
+                    data: [0, 1, 0, 0, 0, 1, 1, 3, 1, 3, 1, 1, 2, 5, 7, 13],
+                    borderColor: 'rgb(75, 192, 192)',
+                    tension: 0.1
+                }
+            ]
+        };
+        const orders_config = {
+            type: 'line',
+            data: orders_data
+        };
+        new Chart(orders_ctx, orders_config);
+
+        const online_ctx = document.getElementById('OnlineOffline');
+        const online_data = {
+            labels: [
+                'Online',
+                'Offline'
+            ],
+            datasets: [
+                {
+                    label: 'Number of Sales',
+                    data: [42, 26],
+                    backgroundColor: [
+                        'rgb(0, 200, 83)', // Green
+                        'rgb(54, 162, 235)', // Blue
+                    ],
+                    hoverOffset: 4
+                }
+            ]
+        };
+        const online_config = {
+            type: 'pie',
+            data: online_data,
+            options: {
+                plugins: {
+                    title: {
+                        display: true,
+                        text: 'Online vs Offline Sales',
+                    }
+                }
+            }
+        };
+        new Chart(online_ctx, online_config);
+
         const genders_ctx = document.getElementById('Genders');
         const genders_data = {
             labels: [
@@ -78,7 +234,7 @@ description: Sales Stats and Demographic Information
             datasets: [
                 {
                     label: 'Reproduction Sales',
-                    data: [14, 26],
+                    data: [17, 33],
                     backgroundColor: [
                         'rgb(54, 162, 235)', // Blue
                         'rgb(255, 99, 132)' // Pink
@@ -88,7 +244,7 @@ description: Sales Stats and Demographic Information
                 },
                 {
                     label: 'Original Sales',
-                    data: [10, 2],
+                    data: [14, 2],
                     backgroundColor: [
                         'rgb(33, 64, 154)', // Dark Blue
                         'rgb(200, 50, 120)' // Dark Pink
@@ -117,17 +273,19 @@ description: Sales Stats and Demographic Information
                 '18-29',
                 '30-49',
                 '50-64',
-                '65+'
+                '65+',
+                'Unknown'
             ],
             datasets: [
                 {
                     label: 'Original Sales',
-                    data: [1, 1, 4, 6],
+                    data: [1, 1, 4, 9, 2],
                     backgroundColor: [
                         'rgb(0, 200, 83)', // Green
                         'rgb(54, 162, 235)', // Blue
                         'rgb(255, 159, 64)', // Orange
-                        'rgb(192, 192, 192)' // Silver
+                        'rgb(192, 192, 192)', // Silver
+                        'rgb(255, 255, 255)' // White
                     ],
                     hoverOffset: 4
                 }
@@ -140,10 +298,119 @@ description: Sales Stats and Demographic Information
                 plugins: {
                     title: {
                         display: true,
-                        text: 'Sales By Age',
+                        text: 'Original Sales By Age',
                     }
                 }
             }
         };
         new Chart(ages_ctx, ages_config);
+
+        const scatter_ctx = document.getElementById('Scatter');
+        const scatter_data = {
+            datasets: [{
+                label: 'Price',
+                data: [
+                    { // Cherry Popping
+                        x: 154,
+                        y: 310
+                    },
+                    { // Creepy Clown
+                        x: 16,
+                        y: 60
+                    },
+                    { // Empty Models
+                        x: 80,
+                        y: 80
+                    },
+                    { // Erie Rock
+                        x: 140,
+                        y: 400
+                    },
+                    { // Erie Rock II
+                        x: 192,
+                        y: 580
+                    },
+                    { // Escape
+                        x: 140,
+                        y: 420
+                    },
+                    { // Fry's Tree
+                        x: 108,
+                        y: 270
+                    },
+                    { // Gehen Heim
+                        x: 140,
+                        y: 400
+                    },
+                    { // Massillon 52
+                        x: 192,
+                        y: 390
+                    },
+                    { // Northern Cardinal
+                        x: 108,
+                        y: 300
+                    },
+                    { // Okay Now
+                        x: 192,
+                        y: 600
+                    },
+                    { // One Last Walk With Izzy
+                        x: 280,
+                        y: 840
+                    },
+                    { // Silent Reflections
+                        x: 192,
+                        y: 200
+                    },
+                    { // The Artist's Assistant
+                        x: 140,
+                        y: 500
+                    },
+                    { // Young Farmhouse
+                        x: 108,
+                        y: 300
+                    },
+                    { // Commission
+                        x: 660,
+                        y: 1980
+                    },
+                    { // Commission
+                        x: 420,
+                        y: 1200
+                    },
+                ],
+                backgroundColor: 'rgb(255, 99, 132)'
+            }]
+        };
+        const scatter_config = {
+            type: 'scatter',
+            data: scatter_data,
+            options: {
+                scales: {
+                    x: {
+                        type: 'linear',
+                        position: 'bottom',
+                        title: {
+                            display: true,
+                            text: 'Square Inches'
+                        }
+                    },
+                    y: {
+                        type: 'linear',
+                        position: 'left',
+                        title: {
+                            display: true,
+                            text: 'Sale Price'
+                        }
+                    }
+                },
+                plugins: {
+                    title: {
+                        display: true,
+                        text: 'Original Sale Prices by Square Inches',
+                    }
+                }
+            }
+        };
+        new Chart(scatter_ctx, scatter_config);
     </script>
