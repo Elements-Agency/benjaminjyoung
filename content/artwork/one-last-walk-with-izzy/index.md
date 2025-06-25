@@ -47,7 +47,7 @@ products:
       name: 18x24in Reproduction
       price: $200
       limited: 30
-      left: 28
+      left: 27
       new: true
     - id: 758189666
       name: 30x40in Reproduction
@@ -101,6 +101,7 @@ reproductions:
   - 18x24in:
     - 1: Ben Young (East Sparta, OH)
     - 2: Susan Lehman (Jupiter, FL)
+    - 3: William Schoepski (Rome, GA)
   - 30x40in:
     - 1: Ben Young (East Sparta, OH)
 
