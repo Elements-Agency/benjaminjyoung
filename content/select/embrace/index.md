@@ -4,9 +4,9 @@ title: Embrace - Free Print
 heading: Embrace - Free Print
 
 products:
-    - id: 760502400
-      name: 4x5in Print
-      price: FREE (with shipping and handling)
+    - id: 762405408
+      name: 4x5.5in Print
+      price: FREE (pay shipping and handling)
       coupon: Using discount code FREEPRINT
     - id: 716135890
       name: 9x12in Print

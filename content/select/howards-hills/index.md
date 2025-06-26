@@ -4,9 +4,9 @@ title: Howard's Hills - Free Print
 heading: Howard's Hills - Free Print
 
 products:
-    - id: 760557914
-      name: 4x5in Print
-      price: FREE (with shipping and handling)
+    - id: 762403572
+      name: 4x5.5in Print
+      price: FREE (pay shipping and handling)
       coupon: Using discount code FREEPRINT
     - id: 694564503
       name: 9x12in Print
