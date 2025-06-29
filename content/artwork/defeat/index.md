@@ -39,15 +39,18 @@ inventory:
 planning:
   - whiterabbit: 2025-06-07 - 2025-07-12
 
-status: sale
+status: sold
 products:
-    - id: 734461977
-      name: Original Painting
-      price: $580
     - id: 726369026
       name: Limited Reproduction
       price: $50
       left: 59
+    - id: 734461977
+      name: Original Painting
+      price: $580
+      sold: true
+
+buyer: Gary Stewart (Columbus, OH)
 
 reproductions:
   - 1: Ben Young (East Sparta, OH)
