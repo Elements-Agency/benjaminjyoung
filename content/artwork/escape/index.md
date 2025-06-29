@@ -12,10 +12,8 @@ images: ['painting.jpg']
 videos: [https://www.instagram.com/p/C3pK2JvOevm/, https://youtube.com/shorts/TSyQTgGJjD0]
 
 subfeatured: true
-order: 14
 ratio: landscape
-power: 107
-favorite: false
+power: 109
 
 supplies:
   - medium: Marie's Watercolor Paint

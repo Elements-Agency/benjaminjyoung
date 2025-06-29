@@ -11,11 +11,7 @@ aliases: [/irish-coast, /artwork/ireland-coast]
 images: ['painting.jpg']
 videos: []
 
-subfeatured: true
-order: 99
 ratio: landscape
-power: 54
-favorite: false
 
 supplies:
   - medium: Faber-Castell Oil Pastels

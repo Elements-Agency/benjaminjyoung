@@ -10,10 +10,8 @@ images: ['painting.jpg']
 videos: []
 
 subfeatured: true
-order: 21
 ratio: portrait
-power: 202
-favorite: false
+power: 211
 
 supplies:
   - medium: Artist Loft Watercolor Paint

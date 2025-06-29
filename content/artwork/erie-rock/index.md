@@ -11,11 +11,7 @@ aliases: [/erie-rock]
 images: ['painting.jpg']
 videos: [https://www.instagram.com/p/C3rgdrrA3oI/, https://www.youtube.com/shorts/XCMouswfCm4]
 
-subfeatured: true
-order: 99
 ratio: portrait
-power: 99
-favorite: false
 disliked: true
 
 supplies:

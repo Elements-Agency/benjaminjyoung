@@ -9,11 +9,9 @@ aliases: [/standoff, /artwork/stand-off, /arwtwork/standoff]
 images: ['painting.jpg']
 videos: []
 
-featured: true
-order: 21
+subfeatured: true
 ratio: landscape
-power: 174
-favorite: true
+power: 200
 
 supplies:
   - medium: M Graham Watercolor Paints

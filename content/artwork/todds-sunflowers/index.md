@@ -10,8 +10,7 @@ videos: []
 
 subfeatured: true
 ratio: portrait
-power: 31
-favorite: false
+power: 40
 
 supplies:
   - medium: M Graham Watercolor

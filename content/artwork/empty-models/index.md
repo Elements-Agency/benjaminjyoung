@@ -11,10 +11,7 @@ aliases: [/empty-models]
 images: ['painting.jpg']
 videos: [https://www.instagram.com/p/C3XZXDsuuum/]
 
-subfeatured: true
 ratio: portrait
-power: 28
-favorite: false
 
 supplies:
   - medium: Oil Pastels

@@ -12,10 +12,8 @@ images: ['painting.jpg']
 videos: [https://www.instagram.com/p/C3fAU-6ON7E/, https://youtube.com/shorts/JsbqhoQqTnA]
 
 subfeatured: true
-order: 22
 ratio: portrait
-power: 253
-favorite: false
+power: 249
 
 supplies:
   - medium: Kaloir Watercolor Pencils

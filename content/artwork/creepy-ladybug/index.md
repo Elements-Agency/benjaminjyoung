@@ -10,10 +10,8 @@ images: ['painting.jpg']
 videos: []
 
 subfeatured: true
-order: 18
 ratio: portrait
-power: 10
-favorite: false
+power: 30
 
 supplies:
   - medium: M Graham Watercolor Paints

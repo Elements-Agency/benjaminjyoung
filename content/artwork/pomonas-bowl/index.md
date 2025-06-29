@@ -12,10 +12,8 @@ images: ['painting.jpg']
 videos: []
 
 subfeatured: true
-order: 99
 ratio: landscape
-power: 1338
-favorite: false
+power: 1340
 
 supplies:
   - medium: Winsor and Newton Winton Oil

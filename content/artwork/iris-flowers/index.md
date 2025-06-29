@@ -9,10 +9,7 @@ aliases: [/iris-flowers]
 images: ['painting.jpg']
 videos: []
 
-subfeatured: true
 ratio: portrait
-power: 34
-favorite: false
 
 supplies:
   - medium: Faber-Castell Oil Pastels

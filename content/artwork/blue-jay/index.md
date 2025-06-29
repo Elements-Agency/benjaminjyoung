@@ -12,10 +12,8 @@ images: ['painting.jpg']
 videos: []
 
 subfeatured: true
-order: 23
 ratio: landscape
-power: 69
-favorite: false
+power: 68
 
 supplies:
   - medium: Kaloir Watercolor Pencils

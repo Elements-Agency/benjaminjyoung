@@ -9,7 +9,6 @@ images: ['painting.jpg']
 videos: []
 
 ratio: landscape
-favorite: false
 disliked: true
 
 supplies:

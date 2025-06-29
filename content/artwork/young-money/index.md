@@ -12,8 +12,8 @@ videos: []
 featured: true
 order: 10
 ratio: landscape
-power: 215
-favorite: false
+power: 366
+favorite: true
 
 supplies:
   - medium: M. Graham Watercolor Paint

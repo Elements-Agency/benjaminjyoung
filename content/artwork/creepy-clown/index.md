@@ -10,10 +10,7 @@ aliases: [/creepy-clown, /artwork/scary-clown, /artwork/jenis-clown]
 images: ['painting.jpg']
 videos: []
 
-subfeatured: true
 ratio: square
-power: 37
-favorite: false
 
 supplies:
   - medium: Winsor and Newton Winton Oil

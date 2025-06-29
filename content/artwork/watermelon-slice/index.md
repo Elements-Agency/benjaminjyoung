@@ -12,8 +12,6 @@ images: ['painting.jpg']
 videos: []
 
 ratio: square
-power: 42
-favorite: false
 disliked: true
 
 supplies:

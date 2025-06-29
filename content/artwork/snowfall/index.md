@@ -10,10 +10,10 @@ images: ['painting.jpg']
 videos: []
 
 featured: true
-order: 6
+order: 8
 ratio: landscape
-power: 329
-favorite: false
+power: 444
+favorite: true
 
 supplies:
   - medium: M. Graham Watercolor Paint

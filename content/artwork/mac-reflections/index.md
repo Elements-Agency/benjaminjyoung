@@ -11,10 +11,8 @@ aliases: [/mac-reflections]
 images: ['painting.jpg']
 videos: [https://www.instagram.com/p/C3mpPeQgORk/, https://youtube.com/shorts/JNBpBdWcFR0]
 
-subfeatured: true
 ratio: portrait
 power: 29
-favorite: false
 
 supplies:
   - medium: Faber-Castell Oil Pastels

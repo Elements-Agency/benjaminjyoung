@@ -10,10 +10,8 @@ images: ['painting.jpg']
 videos: []
 
 subfeatured: true
-order: 13
 ratio: landscape
-power: 76
-favorite: false
+power: 93
 
 supplies:
   - medium: M. Graha Watercolor Paint

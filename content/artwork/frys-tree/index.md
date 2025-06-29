@@ -11,12 +11,9 @@ aliases: [/frys-tree]
 images: ['painting.jpg']
 videos: [https://www.instagram.com/p/C3hi4DjAYqg/, https://youtu.be/Pcuv_QkT7Qo]
 
-featured: true
-order: 19
+subfeatured: true
+power: 157
 ratio: portrait
-power: 238
-favorite: true
-disliked: true
 
 supplies:
   - medium: Crayola Watercolor Paint

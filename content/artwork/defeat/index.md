@@ -12,8 +12,8 @@ videos: []
 featured: true
 order: 11
 ratio: portrait
-power: 214
-favorite: false
+power: 352
+favorite: true
 
 supplies:
   - medium: M Graham Watercolor Paints

@@ -12,10 +12,8 @@ images: ['painting.jpg']
 videos: []
 
 subfeatured: true
-order: 99
 ratio: square
-power: 52
-favorite: false
+power: 55
 
 supplies:
   - medium: Winsor & Newton Winton Oil

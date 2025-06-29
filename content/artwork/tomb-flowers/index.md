@@ -11,10 +11,7 @@ aliases: [/tomb-flowers, /artwork/ajs-grave-flowers]
 images: ['painting.jpg']
 videos: []
 
-subfeatured: true
 ratio: portrait
-power: 38
-favorite: false
 
 supplies:
   - medium: Kaloir Watercolor Pencils

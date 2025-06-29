@@ -9,10 +9,7 @@ aliases: [/christmas-stocking]
 images: ['painting.jpg']
 videos: []
 
-subfeatured: true
 ratio: portrait
-power: 19
-favorite: false
 
 supplies:
   - medium: M Graham Watercolor Paint

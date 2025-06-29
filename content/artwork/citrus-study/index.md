@@ -11,10 +11,7 @@ aliases: [/citrus-study, /artwork/lemon-study]
 images: ['painting.jpg']
 videos: [https://www.instagram.com/p/C3aFj71ssZR/, https://youtu.be/CF7wcElqy8Y]
 
-subfeatured: true
 ratio: landscape
-power: 20
-favorite: false
 
 supplies:
   - medium: Artist Loft Watercolor Paint

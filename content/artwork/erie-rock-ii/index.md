@@ -9,11 +9,9 @@ aliases: [/erie-rock-ii]
 images: ['painting.jpg']
 videos: []
 
-featured: true
-order: 15
+subfeatured: true
 ratio: portrait
-power: 147
-favorite: true
+power: 156
 
 supplies:
   - medium: Artist Loft Paint

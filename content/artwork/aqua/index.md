@@ -12,7 +12,6 @@ images: ['painting.jpg']
 videos: []
 
 ratio: portrait
-favorite: false
 disliked: true
 
 supplies:

@@ -8,10 +8,7 @@ aliases: [/artwork/tiny-fooball, /tiny-football]
 images: ['painting.jpg']
 videos: []
 
-subfeatured: true
 ratio: square
-power: 28
-favorite: false
 
 supplies:
   - medium: Winsor and Newton Winton Oil

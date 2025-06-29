@@ -13,7 +13,6 @@ images: ['painting.jpg']
 videos: [https://www.instagram.com/p/C4fX_ZiuC8p/, https://youtube.com/shorts/35AX0Eu-C7w]
 
 ratio: landscape
-favorite: false
 disliked: true
 
 supplies:

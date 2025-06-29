@@ -11,10 +11,7 @@ aliases: [/ms-cezanne, /artwork/nip-slip]
 images: ['painting.jpg']
 videos: ['https://www.instagram.com/p/C3lKtCjvEd5/']
 
-subfeatured: true
 ratio: portrait
-power: 18
-favorite: false
 
 supplies:
   - medium: Faber-Castell Oil Pastels

@@ -10,10 +10,8 @@ images: ['painting.jpg']
 videos: []
 
 subfeatured: true
-order: 22
 ratio: landscape
-power: 229
-favorite: false
+power: 250
 
 supplies:
   - medium: Artist Loft Watercolor Paint
