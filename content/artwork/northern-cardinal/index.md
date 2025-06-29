@@ -36,10 +36,10 @@ inventory:
 
 status: sold
 products:
-    - id: 666
-      name: Limited Reproduction
-      price: $20
-    - id: 645991759
+    - id: 763020609
+      name: Open Reproduction
+      price: $30
+    - id: 763016649
       name: Original Drawing
       price: $300
       sold: true

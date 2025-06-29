@@ -44,6 +44,9 @@ products:
     - id: 672644323
       name: Original Painting
       price: $240
+    - id: 763016637
+      name: Open Reproduction
+      price: $30
 
 reproductions:
   - 1: Ben Young (East Sparta, OH)

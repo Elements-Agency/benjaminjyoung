@@ -29,6 +29,11 @@ locations: [sold]
 tags: [bug, ladybug, insect, creepy]
 
 status: sold
+products:
+    - id: 763020612
+      name: Open Reproduction
+      price: $30
+
 inventory:
   - kolp: 2025-03-02 - current
 

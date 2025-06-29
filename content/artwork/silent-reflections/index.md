@@ -41,6 +41,9 @@ buyer: Mark Danis (Arlington, VA)
 
 status: sold
 products:
+    - id: 763020631
+      name: Open Reproduction
+      price: $30
     - id: 670473779
       name: Original Painting
       price: $200
