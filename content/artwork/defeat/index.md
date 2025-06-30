@@ -27,11 +27,12 @@ mediums: [watercolor]
 materials: [cotton paper]
 colors: [white, blue, tan]
 collections: [timeline, figures]
-locations: [kolp]
+locations: [sold]
 tags: [human, man, ben, figure, tennis, racket, summer, emotion, agony, failure, warm, outdoors, day]
 
 inventory:
-  - kolp: idk - current
+  - buyer: 2025-06-30
+  - kolp: idk - 2025-06-30
   - thehub: 2025-03-04 - 2025-03-11
   - kolp: idk - 2025-03-04
   - patina: 2025-02-02 - idk
