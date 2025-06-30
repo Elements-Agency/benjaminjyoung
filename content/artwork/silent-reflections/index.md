@@ -31,7 +31,8 @@ locations: [sold]
 tags: [lake, water, boat, human, figure, dark, mist, ripples, forrest, hills, outdoors, spring, dusk, cool]
 
 inventory:
-  - kolp: idk - current
+  - buyer: 2025-06-20
+  - kolp: idk - 2025-06-20
   - patina: 2024-09-29 - idk
   - home: 2024-07-27 - 2024-09-29
   - patina: 2024-06-07 - 2024-07-27
