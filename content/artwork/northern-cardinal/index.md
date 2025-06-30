@@ -55,6 +55,8 @@ reproductions:
 
 <!--more-->
 
+{{< cta artwork="Northern Cardinal" >}}
+
 This drawing is apart of the [Primary Winter Birds Collection](/collections/primary-winter-birds/)
 
 ### Inspiration ###

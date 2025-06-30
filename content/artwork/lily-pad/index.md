@@ -58,6 +58,8 @@ This exquisite watercolor painting captures the tranquil beauty of a pond scene,
 
 <!--more-->
 
+{{< cta artwork="Lily Pad" >}}
+
 ### Inspiration ###
 
 {{< img src="reference.webp" width="200px" height="197px" class="floatright" gallery="progress" alt="Lily Pad Inspiration Photo" title="Me sitting in front of my pond, painting" link="reference.jpg" >}}

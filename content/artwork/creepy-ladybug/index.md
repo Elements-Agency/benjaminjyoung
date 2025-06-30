@@ -44,4 +44,6 @@ A 1 hour watercolor painting of a ladybug. Not for sale as I painted it for my s
 
 <!--more-->
 
+{{< cta artwork="Creepy Ladybug" >}}
+
 This watercolor painting depicts a close-up, highly detailed ladybug with an almost surreal quality. The red and black-spotted shell is vibrant and glossy, contrasted by the insect’s dark, almost alien-like legs and face. The eyes are exaggerated in a golden hue, making them a striking focal point. The background is a muted earthy tone, allowing the ladybug to stand out dramatically. The shadowing beneath the insect adds depth, making it appear as if it is crawling forward.

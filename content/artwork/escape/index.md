@@ -58,6 +58,8 @@ reproductions:
 
 <!--more-->
 
+{{< cta artwork="Escape" >}}
+
 This is the first iteration in the [Winter Escape collection](/collections/winter-escape/).
 
 ### Inspiration ###
