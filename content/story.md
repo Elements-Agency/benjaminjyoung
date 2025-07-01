@@ -43,7 +43,7 @@ This era focuses on the short amount of time of becoming a young parent, becomin
 
 No current works in this era that are planned have been painted. Future titles of this era will include:
   * **Unexpected**
-  * 🖌️ **Unfaithful** - Painting 2 of 3 of [The Dark Trio](/collections/the-dark-trio),
+  * **Unfaithful** - Painting 2 of 3 of [The Dark Trio](/collections/the-dark-trio),
   * **Electrifying**
 
 ## The Hart's Desire Era ##
@@ -71,18 +71,21 @@ After the night of my life's [largest loss](/tags/number-two), this era begins. 
 
 No current works in this era have been completed yet. Future titles of this era will include:
   * **Straight to Voicemail** - Sometimes it's comforting hearing their voice again.
-  * **Violence** - A friend, grieving the loss of his sister and having a drug induced schzoprantic episode, stabs me in my right shoulder.
+  * **Violence** - A friend, grieving the loss of his sister and in a drug induced episode, stabs me in my right shoulder.
   * **Decembers** - I hate Decembers.
   * **Office Christmas Party** - Me holding a keg as my friend does a keg stand in jean cut-off short-shorts.
   * **Shepard** - Izzy returns, herding sheep.
   * **Enablement** - Friends supporting bad habits.
   * **Lapels and Pens** - My bespoke suits and gold-nibbed Mont Blanc.
+  * 🖌️ **Predator** - Something evil lurks in the shadows, stalking it's prey.
   * **Summer Shandy** - A [strange guest](/tags/number-five) shows up at my door with a six pack of Summer Shandy Ale.
 
 ## Second Hartbeat Era ##
 _2018 - 2020_
 
-This era follows the events that took place that lead me to seek healing my traumas. It follows my journey to finally start to break free of traumatic emotional suppression, and coming back to who I was once again. The era expands on topics of vulnerability, love, betrayal, deceit, and overwhelming confrontation to previously suppressed emotions. 
+This era follows the events that took place that lead me to seek healing my traumas. It follows my journey to finally start to break free of traumatic emotional suppression, and coming back to who I was once again. The era expands on topics of vulnerability, love, betrayal, deceit, and overwhelming confrontation to previously suppressed emotions.
+
+The paintings are intentionally mute of color and dark in this era, and saturation and lightness starts to be introduced as the series progress, as the willingness to live life comes back to me.
 
 {{< row-start >}}
     {{< preview col="2" painting="/artwork/hallelujah/" >}}
@@ -96,10 +99,10 @@ More context in this era will be expanded on when The Hart's Desire era painting
   * **People Watching** - A past-time. Sometimes with [good company](/tags/number-five).
   * **You Took Care of Me** - Chariot with leather seats awaits.
   * **Red Purse** - My 29th birthday dinner with friends.
-  * **Last Call** _(December 21st, 2019)_ - A final round of drinks with friends.
+  * **Last Call** _(December 21st, 2019)_ - A final round of drinks with friends, before someone unknowingly halts my plans.
   * **The Dam Cracks** _(December 24th, 2019)_ - A surrealism explosion of emotions.
   * **In To The Woods** _([February 26th, 2020](/collections/feb-26))_ - A man walking in to the woods at sunset.
-  * **Boujee** - A man in a suit confronts a pool boy.
+  * **Busy** - A [woman](/tags/number-seven) sits at a table, passed out from drugs.
   * **The Trek Begins** - From 262lbs, down to 158lbs...
 
 ## Escaping Era ##
@@ -107,15 +110,13 @@ _2020 - 2023_
 
 This era follows me trying to escape the painful memories of my home and seek out peace. Running into difficulties that would lead me back to art while being stuck in a near frozen and frozen hellhole. The era expands over a lot of topics of wanderlust, regret, and shifting through the consequences of loss.
 
+The paintings in this era are meant to be vibrant and colorful, as I am finally alive again, after breaking free of traumatic emotional suppression.
+
 {{< row-start >}}
     {{< preview col="2" painting="/artwork/one-last-walk-with-izzy/" >}}
     {{< preview col="2" painting="/artwork/young-money/" >}}
     {{< preview col="2" painting="/artwork/fruitcake-delivery/" >}}
-    {{< preview col="2" painting="/artwork/standoff/" >}}
-    {{< preview col="2" painting="/artwork/sailing-away-schoon/" >}}
-    {{< preview col="2" painting="/artwork/escape/" >}}
-    {{< preview col="2" painting="/artwork/gehen-heim/" >}}
-    {{< preview col="2" painting="/artwork/just-out-of-reach/" >}}
+    {{< preview col="2" painting="/artwork/circus-act/" >}}
     {{< preview col="2" painting="/artwork/defeat/" >}}
 {{< row-end >}}
 
@@ -123,24 +124,22 @@ More context in this era will be expanded on when The Hart's Desire era painting
 
   * **Audrey** - Thinking back what could have been my daughter.
   * **Veganism** - I'm not a fan of delusional behavior.
-  * **Busy** - A [woman](/tags/number-seven) sits at a table, passed out from drugs.
+  * **Boujee** - A man in a suit confronts a pool boy.
   * **Little Reminders** - Sometimes something as simple as forgotten hair pin can be a reminder.
   * **Little Pink Bow** - A little gift box or a smoking gun?
   * **Fear or Spite** - A [woman](/tags/number-five) screams in fear, pointing to a clown at the circus.
-  * 🖌️ **Circus Act** - A clown stands trial for charges of being a menace to society.
-  * 🖌️ **Clown in a Two Piece** - A prosector in clown makeup gives a closing statement.
+  * **Clown in a Two Piece** - A prosector in clown makeup gives a closing statement.
   * **Unfunny Joke** - A judge wearing a red clown nose, makes a bias and spiteful decision.
   * **Imprisoned** - A depressed clown sits in jail.
-  * 🖌️ **Marcus** - Run, my son.
 
 ## Recovery Era ##
 _2024 - present_
 
 This era follows dealing with the fallout of the previous events and is when I would begin painting as a necessity. Seeking only a life of being content and peace. The era expands on a lot of topics of peacefulness, being content, and appreciating the little moments.
 
+The colorfulness is a little more dull, but still present in this era, to reflect the rolling theme.
+
 {{< row-start >}}
-    {{< preview col="2" painting="/artwork/erie-rock-ii/" >}}
-    {{< preview col="2" painting="/artwork/frys-tree/" >}}
     {{< preview col="2" painting="/artwork/the-artists-assistant/" >}}
     {{< preview col="2" painting="/artwork/okay-now/" >}}
     {{< preview col="2" painting="/artwork/avalanche-lilies/" >}}
@@ -149,6 +148,7 @@ This era follows dealing with the fallout of the previous events and is when I w
 Future titles of this era will include:
   * **Rehabilitated** - A clown sits on the sidewalk, unable to return to the circus.
   * **Honeydew Trash** - A dog eats a cantaloupe from the garbage in an ally.
+  * 🖌️ **Marcus** - Run, my son.
   * **Dove** - A man drags on a cigarette, staring at a [pigeon](/tags/number-thirty-seven) under a street light.
   * 🖌️ **Young Man In A Room** - Self Portrait
   * **Witnessing Escape** - An aging man sits at the window, staring out into the snowy landscape.
@@ -158,3 +158,4 @@ Future titles of this era will include:
   * 🖌️ **Silver Ballet** - An old woman dancing ballet.
   * **Leather Shoes** - Sometimes you step in dog shit with your nice pair of dress shoes, and you just have to fling it off.
   * **Antoinette** - A crack at the state of current modern art.
+  * **Plus One** - 🥰
