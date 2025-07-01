@@ -17,7 +17,18 @@ shop: true
     <li>
       <strong>Limited Time Sale:</strong>
       10% off all orders using code <strong>KQD86GYS10N6</strong>.
-      <span id="addcountdownsale">.</span>
+      <span id="addcountdownsale"></span>
+    </li>
+    <li><br></li>
+    <li>
+      <strong>BOGO:</strong>
+      Buy one 9x12 Limited Reproduction and get a 2nd 50% off using code <strong>X81K24LU1Y1T</strong>.
+      <span id="addcountdownbogo"></span>
+    </li>
+    <li>
+      <strong>3 for 2:</strong>
+      Buy two 9x12 Limited Reproductions and get a 3rd FREE using code <strong>HTITBE7HCC4L</strong>.
+      <span id="addcountdown342"></span>
     </li>
 </ul>
 
@@ -47,4 +58,24 @@ shop: true
     });
 
     countdownsale.innerHTML = "Offer ends <u>" + formattedcountdown + "</u>.";
+
+    // get the date of next Sunday
+    var today = new Date();
+    var nextSunday = new Date(today);
+    nextSunday.setDate(today.getDate() + ((7 - today.getDay()) % 7 || 7));
+    var countdownbogo = document.getElementById("addcountdownbogo");
+    var formattedSunday = nextSunday.toLocaleDateString("en-US", {
+      month: 'long',
+      day: '2-digit'
+    });
+    countdownbogo.innerHTML = "Offer ends <u>" + formattedSunday + "</u>.";
+
+    // get the date of the last day of the current month
+    var lastDayOfMonth = new Date(today.getFullYear(), today.getMonth() + 1, 0);
+    var countdown342 = document.getElementById("addcountdown342");
+    var formattedLastDay = lastDayOfMonth.toLocaleDateString("en-US", {
+      month: 'long',
+      day: '2-digit'
+    });
+    countdown342.innerHTML = "Offer ends <u>" + formattedLastDay + "</u>.";
 </script>

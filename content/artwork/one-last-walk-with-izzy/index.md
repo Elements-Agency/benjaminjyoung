@@ -102,6 +102,7 @@ reproductions:
     - 1: Ben Young (East Sparta, OH)
     - 2: Susan Lehman (Jupiter, FL)
     - 3: William Schoepski (Rome, GA)
+    - 4: Reserved
   - 30x40in:
     - 1: Ben Young (East Sparta, OH)
 
