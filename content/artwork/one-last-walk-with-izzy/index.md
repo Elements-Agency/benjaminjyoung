@@ -98,6 +98,8 @@ reproductions:
     - 25: Leah Hartzler (Wooster, OH)
     - 26: Sharon Williams (Fairhaven, MA)
     - 27: Tom Delamator (North Canton, OH)
+    - 28: Reserved
+    - 29: Christi Daigle (Southern Pines, NC)
   - 18x24in:
     - 1: Ben Young (East Sparta, OH)
     - 2: Susan Lehman (Jupiter, FL)
