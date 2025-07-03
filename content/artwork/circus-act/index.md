@@ -33,6 +33,16 @@ tags: [human, figure, clown, ben, court, trial, joke, guilty, menace, grim, loss
 inventory:
   - summit: 2025-07-01 - current
 
+status: sale
+products:
+    - id: 764160303
+      name: Original Painting
+      price: $1,320
+    - id: 764161038
+      name: Limited Reproduction
+      price: $60
+      left: 59
+
 reproductions:
   - 1: Ben Young (East Sparta, OH)
 
