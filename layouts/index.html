@@ -156,21 +156,36 @@
 					</section>
 
 				<!-- Three -->
+				{{ $newsSection := where .Site.RegularPages "Section" "news" }}
+				{{ with index (sort $newsSection "Date" "desc") 0 }}
 					<section class="spotlight style1 orient-left content-align-right image-position-center onscroll-image-fade-in">
 						<div class="content">
 							<h2><a href="/news">Latest News</a></h2>
-							<p>
-                                <a href="/news/2025-06-07/"><em>June 7th, 2025</em></a>
-                                -
-                                The past month has been less painting and more focused on selling my artwork. I was going to hold off on the newsletter after completing one of the paintings I’m working, more likely “Circus Act”, but I felt it was best to not try and rush that piece in order to get this month’s newsletter out sooner.
-							<ul class="actions stacked">
-								<li><a href="/news/2025-06-07/" class="button">Read Article</a></li>
-							</ul>
+								<p>
+									<a href="{{ .RelPermalink }}"><em>{{ .Date | time.Format "January 2, 2006" }}</em></a>
+									-
+									{{ .Summary | plainify }}
+								</p>
+								<ul class="actions stacked">
+									<li><a href="{{ .RelPermalink }}" class="button">Read Article</a></li>
+								</ul>
 						</div>
-						<div class="image">
-							<img src="images/spotlight01.webp" loading="lazy" title="Ben has Culture" alt="Ben has Culture" />
-						</div>
+
+						{{ if .Resources.GetMatch .Params.preview_image }}
+							{{ $thumbnail := .Resources.GetMatch .Params.preview_image }}
+							{{ $thumbnail := $thumbnail.Fill "500x500 Center" }}
+							{{ $thumbnail := $thumbnail.Resize "500x webp" }}
+
+							{{ with $thumbnail }}
+							<div class="image">
+								<a href="{{ $.RelPermalink }}">
+								<img src="{{ .RelPermalink }}" alt="{{ $.Params.alt }}" title='{{ $.Title }} ({{ $.Date| time.Format "2006" }}) by Ben Young' />
+								</a>
+							</div>
+							{{ end }}
+						{{ end }}
 					</section>
+    			{{ end }}
 
 				<!-- Four -->
 					<section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in">

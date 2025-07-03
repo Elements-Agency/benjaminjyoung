@@ -8,9 +8,11 @@ images:
     - masslib.jpg
 ---
 
-Happy July! I’ve just finished a brand new painting I can’t wait to share with you — and to celebrate the season, I’m offering special sales all month long. Whether you’re looking to add something new to your collection or grab a gift for someone special, now’s the perfect time to take a look. Scroll down to see what’s new and what’s on sale — you might just find your next favorite piece.
+Happy July! I’ve just finished a brand new painting I can’t wait to share with you — and to celebrate the season, I’m offering special sales all month long. Whether you’re looking to add something new to your collection or grab a gift for someone special, now’s the perfect time to take a look.
 
 <!--more-->
+
+Scroll down to see what’s new and what’s on sale — you might just find your next favorite piece.
 
 {{< row-start >}}
     {{< preview col="6" painting="/artwork/circus-act/" >}}
