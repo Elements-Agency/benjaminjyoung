@@ -26,7 +26,7 @@ timeout = '600'
 [params]
   commentoEnable = false
   location = "Studio #220. 318 Cleveland Ave NW. Canton, Ohio 44702. USA."
-  sale = "Ends May 16th, 10% off with code WARMWEATHER. Or receive 20% OFF when you"
+  sale = "30% off all orders with JULY4TH2025 discount code at checkout. Ends July 5th."
   favicon = '/favicon.ico'
   [params.social]
     facebook		= "artist.benjamin.young"
