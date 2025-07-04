@@ -39,7 +39,7 @@ status: sale
 products:
     - id: 670400475
       name: Original Painting
-      price: $210
+      price: $380
     - id: 763016635
       name: Open Reproduction
       price: $30

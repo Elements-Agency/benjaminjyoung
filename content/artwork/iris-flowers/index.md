@@ -33,7 +33,7 @@ status: sale
 products:
     - id: 745421974
       name: Original Drawing
-      price: $160
+      price: $200
 
 tag: My first attempt to mix both watercolor and oil pastels.
 ---

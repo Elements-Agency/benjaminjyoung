@@ -39,7 +39,7 @@ status: sale
 products:
     - id: 680225708
       name: Original Drawing
-      price: $220
+      price: $300
 ---
 
 **Irish Coast** is a oil pastel artwork of a beautiful landscape somewhere off an Ireland coastline. Featuring a wave crashing against two standing rocks, finally kissing a pebbled beach. The sky is mostly clear except a few faint clouds, bright and cool feeling. As you can almost feel the nice cool wind blown against your face, to balance out the warmth of the sun as it hits you and the rolling green cliffs standing against the sea.
