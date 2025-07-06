@@ -41,12 +41,13 @@ products:
     - id: 764161038
       name: Limited Reproduction
       price: $60
-      left: 59
-
-reproductions:
-  - 1: Ben Young (East Sparta, OH)
+      left: 58
 
 limited: 60
+reproductions:
+  - 9x12in:
+    - 1: Ben Young (East Sparta, OH)
+    - 2: Doug Meads (Chalk Hill, PA)
 
 tag: Circus Act is a watercolor painting of a clown standing trial, inspired by Edward Hopper's Soir Bleu.
 ---

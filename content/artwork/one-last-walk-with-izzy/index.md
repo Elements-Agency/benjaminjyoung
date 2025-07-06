@@ -41,7 +41,7 @@ products:
       name: 9x12in Reproduction
       price: $60
       limited: 60
-      left: 32
+      left: 29
       popular: true
     - id: 758199794
       name: 18x24in Reproduction
@@ -97,9 +97,10 @@ reproductions:
     - 24: Abigail Ray (Akron, OH)
     - 25: Leah Hartzler (Wooster, OH)
     - 26: Sharon Williams (Fairhaven, MA)
-    - 27: Tom Delamator (North Canton, OH)
+    - 27: Reserved
     - 28: Reserved
     - 29: Christi Daigle (Southern Pines, NC)
+    - 30: Vicki Zarate (Livingston, TX)
   - 18x24in:
     - 1: Ben Young (East Sparta, OH)
     - 2: Susan Lehman (Jupiter, FL)
@@ -120,6 +121,8 @@ _Based on July 1st, 2021:_ **One Last Walk With Izzy** is a exquisite watercolor
 This painting is apart of the [Shades of Olson Collection](/collections/shades-of-olson).
 
 ### Inspiration ###
+
+{{< img src="izzy.jpg" width="200px" height="200px" class="floatright" gallery="progress" alt="Photo of a Izzy and Ben" title="Izzy and Ben" link="izzy.jpg" >}}
 
 The man of course is myself, the artist, with the blond hair shimmering from the bright autumn sun. The companion by my side is my late Border Collie dog, Izzy. The landscape is inspired by the Ohio Appalachian Plateau hills I grew up with. It's a memory I never got to have with my faithful family member, before she passed. She was always by my side in her life span, but sometimes time escapes us too quickly, and by the time I was in healthy enough state to hike myself, she had grown too elderly and weary to join me in my long walks of reflection.
 
