@@ -25,8 +25,8 @@ timeout = '600'
 
 [params]
   commentoEnable = false
-  location = "Studio #220. 318 Cleveland Ave NW. Canton, Ohio 44702. USA."
-  sale = "30% off all orders with JULY4TH2025 discount code at checkout. Ends July 5th."
+  location = "318 Cleveland Ave NW. Studio #220. Canton, Ohio 44702. USA."
+  sale = false
   favicon = '/favicon.ico'
   [params.social]
     facebook		= "artist.benjamin.young"

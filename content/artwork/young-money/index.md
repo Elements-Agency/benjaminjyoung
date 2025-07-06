@@ -27,7 +27,7 @@ mediums: [watercolor]
 materials: [cotton paper]
 colors: [black, brown]
 collections: [timeline, figures]
-locations: [kolp, print]
+locations: [kolp, kolps gallery, print]
 tags: [human, figure, man, ben, office, work, room, desk, shadow, melancholy, success, warm, indoors, day]
 
 inventory:

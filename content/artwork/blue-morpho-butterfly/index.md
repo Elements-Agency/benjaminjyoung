@@ -24,7 +24,7 @@ mediums: [watercolor]
 materials: [cotton paper]
 colors: [blue, green, brown, black]
 collections: [animals]
-locations: [kolp]
+locations: [kolp, kolps gallery]
 tags: [butterfly, insect, leaf, wings, summer, cool, outdoors]
 
 inventory:

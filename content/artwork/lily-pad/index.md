@@ -28,7 +28,7 @@ mediums: [watercolor, gouache]
 materials: [cotton paper]
 colors: [pink, green, white, brown]
 collections: [lilies]
-locations: [kolp]
+locations: [kolp, kolps gallery]
 tags: [lily, flower, pad, water, pond, stones, outdoors, summer, cool]
 
 inventory:

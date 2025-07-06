@@ -27,7 +27,7 @@ mediums: [oil]
 materials: [canvas panel]
 colors: [black, orange]
 collections: [massillon football, still lifes]
-locations: [kolp]
+locations: [kolp, kolps gallery]
 tags: [massillon, ohio, tigers, football, sports, helmet, reflective, indoors, cool]
 
 inventory:

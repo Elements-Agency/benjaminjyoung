@@ -265,6 +265,24 @@
                 </div>
               {{ end }}
 
+              {{ if in .Params.locations "kolps gallery" }}
+                <h2>Where To Visit</h2>
+                <p>
+                  The <strong>original painting</strong> is currently on display at the
+                  <a href="/contact" onclick="fbq('track', 'FindLocation');" target="_blank">
+                    Kolp's Attic
+                  </a>
+                  in Canton Ohio, and can be viewed there.
+                  The address is
+                  <a href="https://maps.app.goo.gl/UoKud5GA4xnh7A9C9" onclick="fbq('track', 'FindLocation');" target="_blank">
+                    318 Cleveland Ave NW, Canton, Ohio 44702
+                  </a>.
+                </p>
+                <p>
+                  <strong><a href="/locations/kolps-gallery">View all paintings on display at Kolp's Attic &gt;</a></strong>
+                </p>
+              {{ end }}
+
               {{ if in .Params.locations "massmu" }}
                 <h2>Where To Visit</h2>
                 <p>
@@ -370,7 +388,7 @@
                 </p>
               {{ end }}
 
-              {{ if in .Params.locations "door2art" }}
+              {{ if in .Params.locations "thehub" }}
                 <h2>Where To Visit</h2>
                 <p>
                   The <strong>original painting</strong> is currently on display at
@@ -385,7 +403,7 @@
                 </p>
               {{ end }}
 
-              {{ if in .Params.locations "door2art" }}
+              {{ if in .Params.locations "bryndu" }}
                 <h2>Where To Visit</h2>
                 <p>
                   The <strong>original painting</strong> is currently on display at the

@@ -27,11 +27,12 @@ mediums: [oil]
 materials: [mdf board]
 colors: [red, pink, purple, black]
 collections: [still lifes]
-locations: [cyrus]
+locations: [kolp, kolps gallery]
 tags: [pomegranate, fruit, shiny, metal, bowl, velvet, tablecloth, dark, indoors, table, warm]
 
 inventory:
-  - cyrus: 2025-04-07 - custom
+  - kolp: idk - current
+  - cyrus: 2025-04-07 - idk
   - kolp: 2025-03-15 - 2025-04-07
   - culturalcenter: 2025-01-10 - 2025-03-15
   - patina: 2024-09-04 - 2025-01-10
