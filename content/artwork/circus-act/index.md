@@ -28,7 +28,7 @@ materials: [cotton paper]
 colors: [red, white, blue]
 collections: [timeline, figures]
 locations: [kolp, print]
-tags: [human, figure, clown, ben, court, trial, joke, guilty, menace, grim, loss, neutral, indoors, day]
+tags: [human, figure, clown, ben, court, trial, bad, joke, guilty, menace, grim, loss, neutral, indoors, day]
 
 inventory:
   - summit: 2025-07-01 - current
