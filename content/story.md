@@ -3,6 +3,7 @@ layout: inside
 title: Artwork Story
 heading: Artwork Story
 description: My main bodies of work are laid out in my life's story.
+outputs: ['html']
 ---
 
 While each painting objectively should stand on it's own, my main focus of artworks makes up my life story. There is a continued narrative among each iteration. As a group, they are split into six current sections or "eras". Most work that has not started is already planned out. I know exactly how I want them to look and how I want them to feel. After all, it is my life and memory.

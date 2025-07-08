@@ -3,6 +3,7 @@ layout: inside
 title: Shipping Policy
 heading: Shipping Policy
 description: Read the shipping policy for Ben Young's Artist website.
+outputs: ['html']
 ---
 
 ## Delivery ##

@@ -18,8 +18,8 @@ timeout = '600'
   series = 'series'
 
 [outputs]
-  home = ['html']
-  section = ['html']
+  home = ['html', 'rss']
+  section = ['html', 'rss']
   taxonomy = ['html']
   term = ['html']
 

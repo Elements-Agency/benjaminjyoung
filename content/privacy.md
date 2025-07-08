@@ -4,6 +4,7 @@ title: Privacy Policy
 heading: Privacy Policy
 description: BenjaminJYoung.com Privacy Policy
 aliases: [/privacy-policy]
+outputs: ['html']
 ---
 
 **Effective Date**: March 25th, 2024

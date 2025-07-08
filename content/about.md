@@ -3,6 +3,7 @@ layout: inside
 title: About Artist
 heading: About Artist
 description: Learn more about the contemporary artist, Ben Young. From his artistic story to his specialties in painting.
+outputs: ['html']
 ---
 
 ## Benjamin J. Young ##

@@ -3,6 +3,7 @@ layout: inside
 title: Returns Policy
 heading: Returns Policy
 description: Read the returns policy for Ben Young's Artist website.
+outputs: ['html']
 ---
 
 ### What’s your return policy? ###
