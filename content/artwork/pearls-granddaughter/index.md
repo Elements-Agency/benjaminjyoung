@@ -33,6 +33,16 @@ tags: [woman, lady, young, smile, face, expression, gaze, headscarf, pose, inten
 inventory:
   - kolp: 2025-07-07 - current 
 
+status: sale
+products:
+    - id: 765371062
+      name: Original Painting
+      price: $800
+    - id: 765361108
+      name: Open Reproduction
+      price: $30
+
+
 tag: A gouache initiation practice using Vermeer's Girl with a Pearl Earring as a reference.
 ---
 
@@ -53,7 +63,3 @@ I used Vermeer's Girl with the Pearl Earring as a reference when painting.
 This was my first Gouache painting, so I needed a good study piece. I have used gouache before, but only for small elements of a watercolor painting. I also stuck with using the Zorn limited pallet, including; Titanium White, Yellow Ochre, Cadmium Red Light, and Ivory Black. Selectively using Cobalt Blue on the blouse.
 
 {{< progress >}}
-
-### Purchase ###
-
-Items for sale for this painting are coming soon.
