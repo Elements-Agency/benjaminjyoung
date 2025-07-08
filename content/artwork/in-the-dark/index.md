@@ -42,13 +42,19 @@ products:
       name: Original Painting
       price: $1,730
     - id: 746858779
-      name: Limited Reproduction
+      name: 9x12in Reproduction
       price: $50
-      left: 57
+      left: 56
+    - id: 746858779
+      name: 18x24in Reproduction
+      price: $200
+      left: 29
 
 reproductions:
-  - 1: Ben Young (East Sparta, OH)
-  - 2: J Mason (San Antonio, TX)
+  - 9x12in:
+    - 1: Ben Young (East Sparta, OH)
+    - 2: J Mason (San Antonio, TX)
+    - 3: David Kozakiewicz (Manchester, MI)
 
 limited: 60
 

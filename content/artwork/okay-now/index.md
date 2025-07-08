@@ -38,9 +38,13 @@ inventory:
 status: sold
 products:
     - id: 711193420
-      name: Limited Reproduction
-      price: $50
+      name: 9x12in Reproduction
+      price: $60
       left: 54
+    - id: 765476757
+      name: 18x24in Reproduction
+      price: $200
+      left: 29
     - id: 710975182
       name: Original Painting
       sold: true
@@ -50,11 +54,12 @@ buyer: Gary Stewart (Columbus, OH)
 
 limited: 60
 reproductions:
-  - 1: Ben Young (East Sparta, OH)
-  - 2: Denise Hunt (Canton, OH)
-  - 3: Teresa Hoffman (Bothell, WA)
-  - 4: Doug Crombie (Gahanna, OH)
-  - 5: Amanda Thompson (Cleveland Heights, OH)
+  - 9x12in:
+    - 1: Ben Young (East Sparta, OH)
+    - 2: Denise Hunt (Canton, OH)
+    - 3: Teresa Hoffman (Bothell, WA)
+    - 4: Doug Crombie (Gahanna, OH)
+    - 5: Amanda Thompson (Cleveland Heights, OH)
 
 tag: I knew an old wise woman once. She told me to make my way back to Strasbourg, so I did. From her pine framed window, she bid farewell, "Okay now. I'll be seeing you." With her gaze and expression of both endearment and concern, but excitement for me. Looking on in to the day's sun. This painting perfectly captures those feelings and experiences with my dear old friend.
 ---

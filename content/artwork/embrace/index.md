@@ -43,9 +43,13 @@ products:
       name: Original Painting
       price: $960
     - id: 716135890
-      name: Limited Reproduction
-      price: $50
+      name: 9x12in Reproduction
+      price: $60
       left: 56
+    - id: 765435153
+      name: 18x24in Reproduction
+      price: $200
+      left: 29
 
 limited: 60
 reproductions:
