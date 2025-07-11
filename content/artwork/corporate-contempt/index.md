@@ -1,11 +1,11 @@
 ---
 date: 2025-02-23
-title: Young Money
-description: Young Money is a watercolor painting displaying my contempt of corporate America.
+title: Corporate Contempt
+description: Corporate Contempt is a watercolor painting displaying my contempt of corporate America.
 alt: A watercolor painting of a solitary man in a dark suit stands in a dimly lit office, his back to the viewer, as stark contrasts of light and shadow create a melancholic, introspective atmosphere.
 author: Benjamin J. Young
 
-aliases: [/young-money, /artwork/pretrial, /pretrial]
+aliases: [/corporate-contempt, /artwork/young-money, /young-money, /artwork/pretrial, /pretrial]
 images: ['painting.jpg']
 videos: []
 
@@ -62,6 +62,8 @@ _In 2021:_ For 15 years, I built a career in software engineering. Working my wa
 {{< cta artwork="Young Money" >}}
 
 This watercolor painting presents a moody, atmospheric scene of a solitary man standing in a dimly lit office. The composition uses strong contrasts of light and shadow, with sunlight streaming through large glass windows on the left, casting elongated shadows across the floor. The man, dressed in a dark suit, stands with his back to the viewer, gazing towards a simple wooden desk adorned with papers, a computer, and other office essentials. The room has a minimalist, almost surreal feel, with sparse furniture—a single office chair and framed artworks on the walls—enhancing the sense of isolation. The color palette is dominated by earthy tones, giving the scene a melancholic and introspective quality, reminiscent of Edward Hopper’s style. The overall effect is one of contemplation, solitude, and perhaps existential reflection.
+
+_Title was changed from "Young Money" to "Corporate Contempt" on July 10th, 2025. Alternatively can be title to as "Pending Trial"._
 
 ### Artwork Process ###
 

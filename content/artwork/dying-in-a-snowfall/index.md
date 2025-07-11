@@ -1,11 +1,11 @@
 ---
 date: 2025-02-26
-title: Snowfall
-description: Snowfall is a watercolor painting displaying the reality of that Feb 26th snowfall night.
+title: Dying In A Snowfall
+description: Dying In A Snowfall is a watercolor painting displaying the reality of that Feb 26th snowfall night.
 alt: A watercolor painting of a lone, hooded figure sits against a tree in a dark, snow-covered forest, evoking a sense of solitude and introspection.
 author: Benjamin J. Young
 
-aliases: [/snowfall]
+aliases: [/dying-in-snowfall, /artwork/snowfall, /snowfall]
 images: ['painting.jpg']
 videos: []
 
@@ -62,6 +62,8 @@ tag: The snowfall to me is such a funny thing. Its tranquility is something I’
 This painting is apart of the [Feb 26th Collection](/collections/feb-26)
 
 This watercolor painting depicts a lone figure sitting against a tree in a dark, snow-covered forest. The person is dressed in a hooded cloak, their face partially hidden in shadow, exuding a sense of solitude and introspection. The surrounding trees are bare and stand tall, their dark trunks contrasting starkly with the white snow that blankets the ground. The background fades into deep darkness, enhancing the painting’s moody and melancholic atmosphere. The subtle blending of colors and the soft texture of the watercolor medium add depth to the scene, evoking a quiet, contemplative moment in the cold wilderness.
+
+_Title was changed from "Snowfall" to "Dying In A Snowfall" on July 10th, 2025._
 
 ### Artwork Process ###
 
