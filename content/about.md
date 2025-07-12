@@ -45,7 +45,7 @@ My featured work is a deeply personal narration of my own life—told not throug
     * **JURIED** [Bryn Du Art Show](https://www.bryndu.com/bryn-du-art-show) at the [Bryn Du Mansion](https://www.bryndu.com) in Granville, Ohio.
     * **JURIED** [Door 2 Art Show](https://www.door2art.com/artshow) hosted at [Door 2 Art](https://www.door2art.com) in Hudson, Ohio.
     * **JURIED** [Artists of Rubber City Exhibit](https://www.summitartspace.org/aorc-juried-exhibition-2025/) hosted at [Summit Artspace](https://www.summitartspace.org) in Akron, Ohio.
-      * June - **SOLO** Resident Artist Display at [Massillon Public Library](https://www.massillonlibrary.org) in Massillon, Ohio.
+    * **SOLO** Resident Artist Display at [Massillon Public Library](https://www.massillonlibrary.org) in Massillon, Ohio.
   * 2024
     * **BENEFIT** Patina First Fundraiser hosted at Patina Arts Centre in Canton, Ohio.
     * **JURIED**  [Brown's Town](https://paulbrownmuseum.org/exhibits/detail/browns-town-art-inspired-by-ohios-football-heritage) hosted at [Massillon Museum](http://massillonmuseum.org/) in Massillon, Ohio.
