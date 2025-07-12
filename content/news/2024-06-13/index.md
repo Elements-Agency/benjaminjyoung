@@ -18,7 +18,7 @@ I also have moved in to Patina Arts Centre as a resident artist. I have some art
 First off, let's start off with the last month of new paintings:
 
 {{< row-start >}}
-    {{< preview col="4" painting="/artwork/sailing-away-schoon/" >}}
+    {{< preview col="4" painting="/artwork/sailing-away/" >}}
     {{< preview col="4" painting="/artwork/silent-reflections/" >}}
     {{< preview col="4" painting="/artwork/creepy-clown/" >}}
 {{< row-end >}}

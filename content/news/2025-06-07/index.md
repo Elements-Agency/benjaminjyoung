@@ -36,7 +36,7 @@ I know, spring is almost over. But... I need to free up some space in my studio 
 
 {{< row-start >}}
     {{< preview col="2" painting="/artwork/just-out-of-reach/" >}}
-    {{< preview col="2" painting="/artwork/sailing-away-schoon/" >}}
+    {{< preview col="2" painting="/artwork/sailing-away/" >}}
     {{< preview col="2" painting="/artwork/standoff/" >}}
     {{< preview col="2" painting="/artwork/silent-reflections/" >}}
     {{< preview col="2" painting="/artwork/addicts-contemplation/" >}}
@@ -66,7 +66,7 @@ My newsletter followers jumped a lot this past month. Why? Besides my constant a
 
 {{< row-start >}}
     {{< preview col="4" painting="/artwork/okay-now/" >}}
-    {{< preview col="4" painting="/artwork/embrace/" >}}
+    {{< preview col="4" painting="/artwork/final-embrace/" >}}
     {{< preview col="4" painting="/artwork/in-the-dark/" >}}
 {{< row-end >}}
 
@@ -83,7 +83,7 @@ I was excited to get a call from [Massillon Public Library](https://www.massillo
     {{< preview col="4" painting="/artwork/howards-hills/" >}}
     {{< preview col="4" painting="/artwork/in-the-dark/" >}}
     {{< preview col="4" painting="/artwork/hallelujah/" >}}
-    {{< preview col="4" painting="/artwork/embrace/" >}}
+    {{< preview col="4" painting="/artwork/final-embrace/" >}}
 {{< row-end >}}
 
 As I get more comfortable providing the full contexts of my narrative paintings, this display will include descriptions with much more upfront and transparent explanations. I lived in Massillon for five years and a lot of my current and future pieces are of my time in Massillon. I highly recommend to check it out, if you are in North East Ohio.

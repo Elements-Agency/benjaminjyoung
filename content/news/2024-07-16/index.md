@@ -37,7 +37,7 @@ I have entered in to a few more exhibits recently. The first being the **[Stark 
 
 {{< row-start >}}
     {{< preview col="4" painting="/artwork/addicts-contemplation/" >}}
-    {{< preview col="4" painting="/artwork/sailing-away-schoon/" >}}
+    {{< preview col="4" painting="/artwork/sailing-away/" >}}
     {{< preview col="4" painting="/artwork/lily-pad/" >}}
 {{< row-end >}}
 

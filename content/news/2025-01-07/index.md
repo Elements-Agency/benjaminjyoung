@@ -17,7 +17,7 @@ I have decided to change up how I do my newsletters, starting as of now. Instead
 
 {{< row-start >}}
     {{< preview col="6" painting="/artwork/avalanche-lilies/" >}}
-    {{< preview col="6" painting="/artwork/embrace/" >}}
+    {{< preview col="6" painting="/artwork/final-embrace/" >}}
 {{< row-end >}}
 
 I completed one watercolor ([Avalanche Lilies](/artwork/avalanche-lilies)) and one oil ([Embrace](/artwork/embrace)) paintings, both correlated with each other in someway. In the next quarter, I hope to paint the other side of Embrace, and will continue on with some of my narratives. As I slowly build out my own story in artwork, you'll start to see subjects interconnecting.

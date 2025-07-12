@@ -18,8 +18,8 @@ My most recent paintings have taken us in to more recent years of my life, durin
 
 {{< row-start >}}
     {{< preview col="4" painting="/artwork/hallelujah/" >}}
-    {{< preview col="4" painting="/artwork/snowfall/" >}}
-    {{< preview col="4" painting="/artwork/embrace/" >}}
+    {{< preview col="4" painting="/artwork/dying-in-a-snowfall/" >}}
+    {{< preview col="4" painting="/artwork/final-embrace/" >}}
 {{< row-end >}}
 
 The **One Last December** [collection](/collections/one-last-december) currently includes three paintings; [Hallelujah](/artwork/hallelujah), [Snowfall](/artwork/snowfall), and [Embrace](/artwork/embrace). The latter two both happening the same night, of [February 26th](/collections/feb-26), 2020, with Hallelujah being the moment to delay and disrupt these events.
@@ -79,7 +79,7 @@ There's been a handful of other paintings I have completed, checkout the others 
 {{< row-start >}}
     {{< preview col="3" painting="/artwork/avalanche-lilies/" >}}
     {{< preview col="3" painting="/artwork/defeat/" >}}
-    {{< preview col="3" painting="/artwork/young-money/" >}}
+    {{< preview col="3" painting="/artwork/corporate-contempt/" >}}
     {{< preview col="3" painting="/artwork/creepy-ladybug/" >}}
 {{< row-end >}}
 

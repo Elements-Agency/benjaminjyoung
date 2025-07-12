@@ -10,21 +10,16 @@ outputs: ['html']
 
 {{< img span="image right" class="rounded" src="/images/ben-small.webp" alt="Photo of Benjamin J. Young" title="Ben Young" >}}
 
-I'm new to painting, as I just started in December of 2023. With no prior experience in art since 8th grade art class. I mainly paint with watercolor and occasionally oil, working in narrative realism. My objective is to paint the emotions first and aesthetics secondary. If my painting moves someone emotionally, then I have done my job. My style tends to remind me a lot of Andrew Wyeth's work, and honestly, I had no idea who he was until people started pointing that out and I had to google him. However, I've just let that style take hold naturally to my expression and technique. Much of my works are developed from my own experiences, traumas, and emotions; and I hope I can successfully resonate a connection in others.
+I began painting in December 2023, with no formal background in art beyond an eighth-grade class. Since then, I’ve primarily worked in watercolor, occasionally exploring oil, with a focus on narrative realism. My approach is rooted in expressing emotion first and capturing values second—if a painting evokes a genuine emotional response in someone, then I consider it a success.
+
+Interestingly, many viewers have compared my style to that of Andrew Wyeth, a connection I wasn’t initially aware of until it was pointed out to me. After exploring his work, I realized the resemblance is purely intuitive—an organic outcome of my own developing expression and technique. Much of my work is drawn from personal experience, emotion, and past trauma. Through this visual storytelling, I aim to create work that resonates with others on a deeply human level.
 
 ### Artist Story ###
 
-{{< img span="image right" src="/images/ben-kid.jpg" alt="Child Ben" title="Child Ben" >}}
+My featured work is a deeply personal narration of my own life—told not through words, but through vivid imagery, emotional gestures, and atmosphere. Each painting feels like a chapter, capturing moments of memory, solitude, resilience, and quiet beauty. I invite viewers into an inner world shaped by personal experience—sometimes raw, sometimes tender, but always honest. Whether it’s a solitary figure in motion or a still landscape bathed in silence, my art doesn’t just aim to depict life—it strives to reveal the emotional undercurrents of my own. In sharing my story, I hope others can find a piece of theirs within it.
 
-In childhood, I was told from my earliest memories my drawing skills were phenomenal. The phrase "child prodigy" was thrown around far too much, and I wish it hadn't. I was receptively pressured to refine my skills, eventually being put into private programs to help me develop that talent. As my maverick personality was in its adolescent development, eventually being told what to do would lead me to spite something I used to enjoy.
 
-After my last 8th grade art class (age 15), I never picked up another pencil or medium again. As disappointed as that made others, I could not see a chance of having a decent living with what artists made in that era and chasing fame is a fool's errand. Around that time I received access to my first computer with access to the internet and its endless amount of free information. Quickly learning computer programming, that would go on to turn into my career for over 15 years.
-
-In a monument to both the boredom of winter and the desperation of emotional healing, I found an old set of tutorial oil pastels and a Crayola Watercolor set. I was caught off guard by interest in purchasing those works. From there, you can see the artwork I've made listed in my [Artwork Blog](/artwork).
-
-That just reflects my life in the aspect of art... My paintings revolve around much deeper moments of my life. The narratives represent timelines of my life. Happiness, traumas, recoveries. All those main timeline works combined form a larger story...
-
-{{< button class="fit" text="Learn More" href="/story" >}}
+{{< button class="fit" text="Learn More About This Story" href="/story" >}}
 
 ---
 

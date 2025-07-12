@@ -26,7 +26,7 @@ Scroll down to see what’s new and what’s on sale — you might just find you
 There are still a few original paintings available in my Summer Cleaning Sale — and they’re 50% off while they last! This is a rare chance to own an original piece at a steep discount, as I make room for new work coming later this season. If you’ve had your eye on something, now’s the time to take another look before these remaining pieces find their homes.
 
 {{< row-start >}}
-    {{< preview col="2" painting="/artwork/sailing-away-schoon/" >}}
+    {{< preview col="2" painting="/artwork/sailing-away/" >}}
     {{< preview col="2" painting="/artwork/standoff/" >}}
     {{< preview col="2" painting="/artwork/addicts-contemplation/" >}}
     {{< preview col="2" painting="/artwork/blue-morpho-butterfly/" >}}
