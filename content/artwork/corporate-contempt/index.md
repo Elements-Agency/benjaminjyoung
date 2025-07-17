@@ -49,7 +49,7 @@ products:
 
 reproductions:
   - 1: Ben Young (East Sparta, OH)
-  - 2: Reserved
+  - 2: Victor Moore (Canton, OH)
   - 3: Reserved
 
 limited: 60
