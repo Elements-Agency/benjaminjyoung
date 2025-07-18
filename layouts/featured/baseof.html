@@ -2177,8 +2177,22 @@ input, select, textarea {
                         {{ end }}
 
 						<article class="thumb">
+							<a href="/sign-up" class="image">
+								<img src="/images/signup-banner.jpg" alt="Free prize drawing and discounts" />
+							</a>
+							<h2 style="font-weight:bold;">Newsletter Signup:</h2>
+							<p>
+								Stay updated with my latest works, exhibitions, and special offers by subscribing to my newsletter.
+								I promise not to spam you and you can unsubscribe at any time.
+							</p>
+						</article>
+
+						<article class="thumb">
 							<h2 style="font-weight:bold;">Other Work:</h2>
-							<p>Here are some of my other works that I have created over the years. They are not featured in my main work, but they are still part of my portfolio.</p>
+							<p>
+								Here are some of my other works that I have created over the years.
+								They are not featured in my main work, but they are still part of my portfolio.
+							</p>
 						</article>
 
 						{{ range $i,$p := (sort $subsection "Params.power" "desc") }}

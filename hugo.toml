@@ -93,11 +93,11 @@ timeout = '600'
 [[menus.small]]
     name = 'About'
     pageRef = '/about'
-    weight = 30
+    weight = 20
 [[menus.small]]
-    name = 'Contact'
-    pageRef = '/contact'
-    weight = 80
+    name = 'Newsletter'
+    pageRef = '/sign-up'
+    weight = 30
 
 [services]
   [services.googleAnalytics]
