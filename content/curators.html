@@ -295,15 +295,17 @@ outputs: ['html']
         const genders_data = {
             labels: [
                 'Male',
-                'Female'
+                'Female',
+                'Unknown'
             ],
             datasets: [
                 {
                     label: 'Reproduction Sales',
-                    data: [17, 33],
+                    data: [20, 42, 2],
                     backgroundColor: [
                         'rgb(54, 162, 235)', // Blue
-                        'rgb(255, 99, 132)' // Pink
+                        'rgb(255, 99, 132)', // Pink
+                        'rgb(192, 192, 192)' // Silver
 
                     ],
                     hoverOffset: 4
@@ -313,7 +315,8 @@ outputs: ['html']
                     data: [12, 2],
                     backgroundColor: [
                         'rgb(33, 64, 154)', // Dark Blue
-                        'rgb(200, 50, 120)' // Dark Pink
+                        'rgb(200, 50, 120)', // Dark Pink
+                        'rgb(222, 222, 222)' // Dark Silver
                     ],
                     hoverOffset: 4
                 },
@@ -350,8 +353,8 @@ outputs: ['html']
                         'rgb(0, 200, 83)', // Green
                         'rgb(54, 162, 235)', // Blue
                         'rgb(255, 159, 64)', // Orange
+                        'rgb(255, 50, 50)', // Red
                         'rgb(192, 192, 192)', // Silver
-                        'rgb(255, 255, 255)' // White
                     ],
                     hoverOffset: 4
                 }
@@ -449,7 +452,7 @@ outputs: ['html']
                         x: 1200
                     },
                 ],
-                backgroundColor: 'rgb(255, 99, 132)'
+                backgroundColor: 'rgb(100, 200, 100)'
             }]
         };
         const scatter_config = {
