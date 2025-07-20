@@ -90,7 +90,8 @@ reproductions:
     - 29: Christi Daigle (Southern Pines, NC)
     - 30: Vicki Zarate (Livingston, TX)
     - 31: Nicolette Carnevale (Flemington, NJ)
-    - 32: Reserved
+    - 32: Catherine Lawrence (Grand Rapids, MI)
+    - 33: Eric Anderson (Jackson, WY)
   - 18x24in:
     - 1: Ben Young (East Sparta, OH)
     - 2: Susan Lehman (Jupiter, FL)
