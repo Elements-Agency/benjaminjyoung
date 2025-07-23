@@ -11,7 +11,7 @@ videos: []
 
 subfeatured: true
 ratio: landscape
-power: 200
+power: 223
 
 supplies:
   - medium: M Graham Watercolor Paints

@@ -12,7 +12,8 @@ videos: []
 featured: true
 order: 3
 ratio: landscape
-power: 1461
+power: 1624
+sold: 5
 favorite: true
 
 supplies:
@@ -54,6 +55,7 @@ reproductions:
   - 1: Ben Young (East Sparta, OH)
   - 2: Artober (Massillon, OH)
   - 3: Debra Mee (Raleigh, NC)
+  - 4: John Schnabel (Marion, OH)
 
 tag: This painting features an Appalachia landscape, very similar to the rolling hills I grew up in. The house is inspired by a lot of the old farmhouses that were still standing during my childhood but in need of repairs. The man is based off my elderly father, hiking his way across our family farm land.
 ---

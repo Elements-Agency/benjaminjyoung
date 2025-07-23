@@ -10,7 +10,7 @@ videos: []
 
 subfeatured: true
 ratio: landscape
-power: 36
+power: 40
 
 supplies:
   - medium: M Graham Watercolor

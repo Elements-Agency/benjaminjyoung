@@ -11,7 +11,7 @@ videos: []
 
 subfeatured: true
 ratio: portrait
-power: 156
+power: 176
 
 supplies:
   - medium: Artist Loft Paint

@@ -14,7 +14,8 @@ videos: []
 featured: true
 order: 5
 ratio: portrait
-power: 2434
+power: 2521
+sold: 4
 favorite: true
 
 supplies:

@@ -13,7 +13,7 @@ videos: []
 
 subfeatured: true
 ratio: landscape
-power: 373
+power: 364
 
 supplies:
   - medium: Winsor & Newton Winton Oil

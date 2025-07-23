@@ -11,9 +11,7 @@ aliases: [/cherry-popping]
 images: ['painting.jpg']
 videos: []
 
-subfeatured: true
 ratio: square
-power: 55
 
 supplies:
   - medium: Winsor & Newton Winton Oil

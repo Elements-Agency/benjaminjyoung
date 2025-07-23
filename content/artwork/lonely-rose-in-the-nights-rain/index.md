@@ -11,7 +11,7 @@ videos: []
 
 subfeatured: true
 ratio: portrait
-power: 211
+power: 220
 
 supplies:
   - medium: Artist Loft Watercolor Paint

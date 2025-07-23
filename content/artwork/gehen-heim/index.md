@@ -13,7 +13,7 @@ videos: []
 
 subfeatured: true
 ratio: landscape
-power: 108
+power: 98
 
 supplies:
   - medium: Artist Loft Watercolor Paint

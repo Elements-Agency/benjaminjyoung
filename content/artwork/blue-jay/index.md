@@ -13,7 +13,7 @@ videos: []
 
 subfeatured: true
 ratio: landscape
-power: 68
+power: 53
 
 supplies:
   - medium: Kaloir Watercolor Pencils

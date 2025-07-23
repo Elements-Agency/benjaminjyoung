@@ -13,7 +13,7 @@ videos: [https://www.instagram.com/p/C3fAU-6ON7E/, https://youtube.com/shorts/Js
 
 subfeatured: true
 ratio: portrait
-power: 249
+power: 247
 
 supplies:
   - medium: Kaloir Watercolor Pencils

@@ -11,7 +11,7 @@ videos: []
 
 subfeatured: true
 ratio: landscape
-power: 93
+power: 117
 
 supplies:
   - medium: M. Graha Watercolor Paint
