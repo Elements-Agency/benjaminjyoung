@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="{{ site.LanguageCode | default site.Language.Lang  }}" {{- with partialCached "func/GetLanguageDirection" "GetLanguageDirection" }} dir="{{ . }}" {{- end }}>
+    <head>
+        <title>{{ block "title" . }}{{ with .Params.Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}{{if eq .Type "tags"}}Artwork on {{ .Site.Title }} that is categorized and tagged with the term of '{{.Title}}'{{end}}">
+        <meta name="keywords" content="{{ with .Params.keywords }}{{ delimit (apply . "printf" "%s" ".") ", " }}{{ end }}{{ with .Params.tags }}{{ delimit (apply . "printf" "%s" ".") ", " }}{{ end }}{{if eq .Type "tags"}}art, artwork, paintings, category, tags, {{.Title}}{{end}}">
+        <meta name="author" content="{{ with .Params.author | default .Site.Author.name }}{{ . }}{{ end }}">
+        {{ hugo.Generator }}
+		
+		<link rel="stylesheet" href="/css/main.css" />
+		<noscript><link rel="stylesheet" href="/css/noscript.css" /></noscript>
+
+        {{ $production := eq (getenv "HUGO_ENV") "production" | or (eq site.Params.env "production") }}
+        {{ $public := not .Params.private }}
+
+        {{ if and $production $public }}
+          <meta name="robots" content="index, follow">
+        {{ else }}
+          <meta name="robots" content="noindex, nofollow">
+        {{ end }}
+        {{ block "favicon" . }}
+          {{ partialCached "site-favicon.html" . }}
+        {{ end }}
+    
+        {{ if .OutputFormats.Get "RSS" }}
+          {{ with .OutputFormats.Get "RSS" }}
+            <link href="{{ .RelPermalink }}" rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" />
+            <link href="{{ .RelPermalink }}" rel="feed" type="application/rss+xml" title="{{ $.Site.Title }}" />
+          {{ end }}
+        {{ end }}
+    
+        {{ if .Params.canonicalUrl }}
+          <link rel="canonical" href="{{ .Params.canonicalUrl }}">
+        {{ else }}
+          <link rel="canonical" href="{{ .Permalink }}">
+        {{ end }}
+    
+        {{ partial "opengraph.html" . }}
+        {{ partial "schema.html" . }}
+        {{ partial "twitter_cards.html" . }}
+    
+        {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
+          {{ template "_internal/google_analytics.html" . }}
+
+	    	<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/5a284b4c27bab02102d3645de/de95c2316040c9ab83ad4f970.js");</script>
+        {{ end }}
+
+		<script>
+			document.addEventListener("DOMContentLoaded", () => {
+				localStorage.viewhome = true;
+			});
+		</script>
+    
+        {{ block "head" . }}
+          {{ partial "head-additions.html" . }}
+        {{ end }}
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="divided">
+
+				{{ block "main" . }}{{ end }}
+
+				<!-- Footer -->
+					<footer class="wrapper style1 align-center">
+						<div class="inner">
+                            <strong>Quick Links:</strong>
+                            <ul style="list-style:none; display:inline-block;">
+                                <li style="display:inline-block;">
+                                    <a href="/about">About Ben</a>
+                                </li>
+                                <li style="display:inline-block;">
+                                    <a href="/featured">Paintings</a>
+                                </li>
+                                <li style="display:inline-block;">
+                                    <a href="/shop">Browse Products</a>
+                                </li>
+                                <li style="display:inline-block;">
+                                    <a href="/news">Newsletter</a>
+                                </li>
+                                <li style="display:inline-block;">
+                                    <a href="/contact">Contact</a>
+                                </li>
+                            </ul>
+
+							<ul class="icons">
+								<li><a href="https://instagram.com/artistbenyoung" class="icon brands style2 fa-instagram" aria-label="Follow Artist Ben Young on Instagram"><span class="label">Instagram</span></a></li>
+								<li><a href="https://facebook.com/artist.benjamin.young" class="icon brands style2 fa-facebook-f" aria-label="Follow Artist Ben Young on Facebook"><span class="label">Facebook</span></a></li>
+								<li><a href="https://www.reddit.com/user/artistbenyoung/" class="icon brands style2 fa-reddit" aria-label="Follow Artist Ben Young on Reddit"><span class="label">Reddit</span></a></li>
+								<li><a href="https://www.tumblr.com/artistbenyoung" class="icon brands style2 fa-tumblr" aria-label="Follow Artist Ben Young on Tumblr"><span class="label">Tumblr</span></a></li>
+								<li><a href="https://pinterest.com/artistbenyoung" class="icon brands style2 fa-pinterest" aria-label="Follow Artist Ben Young on Pinterest"><span class="label">Pinterest</span></a></li>
+								<li><a href="/contact" class="icon style2 fa-envelope" aria-label="Contact Artist Ben Young"><span class="label">Email</span></a></li>
+							</ul>
+
+
+                            <strong>Order Resources:</strong>
+                            <ul style="list-style:none; display:inline-block;">
+                                <li style="display:inline-block;">
+                                    <a href="/shipping">Shipping Policy</a>
+                                </li>
+                                <li style="display:inline-block;">
+                                    <a href="/returns">Returns Policy</a>
+                                </li>
+                                <li style="display:inline-block;">
+                                    <a href="/privacy">Privacy Policy</a>
+                                </li>
+								<li style="display:inline-block;">
+                                    <a href="/shop/#!/~/cart">Shopping Cart</a>
+                                </li>
+                            </ul>
+
+							<br>
+
+							<strong>Contact Information:</strong>
+
+							<address style="display:inline-block; padding-top:0; margin-top:0;">
+								<a href="https://maps.app.goo.gl/Hd5tQ6SmzdXv8ARf8" onclick="fbq('track', 'FindLocation');" target="_blank">
+									318 Cleveland Ave NW.
+									Studio #220.
+									Canton, Ohio 44702
+								</a>
+							</address>
+
+							&nbsp; | &nbsp;
+
+							<a href="tel:+1330-818-9181">+1 (330) 818-9181</a>
+
+							&nbsp; | &nbsp;
+
+							<a href="mailto:assistance@benjaminjyoung.com">Assistance@BenjaminJYoung.com</a>
+						
+							<br><br>
+
+							<p>
+							  {{ with .Site.Copyright | default .Site.Title }}
+								&copy;
+								2023 -
+								{{ now.Format "2006"}}
+								{{ . | safeHTML }}
+								All rights reserved.
+							  {{ end }}
+							</p>
+						</div>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="/js/jquery.min.js"></script>
+			<script src="/js/jquery.scrollex.min.js"></script>
+			<script src="/js/jquery.scrolly.min.js"></script>
+			<script src="/js/browser.min.js"></script>
+			<script src="/js/breakpoints.min.js"></script>
+			<script src="/js/util.js"></script>
+			<script src="/js/main.js"></script>
+
+	</body>
+</html>

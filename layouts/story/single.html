@@ -1,0 +1,103 @@
+{{ define "main" }}
+    <section class="banner onload-image-fade-in onload-content-fade-right style1 content-align-left image-position-center - orient-right">
+        <div class="content">
+            <div class="logo align-center">
+                <img src="/images/logo.webp" title="Artist Ben Young" alt="Artist Ben Young">
+                <h1>
+                    <h1>{{- .Title -}}</h1>
+                </h1>
+            </div>
+            <p class="major">
+                {{- .Summary -}}
+            </p>
+            <ul class="actions stacked align-center">
+                <li><a href="#more" class="button big wide smooth-scroll-middle">Learn More</a></li>
+            </ul>
+        </div>
+        {{ if (.Resources.GetMatch (printf "%spainting.jpg" (replace .File.Dir "story/" ""))) }}
+            <div class="image">
+                {{ $full := .Resources.GetMatch (printf "%spainting.jpg" (replace .File.Dir "story/" "")) }}
+                {{ $full := $full.Fit "1600x1600 webp q94" }}
+                
+                <img src="{{ $full.RelPermalink }}" alt="{{ .Params.subtitle }}" />
+            </div>
+        {{ end }}
+    </section>
+
+    <section id="more" class="spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in">
+        <div class="content">
+            <h2>{{- .Params.Subtitle -}}</h2>
+            <p>
+                {{- replace .Content .Summary "" | safeHTML -}}
+            </p>
+
+            {{ if .Params.products }}
+                <ul class="actions stacked">
+                    <li><a href="#purchase" class="button">Purchase Artwork</a></li>
+                </ul>
+            {{ end }}
+        </div>
+        {{ if (.Resources.GetMatch (printf "%sside.jpg" (replace .File.Dir "story/" ""))) }}
+            <div class="image">
+                {{ $side := .Resources.GetMatch (printf "%sside.jpg" (replace .File.Dir "story/" "")) }}
+                {{ $side := $side.Fit "800x800 webp q86" }}
+
+                <img src="{{ $side.RelPermalink }}" alt="">
+            </div>
+        {{ end }}
+    </section>
+
+    <section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in">
+        <div class="content">
+            <h2>About the Artist</h2>
+            <p>
+                Ben Young is a contemporary fine artist originally from Appalachia, Ohio.
+                Though he began painting in watercolor and oil less than two years ago, his work has quickly gained attention for its emotional depth and storytelling.
+                Each piece is a personal narrative, rooted in lived experience and expressed through a sensitive, evocative style.
+                His paintings resonate with collectors drawn to authenticity, vulnerability, and a fresh, emerging voice in American art.
+            </p>
+            <p>
+                To learn more about artist Ben Young, his latest work, and the stories behind his paintings, we invite you to sign up for his email newsletter.
+                As a thank-you, you'll receive an exclusive <strong>20% discount</strong> on all orders.
+                Stay connected and be the first to access new releases, special offers, and behind-the-scenes insights.
+            </p>
+            <ul class="actions stacked">
+                <li><a href="/sign-up?drive=home" class="button">Sign Up</a></li>
+            </ul>
+        </div>
+        <div class="image">
+            <img src="/images/banner-sm.webp" srcset="/images/banner-sm.webp 500w, /images/banner.webp 1000w, /images/banner-lg.webp 1500w" alt="Artist Ben Young" width="700px" height="700px">
+        </div>
+    </section>
+
+    {{ if .Params.products }}
+        <section id="purchase" class="wrapper style1 align-center">
+            <div class="inner">
+                <h2>Purchase Artwork</h2>
+                <p>{{- .Params.buy -}}</p>
+
+                <div class="items style1 onscroll-fade-in medium">
+                    {{ range $product := .Params.products }}
+                        <section><div class="inner">
+                            <div class="ecsp ecsp-SingleProduct-v2 ecsp-SingleProduct-v2-bordered ecsp-SingleProduct-v2-centered ecsp-Product ec-Product-{{ $product.id }}" itemscope itemtype="http://schema.org/Product" data-single-product-id="{{ $product.id }}">
+                                <div itemprop="image"></div>
+                                <div class="ecsp-title" itemprop="name" content="{{ $product.name }}"></div>
+                                <div itemtype="http://schema.org/Offer" itemscope itemprop="offers">
+                                    <div class="ecsp-productBrowser-price ecsp-price" itemprop="price" content="{{ $product.price }}">
+                                        <div itemprop="priceCurrency" content="USD"></div>
+                                    </div>
+                                </div>
+                                <div customprop="vatinprice"></div>
+                                <div customprop="options"></div>
+                                <div customprop="addtobag"></div>
+                            </div>
+                        </div></section>
+                    {{ end }}
+
+                    <script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?101772706&data_platform=singleproduct_v2" charset="utf-8"></script>
+                    <script type="text/javascript">xProduct()</script>
+                </div>
+            </div>
+        </section>
+    {{ end }}
+{{ end }}

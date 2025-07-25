@@ -1,5 +1,4 @@
 ---
-layout: inside
 title: Artwork Story
 heading: Artwork Story
 description: My main bodies of work are laid out in my life's story.
