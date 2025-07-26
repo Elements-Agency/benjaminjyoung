@@ -1,4 +1,5 @@
 ---
+order: 4
 date: 2024-12-20
 title: A Dream of Love, Loss, and One Last Goodbye
 subtitle: Final Embrace

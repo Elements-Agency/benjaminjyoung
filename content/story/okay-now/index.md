@@ -1,4 +1,5 @@
 ---
+order: 2
 date: 2024-11-21
 title: A Portrait of Farewell, Dignity, and the Weight of Time
 subtitle: Okay Now
@@ -14,6 +15,8 @@ products:
     - id: 765476757
       name: 18x24in Reproduction
       price: 200
+
+link: /artwork/okay-now/
 ---
 
 Some portraits don’t just depict a person—they hold a moment. A breath. A lifetime.

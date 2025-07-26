@@ -1,4 +1,5 @@
 ---
+order: 1
 date: 2024-11-11
 title: Love and Loss of Man's Best Friend
 subtitle: One Last Walk With Izzy
@@ -17,6 +18,8 @@ products:
     - id: 758189666
       name: 30x40in Reproduction
       price: 400
+
+link: /artwork/one-last-walk-with-izzy/
 ---
 
 There are paintings that catch the eye—and then there are paintings that quietly catch the heart. ___One Last Walk With Izzy___ by **Ben Young** is the latter: a deeply personal work born from grief, love, and the universal experience of saying goodbye.

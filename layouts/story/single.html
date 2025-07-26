@@ -115,36 +115,30 @@
         </section>
     {{ end }}
 
-    <!--<section id="other" class="wrapper style1 align-center">
+    <section id="other" class="wrapper style1 align-center">
         <div class="inner">
             <h2>Other Works</h2>
         </div>
 
         <div class="gallery style2 medium onscroll-fade-in">
-            <div class="modal" tabindex="-1"><div class="inner"><img src=""></div></div>
-            <div class="forward"></div>
-            <div class="backward"></div>
-            <div class="inner">
-                {{ range where .Site.RegularPages "Section" "story" }}
-                    {{ $painting := .Resources.GetMatch (printf "%spainting.jpg" (replace .File.Dir "story/" "")) }}
-                    {{ if $painting }}
-                        {{ $painting := $painting.Fill "420x350 Center" }}
-                        {{ $painting := $painting.Resize "420x webp q90" }}
-
-                        <article>
-                            <a href="{{ .RelPermalink }}" class="image">
-                                <img src="{{ $painting.RelPermalink }}" alt="{{ .Title }}" loading="lazy">
-                            </a>
-                            <div class="caption">
-                                <h3>{{ .Params.subtitle }}</h3>
-                                <ul class="actions fixed">
-                                    <li><span class="button small">Details</span></li>
-                                </ul>
-                            </div>
-                        </article>
-                    {{ end }}
+            {{ range sort (where .Site.RegularPages "Section" "story") "Params.order" "asc" }}
+                {{ $painting := .Resources.GetMatch (printf "%spainting.jpg" (replace .File.Dir "story/" "")) }}
+                {{ if and ($painting) (ne .Permalink $.Permalink) }}
+                    {{ $painting := $painting.Fill "420x350 Center" }}
+                    {{ $painting := $painting.Resize "420x webp q90" }}
+                    <article>
+                        <a href="{{ .RelPermalink }}" class="image">
+                            <img src="{{ $painting.RelPermalink }}" alt="{{ .Title }}" loading="lazy">
+                        </a>
+                        <div class="caption">
+                            <h3>{{ .Params.subtitle }}</h3>
+                            <ul class="actions fixed">
+                                <li><span class="button small">Details</span></li>
+                            </ul>
+                        </div>
+                    </article>
                 {{ end }}
-            </div>
+            {{ end }}
         </div>
-    </section>-->
+    </section>
 {{ end }}

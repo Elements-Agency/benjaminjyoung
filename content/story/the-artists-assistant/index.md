@@ -1,4 +1,5 @@
 ---
+order: 3
 date: 2024-06-26
 title: A Portrait of Grief, Loyalty, and Unseen Witnesses
 subtitle: The Artist's Assistant
@@ -11,6 +12,8 @@ products:
     - id: 683098813
       name: 9x12in Reproduction
       price: 60
+
+link: /artwork/the-artists-assistant/
 ---
 
 In ___The Artist’s Assistant___, **Ben Young** presents a deceptively whimsical image—a tuxedo cat wearing a watercolor cup as a crown, sitting quietly beside a watercolor block, a tennis ball, and a paintbrush. But behind the soft palette and tender brushwork lies a heartbreakingly personal story. This painting is not about play—it’s about presence, loss, and the quiet roles our companions play in helping us survive the unimaginable.
