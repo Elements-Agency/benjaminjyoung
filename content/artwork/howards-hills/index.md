@@ -58,6 +58,8 @@ reproductions:
   - 4: John Schnabel (Marion, OH)
 
 tag: This painting features an Appalachia landscape, very similar to the rolling hills I grew up in. The house is inspired by a lot of the old farmhouses that were still standing during my childhood but in need of repairs. The man is based off my elderly father, hiking his way across our family farm land.
+
+story: /story/howards-hills/
 ---
 
 **Howard’s Hills** is a watercolor painting that was done after so many people have noted my favorite watercolor paintings reminded them of the great [Andrew Wyeth](https://en.wikipedia.org/wiki/Andrew_Wyeth)’s work. So I took the time to study a lot of technique and incorporated it heavily in to this narrative and architectural landscape painting I created. Especially a lot of his dry brushing technique and using lots of layers/details until the form in perfect to how I want it to flow. Diverting slightly where I feel more natural to my own organic techniques.

@@ -3,10 +3,10 @@ order: 3
 date: 2024-09-10
 title: The Aging Appalachian Ohio
 subtitle: Howard's Hills
-description: In Corporate Contempt, artist Ben Young invites the viewer into a moment of profound stillness and internal questioning. A lone figure stands motionless in a modern office, his back to us, bathed in muted light filtering through towering glass windows. The setting is familiar—an executive suite high above a city—but the emotional undercurrent is anything but routine.
+description: In Howard’s Hills, Ben Young captures a tender moment of his elderly father navigating the familiar hills of Appalachian Ohio—the same land where the artist was raised. Set against a quiet rural backdrop, the painting speaks to legacy, memory, and the deep connection between person and place. Both personal and universal, it reflects on aging, home, and the passage of time.
 author: Benjamin J. Young
 
-buy: Corporate Contempt is available for acquisition as the original watercolor painting or as a high-quality limited reproduction. Collectors may choose between owning the one-of-a-kind original or a museum-grade print that preserves the emotional depth and detail of the work. Both options offer a meaningful way to bring this powerful and personal piece into your collection.
+buy: Howard's Hills is available for acquisition as the original watercolor painting or as a high-quality limited reproduction. Collectors may choose between owning the one-of-a-kind original or a museum-grade print that preserves the emotional depth and detail of the work. Both options offer a meaningful way to bring this powerful and personal piece into your collection.
 
 products:
     - id: 694481795

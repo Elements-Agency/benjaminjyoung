@@ -60,6 +60,8 @@ reproductions:
 limited: 60
 
 tag: A flame glows brightest in the dark. I frequently use fire and ice as metaphors, influenced by Robert Frost’s writing. My fascination with flames shows in my youthful and curious expression. In moments of darkness, fire will illuminate our world. I will not let the cold sink into my heart, as it did the night of Snowfall. Not again. My candle’s flame may flicker, but I tend to it and refuse to let the light die out. From a small flame, you can ignite so much. Its potential should be respected, but used only with the utmost care. No matter how cold the world gets, I will not allow others to blow it out. My fire, I will guard with my life. One day, I will use it to set the rest of the world ablaze.
+
+story: /story/in-the-dark/
 ---
 
 A flame glows brightest **in the dark**. I frequently use fire and ice as metaphors, influenced by Robert Frost’s writing. My fascination with flames shows in my youthful and curious expression. In moments of darkness, fire will illuminate our world. I will not let the cold sink into my heart, as it did the night of Snowfall. Not again. My candle’s flame may flicker, but I tend to it and refuse to let the light die out. From a small flame, you can ignite so much. Its potential should be respected, but used only with the utmost care. No matter how cold the world gets, I will not allow others to blow it out. My fire, I will guard with my life. One day, I will use it to set the rest of the world ablaze.
