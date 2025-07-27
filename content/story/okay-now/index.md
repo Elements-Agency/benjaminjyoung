@@ -6,14 +6,17 @@ subtitle: Okay Now
 description: A quiet and powerful portrait, Okay Now reflects on aging, memory, and the tender farewells that come with the passage of time. Inspired by Ben Young’s experience working in a nursing home, the painting honors the emotional bonds he formed with residents and the quiet dignity of saying goodbye. With expressive realism and deep sensitivity, this piece invites the viewer to pause, reflect, and connect with the universal experience of letting go.
 author: Benjamin J. Young
 
-buy: While the original watercolor painting 'Okay Now' has been sold, limited edition reproductions are still available in various sizes. This emotionally resonant piece continues to connect with collectors, and these high-quality prints offer a meaningful way to bring its story into your own space.
+buy: While the original watercolor painting 'Okay Now' has been sold, limited edition limited reproductions are still available in various sizes. This emotionally resonant piece continues to connect with collectors, and these high-quality prints offer a meaningful way to bring its story into your own space.
 
 products:
+    - id: 710975182
+      name: Original Painting
+      price: $1000
     - id: 711193420
-      name: 9x12in Reproduction
+      name: 9x12in Limited Reproduction
       price: 60
     - id: 765476757
-      name: 18x24in Reproduction
+      name: 18x24in Limited Reproduction
       price: 200
 
 link: /artwork/okay-now/

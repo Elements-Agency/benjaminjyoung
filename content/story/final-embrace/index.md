@@ -6,17 +6,17 @@ subtitle: Final Embrace
 description: In this haunting and intimate painting, Final Embrace captures the moment of one last goodbye. Inspired by a vivid dream in which the artist embraced his late fiancée one final time, the work expresses love, grief, and closure through a powerful, wordless gesture. Set against a shadowed background, the figures dissolve into one another—timeless, suspended, and deeply human. A quiet tribute to loss and the enduring desire to hold on, even if only in a dream.
 author: Benjamin J. Young
 
-buy: Final Embrace is available for acquisition as the original oil painting or as a high-quality reproduction. Collectors may choose between owning the one-of-a-kind original or a museum-grade print that preserves the emotional depth and detail of the work. Both options offer a meaningful way to bring this powerful and personal piece into your collection.
+buy: Final Embrace is available for acquisition as the original oil painting or as a high-quality limited reproduction. Collectors may choose between owning the one-of-a-kind original or a museum-grade print that preserves the emotional depth and detail of the work. Both options offer a meaningful way to bring this powerful and personal piece into your collection.
 
 products:
     - id: 716381943
       name: Original Painting
       price: 960
     - id: 716135890
-      name: 9x12in Reproduction
+      name: 9x12in Limited Reproduction
       price: 60
     - id: 765435153
-      name: 18x24in Reproduction
+      name: 18x24in Limited Reproduction
       price: 200
 
 link: /artwork/final-embrace/

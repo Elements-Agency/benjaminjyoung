@@ -6,18 +6,18 @@ subtitle: One Last Walk With Izzy
 description: One Last Walk With Izzy is a deeply personal painting by Ben Young, created after the loss of his beloved dog, Izzy. Capturing their final walk together, the piece reflects on love, grief, and the quiet moments that stay with us forever. For collectors, it’s a tender and timeless work that speaks to the universal experience of letting go.
 author: Benjamin J. Young
 
-buy: While the original watercolor painting 'One Last Walk With Izzy' has been sold, limited edition reproductions are still available in various sizes. This emotionally resonant piece continues to connect with collectors, and these high-quality prints offer a meaningful way to bring its story into your own space.
+buy: While the original watercolor painting 'One Last Walk With Izzy' has been sold, limited edition limited reproductions are still available in various sizes. This emotionally resonant piece continues to connect with collectors, and these high-quality prints offer a meaningful way to bring its story into your own space.
 
 products:
+    - id: 708668936
+      name: Original Painting
+      price: 1200
     - id: 711216285
-      name: 9x12in Reproduction
+      name: 9x12in Limited Reproduction
       price: 60
     - id: 758199794
-      name: 18x24in Reproduction
+      name: 18x24in Limited Reproduction
       price: 200
-    - id: 758189666
-      name: 30x40in Reproduction
-      price: 400
 
 link: /artwork/one-last-walk-with-izzy/
 ---

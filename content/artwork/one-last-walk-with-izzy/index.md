@@ -53,7 +53,7 @@ products:
     - id: 708668936
       name: Original Painting
       sold: true
-      price: $840
+      price: $1200
 
 buyer: Gary Stewart (Columbus, OH)
 
