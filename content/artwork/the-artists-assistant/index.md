@@ -60,6 +60,8 @@ reproductions:
 buyer: Jocelyn Maciol (Los Angeles, CA)
 
 tag: This painting has everything you need. Cute cats, funny hats, and a dark sense of morbid humor. It features my long haired domestic black and white cat, Princess. Stuck in a scene of her by my side as I paint. Adorning my watercolor cup on her head. Her favorite Penn tennis ball resting not far away. Peering on to the cold press cotton paper watercolor block, that is painted with my late dog, Izzy, along with family. I know deep down Princess shares in my miss of Izzy. The stick figures childishly painted on the exposed cotton paper, integrated in a method of inception in to the painting. Adding to the silliness and partly dry humor.
+
+story: /story/the-artists-assistant/
 ---
 
 This painting has everything you need. Cute cats, funny hats, and a dark sense of morbid humor. It features my long haired domestic black and white cat, Princess. Stuck in a scene of her by my side as I paint. Adorning my [Faber-Castell Collapsable Water Cup](https://www.fabercastell.com/products/collapsible-water-cup-770310) on her head. Her favorite Penn tennis ball resting not far away. Peering on to the cold press cotton paper watercolor block, that is painted with my late dog, Izzy, along with family. I know deep down Princess shares in my miss of Izzy. The stick figures childishly painted on the exposed cotton paper, integrated in a method of inception in to the painting. Adding to the silliness and partly dry humor.

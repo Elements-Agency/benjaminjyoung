@@ -57,6 +57,8 @@
         {{ block "head" . }}
           {{ partial "head-additions.html" . }}
         {{ end }}
+      {{ block "styles" . }}{{ end }}
+      {{ block "scripts" . }}{{ end }}
 	</head>
 	<body class="is-preload">
 

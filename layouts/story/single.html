@@ -35,7 +35,11 @@
 
             {{ if .Params.products }}
                 <ul class="actions stacked">
-                    <li><a href="#purchase" class="button big wide smooth-scroll-middle">Purchase Artwork</a></li>
+                    <li>
+                        <a href="#purchase" class="button big wide smooth-scroll-middle"  onclick="trackInterest()">
+                            Purchase Artwork
+                        </a>
+                    </li>
                 </ul>
             {{ end }}
         </div>
@@ -59,13 +63,18 @@
                 Each piece touches on themes of loss, love, family, and resilience, often drawing from his own life, including the tragic loss of his fiancée and journey it took to overcome those emotional burdens.
                 His paintings resonate with collectors drawn to authenticity, vulnerability, and a fresh, emerging voice in American art.
             </p>
+            <h3>Newsletter Discount</h3>
             <p>
                 To learn more about artist Ben Young, his latest work, and the stories behind his paintings, we invite you to sign up for his email newsletter.
                 As a thank-you, you'll receive an exclusive <strong>20% discount</strong> on all orders.
                 Stay connected and be the first to access new releases, special offers, and behind-the-scenes insights.
             </p>
             <ul class="actions stacked">
-                <li><a href="/sign-up?drive=home" class="button big wide smooth-scroll-middle">Sign Up</a></li>
+                <li>
+                    <a href="/sign-up?driven=discount" class="button big wide smooth-scroll-middle" onclick="trackInterest()">
+                        Sign Up for Newsletter 
+                    </a>
+                </li>
             </ul>
         </div>
         <div class="image">
@@ -149,4 +158,15 @@
             {{ end }}
         </div>
     </section>
+{{ end }}
+
+{{ define "scripts" }}
+    <script type="text/javascript">
+      function trackInterest() {console.log("Tracking Interest");
+        fbq('trackCustom', 'ClickAction');
+        rdt('track', 'Custom', { customEventName: 'Click Action' });
+        pintrk('track', 'action');
+        gtag('event', 'click_action', {});
+      }
+    </script>
 {{ end }}
