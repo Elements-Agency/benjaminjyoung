@@ -30,7 +30,7 @@ Some portraits don’t just depict a person—they hold a moment. A breath. A li
 
 This painting was born from Ben’s years working in a nursing home—where daily interactions became deeply personal. Over time, he grew close to the residents in his care, bearing witness not just to their routines, but to their stories, their decline, and ultimately, their departures.
 
-> “I painted this after saying goodbye to a particular resident I had grown close to,” Ben shares. “I remember their wisdom and strength, sometimes with surrender. And how often, before I would end my day's shift, they’d say something like, ‘Okay Now’ That phrase stuck with me.”
+> “I painted this after saying goodbye to a particular resident I had grown close to,” Ben shares. “I remember their wisdom and strength, sometimes with surrender. And how often, before I would end my day's shift, they’d say, "Okay Now. I'll be seeing young." That phrase stuck with me.”
 
 That phrase, “Okay now,” became the anchor for this piece—a soft farewell, filled with farewells and grace.
 
