@@ -16,6 +16,7 @@
                 <li><a href="#more" class="button big wide smooth-scroll-middle">Learn More</a></li>
             </ul>
         </div>
+
         {{ if (.Resources.GetMatch (printf "%spainting.jpg" (replace .File.Dir "story/" ""))) }}
             <div class="image">
                 {{ $full := .Resources.GetMatch (printf "%spainting.jpg" (replace .File.Dir "story/" "")) }}
@@ -43,6 +44,7 @@
                 </ul>
             {{ end }}
         </div>
+
         {{ if (.Resources.GetMatch (printf "%sside.jpg" (replace .File.Dir "story/" ""))) }}
             <div class="image">
                 {{ $side := .Resources.GetMatch (printf "%sside.jpg" (replace .File.Dir "story/" "")) }}
@@ -63,6 +65,7 @@
                 Each piece touches on themes of loss, love, family, and resilience, often drawing from his own life, including the tragic loss of his fiancée and journey it took to overcome those emotional burdens.
                 His paintings resonate with collectors drawn to authenticity, vulnerability, and a fresh, emerging voice in American art.
             </p>
+            
             <h3>Newsletter Discount</h3>
             <p>
                 To learn more about artist Ben Young, his latest work, and the stories behind his paintings, we invite you to sign up for his email newsletter.
