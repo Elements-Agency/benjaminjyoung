@@ -8,7 +8,7 @@
 
     {{ range $posts }}
         {{ if ($.Get "col") }}<div class="col-{{ $.Get "col" }}"><span class="image fit">{{ end }}
-            <a class="thumbnail" href="{{ .RelPermalink }}">
+            <a class="thumbnail" href="{{ if .Params.story }}{{ .Params.story }}{{ else }}{{ .RelPermalink }}{{ end }}" title='{{ .Title }}'>
                 {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
                 {{ $thumbnail := $thumbnail.Fill "400x400 Center" }}
                 {{ $thumbnail := $thumbnail.Resize "400x webp q90" }}
