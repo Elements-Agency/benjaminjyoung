@@ -1,0 +1,60 @@
+{{ define "styles" }}
+    {{ partial "inside-style.html" . }}
+{{ end }}
+
+{{ define "scripts" }}
+    {{ partial "inside-scripts.html" . }}
+{{ end }}
+
+{{ define "main" }}
+  {{ $section := .Site.GetPage "section" .Section }}
+    <div id="wrapper">
+      <!-- Do NOT remove inline styles on bg below -->
+      <div class="bg fixed noprint" style='position:fixed; top:0; left:0; z-index:-1; width:100vw; height:100vh; background-color:#ddd; background-image:url("/images/background.webp"); background-size:cover; background-position:center; background-repeat:no-repeat; background-attachment:scroll;'></div>
+
+    <div class="noprint">
+        {{ block "header" . }}{{ partial "inside-header.html" .}}{{ end }}
+
+        {{ block "nav" . }}{{ partial "inside-navigation.html" .}}{{ end }}
+    </div>
+
+    <div id="main">
+        <article class="post">
+            <header class="major noprint">
+                <h1>{{ .Title }}</h1>
+            </header>
+
+            <div class="noprint">
+              {{- .Content -}}
+            </div>
+
+            <h2 class="noprint">Originals</h2>
+
+            {{ $posts := slice }}
+            {{ range .Site.RegularPages }}
+                {{ if .Params.featured }}
+                    {{ $posts = $posts | append . }}
+                {{ end }}
+            {{ end }}
+            {{ $favorites := $posts | symdiff .Data.Pages }}
+
+            <ul>
+                {{ range $favorites }}
+                    <li>
+                        {{ .Title}} -
+                        {{ title (index (.Params.mediums) 0) }} on {{ title (index (.Params.materials) 0) }},
+                        {{ .Date.Format "2006" }}.
+                        {{ .Params.size }}
+                    </li>
+                {{ end }}
+            </ul>
+
+            <br class="clear noprint">
+        </section>
+    </div>
+
+    <div class="noprint">
+        {{ block "footer" . }}{{ partialCached "inside-footer.html" . }}{{ end }}
+    </div>
+  </div>
+{{ end }}

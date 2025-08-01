@@ -42,7 +42,7 @@ products:
       name: 9x12in Reproduction
       price: $60
       limited: 60
-      left: 28
+      left: 26
       popular: true
     - id: 758199794
       name: 18x24in Reproduction
@@ -93,6 +93,7 @@ reproductions:
     - 31: Nicolette Carnevale (Flemington, NJ)
     - 32: Catherine Lawrence (Grand Rapids, MI)
     - 33: Eric Anderson (Jackson, WY)
+    - 34: Steven Plank (Oberlin, OH)
   - 18x24in:
     - 1: Ben Young (East Sparta, OH)
     - 2: Susan Lehman (Jupiter, FL)

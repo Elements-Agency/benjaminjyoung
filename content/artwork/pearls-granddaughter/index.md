@@ -9,7 +9,7 @@ aliases: [/pearls-granddaughter]
 images: ['painting.jpg']
 videos: []
 
-featured: true
+subfeatured: true
 order: 6
 ratio: portrait
 power: 61
