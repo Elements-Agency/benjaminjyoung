@@ -1,4 +1,8 @@
 {{ define "main" }}
+    {{ $full := .Resources.GetMatch (printf "%spainting.jpg" (replace .File.Dir "story/" "")) }}
+    {{ if $full}}
+        {{ $full := $full.Fit "1600x1600 webp q96" }}
+    {{ end }}
     <section class="banner onload-image-fade-in onload-content-fade-right style1 content-align-left image-position-center - orient-right">
         <div class="content">
             <div class="logo align-center">
@@ -12,16 +16,20 @@
             <p class="major">
                 {{- .Summary -}}
             </p>
-            <ul class="actions stacked align-center">
+            <ul class="actions special">
+                {{ if $full }}
+                    <li class="gallery lightbox">
+                        <a href="{{ $full.RelPermalink }}" class="button big wide">
+                            View Painting
+                        </a>
+                    </li>
+                {{ end }}
                 <li><a href="#more" class="button big wide smooth-scroll-middle">Learn More</a></li>
             </ul>
         </div>
 
-        {{ if (.Resources.GetMatch (printf "%spainting.jpg" (replace .File.Dir "story/" ""))) }}
+        {{ if $full }}
             <div class="image">
-                {{ $full := .Resources.GetMatch (printf "%spainting.jpg" (replace .File.Dir "story/" "")) }}
-                {{ $full := $full.Fit "1600x1600 webp q94" }}
-                
                 <img src="{{ $full.RelPermalink }}" alt="{{ .Params.subtitle }}" />
             </div>
         {{ end }}
@@ -34,21 +42,22 @@
                 {{- replace .Content .Summary "" | safeHTML -}}
             </p>
 
-            {{ if .Params.products }}
-                <ul class="actions stacked">
+            
+            <ul class="actions">
+                {{ if .Params.products }}
                     <li>
-                        <a href="#purchase" class="button big wide smooth-scroll-middle"  onclick="trackInterest()">
+                        <a href="#purchase" class="button big wide smooth-scroll" onclick="trackInterest()">
                             Purchase Artwork
                         </a>
                     </li>
-                </ul>
-            {{ end }}
+                {{ end }}
+            </ul>
         </div>
 
         {{ if (.Resources.GetMatch (printf "%sside.jpg" (replace .File.Dir "story/" ""))) }}
             <div class="image">
                 {{ $side := .Resources.GetMatch (printf "%sside.jpg" (replace .File.Dir "story/" "")) }}
-                {{ $side := $side.Fit "800x800 webp q86" }}
+                {{ $side := $side.Fit "1024x1024 webp q90" }}
 
                 <img src="{{ $side.RelPermalink }}" alt="">
             </div>
@@ -74,7 +83,7 @@
             </p>
             <ul class="actions stacked">
                 <li>
-                    <a href="/sign-up?driven=discount&artwork={{ .Params.subtitle }}" class="button big wide smooth-scroll-middle" onclick="trackInterest()">
+                    <a href="/sign-up?driven=discount&artwork={{ .Params.subtitle }}" class="button big wide" onclick="trackInterest()">
                         Sign Up for Newsletter 
                     </a>
                 </li>
@@ -86,9 +95,9 @@
     </section>
 
     {{ if .Params.products }}
-        <section id="purchase" class="wrapper style1 align-center">
+        <section class="wrapper style1 align-center">
             <div class="inner">
-                <h2>Purchase Artwork</h2>
+                <h2 id="purchase">Purchase Artwork</h2>
                 <p>{{- .Params.buy -}}</p>
 
                 <p class="center">
@@ -139,6 +148,112 @@
                 </p>
             </div>
         </section>
+
+        <section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in">
+            <div class="content">
+                <h2>Commitment to Quality</h2>
+                <p>
+                    I take the quality of my artwork—both original pieces and limited reproductions—very seriously.
+                    Every piece is created and produced with a long-term collector in mind.
+                    Whether you're purchasing an original or a reproduction, I ensure that all materials meet archival standards, so your investment will stand the test of time.
+                    My reproductions are produced to meet giclée-quality standards for exceptional fidelity and durability.
+                </p>
+
+                <h3>Limited Reproductions Feature:</h3>
+                <ul>
+                    <li>Printed on <strong>high-quality archival fine art paper</strong></li>
+                    <li>Produced using archival pigment-based inks for <strong>long-lasting color</strong></li>
+                    <li>Created to meet <strong>giclée printing standards</strong> for color density, detail, and accuracy</li>
+                    <li>Frame options are professionally <strong>custom built</strong> and archival safe, with <strong>non-glare acrylic</strong>.</li>
+                    <li>Each limited reproduction comes with a numbered <strong>Certificate of Authenticity</strong></strong></li>
+                </ul>
+
+                <h3>Original Artwork Quality:</h3>
+                <ul>
+                    <li>Painted with <strong>professional-grade artist materials</strong> (watercolors or oils)</li>
+                    <li>All surfaces and mediums are <strong>archival and acid-free</strong></li>
+                    <li>Framing is done to archival standards, using conservation-quality mats, backing, and UV-protective glazing when applicable</li>
+                    <li>Every original is designed and finished with <strong>museum-level care</strong> and craftsmanship</li>
+                </ul>
+
+                <ul class="actions stacked">
+                    <li>
+                        <a href="#purchase" class="button big wide smooth-scroll"  onclick="trackInterest()">
+                            View Products
+                        </a>
+                    </li>
+                </ul>
+            </div>
+
+            {{ if (.Resources.GetMatch (printf "%sdisplay.jpg" (replace .File.Dir "story/" ""))) }}
+                <div class="image">
+                    {{ $side := .Resources.GetMatch (printf "%sdisplay.jpg" (replace .File.Dir "story/" "")) }}
+                    {{ $side := $side.Fit "1024x1024 webp q96" }}
+
+                    <img src="{{ $side.RelPermalink }}" alt="">
+                </div>
+            {{ end }}
+        </section>
+
+        <section class="spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in">
+            <div class="content">
+                <h2>What Collectors Are Saying</h2>
+                <p>
+                    Hear directly from those who have welcomed my work into their homes.
+                    These heartfelt testimonials reflect the emotional connection, quality, and meaning that collectors have found in each piece.
+                </p>
+
+                <dl>
+                    <dd>
+                        It got here safe and sound as it was very nicely packaged.
+                        It's matted, framed and on the wall.
+                        We love it!
+                    </dd>
+                    <dt>Dave K., Michigan</dt>
+
+                    <dd>
+                        I’m very pleased with the Painting looks good in the office.
+                        I will give him a five star rating!
+                    </dd>
+                    <dt>Victor M., Ohio</dt>
+
+                    <dd>
+                        Beautiful painting.
+                        Great communication and parcel arrived in a timely fashion, thoughtfully packaged.
+                    </dd>
+                    <dt>Mark D., Virginia</dt>
+
+                    <dd>
+                        The painting arrived safe and sound...
+                        I have already found just the right place for maximum enjoyment...
+                        Thanks for the very quick and secure shipping!
+                    </dd>
+                    <dt>Gary S., Ohio</dt>
+                </dl>
+
+                <ul class="actions special">
+                    <li>
+                        <a href="#purchase" class="button big wide smooth-scroll"  onclick="trackInterest()">
+                            Collect Now
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/sign-up?driven=quality&artwork={{ .Params.subtitle }}" class="button" onclick="trackInterest()">
+                            Get Discount
+                        </a>
+                    </li>
+                </ul>
+            </div>
+
+            {{ if (.Resources.GetMatch (printf "%scustomer.jpg" (replace .File.Dir "story/" ""))) }}
+                <div class="image">
+                    {{ $side := .Resources.GetMatch (printf "%scustomer.jpg" (replace .File.Dir "story/" "")) }}
+                    {{ $side := $side.Fit "800x800 webp q86" }}
+
+                    <img src="{{ $side.RelPermalink }}" alt="">
+                </div>
+            {{ end }}
+        </section>
     {{ end }}
 
     {{ if .Params.link }}
@@ -148,10 +263,26 @@
                 <p>
                     If you would like to learn more about the inspiration behind this piece, explore the background story, view the creative process, and access additional details, please visit the link below:
                 </p>
-                <ul class="actions stacked">
+                <ul class="actions special">
                     <li><a href="{{ .Params.link }}" class="button">Learn More</a></li>
+                    <li>
+                        <a href="/sign-up?driven=quality&artwork={{ .Params.subtitle }}" class="button" onclick="trackInterest()">
+                            Subscribe to  Newsletter 
+                        </a>
+                    </li>
                 </ul>
             </div>
+
+
+
+            {{ if (.Resources.GetMatch (printf "%scollector.jpg" (replace .File.Dir "story/" ""))) }}
+                <div class="image">
+                    {{ $side := .Resources.GetMatch (printf "%scollector.jpg" (replace .File.Dir "story/" "")) }}
+                    {{ $side := $side.Fit "800x800 webp q86" }}
+
+                    <img src="{{ $side.RelPermalink }}" alt="">
+                </div>
+            {{ end }}
         </section>
     {{ end }}
 
