@@ -114,7 +114,7 @@
                                     {{ $thumbnailsm := $thumbnailsm.Resize "210x webp q90" }}
 
                                     <article>
-                                        <a href="{{ if .Params.story }}{{ .Params.story }}{{ else }}{{ .RelPermalink }}{{ end }}" class="image">
+                                        <a href="{{ .RelPermalink }}" class="image">
                                             <img src="{{ $thumbnailsm.RelPermalink }}"
 											srcset="{{ $thumbnailsm.RelPermalink }} 210w, {{ $thumbnail.RelPermalink }} 420w"
 											loading="lazy"

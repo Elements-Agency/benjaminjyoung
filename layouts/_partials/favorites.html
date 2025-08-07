@@ -11,7 +11,7 @@
         {{ range first 6 $favorites }}
             <div class="col-2">
                 <span class="image fit">
-                    <a class="thumbnail" href="{{if .Params.story }}{{ .Params.story }}{{ else }}{{ .RelPermalink }}{{ end }}" title='{{ .Title }}'>
+                    <a class="thumbnail" href="{{ .RelPermalink }}" title='{{ .Title }}'>
                         {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
                         {{ $thumbnail := $thumbnail.Fill "300x300 Center" }}
                         {{ $thumbnail := $thumbnail.Resize "300x webp q90" }}
