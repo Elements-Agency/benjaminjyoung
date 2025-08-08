@@ -2,10 +2,10 @@
 date: 2025-08-05
 title: Late Grand Opening, August Newsletter
 description: Lots to go over in August.
-preview_image: masslib.jpg
-preview_alt: Massillon Public Library
+preview_image: smoa.jpg
+preview_alt: Springfield Museum of Art
 images:
-    - masslib.jpg
+    - smoa.jpg
 ---
 
 I have been holding off on being too public or opening [my new studio space](/contact). I needed time for myself to withdraw from the youth-filled local art scene and feel more at peace with my own company. I have been holding off on exhibits and being too public with any presence. However, with a supportive and loving partner by my side, I have found enough warmth not to continue to avoid the cold of the world.
