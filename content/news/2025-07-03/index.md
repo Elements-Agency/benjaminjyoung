@@ -1,7 +1,7 @@
 ---
 date: 2025-07-03
 title: July Sales and Newsletter
-description: No new work is completed, but I have lots of other news.
+description: One new work and the Massillon Public Library exhibit are complete.
 preview_image: masslib.jpg
 preview_alt: Massillon Public Library
 images:
