@@ -13,7 +13,7 @@ featured: true
 order: 10
 ratio: landscape
 power: 459
-sold: 2
+sold: 4
 favorite: true
 
 supplies:
@@ -46,12 +46,13 @@ products:
     - id: 734463429
       name: Limited Reproduction
       price: $50
-      left: 57
+      left: 56
 
 reproductions:
   - 1: Ben Young (East Sparta, OH)
   - 2: Victor Moore (Canton, OH)
   - 3: Reserved
+  - 4: Drake Danner (Boston, MA)
 
 limited: 60
 
