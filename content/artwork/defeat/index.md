@@ -55,8 +55,9 @@ products:
 buyer: Gary Stewart (Columbus, OH)
 
 reproductions:
-  - 1: Ben Young (East Sparta, OH)
-  - 2: Reserved
+  - 9x12in:
+    - 1: Ben Young (East Sparta, OH)
+    - 2: Reserved
 
 limited: 60
 

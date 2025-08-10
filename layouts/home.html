@@ -87,10 +87,36 @@
 
 					<section class="wrapper style1 align-center">
                         <div id="gallery" class="inner">
+							{{ $homeCount := 0 }}
+							{{ $originalsCount := 0 }}
+							{{ $reproductionsCount := 0 }}
+
+							{{ $mainSections := .Site.Params.mainSections | default (slice "post") }}
+                            {{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
+                            {{ range $i,$p := $section }}
+								{{ if eq .Params.status "sold" }}
+									{{ $homeCount = add $homeCount 1 }}
+									{{ $originalsCount = add $originalsCount 1 }}
+								{{ end }}
+
+								{{ if .Params.reproductions }}
+									{{ range $index, $container := .Params.reproductions }}
+										{{ range $size, $collection := $container }}
+											{{ range $j, $buyers := $collection }}
+												{{ range $k, $buyer := $buyers }}
+													{{ $homeCount = add $homeCount 1 }}
+													{{ $reproductionsCount = add $reproductionsCount 1 }}
+												{{ end}}
+											{{ end }}
+										{{ end }}
+									{{ end }}
+								{{ end }}
+							{{ end }}
+
 						    <h2 class="strong">Featured Artwork</h2>
 							<p>
 								An newly emerging artist, with only less than 2 years of painting, Young's work has been featured in <a href="/about#exhibitions">17 exhibits, 14 art galleries, and 2 museums</a>.
-								With his artwork being collected and displayed in <u>over 116 homes</u> around the world.
+								With his artwork being collected and displayed in <u>over {{ $homeCount }} homes</u> around the world.
 								<br>
 								<br>
 								Click on any artwork below to explore more information:
@@ -173,11 +199,11 @@
 							{{ $thumbnail := $thumbnail.Resize "500x webp" }}
 
 							{{ with $thumbnail }}
-							<div class="image">
-								<a href="{{ $.RelPermalink }}">
-								<img src="{{ .RelPermalink }}" alt="{{ $.Params.alt }}" title='{{ $.Title }} ({{ $.Date| time.Format "2006" }}) by Ben Young' />
-								</a>
-							</div>
+								<div class="image">
+									<a href="{{ $.RelPermalink }}">
+									<img src="{{ .RelPermalink }}" alt="{{ $.Params.alt }}" title='{{ $.Title }} ({{ $.Date| time.Format "2006" }}) by Ben Young' />
+									</a>
+								</div>
 							{{ end }}
 						{{ end }}
 					</section>

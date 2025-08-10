@@ -57,9 +57,10 @@ products:
 
 limited: 60
 reproductions:
-  - 1: Ben Young (East Sparta, OH)
-  - 2: Johnathan Becker (Artober. Massillon, OH)
-  - 3: Reserved
+  - 9x12in:
+    - 1: Ben Young (East Sparta, OH)
+    - 2: Johnathan Becker (Artober. Massillon, OH)
+    - 3: Reserved
 
 tag: She tied you to the kitchen chair. She broke your throne, and she cut your hair. And from your lips she drew the Hallelujah! - The man, is myself, when my hair was longer and wild with curls. A time when I was younger. The framing design displays a moment between myself and the woman that is focused and touches briefly on the duality of emotions seeing this painting evokes in me. Much like the meaning and interpretation of the song.
 ---

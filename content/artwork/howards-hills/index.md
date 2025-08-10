@@ -52,11 +52,12 @@ products:
 
 limited: 60
 reproductions:
-  - 1: Ben Young (East Sparta, OH)
-  - 2: Artober (Massillon, OH)
-  - 3: Debra Mee (Raleigh, NC)
-  - 4: John Schnabel (Marion, OH)
-  - 5: Reserved
+  - 9x12in:
+    - 1: Ben Young (East Sparta, OH)
+    - 2: Artober (Massillon, OH)
+    - 3: Debra Mee (Raleigh, NC)
+    - 4: John Schnabel (Marion, OH)
+    - 5: Reserved
 
 tag: This painting features an Appalachia landscape, very similar to the rolling hills I grew up in. The house is inspired by a lot of the old farmhouses that were still standing during my childhood but in need of repairs. The man is based off my elderly father, hiking his way across our family farm land.
 
