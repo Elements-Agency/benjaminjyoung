@@ -56,6 +56,7 @@ reproductions:
   - 1: Ben Young (East Sparta, OH)
   - 2: Steph Sweany (Canton, OH)
   - 3: Canton Comedy Boom (Canton, OH)
+  - 4: Reserved
 
 buyer: Jocelyn Maciol (Los Angeles, CA)
 

@@ -46,7 +46,7 @@ products:
     - id: 726369026
       name: Limited Reproduction
       price: $50
-      left: 59
+      left: 58
     - id: 734461977
       name: Original Painting
       price: $580
@@ -56,6 +56,7 @@ buyer: Gary Stewart (Columbus, OH)
 
 reproductions:
   - 1: Ben Young (East Sparta, OH)
+  - 2: Reserved
 
 limited: 60
 
