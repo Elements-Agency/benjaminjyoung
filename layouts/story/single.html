@@ -6,7 +6,7 @@
     <section class="banner style1 content-align-left image-position-center - orient-right">
         <div class="content">
             <div class="logo align-center">
-                <a href="/">
+                <a href="/" aria-label="Home Page">
                     <img src="/images/logo.webp" title="Artist Ben Young" alt="Artist Ben Young">
                 </a>
                 <h1>
@@ -29,8 +29,10 @@
         </div>
 
         {{ if $full }}
+            {{ $medium := $full.Fit "1200x1200 webp q96" }}
+            {{ $small := $full.Fit "600x600 webp q96" }}
             <div class="image">
-                <img src="{{ $full.RelPermalink }}" alt="{{ .Params.subtitle }}" />
+                <img src="{{ $small.RelPermalink }}" fetchpriority="high"  srcset="{{ $small.RelPermalink }} 500w, {{ $medium.RelPermalink }} 1000w, {{ $full.RelPermalink }} 1500w" alt="{{ .Params.subtitle }}" />
             </div>
         {{ end }}
     </section>
