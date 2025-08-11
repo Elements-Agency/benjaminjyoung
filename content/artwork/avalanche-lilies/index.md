@@ -31,7 +31,7 @@ materials: [paper]
 colors: [yellow, brown, white, green]
 collections: [lilies, reserved, timeline, landscapes]
 locations: [kolp, kolps gallery, print]
-tags: [avalanche, mountain, field, snow, grass, flower, lily, petal, leaf, rock, warm, outside, autumn, andrea, number two]
+tags: [avalanche, mountain, field, snow, grass, flower, lily, petal, leaf, rock, warm, outside, autumn, aj, number two]
 
 inventory:
   - kolp: idk - current

@@ -27,7 +27,7 @@ materials: [paper]
 colors: [black, white]
 collections: [lilies, drawings, reserved]
 locations: [home]
-tags: [lily, flower, spring, day, andrea, number two]
+tags: [lily, flower, spring, day, aj, number two]
 
 inventory:
   - home: 2023-12-17 - current

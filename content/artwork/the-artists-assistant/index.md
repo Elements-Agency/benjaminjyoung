@@ -30,7 +30,7 @@ materials: [cotton paper]
 colors: [black, blue, green]
 collections: [timeline, animals]
 locations: [sold, print]
-tags: [princess, cat, pet, cup, hat, head, brush, stick figure, tennis, ball, inception, humor, funny, lighthearted, childish, morbid, foreshadowing, loss, ben, andrea, marcus, audrey, izzy, indoors, warm, number two]
+tags: [princess, cat, pet, cup, hat, head, brush, stick figure, tennis, ball, inception, humor, funny, lighthearted, childish, morbid, foreshadowing, loss, ben, aj, marcus, audrey, izzy, indoors, warm, number two]
 
 inventory:
   - buyer: idk

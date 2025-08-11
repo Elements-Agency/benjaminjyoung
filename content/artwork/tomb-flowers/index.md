@@ -26,7 +26,7 @@ materials: [paper]
 colors: [white, blue, green]
 collections: [lilies, reserved]
 locations: [sold]
-tags: [lily, flower, tomb, resting, andrea, aj, andrea, surreal, spring, cool, loss, number two]
+tags: [lily, flower, tomb, resting, aj, surreal, spring, cool, loss, number two]
 
 inventory:
   - buyer: 2025-04-12
