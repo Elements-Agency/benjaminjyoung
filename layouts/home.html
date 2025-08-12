@@ -57,6 +57,35 @@
         {{ block "head" . }}
           {{ partial "head-additions.html" . }}
         {{ end }}
+
+		<script type="application/ld+json">
+		{
+		"@context": "https://schema.org",
+		"@type": "Event",
+		"name": "Late Grand Opening - Ben Young's Art Studio at Kolp's Attic",
+		"startDate": "2025-09-05T16:00-05:00",
+		"endDate": "2025-07-21T20:00-05:00",
+		"eventStatus": "https://schema.org/EventScheduled",
+		"location": {
+			"@type": "Place",
+			"name": "Ben Young Arts",
+			"address": {
+			"@type": "PostalAddress",
+			"streetAddress": "318 Cleveland Ave NW Studio #220",
+			"addressLocality": "Canton",
+			"postalCode": "44702",
+			"addressRegion": "OH",
+			"addressCountry": "US"
+			}
+		},
+		"description": "After much hesitation, I’m finally making it official — I’ve quietly moved into a new creative space, and it’s time to celebrate. I'm officially and publicly opening my doors again.",
+		"organizer": {
+			"@type": "Organization",
+			"name": "Ben Young Arts",
+			"url": "https://benjaminjyoung.com"
+		}
+		}
+		</script>
 	</head>
 	<body class="is-preload">
 
