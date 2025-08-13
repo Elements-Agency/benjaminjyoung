@@ -29,7 +29,7 @@ My featured work is a deeply personal narration of my own life—told not throug
   * **Honorable Mention** at [Flora](https://www.whiterabbitgalleries.org/event-details/flora-3rd-annual-juried-exhibition-2025-01-17-16-00) for [Avalanche Lilies](/artwork/avalanche-lilies).
   * **Featured Artist** Friday for [ActLoCLE](https://www.actlocle.org/).
   * **Honorable Mention** at [Door 2 Art Show](https://www.door2art.com/artshow) for [Hallelujah](/artwork/hallelujah).
-  * **Featured Artist** for [Massillon Community Arts Council](https://www.starkcjis.org/#/case/detail/CPC/2024JG05492).
+  * **Featured Artist** for Massillon Community Arts Council.
 
 ### Exhibitions ###
 
@@ -47,13 +47,13 @@ My featured work is a deeply personal narration of my own life—told not throug
     * **JURIED** [Artists of Rubber City Exhibit](https://www.summitartspace.org/aorc-juried-exhibition-2025/) hosted at [Summit Artspace](https://www.summitartspace.org) in Akron, Ohio.
     * **SOLO** Resident Artist Display at [Massillon Public Library](https://www.massillonlibrary.org) in Massillon, Ohio.
   * 2024
-    * **BENEFIT** Patina First Fundraiser hosted at [Patina Arts Centre](https://www.starkcjis.org/#/case/detail/CMC/2023CVF05247) in Canton, Ohio.
+    * **BENEFIT** Patina First Fundraiser hosted at Patina Arts Centre in Canton, Ohio.
     * **JURIED**  [Brown's Town](https://paulbrownmuseum.org/exhibits/detail/browns-town-art-inspired-by-ohios-football-heritage) hosted at [Massillon Museum](http://massillonmuseum.org/) in Massillon, Ohio.
-    * **GROUP** Wings and Whimsy hosted at [Patina Arts Centre](https://www.starkcjis.org/#/case/detail/CMC/2023CVF05247) in Canton, Ohio.
+    * **GROUP** Wings and Whimsy hosted at Patina Arts Centre in Canton, Ohio.
     * **JURIED**  [Rod Meadows Art Call](https://www.juilliardartscenter.com/ron-meadows-art-call-2024.html) hosted at [Juilliard Arts Center](https://www.juilliardartscenter.com) in Canton, Ohio.
     * **JURIED**  [ActLoCLE Exhibit](https://www.actlocle.org/) hosted Online for the Cleveland Ohio area.
     * **GROUP** [The Art of Toys Exhibit](https://www.facebook.com/events/886574973454122) hosted at [BZTAT Studios](http://bztatstudios.com) in Canton, Ohio.
-    * **GROUP** Resident Artist Showcase hosted at [Patina Arts Centre](https://www.starkcjis.org/#/case/detail/CMC/2023CVF05247) in Canton, Ohio.
+    * **GROUP** Resident Artist Showcase hosted at Patina Arts Centre in Canton, Ohio.
 
 
 {{< button class="fit" text="Contact Artist" href="/contact" >}}

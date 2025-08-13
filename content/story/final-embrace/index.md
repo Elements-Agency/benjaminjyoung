@@ -1,39 +1,38 @@
 ---
 order: 4
 date: 2024-12-20
-title: A Dream of Love, Loss, and One Last Goodbye
-subtitle: Final Embrace
-description: In this haunting and intimate painting, Final Embrace captures the moment of one last goodbye. Inspired by a vivid dream in which the artist embraced his late fiancée one final time, the work expresses love, grief, and closure through a powerful, wordless gesture. Set against a shadowed background, the figures dissolve into one another—timeless, suspended, and deeply human. A quiet tribute to loss and the enduring desire to hold on, even if only in a dream.
+title: Final Embrace
+subtitle: A Dream of Love, Loss, and One Last Goodbye
+description: Final Embrace is an oil painting inspired by a dream I had while slipping into darkness after a suicidal overdose, where my late fiancée, Andrea, held me in a loving, forgiving embrace. Connected to my watercolor Dying in a Snowfall, it captures not the cold surrender of death, but the warmth of a love so deep it reaches beyond it.
 author: Benjamin J. Young
 
 buy: Final Embrace is available for acquisition as the original oil painting or as a high-quality limited reproduction. Collectors may choose between owning the one-of-a-kind original or a museum-grade print that preserves the emotional depth and detail of the work. Both options offer a meaningful way to bring this powerful and personal piece into your collection.
 
 products:
     - id: 716381943
-      name: Original Painting
-      price: 960
+      name: Original Oil Painting
     - id: 716135890
       name: 9x12in Limited Reproduction
-      price: 60
+      left: 55
+      total: 60
     - id: 765435153
       name: 18x24in Limited Reproduction
-      price: 200
+      left: 29
+      total: 30
 
 link: /artwork/final-embrace/
 ---
 
-There are moments in life that never let go of us. And sometimes—if we’re lucky—they return for just a breath more.
-
-**Ben Young’s** painting ___Final Embrace___ was born from such a moment: a past vivid dream in which he was given the chance to embrace his late fiancée one last time. In the dream, no words were spoken. There was only warmth. Contact. Closure. A final goodbye that real life had never allowed.
+Final Embrace is the most vulnerable painting I’ve ever created. It’s born from a dream — or perhaps a memory — that came to me on the edge of life itself.
 
 <!--more-->
 
-> “In the dream, I held her and knew it was the end,” Ben shares. “But in that moment, I felt peace—like everything left unsaid had finally been understood.”
+Years ago, I attempted to take my own life. As the darkness began to close in from a suicidal overdose, I dreamed of AJ, my late fiancée. In that dream, she found me. She pulled me into her arms with a tenderness that felt real enough to dissolve every ounce of pain I had been carrying. It was not a goodbye. It was an understanding. From the six long years of suffering I had put myself through, missing her.
 
-The painting captures that experience in haunting, emotional clarity. A man and woman cling to each other in the shadows, faces buried, arms entwined, the outside world slipping away. The background is nearly black—absorbing, endless—placing the focus entirely on the embrace, where time feels suspended.
+This painting is directly connected to my watercolor [Dying in a Snowfall](/story/dying-in-a-snowfall), a piece that explores that same moment of slipping away — only here, the focus is not on the cold surrender of death, but on the warmth and bittersweet peace of her embrace.
 
-This piece is not just a tribute to personal loss; it is a portrait of what grief longs for most: just one more moment.
+Before I ever picked up a brush, I wrote a short story about that dream. Years later, when I painted Final Embrace, I realized the story had been waiting for this canvas all along:
 
-For collectors who value narrative, vulnerability, and art that leaves an imprint, Final Embrace is a singular piece. It is not simply about letting go—it’s about the love that remains after we do.
+> “You’ve grown tired, have’t you dear?”, she reassured. “It was too difficult. I’m so sorry. I failed you”, was my excuse. My stature felt different, like the weighing years had melted off and I was almost floating. She snuck in closer and whispered in my ear with her arms wrapped around me, “I understand. It’s alright now. It’s time to rest.” “Just five more minutes? You know how much I missed this”, I pleaded like an innocent child. “I suppose. Maybe you’ll see me when you awake, but it’s a surprise”, as she somehow wrapped herself around me even more. It was just like her to say something alluring like that. A cold winter wind blew against my neck and creeped throughout the rest of my body, but it felt as though a warmth was melting me asleep. My eyes grew heavy as my head dropped on to her soft shoulder. It was becoming too difficult to fight to stay awake, but I was already asleep. I expelled my last bit of energy to muster up one last, “I really missed you.” Finally closing my eyelids and letting go, drifting off. Was this really her loving hug again, after all these years? Or was this just me, making the rounds in my head, to embrace death?
 
-Because some goodbyes only happen in dreams. And even there, they still matter.
+The attempt was a mistake I would regret, but that moment would change something in me entirely. From that moment, I made a promise. Instead of living in misery from the loss of AJ, like the six years before that moment, I would try to live the next 60 years to honor her and make her proud.

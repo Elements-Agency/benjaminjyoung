@@ -24,6 +24,8 @@ products:
       price: 400
       left: 9
       total: 10
+    - id: 708668936
+      name: Original Watercolor Painting
 
 link: /artwork/one-last-walk-with-izzy/
 ---
