@@ -18,7 +18,7 @@ My favorite painting completed this past month was [Howard's Hills](/artwork/how
     {{< preview col="6" painting="/artwork/howards-hills/" >}}
 {{< row-end >}}
 
-I also setup a tent at the [Massillon Community Art Council's](https://massillonarts.com) - [Artoberfest event](https://massillonarts.com/index.php/2024-artoberfest/).
+I also setup a tent at the Massillon Community Art Council's - Artoberfest event.
 
 {{< img span="image fit" src="artoberfest.jpg" alt="Massillon Community Art Council Artoberfest" title="Massillon Community Art Council Artoberfest" >}}
 

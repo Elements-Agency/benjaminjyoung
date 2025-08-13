@@ -75,3 +75,7 @@ The inspiration for this painting will be expanded upon at a future date, but it
 Another large watercolor work. Always working in layers upon layers with watercolor.
 
 {{< progress >}}
+
+## Accolades ##
+
+* Featured in the [Stark County Bar Association's](https://starkctybar.com) Law in Art Exhibit hosted at [Cyrus Custom Framing & Art Gallery](https://www.cyruscustom.com).

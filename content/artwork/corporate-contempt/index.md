@@ -81,3 +81,4 @@ Another large watercolor work. Always working in layers upon layers with waterco
 ## Accolades ##
 
 * Featured in the [2025 Artists of Rubber City Exhibit](https://www.summitartspace.org/aorc-juried-exhibition-2025/) hosted at [Summit Artspace](https://www.summitartspace.org).
+* Featured in the [Stark County Bar Association's](https://starkctybar.com) Law in Art Exhibit hosted at [Cyrus Custom Framing & Art Gallery](https://www.cyruscustom.com).

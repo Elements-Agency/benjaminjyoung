@@ -19,7 +19,7 @@ The first big thing... The completion of what I consider my first "masterpiece",
     {{< img col="6" link="/artwork/hallelujah/" src="livepainting.jpg" alt="Live Painting" title="Live Painting" >}}
 {{< row-end >}}
 
-I was caught on last First Friday, while supporting the [Patina Arts Centre First Fundraiser](https://www.facebook.com/events/869821251632238/), live painting this oil artwork.
+I was caught on last First Friday, while supporting the Patina Arts Centre First Fundraiser, live painting this oil artwork.
 
 On top of that, I have been getting ready for my first exhibit at [Massillon Museum](https://www.massillonmuseum.org). The **[Paul Brown Town Exhibit](https://paulbrownmuseum.org)** is currently on until January, so you can stop by and check it out.
 
