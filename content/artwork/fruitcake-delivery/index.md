@@ -5,7 +5,7 @@ description: A watercolor that paints a scene of a delivery truck and driver bri
 alt: This watercolor painting depicts a cozy winter scene of a snow-covered house warmly lit from within, as a delivery truck labeled "Fruitcake Haus" unloads boxes in the quiet evening.
 author: Benjamin J. Young
 
-aliases: [/fruitcake-delivery, /artwork/rachels-house, /arwtwork/fruitcake-delivery]
+aliases: [/fruitcake-delivery, /artwork/rachels-house, /arwtwork/fruitcake-delivery, /story/fruitcake-delivery]
 images: ['painting.jpg']
 
 featured: true

@@ -5,7 +5,7 @@ description: Circus Act is a watercolor painting of a clown standing trial, insp
 alt: A watercolor painting depicts a surreal courtroom scene where a solemn clown in red and white stripes stands at the witness stand, surrounded by grim-faced onlookers and jurors, creating a powerful contrast between absurdity and gravity.
 author: Benjamin J. Young
 
-aliases: [/circus-act, /artwork/2021CR2753]
+aliases: [/circus-act, /artwork/2021CR2753, /story/circus-act]
 images: ['painting.jpg']
 
 featured: true
