@@ -7,16 +7,14 @@ author: Benjamin J. Young
 
 aliases: [/blue-morpho-butterfly, /artwork/blue-butterfly]
 images: ['painting.jpg']
-videos: []
 
 subfeatured: true
 ratio: landscape
-power: 60
+power: 48
 
 supplies:
   - medium: Artist Loft Watercolor Paint
   - on: Baohong Hot Press Watercolor Block
-  - frame: 
 size: 10.2x7in (260x180mm)
 
 categories: [realism, animal, painting, close up]

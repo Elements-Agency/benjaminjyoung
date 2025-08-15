@@ -9,7 +9,6 @@ progress: Painted with oil paint on canvas panel. Painting part by part, instead
 
 aliases: [/massillon-helmet]
 images: ['painting.jpg']
-videos: []
 
 ratio: landscape
 

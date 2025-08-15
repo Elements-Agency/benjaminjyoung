@@ -7,7 +7,6 @@ author: Benjamin J. Young
 
 aliases: [/innocence-and-connection]
 images: ['painting.jpg']
-videos: []
 
 ratio: square
 disliked: true
@@ -15,7 +14,6 @@ disliked: true
 supplies:
   - medium: M Graham Oil Paints
   - on: Stretched Cotton Canvas
-  - frame: 
 size: 48x48in
 
 series: []

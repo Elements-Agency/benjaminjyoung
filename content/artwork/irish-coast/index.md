@@ -9,7 +9,6 @@ progress: Painted with oil pastels. I started this project quite a long time ago
 
 aliases: [/irish-coast, /artwork/ireland-coast]
 images: ['painting.jpg']
-videos: []
 
 ratio: landscape
 

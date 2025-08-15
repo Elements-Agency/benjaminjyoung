@@ -9,7 +9,6 @@ progress: Watercolor of cold press wood pulp paper, taped down. Quick and easy. 
 
 aliases: [/monochromatic-maelstorm, /artwork/monochromatic-maelstrom, /artwork/mono-chromatic-maelstorm]
 images: ['painting.jpg']
-videos: []
 
 ratio: landscape
 disliked: true
@@ -17,7 +16,6 @@ disliked: true
 supplies:
   - medium: Marie's Watercolor Paint
   - on: Artist Loft Cold Press Watercolor Paper
-  - frame: 
 size: 12x9in (30.4x22.8cm)
 
 series: [abstract]

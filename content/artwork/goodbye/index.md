@@ -9,7 +9,6 @@ progress:
 
 aliases: [/goodbye]
 images: ['painting.jpg']
-videos: []
 
 featured: false
 order: 0

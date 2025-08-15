@@ -52,8 +52,6 @@ products:
     price: $280
     sold: true
 
-limited: 10
-
 buyer: discontinued
 ---
 

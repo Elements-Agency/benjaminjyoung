@@ -6,7 +6,6 @@ alt: This painting by Ben Young is a close up watercolor painting of a nude woma
 
 aliases: [/linda-lounging]
 images: ['painting.jpg']
-videos: []
 
 ratio: landscape
 disliked: true
@@ -14,7 +13,6 @@ disliked: true
 supplies:
   - medium: M Graham Watercolor
   - on: Baohong Hot Press Watercolor Block
-  - frame: 
 size: 10.2x7in (260x180mm)
 
 series: [watercolor sketches]

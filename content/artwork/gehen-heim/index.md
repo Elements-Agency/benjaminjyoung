@@ -9,7 +9,6 @@ progress: Painted with watercolor paint on a cold press cotton watercolor block.
 
 aliases: [/gehen-heim, /artwork/going-home]
 images: ['painting.jpg']
-videos: []
 
 ratio: landscape
 

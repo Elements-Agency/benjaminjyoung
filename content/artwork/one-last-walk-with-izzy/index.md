@@ -7,19 +7,17 @@ author: Benjamin J. Young
 
 aliases: [/one-last-walk-with-izzy, /artwork/walk-with-izzy]
 images: ['painting.jpg']
-videos: []
 
 featured: true
 order: 1
 ratio: landscape
-power: 10032
+power: 3683
 sold: 36
 favorite: true
 
 supplies:
   - medium: M Graham Watercolor Paints
   - on: Baohong Cold Press Cotton Paper Block
-  - frame: 
 size: 20x14in (51x34cm)
 
 series: [shades of olson]

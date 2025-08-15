@@ -10,16 +10,14 @@ location: This was painted in reference on the pond at my Ohio home.
 
 aliases: [/lily-pad]
 images: ['painting.jpg']
-videos: []
 
 subfeatured: true
 ratio: landscape
-power: 60
+power: 134
 
 supplies:
   - medium: Artist Loft Watercolor Paint
   - on: Baohong Cold Press Watercolor Block
-  - frame: 
 size: 12.2x8.3in (310x210mm)
 
 series: [floral]

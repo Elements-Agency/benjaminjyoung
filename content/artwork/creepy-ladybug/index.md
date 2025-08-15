@@ -7,16 +7,12 @@ author: Benjamin J. Young
 
 aliases: [/creepy-ladybug]
 images: ['painting.jpg']
-videos: []
 
-subfeatured: true
 ratio: portrait
-power: 39
 
 supplies:
   - medium: M Graham Watercolor Paints
   - on: Baohong Cold Press Cotton Paper Block
-  - frame: 
 size: 12x16in (31x41cm)
 
 series: []

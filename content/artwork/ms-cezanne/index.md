@@ -16,7 +16,6 @@ ratio: portrait
 supplies:
   - medium: Faber-Castell Oil Pastels
   - on: Artist Loft Coldpress Wood Pulp Watercolor Paper
-  - frame: Michaels
 size: 9x12in (22.8x30.4cm)
 
 series: [impressionism]

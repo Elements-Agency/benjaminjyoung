@@ -8,14 +8,12 @@ progress: Painted on tiny stretched canvas with oil paint, this painting was pai
 
 aliases: [/creepy-clown, /artwork/scary-clown, /artwork/jenis-clown]
 images: ['painting.jpg']
-videos: []
 
 ratio: square
 
 supplies:
   - medium: Winsor and Newton Winton Oil
   - on: Tiny Canvas
-  - frame: 
 size: 4x4in (10.16x10.16cm)
 
 series: [close up]

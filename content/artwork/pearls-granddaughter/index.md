@@ -7,19 +7,17 @@ author: Benjamin J. Young
 
 aliases: [/pearls-granddaughter]
 images: ['painting.jpg']
-videos: []
 
 subfeatured: true
 order: 6
 ratio: portrait
-power: 3000
+power: 105
 sold: 1
 favorite: true
 
 supplies:
   - medium: M Graham Gouache Paints
   - on: Baohong Cold Press Cotton Paper Block
-  - frame: 
 size: 12x16in (31x41cm)
 
 series: []

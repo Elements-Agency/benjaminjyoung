@@ -7,7 +7,6 @@ author: Benjamin J. Young
 
 aliases: [/grisaille-whiskey-on-the-rocks, /artwork/grisaille-whiskey, /grisaille-whiskey]
 images: ['painting.jpg']
-videos: []
 
 subfeatured: true
 ratio: portrait
@@ -16,7 +15,6 @@ power: 2000
 supplies:
   - medium: M. Graham Watercolor Paint
   - on: Artist Loft Canvas Panel
-  - frame: 
 size: 14x11in (35.56cmx27.94cm)
 
 series: [still life]

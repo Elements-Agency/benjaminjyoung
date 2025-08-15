@@ -7,19 +7,17 @@ author: Benjamin J. Young
 
 aliases: [/okay-now]
 images: ['painting.jpg']
-videos: []
 
 featured: true
 order: 2
 ratio: portrait
-power: 1087
+power: 452
 sold: 8
 favorite: true
 
 supplies:
   - medium: M Graham Watercolor Paints
   - on: Baohong Cold Press Cotton Paper Block
-  - frame: 
 size: 12x16in (31x41cm)
 
 series: [shades of olson]

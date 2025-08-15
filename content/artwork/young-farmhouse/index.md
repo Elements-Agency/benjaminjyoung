@@ -17,7 +17,6 @@ disliked: true
 supplies:
   - medium: Crayola Watercolor Paint
   - on: Artist Loft Cold Press Watercolor Paper
-  - frame: Cyrus Custom Framing
 size: 12x9in (30.4x22.8cm)
 
 series: [ohio landscapes]

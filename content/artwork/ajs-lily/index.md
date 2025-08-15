@@ -9,7 +9,6 @@ progress: This was done with a graphite pencil I had on hand, drawn on spare col
 
 aliases: [/ajs-lily]
 images: ['painting.jpg']
-videos: []
 
 ratio: portrait
 disliked: true
@@ -17,7 +16,6 @@ disliked: true
 supplies:
   - medium: Graphite Pencil
   - on: Paper
-  - frame: 
 size: 
 
 series: [floral]

@@ -9,7 +9,6 @@ progress:
 
 aliases: [/show-me-what-your-looking-for, /artwork/first-glance]
 images: ['painting.jpg']
-videos: []
 
 featured: false
 order: 0

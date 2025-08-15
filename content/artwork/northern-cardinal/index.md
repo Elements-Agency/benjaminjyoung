@@ -16,7 +16,6 @@ ratio: portrait
 supplies:
   - medium: Kaloir Watercolor Pencils
   - on: Artist Loft Cold Press Watercolor Paper
-  - frame: Michaels
 size: 9x12in (22.8x30.4cm)
 
 series: [primary winter birds]

@@ -9,14 +9,12 @@ progress: The technique with the water was to stay loose, like I did with Sailin
 
 aliases: [/jennys-contemplation, /artwork/jennys-contemplation, /artwork/jenis-contemplation, /artwork/just-another-addict, /artwork/adicts-contemplation, /addicts-contemplation]
 images: ['painting.jpg']
-videos: []
 
 ratio: landscape
 
 supplies:
   - medium: Artist Loft Watercolor Paint
   - on: Baohong Cold Press Watercolor Block
-  - frame: 
 size: 14.1x10.2in (360x260mm)
 
 categories: [realism, landscape, narrative, painting]
@@ -38,8 +36,6 @@ products:
     - id: 673936559
       name: Original Painting
       price: $420
-
-limited: 10
 
 reproductions:
   - 9x12in:

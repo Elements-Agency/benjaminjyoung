@@ -13,7 +13,7 @@ videos: [https://www.instagram.com/p/C3pK2JvOevm/, https://youtube.com/shorts/TS
 
 subfeatured: true
 ratio: landscape
-power: 112
+power: 44
 
 supplies:
   - medium: Marie's Watercolor Paint
@@ -48,7 +48,6 @@ products:
 
 buyer: Fred Boone (Bolivar, OH)
 
-limited: 10
 reproductions:
   - 9x12in:
     - 1: Ben Young (East Sparta, OH)

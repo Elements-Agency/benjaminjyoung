@@ -7,12 +7,11 @@ author: Benjamin J. Young
 
 aliases: [/circus-act, /artwork/2021CR2753]
 images: ['painting.jpg']
-videos: []
 
 featured: true
 order: 3
 ratio: portrait
-power: 245
+power: 347
 sold: 2
 favorite: true
 

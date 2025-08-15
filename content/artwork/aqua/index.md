@@ -9,7 +9,6 @@ progress: This was drawn with a water soluble pencil on some cold press wood pul
 
 aliases: [/aqua]
 images: ['painting.jpg']
-videos: []
 
 ratio: portrait
 disliked: true
@@ -17,7 +16,6 @@ disliked: true
 supplies:
   - medium: Water Soluble Pencils
   - on: Cold Press Watercolor Paper
-  - frame: 
 size: 12x9in (30.48x22.86cm)
 
 categories: [realism, drawing]

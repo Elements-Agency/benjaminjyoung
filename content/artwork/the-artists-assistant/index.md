@@ -9,19 +9,17 @@ progress: I started out with just sketching values using a pencil to form the sh
 
 aliases: [/the-artists-assistant, /artwork/artists-assistant]
 images: ['painting.jpg']
-videos: []
 
 featured: true
 order: 5
 ratio: portrait
-power: 2521
+power: 506
 sold: 4
 favorite: true
 
 supplies:
   - medium: Artist Loft Watercolor Paint
   - on: Baohong Cold Press Watercolor Block
-  - frame: 
 size: 14.1x10.2in (360x260mm)
 
 categories: [realism, animal, narrative, painting]

@@ -16,7 +16,6 @@ ratio: portrait
 supplies:
   - medium: Oil Pastels
   - on: Construction Paper
-  - frame: Michaels
 size: 8x10in (20.32x25.40cm)
 
 series: [still life]

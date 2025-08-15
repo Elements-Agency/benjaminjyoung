@@ -5,16 +5,13 @@ description: A watercolor painting of a golden hour view of Mount Rainier with A
 alt: This watercolor painting depicts delicate white lilies illuminated against a rugged alpine landscape with golden grasses, shadowed mountains, and a snow-capped peak under a golden hour sky.
 author: Benjamin J. Young
 
-progress: 
-
 aliases: [/avalanche-lilies]
 images: ['painting.jpg']
-videos: []
 
 featured: true
 order: 12
 ratio: landscape
-power: 745
+power: 276
 sold: 1
 favorite: true
 

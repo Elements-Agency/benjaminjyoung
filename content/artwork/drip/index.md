@@ -9,14 +9,12 @@ progress: Using a water soluble graphite pencil on cold press watercolor wood pu
 
 aliases: [/drip]
 images: ['painting.jpg']
-videos: []
 
 ratio: landscape
 
 supplies:
   - medium: Water Soluble Pencils
   - on: Cold Press Watercolor Paper
-  - frame: 
 size: 12x9in (30.48x22.86cm)
 
 categories: [realism, drawing]

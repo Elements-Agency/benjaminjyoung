@@ -7,19 +7,17 @@ author: Benjamin J. Young
 
 aliases: [/defeat]
 images: ['painting.jpg']
-videos: []
 
 featured: true
 order: 13
 ratio: portrait
-power: 454
+power: 428
 sold: 2
 favorite: true
 
 supplies:
   - medium: M Graham Watercolor Paints
   - on: Baohong Cold Press Cotton Paper Block
-  - frame: 
 size: 12x16in (31x41cm)
 
 series: []

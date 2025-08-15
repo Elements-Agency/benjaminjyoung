@@ -9,7 +9,6 @@ progress: Drawn with watercolor pencil on cold press wood pulp watercolor paper.
 
 aliases: [/tomb-flowers, /artwork/ajs-grave-flowers]
 images: ['painting.jpg']
-videos: []
 
 ratio: portrait
 

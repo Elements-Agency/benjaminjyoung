@@ -7,14 +7,12 @@ author: Benjamin J. Young
 
 aliases: [/iris-flowers]
 images: ['painting.jpg']
-videos: []
 
 ratio: portrait
 
 supplies:
   - medium: Faber-Castell Oil Pastels
   - on: Strathmore Pastel Paper
-  - frame: 
 size: 11x14in (28x36cm)
 
 series: []

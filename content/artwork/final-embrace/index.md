@@ -7,12 +7,11 @@ author: Benjamin J. Young
 
 aliases: [/final-embrace, /artwork/embrace, /embrace]
 images: ['painting.jpg']
-videos: []
 
 featured: true
 order: 7
 ratio: portrait
-power: 1273
+power: 480
 sold: 3
 favorite: true
 

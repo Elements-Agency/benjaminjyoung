@@ -7,7 +7,6 @@ author: Benjamin J. Young
 
 aliases: [/just-out-of-reach]
 images: ['painting.jpg']
-videos: []
 
 ratio: landscape
 

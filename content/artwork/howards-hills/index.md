@@ -7,19 +7,17 @@ author: Benjamin J. Young
 
 aliases: [/howards-hills, /arwtwork/howards-hills]
 images: ['painting.jpg']
-videos: []
 
 featured: true
 order: 3
 ratio: landscape
-power: 1624
+power: 662
 sold: 5
 favorite: true
 
 supplies:
   - medium: M Graham Watercolor Paints
   - on: Baohong Cold Press Cotton Paper Block
-  - frame: 
 size: 16x12in (41x31cm)
 
 series: [shades of olson]

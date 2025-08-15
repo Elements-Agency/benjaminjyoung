@@ -9,7 +9,6 @@ progress: Done with a watercolor paint set on cold press wood pulp watercolor pa
 
 aliases: [/dyzee]
 images: ['painting.jpg']
-videos: []
 
 ratio: portrait
 disliked: true
@@ -17,7 +16,6 @@ disliked: true
 supplies:
   - medium: Marie's Watercolor Paint
   - on: Artist Loft Cold Press Watercolor Paper
-  - frame: 
 size: 9x12in (22.8x30.4cm)
 
 series: [abstract]

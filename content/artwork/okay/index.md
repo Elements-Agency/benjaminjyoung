@@ -9,7 +9,6 @@ progress: Drawn with graphite pencil on printer paper.
 
 aliases: [/okay]
 images: ['painting.jpg']
-videos: []
 
 ratio: portrait
 disliked: true
@@ -17,7 +16,6 @@ disliked: true
 supplies:
   - medium: Graphite Pencil
   - on: Printer Paper
-  - frame: 
 size: 
 
 series: [hands]

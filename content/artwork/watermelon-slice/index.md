@@ -9,15 +9,13 @@ progress: Drawn and painted wet with water and a brush, using watercolor pencils
 
 aliases: [/watermelon-slice, /artwork/standing-watermelon]
 images: ['painting.jpg']
-videos: []
 
 ratio: square
 disliked: true
 
 supplies:
   - medium: Kaloir Watercolor Pencils
-  - on: 
-  - frame: 
+  - on: Paper
 size: 
 
 categories: [realism, still life, drawing]

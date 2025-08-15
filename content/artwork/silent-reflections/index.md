@@ -9,16 +9,14 @@ progress: Painted with watercolor paint on a cold press cotton watercolor block.
 
 aliases: [/silent-reflections]
 images: ['painting.jpg']
-videos: []
 
 subfeatured: true
 ratio: landscape
-power: 78
+power: 40
 
 supplies:
   - medium: Artist Loft Watercolor Paint
   - on: Baohong Cold Press Watercolor Block
-  - frame: Michaels
 size: 16.1x12.2in (410x320mm)
 
 series: [seascape]

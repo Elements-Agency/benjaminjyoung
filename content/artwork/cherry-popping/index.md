@@ -9,14 +9,12 @@ progress: This was painted using Oil Paint on Canvas Panel. I used layering to p
 
 aliases: [/cherry-popping]
 images: ['painting.jpg']
-videos: []
 
 ratio: square
 
 supplies:
   - medium: Winsor & Newton Winton Oil
   - on: Artist Loft Canvas Panel
-  - frame: Michaels
 size: 14x11in (35.56cmx27.94cm)
 
 series: [still life]

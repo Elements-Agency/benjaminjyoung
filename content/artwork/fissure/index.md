@@ -9,7 +9,6 @@ progress: The painting was quick and dirty. Pretty simple. The expression only l
 
 aliases: [/fissure]
 images: ['painting.jpg']
-videos: []
 
 ratio: landscape
 disliked: true
@@ -17,7 +16,6 @@ disliked: true
 supplies:
   - medium: Marie's Watercolor Paint
   - on: Baohong Cold Press Watercolor Block
-  - frame: 
 size: 
 
 series: [abstract]

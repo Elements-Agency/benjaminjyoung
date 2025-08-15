@@ -10,7 +10,6 @@ location: This scene takes place in Massillon Ohio, at the Massillon Washington 
 
 aliases: [/artwork/towniest-towns-football, /massillon-52]
 images: ['painting.jpg']
-videos: []
 
 ratio: landscape
 

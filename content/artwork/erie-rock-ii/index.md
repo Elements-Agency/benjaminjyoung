@@ -7,11 +7,10 @@ author: Benjamin J. Young
 
 aliases: [/erie-rock-ii]
 images: ['painting.jpg']
-videos: []
 
 subfeatured: true
 ratio: portrait
-power: 176
+power: 75
 
 supplies:
   - medium: Artist Loft Paint

@@ -7,12 +7,11 @@ author: Benjamin J. Young
 
 aliases: [/in-the-dark]
 images: ['painting.jpg']
-videos: []
 
 featured: true
 order: 4
 ratio: portrait
-power: 325
+power: 372
 sold: 3
 favorite: true
 

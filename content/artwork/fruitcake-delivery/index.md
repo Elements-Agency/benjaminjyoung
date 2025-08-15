@@ -7,19 +7,17 @@ author: Benjamin J. Young
 
 aliases: [/fruitcake-delivery, /artwork/rachels-house, /arwtwork/fruitcake-delivery]
 images: ['painting.jpg']
-videos: []
 
 featured: true
 order: 11
 ratio: landscape
-power: 431
+power: 299
 sold: 2
 favorite: true
 
 supplies:
   - medium: M Graham Watercolor Paints
   - on: Baohong Cold Press Cotton Paper Block
-  - frame: 
 size: 16x12in (41x31cm)
 
 series: []

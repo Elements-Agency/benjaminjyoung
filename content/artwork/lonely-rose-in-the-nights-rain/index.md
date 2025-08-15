@@ -7,16 +7,14 @@ author: Benjamin J. Young
 
 aliases: [/lonely-rose-in-the-nights-rain, /artwork/lonely-rose]
 images: ['painting.jpg']
-videos: []
 
 subfeatured: true
 ratio: portrait
-power: 60
+power: 20
 
 supplies:
   - medium: Artist Loft Watercolor Paint
   - on: Baohong Cold Press Watercolor Block
-  - frame: 
 size: 12.2x8.3in (310x210mm)
 
 series: [floral]

@@ -16,7 +16,6 @@ ratio: portrait
 supplies:
   - medium: Faber-Castell Oil Pastels
   - on: Art Street Construction Paper
-  - frame: Michaels
 size: 9x12in (22.9x30.5cm)
 
 series: [impressionism]

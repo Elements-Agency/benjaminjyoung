@@ -7,16 +7,14 @@ author: Benjamin J. Young
 
 aliases: [/standoff, /artwork/stand-off, /arwtwork/standoff]
 images: ['painting.jpg']
-videos: []
 
 subfeatured: true
 ratio: landscape
-power: 223
+power: 76
 
 supplies:
   - medium: M Graham Watercolor Paints
   - on: Baohong Cold Press Cotton Paper Block
-  - frame: 
 size: 20x14in (51x36cm)
 
 series: []
@@ -42,8 +40,6 @@ products:
     - id: 763016636
       name: Open Reproduction
       price: $30
-
-limited: 10
 ---
 
 **Standoff** portrays a poignant scene of two dark, silhouetted figures standing at a distance from each other in a sprawling, golden field of tall grass. The figure on the left is a woman, her form graceful but motionless, while the man on the right stands rigidly, facing away. The muted, overcast sky adds a somber tone to the setting, as the distant hills fade into the horizon. The vastness of the landscape, combined with the physical separation between the figures, evokes a powerful sense of emotional distance and quiet tension, as if they are connected yet worlds apart. The earthy colors and subtle textures enhance the painting’s contemplative, melancholic atmosphere.

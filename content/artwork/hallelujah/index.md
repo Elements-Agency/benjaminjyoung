@@ -7,19 +7,18 @@ author: Benjamin J. Young
 
 aliases: [/hallelujah, /arwtwork/hallelujah]
 images: ['painting.jpg']
-videos: []
 
 featured: true
 order: 6
 ratio: portrait
-power: 2146
+power: 785
 sold: 2
 favorite: true
 
 supplies:
   - medium: M Graham Oil Paints
   - on: Artist Loft Level 3 Cotton Stretched Canvas
-  - frame: 
+  - frame: Cyrus Custom Framing
 size: 24x36in (60.96x91.44cm)
 
 series: [the dark trio]

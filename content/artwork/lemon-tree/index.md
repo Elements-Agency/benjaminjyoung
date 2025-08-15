@@ -9,7 +9,6 @@ progress: Acrylic on stretched canvas. It was a quick, small work, art piece. Bu
 
 aliases: [/lemon-tree, /artwork/lemons]
 images: ['painting.jpg']
-videos: []
 
 ratio: portrait
 disliked: true
@@ -17,7 +16,6 @@ disliked: true
 supplies:
   - medium: Liquitex Basic Acrylics
   - on: Stretched Canvas
-  - frame: 
 size: 8x10in (20.32x25.4)
 
 series: [still life]

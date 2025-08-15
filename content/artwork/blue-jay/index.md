@@ -9,14 +9,12 @@ progress: This was drawn with watercolor pencils on cold press wood pulp waterco
 
 aliases: [/blue-jay, /artwork/bluejay]
 images: ['painting.jpg']
-videos: []
 
 ratio: landscape
 
 supplies:
   - medium: Kaloir Watercolor Pencils
   - on: Artist Loft Cold Press Watercolor Pad
-  - frame: Michaels
 size: 12x9in (30.4x22.8cm)
 
 series: [primary winter birds]

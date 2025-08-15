@@ -7,7 +7,6 @@ author: Benjamin J. Young
 
 aliases: [/corporate-contempt, /artwork/young-money, /young-money, /artwork/pretrial, /pretrial]
 images: ['painting.jpg']
-videos: []
 
 featured: true
 order: 10

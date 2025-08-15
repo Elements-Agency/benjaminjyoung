@@ -7,14 +7,12 @@ author: Benjamin J. Young
 
 aliases: [/christmas-stocking]
 images: ['painting.jpg']
-videos: []
 
 ratio: portrait
 
 supplies:
   - medium: M Graham Watercolor Paint
   - on: Baohong Cold Press Cotton Paper Block
-  - frame: 
 size: 20x14in (51x34cm)
 
 categories: [realism, still life, painting]

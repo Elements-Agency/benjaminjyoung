@@ -7,12 +7,11 @@ author: Benjamin J. Young
 
 aliases: [/dying-in-snowfall, /artwork/snowfall, /snowfall]
 images: ['painting.jpg']
-videos: []
 
 featured: true
 order: 8
 ratio: landscape
-power: 554
+power: 503
 sold: 1
 favorite: true
 

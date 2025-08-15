@@ -9,16 +9,15 @@ progress: I was about to throw away an old painting print I had from childhood, 
 
 aliases: [/pomonas-bowl]
 images: ['painting.jpg']
-videos: []
 
 subfeatured: true
 ratio: landscape
-power: 1326
+power: 29
 
 supplies:
   - medium: Winsor and Newton Winton Oil
-  - on: AMDF Board
-  - frame: 
+  - on: MDF Board
+  - frame: Cyrus Custom Framing
 size: 20x16in (50.80x40.64cm)
 
 series: [still life]
