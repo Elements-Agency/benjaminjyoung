@@ -20,7 +20,7 @@
                 {{ if $full }}
                     <li class="gallery lightbox">
                         <a href="{{ $full.RelPermalink }}" class="button big wide">
-                            View Painting
+                            View Full Painting
                         </a>
                     </li>
                 {{ end }}
@@ -309,25 +309,62 @@
     <section id="other" class="wrapper style1 align-center">
         <div class="inner">
             <h2>Other Works</h2>
+            <p>The following works are in order of date the narration takes place, after the current painting.</p>
         </div>
 
         <div class="gallery style2 medium onscroll-fade-in">
-            {{ range sort (where .Site.RegularPages "Section" "story") "Params.order" "asc" }}
-                {{ $painting := .Resources.GetMatch (printf "%spainting.jpg" (replace .File.Dir "story/" "")) }}
-                {{ if and ($painting) (ne .Permalink $.Permalink) }}
-                    {{ $painting := $painting.Fill "420x350 Center" }}
-                    {{ $painting := $painting.Resize "420x webp q90" }}
-                    <article>
-                        <a href="{{ .RelPermalink }}" class="image">
-                            <img src="{{ $painting.RelPermalink }}" alt="{{ .Title }}" loading="lazy">
-                        </a>
-                        <div class="caption">
-                            <h3>{{ .Params.subtitle }} - {{ .Title }}</h3>
-                            <ul class="actions fixed">
-                                <li><span class="button small">Details</span></li>
-                            </ul>
-                        </div>
-                    </article>
+            {{ $current := . }}
+            {{ $all := sort (where .Site.RegularPages "Section" "story") "Params.date" "asc" }}
+            {{ $found := false }}
+            {{ $something := false }}
+            {{ range $i, $p := $all }}
+                {{ if eq $p.Permalink $current.Permalink }}
+                    {{ $found = true }}
+                    {{ continue }}
+                {{ end }}
+                {{ if $found }}
+                    {{ $something = true }}
+                    {{ $painting := $p.Resources.GetMatch (printf "%spainting.jpg" (replace $p.File.Dir "story/" "")) }}
+                    {{ if $painting }}
+                        {{ $painting := $painting.Fill "420x350 Center" }}
+                        {{ $painting := $painting.Resize "420x webp q90" }}
+                        <article>
+                            <a href="{{ $p.RelPermalink }}" class="image">
+                                <img src="{{ $painting.RelPermalink }}" alt="{{ $p.Title }}" loading="lazy">
+                            </a>
+                            <div class="caption">
+                                <h3>{{ $p.Title }}</h3>
+                                <p>{{ .Date | time.Format "January 2, 2006" }}</p>
+                                <ul class="actions fixed">
+                                    <li><span class="button small">Details</span></li>
+                                </ul>
+                            </div>
+                        </article>
+                    {{ end }}
+                {{ end }}
+            {{ end }}
+
+            {{ if not $something }}
+                {{ range $i, $p := $all }}
+                    {{ if ne $p.Permalink $current.Permalink }}
+                        {{ $painting := $p.Resources.GetMatch (printf "%spainting.jpg" (replace $p.File.Dir "story/" "")) }}
+                        {{ if $painting }}
+                            {{ $painting := $painting.Fill "420x350 Center" }}
+                            {{ $painting := $painting.Resize "420x webp q90" }}
+                            <article>
+                                <a href="{{ $p.RelPermalink }}" class="image">
+                                    <img src="{{ $painting.RelPermalink }}" alt="{{ $p.Title }}" loading="lazy">
+                                </a>
+                                <div class="caption">
+                                    <h3>{{ $p.Title }}</h3>
+                                    <p>{{ .Date | time.Format "January 2, 2006" }}</p>
+                                    <ul class="actions fixed">
+                                        <li><span class="button small">Details</span></li>
+                                    </ul>
+                                </div>
+                            </article>
+                        {{ end }}
+                    {{ end }}
                 {{ end }}
             {{ end }}
         </div>

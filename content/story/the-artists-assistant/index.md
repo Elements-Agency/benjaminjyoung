@@ -1,6 +1,6 @@
 ---
 order: 3
-date: 2024-06-26
+date: 2024-05-28
 title: The Artist's Assistant
 subtitle: A Portrait of Grief, Loyalty, and Unseen Witnesses
 description: At first glance, The Artist’s Assistant appears playful—a cat wearing a watercolor cup like a crown, watching quietly in a sunlit studio. But beneath the charm lies a story of profound loss and quiet companionship. Painted after the tragic loss of his fiancée and daughter in a car accident, this piece features the artist’s cat, Princess, faithfully watching him paint through grief. The childlike drawing in the foreground reflects a lost family, a surviving son, and Izzy the dog—Princess’s late companion. Tender, layered, and deeply personal, this work is a meditation on memory, resilience, and the silent witnesses who help carry us through.

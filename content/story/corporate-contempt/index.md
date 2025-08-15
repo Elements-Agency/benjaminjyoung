@@ -1,6 +1,6 @@
 ---
 order: 9
-date: 2025-02-23
+date: 2021-05-11
 title: Corporate Contempt
 subtitle: The Stillness Before the Exit
 description: In Corporate Contempt, artist Ben Young invites the viewer into a moment of profound stillness and internal questioning. A lone figure stands motionless in a modern office, his back to us, bathed in muted light filtering through towering glass windows. The setting is familiar—an executive suite high above a city—but the emotional undercurrent is anything but routine.
