@@ -4,17 +4,16 @@ heading: Artwork Story
 description: My main bodies of work are laid out in my life's story.
 outputs: ['html']
 ---
-
+Coming soon.
+<!--
 {{< storyvid >}}
 
 While each painting objectively should stand on it's own, my main focus of artworks makes up my life story. There is a continued narrative among each iteration. As a group, they are split into six current sections or "eras", but only five are started. Most work that has not started is already planned out. I know exactly how I want them to look and how I want them to feel. After all, it is my life and memory.
 
 ## Index ###
 
-<!--
 * [Childhood Era (1990 - 2008)](#childhood-era)
 * [The Dark Era (2008 - 2011)](#the-dark-era)
--->
 * [The Hart's Desire Era (2011 - 2013)](#the-harts-desire-era)
 * [Purgatory Era (2014 - 2018)](#purgatory-era)
 * [Second Hartbeat Era (2018 - 2020)](#second-hartbeat-era)
@@ -23,7 +22,6 @@ While each painting objectively should stand on it's own, my main focus of artwo
 
 Follow the story of my life story in these paintings, grouped by their respected eras:
 
-<!--
 ## Childhood Era ##
 _1990 - 2008_
 
@@ -48,7 +46,6 @@ No current works in this era that are planned have been painted. Future titles o
   * **Unexpected**
   * **Unfaithful** - Painting 2 of 3 of [The Dark Trio](/collections/the-dark-trio),
   * **Electrifying**
--->
 
 ## The Hart's Desire Era ##
 _2011 - 2013_
@@ -56,7 +53,7 @@ _2011 - 2013_
 This era starts with meeting my [second fiancee](/tags/number-two). Following the relationship as it builds, as we both grow together. Herself dragging me out of my previous "Dark Era” with loving support and to guiding me to become the man I am now, living life the best I can make of it. The era expands of topics of love, loss, and the beginnings of trauma.
 
 No current works in this era are completed yet. I'm still preparing myself for it. This era is both the most amazing point of my life and the most devastating to me.
-<!--
+
 Future titles of this era will include:
 
   * **Show Me What I'm Looking For** - Painting 3 of 3 of [The Dark Trio](/collections/the-dark-trio).
@@ -69,7 +66,6 @@ Future titles of this era will include:
   * **Ring** _(December 20th, 2013)_ - "Ben, get here as soon as possible."
   * **Goodbye** _(December 20th, 2013)_ - One final goodbye and embrace.
   * **Broken** _(December 21st, 2013. 2:00AM)_ - The first time Izzy laid her head on my lap.
--->
 
 ## Purgatory Era ##
 _2014 - 2018_
@@ -77,7 +73,7 @@ _2014 - 2018_
 After the night of my life's [largest loss](/tags/number-two), this era begins. This era is mainly uneventful, myself living in emotional purgatory and suppression. Six years of living through the effects of devastating trauma. The era expands on topics of living life on autopilot, and being passive to the atrocities occurring around one's self.
 
 No current works in this era have been completed yet.
-<!--
+
 Future titles of this era will include:
   * **Straight to Voicemail** - Sometimes it's comforting hearing their voice again.
   * **Violence** - A friend, grieving the loss of his sister and in a drug induced episode, stabs me in my right shoulder.
@@ -88,7 +84,6 @@ Future titles of this era will include:
   * **Lapels and Pens** - My bespoke suits and gold-nibbed Mont Blanc.
   * **Predator** - Something evil lurks in the shadows, stalking it's prey.
   * **Summer Shandy** _2018_ - A [strange guest](/tags/number-five) shows up at my door with a six pack of Summer Shandy Ale.
--->
 
 ## Second Hartbeat Era ##
 _2018 - 2020_
@@ -105,7 +100,7 @@ The paintings are intentionally mute of color and dark in this era, and saturati
 {{< row-end >}}
 
 More context in this era will be expanded on when The Hart's Desire era paintings are completed.
-<!--
+
 Future titles of this era will include:
 
   * **People Watching** - A past-time. Sometimes with [good company](/tags/number-five).
@@ -116,7 +111,6 @@ Future titles of this era will include:
   * **In To The Woods** _([February 26th, 2020](/collections/feb-26))_ - A man walking in to the woods at sunset.
   * **Busy** - A [woman](/tags/number-seven) sits at a table, passed out from drugs.
   * **The Trek Begins** - From 262lbs, down to 158lbs...
--->
 
 ## Escaping Era ##
 _2020 - 2023_
@@ -134,7 +128,7 @@ The paintings in this era are meant to be vibrant and colorful, as I am finally 
 {{< row-end >}}
 
 More context in this era will be expanded on when The Hart's Desire era paintings are completed.
-<!--
+
 Future titles of this era will include:
 
   * **Audrey** - Thinking back what could have been my daughter.
@@ -146,7 +140,7 @@ Future titles of this era will include:
   * **Clown in a Two Piece** - A prosector in clown makeup gives a closing statement.
   * **Unfunny Joke** - A judge wearing a red clown nose, makes a bias and spiteful decision.
   * **Imprisoned** - A depressed clown sits in jail.
--->
+
 
 ## Recovery Era ##
 _2024 - present_
@@ -160,7 +154,7 @@ The colorfulness is a little more dull, but still present in this era, to reflec
     {{< preview col="2" painting="/artwork/okay-now/" >}}
     {{< preview col="2" painting="/artwork/avalanche-lilies/" >}}
 {{< row-end >}}
-<!--
+
 Future titles of this era will include:
 
   * **Rehabilitated** - A clown sits on the sidewalk, unable to return to the circus.
@@ -176,4 +170,4 @@ Future titles of this era will include:
   * **Leather Shoes** - Sometimes you step in dog shit with your nice pair of dress shoes, and you just have to fling it off.
   * **Antoinette** - A crack at the state of current modern art.
   * **Plus One** - 🥰
-  -->
+-->
