@@ -2,10 +2,10 @@
 date: 2020-02-26
 title: Dying In A Snowfall
 subtitle: 
-description: Final Embrace is an oil painting inspired by a dream I had while slipping into darkness after a suicidal overdose, where my late fiancée, Andrea, held me in a loving, forgiving embrace. Connected to my watercolor Dying in a Snowfall, it captures not the cold surrender of death, but the warmth of a love so deep it reaches beyond it.
+description: Dying in a Snowfall is a watercolor capturing the quiet, haunting reality of a winter night in Dundee Falls, Ohio. Paired with its companion piece Final Embrace, it contrasts the cold stillness of that moment with the warmth of the dream I experienced as I slipped away — a meeting of beauty, grief, and surrender.
 author: Benjamin J. Young
 
-buy: Final Embrace is available for acquisition as the original oil painting or as a high-quality limited reproduction. Collectors may choose between owning the one-of-a-kind original or a museum-grade print that preserves the emotional depth and detail of the work. Both options offer a meaningful way to bring this powerful and personal piece into your collection.
+buy: Dying In A Snowfall is available for acquisition as the original watercolor painting or as a high-quality limited reproduction. Collectors may choose between owning the one-of-a-kind original or a museum-grade print that preserves the emotional depth and detail of the work. Both options offer a meaningful way to bring this powerful and personal piece into your collection.
 
 products:
     - id: 734463471
