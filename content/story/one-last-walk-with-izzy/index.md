@@ -19,11 +19,6 @@ products:
       price: 200
       left: 27
       total: 30
-    - id: 758189666
-      name: 30x40in Limited Reproduction
-      price: 400
-      left: 9
-      total: 10
     - id: 708668936
       name: Original Watercolor Painting
 
