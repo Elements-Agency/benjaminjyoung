@@ -77,15 +77,9 @@
                 His paintings resonate with collectors drawn to authenticity, vulnerability, and a fresh, emerging voice in American art.
             </p>
             
-            <h3>Newsletter Discount</h3>
-            <p>
-                To learn more about artist Ben Young, his latest work, and the stories behind his paintings, we invite you to sign up for his email newsletter.
-                As a thank-you, you'll receive an exclusive <strong>20% discount</strong> on all orders.
-                Stay connected and be the first to access new releases, special offers, and behind-the-scenes insights.
-            </p>
             <ul class="actions stacked">
                 <li>
-                    <a href="/sign-up?driven=discount&artwork={{ .Params.title }}" class="button big wide" onclick="trackInterest()">
+                    <a href="#signup" class="button big wide smooth-scroll" onclick="trackInterest()">
                         Sign Up for Newsletter 
                     </a>
                 </li>
@@ -103,7 +97,7 @@
                 <p>{{- .Params.buy -}}</p>
 
                 <p class="center">
-                    <strong>20% discount</strong> for anyone <a href="/sign-up?driven=discount&artwork={{ .Params.title }}">subscribed up to my newsletter</a>.
+                    <strong>20% discount</strong> for anyone <a href="#signup" class="smooth-scroll">subscribed up to my newsletter</a>.
                     <span id="addcountdown"></span>
                 </p>
 
@@ -190,7 +184,7 @@
                 <ul class="actions stacked">
                     <li>
                         <a href="#purchase" class="button big wide smooth-scroll"  onclick="trackInterest()">
-                            View Products
+                            Shop Now
                         </a>
                     </li>
                 </ul>
@@ -248,11 +242,6 @@
                             Collect Now
                         </a>
                     </li>
-                    <li>
-                        <a href="/sign-up?driven=quality&artwork={{ .Params.title }}" class="button" onclick="trackInterest()">
-                            Get Discount
-                        </a>
-                    </li>
                 </ul>
             </div>
 
@@ -268,20 +257,40 @@
     {{ end }}
 
     {{ if .Params.link }}
-        <section id="purchase" class="wrapper style1 align-center">
+        <section id="signup" class="wrapper style1 align-center">
             <div class="inner">
                 <h2>Ready to Learn More?</h2>
                 <p>
-                    If you would like to learn more about the inspiration behind this piece, explore the background story, view the creative process, and access additional details, please visit the link below:
+                    If you would like to learn more about the inspiration behind this piece, explore the background story, view the creative process, and access additional details.
+                    As a thank-you, you'll receive an exclusive <strong>20% discount</strong> on all orders and you'll be entered in monthly drawing to <strong>win a free limited reproduction</strong>.
                 </p>
-                <ul class="actions special">
-                    <li><a href="{{ .Params.link }}" class="button">Learn More</a></li>
-                    <li>
-                        <a href="/sign-up?driven=quality&artwork={{ .Params.title }}" class="button" onclick="trackInterest()">
-                            Subscribe to  Newsletter 
-                        </a>
-                    </li>
-                </ul>
+
+                <form method="post" action="https://benjaminjyoung.us14.list-manage.com/subscribe/post?u=5a284b4c27bab02102d3645de&amp;id=a01ee307ec&amp;f_id=0087c0e0f0" class="align-left" target="_blank">
+                    <div class="fields">
+                        <div class="field">
+                            <label for="email">Email</label>
+                            <input type="text" name="EMAIL" id="name" value="" required>
+                        </div>
+                        <div class="field half">
+                            <label for="fname">First Name</label>
+                            <input type="text" name="FNAME" id="fname" value="">
+                        </div>
+                        <div class="field half">
+                            <label for="lname">Last Name</label>
+                            <input type="text" name="LNAME" id="lname" value="">
+                        </div>
+                    </div>
+                    <div hidden>
+                        <input type="hidden" id="hid-MMERGE7" name="MMERGE7" value="{{ .Title }}">
+                        <input type="hidden" name="tags" value="7257335,7257510">
+                    </div>
+                    <div aria-hidden="true" style="position: absolute; left: -5000px;">
+                            <input type="text" name="b_5a284b4c27bab02102d3645de_a01ee307ec" tabindex="-1" value="">
+                        </div>
+                    <ul class="actions">
+                        <li><input type="submit" name="submit" id="submit" value="Subscribe"></li>
+                    </ul>
+                </form>
             </div>
 
 
