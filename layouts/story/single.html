@@ -85,7 +85,7 @@
             </p>
             <ul class="actions stacked">
                 <li>
-                    <a href="/sign-up?driven=discount&artwork={{ .Params.subtitle }}" class="button big wide" onclick="trackInterest()">
+                    <a href="/sign-up?driven=discount&artwork={{ .Params.title }}" class="button big wide" onclick="trackInterest()">
                         Sign Up for Newsletter 
                     </a>
                 </li>
@@ -103,7 +103,7 @@
                 <p>{{- .Params.buy -}}</p>
 
                 <p class="center">
-                    <strong>20% discount</strong> for anyone <a href="/sign-up?driven=discount&artwork={{ .Params.subtitle }}">subscribed up to my newsletter</a>.
+                    <strong>20% discount</strong> for anyone <a href="/sign-up?driven=discount&artwork={{ .Params.title }}">subscribed up to my newsletter</a>.
                     <span id="addcountdown"></span>
                 </p>
 
@@ -249,7 +249,7 @@
                         </a>
                     </li>
                     <li>
-                        <a href="/sign-up?driven=quality&artwork={{ .Params.subtitle }}" class="button" onclick="trackInterest()">
+                        <a href="/sign-up?driven=quality&artwork={{ .Params.title }}" class="button" onclick="trackInterest()">
                             Get Discount
                         </a>
                     </li>
@@ -277,7 +277,7 @@
                 <ul class="actions special">
                     <li><a href="{{ .Params.link }}" class="button">Learn More</a></li>
                     <li>
-                        <a href="/sign-up?driven=quality&artwork={{ .Params.subtitle }}" class="button" onclick="trackInterest()">
+                        <a href="/sign-up?driven=quality&artwork={{ .Params.title }}" class="button" onclick="trackInterest()">
                             Subscribe to  Newsletter 
                         </a>
                     </li>
