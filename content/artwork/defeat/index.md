@@ -5,7 +5,7 @@ description: Defeat is a watercolor painting displaying the emotions of my inabi
 alt: This watercolor painting depicts a tennis player standing in a sunlit field, gazing upward into the bright blue sky with a sense of defeat and disappointment.
 author: Benjamin J. Young
 
-aliases: [/defeat, /story/defeat]
+aliases: [/defeat]
 images: ['painting.jpg']
 
 featured: true
