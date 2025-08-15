@@ -12,7 +12,7 @@ videos: []
 subfeatured: true
 order: 6
 ratio: portrait
-power: 61
+power: 3000
 sold: 1
 favorite: true
 

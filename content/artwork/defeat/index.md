@@ -10,7 +10,7 @@ images: ['painting.jpg']
 videos: []
 
 featured: true
-order: 11
+order: 13
 ratio: portrait
 power: 454
 sold: 2

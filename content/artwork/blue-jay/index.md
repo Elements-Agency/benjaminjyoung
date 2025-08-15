@@ -11,9 +11,7 @@ aliases: [/blue-jay, /artwork/bluejay]
 images: ['painting.jpg']
 videos: []
 
-subfeatured: true
 ratio: landscape
-power: 53
 
 supplies:
   - medium: Kaloir Watercolor Pencils

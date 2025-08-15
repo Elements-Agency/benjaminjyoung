@@ -9,9 +9,7 @@ aliases: [/just-out-of-reach]
 images: ['painting.jpg']
 videos: []
 
-subfeatured: true
 ratio: landscape
-power: 117
 
 supplies:
   - medium: M. Graha Watercolor Paint

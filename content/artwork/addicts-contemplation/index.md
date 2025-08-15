@@ -11,10 +11,7 @@ aliases: [/jennys-contemplation, /artwork/jennys-contemplation, /artwork/jenis-c
 images: ['painting.jpg']
 videos: []
 
-subfeatured: true
 ratio: landscape
-power: 222
-sold: 3
 
 supplies:
   - medium: Artist Loft Watercolor Paint

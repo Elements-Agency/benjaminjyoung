@@ -11,9 +11,7 @@ aliases: [/massillon-helmet]
 images: ['painting.jpg']
 videos: []
 
-subfeatured: true
 ratio: landscape
-power: 364
 
 supplies:
   - medium: Winsor & Newton Winton Oil

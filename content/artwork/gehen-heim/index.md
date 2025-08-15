@@ -11,9 +11,7 @@ aliases: [/gehen-heim, /artwork/going-home]
 images: ['painting.jpg']
 videos: []
 
-subfeatured: true
 ratio: landscape
-power: 98
 
 supplies:
   - medium: Artist Loft Watercolor Paint
