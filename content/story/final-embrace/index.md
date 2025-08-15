@@ -18,8 +18,6 @@ products:
       name: 18x24in Limited Reproduction
       left: 29
       total: 30
-
-link: /artwork/final-embrace/
 ---
 
 Final Embrace is the most vulnerable painting I’ve ever created. It’s born from a dream — or perhaps a memory — that came to me on the edge of life itself.

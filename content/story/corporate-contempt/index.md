@@ -14,8 +14,6 @@ products:
       name: 9x12in Limited Reproduction
       left: 56
       total: 60
-
-link: /artwork/corporate-contempt/
 ---
 
 There’s a certain silence that falls in a corporate office when the emails stop, the calls fade, and all that’s left is the hum of fluorescent lights and the weight of your own thoughts.

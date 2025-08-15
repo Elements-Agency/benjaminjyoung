@@ -14,8 +14,6 @@ products:
       name: 9x12in Limited Reproduction
       left: 58
       total: 60
-
-link: /artwork/avalanche-lilies/
 ---
 
 There are moments in life that stay suspended in time—promises made, hopes whispered, dreams never fully realized. ___Avalanche Lilies___ is born from one of those moments.

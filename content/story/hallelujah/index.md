@@ -14,8 +14,6 @@ products:
       name: 9x12in Limited Reproduction
       left: 57
       total: 60
-
-link: /artwork/hallelujah/
 ---
 
 Hallelujah draws directly from one of the most haunting verses in Leonard Cohen’s timeless song:

@@ -18,8 +18,6 @@ products:
       name: 18x24in Limited Reproduction
       left: 29
       total: 30
-
-link: /artwork/in-the-dark/
 ---
 
 There are moments when darkness feels complete—when loss, grief, or loneliness surrounds us. ___In the Dark___ was born from such a space.

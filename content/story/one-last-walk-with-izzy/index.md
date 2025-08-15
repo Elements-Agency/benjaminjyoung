@@ -20,8 +20,6 @@ products:
       total: 30
     - id: 708668936
       name: Original Watercolor Painting
-
-link: /artwork/one-last-walk-with-izzy/
 ---
 
 There are some walks we get to take — and some that live only in the quiet corners of our hearts. **One Last Walk With Izzy** is one of those moments I never had, but always wished for.

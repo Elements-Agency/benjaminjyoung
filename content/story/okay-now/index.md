@@ -18,8 +18,6 @@ products:
       total: 30
     - id: 710975182
       name: Original Watercolor Painting
-
-link: /artwork/okay-now/
 ---
 
 Some portraits don’t just depict a person—they hold a moment. A breath. A lifetime.
