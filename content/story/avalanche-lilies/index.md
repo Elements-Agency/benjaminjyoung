@@ -1,5 +1,4 @@
 ---
-order: 12
 date: 2023-12-20
 title: A Love Letter in Bloom
 subtitle: Avalanche Lilies

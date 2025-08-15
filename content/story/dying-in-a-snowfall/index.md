@@ -1,5 +1,4 @@
 ---
-order: 4
 date: 2020-02-26
 title: Dying In A Snowfall
 subtitle: 

@@ -1,5 +1,4 @@
 ---
-order: 4
 date: 2020-02-27
 title: In The Dark
 subtitle: A Flame That Won’t Burn Out

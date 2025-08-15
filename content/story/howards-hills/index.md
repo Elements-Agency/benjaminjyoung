@@ -1,5 +1,4 @@
 ---
-order: 3
 date: 2024-09-10
 title: Howard's Hills
 subtitle: The Aging Appalachian Ohio

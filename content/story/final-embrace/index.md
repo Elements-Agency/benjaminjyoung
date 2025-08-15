@@ -1,5 +1,4 @@
 ---
-order: 4
 date: 2020-02-26
 title: Final Embrace
 subtitle: A Dream of Love, Loss, and One Last Goodbye

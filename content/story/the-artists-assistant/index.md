@@ -1,5 +1,4 @@
 ---
-order: 3
 date: 2024-05-28
 title: The Artist's Assistant
 subtitle: A Portrait of Grief, Loyalty, and Unseen Witnesses

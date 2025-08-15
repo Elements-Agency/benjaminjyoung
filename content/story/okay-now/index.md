@@ -1,5 +1,4 @@
 ---
-order: 2
 date: 2024-09-05
 title: Okay Now
 subtitle: A Portrait of Farewell, Dignity, and the Weight of Time

@@ -1,5 +1,4 @@
 ---
-order: 9
 date: 2021-05-11
 title: Corporate Contempt
 subtitle: The Stillness Before the Exit
