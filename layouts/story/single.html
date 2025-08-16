@@ -49,7 +49,7 @@
                 <ul class="actions">
                     {{ if .Params.products }}
                         <li>
-                            <a href="#purchase" class="button big wide smooth-scroll" onclick="trackInterest()">
+                            <a href="#purchase" class="button big wide smooth-scroll" onclick="trackInterest();">
                                 Purchase Artwork
                             </a>
                         </li>
@@ -81,7 +81,7 @@
             
             <ul class="actions stacked">
                 <li>
-                    <a href="#signup" class="button big wide smooth-scroll" onclick="trackInterest()">
+                    <a href="#signup" class="button big wide smooth-scroll" onclick="clickedQuality(); trackInterest(); focusSignup();">
                         Sign Up for Newsletter 
                     </a>
                 </li>
@@ -99,7 +99,7 @@
                 <p>{{- .Params.buy -}}</p>
 
                 <p class="center">
-                    <strong>20% discount</strong> for anyone <a href="#signup" class="smooth-scroll">subscribed up to my newsletter</a>.
+                    <strong>20% discount</strong> for anyone <a href="#signup" class="smooth-scroll" onclick="clickedQuality(); trackInterest(); focusSignup();">subscribed up to my newsletter</a>.
                     <span id="addcountdown"></span>
                 </p>
 
@@ -185,7 +185,7 @@
 
                 <ul class="actions stacked">
                     <li>
-                        <a href="#purchase" class="button big wide smooth-scroll"  onclick="trackInterest()">
+                        <a href="#purchase" class="button big wide smooth-scroll"  onclick="trackInterest();">
                             Shop Now
                         </a>
                     </li>
@@ -240,7 +240,7 @@
 
                 <ul class="actions special">
                     <li>
-                        <a href="#purchase" class="button big wide smooth-scroll"  onclick="trackInterest()">
+                        <a href="#purchase" class="button big wide smooth-scroll"  onclick="trackInterest();">
                             Collect Now
                         </a>
                     </li>
@@ -271,15 +271,15 @@
                     <div class="fields">
                         <div class="field">
                             <label for="email">Email</label>
-                            <input type="text" name="EMAIL" id="name" value="" required>
+                            <input type="text" name="EMAIL" id="name" value="" required onfocus="focusSignup();">>
                         </div>
                         <div class="field half">
                             <label for="fname">First Name</label>
-                            <input type="text" name="FNAME" id="fname" value="">
+                            <input type="text" name="FNAME" id="fname" value="" onfocus="focusSignup();">>
                         </div>
                         <div class="field half">
                             <label for="lname">Last Name</label>
-                            <input type="text" name="LNAME" id="lname" value="">
+                            <input type="text" name="LNAME" id="lname" value="" onfocus="focusSignup();">>
                         </div>
                     </div>
                     <div hidden>
@@ -375,11 +375,43 @@
 
 {{ define "scripts" }}
     <script type="text/javascript">
-      function trackInterest() {console.log("Tracking Interest");
-        fbq('trackCustom', 'ClickAction');
-        rdt('track', 'Custom', { customEventName: 'Click Action' });
-        pintrk('track', 'action');
-        gtag('event', 'click_action', {});
-      }
+        function clickedQuality() {
+            localStorage.potentialQuality = true;
+        }
+
+        function focusSignup() {
+            if (localStorage.viewSignup) {
+                return;
+            }
+
+            localStorage.viewSignup = true;
+            
+            fbq('trackCustom', 'ViewSignup');
+            rdt('track', 'Custom', { customEventName: 'View Signup' });
+            gtag('event', 'view_signup', {});
+
+            if (localStorage.potentialQuality) {
+                fbq('trackCustom', 'ViewQualitySignup');
+                rdt('track', 'Custom', { customEventName: 'View Quality Signup' });
+                gtag('event', 'view_quality_signup', {});
+            }
+            
+            trackEngaged();
+        }
+
+        function trackInterest() {
+            if (localStorage.clickedInterest) {
+                return;
+            }
+
+            localStorage.clickedInterest = true;
+
+            fbq('trackCustom', 'ClickAction');
+            rdt('track', 'Custom', { customEventName: 'Click Action' });
+            pintrk('track', 'action');
+            gtag('event', 'click_action', {});
+            
+            trackEngaged();
+        }
     </script>
 {{ end }}
