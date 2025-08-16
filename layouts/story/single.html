@@ -37,36 +37,38 @@
         {{ end }}
     </section>
 
-    <section id="more" class="spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in">
-        <div class="content">
-            <h2>{{- .Params.Subtitle -}}</h2>
-            <p>
-                {{- replace .Content .Summary "" | safeHTML -}}
-            </p>
+    {{ if replace .Content .Summary "" }}
+        <section id="more" class="spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in">
+            <div class="content">
+                <h2>{{- .Params.Subtitle -}}</h2>
+                <p>
+                    {{- replace .Content .Summary "" | safeHTML -}}
+                </p>
 
-            
-            <ul class="actions">
-                {{ if .Params.products }}
-                    <li>
-                        <a href="#purchase" class="button big wide smooth-scroll" onclick="trackInterest()">
-                            Purchase Artwork
-                        </a>
-                    </li>
-                {{ end }}
-            </ul>
-        </div>
-
-        {{ if (.Resources.GetMatch (printf "%sside.jpg" (replace .File.Dir "story/" ""))) }}
-            <div class="image">
-                {{ $side := .Resources.GetMatch (printf "%sside.jpg" (replace .File.Dir "story/" "")) }}
-                {{ $side := $side.Fit "1024x1024 webp q90" }}
-
-                <img src="{{ $side.RelPermalink }}" alt="">
+                
+                <ul class="actions">
+                    {{ if .Params.products }}
+                        <li>
+                            <a href="#purchase" class="button big wide smooth-scroll" onclick="trackInterest()">
+                                Purchase Artwork
+                            </a>
+                        </li>
+                    {{ end }}
+                </ul>
             </div>
-        {{ end }}
-    </section>
 
-    <section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in">
+            {{ if (.Resources.GetMatch (printf "%sside.jpg" (replace .File.Dir "story/" ""))) }}
+                <div class="image">
+                    {{ $side := .Resources.GetMatch (printf "%sside.jpg" (replace .File.Dir "story/" "")) }}
+                    {{ $side := $side.Fit "1024x1024 webp q90" }}
+
+                    <img src="{{ $side.RelPermalink }}" alt="">
+                </div>
+            {{ end }}
+        </section>
+    {{ end }}
+
+    <section class="spotlight style1 {{ if replace .Content .Summary "" }}orient-right{{ else }}orient-left{{ end }} content-align-left image-position-center onscroll-image-fade-in">
         <div class="content">
             <h2>About the Artist</h2>
             <p>

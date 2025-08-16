@@ -28,6 +28,6 @@ Her love, at first, was an act of gentle care — tending to me, pointing out th
 
 But like the song’s verse, the story turned. My lack of courage to speak my truth, combined with the fragility of trust between us, led to a sudden reversal. What began as care became distance, and what I believed was unshakable intimacy was pierced by betrayal.
 
-This painting sits in that duality — the way love can be both the hands that free you and the hands that bind you. Gertrude was the first person to show me deep, caring love since losing AJ, and though the story ended in heartbreak, she was also the one who broke open the locked door inside me.
+This painting sits in that duality — the way love can be both the hands that free you and the hands that bind you. Gertrude was the first person to show me deep, caring love since losing AJ, and though the story ended in heartbreak, she was also the one who broke open the locked door inside me. As much discord she cause, if it wasn't for Gertrude, I wouldn't be alive today.
 
 Hallelujah is not just a painting of two figures — it’s a portrait of the complexity of love, trauma, and the way another person’s touch can change the course of your life, for better and for worse.
