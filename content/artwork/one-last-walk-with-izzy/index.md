@@ -40,7 +40,7 @@ products:
       name: 9x12in Reproduction
       price: $60
       limited: 60
-      left: 24
+      left: 20
       popular: true
     - id: 758199794
       name: 18x24in Reproduction
@@ -94,6 +94,10 @@ reproductions:
     - 34: Steven Plank (Oberlin, OH)
     - 35: Reserved
     - 36: Brandon Hart (Triadelphia, WV)
+    - 37: Reserved
+    - 38: Richard DeTriquet (Fredericksburg, Virginia)
+    - 39: Reserved
+    - 40: Reserved
   - 18x24in:
     - 1: Ben Young (East Sparta, OH)
     - 2: Susan Lehman (Jupiter, FL)

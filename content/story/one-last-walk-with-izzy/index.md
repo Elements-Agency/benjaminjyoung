@@ -11,7 +11,7 @@ products:
     - id: 711216285
       name: 9x12in Limited Reproduction
       price: 60
-      left: 24
+      left: 20
       total: 60
     - id: 758199794
       name: 18x24in Limited Reproduction
