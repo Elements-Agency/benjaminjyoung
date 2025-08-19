@@ -38,16 +38,19 @@ status: sold
 products:
     - id: 711216285
       name: 9x12in Reproduction
-      price: $60
+      price: $90
       limited: 60
       left: 20
-      popular: true
     - id: 758199794
       name: 18x24in Reproduction
-      price: $200
+      price: $190
       limited: 30
       left: 27
-      new: true
+    - id: 758189666
+      name: 30x40in Reproduction
+      price: $390
+      limited: 10
+      left: 8
     - id: 708668936
       name: Original Painting
       sold: true
@@ -105,6 +108,7 @@ reproductions:
     - 4: Reserved
   - 30x40in:
     - 1: Ben Young (East Sparta, OH)
+    - 2: Jim Lynd (Jeffersonville, IN)
 
 tag: The man walking is myself, with the blond hair shimmering from the bright autumn sun. The companion by my side is my late Border Collie dog, Izzy. The landscape is inspired by the Ohio Appalachian Plateau hills I grew up with. It's a memory I never got to have with my faithful family member, before she passed. She was always by my side in her life span, but sometimes time escapes us too quickly, and by the time I was in healthy enough state to hike myself, she had grown too elderly and weary to join me in my long walks of reflection.
 

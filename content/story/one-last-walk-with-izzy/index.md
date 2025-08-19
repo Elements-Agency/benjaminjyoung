@@ -10,16 +10,19 @@ buy: While the original watercolor painting 'One Last Walk With Izzy' has been s
 products:
     - id: 711216285
       name: 9x12in Limited Reproduction
-      price: 60
+      price: 90
       left: 20
       total: 60
     - id: 758199794
       name: 18x24in Limited Reproduction
-      price: 200
+      price: 190
       left: 27
       total: 30
-    - id: 708668936
-      name: Original Watercolor Painting
+    - id: 758189666
+      name: 30x40in Limited Reproduction
+      price: 390
+      left: 8
+      total: 10
 ---
 
 There are some walks we get to take — and some that live only in the quiet corners of our hearts. **One Last Walk With Izzy** is one of those moments I never had, but always wished for.
