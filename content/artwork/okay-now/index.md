@@ -62,6 +62,10 @@ reproductions:
     - 6: Pandora Daniels (Garfield Heights, OH)
     - 7: The Pines Healthcare Center (Canton, OH)
     - 8: Reserved
+  - 18x24in:
+    - 1: Ben Young (East Sparta, OH)
+  - 30x40in:
+    - 1: Ben Young (East Sparta, OH)
 
 tag: I knew an old wise woman once. She told me to make my way back to Strasbourg, so I did. From her pine framed window, she bid farewell, "Okay now. I'll be seeing you." With her gaze and expression of both endearment and concern, but excitement for me. Looking on in to the day's sun. This painting perfectly captures those feelings and experiences with my dear old friend.
 

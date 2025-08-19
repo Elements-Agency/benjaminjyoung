@@ -56,6 +56,10 @@ reproductions:
     - 2: J Mason (San Antonio, TX)
     - 3: David Kozakiewicz (Manchester, MI)
     - 4: Reserved
+  - 18x24in:
+    - 1: Ben Young (East Sparta, OH)
+  - 30x40in:
+    - 1: Ben Young (East Sparta, OH)
 
 limited: 60
 

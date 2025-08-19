@@ -53,6 +53,10 @@ reproductions:
     - 1: Ben Young (East Sparta, OH)
     - 2: Doug Meads (Chalk Hill, PA)
     - 3: Reserved
+  - 18x24in:
+    - 1: Ben Young (East Sparta, OH)
+  - 30x40in:
+    - 1: Ben Young (East Sparta, OH)
 
 tag: Circus Act is a watercolor painting of a clown standing trial, inspired by Edward Hopper's Soir Bleu.
 ---

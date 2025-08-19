@@ -12,7 +12,7 @@ products:
       name: Original Oil Painting
     - id: 691515048
       name: 9x12in Limited Reproduction
-      left: 57
+      left: 56
       total: 60
 ---
 

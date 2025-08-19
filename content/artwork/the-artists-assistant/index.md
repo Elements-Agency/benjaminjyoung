@@ -56,6 +56,10 @@ reproductions:
     - 2: Steph Sweany (Canton, OH)
     - 3: Canton Comedy Boom (Canton, OH)
     - 4: Reserved
+  - 18x24in:
+    - 1: Ben Young (East Sparta, OH)
+  - 30x40in:
+    - 1: Ben Young (East Sparta, OH)
 
 buyer: Jocelyn Maciol (Los Angeles, CA)
 
