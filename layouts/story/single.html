@@ -263,55 +263,53 @@
         </section>
     {{ end }}
 
-    {{ if .Params.link }}
-        <section id="signup" class="wrapper style1 align-center">
-            <div class="inner">
-                <h2>Ready to Learn More?</h2>
-                <p>
-                    If you would like to learn more about the inspiration behind this piece, explore the background story, view the creative process, and access additional details.
-                    As a thank-you, you'll receive an exclusive <strong>20% discount</strong> on all orders and you'll be entered in monthly drawing to <strong>win a free limited reproduction</strong>.
-                </p>
+    <section id="signup" class="wrapper style1 align-center">
+        <div class="inner">
+            <h2>Ready to Learn More?</h2>
+            <p>
+                If you would like to learn more about the inspiration behind this piece, explore the background story, view the creative process, and access additional details.
+                As a thank-you, you'll receive an exclusive <strong>20% discount</strong> on all orders and you'll be entered in monthly drawing to <strong>win a free limited reproduction</strong>.
+            </p>
 
-                <form method="post" action="https://benjaminjyoung.us14.list-manage.com/subscribe/post?u=5a284b4c27bab02102d3645de&amp;id=a01ee307ec&amp;f_id=0087c0e0f0" class="align-left" target="_blank">
-                    <div class="fields">
-                        <div class="field">
-                            <label for="email">Email</label>
-                            <input type="text" name="EMAIL" id="name" value="" required onfocus="focusSignup();">>
-                        </div>
-                        <div class="field half">
-                            <label for="fname">First Name</label>
-                            <input type="text" name="FNAME" id="fname" value="" onfocus="focusSignup();">>
-                        </div>
-                        <div class="field half">
-                            <label for="lname">Last Name</label>
-                            <input type="text" name="LNAME" id="lname" value="" onfocus="focusSignup();">>
-                        </div>
+            <form method="post" action="https://benjaminjyoung.us14.list-manage.com/subscribe/post?u=5a284b4c27bab02102d3645de&amp;id=a01ee307ec&amp;f_id=0087c0e0f0" class="align-left" target="_blank">
+                <div class="fields">
+                    <div class="field">
+                        <label for="email">Email</label>
+                        <input type="text" name="EMAIL" id="name" value="" required onfocus="focusSignup();">
                     </div>
-                    <div hidden>
-                        <input type="hidden" id="hid-MMERGE7" name="MMERGE7" value="{{ .Title }}">
-                        <input type="hidden" name="tags" value="7257335,7257510">
+                    <div class="field half">
+                        <label for="fname">First Name</label>
+                        <input type="text" name="FNAME" id="fname" value="" onfocus="focusSignup();">
                     </div>
-                    <div aria-hidden="true" style="position: absolute; left: -5000px;">
-                            <input type="text" name="b_5a284b4c27bab02102d3645de_a01ee307ec" tabindex="-1" value="">
-                        </div>
-                    <ul class="actions">
-                        <li><input type="submit" name="submit" id="submit" value="Subscribe"></li>
-                    </ul>
-                </form>
-            </div>
-
-
-
-            {{ if (.Resources.GetMatch (printf "%scollector.jpg" (replace .File.Dir "story/" ""))) }}
-                <div class="image">
-                    {{ $side := .Resources.GetMatch (printf "%scollector.jpg" (replace .File.Dir "story/" "")) }}
-                    {{ $side := $side.Fit "800x800 webp q86" }}
-
-                    <img src="{{ $side.RelPermalink }}" alt="">
+                    <div class="field half">
+                        <label for="lname">Last Name</label>
+                        <input type="text" name="LNAME" id="lname" value="" onfocus="focusSignup();">
+                    </div>
                 </div>
-            {{ end }}
-        </section>
-    {{ end }}
+                <div hidden>
+                    <input type="hidden" id="hid-MMERGE7" name="MMERGE7" value="{{ .Title }}">
+                    <input type="hidden" name="tags" value="7257335,7257510">
+                </div>
+                <div aria-hidden="true" style="position: absolute; left: -5000px;">
+                        <input type="text" name="b_5a284b4c27bab02102d3645de_a01ee307ec" tabindex="-1" value="">
+                    </div>
+                <ul class="actions">
+                    <li><input type="submit" name="submit" id="submit" value="Subscribe"></li>
+                </ul>
+            </form>
+        </div>
+
+
+
+        {{ if (.Resources.GetMatch (printf "%scollector.jpg" (replace .File.Dir "story/" ""))) }}
+            <div class="image">
+                {{ $side := .Resources.GetMatch (printf "%scollector.jpg" (replace .File.Dir "story/" "")) }}
+                {{ $side := $side.Fit "800x800 webp q86" }}
+
+                <img src="{{ $side.RelPermalink }}" alt="">
+            </div>
+        {{ end }}
+    </section>
 
     <section id="other" class="wrapper style1 align-center">
         <div class="inner">
