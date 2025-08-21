@@ -68,7 +68,7 @@
         </section>
     {{ end }}
 
-    <section class="spotlight style1 {{ if replace .Content .Summary "" }}orient-right{{ else }}orient-left{{ end }} content-align-left image-position-center onscroll-image-fade-in">
+    <section {{ if not (replace .Content .Summary "") }}id="more"{{ end }} class="spotlight style1 {{ if replace .Content .Summary "" }}orient-right{{ else }}orient-left{{ end }} content-align-left image-position-center onscroll-image-fade-in">
         <div class="content">
             <h2>About the Artist</h2>
             <p>
