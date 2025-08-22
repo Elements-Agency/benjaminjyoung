@@ -416,5 +416,25 @@
             
             trackEngaged();
         }
+
+        if (!localStorage.paintingsViewed) {
+            paintingsViewed = {};
+
+            {{ range .Site.RegularPages }}
+                {{ if eq .Section "story" }}
+                    paintingsViewed["{{ replace (replace .File.Path "story/" "") "/index.md" "" }}"] = 0;
+                {{ end }}
+            {{ end }}
+
+            paintingsViewed["{{ replace (replace .File.Path "story/" "") "/index.md" "" }}"]++;
+
+           localStorage.paintingsViewed = JSON.stringify(paintingsViewed);
+        } else {
+            paintingsViewed = JSON.parse(localStorage.paintingsViewed);
+
+            paintingsViewed["{{ replace (replace .File.Path "story/" "") "/index.md" "" }}"]++;
+
+            localStorage.paintingsViewed = JSON.stringify(paintingsViewed);
+        }
     </script>
 {{ end }}
