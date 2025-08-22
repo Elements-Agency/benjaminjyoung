@@ -1,0 +1,48 @@
+{{ define "styles" }}
+    {{ partial "inside-style.html" . }}
+{{ end }}
+
+{{ define "scripts" }}
+    {{ partial "inside-scripts.html" . }}
+{{ end }}
+
+{{ define "main" }}
+    <div id="wrapper">
+        <!-- Do NOT remove inline styles on bg below -->
+        <div class="bg fixed" style='position:fixed; top:0; left:0; z-index:-1; width:100vw; height:100vh; background-color:#ddd; background-image:url("/images/background.webp"); background-size:cover; background-position:center; background-repeat:no-repeat; background-attachment:scroll;'></div>
+
+        {{ block "header" . }}{{ partial "inside-header.html" .}}{{ end }}
+
+        {{ block "nav" . }}{{ partial "inside-navigation.html" .}}{{ end }}
+
+        <div id="main">
+            <section class="post">
+                <header class="major">
+                    {{ if .Date }}
+                        <span class="date">({{ .Date| time.Format "January 2, 2006" }})</span>
+                    {{ end }}
+                    <h1>{{ .Title }}</h1>
+                    <p>{{ .Description }}</p>
+                </header>
+
+                {{/*}}
+                {{ $full := .Resources.GetMatch "painting.jpg" }}
+                {{ $full := $full.Fit "1600x800 webp q85" }}
+
+                <a href="{{ $full.RelPermalink }}" data-position="center">
+                    <img src="{{ $full.RelPermalink }}" width="1600" height="800" style="width:90%; height:auto;" alt="{{ .Params.alt }}" title='{{ .Title }} ({{ .Date| time.Format "2006" }}) by Ben Young' />
+                </a>
+                {{*/}}
+
+                {{ .Content }}
+
+                <hr>
+                
+                {{ partial "products.html" . }}
+            </section>
+        </div>
+
+        {{ block "footer" . }}{{ partialCached "inside-footer.html" . }}{{ end }}
+    </div>
+
+{{ end }}

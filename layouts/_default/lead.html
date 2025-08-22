@@ -6,9 +6,12 @@
     {{ partial "inside-scripts.html" . }}
 
     <script type="text/javascript">
-      fbq('trackCustom', 'ViewSignup');
-      rdt('track', 'Custom', { customEventName: 'View Signup' });
-      gtag('event', 'view_signup', {});
+      if (!localStorage.viewSignup) {
+        fbq('trackCustom', 'ViewSignup');
+        gtag('event', 'view_signup', {});
+
+        localStorage.viewSignup = true;
+      }
     </script>
 {{ end }}
 
@@ -78,14 +81,12 @@
                 document.getElementById("signupTags").defaultValue = '7257335,7257510';
 
                 fbq('trackCustom', 'ViewQualitySignup');
-                rdt('track', 'Custom', { customEventName: 'View Quality Signup' });
                 gtag('event', 'view_quality_signup', {});
               } else if (drivenParam == 'prize') {
                 document.getElementById("signupTags").value =
                 document.getElementById("signupTags").defaultValue = '7257335,7257609';
 
                 fbq('trackCustom', 'ViewPrizeSignup');
-                rdt('track', 'Custom', { customEventName: 'View Prize Signup' });
                 gtag('event', 'view_prize_signup', {});
               }
             </script>

@@ -1,0 +1,49 @@
+<div class="items style1 onscroll-fade-in medium">
+  {{ range $story := where (.Site.RegularPages) "Section" "story" }}
+      {{ $firstProduct := index .Params.products 0 }}
+      {{ if $firstProduct }}
+        <section style="display:none;" id="product-{{ replace (replace .File.Path "story/" "") "/index.md" "" }}">
+          <div class="inner">
+              <div class="ecsp ecsp-SingleProduct-v2 ecsp-SingleProduct-v2-bordered ecsp-SingleProduct-v2-centered ecsp-Product ec-Product-{{ $firstProduct.id }}" itemscope itemtype="http://schema.org/Product" data-single-product-id="{{ $firstProduct.id }}">
+              <div itemprop="image"></div>
+              <h4 class="product-title" itemprop="name">{{ $firstProduct.title }}</h4>
+              {{ if $firstProduct.left }}
+                <strong style="color:orange; font-size:1.6em;">
+                    {{ $firstProduct.left }} LEFT OF {{ $firstProduct.total }}
+                </strong>
+              {{ end }}
+              <div itemtype="http://schema.org/Offer" itemscope itemprop="offers">
+              <div class="ecsp-productBrowser-price ecsp-price" itemprop="price" content="{{ $firstProduct.price }}">
+                  <div itemprop="priceCurrency" content="USD"></div>
+              </div>
+              </div>
+              <div customprop="vatinprice"></div>
+              <div customprop="options"></div>
+              <div customprop="numberinstock"></div>
+              <div customprop="addtobag"></div>
+              </div>
+          </div>
+        </section>
+      {{ end }}
+  {{ end }}
+</div>
+
+<script>
+  const paintingsViewed = JSON.parse(localStorage.getItem('paintingsViewed') || '{}');
+  const topThree = Object.entries(paintingsViewed)
+    .filter(([key, value]) => value > 0 && key !== 'story.md')
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 3)
+    .map(([key, value]) => ({ id: key, views: value }));
+  // topThree now contains up to three paintings with the highest views > 0, excluding 'story.md'
+
+  topThree.forEach(item => {
+    const section = document.getElementById('product-' + item.id);
+    if (section) {
+      section.style.display = 'inherit';
+    }
+  });
+</script>
+
+<script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?101772706&data_platform=singleproduct_v2" charset="utf-8"></script>
+<script type="text/javascript">xProduct()</script>

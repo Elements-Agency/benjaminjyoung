@@ -1,5 +1,5 @@
 ---
-layout: inside
+layout: withproducts
 title: Subscribed!
 heading: Thank You for Signing Up
 description: Thanks for signing up for my artist newsletter!
@@ -10,16 +10,26 @@ outputs: ['html']
 ---
 
 <script>
-  fbq('track', 'Lead');
-  rdt('track', 'Lead');
-  pintrk('track', 'lead', {
-    lead_type: 'Newsletter'
-  });
-  gtag('event', 'lead', {});
+  if (!localStorage.lead) {
+    fbq('track', 'Lead');
+    gtag('event', 'lead', {});
 
-  fbq('trackCustom', 'ViewSignup');
-  rdt('track', 'Custom', { customEventName: 'View Signup' });
-  gtag('event', 'view_signup', {});
+    localStorage.lead = true;
+  }
+
+  if (!localStorage.viewSubscribed) {
+    fbq('trackCustom', 'ViewSubscribed');
+    gtag('event', 'view_subscribed', {});
+
+    localStorage.viewSubscribed = true;
+  }
+
+  if (!localStorage.viewSignup) {
+    fbq('trackCustom', 'ViewSignup');
+    gtag('event', 'view_signup', {});
+
+    localStorage.viewSignup = true;
+  }
 
   trackEngaged();
 </script>
@@ -53,52 +63,11 @@ outputs: ['html']
 </script>
 
 <p style="text-align: center;">
+  After you copy the code, you can apply it at checkout in my <a href="/shop">online store</a> to get your discount.
+</p>
+
+<p style="text-align: center;">
   <a class="button large" href="/shop">
     Shop Now
-  </a>
-</p>
-
-<hr>
-
-<h2 style="text-align: center;">Browse Paintings</h2>
-<p style="text-align: center;">
-  Check out which painting you would want to select, by clicking any of the below images for more details:
-</p>
-
-<div class="box alt">
-  <div class="row gtr-50 gtr-uniform">
-    <div class="col-4"><span class="image fit">
-      {{< preview painting="/artwork/one-last-walk-with-izzy/" >}}
-    </span></div>
-    <div class="col-4"><span class="image fit">
-      {{< preview painting="/artwork/the-artists-assistant/" >}}
-    </span></div>
-    <div class="col-4"><span class="image fit">
-      {{< preview painting="/artwork/avalanche-lilies/" >}}
-    </span></div>
-    <div class="col-4"><span class="image fit">
-      {{< preview painting="/artwork/final-embrace/" >}}
-    </span></div>
-    <div class="col-4"><span class="image fit">
-      {{< preview painting="/artwork/circus-act/" >}}
-    </span></div>
-    <div class="col-4"><span class="image fit">
-      {{< preview painting="/artwork/okay-now/" >}}
-    </span></div>
-    <div class="col-4"><span class="image fit">
-      {{< preview painting="/artwork/hallelujah/" >}}
-    </span></div>
-      <div class="col-4"><span class="image fit">
-      {{< preview painting="/artwork/in-the-dark/" >}}
-    </span></div>
-    <div class="col-4"><span class="image fit">
-      {{< preview painting="/artwork/northern-cardinal/" >}}
-    </span></div>
-  </div>
-</div>
-
-<p style="text-align: center;">
-  <a class="button" href="/featured">
-    Explore All Artwork &gt;
   </a>
 </p>

@@ -8,7 +8,6 @@ outputs: ['html']
 <script>
   function trackStart() {
     fbq('trackCustom', 'StartLead');
-    rdt('track', 'Custom', { customEventName: 'Start Lead' });
     gtag('event', 'start_lead', {});
     
     trackEngaged();

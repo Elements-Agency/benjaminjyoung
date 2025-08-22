@@ -9,11 +9,9 @@
     viewSignupPixel = true;
     
     fbq('trackCustom', 'ViewSignup');
-    rdt('track', 'Custom', { customEventName: 'View Signup' });
     gtag('event', 'view_signup', {});
 
     fbq('trackCustom', 'ViewQualitySignup');
-    rdt('track', 'Custom', { customEventName: 'View Quality Signup' });
     gtag('event', 'view_quality_signup', {});
     
     trackEngaged();

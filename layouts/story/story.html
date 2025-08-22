@@ -144,12 +144,10 @@
             localStorage.viewSignup = true;
             
             fbq('trackCustom', 'ViewSignup');
-            rdt('track', 'Custom', { customEventName: 'View Signup' });
             gtag('event', 'view_signup', {});
 
             if (localStorage.potentialQuality) {
                 fbq('trackCustom', 'ViewQualitySignup');
-                rdt('track', 'Custom', { customEventName: 'View Quality Signup' });
                 gtag('event', 'view_quality_signup', {});
             }
             
@@ -164,8 +162,6 @@
             localStorage.clickedInterest = true;
 
             fbq('trackCustom', 'ClickAction');
-            rdt('track', 'Custom', { customEventName: 'Click Action' });
-            pintrk('track', 'action');
             gtag('event', 'click_action', {});
             
             trackEngaged();

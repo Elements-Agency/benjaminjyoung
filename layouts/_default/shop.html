@@ -15,14 +15,12 @@
         localStorage.viewshop = true;
 
         fbq('trackCustom', 'ViewShop');
-        pintrk('track', 'shop');
         gtag('event', 'view_shop', {});
 
         if (localStorage.viewpainting && !localStorage.engagedviewshop) {
             localStorage.engagedviewshop = true;
 
             fbq('trackCustom', 'EngagedViewShop');
-            pintrk('track', 'engaged_view_shop');
             gtag('event', 'engaged_view_painting', {});
         }
 
