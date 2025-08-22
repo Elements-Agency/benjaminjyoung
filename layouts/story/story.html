@@ -129,3 +129,46 @@
         {{ end }}
     </section>
 {{ end }}
+
+{{ define "scripts" }}
+    <script type="text/javascript">
+        function clickedQuality() {
+            localStorage.potentialQuality = true;
+        }
+
+        function focusSignup() {
+            if (localStorage.viewSignup) {
+                return;
+            }
+
+            localStorage.viewSignup = true;
+            
+            fbq('trackCustom', 'ViewSignup');
+            rdt('track', 'Custom', { customEventName: 'View Signup' });
+            gtag('event', 'view_signup', {});
+
+            if (localStorage.potentialQuality) {
+                fbq('trackCustom', 'ViewQualitySignup');
+                rdt('track', 'Custom', { customEventName: 'View Quality Signup' });
+                gtag('event', 'view_quality_signup', {});
+            }
+            
+            trackEngaged();
+        }
+
+        function trackInterest() {
+            if (localStorage.clickedInterest) {
+                return;
+            }
+
+            localStorage.clickedInterest = true;
+
+            fbq('trackCustom', 'ClickAction');
+            rdt('track', 'Custom', { customEventName: 'Click Action' });
+            pintrk('track', 'action');
+            gtag('event', 'click_action', {});
+            
+            trackEngaged();
+        }
+    </script>
+{{ end }}
