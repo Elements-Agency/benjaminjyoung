@@ -1,10 +1,12 @@
 ---
-title: Artwork Story
-heading: Artwork Story
+title: The Story
 description: My main bodies of work are laid out in my life's story.
 outputs: ['html']
+layout: story
 ---
-Coming soon.
+
+The featured artwork collectively traces a narrative arc drawn from my lived experiences. Each piece represents a distinct moment, embodying personal themes of adversity, resilience, connection, and growth. When presented in chronological order, these works unfold as a visual autobiography, allowing the viewer to witness the progression of events as they occurred in my life. Together, they form a cohesive body of work that reflects not only individual memories, but also the broader evolution of my artistic and personal journey.
+
 <!--
 {{< storyvid >}}
 

@@ -1,0 +1,131 @@
+{{ define "main" }}
+    <section class="banner style1 content-align-left image-position-center - orient-right">
+        <div class="content">
+            <div class="logo align-center">
+                <a href="/" aria-label="Home Page">
+                    <img src="/images/logo.webp" title="Artist Ben Young" alt="Artist Ben Young">
+                </a>
+                <h1>
+                    <h1>{{- .Title -}}</h1>
+                </h1>
+            </div>
+            <p class="major">
+                {{- .Content -}}
+            </p>
+        </div>
+
+        <div class="image">
+            <img src="/images/banner-sm.webp" srcset="/images/banner-sm.webp 500w, /images/banner.webp 1000w, /images/banner-lg.webp 1500w" alt="Artist Ben Young" width="700px" height="700px">
+        </div>
+    </section>
+
+    {{ $orient := "orient-left" }}
+    {{ range sort (where .Site.RegularPages "Section" "story") "Params.Date" "asc" }}
+        <section class="spotlight style1 {{ $orient }} content-align-left image-position-center onscroll-image-fade-in">
+            {{ if eq $orient "orient-left" }}
+                {{ $orient = "orient-right" }}
+            {{ else }}
+                {{ $orient = "orient-left" }}
+            {{ end }}
+
+            <div class="content">
+                <h2>{{ .Title }}</h2>
+                <p class="major" style="font-style: italic;">
+                    {{ .Params.Date.Format "January 2, 2006" }}
+                </p>
+                <p>
+                    {{ .Description }}
+                </p>
+
+                <ul class="actions special">
+                    <li>
+                        <a href="{{ .Permalink }}" class="button big wide">
+                            Read More
+                        </a>
+                    </li>
+                </ul>
+            </div>
+
+            {{ if (.Resources.GetMatch (printf "%spainting.jpg" (replace .File.Dir "story/" ""))) }}
+                <div class="image">
+                    {{ $side := .Resources.GetMatch (printf "%spainting.jpg" (replace .File.Dir "story/" "")) }}
+                    {{ $side := $side.Fit "800x800 webp q86" }}
+
+                    <img src="{{ $side.RelPermalink }}" alt="">
+                </div>
+            {{ end }}
+        </section>
+    {{ end }}
+
+    <section {{ if not (replace .Content .Summary "") }}id="more"{{ end }} class="spotlight style1 {{ if replace .Content .Summary "" }}orient-right{{ else }}orient-left{{ end }} content-align-left image-position-center onscroll-image-fade-in">
+        <div class="content">
+            <h2>About the Artist</h2>
+            <p>
+                Ben Young is a contemporary fine artist originally from Appalachia, Ohio.
+                Originally a Software Engineer, he began painting in watercolor and oil less than two years ago, and his work has quickly gained attention for its emotional depth and storytelling.
+                Each piece is a personal narrative, rooted in lived experience and expressed through a sensitive, evocative style.
+                Each piece touches on themes of loss, love, family, and resilience, often drawing from his own life, including the tragic loss of his fiancée and journey it took to overcome those emotional burdens.
+                His paintings resonate with collectors drawn to authenticity, vulnerability, and a fresh, emerging voice in American art.
+            </p>
+            
+            <ul class="actions stacked">
+                <li>
+                    <a href="#signup" class="button big wide smooth-scroll" onclick="clickedQuality(); trackInterest(); focusSignup();">
+                        Sign Up for Newsletter 
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <div class="image">
+            <img src="/images/banner-sm.webp" srcset="/images/banner-sm.webp 500w, /images/banner.webp 1000w, /images/banner-lg.webp 1500w" alt="Artist Ben Young" width="700px" height="700px">
+        </div>
+    </section>
+
+    <section id="signup" class="wrapper style1 align-center">
+        <div class="inner">
+            <h2>Ready to Learn More?</h2>
+            <p>
+                If you would like to learn more about the inspiration behind this piece, explore the background story, view the creative process, and access additional details.
+                As a thank-you, you'll receive an exclusive <strong>20% discount</strong> on all orders and you'll be entered in monthly drawing to <strong>win a free limited reproduction</strong>.
+            </p>
+
+            <form method="post" action="https://benjaminjyoung.us14.list-manage.com/subscribe/post?u=5a284b4c27bab02102d3645de&amp;id=a01ee307ec&amp;f_id=0087c0e0f0" class="align-left" target="_blank">
+                <div class="fields">
+                    <div class="field">
+                        <label for="email">Email</label>
+                        <input type="text" name="EMAIL" id="name" value="" required onfocus="focusSignup();">
+                    </div>
+                    <div class="field half">
+                        <label for="fname">First Name</label>
+                        <input type="text" name="FNAME" id="fname" value="" onfocus="focusSignup();">
+                    </div>
+                    <div class="field half">
+                        <label for="lname">Last Name</label>
+                        <input type="text" name="LNAME" id="lname" value="" onfocus="focusSignup();">
+                    </div>
+                </div>
+                <div hidden>
+                    <input type="hidden" id="hid-MMERGE7" name="MMERGE7" value="{{ .Title }}">
+                    <input type="hidden" name="tags" value="7257335,7257510">
+                </div>
+                <div aria-hidden="true" style="position: absolute; left: -5000px;">
+                        <input type="text" name="b_5a284b4c27bab02102d3645de_a01ee307ec" tabindex="-1" value="">
+                    </div>
+                <ul class="actions">
+                    <li><input type="submit" name="submit" id="submit" value="Subscribe"></li>
+                </ul>
+            </form>
+        </div>
+
+
+
+        {{ if (.Resources.GetMatch (printf "%scollector.jpg" (replace .File.Dir "story/" ""))) }}
+            <div class="image">
+                {{ $side := .Resources.GetMatch (printf "%scollector.jpg" (replace .File.Dir "story/" "")) }}
+                {{ $side := $side.Fit "800x800 webp q86" }}
+
+                <img src="{{ $side.RelPermalink }}" alt="">
+            </div>
+        {{ end }}
+    </section>
+{{ end }}
