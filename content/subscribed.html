@@ -25,11 +25,37 @@ outputs: ['html']
 </script>
 
 <p>
-  As a reward, use the discount code <strong><em>NEWSLETTER20</em></strong> for <strong>20% OFF</strong> on all orders.
+  As a reward, use this discount code below for <strong>20% OFF</strong> on all orders.
+  You are also now entered for a chance to win a free limited art reproduction, automatically each month!
 </p>
 
-<p>
-  You are now entered for a chance to <strong>win a free limited art reproduction</strong>, automatically each month!
+<div style="display: flex; align-items: center; justify-content: center; margin: 2em auto; width: 80%; max-width: 600px; border-radius: 8px; overflow: hidden; padding: 0;">
+  <div style="background: #fafafa; border: 2px dashed #aeaeae; border-radius: 8px 0 0 8px; padding: 0 2em; font-size: 2em; font-weight: bold; flex: 1; text-align: center;">
+    <span id="split-discount-code">NEWSLETTER20</span>
+  </div>
+  <button id="split-copy-btn" style=" border-radius: 0 8px 8px 0; padding: 1em 2em; font-size: 1em; font-weight: bold; cursor: pointer; transition: background 0.3s; height:100%; margin: 0;">
+    Copy
+  </button>
+</div>
+<script>
+  const splitCopyBtn = document.getElementById('split-copy-btn');
+  splitCopyBtn.addEventListener('click', function() {
+    navigator.clipboard.writeText(document.getElementById('split-discount-code').textContent).then(() => {
+      const original = splitCopyBtn.textContent;
+      splitCopyBtn.textContent = 'Copied!';
+      splitCopyBtn.style.background = '#c8ffc8';
+      setTimeout(() => {
+        splitCopyBtn.textContent = original;
+        splitCopyBtn.style.background = '#e0e0e0';
+      }, 2000);
+    });
+  });
+</script>
+
+<p style="text-align: center;">
+  <a class="button large" href="/shop">
+    Shop Now
+  </a>
 </p>
 
 <hr>
