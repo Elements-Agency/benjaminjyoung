@@ -8,12 +8,12 @@ author: Benjamin J. Young
 buy: Corporate Contempt is available for acquisition as the original watercolor painting or as a high-quality limited reproduction. Collectors may choose between owning the one-of-a-kind original or a museum-grade print that preserves the emotional depth and detail of the work. Both options offer a meaningful way to bring this powerful and personal piece into your collection.
 
 products:
-    - id: 734463473
-      name: Original Watercolor Painting
     - id: 734463429
       name: 9x12in Limited Reproduction
       left: 56
       total: 60
+    - id: 734463473
+      name: Original Watercolor Painting
 ---
 
 There’s a certain silence that falls in a corporate office when the emails stop, the calls fade, and all that’s left is the hum of fluorescent lights and the weight of your own thoughts.

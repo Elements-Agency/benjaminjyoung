@@ -8,12 +8,12 @@ author: Benjamin J. Young
 buy: Howard's Hills is available for acquisition as the original watercolor painting or as a high-quality limited reproduction. Collectors may choose between owning the one-of-a-kind original or a museum-grade print that preserves the emotional depth and detail of the work. Both options offer a meaningful way to bring this powerful and personal piece into your collection.
 
 products:
-    - id: 694481795
-      name: Original Watercolor Painting
     - id: 694564503
       name: 9x12in Limited Reproduction
       left: 55
       total: 60
+    - id: 694481795
+      name: Original Watercolor Painting
 ---
 
 In ___Howard’s Hills___, I return home—not only in geography, but in heart. Set in the quiet hills of Appalachian Ohio where I was raised, the painting captures a deeply personal and intimate moment: my elderly father making his way across the familiar terrain of our shared past. It’s not just a portrait of landscape—it’s a portrait of legacy.

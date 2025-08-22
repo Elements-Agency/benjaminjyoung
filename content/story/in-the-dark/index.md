@@ -8,8 +8,6 @@ author: Benjamin J. Young
 buy: In The Dark is available for acquisition as the original watercolor painting or as a high-quality limited reproduction. Collectors may choose between owning the one-of-a-kind original or a museum-grade print that preserves the emotional depth and detail of the work. Both options offer a meaningful way to bring this powerful and personal piece into your collection.
 
 products:
-    - id: 746855079
-      name: Original Watercolor Painting
     - id: 746858779
       name: 9x12in Limited Reproduction
       left: 56
@@ -18,6 +16,8 @@ products:
       name: 18x24in Limited Reproduction
       left: 29
       total: 30
+    - id: 746855079
+      name: Original Watercolor Painting
 ---
 
 There are moments when darkness feels complete—when loss, grief, or loneliness surrounds us. ___In the Dark___ was born from such a space.

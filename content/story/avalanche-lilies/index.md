@@ -8,12 +8,12 @@ author: Benjamin J. Young
 buy: Avalanche Lilies is available for acquisition as the original watercolor painting or as a high-quality limited reproduction. Collectors may choose between owning the one-of-a-kind original or a museum-grade print that preserves the emotional depth and detail of the work. Both options offer a meaningful way to bring this powerful and personal piece into your collection.
 
 products:
-    - id: 718508603
-      name: Original Watercolor Painting
     - id: 718515517
       name: 9x12in Limited Reproduction
       left: 58
       total: 60
+    - id: 718508603
+      name: Original Watercolor Painting
 ---
 
 There are moments in life that stay suspended in time—promises made, hopes whispered, dreams never fully realized. ___Avalanche Lilies___ is born from one of those moments.

@@ -8,8 +8,6 @@ author: Benjamin J. Young
 buy: Final Embrace is available for acquisition as the original oil painting or as a high-quality limited reproduction. Collectors may choose between owning the one-of-a-kind original or a museum-grade print that preserves the emotional depth and detail of the work. Both options offer a meaningful way to bring this powerful and personal piece into your collection.
 
 products:
-    - id: 716381943
-      name: Original Oil Painting
     - id: 716135890
       name: 9x12in Limited Reproduction
       left: 55
@@ -18,6 +16,8 @@ products:
       name: 18x24in Limited Reproduction
       left: 29
       total: 30
+    - id: 716381943
+      name: Original Oil Painting
 ---
 
 Final Embrace is the most vulnerable painting I’ve ever created. It’s born from a dream — or perhaps a memory — that came to me on the edge of life itself.
