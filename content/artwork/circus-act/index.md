@@ -59,6 +59,8 @@ reproductions:
     - 1: Ben Young (East Sparta, OH)
 
 tag: Circus Act is a watercolor painting of a clown standing trial, inspired by Edward Hopper's Soir Bleu.
+
+story: /story/circus-act
 ---
 
 **Circus Act**  presents a haunting and satirical courtroom drama in which a clown—dressed in exaggerated red-and-white stripes with a stern, painted expression—stands accused of being a menace to society. The figure dominates the witness stand, looming uncomfortably large in both presence and implication. Behind him, a row of stone-faced jurors looks on with a mix of judgment and detachment, while silhouetted members of the audience watch the proceedings in silence. The stark lighting and somber tones heighten the absurdity of the scene, turning the courtroom into a stage where societal fears, scapegoating, and spectacle collide. Through this unsettling juxtaposition of comedy and condemnation, Circus Act invites the viewer to question who defines disorder—and whether the real performance lies in the trial itself.

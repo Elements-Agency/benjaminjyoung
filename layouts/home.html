@@ -88,6 +88,8 @@
 		</script>
 	</head>
 	<body class="is-preload">
+		
+
 
 		<!-- Wrapper -->
 			<div id="wrapper" class="divided">
@@ -95,6 +97,30 @@
 				<!-- One -->
 					<section class="banner style1 orient-left content-align-left image-position-center fullscreen">
 						<div class="content">
+							<header id="header">
+								<div class="inner">
+									<nav class="left">
+										<ul>
+											<li><a href="#menu">Menu</a></li>
+										</ul>
+									</nav>
+
+									<!-- Menu -->
+									<nav id="menu" class="left">
+										<h2>Menu</h2>
+										<ul>
+											{{ range .Site.Menus.main }}
+												<li>
+													<a href="{{ .URL }}" title="{{ i18n "pageTitle" . }}">
+														{{ .Name }}
+													</a>
+												</li>
+											{{ end }}
+										</ul>
+									</nav>
+								</div>
+							</header>
+
 							<div class="logo align-center">
 								<h1>
 									<a href="/" aria-label="Home Page">
@@ -106,7 +132,7 @@
 								{{ .Content }}
 							</p>
 							<ul class="actions stacked align-center">
-								<li><a href="#gallery" class="button big wide smooth-scroll-middle">See The Art</a></li>
+								<li><a href="#gallery" class="button big wide smooth-scroll">See The Art</a></li>
 							</ul>
 						</div>
 						<div class="image">
@@ -169,7 +195,7 @@
                                     {{ $thumbnailsm := $thumbnailsm.Resize "210x webp q90" }}
 
                                     <article>
-                                        <a href="{{ .RelPermalink }}" class="image">
+                                        <a href="{{ if .Params.story }}{{ .Params.story }}{{ else }}{{ .RelPermalink }}{{ end }}" class="image">
                                             <img src="{{ $thumbnailsm.RelPermalink }}"
 											srcset="{{ $thumbnailsm.RelPermalink }} 210w, {{ $thumbnail.RelPermalink }} 420w"
 											loading="lazy"
@@ -188,8 +214,15 @@
                         </div>
 
 						<div class="inner">
-							<ul class="actions stacked">
+							<p>
+								Ben's featured body of work follows a narrative that runs parallel to my his life.
+								Each painting marks a moment, emotion, or turning point, creating a visual timeline that mirrors my personal journey.
+								From early struggles and loss, to connection, healing, and growth.
+								In this way, the collection is not only a series of individual paintings, but also a living story—an unfolding reflection of the path he has walked.
+							</p>
+							<ul class="actions special">
 								<li><a href="/featured" class="button">View All Featured Work</a></li>
+								<li><a href="/story" class="button">The Artist's Story</a></li>
 							</ul>
 
 							<!--<h3>Ben's Featured Work Are His Experiences</h3>
@@ -249,6 +282,7 @@
                                 As well as any upcoming exhibits Ben will be at or sales going on.
 								<span id="addcountdown"></span>
 							</p>
+							
 							<script>
 								// Insert the date two days from today in id addcountdown
 								var date = new Date();
@@ -262,10 +296,45 @@
 								});
 							
 								countdown.innerHTML = "Offer ends <u>" + formattedcountdown + "</u>.";
+
+								function focusSignup() {
+									if (localStorage.viewSignup) {
+										return;
+									}
+
+									localStorage.viewSignup = true;
+									
+									fbq('trackCustom', 'ViewSignup');
+									gtag('event', 'view_signup', {});
+								}
 							</script>
-							<ul class="actions stacked">
-								<li><a href="/sign-up?driven=home" class="button">Sign Up</a></li>
-							</ul>
+
+							<form method="post" action="https://benjaminjyoung.us14.list-manage.com/subscribe/post?u=5a284b4c27bab02102d3645de&amp;id=a01ee307ec&amp;f_id=0087c0e0f0" class="align-left" target="_blank">
+								<div class="fields">
+									<div class="field">
+										<label for="email">Email</label>
+										<input type="text" name="EMAIL" id="name" value="" required onfocus="focusSignup();">
+									</div>
+									<div class="field half">
+										<label for="fname">First Name</label>
+										<input type="text" name="FNAME" id="fname" value="" onfocus="focusSignup();">
+									</div>
+									<div class="field half">
+										<label for="lname">Last Name</label>
+										<input type="text" name="LNAME" id="lname" value="" onfocus="focusSignup();">
+									</div>
+								</div>
+								<div hidden>
+									<input type="hidden" id="hid-MMERGE7" name="MMERGE7" value="{{ .Title }}">
+									<input type="hidden" name="tags" value="7257335,7257510">
+								</div>
+								<div aria-hidden="true" style="position: absolute; left: -5000px;">
+										<input type="text" name="b_5a284b4c27bab02102d3645de_a01ee307ec" tabindex="-1" value="">
+									</div>
+								<ul class="actions">
+									<li><input type="submit" name="submit" id="submit" value="Subscribe"></li>
+								</ul>
+							</form>
 						</div>
 						<div class="image">
 							<img src="images/spotlight02.webp" loading="lazy" alt="Kolp's Attic location" />

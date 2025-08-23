@@ -206,6 +206,10 @@
                 <br>
                 <a class="preview" href="{{ $full.RelPermalink }}">Click Image to View Full Screen</a>
               </p>
+
+              {{ if .Params.story }}
+                <a class="button large" href="{{ .Params.story }}">Read The Story Behind This Painting &gt;</a>
+              {{ end }}
             {{ end }}
           </header>
 

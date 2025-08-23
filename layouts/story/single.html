@@ -2,6 +2,30 @@
     {{ $full := .Resources.GetMatch (printf "%spainting.jpg" (replace .File.Dir "story/" "")) }}
     <section class="banner style1 content-align-left image-position-center - orient-right">
         <div class="content">
+            <header id="header">
+                <div class="inner">
+                    <nav>
+                        <ul>
+                            <li><a href="#menu">Menu</a></li>
+                        </ul>
+                    </nav>
+
+                    <!-- Menu -->
+                    <nav id="menu">
+                        <h2>Menu</h2>
+                        <ul>
+                            {{ range .Site.Menus.main }}
+                                <li>
+                                    <a href="{{ .URL }}" title="{{ i18n "pageTitle" . }}">
+                                        {{ .Name }}
+                                    </a>
+                                </li>
+                            {{ end }}
+                        </ul>
+                    </nav>
+                </div>
+            </header>
+
             <div class="logo align-center">
                 <a href="/" aria-label="Home Page">
                     <img src="/images/logo.webp" title="Artist Ben Young" alt="Artist Ben Young">
@@ -323,10 +347,33 @@
             {{ $all := sort (where .Site.RegularPages "Section" "story") "Params.date" "asc" }}
             {{ $found := false }}
             {{ $something := false }}
+            {{ $last := false}}
             {{ range $i, $p := $all }}
                 {{ if eq $p.Permalink $current.Permalink }}
                     {{ $found = true }}
-                    {{ continue }}
+
+                    {{ if $last }}
+                        {{ $something = true }}
+                        {{ $painting := $last.Resources.GetMatch (printf "%spainting.jpg" (replace $last.File.Dir "story/" "")) }}
+                        {{ if $painting }}
+                            {{ $painting := $painting.Fill "420x350 Center" }}
+                            {{ $painting := $painting.Resize "420x webp q90" }}
+                            <article>
+                                <a href="{{ $last.RelPermalink }}" class="image">
+                                    <img src="{{ $painting.RelPermalink }}" alt="{{ $last.Title }}" loading="lazy">
+                                </a>
+                                <div class="caption">
+                                    <h3>{{ $last.Title }}</h3>
+                                    <p>{{ $last.Date | time.Format "January 2, 2006" }}</p>
+                                    <ul class="actions fixed">
+                                        <li><span class="button small">Details</span></li>
+                                    </ul>
+                                </div>
+                            </article>
+                        {{ end }}
+                    {{ end }}
+                {{ else }}
+                    {{ $last = $p }}
                 {{ end }}
                 {{ if $found }}
                     {{ $something = true }}
@@ -335,12 +382,12 @@
                         {{ $painting := $painting.Fill "420x350 Center" }}
                         {{ $painting := $painting.Resize "420x webp q90" }}
                         <article>
-                            <a href="{{ $p.RelPermalink }}" class="image">
+                            <a href="{{ $p.RelPermalink }}" class="image {{ if eq $p.Permalink $current.Permalink }}current{{ end }}">
                                 <img src="{{ $painting.RelPermalink }}" alt="{{ $p.Title }}" loading="lazy">
                             </a>
                             <div class="caption">
                                 <h3>{{ $p.Title }}</h3>
-                                <p>{{ .Date | time.Format "January 2, 2006" }}</p>
+                                <p>{{ $p.Date | time.Format "January 2, 2006" }}</p>
                                 <ul class="actions fixed">
                                     <li><span class="button small">Details</span></li>
                                 </ul>

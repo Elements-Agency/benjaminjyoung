@@ -39,7 +39,7 @@ products:
     - id: 711193420
       name: 9x12in Reproduction
       price: $60
-      left: 52
+      left: 49
     - id: 765476757
       name: 18x24in Reproduction
       price: $200
@@ -62,6 +62,9 @@ reproductions:
     - 6: Pandora Daniels (Garfield Heights, OH)
     - 7: The Pines Healthcare Center (Canton, OH)
     - 8: Reserved
+    - 9: Kelly Martin (Canton, OH)
+    - 10: Alison (Canton, OH)
+    - 11: Sheri (Canton, OH)
   - 18x24in:
     - 1: Ben Young (East Sparta, OH)
   - 30x40in:
