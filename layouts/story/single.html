@@ -1,8 +1,5 @@
 {{ define "main" }}
     {{ $full := .Resources.GetMatch (printf "%spainting.jpg" (replace .File.Dir "story/" "")) }}
-    {{ if $full}}
-        {{ $full := $full.Fit "1600x1600 webp q96" }}
-    {{ end }}
     <section class="banner style1 content-align-left image-position-center - orient-right">
         <div class="content">
             <div class="logo align-center">
@@ -18,21 +15,25 @@
             </p>
             <ul class="actions special">
                 {{ if $full }}
-                    <li class="gallery lightbox">
-                        <a href="{{ $full.RelPermalink }}" class="button big wide">
+                    <li class="gallery">
+                        <a href="{{ $full.RelPermalink }}" class="button big wide" data-fancybox data-caption="{{ .Title }} by Ben Young" aria-label="View Full Painting" >
                             View Full Painting
                         </a>
                     </li>
+                    <script>
+                        Fancybox.bind("[data-fancybox]", {});
+                    </script>
                 {{ end }}
                 <li><a href="#more" class="button big wide smooth-scroll-middle">Learn More</a></li>
             </ul>
         </div>
 
         {{ if $full }}
+            {{ $big := $full.Fit "1600x1600 webp q96" }}
             {{ $medium := $full.Fit "1200x1200 webp q96" }}
             {{ $small := $full.Fit "600x600 webp q96" }}
             <div class="image">
-                <img src="{{ $small.RelPermalink }}" fetchpriority="high"  srcset="{{ $small.RelPermalink }} 500w, {{ $medium.RelPermalink }} 1000w, {{ $full.RelPermalink }} 1500w" alt="{{ .Params.subtitle }}" />
+                <img src="{{ $small.RelPermalink }}" fetchpriority="high"  srcset="{{ $small.RelPermalink }} 500w, {{ $medium.RelPermalink }} 1000w, {{ $big.RelPermalink }} 1500w" alt="{{ .Params.subtitle }}" />
             </div>
         {{ end }}
     </section>
@@ -376,6 +377,13 @@
     </section>
 {{ end }}
 
+{{ define "styles" }}
+    <link
+        rel="stylesheet"
+        href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@6.0/dist/fancybox/fancybox.css"
+        />
+{{ end }}
+
 {{ define "scripts" }}
     <script type="text/javascript">
         function clickedQuality() {
@@ -433,4 +441,6 @@
             localStorage.paintingsViewed = JSON.stringify(paintingsViewed);
         }
     </script>
+
+    <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@6.0/dist/fancybox/fancybox.umd.js"></script>
 {{ end }}
