@@ -101,6 +101,7 @@ reproductions:
     - 38: Richard DeTriquet (Fredericksburg, Virginia)
     - 39: Reserved
     - 40: Reserved
+    - 41: Richard DeTriquet (Fredericksburg, Virginia)
   - 18x24in:
     - 1: Ben Young (East Sparta, OH)
     - 2: Susan Lehman (Jupiter, FL)

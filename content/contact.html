@@ -2,7 +2,7 @@
 layout: inside
 title: Contact Artist
 heading: Contact Artist
-description: Ben Young is located in Kolp's Attic in downtown Canton, Ohio. Open on First Fridays or <a href="/appointment">by appointment</a>.
+description: Ben Young is located in Kolp's Attic in downtown Canton, Ohio. Open on First Fridays or by appointment.
 outputs: ['html']
 ---
 
@@ -11,13 +11,24 @@ outputs: ['html']
   Or if you would like to visit my studio outside of First Friday, <a href="/appointment">visit the appointments page</a>.
 </p>
 
+<ul class="actions special">
+  <li>
+    <a class="button primary" href="#contactform">
+      Send a Message
+    </a>
+  </li>
+  <li>
+    <a class="button secondary" href="https://m.me/artist.benjamin.young" target="_blank" onclick="fbq('track', 'Contact');">
+      <i class="icon brands alt fa-facebook"></i> Message on Facebook
+    </a>
+  </li>
+</ul>
+
+<hr>
+
 <div class="row">
-  <div class="col-6 col-12-small">
-    <h3>Location</h3>
-    <p>
-      I am located in Kolp's Attic, an art gallery and studio space in downtown Canton, Ohio.
-      The address is:
-    </p>
+  <div class="col-3 col-12-small">
+    <h3>Address</h3>
     <p>
       <address>
         <strong>Ben Young Arts LLC</strong><br>
@@ -29,9 +40,12 @@ outputs: ['html']
       </address>
     </p>
   </div>
-  <div class="col-6 col-12-small">
-    <h3>Contact Information</h3>
+  <div class="col-5 col-12-small">
+    <h3>Information</h3>
     <ul style="list-style:none;">
+      <li>
+        Website: <a href="https://benjaminjyoung.com">benjaminjyoung.com</a>
+      </li>
       <li>
         Email: <a href="mailto:assistance@benjaminjyoung.com">assistance@benjaminjyoung.com</a>
       </li>
@@ -39,32 +53,19 @@ outputs: ['html']
         Phone: <a href="tel:+1330-818-9181">+1 (330) 818-9181</a>
       </li>
     </ul>
-
-    <p>
-      Alternatively, you can use the contact form below.
-    </p>
-
-    <a class="button secondary" href="https://m.me/artist.benjamin.young" target="_blank" onclick="fbq('track', 'Contact');">
-      <i class="icon brands alt fa-facebook"></i> Message on Facebook
+  </div>
+  <div class="col-4 col-12-small">
+    <h3>Hours of Operation</h3>
+    <p>By appointments ONLY or on open studio during First Fridays.</p>
+    <a class="button" href="/appointment">
+      Schedule Appointment
     </a>
   </div>
 </div>
 
-<p>
-  I am open to the public on First Fridays from 4-8pm, or <a href="/appointment">by appointment</a>.
-  Please <a href="#contactform">contact me</a> to schedule a visit.
-</p>
-
-<h3>Commission Requests</h3>
-<p>
-  Currently, <strong>I do not accept commission requests.</strong>
-  With the time I have available, I am focused on creating narrative paintings that I already have extensively planned out for my <a href="/story">timeline</a>.
-  If you are interested in purchasing any of my artwork, please visit my <a href="/shop">shop</a> to see what is currently available.
-</p>
-
 <hr>
 
-<h3 id="contactform">Contact Form</h3>
+<h3 id="contactform">Request Form</h3>
 <form
   action="https://formspree.io/f/mwkgopkg"
   method="POST"
@@ -85,12 +86,3 @@ outputs: ['html']
   <!-- your other form fields go here -->
   <button type="submit">Send</button>
 </form>
-
-<hr>
-
-<h3>Map to Studio</h3>
-<iframe src="https://storage.googleapis.com/maps-solutions-51zs7az7c8/locator-plus/g3u5/locator-plus.html"
-  width="100%" height="400px"
-  style="border:0;"
-  loading="lazy">
-</iframe>
