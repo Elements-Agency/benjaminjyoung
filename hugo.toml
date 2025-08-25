@@ -53,13 +53,17 @@ timeout = '600'
     pageRef = '/featured'
     weight = 30
 [[menus.main]]
+    name = 'Shop'
+    pageRef = '/shop'
+    weight = 40
+[[menus.main]]
     name = 'News'
     pageRef = '/news'
-    weight = 40
+    weight = 50
 [[menus.main]]
     name = 'Contact'
     pageRef = '/contact'
-    weight = 50
+    weight = 60
 
 [[menus.inside]]
     name = 'Home'
