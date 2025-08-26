@@ -40,7 +40,7 @@ products:
       name: 9x12in Reproduction
       price: $90
       limited: 60
-      left: 20
+      left: 18
     - id: 758199794
       name: 18x24in Reproduction
       price: $190
@@ -50,7 +50,7 @@ products:
       name: 30x40in Reproduction
       price: $390
       limited: 10
-      left: 8
+      left: 7
     - id: 708668936
       name: Original Painting
       sold: true
@@ -102,6 +102,7 @@ reproductions:
     - 39: Reserved
     - 40: Reserved
     - 41: Richard DeTriquet (Fredericksburg, Virginia)
+    - 42: Crystal Riley (Mount Washington, KY)
   - 18x24in:
     - 1: Ben Young (East Sparta, OH)
     - 2: Susan Lehman (Jupiter, FL)
@@ -110,6 +111,7 @@ reproductions:
   - 30x40in:
     - 1: Ben Young (East Sparta, OH)
     - 2: Jim Lynd (Jeffersonville, IN)
+    - 3: Reserved
 
 tag: The man walking is myself, with the blond hair shimmering from the bright autumn sun. The companion by my side is my late Border Collie dog, Izzy. The landscape is inspired by the Ohio Appalachian Plateau hills I grew up with. It's a memory I never got to have with my faithful family member, before she passed. She was always by my side in her life span, but sometimes time escapes us too quickly, and by the time I was in healthy enough state to hike myself, she had grown too elderly and weary to join me in my long walks of reflection.
 
