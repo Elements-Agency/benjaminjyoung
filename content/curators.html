@@ -128,6 +128,19 @@ outputs: ['html']
 
     <br>
 
+    <h3>Geographical Sales by State</h3>
+    <p>
+
+    </p>
+
+    <div class="row">
+        <div class="col-6">
+            <canvas id="States"></canvas>
+        </div>
+    </div>
+
+    <br>
+
     <h3>Geographical Sales by City</h3>
     <p>
         The majority of my art sales are concentrated on the East Coast of the United States, with a smaller but meaningful presence on the West Coast. This geographic pattern is likely influenced by the strong Americana themes woven throughout my work—imagery that resonates deeply with collectors drawn to nostalgic and regional narratives. Growing up in Appalachia, Ohio, surrounded by Midwestern traditions and landscapes, has shaped my artistic voice. These roots continue to inspire pieces that reflect the spirit, history, and character of rural and small-town America, connecting especially with audiences who appreciate that heritage.
@@ -184,6 +197,11 @@ outputs: ['html']
       <gmp-advanced-marker position="42.9691175, -85.6701092" title="Grand Rapids, MI"></gmp-advanced-marker> <!-- 1 -->
       <gmp-advanced-marker position="43.4785189, -110.7606212" title="Jackson, WY"></gmp-advanced-marker> <!-- 1 -->
       <gmp-advanced-marker position="41.2939386,-82.2173786" title="Oberlin, OH"></gmp-advanced-marker> <!-- 1 -->
+      <gmp-advanced-marker position="42.3554334,-71.060511" title="Boston, MA"></gmp-advanced-marker> <!-- 1 -->
+      <gmp-advanced-marker position="40.05299377441406,-80.6274185180664" title="Triadelphia, WV"></gmp-advanced-marker> <!-- 1 -->
+      <gmp-advanced-marker position="38.3011360168457,-77.45928955078125" title="Fredericksburg, VA"></gmp-advanced-marker> <!-- 1 -->
+      <gmp-advanced-marker position="38.287532806396484,-85.73030090332031" title="Jeffersonville, IN"></gmp-advanced-marker> <!-- 1 -->
+      <gmp-advanced-marker position="38.0500627,-85.5457877" title="Mount Washington, KY"></gmp-advanced-marker> <!-- 1 -->
     </gmp-map>
 
     <br>
@@ -487,4 +505,75 @@ outputs: ['html']
             }
         };
         new Chart(scatter_ctx, scatter_config);
+
+        const states_ctx = document.getElementById('States');
+        const states_data = {
+            labels: [
+                'OH',
+                'MI',
+                'PA',
+                'NC',
+                'VA',
+                'FL',
+                'TX',
+                'CA',
+                'NJ',
+                'MA',
+                'KY',
+                'SC',
+                'IA',
+                'WA',
+                'OR',
+                'MN',
+                'TN',
+                'IL',
+                'NM',
+                'WY',
+                'IN',
+                'WV',
+            ],
+            datasets: [
+                {
+                    label: 'Number of Sales',
+                    data: [
+                        40, // OH
+                        5, // MI
+                        4, // PA
+                        4, // NC
+                        4, // VA
+                        3, // FL
+                        3, // TX
+                        3, // CA
+                        2, // NJ
+                        2, // MA
+                        2, // KY
+                        1, // SC
+                        1, // IA
+                        1, // WA
+                        1, // OR
+                        1, // MN
+                        1, // TN
+                        1, // IL
+                        1, // NM
+                        1, // WY
+                        1, // IN
+                        1, // WV
+                    ],
+                    hoverOffset: 4
+                }
+            ]
+        };
+        const states_config = {
+            type: 'pie',
+            data: states_data,
+            options: {
+                plugins: {
+                    title: {
+                        display: true,
+                        text: 'State Sales',
+                    }
+                }
+            }
+        };
+        new Chart(states_ctx, states_config);
     </script>
