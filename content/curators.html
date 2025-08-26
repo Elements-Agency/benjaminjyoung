@@ -128,19 +128,6 @@ outputs: ['html']
 
     <br>
 
-    <h3>Geographical Sales by State</h3>
-    <p>
-
-    </p>
-
-    <div class="row">
-        <div class="col-6">
-            <canvas id="States"></canvas>
-        </div>
-    </div>
-
-    <br>
-
     <h3>Geographical Sales by City</h3>
     <p>
         The majority of my art sales are concentrated on the East Coast of the United States, with a smaller but meaningful presence on the West Coast. This geographic pattern is likely influenced by the strong Americana themes woven throughout my work—imagery that resonates deeply with collectors drawn to nostalgic and regional narratives. Growing up in Appalachia, Ohio, surrounded by Midwestern traditions and landscapes, has shaped my artistic voice. These roots continue to inspire pieces that reflect the spirit, history, and character of rural and small-town America, connecting especially with audiences who appreciate that heritage.
@@ -203,6 +190,26 @@ outputs: ['html']
       <gmp-advanced-marker position="38.287532806396484,-85.73030090332031" title="Jeffersonville, IN"></gmp-advanced-marker> <!-- 1 -->
       <gmp-advanced-marker position="38.0500627,-85.5457877" title="Mount Washington, KY"></gmp-advanced-marker> <!-- 1 -->
     </gmp-map>
+
+    <br>
+
+    <h3>Geographical Sales by State</h3>
+    <p>
+        The states with the highest number of sales are in the first pie graph
+        When adjusted for population (sales / (state population / US population)), the states with the highest per capita sales are in the second pie graph.
+        This indicates a strong regional interest in my work, particularly in areas with rich cultural histories and vibrant art communities, especially in Appalachian or rural states.
+        The data suggests that my art resonates well in regions that appreciate Americana themes and narrative-driven pieces.
+        This information can be valuable for curators and galleries considering exhibitions, as it highlights potential markets where my work has already found a receptive audience.
+    </p>
+
+    <div class="row">
+        <div class="col-6">
+            <canvas id="States"></canvas>
+        </div>
+        <div class="col-6">
+            <canvas id="StatesByCapita"></canvas>
+        </div>
+    </div>
 
     <br>
 
@@ -509,71 +516,92 @@ outputs: ['html']
         const states_ctx = document.getElementById('States');
         const states_data = {
             labels: [
-                'OH',
-                'MI',
-                'PA',
-                'NC',
-                'VA',
-                'FL',
-                'TX',
-                'CA',
-                'NJ',
-                'MA',
-                'KY',
-                'SC',
-                'IA',
-                'WA',
-                'OR',
-                'MN',
-                'TN',
-                'IL',
-                'NM',
-                'WY',
-                'IN',
-                'WV',
+            'OH',
+            'MI',
+            'PA',
+            'NC',
+            'VA',
+            'FL',
+            'TX',
+            'CA',
+            'NJ',
+            'MA',
+            'KY'
             ],
             datasets: [
-                {
-                    label: 'Number of Sales',
-                    data: [
-                        40, // OH
-                        5, // MI
-                        4, // PA
-                        4, // NC
-                        4, // VA
-                        3, // FL
-                        3, // TX
-                        3, // CA
-                        2, // NJ
-                        2, // MA
-                        2, // KY
-                        1, // SC
-                        1, // IA
-                        1, // WA
-                        1, // OR
-                        1, // MN
-                        1, // TN
-                        1, // IL
-                        1, // NM
-                        1, // WY
-                        1, // IN
-                        1, // WV
-                    ],
-                    hoverOffset: 4
-                }
+            {
+                label: 'Number of Sales',
+                data: [
+                40, // OH
+                5, // MI
+                4, // PA
+                4, // NC
+                4, // VA
+                3, // FL
+                3, // TX
+                3, // CA
+                2, // NJ
+                2, // MA
+                2, // KY
+                ],
+                hoverOffset: 4
+            }
             ]
         };
         const states_config = {
             type: 'pie',
             data: states_data,
             options: {
+            plugins: {
+                title: {
+                display: true,
+                text: 'State Sales (Threshold ≥ 2)',
+                }
+            }
+            }
+        };
+        new Chart(states_ctx, states_config);
+
+        const statesper_ctx = document.getElementById('StatesByCapita');
+        const statesper_data = {
+            labels: [
+                'OH',
+                'MI',
+                'PA',
+                'NC',
+                'VA',
+                'KY',
+                'TN',
+                'WV',
+            ],
+            datasets: [
+                {
+                    label: 'Number of Sales Per State Capita',
+                    data: [
+                        40/(11942600/342034432), // OH
+                        5/(10197600/342034432), // MI
+                        4/(13139800/342034432), // PA
+                        4/(11210900/342034432), // NC
+                        4/(8887700/342034432), // VA
+                        2/(4588372/342034432), // KY
+                        2/(7220000/342034432), // TN
+                        1/(1769979/342034432), // WV
+                    ],
+                    hoverOffset: 4
+                }
+            ]
+        };
+        const statesper_config = {
+            type: 'pie',
+            data: statesper_data,
+            options: {
                 plugins: {
                     title: {
                         display: true,
-                        text: 'State Sales',
+                        text: 'State Sales Per Capita (Threshold ≥ 80)',
                     }
                 }
             }
         };
-        new Chart(states_ctx, states_config);
+        new Chart(statesper_ctx, statesper_config);
     </script>
