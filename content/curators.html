@@ -62,7 +62,7 @@ outputs: ['html']
         Outside of that geographical region, lower-peninsula Michigan for some unknown reason also has a strong interest in my work.
     </p>
 
-    {{< img class="image fit" src="map.png" >}}
+    {{< img class="image fit" src="map.png" alt="United States Map of mid Appalachia States" >}}
 
     <br>
 
@@ -106,10 +106,38 @@ outputs: ['html']
         I am confident that my pieces would resonate with a well selected audience, and I look forward to the possibility of collaborating on a successful and engaging exhibitions.
     </p>
 
-    <ul class="actions special">
-        <li>
-            <a href="/contact" class="button primary">
-                Contact Artist
-            </a>
-        </li>
-    </ul>
+    <hr>
+
+    <h2>Submit Request</h2>
+    <p>
+        If you are interested in booking an exhibition of my work, please fill out the form below or reach out via the contact page.
+        I look forward to discussing the possibility of bringing my work to your gallery.
+    </p>
+<form
+  action="https://formspree.io/f/movnqbjp"
+  method="POST"
+  class="form"
+>
+  <label>
+    Name:
+    <input type="text" name="name">
+  </label>
+    <label>
+    Organization:
+    <input type="text" name="organization">
+  </label>
+  <label>
+    Email:
+    <input type="email" name="email">
+  </label>
+    <label>
+    Phone:
+    <input type="text" name="email">
+  </label>
+  <label>
+    Message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
