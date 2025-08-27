@@ -350,58 +350,6 @@
 					</section>
 
 				<!-- Five -->
-					<section id="latest" class="wrapper style1 align-center">
-                        <div class="inner">
-                            <h2>Latest Creations</h2>
-                        </div>
-
-						<!-- Gallery -->
-                        <div class="gallery style2 medium onscroll-fade-in">
-                            {{ $mainSections := .Site.Params.mainSections | default (slice "post") }}
-                            {{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
-                            {{ range $i,$p := $section }}
-                                {{ if lt $i 6 }}
-                                    {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
-                                    {{ $thumbnail := $thumbnail.Fill "420x350 Center" }}
-                                    {{ $thumbnail := $thumbnail.Resize "420x webp q90" }}
-
-									{{ $thumbnailsm := .Resources.GetMatch "painting.jpg" }}
-									{{ $thumbnailsm := $thumbnailsm.Fill "210x175 Center" }}
-									{{ $thumbnailsm := $thumbnailsm.Resize "210x webp q90" }}
-
-                                    <article>
-                                        <a href="{{ .RelPermalink }}" class="image">
-                                            <img src="{{ $thumbnailsm.RelPermalink }}"
-											srcset="{{ $thumbnailsm.RelPermalink }} 210w, {{ $thumbnail.RelPermalink }} 420w"
-											loading="lazy"
-											alt="{{ .Params.alt }}" />
-                                        </a>
-                                        <div class="caption">
-                                            <h3>{{ .Title }}</h3>
-                                            <p>{{ .Date| time.Format "January 2, 2006" }}</p>
-                                            <ul class="actions fixed">
-                                                <li><span class="button small">Details</span></li>
-                                            </ul>
-                                        </div>
-                                    </article>
-                                {{ end }}
-                            {{ end }}
-                        </div>
-
-                        <div class="inner">
-							<p>
-                                Catch up on all of Young's latest artworks, creations, paintings, and drawings.
-                                The above slider of paintings is his newest artwork.
-								Or feel free to also follow him on social media on either
-								<a href="https://facebook.com/artist.benjamin.young">Facebook</a> or <a href="https://instagram.com/artistbenyoung">Instagram</a>.
-                            </p>
-							<ul class="actions stacked">
-								<li><a href="/artwork" class="button">Artwork Blog</a></li>
-							</ul>
-						</div>
-					</section>
-
-				<!-- Six -->
 					<section class="wrapper style1 align-center">
 						<div class="inner">
 							<h2>Purchase Artwork</h2>
@@ -450,6 +398,58 @@
 									</ul>
 								</section>
 							</div>
+						</div>
+					</section>
+
+				<!-- Six -->
+					<section id="latest" class="wrapper style1 align-center">
+                        <div class="inner">
+                            <h2>Latest Creations</h2>
+                        </div>
+
+						<!-- Gallery -->
+                        <div class="gallery style2 medium onscroll-fade-in">
+                            {{ $mainSections := .Site.Params.mainSections | default (slice "post") }}
+                            {{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
+                            {{ range $i,$p := $section }}
+                                {{ if lt $i 6 }}
+                                    {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
+                                    {{ $thumbnail := $thumbnail.Fill "420x350 Center" }}
+                                    {{ $thumbnail := $thumbnail.Resize "420x webp q90" }}
+
+									{{ $thumbnailsm := .Resources.GetMatch "painting.jpg" }}
+									{{ $thumbnailsm := $thumbnailsm.Fill "210x175 Center" }}
+									{{ $thumbnailsm := $thumbnailsm.Resize "210x webp q90" }}
+
+                                    <article>
+                                        <a href="{{ .RelPermalink }}" class="image">
+                                            <img src="{{ $thumbnailsm.RelPermalink }}"
+											srcset="{{ $thumbnailsm.RelPermalink }} 210w, {{ $thumbnail.RelPermalink }} 420w"
+											loading="lazy"
+											alt="{{ .Params.alt }}" />
+                                        </a>
+                                        <div class="caption">
+                                            <h3>{{ .Title }}</h3>
+                                            <p>{{ .Date| time.Format "January 2, 2006" }}</p>
+                                            <ul class="actions fixed">
+                                                <li><span class="button small">Details</span></li>
+                                            </ul>
+                                        </div>
+                                    </article>
+                                {{ end }}
+                            {{ end }}
+                        </div>
+
+                        <div class="inner">
+							<p>
+                                Catch up on all of Young's latest artworks, creations, paintings, and drawings.
+                                The above slider of paintings is his newest artwork.
+								Or feel free to also follow him on social media on either
+								<a href="https://facebook.com/artist.benjamin.young">Facebook</a> or <a href="https://instagram.com/artistbenyoung">Instagram</a>.
+                            </p>
+							<ul class="actions stacked">
+								<li><a href="/artwork" class="button">Artwork Blog</a></li>
+							</ul>
 						</div>
 					</section>
 
