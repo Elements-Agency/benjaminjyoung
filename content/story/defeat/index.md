@@ -10,7 +10,7 @@ buy: While the original watercolor painting 'Defeat' has been sold, limited edit
 products:
     - id: 726369026
       name: 9x12in Limited Reproduction
-      left: 59
+      left: 58
       total: 60
     - id: 734461977
       name: Original Watercolor Painting
