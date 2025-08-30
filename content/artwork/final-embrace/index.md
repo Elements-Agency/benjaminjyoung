@@ -9,7 +9,7 @@ aliases: [/final-embrace, /artwork/embrace, /embrace]
 images: ['painting.jpg']
 
 featured: true
-order: 7
+order: 3 #7
 ratio: portrait
 power: 480
 sold: 3
