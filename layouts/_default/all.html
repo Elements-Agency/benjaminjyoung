@@ -35,13 +35,6 @@
             {{ $n_posts := $.Param "recent_posts_number" | default 120 }}
 
             <script>
-              fbq('track', 'Search', {
-                content_category: 'Category',
-                content_name: 'All',
-                content_ids: [{{ range $page := $section }}{{ if $page.Params.products }}'{{ (index ($page.Params.products) 0).id }}',{{ end }}{{ end }}],
-                content_type: 'product_group'
-              });
-
               trackEngaged();
             </script>
 

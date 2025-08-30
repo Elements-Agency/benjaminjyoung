@@ -488,6 +488,16 @@
             trackEngaged();
         }
 
+        document.addEventListener("DOMContentLoaded", () => {
+            localStorage.viewpainting = true;
+            
+            fbq('trackCustom', 'ViewPainting', {
+            content_category: 'Artwork',
+            content_name: '{{- .Title -}}',
+            });
+            gtag('event', 'view_painting', {});
+        });
+
         if (!localStorage.paintingsViewed) {
             paintingsViewed = {};
 

@@ -33,18 +33,6 @@
 
     <script type="text/javascript">
       function trackInterest() {
-        fbq('track', 'Search', {
-          content_category: 'Artwork',
-          content_name: '{{- .Title -}}',
-          content_ids: [{{ range $product := .Params.products }}'{{ $product.id }}',{{ end }}],
-          content_type: 'product_group',
-          {{ if .Params.products }}
-            {{ $first := index (.Params.products) 0 }}
-            value: {{ trim $first.price "$" }},
-            currency: 'USD',
-          {{ end }}
-        });
-
         fbq('trackCustom', 'ClickAction');
         gtag('event', 'click_action', {});
       }
@@ -71,12 +59,6 @@
         fbq('trackCustom', 'ViewProduct', {
           content_category: 'Artwork',
           content_name: '{{- .Title -}}',
-          content_ids: [{{ range $product := .Params.products }}'{{ $product.id }}',{{ end }}],
-          {{ if .Params.products }}
-            {{ $first := index (.Params.products) 0 }}
-            value: {{ trim $first.price "$" }},
-            currency: 'USD',
-          {{ end }}
         });
         gtag('event', 'view_product', {});
       }

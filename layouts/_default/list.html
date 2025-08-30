@@ -6,13 +6,6 @@
     {{ partial "inside-scripts.html" . }}
 
     <script>
-      fbq('track', 'Search', {
-        content_category: 'Artwork',
-        content_name: 'All',
-        content_ids: [{{ range $page := .Paginator.Pages }}{{ if $page.Params.products }}'{{ (index ($page.Params.products) 0).id }}',{{ end }}{{ end }}],
-        content_type: 'product_group'
-      });
-
       trackEngaged();
     </script>
 {{ end }}

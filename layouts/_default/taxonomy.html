@@ -8,14 +8,6 @@
 
 {{ define "main" }}
   <script>
-    fbq('track', 'Search', {
-      content_category: 'Category',
-      content_name: 'Taxonomy',
-      search_string: '{{- .Title -}}',
-      content_ids: [{{ range $page := .Pages }}{{ if $page.Params.products }}'{{ (index ($page.Params.products) 0).id }}',{{ end }}{{ end }}],
-      content_type: 'product_group'
-    });
-
     trackEngaged();
   </script>
 
