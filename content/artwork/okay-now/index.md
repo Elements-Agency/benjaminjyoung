@@ -43,7 +43,7 @@ products:
     - id: 765476757
       name: 18x24in Reproduction
       price: $200
-      left: 29
+      left: 27
     - id: 710975182
       name: Original Painting
       sold: true
@@ -67,6 +67,8 @@ reproductions:
     - 11: Sheri (Canton, OH)
   - 18x24in:
     - 1: Ben Young (East Sparta, OH)
+    - 2: Amy Moroney (Vienna, VA)
+    - 3: Reserved
   - 30x40in:
     - 1: Ben Young (East Sparta, OH)
 
