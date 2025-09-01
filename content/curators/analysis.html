@@ -21,12 +21,12 @@ outputs: ['html']
         </li>
     </ul>
 
-    <p style="text-align: center; font-style: italic;">Sales data updated as of July 20th, 2025</p>
+    <p style="text-align: center; font-style: italic;">Sales data updated as of September 1st, 2025</p>
 
     <h3>General Sales Statistics at a Glance</h3>
     <p>
-        From February 2024 to July 2025, I have had 82 sales, totalling $13,780.
-        18 of those were original paintings, 62 were limited reproductions, and 2 were open reproductions.
+        From February 2024 to July 2025, I have had 90 sales, totalling $14,908.
+        18 of those were original paintings, 70 were limited reproductions, and 2 were open reproductions.
         The majority of those sales were made within the last six months, as I have been focusing on scaling advertising efforts, after finding methods that finally work.
     </p>
 
@@ -67,7 +67,7 @@ outputs: ['html']
 
     <h3>Reproduction Sales</h3>
     <p>
-        Reproduction sales totaled $5,430. My highest reproduction sale was $480, with an average sale of $96.
+        Reproduction sales totaled $6,090. My highest reproduction sale was $480, with an average sale of $96.
     </p>
 
     <p>
@@ -154,6 +154,8 @@ outputs: ['html']
       <gmp-advanced-marker position="38.3011360168457,-77.45928955078125" title="Fredericksburg, VA"></gmp-advanced-marker> <!-- 1 -->
       <gmp-advanced-marker position="38.287532806396484,-85.73030090332031" title="Jeffersonville, IN"></gmp-advanced-marker> <!-- 1 -->
       <gmp-advanced-marker position="38.0500627,-85.5457877" title="Mount Washington, KY"></gmp-advanced-marker> <!-- 1 -->
+      <gmp-advanced-marker position="35.408669, -80.579178" title="Concord, NC"></gmp-advanced-marker> <!-- 1 -->
+      <gmp-advanced-marker position="38.901222, -77.265259" title="Vienna, VA"></gmp-advanced-marker> <!-- 1 -->
     </gmp-map>
 
     <br>
@@ -196,13 +198,13 @@ outputs: ['html']
     ></script>
     <script>
         const orders_ctx = document.getElementById('OnlineOrders');
-        const orders_labels = ['Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec', 'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul'];
+        const orders_labels = ['Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec', 'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug'];
         const orders_data = {
             labels: orders_labels,
             datasets: [
                 {
                     label: 'Online Orders',
-                    data: [0, 1, 0, 0, 0, 1, 1, 3, 1, 3, 1, 1, 2, 5, 7, 15, 11],
+                    data: [0, 1, 0, 0, 0, 1, 1, 3, 1, 3, 1, 1, 2, 5, 7, 15, 12, 8],
                     borderColor: 'rgb(75, 192, 192)',
                     tension: 0.1
                 }
@@ -223,7 +225,7 @@ outputs: ['html']
             datasets: [
                 {
                     label: 'Number of Sales',
-                    data: [44, 26],
+                    data: [60, 27],
                     backgroundColor: [
                         'rgb(0, 200, 83)', // Green
                         'rgb(54, 162, 235)', // Blue
@@ -256,7 +258,7 @@ outputs: ['html']
             datasets: [
                 {
                     label: 'Reproduction Sales',
-                    data: [20, 42, 2],
+                    data: [27, 44, 2],
                     backgroundColor: [
                         'rgb(54, 162, 235)', // Blue
                         'rgb(255, 99, 132)', // Pink
@@ -445,33 +447,33 @@ outputs: ['html']
         const states_ctx = document.getElementById('States');
         const states_data = {
             labels: [
-            'OH',
-            'MI',
-            'PA',
-            'NC',
-            'VA',
-            'FL',
-            'TX',
-            'CA',
-            'NJ',
-            'MA',
-            'KY'
+                'OH',
+                'MI',
+                'NC',
+                'VA',
+                'PA',
+                'FL',
+                'TX',
+                'CA',
+                'NJ',
+                'MA',
+                'KY'
             ],
             datasets: [
             {
                 label: 'Number of Sales',
                 data: [
-                40, // OH
-                5, // MI
-                4, // PA
-                4, // NC
-                4, // VA
-                3, // FL
-                3, // TX
-                3, // CA
-                2, // NJ
-                2, // MA
-                2, // KY
+                    40, // OH
+                    5, // MI
+                    5, // NC
+                    5, // VA
+                    4, // PA
+                    3, // FL
+                    3, // TX
+                    3, // CA
+                    2, // NJ
+                    2, // MA
+                    2, // KY
                 ],
                 hoverOffset: 4
             }
@@ -496,9 +498,9 @@ outputs: ['html']
             labels: [
                 'OH',
                 'MI',
-                'PA',
                 'NC',
                 'VA',
+                'PA',
                 'KY',
                 'TN',
                 'WV',
@@ -509,9 +511,9 @@ outputs: ['html']
                     data: [
                         40/(11942600/342034432), // OH
                         5/(10197600/342034432), // MI
+                        5/(11210900/342034432), // NC
+                        5/(8887700/342034432), // VA
                         4/(13139800/342034432), // PA
-                        4/(11210900/342034432), // NC
-                        4/(8887700/342034432), // VA
                         2/(4588372/342034432), // KY
                         2/(7220000/342034432), // TN
                         1/(1769979/342034432), // WV

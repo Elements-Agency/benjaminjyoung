@@ -20,12 +20,12 @@ products:
       name: 30x40in Limited Reproduction
       left: 7
       total: 10
+    - id: 708668936
+      name: Original Painting
     - id: 777543321
       name: Greeting Card
     - id: 777543312
       name: Ceramic Mug
-    - id: 708668936
-      name: Original Painting
 
 reel: DN8XyTuDTFx
 ---
