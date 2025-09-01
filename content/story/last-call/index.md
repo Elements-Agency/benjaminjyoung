@@ -1,0 +1,6 @@
+---
+date: 2019-12-21
+title: Last Call
+subtitle: 
+description: A day late from the six year anniversary of December 20th. What was secretly meant to be my last time with my closest friends, with the Gertrude interjecting in to our last drinks.
+---

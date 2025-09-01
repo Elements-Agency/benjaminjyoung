@@ -19,6 +19,23 @@
         </div>
     </section>
 
+    <style>
+        .hidden {
+            display: none;
+        }
+    </style>
+
+    <script>
+    document.addEventListener("DOMContentLoaded", function() {
+        const params = new URLSearchParams(window.location.search);
+        if (params.has('planned')) {
+            document.querySelectorAll('.planned.hidden').forEach(function(el) {
+                el.classList.remove('hidden');
+            });
+        }
+    });
+    </script>
+
     {{ $orient := "orient-left" }}
     {{ range sort (where .Site.RegularPages "Section" "story") "Params.Date" "asc" }}
         {{ if (.Resources.GetMatch (printf "%spainting.jpg" (replace .File.Dir "story/" ""))) }}
@@ -31,7 +48,7 @@
                 {{ $orient = "orient-left" }}
             {{ end }}
         {{ else }}
-            <section class="wrapper style1 align-center">
+            <section class="wrapper style1 align-center planned hidden">
                 <div class="inner">
         {{ end }}
                 <h2>{{ .Title }}</h2>
@@ -42,13 +59,15 @@
                     {{ .Description }}
                 </p>
 
-                <ul class="actions special">
-                    <li>
-                        <a href="{{ .Permalink }}" class="button big wide">
-                            Read More
-                        </a>
-                    </li>
-                </ul>
+                {{ if (.Resources.GetMatch (printf "%spainting.jpg" (replace .File.Dir "story/" ""))) }}
+                    <ul class="actions special">
+                        <li>
+                            <a href="{{ .Permalink }}" class="button big wide">
+                                Read More
+                            </a>
+                        </li>
+                    </ul>
+                {{ end }}
             </div>
 
             {{ if (.Resources.GetMatch (printf "%spainting.jpg" (replace .File.Dir "story/" ""))) }}
