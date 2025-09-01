@@ -356,48 +356,27 @@
 
     <section id="other" class="wrapper style1 align-center">
         <div class="inner">
-            <h2>Other Works</h2>
+            <h2>Other Featured Works</h2>
             <p>The following works are in order of date the narration takes place, starting after the current painting.</p>
         </div>
 
         <div class="gallery style2 medium onscroll-fade-in">
             {{ $current := . }}
             {{ $all := sort (where .Site.RegularPages "Section" "story") "Params.date" "asc" }}
+            {{ $again := sort (where .Site.RegularPages "Section" "story") "Params.date" "asc" }}
             {{ $found := false }}
             {{ $something := false }}
             {{ $last := false}}
+            {{ $end := false }}
+
             {{ range $i, $p := $all }}
                 {{ if eq $p.Permalink $current.Permalink }}
                     {{ $found = true }}
-
-                    {{ if $last }}
-                        {{ $something = true }}
-                        {{ $painting := $last.Resources.GetMatch (printf "%spainting.jpg" (replace $last.File.Dir "story/" "")) }}
-                        {{ if $painting }}
-                            {{ $painting := $painting.Fill "420x350 Center" }}
-                            {{ $painting := $painting.Resize "420x webp q90" }}
-                            <article>
-                                <a href="{{ $last.RelPermalink }}" class="image">
-                                    <img src="{{ $painting.RelPermalink }}" alt="{{ $last.Title }}" loading="lazy">
-                                </a>
-                                <div class="caption">
-                                    <h3>{{ $last.Title }}</h3>
-                                    <p>{{ $last.Date | time.Format "January 2, 2006" }}</p>
-                                    <ul class="actions fixed">
-                                        <li><span class="button small">Details</span></li>
-                                    </ul>
-                                </div>
-                            </article>
-                        {{ end }}
-                    {{ end }}
-                {{ else }}
-                    {{ $last = $p }}
-                {{ end }}
-                {{ if $found }}
+                {{ else if $found }}
                     {{ $something = true }}
                     {{ $painting := $p.Resources.GetMatch (printf "%spainting.jpg" (replace $p.File.Dir "story/" "")) }}
                     {{ if $painting }}
-                        {{ $painting := $painting.Fill "420x350 Center" }}
+                        {{ $painting := $painting.Fill "420x420 Center" }}
                         {{ $painting := $painting.Resize "420x webp q90" }}
                         <article>
                             <a href="{{ $p.RelPermalink }}" class="image {{ if eq $p.Permalink $current.Permalink }}current{{ end }}">
@@ -415,28 +394,42 @@
                 {{ end }}
             {{ end }}
 
-            {{ if not $something }}
-                {{ range $i, $p := $all }}
-                    {{ if ne $p.Permalink $current.Permalink }}
-                        {{ $painting := $p.Resources.GetMatch (printf "%spainting.jpg" (replace $p.File.Dir "story/" "")) }}
-                        {{ if $painting }}
-                            {{ $painting := $painting.Fill "420x350 Center" }}
-                            {{ $painting := $painting.Resize "420x webp q90" }}
-                            <article>
-                                <a href="{{ $p.RelPermalink }}" class="image">
-                                    <img src="{{ $painting.RelPermalink }}" alt="{{ $p.Title }}" loading="lazy">
-                                </a>
-                                <div class="caption">
-                                    <h3>{{ $p.Title }}</h3>
-                                    <p>{{ .Date | time.Format "January 2, 2006" }}</p>
-                                    <ul class="actions fixed">
-                                        <li><span class="button small">Details</span></li>
-                                    </ul>
-                                </div>
-                            </article>
-                        {{ end }}
+            <article>
+                <a href="/story" class="image">
+                    <img src="/images/social.png" alt="Story of the Collection" loading="lazy">
+                </a>
+                <div class="caption">
+                    <h3>The Story</h3>
+                    <p>The featured artwork forms a visual autobiography, presenting moments of adversity, resilience, connection, and growth in chronological order to reflect both personal memories and the broader evolution of my life and art.</p>
+                    <ul class="actions fixed">
+                        <li><span class="button small">Read More</span></li>
+                    </ul>
+                </div>
+            </article>
+
+            {{ range $l, $q := $again }}
+                {{ if or (eq $q.Permalink $current.Permalink) ($end) }}
+                    {{ $end := true }}
+                    {{ break }}
+                {{ else }}
+                    {{ $painting := $q.Resources.GetMatch (printf "%spainting.jpg" (replace $q.File.Dir "story/" "")) }}
+                    {{ if $painting }}
+                        {{ $painting := $painting.Fill "420x420 Center" }}
+                        {{ $painting := $painting.Resize "420x webp q90" }}
+                        <article>
+                            <a href="{{ $q.RelPermalink }}" class="image">
+                                <img src="{{ $painting.RelPermalink }}" alt="{{ $q.Title }}" loading="lazy">
+                            </a>
+                            <div class="caption">
+                                <h3>{{ $q.Title }}</h3>
+                                <p>{{ .Date | time.Format "January 2, 2006" }}</p>
+                                <ul class="actions fixed">
+                                    <li><span class="button small">Details</span></li>
+                                </ul>
+                            </div>
+                        </article>
                     {{ end }}
-                {{ end }}
+                {{ end}}
             {{ end }}
         </div>
     </section>

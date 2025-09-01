@@ -21,14 +21,19 @@
 
     {{ $orient := "orient-left" }}
     {{ range sort (where .Site.RegularPages "Section" "story") "Params.Date" "asc" }}
-        <section class="spotlight style1 {{ $orient }} content-align-left image-position-center onscroll-image-fade-in">
+        {{ if (.Resources.GetMatch (printf "%spainting.jpg" (replace .File.Dir "story/" ""))) }}
+            <section class="spotlight style1 {{ $orient }} content-align-left image-position-center onscroll-image-fade-in">
+                <div class="content">
+
             {{ if eq $orient "orient-left" }}
                 {{ $orient = "orient-right" }}
             {{ else }}
                 {{ $orient = "orient-left" }}
             {{ end }}
-
-            <div class="content">
+        {{ else }}
+            <section class="wrapper style1 align-center">
+                <div class="inner">
+        {{ end }}
                 <h2>{{ .Title }}</h2>
                 <p class="major" style="font-style: italic;">
                     {{ .Params.Date.Format "January 2, 2006" }}
