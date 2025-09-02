@@ -45,7 +45,7 @@ products:
       name: 18x24in Reproduction
       price: $190
       limited: 30
-      left: 27
+      left: 26
     - id: 758189666
       name: 30x40in Reproduction
       price: $390
@@ -87,7 +87,7 @@ reproductions:
     - 24: Abigail Ray (Akron, OH)
     - 25: Leah Hartzler (Wooster, OH)
     - 26: Sharon Williams (Fairhaven, MA)
-    - 27: Reserved
+    - 27: Tom Delamater (Canton, OH)
     - 28: The Pines Healthcare Center (Canton, OH)
     - 29: Christi Daigle (Southern Pines, NC)
     - 30: Vicki Zarate (Livingston, TX)
@@ -109,6 +109,7 @@ reproductions:
     - 2: Susan Lehman (Jupiter, FL)
     - 3: William Schoepski (Rome, GA)
     - 4: Reserved
+    - 5: Megan Darwin (Shaker Heights, OH)
   - 30x40in:
     - 1: Ben Young (East Sparta, OH)
     - 2: Jim Lynd (Jeffersonville, IN)
