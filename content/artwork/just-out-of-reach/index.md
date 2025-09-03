@@ -33,7 +33,7 @@ status: sale
 products:
     - id: 745421967
       name: Original Painting
-      price: $600
+      price: $500
 ---
 
 **Just Out Of Reach** is a watercolor painting beautifully capturing the essence of a peaceful winter night. At its heart is a quaint log cabin, softly illuminated by a warm, golden light emanating from its windows, contrasting against the cool blues and whites of the snowy landscape. Towering evergreen trees, heavily dusted with snow, create a dense and textured forest backdrop, adding depth and a sense of quiet isolation to the scene. The faint tracks in the snow leading to the cabin hint at human presence, while the figure kneeling in the foreground adds a touch of mystery and humanity. The overall composition blends warmth and cold, light and shadow, evoking both the stillness of winter and the comfort of a welcoming home.

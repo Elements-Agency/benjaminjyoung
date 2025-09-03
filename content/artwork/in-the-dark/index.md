@@ -40,7 +40,7 @@ status: sale
 products:
     - id: 746855079
       name: Original Painting
-      price: $1,730
+      price: $1,700
     - id: 746858779
       name: 9x12in Reproduction
       price: $50

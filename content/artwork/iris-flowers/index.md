@@ -21,7 +21,7 @@ mediums: [oil pastel]
 materials: [paper]
 colors: [blue, green, yellow]
 collections: []
-locations: [office]
+locations: [kolp]
 tags: [flower, bouquet, iris, leaf, petal, stem]
 
 inventory:

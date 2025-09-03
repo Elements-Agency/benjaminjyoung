@@ -23,7 +23,7 @@ mediums: [watercolor pencil]
 materials: [cotton paper]
 colors: [blue, white, grey, brown]
 collections: [primary winter birds, animals]
-locations: [office]
+locations: [kolp]
 tags: [blue jay, bird, outdoors, nature, winter, snow, log, tree, berries, perched, cool, overcast]
 
 inventory:
@@ -37,7 +37,7 @@ status: sale
 products:
   - id: 658238185
     name: Original Drawing
-    price: $220
+    price: $200
 ---
 
 **Blue Jay** depicts a blue jay perched on a snowy surface, delicately pecking at a cluster of red berries on a nearby branch. The bird's vivid blue plumage, accented with black and white markings, contrasts beautifully with the soft, white snow. I captured the texture of the bird's feathers and the intricate details of the berries and branches. The overall scene exudes a serene winter atmosphere, with the red berries adding a touch of color and life to the otherwise muted background.
