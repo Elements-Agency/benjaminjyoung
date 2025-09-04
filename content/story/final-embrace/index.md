@@ -20,7 +20,7 @@ products:
       name: Original Oil Painting
 ---
 
-Final Embrace is the most vulnerable painting I’ve ever created. It’s born from a dream — or perhaps a memory — that came to me on the edge of life itself.
+Final Embrace is the most vulnerable painting I’ve ever created. It’s born from a dream — or perhaps a memory — that came to me on the edge of life itself. A dream of one last embrace with my late Fiancee.
 
 <!--more-->
 
