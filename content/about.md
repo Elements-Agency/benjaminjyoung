@@ -31,6 +31,9 @@ My featured work is a deeply personal narration of my own life—told not throug
   * **Honorable Mention** at [Door 2 Art Show](https://www.door2art.com/artshow) for [Hallelujah](/artwork/hallelujah).
   * **Featured Artist** for Massillon Community Arts Council.
 
+### Publications ###
+  * September, 2025 - [The Scribe. Vol 2, No. 9, Page 11](https://the-scribe.org/read-edition.php?file=The+Scribe+19th+Edition.pdf) - Ben Young: Moments on Canvas
+
 ### Exhibitions ###
 
   * Upcoming
