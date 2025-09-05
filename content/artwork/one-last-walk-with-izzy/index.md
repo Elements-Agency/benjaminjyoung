@@ -40,7 +40,7 @@ products:
       name: 9x12in Reproduction
       price: $90
       limited: 60
-      left: 17
+      left: 16
     - id: 758199794
       name: 18x24in Reproduction
       price: $190
@@ -104,6 +104,7 @@ reproductions:
     - 41: Richard DeTriquet (Fredericksburg, Virginia)
     - 42: Crystal Riley (Mount Washington, KY)
     - 43: Sam Treadaway (Concord, NC)
+    - 44: Carol Weare (Bluemont, VA)
   - 18x24in:
     - 1: Ben Young (East Sparta, OH)
     - 2: Susan Lehman (Jupiter, FL)
