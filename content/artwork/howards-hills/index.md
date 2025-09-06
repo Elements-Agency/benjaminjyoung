@@ -46,7 +46,7 @@ products:
     - id: 694564503
       name: Limited Reproduction
       price: $50
-      left: 55
+      left: 54
 
 limited: 60
 reproductions:
@@ -55,7 +55,8 @@ reproductions:
     - 2: Artober (Massillon, OH)
     - 3: Debra Mee (Raleigh, NC)
     - 4: John Schnabel (Marion, OH)
-    - 5: Reserved
+    - 5: Grand Opening (Canton, OH)
+    - 6: Reserved
   - 18x24in:
     - 1: Ben Young (East Sparta, OH)
   - 30x40in:
