@@ -45,7 +45,7 @@ products:
     - id: 734463429
       name: Limited Reproduction
       price: $50
-      left: 56
+      left: 55
 
 reproductions:
   - 9x12in:
@@ -53,6 +53,7 @@ reproductions:
     - 2: Victor Moore (Canton, OH)
     - 3: Reserved
     - 4: Drake Danner (Boston, MA)
+    - 5: Victoria Finecy (Dallas, TX)
   - 18x24in:
     - 1: Ben Young (East Sparta, OH)
   - 30x40in:
