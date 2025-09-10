@@ -10,6 +10,12 @@
         fbq('trackCustom', 'ViewSignup');
         gtag('event', 'view_signup', {});
 
+        fbq('trackCustom', 'Milestone');
+        if (!localStorage.uniqueMilestone) {
+          localStorage.uniqueMilestone = true;
+          fbq('trackCustom', 'UniqueMilestone');
+        }
+
         localStorage.viewSignup = true;
       }
     </script>
@@ -45,7 +51,7 @@
                           <div class="mc-field-group field"><label for="mce-LNAME">Last Name </label><input type="text" name="LNAME" class=" text" id="mce-LNAME" value=""></div>
                           <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
                         <div hidden="">
-                          <input type="hidden" id="hid-MMERGE7" name="MMERGE7" value="">
+                          <input type="hidden" id="hid-MMERGE7" name="MMERGE7" value="Lead">
                           <input type="hidden" id="signupTags" name="tags" value="7257335">
                         </div>
                         <div id="mce-responses" class="clear foot">

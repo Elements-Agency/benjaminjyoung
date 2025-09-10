@@ -314,6 +314,12 @@
 									
 									fbq('trackCustom', 'ViewSignup');
 									gtag('event', 'view_signup', {});
+
+									fbq('trackCustom', 'Milestone');
+									if (!localStorage.uniqueMilestone) {
+										localStorage.uniqueMilestone = true;
+										fbq('trackCustom', 'UniqueMilestone');
+									}
 								}
 							</script>
 
@@ -333,7 +339,7 @@
 									</div>
 								</div>
 								<div hidden>
-									<input type="hidden" id="hid-MMERGE7" name="MMERGE7" value="{{ .Title }}">
+									<input type="hidden" id="hid-MMERGE7" name="MMERGE7" value="Home">
 									<input type="hidden" name="tags" value="7257335,7257510">
 								</div>
 								<div aria-hidden="true" style="position: absolute; left: -5000px;">

@@ -170,7 +170,49 @@
                     {{ end }}
 
                     <script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?101772706&data_platform=singleproduct_v2" charset="utf-8"></script>
-                    <script type="text/javascript">xProduct()</script>
+                    <script type="text/javascript">
+                        xProduct();
+
+                        Ecwid.Ecwid.OnAPILoaded.add(function() {
+                            Ecwid.OnCartChanged.add(function(cart) {
+                                if (cart && cart.items && cart.items.length > 0) {
+                                    fbq('track', 'AddToCart', {
+                                        content_name: cart.items.map(function(item) { return item.name; }).join(', '),
+                                        content_category: cart.items.map(function(item) { return item.categoryNames ? item.categoryNames.join(', ') : ''; }).join(', '),
+                                        content_ids: cart.items.map(function(item) { return item.sku ? item.sku : item.id; }),
+                                        content_type: 'product',
+                                        value: cart.items.reduce(function(sum, item) { return sum + (item.price * item.quantity); }, 0),
+                                        currency: cart.currency
+                                    });
+
+                                    fbq('trackCustom', 'Milestone');
+                                    if (!localStorage.uniqueMilestone) {
+                                        localStorage.uniqueMilestone = true;
+                                        fbq('trackCustom', 'UniqueMilestone');
+                                    }
+                                }
+                            });
+
+                            Ecwid.OnOrderPlaced.add(function(order) {
+                                if (order && order.total) {
+                                    fbq('track', 'Purchase', {
+                                        content_name: order.items.map(function(item) { return item.name; }).join(', '),
+                                        content_category: order.items.map(function(item) { return item.categoryNames ? item.categoryNames.join(', ') : ''; }).join(', '),
+                                        content_ids: order.items.map(function(item) { return item.sku ? item.sku : item.id; }),
+                                        content_type: 'product',
+                                        value: order.total,
+                                        currency: order.currency
+                                    });
+
+                                    fbq('trackCustom', 'Milestone');
+                                    if (!localStorage.uniqueMilestone) {
+                                        localStorage.uniqueMilestone = true;
+                                        fbq('trackCustom', 'UniqueMilestone');
+                                    }
+                                }
+                            });
+                        });
+                    </script>
                 </div>
 
                 <p>
@@ -457,6 +499,12 @@
             
             fbq('trackCustom', 'ViewSignup');
             gtag('event', 'view_signup', {});
+
+            fbq('trackCustom', 'Milestone');
+            if (!localStorage.uniqueMilestone) {
+                localStorage.uniqueMilestone = true;
+                fbq('trackCustom', 'UniqueMilestone');
+            }
 
             if (localStorage.potentialQuality) {
                 fbq('trackCustom', 'ViewQualitySignup');

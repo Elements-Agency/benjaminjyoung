@@ -10,7 +10,55 @@
     <script type="text/javascript">
         xProductBrowser("categoriesPerRow=3","views=grid(20,3) list(60) table(60)","categoryView=grid","searchView=list","id=my-store-101772706");
 
+        Ecwid.Ecwid.OnAPILoaded.add(function() {
+            Ecwid.OnCartChanged.add(function(cart) {
+                if (cart && cart.items && cart.items.length > 0) {
+                    fbq('track', 'AddToCart', {
+                        content_name: cart.items.map(function(item) { return item.name; }).join(', '),
+                        content_category: cart.items.map(function(item) { return item.categoryNames ? item.categoryNames.join(', ') : ''; }).join(', '),
+                        content_ids: cart.items.map(function(item) { return item.sku ? item.sku : item.id; }),
+                        content_type: 'product',
+                        value: cart.items.reduce(function(sum, item) { return sum + (item.price * item.quantity); }, 0),
+                        currency: cart.currency
+                    });
+
+                    fbq('trackCustom', 'Milestone');
+                    if (!localStorage.uniqueMilestone) {
+                        localStorage.uniqueMilestone = true;
+                        fbq('trackCustom', 'UniqueMilestone');
+                    }
+                }
+            });
+
+            Ecwid.OnOrderPlaced.add(function(order) {
+                if (order && order.total) {
+                    fbq('track', 'Purchase', {
+                        content_name: order.items.map(function(item) { return item.name; }).join(', '),
+                        content_category: order.items.map(function(item) { return item.categoryNames ? item.categoryNames.join(', ') : ''; }).join(', '),
+                        content_ids: order.items.map(function(item) { return item.sku ? item.sku : item.id; }),
+                        content_type: 'product',
+                        value: order.total,
+                        currency: order.currency
+                    });
+
+                    fbq('trackCustom', 'Milestone');
+                    if (!localStorage.uniqueMilestone) {
+                        localStorage.uniqueMilestone = true;
+                        fbq('trackCustom', 'UniqueMilestone');
+                    }
+                }
+            });
+        });
+
         xSearch("id=my-search-101772706");
+
+        if (!localStorage.viewshop) {
+            fbq('trackCustom', 'Milestone');
+            if (!localStorage.uniqueMilestone) {
+                localStorage.uniqueMilestone = true;
+                fbq('trackCustom', 'UniqueMilestone');
+            }
+        }
 
         localStorage.viewshop = true;
 

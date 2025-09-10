@@ -11,6 +11,12 @@
     fbq('trackCustom', 'ViewSignup');
     gtag('event', 'view_signup', {});
 
+    fbq('trackCustom', 'Milestone');
+    if (!localStorage.uniqueMilestone) {
+      localStorage.uniqueMilestone = true;
+      fbq('trackCustom', 'UniqueMilestone');
+    }
+
     fbq('trackCustom', 'ViewQualitySignup');
     gtag('event', 'view_quality_signup', {});
     
@@ -44,7 +50,10 @@
                     <input type="text" name="LNAME" class=" text" id="mce-LNAME" value="" onfocus="focusSignup()">
                   </div>
                   <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
-                <div hidden=""><input type="hidden" id="footerTags" name="tags" value="7257335,7257510"></div>
+                <div hidden="">
+                  <input type="hidden" id="footerTags" name="tags" value="7257335,7257510">
+                  <input type="hidden" id="hid-MMERGE7" name="MMERGE7" value="Inside">
+                </div>
                 <div id="mce-responses" class="clear foot">
                   <div class="response" id="mce-error-response" style="display: none;"></div>
                   <div class="response" id="mce-success-response" style="display: none;"></div>
