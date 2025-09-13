@@ -40,7 +40,7 @@ products:
       name: 9x12in Reproduction
       price: $90
       limited: 60
-      left: 16
+      left: 15
     - id: 758199794
       name: 18x24in Reproduction
       price: $190
@@ -105,6 +105,7 @@ reproductions:
     - 42: Crystal Riley (Mount Washington, KY)
     - 43: Sam Treadaway (Concord, NC)
     - 44: Carol Weare (Bluemont, VA)
+    - 45: Nicholas Fabiano (Suwanee, GA)
   - 18x24in:
     - 1: Ben Young (East Sparta, OH)
     - 2: Susan Lehman (Jupiter, FL)

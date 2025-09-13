@@ -41,6 +41,7 @@ My featured work is a deeply personal narration of my own life—told not throug
     * September 20th - **JURIED** [Ohio Watercolor Society's Exhibit](https://www.ohiowatercolorsociety.org/watercolor-ohio-2025) hosted at [Springfield Museum of Art](https://www.springfieldart.net) in Springfield, Ohio.
     * December - **SOLO** Exhibit at [Brewtifully](https://www.tracydawnbrewer.com) in North Canton, Ohio.
   * 2025
+    * **JURIED**  [Rod Meadows Art Call](https://www.juilliardartscenter.com/rod-meadows-art-call.html) hosted at [Juilliard Arts Center](https://www.juilliardartscenter.com) in Canton, Ohio.
     * **JURIED** [FRESH Exhibition](https://www.summitartspace.org/fresh-2025/) hosted at [Summit Artspace](https://www.summitartspace.org) in Akron, Ohio.
     * **JURIED** [Flora Exhibition](https://www.whiterabbitgalleries.org/event-details/flora-3rd-annual-juried-exhibition-2025-01-17-16-00) hosted at [White Rabbit Galleries](https://www.whiterabbitgalleries.org) in Barberton, Ohio.
     * **GROUP** [Surface and Structure](https://artsinstark.com/surface-and-structure-a-dialogue-in-texture-opens-january-16-at-the-cultural-center-gallery/?fbclid=IwY2xjawHs4upleHRuA2FlbQIxMAABHVuxYcp1388QiP1wHwfzSl_zD5yaXzqCEaEzwQRiffFD4fi50l4KhCRbIQ_aem_y6Loqj6coj59e3x-HEd1yg) hosted at the [Canton Cultural Center Gallery](https://culturalcenterforthearts.com) in Canton, Ohio.
