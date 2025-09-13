@@ -23,7 +23,7 @@ My featured work is a deeply personal narration of my own life—told not throug
 
 ---
 
-## Awards and Accomplishments ##
+## Artist CV ##
 
 ### Awards & Recognition ###
   * **Honorable Mention** at [Flora](https://www.whiterabbitgalleries.org/event-details/flora-3rd-annual-juried-exhibition-2025-01-17-16-00) for [Avalanche Lilies](/artwork/avalanche-lilies).
@@ -59,5 +59,14 @@ My featured work is a deeply personal narration of my own life—told not throug
     * **GROUP** [The Art of Toys Exhibit](https://www.facebook.com/events/886574973454122) hosted at [BZTAT Studios](http://bztatstudios.com) in Canton, Ohio.
     * **GROUP** Resident Artist Showcase hosted at Patina Arts Centre in Canton, Ohio.
 
+### Residencies and Involvement ###
+
+  * **2025 - Current**: Ohio Watercolor Society - Associate Member
+  * **2025 - Current**: Massillon Museum - Member
+  * **2025 - Current**: Canton Museum of Art - Member
+  * **2024 - 2025**: Patina Arts Centre - Residency
+  * **2021 - 2025**: Massillon Arts Community Council - Patron
+  * **2021 - 2022**: Massillon Museum - James & Eliza Duncan Society Member
+  * **1995 - 2004**: Canton Art Institute - Child Artist Student
 
 {{< button class="fit" text="Contact Artist" href="/contact" >}}
