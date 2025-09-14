@@ -14,6 +14,8 @@ products:
       total: 60
     - id: 694481795
       name: Original Watercolor Painting
+    - id: 781803100
+      name: Postcard
 ---
 
 In ___Howard’s Hills___, I return home—not only in geography, but in heart. Set in the quiet hills of Appalachian Ohio where I was raised, the painting captures a deeply personal and intimate moment: my elderly father making his way across the familiar terrain of our shared past. It’s not just a portrait of landscape—it’s a portrait of legacy.

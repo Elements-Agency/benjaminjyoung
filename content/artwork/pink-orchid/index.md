@@ -9,6 +9,9 @@ images: ['painting.jpg']
 
 ratio: landscape
 
+subfeatured: true
+power: 1
+
 supplies:
   - medium: M Graham Watercolor
   - on: Baohong Hot Press Watercolor Block

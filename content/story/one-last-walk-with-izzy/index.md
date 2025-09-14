@@ -23,7 +23,7 @@ products:
     - id: 708668936
       name: Original Painting
     - id: 777543321
-      name: Greeting Card
+      name: Postcard
     - id: 777543312
       name: Ceramic Mug
 

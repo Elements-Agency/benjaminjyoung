@@ -18,6 +18,8 @@ products:
       total: 30
     - id: 710975182
       name: Original Watercolor Painting
+    - id: 781803030
+      name: Postcard
 
 reel: DN_ONt9DFyX
 ---

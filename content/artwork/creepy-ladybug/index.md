@@ -10,6 +10,9 @@ images: ['painting.jpg']
 
 ratio: portrait
 
+subfeatured: true
+power: 1
+
 supplies:
   - medium: M Graham Watercolor Paints
   - on: Baohong Cold Press Cotton Paper Block

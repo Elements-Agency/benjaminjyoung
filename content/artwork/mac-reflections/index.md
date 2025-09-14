@@ -13,6 +13,9 @@ videos: [https://www.instagram.com/p/C3mpPeQgORk/, https://youtube.com/shorts/JN
 
 ratio: portrait
 
+subfeatured: true
+power: 1
+
 supplies:
   - medium: Faber-Castell Oil Pastels
   - on: Art Street Construction Paper
