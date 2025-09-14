@@ -449,25 +449,9 @@
                       <strong>Newsletter Discount:</strong>
                       Sign up for my artist newsletter to receive a <strong style="color:red;">20% OFF</strong> discount code for your first order.
                       Plus receive exclusive updates and offers.
-                      <span id="addcountdown"></span>
                       <strong><a href="/sign-up?artwork={{ .Title }}&driven=discount">Click to Sign Up &gt;</a></strong>
                     </p>
                     <br>
-
-                    <script>
-                      // Insert the date two days from today in id addcountdown
-                      var date = new Date();
-                      date.setDate(date.getDate() + 2);
-                      var countdown = document.getElementById("addcountdown");
-
-                      // set formattedcountdown to format like May 13th from countdown
-                      var formattedcountdown = date.toLocaleDateString("en-US", {
-                        month: 'long',
-                        day: '2-digit'
-                      });
-
-                      countdown.innerHTML = "Offer ends <u>" + formattedcountdown + "</u>.";
-                    </script>
 
                     <div class="row" style="text-align: center;">
                       {{ range $product := .Params.products }}

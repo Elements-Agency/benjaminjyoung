@@ -288,40 +288,7 @@
                                 Find out when paintings are completed, each month.
 								Receive any new sales and a continued <strong>20% discount</strong>.
                                 As well as any upcoming exhibits Ben will be at or sales going on.
-								<span id="addcountdown"></span>
 							</p>
-							
-							<script>
-								// Insert the date two days from today in id addcountdown
-								var date = new Date();
-								date.setDate(date.getDate() + 2);
-								var countdown = document.getElementById("addcountdown");
-							
-								// set formattedcountdown to format like May 13th from countdown
-								var formattedcountdown = date.toLocaleDateString("en-US", {
-								  month: 'long',
-								  day: '2-digit'
-								});
-							
-								countdown.innerHTML = "Offer ends <u>" + formattedcountdown + "</u>.";
-
-								function focusSignup() {
-									if (localStorage.viewSignup) {
-										return;
-									}
-
-									localStorage.viewSignup = true;
-									
-									fbq('trackCustom', 'ViewSignup');
-									gtag('event', 'view_signup', {});
-
-									fbq('trackCustom', 'Milestone');
-									if (!localStorage.uniqueMilestone) {
-										localStorage.uniqueMilestone = true;
-										fbq('trackCustom', 'UniqueMilestone');
-									}
-								}
-							</script>
 
 							<form method="post" action="https://benjaminjyoung.us14.list-manage.com/subscribe/post?u=5a284b4c27bab02102d3645de&amp;id=a01ee307ec&amp;f_id=0087c0e0f0" class="align-left" target="_blank">
 								<div class="fields">
