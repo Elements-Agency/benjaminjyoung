@@ -1,12 +1,4 @@
 function trackEngaged() {
-	if (localStorage.engagedIndex) {
-		return;
-	}
-
-	fbq('trackCustom', 'EngagedIndex');
-
-	localStorage.engagedIndex = true;
-	
 	if (localStorage.engaged) {
 		return;
 	}

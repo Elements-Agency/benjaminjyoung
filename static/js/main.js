@@ -5,8 +5,6 @@ function trackEngaged() {
 
 	fbq('trackCustom', 'Engaged');
 	gtag('event', 'engaged', {});
-
-	fbq('trackCustom', 'EngagedIndex');
 	
 	localStorage.engaged = true;
 }

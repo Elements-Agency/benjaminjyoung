@@ -2203,16 +2203,9 @@ input, select, textarea {
         {{ block "scripts" . }}
             {{ partial "featured-scripts.html" . }}
         {{ end }}
-			<script>
-                function trackEngaged() {
-	if (localStorage.engagedInside) {
-		return;
-	}
 
-	fbq('trackCustom', 'EngagedInside');
-
-	localStorage.engagedInside = true;
-
+<script>
+function trackEngaged() {
 	if (localStorage.engaged) {
 		return;
 	}

@@ -1,12 +1,4 @@
 function trackEngaged() {
-	if (localStorage.engagedInside) {
-		return;
-	}
-
-	fbq('trackCustom', 'EngagedInside');
-
-	localStorage.engagedInside = true;
-
 	if (localStorage.engaged) {
 		return;
 	}
