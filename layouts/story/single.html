@@ -40,7 +40,7 @@
             <ul class="actions special">
                 {{ if $full }}
                     <li class="gallery">
-                        <a href="{{ $full.RelPermalink }}" class="button big wide" data-fancybox data-caption="{{ .Title }} by Ben Young" aria-label="View Full Painting" >
+                        <a href="{{ $full.RelPermalink }}" class="button big wide" data-fancybox data-caption="{{ .Title }} by Ben Young" aria-label="View Full Painting" onclick="trackInterest();">
                             View Full Painting
                         </a>
                     </li>
@@ -48,7 +48,7 @@
                         Fancybox.bind("[data-fancybox]", {});
                     </script>
                 {{ end }}
-                <li><a href="#more" class="button big wide smooth-scroll-middle">Learn More</a></li>
+                <li><a href="#more" class="button big wide smooth-scroll-middle" onclick="trackInterest();">Learn More</a></li>
             </ul>
         </div>
 
@@ -400,7 +400,7 @@
                         {{ $painting := $painting.Fill "420x420 Center" }}
                         {{ $painting := $painting.Resize "420x webp q90" }}
                         <article>
-                            <a href="{{ $p.RelPermalink }}" class="image {{ if eq $p.Permalink $current.Permalink }}current{{ end }}">
+                            <a href="{{ $p.RelPermalink }}" class="image {{ if eq $p.Permalink $current.Permalink }}current{{ end }}" onclick="trackInterest();">
                                 <img src="{{ $painting.RelPermalink }}" alt="{{ $p.Title }}" loading="lazy">
                             </a>
                             <div class="caption">
@@ -416,7 +416,7 @@
             {{ end }}
 
             <article>
-                <a href="/story" class="image">
+                <a href="/story" class="image" onclick="trackInterest();">
                     <img src="/images/social.png" alt="Story of the Collection" loading="lazy">
                 </a>
                 <div class="caption">
