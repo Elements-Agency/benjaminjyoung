@@ -52,13 +52,13 @@
 
         xSearch("id=my-search-101772706");
 
-        //if (!localStorage.viewshop) {
+        if (localStorage.viewpainting || localStorage.viewstory) {
             fbq('trackCustom', 'Milestone');
             if (!localStorage.uniqueMilestone) {
                 localStorage.uniqueMilestone = true;
                 fbq('trackCustom', 'UniqueMilestone');
             }
-        //}
+        }
 
         localStorage.viewshop = true;
 

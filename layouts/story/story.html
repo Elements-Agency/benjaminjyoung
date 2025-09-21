@@ -197,5 +197,11 @@
             
             trackEngaged();
         }
+
+        document.addEventListener("DOMContentLoaded", () => {
+            localStorage.viewstory = true;
+
+            fbq('trackCustom', 'ViewStory');
+        });
     </script>
 {{ end }}
