@@ -26,13 +26,6 @@ collections: [primary winter birds, animals]
 locations: [kolp]
 tags: [blue jay, bird, outdoors, nature, winter, snow, log, tree, berries, perched, cool, overcast]
 
-inventory:
-  - kolp: idk - current
-  - patina: 2024-12-01 - idk
-  - home: 2024-09-04 - 2024-12-01
-  - patina: 2024-05-18 - 2024-09-04
-  - home: 2024-05-14 - 2024-05-18
-
 status: sale
 products:
   - id: 658238185

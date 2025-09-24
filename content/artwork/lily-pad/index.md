@@ -26,16 +26,8 @@ mediums: [watercolor, gouache]
 materials: [cotton paper]
 colors: [pink, green, white, brown]
 collections: [lilies]
-locations: [kolp, kolps gallery]
+locations: [kolp]
 tags: [lily, flower, pad, water, pond, stones, outdoors, summer, cool]
-
-inventory:
-  - kolp: idk - current
-  - whiterabbit: 2025-01-10 - idk
-  - patina: 2024-12-01 - 2025-01-10
-  - home: 2024-09-29 - 2024-12-01
-  - patina: 2024-06-29 - 2024-09-29
-  - home: 2024-06-16 - 2024-06-29
 
 status: sale
 products:
@@ -45,6 +37,8 @@ products:
     - id: 763016637
       name: Open Reproduction
       price: $30
+
+repro: true
 
 reproductions:
   - 9x12in:

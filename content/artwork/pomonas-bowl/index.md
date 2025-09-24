@@ -26,17 +26,8 @@ mediums: [oil]
 materials: [mdf board]
 colors: [red, pink, purple, black]
 collections: [still lifes]
-locations: [kolp, kolps gallery]
+locations: [kolp]
 tags: [pomegranate, fruit, shiny, metal, bowl, velvet, tablecloth, dark, indoors, table, warm]
-
-inventory:
-  - kolp: idk - current
-  - cyrus: 2025-04-07 - idk
-  - kolp: 2025-03-15 - 2025-04-07
-  - culturalcenter: 2025-01-10 - 2025-03-15
-  - patina: 2024-09-04 - 2025-01-10
-  - home: 2024-07-27 - 2024-09-04
-  - patina: 2024-05-26 - 2024-07-27
 
 status: sale
 products:

@@ -27,12 +27,6 @@ collections: [winter escape, figures facing from view, landscapes]
 locations: [sold]
 tags: [human, figure, snow, winter, storm, dusk, sky, night, forest, outdoors, dark, frozen, lake, marina, dock, dim, lonely, isolation, sad, melancholy, warm]
 
-inventory:
-  - buyer: 2024-05-15
-  - home: 2024-04-12 - 2024-05-15
-  - cyrus: 2024-03-29 - 2024-04-12
-  - home: 2024-03-23 - 2024-03-29
-
 status: sold
 products:
     - id: 645990286

@@ -30,13 +30,6 @@ collections: [timeline, animals]
 locations: [sold, print]
 tags: [princess, cat, pet, cup, hat, head, brush, stick figure, tennis, ball, inception, humor, funny, lighthearted, childish, morbid, foreshadowing, loss, ben, aj, marcus, audrey, izzy, indoors, warm, number two]
 
-inventory:
-  - buyer: idk
-  - patina: 2024-08-05 - idk
-  - home: 2024-07-27 - 2024-08-05
-  - patina: 2024-06-29 - 2024-07-27
-  - home: 2024-06-26 - 2024-06-29
-
 status: sold
 products:
     - id: 683098813

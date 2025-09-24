@@ -25,9 +25,6 @@ collections: [tiny canvas, reserved]
 locations: [sold]
 tags: [creepy, clown, scary, face, nose, smile, teeth, it, warm, number twenty two]
 
-inventory:
-  - buyer: 2024-05-30
-
 status: sold
 products:
     - id: 669390403

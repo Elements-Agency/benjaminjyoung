@@ -2164,7 +2164,7 @@ input, select, textarea {
                                 <a href="{{ if .Params.story }}{{ .Params.story }}{{ else }}{{ .RelPermalink }}{{ end }}" class="image">
                                     <img src="{{ $thumbnail.RelPermalink }}" alt="{{ .Params.alt }}" />
                                 </a>
-                                <h2>
+                                <h2 style="text-shadow: #000 0 0 5px !important;">
 									{{ .Title }}
 									{{ if eq .Params.status "sold" }}
 										<br>
@@ -2185,11 +2185,14 @@ input, select, textarea {
                                 <a href="{{ if .Params.story }}{{ .Params.story }}{{ else }}{{ .RelPermalink }}{{ end }}" class="image">
                                     <img src="{{ $thumbnail.RelPermalink }}" alt="{{ .Params.alt }}" />
                                 </a>
-                                <h2>
+                                <h2 style="text-shadow: #000 0 0 5px !important;">
 									{{ .Title }}
 									{{ if eq .Params.status "sold" }}
 										<br>
 										<strong style="color:rgb(230, 0, 0); font-weight:bold;">SOLD</strong>
+										{{ if .Params.repro }}
+											- Reproductions Available
+										{{ end }}
 									{{ end }}
 								</h2>
                                 <p>{{ .Description }}</p>

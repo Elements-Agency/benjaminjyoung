@@ -24,10 +24,6 @@ collections: [watercolor sketches]
 locations: [office]
 tags: [bluebell, flower, stem, petals, plant, spring, outdoors]
 
-inventory:
-  - patina: 2025-02-01 - idk
-  - home: 2024-10-26 - 2025-02-01
-
 status: sale
 products:
     - id: 705973991

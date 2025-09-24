@@ -24,10 +24,6 @@ collections: [watercolor sketches]
 locations: [office]
 tags: [tawny, tiger, lily, flower, stem, petals, plant, summer, outdoors]
 
-inventory:
-  - kolp: idk - current
-  - home: 2024-09-29 - idk
-
 status: sale
 products:
     - id: 698999371

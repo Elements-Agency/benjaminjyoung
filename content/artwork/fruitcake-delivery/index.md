@@ -29,10 +29,6 @@ collections: [figures facing from view, reserved, timeline, landscapes]
 locations: [kolp, print]
 tags: [house, fruitcake, delivery, truck, driver, figure, package, light, windows, tree, snow, street, outdoors, winter, solitary, rustic, whimsical, shenanigans, massillon, ohio, number five]
 
-inventory:
-  - kolp: idk - current
-  - patina: 2024-10-29 - idk
-
 status: sale
 products:
     - id: 705991341

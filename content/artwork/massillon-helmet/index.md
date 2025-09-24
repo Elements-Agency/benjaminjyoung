@@ -27,18 +27,8 @@ mediums: [oil]
 materials: [canvas panel]
 colors: [black, orange]
 collections: [massillon football, still lifes]
-locations: [kolp, kolps gallery]
+locations: [kolp]
 tags: [massillon, ohio, tigers, football, sports, helmet, reflective, indoors, cool]
-
-inventory:
-  - kolp: idk - current
-  - patina: 2025-01-18 - idk
-  - massmu: 2024-08-09 - 2025-01-18
-  - patina: 2024-07-27 - 2024-08-09
-  - home: 2024-06-08 - 2024-07-27
-  - patina: 2024-06-06 - 2024-06-08
-  - cyrus: 2024-04-26 - 2024-06-06
-  - home: 2024-04-12 - 2024-04-26
 
 status: sale
 products:

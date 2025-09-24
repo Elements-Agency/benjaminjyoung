@@ -29,15 +29,6 @@ collections: [figures facing from view, shades of olson, landscapes]
 locations: [kolp, print]
 tags: [hills, father, jay, howard, farm, house, old, man, figure, tree, muted, countryside, building, outdoors, autumn, solitary, rustic, farmhouse, appalachia, east sparta, ohio]
 
-inventory:
-  - kolp: 2025-03-11 - current
-  - thehub: 2025-03-04 - 2025-03-11
-  - patina: 2024-09-16 - current
-  - home: 2024-09-10 - 2024-09-16
-
-planning:
-  - massmu: 2025-10-22 - 2026-01-14
-
 status: sale
 products:
     - id: 694481795

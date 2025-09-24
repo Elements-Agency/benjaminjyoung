@@ -29,11 +29,6 @@ collections: [shades of olson, timeline, portraits]
 locations: [sold, print]
 tags: [woman, lady, old, window, wood, face, expression, gaze, house, glasses, earthy, outdoors, summer, rustic]
 
-inventory:
-  - buyer: 2025-03-30
-  - brydu: idk - 2025-03-30
-  - patina: 2024-11-21 - idk
-
 status: sold
 products:
     - id: 711193420

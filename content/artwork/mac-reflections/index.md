@@ -30,10 +30,6 @@ collections: [self portraits]
 locations: [sold]
 tags: [human, face, self, ben, facial hair, beard, dark, peace, calm, ben, indoors, cool]
 
-inventory:
-  - buyer: 2024-07-06
-  - home: 2024-02-03 - 2024-07-06
-
 status: sold
 products:
     - id: 645940870

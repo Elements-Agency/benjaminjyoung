@@ -28,15 +28,6 @@ collections: [massillon football]
 locations: [sold]
 tags: [massillon, ohio, tigers, joe, hallett, football, sports, field, autumn, team, win, figure, outdoors, crowd, trees, warm]
 
-inventory:
-  - patina: 2025-01-18 - current
-  - massmu: 2024-08-09 - 2025-01-18
-  - patina: 2024-07-27 - 2024-08-09
-  - home: 2024-06-08 - 2024-07-27
-  - patina: 2024-06-06 - 2024-06-08
-  - cyrus: 2024-04-26 - 2024-06-06
-  - home: 2024-04-26 - 2024-04-26
-
 status: sold
 products:
     - id: 654299515
@@ -44,7 +35,7 @@ products:
       sold: true
       price: $390
 
-buyer: Joe Hallett
+buyer: Joe Hallett (Massillon, OH)
 ---
 
 The **Massillon 52** is a vibrant watercolor painting, showcasing two Massillon Football players. Both in a moment of intense celebration. On the left, player 52 is rendered with a fierce expression. To the right, an unknown teammate engages in clapping, hands blurred to add to the effect. Behind them, the stadium is alive with spectators in the stands, out of focus. Backset all to autumn trees and vibrant green turf. I managed to infuse the scene with movement and excitement, creating a palpable sense of the game's high stakes and the players' raw emotion.

@@ -30,20 +30,6 @@ collections: [the dark trio, one last december, figures facing from view, reserv
 locations: [kolp, print]
 tags: [song, chair, scissors, woman, man, ben, figure, rope, dark, melancholy, sad, tied, bound, broken, intimate, fixing, trauma, cut, indoors, warm, ben, fat, loss, massillon, number five]
 
-inventory:
-  - kolp: 2025-03-17 - current
-  - door2art: 20215-02-19 - 2025-03-17
-  - patina: 20215-02-18 - 20215-02-19
-  - culturalcenter: 2025-01-10 - 20215-02-18
-  - patina: 2024-10-24 - 2025-01-10
-  - cyrus: 2024-10-18 - 2024-10-24
-  - patina: 2024-10-13 - 2024-10-18
-  - juilliard: 2024-09-12 - 2024-10-13
-  - patina: 2024-08-28 - 2024-09-12
-
-planning:
-  - massmu: 2025-10-22 - 2026-01-14
-
 status: sale
 products:
     - id: 691515054

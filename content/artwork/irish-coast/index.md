@@ -27,13 +27,6 @@ collections: [the colors of water]
 locations: [kolp]
 tags: [coast, sea, ocean, waves, rock, water, sun, sky, summer, warm, outdoors, ireland, dim, relaxing, cool]
 
-inventory:
-  - kolp: idk - current
-  - patina: 2024-12-01 - idk
-  - home: 2024-09-29 - 2024-12-01
-  - patina: 2024-08-14 - 2024-09-29
-  - home: 2024-07-09 - 2024-08-14
-
 status: sale
 products:
     - id: 680225708

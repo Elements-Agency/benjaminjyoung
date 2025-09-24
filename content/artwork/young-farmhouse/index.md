@@ -28,13 +28,6 @@ collections: []
 locations: [sold]
 tags: [farm, house, brick, home, east sparta, ohio, swing, walnut, tree, countryside, building, outdoors, spring, nostalgia, warm, appalachia]
 
-inventory:
-  - home: 2024-06-29 - current
-  - patina: 2024-05-18 - 2024-06-29
-  - home: 2024-04-12 - 2024-05-18
-  - cyrus: 2024-03-29 - 2024-04-12
-  - home: 2024-02-10 - 2024-04-12
-
 status: sold
 products:
     - id: 648124011
@@ -42,7 +35,7 @@ products:
       price: $300
       sold: true
 
-buyer: discontinued
+buyer: Susan Young (East Sparta, OH)
 ---
 
 This **Young Farmhouse** painting portrays a rustic, rural scene. Dominating the left foreground is a large, dark brown walnut tree, its detailed bark texture suggesting an old and sturdy presence. From one of its branches, a swing with a wooden seat dangles, its ropes hanging limply, waiting for a visitor and adding balance to the painting. Further back, the scene opens to a golden field, which could be a harvested crop, bordered by a dense tree line that marks the edge of a forest. The trees are evergreens, standing tall and dark green against the horizon.

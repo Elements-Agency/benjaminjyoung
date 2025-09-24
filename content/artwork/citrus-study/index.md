@@ -28,11 +28,6 @@ collections: [still lifes]
 locations: [sold]
 tags: [mug, cup, lemon, lime, citrus, fruit, dark, indoors, warm, table]
 
-inventory:
-  - home: 2024-05-02 - current
-  - cyrus: 2024-04-18 - 2024-05-02
-  - home: 2024-02-06 - 2024-04-18
-
 status: sale
 products:
     - id: 645932227

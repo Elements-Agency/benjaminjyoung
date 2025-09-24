@@ -22,14 +22,8 @@ mediums: [watercolor]
 materials: [cotton paper]
 colors: [blue, green, brown, black]
 collections: [animals]
-locations: [kolp, kolps gallery]
+locations: [kolp]
 tags: [butterfly, insect, leaf, wings, summer, cool, outdoors]
-
-inventory:
-  - kolp: idk - current
-  - patina: 2024-12-01 - idk
-  - home: 2024-10-07 - 2024-12-01
-  - patina: 2024-08-24 - 2024-10-07
 
 status: sale
 products:
@@ -39,6 +33,8 @@ products:
     - id: 763016102
       name: Open Reproduction
       price: $30
+
+repro: true
 ---
 
 This watercolor painting captures the delicate beauty of a blue butterfly perched on a cluster of green and yellow leaves. The butterfly's wings are depicted in vivid shades of blue, with intricate black and white patterns along the edges, adding depth and contrast to the piece. The artist skillfully uses the dark, textured background to make the butterfly's bright colors pop, creating a striking visual effect. The leaves beneath the butterfly are painted with a mix of green and yellow tones, which add a natural, organic feel to the composition. Overall, the painting evokes a sense of tranquility and appreciation for the subtle details found in nature.

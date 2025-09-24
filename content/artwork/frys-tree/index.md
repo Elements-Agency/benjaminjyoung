@@ -27,14 +27,8 @@ mediums: [watercolor, gouache]
 materials: [paper]
 colors: [black, blue]
 collections: [landscapes, timeline]
-locations: [sold]
+locations: [sold, print]
 tags: [tree, forrest, night, sky, twilight, dark, dusk, east sparta, ohio, park, nature, outdoors, calm, spooky, autumn, melancholy, cool]
-
-inventory:
-  - buyer: 2024-04-16
-  - home: 2024-04-12 - 2024-04-16
-  - cyrus: 2024-03-29 - 2024-04-12
-  - home: 2024-01-19 - 2024-03-29
 
 status: sold
 products:
@@ -47,6 +41,7 @@ products:
       sold: true
 
 buyer: Ted Turner (Aurora, OH)
+repro: true
 
 reproductions:
   - 9x12in:

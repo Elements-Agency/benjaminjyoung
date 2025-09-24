@@ -27,14 +27,6 @@ collections: [still lifes]
 locations: [sold]
 tags: [wine, bottle, pitcher, jug, wood, bowl, tablecloth, dropcloth, dining, room, table, backdrop, warm, indoors]
 
-inventory:
-  - buyer: 2025-05-14
-  - kolp: idk - 2025-05-14
-  - patina: 2025-02-01 - idk
-  - home: 2024-07-27 - 2025-02-01
-  - patina: 2024-05-18 - 2024-07-27
-  - home: 2023-12-15 - 2024-06-08
-
 status: sold
 products:
   - id: 645927912

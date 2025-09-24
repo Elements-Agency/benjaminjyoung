@@ -22,13 +22,10 @@ mediums: [oil]
 materials: [canvas]
 colors: [black, white]
 collections: []
-locations: [office]
+locations: [sold]
 tags: [human, man, figure, woman, hand, holding, love, emotion, happiness, genius, masterpiece, complex]
 
-inventory:
-  - kolp: 2025-04-01 - 2025-04-01
-
-status: sale
+status: sold
 products:
     - id: 738046313
       name: Original Painting

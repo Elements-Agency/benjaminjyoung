@@ -25,12 +25,6 @@ collections: [the colors of water, figures facing from view, reserved]
 locations: [kolp]
 tags: [girl, woman, stranger, human, figure, dock, lake, water, clouds, sky, melancholy, hills, waves, reflection, tranquility, thinking, calm, introspection, solitude, summer, cool, number twenty two]
 
-inventory:
-  - kolp: idk - current
-  - home: 2024-09-29 - idk
-  - patina: 2024-06-29 - 2024-09-29
-  - home: 2024-06-20 - 2024-06-29
-
 status: sale
 products:
     - id: 673936559

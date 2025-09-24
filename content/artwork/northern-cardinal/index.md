@@ -30,10 +30,6 @@ collections: [primary winter birds]
 locations: [sold, print]
 tags: [northern, red, cardinal, bird, outdoors, nature, winter, snow, branch, perched, overcast, warm]
 
-inventory:
-  - buyer: 2024-04-17
-  - home: 2024-01-25 - 2024-04-17
-
 status: sold
 products:
     - id: 763020609
@@ -45,6 +41,7 @@ products:
       sold: true
 
 buyer: Bruce Treiber (Massillon, OH)
+repro: true
 
 reproductions:
   - 9x12in:

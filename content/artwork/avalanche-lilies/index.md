@@ -27,17 +27,8 @@ mediums: [watercolor]
 materials: [paper]
 colors: [yellow, brown, white, green]
 collections: [lilies, reserved, timeline, landscapes]
-locations: [kolp, kolps gallery, print]
+locations: [springfield, print]
 tags: [avalanche, mountain, field, snow, grass, flower, lily, petal, leaf, rock, warm, outside, autumn, aj, number two]
-
-inventory:
-  - kolp: idk - current
-  - whiterabbit: 2025-01-10 - idk
-  - cyrus: 2025-01-07 - 2025-01-10
-  - patina: 2025-01-06 - 2025-01-07
-
-planning:
-  - ows: 2025-05-03 - 2025-08-03
 
 status: sale
 products:

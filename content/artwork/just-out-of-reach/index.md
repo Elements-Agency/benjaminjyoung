@@ -25,10 +25,6 @@ collections: [winter escape, figures facing from view, landscapes]
 locations: [kolp]
 tags: [human, figure, snow, winter, cabin, collapse, death, forest, cool, cold, outdoors, night]
 
-inventory:
-  - kolp: idk - current
-  - patina: 2025-01-24 - idk
-
 status: sale
 products:
     - id: 745421967

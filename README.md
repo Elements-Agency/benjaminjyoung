@@ -39,12 +39,6 @@ collections: [winter escape, primary winter birds, tiny canvas]
 locations: [patina, massmu, home, sold]
 tags: [subject, nouns, actions, season, weather, mood, emotion]
 
-inventory:
-  - patina: 2024-05-18 - current
-  - home: 2024-04-12 - 2024-05-18
-  - cyrus: 2024-03-29 - 2024-04-12
-  - home: 2024-02-10 - 2024-04-12
-
 hours: 6
 frame cost: $110
 

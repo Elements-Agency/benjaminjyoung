@@ -27,15 +27,8 @@ mediums: [watercolor]
 materials: [cotton paper]
 colors: [black, brown]
 collections: [timeline, figures]
-locations: [kolp, kolps gallery, print]
+locations: [cyrus, print]
 tags: [human, figure, man, ben, office, work, room, desk, shadow, melancholy, success, warm, indoors, day]
-
-inventory:
-  - kolp: idk - current
-  - summit: 2025-03-25 - idk
-  - kolp: idk - 2025-03-25
-  - cyrus: idk - idk
-  - home: 2025-02-23 - idk
 
 status: sale
 products:

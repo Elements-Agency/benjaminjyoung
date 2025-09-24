@@ -23,13 +23,6 @@ collections: [tiny canvas]
 locations: [kolp]
 tags: [american, football, sports, ball, dark, indoors, canton, massillon, ohio, warm]
 
-inventory:
-  - kolp: idk - current
-  - patina: 2025-01-15 - idk
-  - bztat: 2024-10-18 - 2025-01-15
-  - patina: 2024-07-05 - 2024-10-18
-  - home: 2024-07-03 - 2024-07-05
-
 status: sale
 products:
     - id: 677888659

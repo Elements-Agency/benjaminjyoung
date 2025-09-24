@@ -30,11 +30,6 @@ collections: [feb 26, one last december, timeline, figures]
 locations: [kolp, print]
 tags: [human, figure, ben, forest, night, dark, tree, snow, dundee falls, winter, melancholy, cold, outdoors]
 
-inventory:
-  - kolp: 2025-04-07 - current
-  - cyrus: idk - 2025-04-07
-  - home: 2025-02-26 - idk
-
 status: sale
 products:
     - id: 734463471

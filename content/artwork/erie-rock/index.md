@@ -29,12 +29,6 @@ collections: [the colors of water]
 locations: [sold]
 tags: [lake, erie, rock, beach, cleveland, ohio, sandusky, great lakes, water, waves, nature, outdoors, overcast, costal, warm, winter]
 
-inventory:
-  - buyer: 2024-03-20
-  - home: 2024-03-16 - 2024-03-20
-  - cyrus: 2024-03-01 - 2024-03-16
-  - home: 2024-02-18 - 2024-03-01
-
 status: sold
 products:
     - id: 645990284

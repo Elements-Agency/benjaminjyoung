@@ -27,10 +27,6 @@ collections: [the colors of water, landscapes]
 locations: [sold, print]
 tags: [lake, erie, rock, beach, cleveland, ohio, sandusky, great lakes, water, waves, nature, outdoors, overcast, costal, cool, summer]
 
-inventory:
-  - buyer: 2024-09-13
-  - home: 2024-08-18 - 2024-09-13
-
 status: sold
 products:
     - id: 763016633
@@ -42,6 +38,7 @@ products:
       sold: true
 
 buyer: Eric Anderson (Columbus, OH)
+repro: true
 
 limited: 60
 reproductions:

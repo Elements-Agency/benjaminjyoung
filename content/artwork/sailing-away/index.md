@@ -25,22 +25,21 @@ mediums: [watercolor]
 materials: [cotton paper]
 colors: [blue, grey]
 collections: [the colors of water, landscapes]
-locations: [kolp]
+locations: [sold, print]
 tags: [schooner, boat, ocean, waves, mist, morning, sea, water, mountains, outdoors, spring, cool]
 
-inventory:
-  - kolp: idk - current
-  - patina: 2024-06-07 - idk
-  - home: 2024-06-07 - 2024-06-07
-
-status: sale
+status: sold
 products:
-    - id: 670400475
-      name: Original Painting
-      price: $400
     - id: 763016635
       name: Open Reproduction
       price: $30
+    - id: 670400475
+      name: Original Painting
+      price: $400
+      sold: true
+
+buyer: Jay Spencer (Canton, OH)
+repro: true
 
 reproductions:
   - 9x12in:

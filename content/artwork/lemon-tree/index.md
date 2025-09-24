@@ -27,11 +27,6 @@ collections: []
 locations: [sold]
 tags: [lemon, flower, textured, citrus, tree, leaves, branch, impasto, cool]
 
-inventory:
-  - home: 2024-07-27 - current
-  - patina: 2024-06-29 - 2024-07-27
-  - home: 2024-03-21 - 2024-06-29
-
 status: sold
 products:
     - id: 648083433

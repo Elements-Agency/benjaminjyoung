@@ -26,11 +26,6 @@ collections: [watercolor sketches]
 locations: [kolp]
 tags: [orchid, flower, stem, petals, plant, summer, outdoors]
 
-inventory:
-  - kolp: idk - current
-  - patina: 2024-09-21 - idk
-  - home: 2024-09-20 - 2024-09-21
-
 status: sale
 products:
     - id: 696913012

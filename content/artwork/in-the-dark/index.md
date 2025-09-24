@@ -27,14 +27,8 @@ mediums: [watercolor]
 materials: [cotton paper]
 colors: [brown, red, orange, tan]
 collections: [timeline, portraits]
-locations: [kolp, print]
+locations: [juilliard, print]
 tags: [human, figure, ben, marcus, boy, youth, fire, flame, candle, dark, glow, warm, indoors]
-
-inventory:
-  - kolp: 2025-04-30 - current
-
-planning:
-  - massmu: 2025-10-22 - 2026-01-14
 
 status: sale
 products:

@@ -27,14 +27,8 @@ mediums: [watercolor]
 materials: [cotton paper]
 colors: [white, blue]
 collections: [winter escape, figures facing from view, landscapes]
-locations: [sold]
+locations: [sold, print]
 tags: [human, figure, snow, winter, fence, tracks, cool, cold, outdoors, gate, calm, lonely, isolation, peaceful, melancholy, cool]
-
-inventory:
-  - buyer: 2024-03-16
-  - home: 2024-03-16 - 2024-03-18
-  - cyrus: 2024-03-01 - 2024-03-16
-  - home: 2024-02-09 - 2024-03-01
 
 status: sold
 products:
@@ -47,6 +41,7 @@ products:
       sold: true
 
 buyer: Fred Boone (Bolivar, OH)
+repro: true
 
 reproductions:
   - 9x12in:

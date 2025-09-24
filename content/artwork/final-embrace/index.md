@@ -30,13 +30,6 @@ collections: [feb 26, one last december, timeline, figures]
 locations: [kolp, print]
 tags: [woman, lady, man, ben, aj, smoke, embrace, hug, couple, death, figure, love, suit, dress, dark, indoors, dramatic, winter, surreal, number two]
 
-inventory:
-  - kolp: 2025-04-07 - current
-  - cyrus: 2025-03-22 - 2025-04-07
-  - kolp: 2025-03-17 - 2025-03-22
-  - door2art: 20215-02-19 - 2025-03-17
-  - patina: 2024-12-20 - 20215-02-19
-
 status: sale
 products:
     - id: 716381943

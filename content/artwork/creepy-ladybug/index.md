@@ -33,8 +33,8 @@ products:
       name: Open Reproduction
       price: $30
 
-inventory:
-  - kolp: 2025-03-02 - current
+buyer: Marcus Young (Canton, OH)
+repro: true
 
 tag: A 1 hour watercolor painting of a ladybug.
 ---

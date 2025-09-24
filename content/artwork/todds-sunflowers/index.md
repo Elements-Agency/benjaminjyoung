@@ -26,11 +26,6 @@ collections: [watercolor sketches]
 locations: [kolp]
 tags: [sunflower, flower, stem, leaf, petals, plant, summer, outdoors]
 
-inventory:
-  - kolp: idk - current
-  - patina: 2025-02-01 - idk
-  - home: 2024-09-21 - 2025-02-01
-
 status: sale
 products:
     - id: 696990423
