@@ -35,7 +35,7 @@ products:
       name: 9x12in Reproduction
       price: $90
       limited: 60
-      left: 15
+      left: 14
     - id: 758199794
       name: 18x24in Reproduction
       price: $190
@@ -101,6 +101,7 @@ reproductions:
     - 43: Sam Treadaway (Concord, NC)
     - 44: Carol Weare (Bluemont, VA)
     - 45: Nicholas Fabiano (Suwanee, GA)
+    - 46: Margaret Kilpatrick (Cambridge, VT)
   - 18x24in:
     - 1: Ben Young (East Sparta, OH)
     - 2: Susan Lehman (Jupiter, FL)

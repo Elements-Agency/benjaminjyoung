@@ -7,6 +7,17 @@ description: Post-submission thank you page.
 private: true
 outputs: ['html']
 ---
+<script>
+  window.addEventListener('DOMContentLoaded', function() {
+    fbq('track', 'Lead');
+    
+    fbq('trackCustom', 'Milestone', {value: 40});
+    if (!localStorage.uniqueMilestone) {
+        localStorage.uniqueMilestone = true;
+        fbq('trackCustom', 'UniqueMilestone');
+    }
+  });
+</script>
 
 <p>Thanks for your contact submission,</p>
 <p>

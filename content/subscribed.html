@@ -14,7 +14,7 @@ outputs: ['html']
     fbq('track', 'Lead');
     gtag('event', 'lead', {});
 
-    fbq('trackCustom', 'Milestone');
+    fbq('trackCustom', 'Milestone', {value: 30});
     if (!localStorage.uniqueMilestone) {
       localStorage.uniqueMilestone = true;
       fbq('trackCustom', 'UniqueMilestone');
@@ -34,7 +34,7 @@ outputs: ['html']
     fbq('trackCustom', 'ViewSignup');
     gtag('event', 'view_signup', {});
 
-    fbq('trackCustom', 'Milestone');
+    fbq('trackCustom', 'Milestone', {value: 6});
     if (!localStorage.uniqueMilestone) {
       localStorage.uniqueMilestone = true;
       fbq('trackCustom', 'UniqueMilestone');

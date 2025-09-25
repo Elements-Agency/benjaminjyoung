@@ -169,7 +169,7 @@
                                         currency: cart.currency
                                     });
 
-                                    fbq('trackCustom', 'Milestone');
+                                    fbq('trackCustom', 'Milestone', {value: 6});
                                     if (!localStorage.uniqueMilestone) {
                                         localStorage.uniqueMilestone = true;
                                         fbq('trackCustom', 'UniqueMilestone');
@@ -188,7 +188,7 @@
                                         currency: order.currency
                                     });
 
-                                    fbq('trackCustom', 'Milestone');
+                                    fbq('trackCustom', 'Milestone', {value: 100});
                                     if (!localStorage.uniqueMilestone) {
                                         localStorage.uniqueMilestone = true;
                                         fbq('trackCustom', 'UniqueMilestone');
@@ -203,6 +203,20 @@
                     Reproductions are printed on premium archival fine art paper using only the finest archival-grade inks, these works meet the strict standards of giclée printmaking—ensuring exceptional detail, color accuracy, and fade resistance.
                     Designed to preserve the integrity of the original artwork, each reproduction is a museum-quality piece intended to be cherished for generations.
                 </p>
+
+                <hr>
+
+                <h3>Want to Know More?</h3>
+                <p>
+                    If you have any questions about the artwork, the reproduction process, or anything else, please feel free to <a href="/contact">contact me</a>.
+                </p>
+                <ul class="actions stacked">
+                    <li>
+                        <a href="/contact" class="button big wide smooth-scroll"  onclick="trackInterest();">
+                            Contact the Artist
+                        </a>
+                    </li>
+                </ul>
             </div>
         </section>
 
@@ -479,7 +493,7 @@
             fbq('trackCustom', 'ViewSignup');
             gtag('event', 'view_signup', {});
 
-            fbq('trackCustom', 'Milestone');
+            fbq('trackCustom', 'Milestone', {value: 6});
             if (!localStorage.uniqueMilestone) {
                 localStorage.uniqueMilestone = true;
                 fbq('trackCustom', 'UniqueMilestone');
@@ -502,6 +516,12 @@
 
             fbq('trackCustom', 'ClickAction');
             gtag('event', 'click_action', {});
+
+            fbq('trackCustom', 'Milestone', {value: 4});
+            if (!localStorage.uniqueMilestone) {
+                localStorage.uniqueMilestone = true;
+                fbq('trackCustom', 'UniqueMilestone');
+            }
             
             trackEngaged();
         }

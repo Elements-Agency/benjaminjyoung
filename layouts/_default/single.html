@@ -99,7 +99,7 @@
                         currency: cart.currency
                     });
 
-                    fbq('trackCustom', 'Milestone');
+                    fbq('trackCustom', 'Milestone', {value: 6});
                     if (!localStorage.uniqueMilestone) {
                         localStorage.uniqueMilestone = true;
                         fbq('trackCustom', 'UniqueMilestone');
@@ -118,7 +118,7 @@
                         currency: order.currency
                     });
 
-                    fbq('trackCustom', 'Milestone');
+                    fbq('trackCustom', 'Milestone', {value: 100});
                     if (!localStorage.uniqueMilestone) {
                         localStorage.uniqueMilestone = true;
                         fbq('trackCustom', 'UniqueMilestone');
