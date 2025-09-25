@@ -22,7 +22,7 @@
                         currency: cart.currency
                     });
 
-                    fbq('trackCustom', 'Milestone', {value: 6});
+                    fbq('trackCustom', 'Milestone', {value: 20, currency: 'USD'});
                     if (!localStorage.uniqueMilestone) {
                         localStorage.uniqueMilestone = true;
                         fbq('trackCustom', 'UniqueMilestone');
@@ -41,7 +41,7 @@
                         currency: order.currency
                     });
 
-                    fbq('trackCustom', 'Milestone', {value: 100});
+                    fbq('trackCustom', 'Milestone', {value: 200, currency: 'USD'});
                     if (!localStorage.uniqueMilestone) {
                         localStorage.uniqueMilestone = true;
                         fbq('trackCustom', 'UniqueMilestone');
@@ -52,13 +52,19 @@
 
         xSearch("id=my-search-101772706");
 
-        //if (localStorage.viewpainting || localStorage.viewstory) {
-            fbq('trackCustom', 'Milestone', {value: 3});
+        if (localStorage.viewpainting || localStorage.viewstory) {
+            fbq('trackCustom', 'Milestone', {value: 5, currency: 'USD'});
             if (!localStorage.uniqueMilestone) {
                 localStorage.uniqueMilestone = true;
                 fbq('trackCustom', 'UniqueMilestone');
             }
-        //}
+        } else {
+            fbq('trackCustom', 'Milestone', {value: 1, currency: 'USD'});
+            if (!localStorage.uniqueMilestone) {
+                localStorage.uniqueMilestone = true;
+                fbq('trackCustom', 'UniqueMilestone');
+            }
+        }
 
         localStorage.viewshop = true;
 

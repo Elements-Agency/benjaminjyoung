@@ -171,7 +171,7 @@
             fbq('trackCustom', 'ViewSignup');
             gtag('event', 'view_signup', {});
 
-            fbq('trackCustom', 'Milestone', {value: 6});
+            fbq('trackCustom', 'Milestone', {value: 10, currency: 'USD'});
             if (!localStorage.uniqueMilestone) {
                 localStorage.uniqueMilestone = true;
                 fbq('trackCustom', 'UniqueMilestone');
@@ -194,6 +194,12 @@
 
             fbq('trackCustom', 'ClickAction');
             gtag('event', 'click_action', {});
+
+            fbq('trackCustom', 'Milestone', {value: 5, currency: 'USD'});
+            if (!localStorage.uniqueMilestone) {
+                localStorage.uniqueMilestone = true;
+                fbq('trackCustom', 'UniqueMilestone');
+            }
             
             trackEngaged();
         }

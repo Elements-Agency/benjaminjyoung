@@ -11,7 +11,7 @@ outputs: ['html']
   window.addEventListener('DOMContentLoaded', function() {
     fbq('track', 'Lead');
     
-    fbq('trackCustom', 'Milestone', {value: 40});
+    fbq('trackCustom', 'Milestone', {value: 50, currency: 'USD'});
     if (!localStorage.uniqueMilestone) {
         localStorage.uniqueMilestone = true;
         fbq('trackCustom', 'UniqueMilestone');
