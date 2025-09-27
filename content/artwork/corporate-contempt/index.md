@@ -47,6 +47,8 @@ reproductions:
     - 3: Reserved
     - 4: Drake Danner (Boston, MA)
     - 5: Victoria Finecy (Dallas, TX)
+  - 12x16in:
+    - 1: Ben Young (East Sparta, OH)
   - 18x24in:
     - 1: Ben Young (East Sparta, OH)
   - 30x40in:

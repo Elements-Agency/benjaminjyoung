@@ -45,7 +45,10 @@ reproductions:
     - 1: Ben Young (East Sparta, OH)
     - 2: Pam Pratt (Winchester, KY)
     - 3: Muriel Keller (Winterthur, Switzerland)
-    - 4: Reserved
+    - 4: Rob Volzer (Canton, OH)
+    - 5: Reserved
+  - 12x16in:
+    - 1: Ben Young (East Sparta, OH)
   - 18x24in:
     - 1: Ben Young (East Sparta, OH)
   - 30x40in:

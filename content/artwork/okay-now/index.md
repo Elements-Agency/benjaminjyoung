@@ -60,6 +60,8 @@ reproductions:
     - 9: Kelly Martin (Canton, OH)
     - 10: Alison (Canton, OH)
     - 11: Sheri (Canton, OH)
+  - 12x16in:
+    - 1: Ben Young (East Sparta, OH)
   - 18x24in:
     - 1: Ben Young (East Sparta, OH)
     - 2: Amy Moroney (Vienna, VA)

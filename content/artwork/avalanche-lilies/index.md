@@ -44,6 +44,8 @@ reproductions:
   - 9x12in:
     - 1: Ben Young (East Sparta, OH)
     - 2: Reserved
+  - 12x16in:
+    - 1: Ben Young (East Sparta, OH)
   - 18x24in:
     - 1: Ben Young (East Sparta, OH)
   - 30x40in:

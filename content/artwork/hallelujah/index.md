@@ -47,6 +47,8 @@ reproductions:
     - 2: Johnathan Becker (Artober. Massillon, OH)
     - 3: Michelle Hartman (Barberton, OH)
     - 4: Reserved
+  - 12x16in:
+    - 1: Ben Young (East Sparta, OH)
   - 18x24in:
     - 1: Ben Young (East Sparta, OH)
   - 30x40in:

@@ -52,6 +52,8 @@ reproductions:
     - 3: Becky Myers (Ada, MI)
     - 4: Jessi Knight (San Francisco, CA)
     - 5: Reserved
+  - 12x16in:
+    - 1: Ben Young (East Sparta, OH)
   - 18x24in:
     - 1: Ben Young (East Sparta, OH)
   - 30x40in:

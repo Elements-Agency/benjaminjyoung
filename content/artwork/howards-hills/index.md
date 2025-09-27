@@ -48,6 +48,8 @@ reproductions:
     - 4: John Schnabel (Marion, OH)
     - 5: Grand Opening (Canton, OH)
     - 6: Reserved
+  - 12x16in:
+    - 1: Ben Young (East Sparta, OH)
   - 18x24in:
     - 1: Ben Young (East Sparta, OH)
   - 30x40in:
