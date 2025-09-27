@@ -10,7 +10,7 @@
         fbq('trackCustom', 'ViewSignup');
         gtag('event', 'view_signup', {});
 
-        fbq('trackCustom', 'Milestone', {value: 10, currency: 'USD'});
+        fbq('trackCustom', 'Milestone', {value: 10, currency: 'USD', name: 'PreLead'});
         if (!localStorage.uniqueMilestone) {
           localStorage.uniqueMilestone = true;
           fbq('trackCustom', 'UniqueMilestone');
