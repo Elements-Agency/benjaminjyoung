@@ -2,6 +2,6 @@
 date: 2013-10-01
 title: Expecting
 subtitle: 
-description: The previously suppressed memory of when I found out Andrea was expecting, showing the stark difference of excitement for my future daughter.
+description: The previously suppressed memory of when I found out AJ was expecting, showing the stark difference of excitement for my future daughter.
 author: Benjamin J. Young
 ---
