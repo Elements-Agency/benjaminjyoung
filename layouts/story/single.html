@@ -40,7 +40,7 @@
             <ul class="actions special">
                 {{ if $full }}
                     <li class="gallery">
-                        <a href="{{ $full.RelPermalink }}" class="button big wide" data-fancybox data-caption="{{ .Title }} by Ben Young" aria-label="View Full Painting" onclick="trackInterest();">
+                        <a href="{{ $full.RelPermalink }}" class="button big wide primary" data-fancybox data-caption="{{ .Title }} by Ben Young" aria-label="View Full Painting" onclick="trackInterest();">
                             View Full Painting
                         </a>
                     </li>
@@ -48,7 +48,11 @@
                         Fancybox.bind("[data-fancybox]", {});
                     </script>
                 {{ end }}
-                <li><a href="#more" class="button big wide smooth-scroll-middle" onclick="trackInterest();">Learn More</a></li>
+                <li>
+                    <a href="#more" class="button big wide smooth-scroll-middle secondary" onclick="trackInterest();">
+                        Learn More
+                    </a>
+                </li>
             </ul>
         </div>
 
@@ -74,11 +78,16 @@
                 <ul class="actions">
                     {{ if .Params.products }}
                         <li>
-                            <a href="#purchase" class="button big wide smooth-scroll" onclick="trackInterest();">
-                                Purchase Artwork
+                            <a href="#purchase" class="button big wide smooth-scroll primary" onclick="trackInterest();">
+                                Acquire Artwork
                             </a>
                         </li>
                     {{ end }}
+                    <li>
+                        <a href="#artist" class="button big wide smooth-scroll secondary" onclick="trackInterest();">
+                            Learn More About the Artist
+                        </a>
+                    </li>
                 </ul>
             </div>
 
@@ -95,7 +104,7 @@
 
     <section {{ if not (replace .Content .Summary "") }}id="more"{{ end }} class="spotlight style1 {{ if replace .Content .Summary "" }}orient-right{{ else }}orient-left{{ end }} content-align-left image-position-center onscroll-image-fade-in">
         <div class="content">
-            <h2>About the Artist</h2>
+            <h2 id="artist">About the Artist</h2>
             <p>
                 Ben Young is a contemporary fine artist originally from Appalachia, Ohio.
                 Originally a Software Engineer, he began painting in watercolor and oil less than two years ago, and his work has quickly gained attention for its emotional depth and storytelling.
@@ -104,9 +113,14 @@
                 His paintings resonate with collectors drawn to authenticity, vulnerability, and a fresh, emerging voice in American art.
             </p>
             
-            <ul class="actions stacked">
+            <ul class="actions">
                 <li>
-                    <a href="#signup" class="button big wide smooth-scroll" onclick="clickedQuality(); trackInterest(); focusSignup();">
+                    <a href="/story" class="button big wide smooth-scroll primary" onclick="trackInterest();">
+                        View Full Story Series
+                    </a>
+                </li>
+                <li>
+                    <a href="#signup" class="button big wide smooth-scroll secondary" onclick="clickedQuality(); trackInterest(); focusSignup();">
                         Sign Up for Newsletter 
                     </a>
                 </li>
@@ -222,10 +236,15 @@
                 <p>
                     If you have any questions about the artwork, the reproduction process, or anything else, please feel free to <a href="/contact">contact me</a>.
                 </p>
-                <ul class="actions stacked">
+                <ul class="actions special">
                     <li>
-                        <a href="/contact" class="button big wide smooth-scroll"  onclick="trackInterest();">
+                        <a href="/contact" class="button big wide smooth-scroll primary"  onclick="trackInterest();">
                             Contact the Artist
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#signup" class="button big wide smooth-scroll secondary" onclick="clickedQuality(); trackInterest(); focusSignup();">
+                            Subscribe to Newsletter 
                         </a>
                     </li>
                 </ul>
@@ -260,10 +279,15 @@
                     <li>Every original is designed and finished with <strong>museum-level care</strong> and craftsmanship</li>
                 </ul>
 
-                <ul class="actions stacked">
+                <ul class="actions">
                     <li>
-                        <a href="#purchase" class="button big wide smooth-scroll"  onclick="trackInterest();">
-                            Discover the Collection
+                        <a href="#purchase" class="button big wide smooth-scroll primary" onclick="trackInterest();">
+                            Discover This Collection
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/shop" class="button big wide smooth-scroll secondary" onclick="trackInterest();">
+                            Browse All Products
                         </a>
                     </li>
                 </ul>
@@ -317,8 +341,13 @@
 
                 <ul class="actions special">
                     <li>
-                        <a href="#purchase" class="button big wide smooth-scroll"  onclick="trackInterest();">
-                            Collect Now
+                        <a href="/shop" class="button big wide smooth-scroll primary" onclick="trackInterest();">
+                            Explore All Products
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#purchase" class="button big wide smooth-scroll secondary"  onclick="trackInterest();">
+                            Collect This Artwork
                         </a>
                     </li>
                 </ul>
@@ -367,7 +396,7 @@
                         <input type="text" name="b_5a284b4c27bab02102d3645de_a01ee307ec" tabindex="-1" value="">
                     </div>
                 <ul class="actions">
-                    <li><input type="submit" name="submit" id="submit" value="Subscribe to Newsletter"></li>
+                    <li><input class="button primary" type="submit" name="submit" id="submit" value="Subscribe to Newsletter"></li>
                 </ul>
             </form>
         </div>
