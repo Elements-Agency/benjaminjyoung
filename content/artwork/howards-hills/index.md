@@ -37,7 +37,7 @@ products:
     - id: 694564503
       name: Limited Reproduction
       price: $50
-      left: 54
+      left: 53
 
 limited: 60
 reproductions:
@@ -47,7 +47,8 @@ reproductions:
     - 3: Debra Mee (Raleigh, NC)
     - 4: John Schnabel (Marion, OH)
     - 5: Grand Opening (Canton, OH)
-    - 6: Reserved
+    - 6: Pines Craft Show (Canton, OH)
+    - 7: Reserved
   - 12x16in:
     - 1: Ben Young (East Sparta, OH)
   - 18x24in:

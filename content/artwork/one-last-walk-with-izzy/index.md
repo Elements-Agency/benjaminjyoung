@@ -40,7 +40,7 @@ products:
       name: 18x24in Reproduction
       price: $190
       limited: 30
-      left: 26
+      left: 24
     - id: 758189666
       name: 30x40in Reproduction
       price: $390
@@ -90,7 +90,7 @@ reproductions:
     - 32: Catherine Lawrence (Grand Rapids, MI)
     - 33: Eric Anderson (Jackson, WY)
     - 34: Steven Plank (Oberlin, OH)
-    - 35: Reserved
+    - 35: Pines Craft Show (Canton, OH)
     - 36: Brandon Hart (Triadelphia, WV)
     - 37: Reserved
     - 38: Richard DeTriquet (Fredericksburg, Virginia)
@@ -110,6 +110,7 @@ reproductions:
     - 3: William Schoepski (Rome, GA)
     - 4: Reserved
     - 5: Megan Darwin (Shaker Heights, OH)
+    - 6: Victoria Anderson (Williamsfield, OH)
   - 30x40in:
     - 1: Ben Young (East Sparta, OH)
     - 2: Jim Lynd (Jeffersonville, IN)

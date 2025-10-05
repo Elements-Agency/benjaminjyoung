@@ -45,6 +45,7 @@ reproductions:
   - 9x12in:
     - 1: Ben Young (East Sparta, OH)
     - 2: Artober (Massillon, OH)
+    - 3: Pines Craft Show (Canton, OH)
   - 12x16in:
     - 1: Ben Young (East Sparta, OH)
 ---
