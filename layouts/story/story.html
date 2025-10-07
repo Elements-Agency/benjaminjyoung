@@ -105,7 +105,7 @@
             
             <ul class="actions stacked">
                 <li>
-                    <a href="#signup" class="button big wide smooth-scroll" onclick="clickedQuality(); trackInterest(); focusSignup();">
+                    <a href="#signup" class="button big wide smooth-scroll" onclick="focusSignup();">
                         Sign Up for Newsletter 
                     </a>
                 </li>
@@ -168,10 +168,6 @@
 
 {{ define "scripts" }}
     <script type="text/javascript">
-        function clickedQuality() {
-            localStorage.potentialQuality = true;
-        }
-
         function focusSignup() {
             if (localStorage.viewSignup) {
                 return;
@@ -181,44 +177,8 @@
             
             fbq('trackCustom', 'ViewSignup');
             gtag('event', 'view_signup', {});
-
-            fbq('trackCustom', 'Milestone', {value: 10, currency: 'USD', name: 'PreLead'});
-            if (!localStorage.uniqueMilestone) {
-                localStorage.uniqueMilestone = true;
-                fbq('trackCustom', 'UniqueMilestone');
-            }
-
-            if (localStorage.potentialQuality) {
-                fbq('trackCustom', 'ViewQualitySignup');
-                gtag('event', 'view_quality_signup', {});
-            }
             
             trackEngaged();
         }
-
-        function trackInterest() {
-            if (localStorage.clickedInterest) {
-                return;
-            }
-
-            localStorage.clickedInterest = true;
-
-            fbq('trackCustom', 'ClickAction');
-            gtag('event', 'click_action', {});
-
-            fbq('trackCustom', 'Milestone', {value: 5, currency: 'USD', name: 'ClickAction'});
-            if (!localStorage.uniqueMilestone) {
-                localStorage.uniqueMilestone = true;
-                fbq('trackCustom', 'UniqueMilestone');
-            }
-            
-            trackEngaged();
-        }
-
-        document.addEventListener("DOMContentLoaded", () => {
-            localStorage.viewstory = true;
-
-            fbq('trackCustom', 'ViewStory');
-        });
     </script>
 {{ end }}

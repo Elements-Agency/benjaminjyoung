@@ -10,12 +10,6 @@
         fbq('trackCustom', 'ViewSignup');
         gtag('event', 'view_signup', {});
 
-        fbq('trackCustom', 'Milestone', {value: 10, currency: 'USD', name: 'PreLead'});
-        if (!localStorage.uniqueMilestone) {
-          localStorage.uniqueMilestone = true;
-          fbq('trackCustom', 'UniqueMilestone');
-        }
-
         localStorage.viewSignup = true;
       }
     </script>
@@ -81,20 +75,6 @@
 
               document.getElementById("hid-MMERGE7").value =
               document.getElementById("hid-MMERGE7").defaultValue = artParam;
-
-              if (drivenParam == 'discount') {
-                document.getElementById("signupTags").value =
-                document.getElementById("signupTags").defaultValue = '7257335,7257510';
-
-                fbq('trackCustom', 'ViewQualitySignup');
-                gtag('event', 'view_quality_signup', {});
-              } else if (drivenParam == 'prize') {
-                document.getElementById("signupTags").value =
-                document.getElementById("signupTags").defaultValue = '7257335,7257609';
-
-                fbq('trackCustom', 'ViewPrizeSignup');
-                gtag('event', 'view_prize_signup', {});
-              }
             </script>
 
             <hr>

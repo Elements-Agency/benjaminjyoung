@@ -14,36 +14,15 @@ outputs: ['html']
     fbq('track', 'Lead');
     gtag('event', 'lead', {});
 
-    fbq('trackCustom', 'Milestone', {value: 30, currency: 'USD', name: 'Lead'});
-    if (!localStorage.uniqueMilestone) {
-      localStorage.uniqueMilestone = true;
-      fbq('trackCustom', 'UniqueMilestone');
-    }
-
     localStorage.lead = true;
-  }
-
-  if (!localStorage.viewSubscribed) {
-    fbq('trackCustom', 'ViewSubscribed');
-    gtag('event', 'view_subscribed', {});
-
-    localStorage.viewSubscribed = true;
   }
 
   if (!localStorage.viewSignup) {
     fbq('trackCustom', 'ViewSignup');
     gtag('event', 'view_signup', {});
 
-    fbq('trackCustom', 'Milestone', {value: 10, currency: 'USD', name: 'PreLead'});
-    if (!localStorage.uniqueMilestone) {
-      localStorage.uniqueMilestone = true;
-      fbq('trackCustom', 'UniqueMilestone');
-    }
-
     localStorage.viewSignup = true;
   }
-
-  trackEngaged();
 </script>
 
 <p>

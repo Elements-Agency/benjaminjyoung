@@ -35,10 +35,6 @@
             {{ $section_name := index (.Site.Params.mainSections) 0 }}
             {{ $n_posts := $.Param "recent_posts_number" | default 120 }}
 
-            <script>
-              trackEngaged();
-            </script>
-
             {{ range $i,$p := (sort $section "Params.power" "desc") }}
               {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
               {{ $thumbnail := $thumbnail.Fill "160x160 Center" }}

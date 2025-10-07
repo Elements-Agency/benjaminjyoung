@@ -120,7 +120,7 @@
                     </a>
                 </li>
                 <li>
-                    <a href="#signup" class="button big wide smooth-scroll secondary" onclick="clickedQuality(); trackInterest(); focusSignup();">
+                    <a href="#signup" class="button big wide smooth-scroll secondary" onclick="focusSignup();">
                         Sign Up for Newsletter 
                     </a>
                 </li>
@@ -138,10 +138,31 @@
                 <p>{{- .Params.buy -}}</p>
 
                 <p class="center">
-                    <strong>20% discount</strong> for anyone <a href="#signup" class="smooth-scroll" onclick="clickedQuality(); trackInterest(); focusSignup();">subscribed up to my newsletter</a>.
+                    <strong>20% discount</strong> for anyone <a href="#signup" class="smooth-scroll" onclick="focusSignup();">subscribed up to my newsletter</a>.
                 </p>
 
                 <div class="items style1 onscroll-fade-in medium">
+                    <script>
+                        function fireViewProducts() {
+                            fbq('trackCustom', 'ViewProducts');
+                        }
+
+                        function isInViewport(element) {
+                            const rect = element.getBoundingClientRect();
+                            return (
+                                rect.top < window.innerHeight &&
+                                rect.bottom > 0
+                            );
+                        }
+
+                        document.addEventListener('scroll', function() {
+                            const productsSection = document.getElementById('purchase');
+                            if (productsSection && isInViewport(productsSection) && !productsSection._viewProductsFired) {
+                                fireViewProducts();
+                                productsSection._viewProductsFired = true;
+                            }
+                        });
+                    </script>
                     {{ range $product := .Params.products }}
                         <section>
                             <h3>{{ $product.name }}</h3>
@@ -173,7 +194,19 @@
                                     <div customprop="vatinprice"></div>
                                     <div customprop="options"></div>
                                     <div customprop="numberinstock"></div>
-                                    <div customprop="addtobag"></div>
+                                    <div customprop="addtobag" style="margin-bottom: 0.5em;"></div>
+
+                                    <div>
+                                        <div style="position: relative; display: inline-block;">
+                                            <a class="ecwid-btn ecwid-btn--primary ecwid-btn--addToBag ecwid-btn--actionOK"
+                                                style="background: #fff; color: #000; border: 1px solid #ddd;"
+                                                href="/shop/#!/p/{{ $product.id }}"
+                                                aria-label="View Product"
+                                                title="View Product">
+                                                <span style=" color: #000;">View Product</span>
+                                            </a>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </section>
@@ -194,12 +227,6 @@
                                         value: cart.items.reduce(function(sum, item) { return sum + (item.price * item.quantity); }, 0),
                                         currency: cart.currency
                                     });
-
-                                    fbq('trackCustom', 'Milestone', {value: 10+(order.total/5), currency: 'USD', name: 'AddToCart'});
-                                    if (!localStorage.uniqueMilestone) {
-                                        localStorage.uniqueMilestone = true;
-                                        fbq('trackCustom', 'UniqueMilestone');
-                                    }
                                 }
                             });
 
@@ -213,12 +240,6 @@
                                         value: order.total,
                                         currency: order.currency
                                     });
-
-                                    fbq('trackCustom', 'Milestone', {value: 200+order.total, currency: 'USD', name: 'Purchase'});
-                                    if (!localStorage.uniqueMilestone) {
-                                        localStorage.uniqueMilestone = true;
-                                        fbq('trackCustom', 'UniqueMilestone');
-                                    }
                                 }
                             });
                         });
@@ -243,7 +264,7 @@
                         </a>
                     </li>
                     <li>
-                        <a href="#signup" class="button big wide smooth-scroll secondary" onclick="clickedQuality(); trackInterest(); focusSignup();">
+                        <a href="#signup" class="button big wide smooth-scroll secondary" onclick="focusSignup();">
                             Subscribe to Newsletter 
                         </a>
                     </li>
@@ -520,10 +541,6 @@
 
 {{ define "scripts" }}
     <script type="text/javascript">
-        function clickedQuality() {
-            localStorage.potentialQuality = true;
-        }
-
         function focusSignup() {
             if (localStorage.viewSignup) {
                 return;
@@ -533,19 +550,8 @@
             
             fbq('trackCustom', 'ViewSignup');
             gtag('event', 'view_signup', {});
-
-            fbq('trackCustom', 'Milestone', {value: 10, currency: 'USD', name: 'PreLead'});
-            if (!localStorage.uniqueMilestone) {
-                localStorage.uniqueMilestone = true;
-                fbq('trackCustom', 'UniqueMilestone');
-            }
-
-            if (localStorage.potentialQuality) {
-                fbq('trackCustom', 'ViewQualitySignup');
-                gtag('event', 'view_quality_signup', {});
-            }
             
-            trackEngaged();
+            trackInterest();
         }
 
         function trackInterest() {
@@ -555,14 +561,8 @@
 
             localStorage.clickedInterest = true;
 
-            fbq('trackCustom', 'ClickAction');
-            gtag('event', 'click_action', {});
-
-            fbq('trackCustom', 'Milestone', {value: 5, currency: 'USD', name: 'ClickAction'});
-            if (!localStorage.uniqueMilestone) {
-                localStorage.uniqueMilestone = true;
-                fbq('trackCustom', 'UniqueMilestone');
-            }
+            fbq('trackCustom', 'Interested');
+            gtag('event', 'interested', {});
             
             trackEngaged();
         }
@@ -571,8 +571,8 @@
             localStorage.viewpainting = true;
             
             fbq('trackCustom', 'ViewPainting', {
-            content_category: 'Artwork',
-            content_name: '{{- .Title -}}',
+                content_category: 'Artwork',
+                content_name: '{{- .Title -}}',
             });
             gtag('event', 'view_painting', {});
         });

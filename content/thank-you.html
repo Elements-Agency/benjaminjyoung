@@ -10,12 +10,6 @@ outputs: ['html']
 <script>
   window.addEventListener('DOMContentLoaded', function() {
     fbq('track', 'Lead');
-    
-    fbq('trackCustom', 'Milestone', {value: 50, currency: 'USD', name: 'Contact'});
-    if (!localStorage.uniqueMilestone) {
-        localStorage.uniqueMilestone = true;
-        fbq('trackCustom', 'UniqueMilestone');
-    }
   });
 </script>
 

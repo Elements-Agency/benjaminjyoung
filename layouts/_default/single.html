@@ -32,11 +32,6 @@
     <script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?101772706&data_platform=singleproduct_v2" charset="utf-8"></script>
 
     <script type="text/javascript">
-      function trackInterest() {
-        fbq('trackCustom', 'ClickAction');
-        gtag('event', 'click_action', {});
-      }
-
       var element = document.getElementById('purchase');
       var elementHeight = element.clientHeight;
       var hitEnd = false;
@@ -56,11 +51,7 @@
       }
 
       function trackEnd() {
-        fbq('trackCustom', 'ViewProduct', {
-          content_category: 'Artwork',
-          content_name: '{{- .Title -}}',
-        });
-        gtag('event', 'view_product', {});
+        fbq('trackCustom', 'ViewProducts');
       }
 
       function watchScroll() {
@@ -73,15 +64,6 @@
       document.addEventListener('scroll', watchScroll);
 
       function trackProduct(id, name, value) {
-        fbq('trackCustom', 'ClickProduct', {
-          content_category: 'Artwork',
-          content_name: name,
-          content_ids: [id],
-          content_type: 'product',
-          value: value,
-          currency: 'USD',
-        });
-        gtag('event', 'click_product', {});
       }
 
       document.addEventListener("DOMContentLoaded", () => {
@@ -98,12 +80,6 @@
                         value: cart.items.reduce(function(sum, item) { return sum + (item.price * item.quantity); }, 0),
                         currency: cart.currency
                     });
-
-                    fbq('trackCustom', 'Milestone', {value: 10+(order.total/5), currency: 'USD', name: 'AddToCart'});
-                    if (!localStorage.uniqueMilestone) {
-                        localStorage.uniqueMilestone = true;
-                        fbq('trackCustom', 'UniqueMilestone');
-                    }
                 }
             });
 
@@ -117,23 +93,11 @@
                         value: order.total,
                         currency: order.currency
                     });
-
-                    fbq('trackCustom', 'Milestone', {value: 200+order.total, currency: 'USD', name: 'Purchase'});
-                    if (!localStorage.uniqueMilestone) {
-                        localStorage.uniqueMilestone = true;
-                        fbq('trackCustom', 'UniqueMilestone');
-                    }
                 }
             });
         });
 
         localStorage.viewpainting = true;
-        
-        fbq('trackCustom', 'ViewPainting', {
-          content_category: 'Artwork',
-          content_name: '{{- .Title -}}',
-        });
-        gtag('event', 'view_painting', {});
       });
     </script>
 {{ end }}
