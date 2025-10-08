@@ -36,6 +36,11 @@ products:
 buyer: Marcus Young (Canton, OH)
 repro: true
 
+reproductions:
+  - 5x5in:
+    - 1: Ben Young (East Sparta, OH)
+    - 2: Amy Moroney (Vienna, VA)
+
 tag: A 1 hour watercolor painting of a ladybug.
 ---
 

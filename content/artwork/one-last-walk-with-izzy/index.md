@@ -40,7 +40,7 @@ products:
       name: 18x24in Reproduction
       price: $190
       limited: 30
-      left: 24
+      left: 23
     - id: 758189666
       name: 30x40in Reproduction
       price: $390
@@ -111,6 +111,7 @@ reproductions:
     - 4: Reserved
     - 5: Megan Darwin (Shaker Heights, OH)
     - 6: Victoria Anderson (Williamsfield, OH)
+    - 7: Amy Moroney (Vienna, VA)
   - 30x40in:
     - 1: Ben Young (East Sparta, OH)
     - 2: Jim Lynd (Jeffersonville, IN)
