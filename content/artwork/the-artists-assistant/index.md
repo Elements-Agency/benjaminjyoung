@@ -11,7 +11,7 @@ aliases: [/the-artists-assistant, /artwork/artists-assistant]
 images: ['painting.jpg']
 
 featured: true
-order: 10 #5
+order: 3 #10
 ratio: portrait
 power: 506
 sold: 4

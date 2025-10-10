@@ -9,7 +9,7 @@ aliases: [/avalanche-lilies]
 images: ['painting.jpg']
 
 featured: true
-order: 9 #12
+order: 11 #9
 ratio: landscape
 power: 276
 sold: 1

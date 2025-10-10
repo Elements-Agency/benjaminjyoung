@@ -141,28 +141,28 @@
                     <strong>20% discount</strong> for anyone <a href="#signup" class="smooth-scroll" onclick="focusSignup();">subscribed up to my newsletter</a>.
                 </p>
 
+                <script>
+                    function fireViewProducts() {
+                        fbq('trackCustom', 'ViewProducts');
+                    }
+
+                    function isInViewport(element) {
+                        const rect = element.getBoundingClientRect();
+                        return (
+                            rect.top < window.innerHeight &&
+                            rect.bottom > 0
+                        );
+                    }
+
+                    document.addEventListener('scroll', function() {
+                        const productsSection = document.getElementById('purchase');
+                        if (productsSection && isInViewport(productsSection) && !productsSection._viewProductsFired) {
+                            fireViewProducts();
+                            productsSection._viewProductsFired = true;
+                        }
+                    });
+                </script>
                 <div class="items style1 onscroll-fade-in medium">
-                    <script>
-                        function fireViewProducts() {
-                            fbq('trackCustom', 'ViewProducts');
-                        }
-
-                        function isInViewport(element) {
-                            const rect = element.getBoundingClientRect();
-                            return (
-                                rect.top < window.innerHeight &&
-                                rect.bottom > 0
-                            );
-                        }
-
-                        document.addEventListener('scroll', function() {
-                            const productsSection = document.getElementById('purchase');
-                            if (productsSection && isInViewport(productsSection) && !productsSection._viewProductsFired) {
-                                fireViewProducts();
-                                productsSection._viewProductsFired = true;
-                            }
-                        });
-                    </script>
                     {{ range $product := .Params.products }}
                         <section>
                             <h3>{{ $product.name }}</h3>

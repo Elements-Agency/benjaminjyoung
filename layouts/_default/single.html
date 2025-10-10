@@ -132,7 +132,12 @@
               {{ end }}
             </span>
 
-            <h2 id="title" style="font-size:3em;">{{ .Title }}</h2>
+            <h2 id="title" style="font-size:3em;">
+              {{ .Title }}
+              <span style="font-size:0.5em; display:block; margin-top:-0.2em; font-weight: lighter; color:gray">
+                by {{ .Params.author | default .Site.Params.author }}
+              </span>
+            </h2>
 
             {{ if .Resources.GetMatch "painting.jpg" }}
               <section style="text-align:center;">
@@ -185,10 +190,12 @@
 
               <p>
                 {{ .Title }}.
+                {{ .Date | time.Format "2006" }}.
                 {{ title (index (.Params.mediums) 0) | default "Paint" }}
                 on {{ title (index (.Params.materials) 0) | default "Canvas" }}.
                 {{ .Params.size }}.
-                {{ .Params.author }}.
+                {{ .Params.author }},
+                American, b. {{ with .Params.author_born }}{{ . }}{{ else }}1990{{ end }}.
                 <br>
                 <a class="preview" href="{{ $full.RelPermalink }}">Click Image to View Full Screen</a>
               </p>

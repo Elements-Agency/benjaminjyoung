@@ -12,20 +12,32 @@ products:
       name: 9x12in Limited Reproduction
       left: 14
       total: 60
+    - id: 788413574
+      name: 12x16in Limited Reproduction
+      left: 39
+      total: 40
     - id: 758199794
       name: 18x24in Limited Reproduction
       left: 26
       total: 30
+    - id: 788412829
+      name: 24x32in Limited Reproduction
+      left: 19
+      total: 20
     - id: 758189666
       name: 30x40in Limited Reproduction
       left: 7
       total: 10
-    - id: 708668936
-      name: Original Painting
-    - id: 777543321
-      name: Postcard
+    - id: 788438051
+      name: 6x8in Limited Reproduction
+      left: 119
+      total: 120
     - id: 777543312
       name: Ceramic Mug
+    - id: 777543321
+      name: Postcard
+    - id: 708668936
+      name: Original Painting
 
 reel: DN8XyTuDTFx
 ---

@@ -9,7 +9,7 @@ aliases: [/one-last-walk-with-izzy, /artwork/walk-with-izzy]
 images: ['painting.jpg']
 
 featured: true
-order: 7 #1
+order: 1 #7
 ratio: landscape
 power: 3683
 sold: 36
@@ -29,32 +29,12 @@ collections: [shades of olson, figures facing from view, timeline, landscapes, a
 locations: [sold, print]
 tags: [man, figure, dog, izzy, ben, border collie, walk, hike, hills, forrest, house, sky, field, outdoors, autumn, rustic, serene, appalachia, east sparta, ohio]
 
-status: sold
-products:
-    - id: 711216285
-      name: 9x12in Reproduction
-      price: $90
-      limited: 60
-      left: 14
-    - id: 758199794
-      name: 18x24in Reproduction
-      price: $190
-      limited: 30
-      left: 23
-    - id: 758189666
-      name: 30x40in Reproduction
-      price: $390
-      limited: 10
-      left: 7
-    - id: 708668936
-      name: Original Painting
-      sold: true
-      price: $1200
-
 buyer: Gary Stewart (Columbus, OH)
 
 limited: 60
 reproductions:
+  - 6x8in:
+    - 1: Ben Young (East Sparta, OH)
   - 9x12in:
     - 1: Ben Young (East Sparta, OH)
     - 2: Fred Boone (Canton, OH)
@@ -112,6 +92,8 @@ reproductions:
     - 5: Megan Darwin (Shaker Heights, OH)
     - 6: Victoria Anderson (Williamsfield, OH)
     - 7: Amy Moroney (Vienna, VA)
+  - 24x32in:
+    - 1: Ben Young (East Sparta, OH)
   - 30x40in:
     - 1: Ben Young (East Sparta, OH)
     - 2: Jim Lynd (Jeffersonville, IN)
@@ -126,7 +108,7 @@ _Based on July 1st, 2021:_ **One Last Walk With Izzy** is a exquisite watercolor
 
 <!--more-->
 
-{{< cta artwork="One Last Walk With Izzy" >}}
+{{< cta artwork="One Last Walk With Izzy" story="/story/one-last-walk-with-izzy/" >}}
 
 This painting is apart of the [Shades of Olson Collection](/collections/shades-of-olson).
 

@@ -14,7 +14,7 @@
             </a>
         </li>
         <li>
-            <a href="#purchase" class="button">
+            <a href="{{ if (.Get "story") }}{{ .Get "story" }}{{ else }}#purchase{{ end }}" class="button">
                 🛒 Purchase Now &gt;
             </a>
         </li>
