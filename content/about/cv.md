@@ -6,21 +6,24 @@ description: Recognized for its expressive detail and evocative storytelling. Be
 outputs: ['html']
 ---
 
-## Awards & Recognition ##
-  * **Honorable Mention** at [Door 2 Art Show](https://www.door2art.com/artshow) for [Hallelujah](/artwork/hallelujah).
-  * **Honorable Mention** at [Flora](https://www.whiterabbitgalleries.org/event-details/flora-3rd-annual-juried-exhibition-2025-01-17-16-00) for [Avalanche Lilies](/artwork/avalanche-lilies).
-  * **Featured Artist** Friday for [ActLoCLE](https://www.actlocle.org/).
-  * **Featured Artist** for Massillon Community Arts Council.
+## Awards & Prizes ##
+  * **2nd Place Judges Award** at [Rod Meadows Art Call](https://www.juilliardartscenter.com/rod-meadows-art-call.html) (2025) for [In The Dark](/artwork/in-the-dark/).
+  * **3rd Place People's Choice Award*** at [Rod Meadows Art Call](https://www.juilliardartscenter.com/rod-meadows-art-call.html) (2025) for [In The Dark](/artwork/in-the-dark/).
+  * **Honorable Mention** at [Door 2 Art Show](https://www.door2art.com/artshow) (2025) for [Hallelujah](/artwork/hallelujah).
+  * **Honorable Mention** at [Flora](https://www.whiterabbitgalleries.org/event-details/flora-3rd-annual-juried-exhibition-2025-01-17-16-00) (2025) for [Avalanche Lilies](/artwork/avalanche-lilies).
 
-## Publications ##
-  * September, 2025 - [The Scribe. Vol 2, No. 9, Page 11](https://the-scribe.org/read-edition.php?file=The+Scribe+19th+Edition.pdf) - Ben Young: Moments on Canvas
+## Publications & Recognition ##
+  * September, 2025 - [The Scribe. Vol 2, No. 9, Page 11](https://the-scribe.org/read-edition.php?file=The+Scribe+19th+Edition.pdf) - Ben Young: Moments on Canvas.
+  * May, 2025 - Featured Artist for Massillon Community Arts Council.
+  * January, 2025 - [Featured Artist](https://www.instagram.com/p/DFfNgCKuv17/) for [ActLoCLE](https://www.actlocle.org/) (2025).
 
-## Exhibitions ##
+## Exhibitions & Shows ##
 
   * Upcoming
     * December - **SOLO** Exhibit at [Brewtifully](https://www.tracydawnbrewer.com) in North Canton, Ohio.
-    * 2026 - **JURIED** Ohio Watercolor Society Traveling Exhibit
+    * 2026 - **JURIED** Ohio Watercolor Society Traveling Exhibit.
   * 2025
+    * **SHOW** The Pines Healthcare Center's Craft & Car Show in Canton, OH
     * **JURIED** [Ohio Watercolor Society's Exhibit](https://www.ohiowatercolorsociety.org/watercolor-ohio-2025) hosted at [Springfield Museum of Art](https://www.springfieldart.net) in Springfield, Ohio.
     * **GROUP** [Stark County Bar Association's](https://starkctybar.com) Law in Art Exhibit at [Cyrus Custom Framing & Art Gallery](https://www.cyruscustom.com) in Canton, Ohio.
     * **JURIED**  [Rod Meadows Art Call](https://www.juilliardartscenter.com/rod-meadows-art-call.html) hosted at [Juilliard Arts Center](https://www.juilliardartscenter.com) in Canton, Ohio.
@@ -34,6 +37,7 @@ outputs: ['html']
     * **SOLO** Resident Artist Display at [Massillon Public Library](https://www.massillonlibrary.org) in Massillon, Ohio.
   * 2024
     * **BENEFIT** Patina First Fundraiser hosted at Patina Arts Centre in Canton, Ohio.
+    * **SHOW** Massillon Artober in Massillon, OH
     * **JURIED**  [Brown's Town](https://paulbrownmuseum.org/exhibits/detail/browns-town-art-inspired-by-ohios-football-heritage) hosted at [Massillon Museum](http://massillonmuseum.org/) in Massillon, Ohio.
     * **GROUP** Wings and Whimsy hosted at Patina Arts Centre in Canton, Ohio.
     * **JURIED**  [Rod Meadows Art Call](https://www.juilliardartscenter.com/ron-meadows-art-call-2024.html) hosted at [Juilliard Arts Center](https://www.juilliardartscenter.com) in Canton, Ohio.
