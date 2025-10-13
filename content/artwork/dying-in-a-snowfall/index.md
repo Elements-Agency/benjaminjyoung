@@ -30,16 +30,6 @@ collections: [feb 26, one last december, timeline, figures]
 locations: [kolp, print]
 tags: [human, figure, ben, forest, night, dark, tree, snow, dundee falls, winter, melancholy, cold, outdoors]
 
-status: sale
-products:
-    - id: 734463471
-      name: Original Painting
-      price: $1,700
-    - id: 734461906
-      name: Limited Reproduction
-      price: $50
-      left: 58
-
 reproductions:
   - 9x12in:
     - 1: Ben Young (East Sparta, OH)
@@ -58,7 +48,7 @@ story: /story/dying-in-a-snowfall
 
 <!--more-->
 
-{{< cta artwork="Snowfall" >}}
+{{< cta artwork="Snowfall" story="/story/dying-in-a-snowfall/" >}}
 
 This painting is apart of the [Feb 26th Collection](/collections/feb-26)
 

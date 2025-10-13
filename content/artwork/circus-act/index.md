@@ -30,20 +30,6 @@ collections: [timeline, figures]
 locations: [cyrus, print]
 tags: [human, figure, clown, ben, court, trial, bad, joke, guilty, menace, grim, loss, neutral, indoors, day]
 
-status: sale
-products:
-    - id: 764160303
-      name: Original Painting
-      price: $1,600
-    - id: 764161038
-      name: 9x12in Reproduction
-      price: $60
-      left: 57
-    - id: 765432487
-      name: 18x24in Reproduction
-      price: $200
-      left: 29
-
 limited: 60
 reproductions:
   - 9x12in:
@@ -66,7 +52,7 @@ story: /story/circus-act
 
 <!--more-->
 
-{{< cta artwork="Circus Act" >}}
+{{< cta artwork="Circus Act" story="/story/circus-act/" >}}
 
 In this watercolor painting, emotion is conveyed not through chaos, but through an eerie stillness—a heavy atmosphere of judgment, isolation, and quiet condemnation. The clown, a figure typically associated with laughter and lightness, is rendered with a cold, stoic expression, stripped of joy and made grotesque in his context. His painted face becomes a mask of irony, standing trial in a courtroom that feels more like a stage for ritual than a place of truth-seeking. The figures surrounding him—jurors, officials, and spectators—are expressionless, cast in deep shadows, their faces void of empathy or engagement. This emotional detachment speaks to the impersonal machinery of the legal system, where individuals become symbols, and outcomes often hinge less on humanity than on procedure. The painting becomes a meditation on how justice, when stripped of compassion, can transform even the absurd into something solemn, and how in that transformation, dignity and understanding are often the first casualties.
 

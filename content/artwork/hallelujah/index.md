@@ -30,16 +30,6 @@ collections: [the dark trio, one last december, figures facing from view, reserv
 locations: [kolp, print]
 tags: [song, chair, scissors, woman, man, ben, figure, rope, dark, melancholy, sad, tied, bound, broken, intimate, fixing, trauma, cut, indoors, warm, ben, fat, loss, massillon, number five]
 
-status: sale
-products:
-    - id: 691515054
-      name: Original Painting
-      price: $2,600
-    - id: 691515048
-      name: Limited Reproduction
-      price: $50
-      left: 56
-
 limited: 60
 reproductions:
   - 9x12in:
@@ -63,7 +53,7 @@ story: /story/hallelujah
 
 <!--more-->
 
-{{< cta artwork="Hallelujah" >}}
+{{< cta artwork="Hallelujah" story="/story/hallelujah/" >}}
 
 The composition is tightly framed, drawing the viewer’s focus to the emotional connection between the two figures. The dim lighting and earthy palette create a somber mood, emphasizing the gravity of the moment they share. The texture of the background, with its worn and almost decayed appearance, adds to the narrative of endurance and care amidst adversity. This scene, though quiet and understated, resonates with themes of compassion, resilience, and the human need for connection, even in the bleakest of times. The painting speaks to the viewer on a deeply emotional level, inviting reflection on the nuances of care and the quiet strength found in such moments of solace and support. Even in our darkest moments of life.
 

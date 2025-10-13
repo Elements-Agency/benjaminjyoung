@@ -29,16 +29,6 @@ collections: [figures facing from view, shades of olson, landscapes]
 locations: [kolp, print]
 tags: [hills, father, jay, howard, farm, house, old, man, figure, tree, muted, countryside, building, outdoors, autumn, solitary, rustic, farmhouse, appalachia, east sparta, ohio]
 
-status: sale
-products:
-    - id: 694481795
-      name: Original Painting
-      price: $600
-    - id: 694564503
-      name: Limited Reproduction
-      price: $50
-      left: 53
-
 limited: 60
 reproductions:
   - 9x12in:
@@ -65,7 +55,7 @@ story: /story/howards-hills/
 
 <!--more-->
 
-{{< cta artwork="Howards Hills" >}}
+{{< cta artwork="Howards Hills" story="/story/howards-hills/" >}}
 
 This painting is apart of the [Shades of Olson Collection](/collections/shades-of-olson).
 

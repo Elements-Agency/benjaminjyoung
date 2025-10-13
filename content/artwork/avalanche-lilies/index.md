@@ -30,16 +30,6 @@ collections: [lilies, reserved, timeline, landscapes]
 locations: [springfield, print]
 tags: [avalanche, mountain, field, snow, grass, flower, lily, petal, leaf, rock, warm, outside, autumn, aj, number two]
 
-status: sale
-products:
-    - id: 718508603
-      name: Original Painting
-      price: $2000
-    - id: 718515517
-      name: Limited Reproduction
-      price: $50
-      left: 58
-
 reproductions:
   - 9x12in:
     - 1: Ben Young (East Sparta, OH)
@@ -62,7 +52,7 @@ A faux Stargazer lily decorated the shelves at the bar where we met, and you not
 
 <!--more-->
 
-{{< cta artwork="Avalanche Lilies" >}}
+{{< cta artwork="Avalanche Lilies" story="/story/avalanche-lilies/" >}}
 
 This watercolor painting features a dramatic alpine landscape with a foreground of delicate white lilies. The flowers are beautifully detailed, with their petals catching subtle light, standing out against the darker and rugged surroundings. The mid-ground consists of golden grasses and rocks, transitioning to a backdrop of majestic, shadowed mountains, crowned by a snow-covered peak under a cloudy sky.
 

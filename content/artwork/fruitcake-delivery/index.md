@@ -29,16 +29,6 @@ collections: [figures facing from view, reserved, timeline, landscapes]
 locations: [kolp, print]
 tags: [house, fruitcake, delivery, truck, driver, figure, package, light, windows, tree, snow, street, outdoors, winter, solitary, rustic, whimsical, shenanigans, massillon, ohio, number five]
 
-status: sale
-products:
-    - id: 705991341
-      name: Original Painting
-      price: $600
-    - id: 711216274
-      name: Limited Reproduction
-      price: $50
-      left: 56
-
 limited: 60
 reproductions:
   - 9x12in:
@@ -63,7 +53,7 @@ Based on December 22nd, 2020: **Fruitcake Delivery** is just in time for the upc
 
 <!--more-->
 
-{{< cta artwork="Fruitcake Delivery" >}}
+{{< cta artwork="Fruitcake Delivery" story="/story/fruitcake-delivery/" >}}
 
 ### Inspiration ###
 

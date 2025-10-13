@@ -30,16 +30,6 @@ collections: [timeline, figures]
 locations: [cyrus, print]
 tags: [human, figure, man, ben, office, work, room, desk, shadow, melancholy, success, warm, indoors, day]
 
-status: sale
-products:
-    - id: 734463473
-      name: Original Painting
-      price: $1,400
-    - id: 734463429
-      name: Limited Reproduction
-      price: $50
-      left: 55
-
 reproductions:
   - 9x12in:
     - 1: Ben Young (East Sparta, OH)
@@ -65,7 +55,7 @@ _In 2021:_ For 15 years, I built a career in software engineering. Working my wa
 
 <!--more-->
 
-{{< cta artwork="Young Money" >}}
+{{< cta artwork="Young Money" story="/story/corporate-contempt/" >}}
 
 This watercolor painting presents a moody, atmospheric scene of a solitary man standing in a dimly lit office. The composition uses strong contrasts of light and shadow, with sunlight streaming through large glass windows on the left, casting elongated shadows across the floor. The man, dressed in a dark suit, stands with his back to the viewer, gazing towards a simple wooden desk adorned with papers, a computer, and other office essentials. The room has a minimalist, almost surreal feel, with sparse furniture—a single office chair and framed artworks on the walls—enhancing the sense of isolation. The color palette is dominated by earthy tones, giving the scene a melancholic and introspective quality, reminiscent of Edward Hopper’s style. The overall effect is one of contemplation, solitude, and perhaps existential reflection.
 

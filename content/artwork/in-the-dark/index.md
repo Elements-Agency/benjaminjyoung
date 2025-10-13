@@ -30,20 +30,6 @@ collections: [timeline, portraits]
 locations: [juilliard, print]
 tags: [human, figure, ben, marcus, boy, youth, fire, flame, candle, dark, glow, warm, indoors]
 
-status: sale
-products:
-    - id: 746855079
-      name: Original Painting
-      price: $1,700
-    - id: 746858779
-      name: 9x12in Reproduction
-      price: $50
-      left: 56
-    - id: 746858779
-      name: 18x24in Reproduction
-      price: $200
-      left: 29
-
 reproductions:
   - 9x12in:
     - 1: Ben Young (East Sparta, OH)
@@ -68,7 +54,7 @@ A flame glows brightest **in the dark**. I frequently use fire and ice as metaph
 
 <!--more-->
 
-{{< cta artwork="In The Dark" >}}
+{{< cta artwork="In The Dark" story="/story/in-the-dark/" >}}
 
 This watercolor painting depicts a young man gazing intently at a single candle flame he cradles in his hands. The composition is strikingly dramatic, with deep shadows surrounding the subject and the warm candlelight casting vivid highlights across his face. I have captured the play of light and shadow, using warm hues to accentuate the boy’s concentrated expression, his blue eyes reflecting the flickering flame. The texture of the candle wax, the detail in his hair, and the subtle tones of his skin are all rendered with exceptional realism, creating a sense of quiet introspection and intimacy. This painting is an atmospheric and emotionally resonant work.
 

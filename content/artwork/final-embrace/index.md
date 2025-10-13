@@ -30,20 +30,6 @@ collections: [feb 26, one last december, timeline, figures]
 locations: [kolp, print]
 tags: [woman, lady, man, ben, aj, smoke, embrace, hug, couple, death, figure, love, suit, dress, dark, indoors, dramatic, winter, surreal, number two]
 
-status: sale
-products:
-    - id: 716381943
-      name: Original Painting
-      price: $900
-    - id: 716135890
-      name: 9x12in Reproduction
-      price: $60
-      left: 55
-    - id: 765435153
-      name: 18x24in Reproduction
-      price: $200
-      left: 29
-
 limited: 60
 reproductions:
   - 9x12in:
@@ -68,7 +54,7 @@ story: /story/final-embrace/
 
 <!--more-->
 
-{{< cta artwork="Embrace" >}}
+{{< cta artwork="Embrace" story="/story/final-embrace/" >}}
 
 This painting is apart of the [Feb 26th Collection](/collections/feb-26)
 
