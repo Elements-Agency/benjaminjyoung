@@ -78,7 +78,7 @@
                 <ul class="actions">
                     {{ if .Params.products }}
                         <li>
-                            <a href="#purchase" class="button big wide smooth-scroll primary" onclick="trackInterest();">
+                            <a href="#purchase" class="button big wide smooth-scroll primary" onclick="trackPotential();">
                                 Acquire Artwork
                             </a>
                         </li>
@@ -302,12 +302,12 @@
 
                 <ul class="actions">
                     <li>
-                        <a href="#purchase" class="button big wide smooth-scroll primary" onclick="trackInterest();">
+                        <a href="#purchase" class="button big wide smooth-scroll primary" onclick="trackPotential();">
                             Discover This Collection
                         </a>
                     </li>
                     <li>
-                        <a href="/shop" class="button big wide smooth-scroll secondary" onclick="trackInterest();">
+                        <a href="/shop" class="button big wide smooth-scroll secondary" onclick="trackPotential();">
                             Browse All Products
                         </a>
                     </li>
@@ -362,12 +362,12 @@
 
                 <ul class="actions special">
                     <li>
-                        <a href="/shop" class="button big wide smooth-scroll primary" onclick="trackInterest();">
+                        <a href="/shop" class="button big wide smooth-scroll primary" onclick="trackPotential();">
                             Explore All Products
                         </a>
                     </li>
                     <li>
-                        <a href="#purchase" class="button big wide smooth-scroll secondary"  onclick="trackInterest();">
+                        <a href="#purchase" class="button big wide smooth-scroll secondary"  onclick="trackPotential();">
                             Collect This Artwork
                         </a>
                     </li>
@@ -541,19 +541,6 @@
 
 {{ define "scripts" }}
     <script type="text/javascript">
-        function focusSignup() {
-            if (localStorage.viewSignup) {
-                return;
-            }
-
-            localStorage.viewSignup = true;
-            
-            fbq('trackCustom', 'ViewSignup');
-            gtag('event', 'view_signup', {});
-            
-            trackInterest();
-        }
-
         function trackInterest() {
             if (localStorage.clickedInterest) {
                 return;
@@ -565,6 +552,32 @@
             gtag('event', 'interested', {});
             
             trackEngaged();
+        }
+
+        function trackPotential() {
+            if (localStorage.clickedPotential) {
+                return;
+            }
+
+            localStorage.clickedPotential = true;
+
+            fbq('trackCustom', 'Potential');
+            gtag('event', 'potential', {});
+            
+            trackInterest();
+        }
+
+        function focusSignup() {
+            if (localStorage.viewSignup) {
+                return;
+            }
+
+            localStorage.viewSignup = true;
+            
+            fbq('trackCustom', 'ViewSignup');
+            gtag('event', 'view_signup', {});
+            
+            trackInterest();
         }
 
         document.addEventListener("DOMContentLoaded", () => {
