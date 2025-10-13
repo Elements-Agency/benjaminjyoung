@@ -45,11 +45,11 @@ outputs: ['html']
     * **GROUP** [The Art of Toys Exhibit](https://www.facebook.com/events/886574973454122) hosted at [BZTAT Studios](http://bztatstudios.com) in Canton, Ohio.
     * **GROUP** Resident Artist Showcase hosted at Patina Arts Centre in Canton, Ohio.
 
-## Residencies and Involvement ##
+## Residencies & Involvement ##
 
   * **2025 - Current**: Ohio Watercolor Society - Associate Member
   * **2025 - Current**: Canton Museum of Art - Member
-  * **2025**: Massillon Museum - Member
+  * **2025 - Current**: Massillon Museum - Member
   * **2024 - 2025**: Patina Arts Centre - Residency
   * **2021 - 2025**: Massillon Arts Community Council - Patron
   * **2021 - 2022**: Massillon Museum - James & Eliza Duncan Society Member
