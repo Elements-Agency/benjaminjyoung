@@ -69,16 +69,15 @@
       document.addEventListener("DOMContentLoaded", () => {
         xProduct();
 
-        Ecwid.Ecwid.OnAPILoaded.add(function() {
+        Ecwid.OnAPILoaded.add(function() {
             Ecwid.OnCartChanged.add(function(cart) {
                 if (cart && cart.items && cart.items.length > 0) {
                     fbq('track', 'AddToCart', {
-                        content_name: cart.items.map(function(item) { return item.name; }).join(', '),
-                        content_category: cart.items.map(function(item) { return item.categoryNames ? item.categoryNames.join(', ') : ''; }).join(', '),
-                        content_ids: cart.items.map(function(item) { return item.sku ? item.sku : item.id; }),
+                        content_ids: cart.items.map(function(item) { return item.product.sku ? item.product.sku : item.product.id; }),
                         content_type: 'product',
-                        value: cart.items.reduce(function(sum, item) { return sum + (item.price * item.quantity); }, 0),
-                        currency: cart.currency
+                        contents: cart.items.map(function(item) { return {id: item.product.sku ? item.product.sku : item.product.id, quantity: item.quantity}; }),
+                        value: cart.items.reduce(function(sum, item) { return sum + (item.product.price * item.quantity); }, 0),
+                        currency: 'USD'
                     });
                 }
             });
@@ -86,12 +85,11 @@
             Ecwid.OnOrderPlaced.add(function(order) {
                 if (order && order.total) {
                     fbq('track', 'Purchase', {
-                        content_name: order.items.map(function(item) { return item.name; }).join(', '),
-                        content_category: order.items.map(function(item) { return item.categoryNames ? item.categoryNames.join(', ') : ''; }).join(', '),
-                        content_ids: order.items.map(function(item) { return item.sku ? item.sku : item.id; }),
+                        content_ids: order.items.map(function(item) { return item.product.sku ? item.product.sku : item.product.id; }),
                         content_type: 'product',
+                        contents: order.items.map(function(item) { return {id: item.product.sku ? item.product.sku : item.product.id, quantity: item.quantity}; }),
                         value: order.total,
-                        currency: order.currency
+                        currency: 'USD'
                     });
                 }
             });
