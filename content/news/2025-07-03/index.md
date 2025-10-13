@@ -1,6 +1,7 @@
 ---
 date: 2025-07-03
 title: July Sales and Newsletter
+author: Benjamin J. Young
 description: One new work and the Massillon Public Library exhibit are complete.
 preview_image: masslib.jpg
 preview_alt: Massillon Public Library

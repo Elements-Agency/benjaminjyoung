@@ -1,6 +1,7 @@
 ---
 date: 2024-07-02
 title: June (2024) Winner
+author: Benjamin J. Young
 description: The winner of the June 2024 free art drawing
 preview_image: richard.png
 images:

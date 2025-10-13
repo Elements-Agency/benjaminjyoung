@@ -1,6 +1,7 @@
 ---
 date: 2024-07-16
 title: July (2024) Newsletter
+author: Benjamin J. Young
 description: Artist Newsletter for July, 2024. Updates on Ben Young artwork completed, sold, and a few upcoming exhibits.
 preview_image: lake.jpg
 preview_alt: Painting by the lake

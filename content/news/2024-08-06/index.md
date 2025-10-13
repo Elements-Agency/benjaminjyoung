@@ -1,6 +1,7 @@
 ---
 date: 2024-08-06
 title: July (2024) Winner
+author: Benjamin J. Young
 description: The winner of the July 2024 free art drawing
 preview_image: michele.png
 images:

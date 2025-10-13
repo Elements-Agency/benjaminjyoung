@@ -1,6 +1,7 @@
 ---
 date: 2024-10-12
 title: October (2024) Newsletter
+author: Benjamin J. Young
 description: Artist Newsletter for October, 2024. Updates on Ben Young artwork completed, sold, and current exhibits.
 preview_image: artoberfest.jpg
 preview_alt: Massillon Community Art Council Artoberfest

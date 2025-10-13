@@ -1,6 +1,7 @@
 ---
 date: 2025-08-05
 title: Late Grand Opening, August Newsletter
+author: Benjamin J. Young
 description: Lots to go over in August.
 preview_image: smoa.jpg
 preview_alt: Springfield Museum of Art

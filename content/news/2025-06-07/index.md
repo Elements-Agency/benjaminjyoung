@@ -1,6 +1,7 @@
 ---
 date: 2025-06-06
 title: Spring Cleaning, June Newsletter
+author: Benjamin J. Young
 description: No new work is completed, but I have lots of other news.
 preview_image: circus_act.jpg
 preview_alt: WIP Paintings

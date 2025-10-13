@@ -1,6 +1,7 @@
 ---
 date: 2025-01-07
 title: 2024 Newsletter Wrap-up
+author: Benjamin J. Young
 description: Artist Newsletter wrapping up the end of 2024.
 preview_image: mansplaining.jpg
 preview_alt: Talking about Hallelujah

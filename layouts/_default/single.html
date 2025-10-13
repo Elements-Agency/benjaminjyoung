@@ -134,9 +134,11 @@
 
             <h2 id="title" style="font-size:3em;">
               {{ .Title }}
-              <span style="font-size:0.5em; display:block; margin-top:-0.2em; font-weight: lighter; color:gray">
-                by {{ .Params.author | default .Site.Params.author }}
-              </span>
+              {{ if .Params.author }}
+                <span style="font-size:0.5em; display:block; margin-top:-0.2em; font-weight: lighter; color:gray">
+                  by {{ .Params.author }}
+                </span>
+              {{ end }}
             </h2>
 
             {{ if .Resources.GetMatch "painting.jpg" }}
@@ -156,7 +158,7 @@
                 {{ $top := .Resources.GetMatch "painting.jpg" }}
                 {{ $top := $top.Fit "3200x3200 q100" }}
 
-                <a class="painting preview" href="{{ $top.RelPermalink }}" data-gall="progress" data-position="center" title="{{ .Title }} by {{ .Params.author | default .Site.Params.author }}">
+                <a class="painting preview" href="{{ $top.RelPermalink }}" data-gall="progress" data-position="center" title="{{ .Title }}{{ if .Params.author }} by {{ .Params.author }}{{ end }}">
                   <div class="loader" style="url('/images/loader.gif') center no-repeat;" itemscope itemtype="https://schema.org/ImageObject">
                     
                     <img class="image fit"
