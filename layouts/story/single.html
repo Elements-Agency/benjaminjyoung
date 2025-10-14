@@ -60,8 +60,31 @@
             {{ $big := $full.Fit "1600x1600 webp q96" }}
             {{ $medium := $full.Fit "1200x1200 webp q96" }}
             {{ $small := $full.Fit "600x600 webp q96" }}
-            <div class="image">
-                <img src="{{ $small.RelPermalink }}" fetchpriority="high"  srcset="{{ $small.RelPermalink }} 500w, {{ $medium.RelPermalink }} 1000w, {{ $big.RelPermalink }} 1500w" alt="{{ .Params.subtitle }}" />
+            <div class="image" itemscope itemtype="https://schema.org/ImageObject">
+                <a href="{{ $full.RelPermalink }}" class="button big wide primary" data-fancybox data-caption="{{ .Title }} by Ben Young" aria-label="View Full Painting" onclick="trackInterest();">
+                    <img src="{{ $small.RelPermalink }}"
+                        fetchpriority="high"
+                        srcset="{{ $small.RelPermalink }} 500w, {{ $medium.RelPermalink }} 1000w, {{ $big.RelPermalink }} 1500w"
+                        alt="{{ .Params.subtitle }}"
+                        itemprop="contentUrl" />
+                </a>
+
+                <div style="display:none; height:0;">
+                    <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                    <meta itemprop="name" content="{{ .Params.author }}" />
+                    </span>
+                    <span itemprop="copyrightNotice">
+                    {{ with $.Site.Copyright | default $.Site.Title }}
+                        &copy;
+                        {{ $.Date | time.Format "2006" }}
+                        {{ . | safeHTML }}
+                        All rights reserved.
+                    {{ end }}
+                    </span>
+                    <span itemprop="creditText">{{ $.Site.Copyright }}</span>
+                    <span itemprop="license">https://creativecommons.org/licenses/by-nc-sa/4.0/</span>
+                    <span itemprop="acquireLicensePage">https://benjaminjyoung.com/licensing</span>
+                </div>
             </div>
         {{ end }}
     </section>
