@@ -202,7 +202,8 @@
                                                 style="background: #fff; color: #000; border: 1px solid #ddd;"
                                                 href="/shop/#!/p/{{ $product.id }}"
                                                 aria-label="View Product"
-                                                title="View Product">
+                                                title="View Product"
+                                                onclick="trackLikely();">
                                                 <span style=" color: #000;">View Product</span>
                                             </a>
                                         </div>
@@ -227,6 +228,8 @@
                                         currency: 'USD'
                                     });
                                 }
+
+                                trackLikely();
                             });
 
                             Ecwid.OnOrderPlaced.add(function(order) {
@@ -239,6 +242,8 @@
                                         currency: 'USD'
                                     });
                                 }
+                                
+                                trackLikely();
                             });
                         });
                     </script>
@@ -576,6 +581,19 @@
             gtag('event', 'view_signup', {});
             
             trackInterest();
+        }
+
+        function trackLikely() {
+            if (localStorage.clickedLikely) {
+                return;
+            }
+
+            localStorage.clickedLikely = true;
+
+            fbq('trackCustom', 'Likely');
+            gtag('event', 'likely', {});
+            
+            trackPotential();
         }
 
         document.addEventListener("DOMContentLoaded", () => {

@@ -8,6 +8,17 @@
     <script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?101772706&data_platform=code&data_date=2024-04-07" charset="utf-8"></script>
 
     <script type="text/javascript">
+        function trackLikely() {
+            if (localStorage.clickedLikely) {
+                return;
+            }
+
+            localStorage.clickedLikely = true;
+
+            fbq('trackCustom', 'Likely');
+            gtag('event', 'likely', {});
+        }
+
         xProductBrowser("categoriesPerRow=3","views=grid(20,3) list(60) table(60)","categoryView=grid","searchView=list","id=my-store-101772706");
 
         Ecwid.OnAPILoaded.add(function() {
@@ -21,6 +32,8 @@
                         currency: 'USD'
                     });
                 }
+
+                trackLikely();
             });
 
             Ecwid.OnOrderPlaced.add(function(order) {
@@ -33,6 +46,8 @@
                         currency: 'USD'
                     });
                 }
+
+                trackLikely();
             });
         });
 
