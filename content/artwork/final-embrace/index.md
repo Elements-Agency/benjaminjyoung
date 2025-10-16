@@ -40,6 +40,7 @@ reproductions:
     - 5: Reserved
   - 12x16in:
     - 1: Ben Young (East Sparta, OH)
+    - 2: Gary Hinterlong (Midland, TX)
   - 18x24in:
     - 1: Ben Young (East Sparta, OH)
   - 30x40in:

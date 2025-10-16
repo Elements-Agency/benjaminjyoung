@@ -10,7 +10,7 @@ buy: Howard's Hills is available for acquisition as the original watercolor pain
 products:
     - id: 694564503
       name: 9x12in Limited Reproduction
-      left: 54
+      left: 53
       total: 60
     - id: 694481795
       name: Original Watercolor Painting

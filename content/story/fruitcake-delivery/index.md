@@ -10,7 +10,7 @@ buy: Fruitcake Delivery is available for acquisition as the original watercolor 
 products:
     - id: 711216274
       name: 9x12in Limited Reproduction
-      left: 55
+      left: 54
       total: 60
     - id: 705991341
       name: Original Watercolor Painting

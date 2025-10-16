@@ -72,7 +72,7 @@ reproductions:
     - 34: Steven Plank (Oberlin, OH)
     - 35: Pines Craft Show (Canton, OH)
     - 36: Brandon Hart (Triadelphia, WV)
-    - 37: Reserved
+    - 37: Donna Sparren (Canton, OH)
     - 38: Richard DeTriquet (Fredericksburg, Virginia)
     - 39: Reserved
     - 40: Reserved

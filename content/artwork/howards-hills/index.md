@@ -39,6 +39,7 @@ reproductions:
     - 5: Grand Opening (Canton, OH)
     - 6: Pines Craft Show (Canton, OH)
     - 7: Reserved
+    - 8: Reserved
   - 12x16in:
     - 1: Ben Young (East Sparta, OH)
   - 18x24in:
