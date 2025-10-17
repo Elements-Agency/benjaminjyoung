@@ -82,6 +82,7 @@ reproductions:
     - 44: Carol Weare (Bluemont, VA)
     - 45: Nicholas Fabiano (Suwanee, GA)
     - 46: Margaret Kilpatrick (Cambridge, VT)
+    - 47: Chester McAteer (Windsor, NC)
   - 12x16in:
     - 1: Ben Young (East Sparta, OH)
   - 18x24in:
