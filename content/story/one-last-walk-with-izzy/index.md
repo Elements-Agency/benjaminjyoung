@@ -18,20 +18,16 @@ products:
       total: 40
     - id: 758199794
       name: 18x24in Limited Reproduction
-      left: 26
+      left: 24
       total: 30
     - id: 788412829
       name: 24x32in Limited Reproduction
-      left: 19
+      left: 15
       total: 20
     - id: 758189666
       name: 30x40in Limited Reproduction
       left: 7
       total: 10
-    - id: 788438051
-      name: 6x8in Limited Reproduction
-      left: 119
-      total: 120
     - id: 777543312
       name: Ceramic Mug
     - id: 777543321
