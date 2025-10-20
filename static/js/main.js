@@ -5,6 +5,7 @@ function trackEngaged() {
 
 	fbq('trackCustom', 'Engaged');
 	gtag('event', 'engaged', {});
+	_tfa.push({notify: 'event', name: 'engaged', id: 1871409});
 	
 	localStorage.engaged = true;
 }
