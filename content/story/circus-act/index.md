@@ -10,7 +10,7 @@ buy: Circus Act is available for acquisition as the original watercolor painting
 products:
     - id: 764161038
       name: 9x12in Limited Reproduction
-      left: 58
+      left: 57
       total: 60
     - id: 765432487
       name: 18x24in Limited Reproduction

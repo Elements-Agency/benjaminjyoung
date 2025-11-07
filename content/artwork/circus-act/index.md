@@ -35,7 +35,8 @@ reproductions:
   - 9x12in:
     - 1: Ben Young (East Sparta, OH)
     - 2: Doug Meads (Chalk Hill, PA)
-    - 3: Reserved
+    - 3: First Friday (Canton, OH)
+    - 4: Reserved
   - 12x16in:
     - 1: Ben Young (East Sparta, OH)
   - 18x24in:
