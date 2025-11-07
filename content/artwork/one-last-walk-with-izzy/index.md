@@ -35,6 +35,7 @@ limited: 60
 reproductions:
   - 6x8in:
     - 1: Ben Young (East Sparta, OH)
+    - 2: Dawn Whatley (Hackettstown, NJ)
   - 9x12in:
     - 1: Ben Young (East Sparta, OH)
     - 2: Fred Boone (Canton, OH)
@@ -85,6 +86,7 @@ reproductions:
     - 47: Chester McAteer (Windsor, NC)
   - 12x16in:
     - 1: Ben Young (East Sparta, OH)
+    - 2: Kristl Spalding (Red Creek, NY)
   - 18x24in:
     - 1: Ben Young (East Sparta, OH)
     - 2: Susan Lehman (Jupiter, FL)
