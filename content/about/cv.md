@@ -20,9 +20,11 @@ outputs: ['html']
 ## Exhibitions & Shows ##
 
   * Upcoming
-    * November 7th, 2025 **JURIED** [ActLoCLE Exhibit](https://www.actlocle.org/) hosted Online for the Cleveland Ohio area.
     * December, 2025 **SOLO** Exhibit at [Brewtifully](https://www.tracydawnbrewer.com) in North Canton, Ohio.
-    * 2026 **JURIED** Ohio Watercolor Society Traveling Exhibit.
+    * December, 2025 **JURIED** [OWS Traveling Exhibit](https://www.ohiowatercolorsociety.org/2025-travel-exhibition) hosted at [Amos Memorial Library](https://shelbycountylibraries.org) in Sidney, OH.
+    * Febuary, 2026 **JURIED** [OWS Traveling Exhibit](https://www.ohiowatercolorsociety.org/2025-travel-exhibition) hosted at [Marathon Center for the Performing Arts](https://www.mcpa.org) in Findlay, OH.
+    * April, 2026 **JURIED** [OWS Traveling Exhibit](https://www.ohiowatercolorsociety.org/2025-travel-exhibition) hosted at [Piqua Public Library](https://www.piqualibrary.org) in Piqua, OH.
+  * 2025 **JURIED** [ActLoCLE Exhibit](https://www.actlocle.org/) hosted Online for the Cleveland Ohio area.
   * 2025 **SHOW** The Pines Healthcare Center's Craft & Car Show in Canton, OH
   * 2025 **JURIED** [Ohio Watercolor Society's Exhibit](https://www.ohiowatercolorsociety.org/watercolor-ohio-2025) hosted at [Springfield Museum of Art](https://www.springfieldart.net) in Springfield, Ohio.
   * 2025 **GROUP** [Stark County Bar Association's](https://starkctybar.com) Law in Art Exhibit at [Cyrus Custom Framing & Art Gallery](https://www.cyruscustom.com) in Canton, Ohio.
