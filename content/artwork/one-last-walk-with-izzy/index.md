@@ -138,3 +138,4 @@ A new technique I used in this, was leaving some of the white paper exposed as m
 ## Accolades ##
 
 * Featured in the [2025 Juried FRESH Exhibit](https://www.summitartspace.org/fresh-2025/) at [Summit Artspace](https://www.summitartspace.org).
+* Featured in the [2nd Annual Juried ActLoCLE Exhibit](https://www.actlocle.org/).
