@@ -4,6 +4,12 @@ title: Coming Home
 subtitle: Izzy and I, Broken By Loss
 description: Coming Home captures the space and uneasiness between Izzy and I, as we grow to learn to be close, after the loss of her favorite person.
 author: Benjamin J. Young
+
+buy: Coming Home is available for acquisition as the original watercolor painting or as a high-quality limited reproduction. Collectors may choose between owning the one-of-a-kind original or a museum-grade print that preserves the emotional depth and detail of the work. Both options offer a meaningful way to bring this powerful and personal piece into your collection.
+
+products:
+    - id: 797673135
+      name: Original Watercolor Painting
 ---
 
 **Coming Home** holds a quiet, aching tenderness - Izzy poised in the tall, sun-bleached grass, ears lifted in hope, carries a longing that reaches across the empty space between it and me sitting on the porch ahead of her.
