@@ -8,7 +8,7 @@ outputs: ['html']
 
 ## Benjamin J. Young ##
 
-{{< img span="image right" class="rounded" src="/images/ben-small.webp" alt="Photo of Benjamin J. Young" title="Ben Young" >}}
+{{< img span="image right" class="rounded" src="/images/ben2.jpg" alt="Photo of Benjamin J. Young" title="Ben Young" >}}
 
 I began painting in December 2023, with no formal background in art beyond an eighth-grade class. Since then, I’ve primarily worked in watercolor, occasionally exploring oil, with a focus on narrative realism. My approach is rooted in expressing emotion first and capturing values second—if a painting evokes a genuine emotional response in someone, then I consider it a success.
 
