@@ -47,10 +47,13 @@ reproductions:
 
 tag: Izzy, coming home to me.
 
+story: /story/coming-home/
 ---
 
 This watercolor painting captures a quiet, emotional moment in a wide field of sun-washed, golden grass, where a black-and-white dog stands poised in the foreground, its gaze fixed with loyal longing toward a man sitting alone on a weathered porch. The house behind him, worn and faded by time, leans into the narrative of years passed, its muted tones contrasting the bright, wind-brushed field that stretches between them. The man’s posture — slightly bowed, hands resting together, hat shading his expression — carries a sense of solitude, reflection, and loss. The distance between man and dog becomes the heart of the scene: a silent, tender space filled with unspoken connection, waiting, and the weight of what isn’t said.
 
 <!--more-->
+
+{{< cta artwork="Coming Home" story="/story/coming-home/" >}}
 
 This painting is apart of the [Shades of Olson Collection](/collections/shades-of-olson).

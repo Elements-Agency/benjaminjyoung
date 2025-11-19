@@ -14,6 +14,7 @@ ratio: landscape
 power: 3683
 sold: 36
 favorite: true
+status: sold
 
 supplies:
   - medium: M Graham Watercolor Paints

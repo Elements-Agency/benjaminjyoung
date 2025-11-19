@@ -14,6 +14,7 @@ ratio: portrait
 power: 428
 sold: 2
 favorite: true
+status: sold
 
 supplies:
   - medium: M Graham Watercolor Paints

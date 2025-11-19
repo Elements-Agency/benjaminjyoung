@@ -16,6 +16,7 @@ ratio: portrait
 power: 506
 sold: 4
 favorite: true
+status: sold
 
 supplies:
   - medium: Artist Loft Watercolor Paint
