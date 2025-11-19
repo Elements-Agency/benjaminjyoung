@@ -21,7 +21,7 @@
 
     <style>
         .hidden {
-            display: none;
+            display: none !important;
         }
     </style>
 
@@ -48,7 +48,7 @@
                 {{ $orient = "orient-left" }}
             {{ end }}
         {{ else if (.Resources.GetMatch (printf "%splan.png" (replace .File.Dir "story/" ""))) }}
-            <section class="spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in hidden" style="background-color: lightgray;">
+            <section class="spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in planned hidden" style="background-color: lightgray;">
                 <div class="content">
         {{ else }}
             <section class="wrapper style1 align-center planned hidden" style="background-color: lightgray;">
@@ -59,6 +59,8 @@
                     {{ .Params.Date.Format "January 2, 2006" }}
                 </p>
                 <p>
+                    <strong>COMING SOMEDAY</strong>
+                    <br>
                     {{ .Description }}
                 </p>
 
@@ -81,7 +83,7 @@
                     <img src="{{ $side.RelPermalink }}" alt="">
                 </div>
             {{ else if (.Resources.GetMatch (printf "%splan.png" (replace .File.Dir "story/" ""))) }}
-                <div class="image">
+                <div class="image planned hidden">
                     {{ $side := .Resources.GetMatch (printf "%splan.png" (replace .File.Dir "story/" "")) }}
                     {{ $side := $side.Fit "400x400 webp q80" }}
 
