@@ -17,7 +17,7 @@ favorite: true
 
 supplies:
   - medium: M. Graham Watercolor Paint
-  - on: Baohong Cold Press Watercolor Block
+  - on: Arches Cold Press Watercolor Paper
   - frame: Cyrus Custom Framing
 size: 30x22in
 
