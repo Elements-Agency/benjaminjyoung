@@ -10,7 +10,7 @@ images: ['painting.jpg']
 
 subfeatured: true
 ratio: portrait
-power: 75
+power: 115
 
 supplies:
   - medium: Artist Loft Paint

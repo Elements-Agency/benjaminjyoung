@@ -9,10 +9,8 @@ aliases: [/pearls-granddaughter]
 images: ['painting.jpg']
 
 subfeatured: true
-order: 6
 ratio: portrait
-power: 105
-sold: 1
+power: 138
 favorite: true
 
 supplies:

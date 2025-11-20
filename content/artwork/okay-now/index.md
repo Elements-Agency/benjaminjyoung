@@ -9,10 +9,10 @@ aliases: [/okay-now]
 images: ['painting.jpg']
 
 featured: true
-order: 2 #11
+order: 2
 ratio: portrait
-power: 452
-sold: 8
+power: 1979
+sold: 11
 favorite: true
 status: sold
 

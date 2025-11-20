@@ -12,7 +12,7 @@ images: ['painting.jpg']
 videos: [https://www.instagram.com/p/C3hi4DjAYqg/, https://youtu.be/Pcuv_QkT7Qo]
 
 subfeatured: true
-power: 49
+power: 81
 ratio: portrait
 
 supplies:

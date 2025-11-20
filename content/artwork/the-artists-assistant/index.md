@@ -11,10 +11,10 @@ aliases: [/the-artists-assistant, /artwork/artists-assistant]
 images: ['painting.jpg']
 
 featured: true
-order: 3 #10
+order: 5
 ratio: portrait
-power: 506
-sold: 4
+power: 976
+sold: 3
 favorite: true
 status: sold
 

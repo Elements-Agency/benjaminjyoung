@@ -10,7 +10,7 @@ images: ['painting.jpg']
 
 subfeatured: true
 ratio: portrait
-power: 20
+power: 55
 
 supplies:
   - medium: Artist Loft Watercolor Paint

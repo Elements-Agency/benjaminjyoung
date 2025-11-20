@@ -13,7 +13,7 @@ images: ['painting.jpg']
 
 subfeatured: true
 ratio: landscape
-power: 134
+power: 364
 
 supplies:
   - medium: Artist Loft Watercolor Paint
