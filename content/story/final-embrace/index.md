@@ -12,6 +12,10 @@ products:
       name: 9x12in Limited Reproduction
       left: 55
       total: 60
+    - id: 790050257
+      name: 12x16in Limited Reproduction
+      left: 37
+      total: 40
     - id: 765435153
       name: 18x24in Limited Reproduction
       left: 29
