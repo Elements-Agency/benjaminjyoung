@@ -86,6 +86,8 @@ reproductions:
     - 46: Margaret Kilpatrick (Cambridge, VT)
     - 47: Chester McAteer (Windsor, NC)
     - 48: Jan Moslener (Lavon, TX)
+    - 49: Laura Fernandez Estrada (Williamsburg, VA)
+    - 50: Ian Crogahn (Mooresville, IN)
   - 12x16in:
     - 1: Ben Young (East Sparta, OH)
     - 2: Kristl Spalding (Red Creek, NY)

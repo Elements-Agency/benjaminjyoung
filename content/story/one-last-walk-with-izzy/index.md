@@ -10,7 +10,7 @@ buy: While the original watercolor painting 'One Last Walk With Izzy' has been s
 products:
     - id: 711216285
       name: 9x12in Limited Reproduction
-      left: 12
+      left: 9
       total: 60
     - id: 788413574
       name: 12x16in Limited Reproduction
