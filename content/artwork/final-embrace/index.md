@@ -12,7 +12,7 @@ featured: true
 order: 6
 ratio: portrait
 power: 1590
-sold: 4
+sold: 5
 favorite: true
 
 supplies:
@@ -37,7 +37,8 @@ reproductions:
     - 2: Chloe Oberting (Cuyahoga Falls, OH)
     - 3: Becky Myers (Ada, MI)
     - 4: Jessi Knight (San Francisco, CA)
-    - 5: Reserved
+    - 5: Brewtifully Exhibit (North Canton, OH)
+    - 6: Reserved
   - 12x16in:
     - 1: Ben Young (East Sparta, OH)
     - 2: Gary Hinterlong (Midland, TX)

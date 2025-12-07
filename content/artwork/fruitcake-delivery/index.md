@@ -12,7 +12,7 @@ featured: true
 order: 14
 ratio: landscape
 power: 533
-sold: 3
+sold: 4
 favorite: true
 
 supplies:
@@ -36,7 +36,7 @@ reproductions:
     - 2: Pam Pratt (Winchester, KY)
     - 3: Muriel Keller (Winterthur, Switzerland)
     - 4: Rob Volzer (Canton, OH)
-    - 5: Reserved
+    - 5: December First Friday (Canton, OH)
     - 6: Reserved
   - 12x16in:
     - 1: Ben Young (East Sparta, OH)

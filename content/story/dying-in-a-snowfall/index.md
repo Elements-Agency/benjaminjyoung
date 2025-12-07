@@ -10,7 +10,7 @@ buy: Dying In A Snowfall is available for acquisition as the original watercolor
 products:
     - id: 734461906
       name: 9x12in Limited Reproduction
-      left: 58
+      left: 57
       total: 60
     - id: 734463471
       name: Original Watercolor Painting

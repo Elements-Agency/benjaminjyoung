@@ -12,7 +12,7 @@ featured: true
 order: 10
 ratio: landscape
 power: 825
-sold: 0
+sold: 1
 favorite: true
 
 supplies:
@@ -33,7 +33,8 @@ tags: [human, figure, ben, forest, night, dark, tree, snow, dundee falls, winter
 reproductions:
   - 9x12in:
     - 1: Ben Young (East Sparta, OH)
-    - 2: Reserved
+    - 2: December First Friday (Canton, OH)
+    - 3: Reserved
   - 12x16in:
     - 1: Ben Young (East Sparta, OH)
 
