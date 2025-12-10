@@ -91,6 +91,8 @@ reproductions:
   - 12x16in:
     - 1: Ben Young (East Sparta, OH)
     - 2: Kristl Spalding (Red Creek, NY)
+    - 3: Chilensky (Toronto, OH)
+    - 4: Reserved
   - 18x24in:
     - 1: Ben Young (East Sparta, OH)
     - 2: Susan Lehman (Jupiter, FL)
@@ -101,6 +103,7 @@ reproductions:
     - 7: Amy Moroney (Vienna, VA)
   - 24x32in:
     - 1: Ben Young (East Sparta, OH)
+    - 4: Reserved
   - 30x40in:
     - 1: Ben Young (East Sparta, OH)
     - 2: Jim Lynd (Jeffersonville, IN)

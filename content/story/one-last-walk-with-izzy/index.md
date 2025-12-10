@@ -14,7 +14,7 @@ products:
       total: 60
     - id: 788413574
       name: 12x16in Limited Reproduction
-      left: 32
+      left: 31
       total: 40
     - id: 758199794
       name: 18x24in Limited Reproduction
