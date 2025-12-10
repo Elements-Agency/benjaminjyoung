@@ -9,7 +9,7 @@ aliases: [/okay-now]
 images: ['painting.jpg']
 
 featured: true
-order: 2
+order: 11 #2
 ratio: portrait
 power: 1979
 sold: 11

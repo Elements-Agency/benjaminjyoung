@@ -9,7 +9,7 @@ aliases: [/defeat]
 images: ['painting.jpg']
 
 featured: true
-order: 11
+order: 9 #11
 ratio: portrait
 power: 567
 sold: 1

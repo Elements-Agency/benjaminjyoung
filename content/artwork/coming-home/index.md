@@ -9,7 +9,7 @@ aliases: [/coming-home]
 images: ['painting.jpg']
 
 featured: true
-order: 0
+order: 7 #0
 ratio: landscape
 power: 9000
 sold: 0

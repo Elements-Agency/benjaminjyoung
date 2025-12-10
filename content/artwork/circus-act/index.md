@@ -9,7 +9,7 @@ aliases: [/circus-act, /artwork/2021CR2753, /story/circus-act]
 images: ['painting.jpg']
 
 featured: true
-order: 4
+order: 8 #4
 ratio: portrait
 power: 557
 sold: 2

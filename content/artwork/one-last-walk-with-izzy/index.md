@@ -9,7 +9,7 @@ aliases: [/one-last-walk-with-izzy, /artwork/walk-with-izzy]
 images: ['painting.jpg']
 
 featured: true
-order: 1
+order: 7 #1
 ratio: landscape
 power: 14586
 sold: 54
@@ -103,7 +103,7 @@ reproductions:
     - 7: Amy Moroney (Vienna, VA)
   - 24x32in:
     - 1: Ben Young (East Sparta, OH)
-    - 4: Reserved
+    - 2: Reserved
   - 30x40in:
     - 1: Ben Young (East Sparta, OH)
     - 2: Jim Lynd (Jeffersonville, IN)

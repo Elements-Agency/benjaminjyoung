@@ -9,7 +9,7 @@ aliases: [/hallelujah, /arwtwork/hallelujah]
 images: ['painting.jpg']
 
 featured: true
-order: 7
+order: 2 #7
 ratio: portrait
 power: 1417
 sold: 2
