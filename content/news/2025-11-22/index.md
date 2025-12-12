@@ -87,8 +87,8 @@ I have decided to skip December’s newsletter for a number of reasons. Mainly t
 
 And the winners are…
 
-  * Marisol H. from Cottonwood, Arizona
-  * Franklin D. from Roanoke, Virginia
+  * **Marisol H.** from Cottonwood, Arizona
+  * **Franklin D.** from Roanoke, Virginia
 
 
 I have separately sent emails to these winners to get their choice of a limited reproduction and where to ship them to. So if your name is above, be on the lookout for another email.

@@ -37,6 +37,8 @@ reproductions:
   - 6x8in:
     - 1: Ben Young (East Sparta, OH)
     - 2: Dawn Whatley (Hackettstown, NJ)
+    - 3: Theresa Ehmke (Hutchinson, KS)
+    - 4: Reserved
   - 9x12in:
     - 1: Ben Young (East Sparta, OH)
     - 2: Fred Boone (Canton, OH)
