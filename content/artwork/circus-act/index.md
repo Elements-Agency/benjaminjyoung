@@ -37,6 +37,7 @@ reproductions:
     - 2: Doug Meads (Chalk Hill, PA)
     - 3: First Friday (Canton, OH)
     - 4: Reserved
+    - 5: Nicholas Defibaugh (Parkersburg, WV)
   - 12x16in:
     - 1: Ben Young (East Sparta, OH)
   - 18x24in:

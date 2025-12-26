@@ -90,6 +90,8 @@ reproductions:
     - 48: Jan Moslener (Lavon, TX)
     - 49: Laura Fernandez Estrada (Williamsburg, VA)
     - 50: Ian Crogahn (Mooresville, IN)
+    - 51: Tonia Gusbar (Massillon, OH)
+    - 52: Reserved
   - 12x16in:
     - 1: Ben Young (East Sparta, OH)
     - 2: Kristl Spalding (Red Creek, NY)
