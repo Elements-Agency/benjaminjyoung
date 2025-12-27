@@ -6,6 +6,9 @@ description: Sales analysis and demographic information of a proven sales record
 outputs: ['html']
 ---
     <script src="https://cdn.jsdelivr.net/npm/chart.js@4.5.0/dist/chart.umd.min.js"></script>
+    <script src="
+https://cdn.jsdelivr.net/npm/chartjs-chart-funnel@4.2.5/build/index.umd.min.js
+"></script>
 
     <p>
         Below, you will find detailed insights into the sales history of my artwork and an analysis of the collector demographics that support my work.
@@ -199,6 +202,23 @@ outputs: ['html']
     </div>
 
     <br>
+
+    <h3>Sales Funnel Analysis</h3>
+    <p>
+        My funnel analysis reveals that while we attract a significant number of new visitors, a smaller percentage engage with our content, and even fewer convert into leads and sales. This highlights the need for targeted strategies to nurture leads and guide them through the funnel.
+    </p>
+    <p>
+        My cost per acquisition (CPA) for 2025 is approximately $26.40 per sale. This figure is derived from the total advertising spend divided by the number of sales generated through those ads.
+        With the average order value (AOV) for 2025 projected at $96, this gives me a return on ad spend (ROAS) of about 3.64. This means that for every dollar spent on advertising, I can expect to generate $3.64 in revenue.
+        After considering hard costs, this brings my profit margin down to approximately 39%.
+        Which may seem high to other industries, but metrics like these do not consider my time spent on creating and marketing my work without a set wage.
+    </p>
+
+    <div class="row">
+        <div class="col-12">
+            <canvas id="Funnel"></canvas>
+        </div>
+    </div>
 
     <ul class="actions special">
         <li>
@@ -560,4 +580,25 @@ outputs: ['html']
             }
         };
         new Chart(statesper_ctx, statesper_config);
+
+        const funnelchart = new Chart(document.getElementById('Funnel').getContext('2d'), {
+        type: 'funnel',
+        data: {
+            labels: ['New Website Visitors', 'Visitors Engaged', 'Leads Collected', 'Begin Checkouts', 'Sales'],
+            datasets: [
+            {
+                data: [38000, 10000, 870, 230, 70],
+                shrinkAnchor: 'middle',
+            },
+            ],
+        },
+            options: {
+                plugins: {
+                    title: {
+                        display: true,
+                        text: 'Website Traffic',
+                    }
+                }
+            }
+        });
     </script>
