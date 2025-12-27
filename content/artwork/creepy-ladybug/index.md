@@ -27,8 +27,11 @@ collections: []
 locations: [sold]
 tags: [bug, ladybug, insect, creepy]
 
-status: sold
+status: sale
 products:
+    - id: 804840178
+      name: Original Painting
+      price: $300
     - id: 763020612
       name: Open Reproduction
       price: $30

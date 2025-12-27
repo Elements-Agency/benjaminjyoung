@@ -17,6 +17,12 @@ supplies:
   - on: Artist Loft Canvas Panel
 size: 14x11in (35.56cmx27.94cm)
 
+status: sale
+products:
+    - id: 804903766
+      name: Original Painting
+      price: $300
+
 series: [still life]
 categories: [realism, still life, painting]
 mediums: [watercolor]
