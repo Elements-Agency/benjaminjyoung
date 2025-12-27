@@ -65,8 +65,10 @@ outputs: ['html']
 
 <h2 id="exhibitions">Exhibitions &amp; Shows</h2>
 
+<p id="upcominglink"><a href="#exhibitions" onclick="document.getElementById('upcoming').style.display = 'list-item'; document.getElementById('upcominglink').style.display = 'none';">View Upcoming</a></p>
+
 <ul style="margin-bottom: 0;">
-  <li class="hidden">
+  <li id="upcoming" class="hidden upcoming">
     Upcoming
 
     <ul>
@@ -201,7 +203,7 @@ outputs: ['html']
     <strong>1996 - 2006</strong>: Boy Scouts of America - Boyscout/Cubscout
   </li>
   <li class="featured">
-    <strong>1995 - 2004</strong>: Canton Art Institute - Child Artist Student
+    <strong>1995 - 2000</strong>: Canton Art Institute - Child Artist Student
   </li>
 </ul>
 
