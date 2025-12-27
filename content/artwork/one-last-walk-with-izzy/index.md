@@ -92,6 +92,7 @@ reproductions:
     - 50: Ian Crogahn (Mooresville, IN)
     - 51: Tonia Gusbar (Massillon, OH)
     - 52: Reserved
+    - 53: DJ Harvey (Hudson, OH)
   - 12x16in:
     - 1: Ben Young (East Sparta, OH)
     - 2: Kristl Spalding (Red Creek, NY)
