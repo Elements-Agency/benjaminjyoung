@@ -8,6 +8,47 @@
     <script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?101772706&data_platform=code&data_date=2024-04-07" charset="utf-8"></script>
 
     <script type="text/javascript">
+        function trackInterest() {
+            if (localStorage.clickedInterest) {
+                return;
+            }
+
+            localStorage.clickedInterest = true;
+
+            fbq('trackCustom', 'Interested');
+            gtag('event', 'interested', {});
+            _tfa.push({notify: 'event', name: 'interested', id: 1871409});
+            
+            trackEngaged();
+        }
+
+        function trackPotential() {
+            if (localStorage.clickedPotential) {
+                return;
+            }
+
+            localStorage.clickedPotential = true;
+
+            fbq('trackCustom', 'Potential');
+            gtag('event', 'potential', {});
+            _tfa.push({notify: 'event', name: 'potential', id: 1871409});
+            
+            trackInterest();
+        }
+
+        function focusSignup() {
+            if (localStorage.viewSignup) {
+                return;
+            }
+
+            localStorage.viewSignup = true;
+            
+            fbq('trackCustom', 'ViewSignup');
+            gtag('event', 'view_signup', {});
+            
+            trackInterest();
+        }
+
         function trackLikely() {
             if (localStorage.clickedLikely) {
                 return;
@@ -17,6 +58,8 @@
 
             fbq('trackCustom', 'Likely');
             gtag('event', 'likely', {});
+
+            trackPotential();
         }
 
         xProductBrowser("categoriesPerRow=3","views=grid(20,3) list(60) table(60)","categoryView=grid","searchView=list","id=my-store-101772706");
@@ -48,6 +91,14 @@
                 }
 
                 trackLikely();
+            });
+
+            Ecwid.OnPageSwitch.add(function(page) {
+                if (page.type === 'PRODUCT') {
+                    trackPotential();
+                } else if (page.type === 'CATEGORY') {
+                    trackInterest();
+                }
             });
         });
 
@@ -91,10 +142,10 @@
             <strong>Order Resources:</strong>
             <ul style="list-style:none; display:inline-block;">
                 <li style="display:inline-block;">
-                    <a href="/shipping">Shipping Policy</a>
+                    <a href="/shipping" onclick="trackInterest();">Shipping Policy</a>
                 </li>
                 <li style="display:inline-block;">
-                    <a href="/returns">Returns Policy</a>
+                    <a href="/returns" onclick="trackInterest();">Returns Policy</a>
                 </li>
             </ul>
         </section>

@@ -7,12 +7,18 @@ shop: true
 outputs: ['html']
 ---
 
+<script>
+  if (typeof window.focusSignup !== 'function') {
+    window.focusSignup = function() {};
+  }
+</script>
+
 <h2>Current Deals</h2>
 
 <ul style="list-style:none;">
     <li>
         <strong>Newsletter Discount:</strong>
-        20% off discount code for anyone <a href="/sign-up?driven=discount">signed up to my newsletter</a>.
+        20% off discount code for anyone <a href="/sign-up?driven=discount" onclick="focusSignup();">signed up to my newsletter</a>.
     </li>
     <li>
       <strong>Limited Time Sale:</strong>
