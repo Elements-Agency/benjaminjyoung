@@ -10,6 +10,10 @@ progress: This was painted using Oil Paint on Canvas Panel. I used layering to p
 aliases: [/cherry-popping]
 images: ['painting.jpg']
 
+subfeatured: true
+ratio: landscape
+power: 46
+
 ratio: square
 
 supplies:

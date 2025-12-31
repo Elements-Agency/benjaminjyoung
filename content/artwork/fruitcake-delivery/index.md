@@ -9,7 +9,7 @@ aliases: [/fruitcake-delivery, /artwork/rachels-house, /arwtwork/fruitcake-deliv
 images: ['painting.jpg']
 
 featured: true
-order: 14
+order: 54
 ratio: landscape
 power: 533
 sold: 4

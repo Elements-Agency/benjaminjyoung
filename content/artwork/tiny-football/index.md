@@ -9,6 +9,9 @@ images: ['painting.jpg']
 
 ratio: square
 
+subfeatured: true
+power: 5
+
 supplies:
   - medium: Winsor and Newton Winton Oil
   - on: Tiny Canvas

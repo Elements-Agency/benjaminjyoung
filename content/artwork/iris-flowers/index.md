@@ -10,6 +10,9 @@ images: ['painting.jpg']
 
 ratio: portrait
 
+subfeatured: true
+power: 20
+
 supplies:
   - medium: Faber-Castell Oil Pastels
   - on: Strathmore Pastel Paper

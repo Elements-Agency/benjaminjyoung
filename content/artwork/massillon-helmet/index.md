@@ -12,6 +12,9 @@ images: ['painting.jpg']
 
 ratio: landscape
 
+subfeatured: true
+power: 12
+
 supplies:
   - medium: Winsor & Newton Winton Oil
   - on: Artist Loft Canvas Panel

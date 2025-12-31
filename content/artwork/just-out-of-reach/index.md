@@ -10,6 +10,9 @@ images: ['painting.jpg']
 
 ratio: landscape
 
+subfeatured: true
+power: 9
+
 supplies:
   - medium: M. Graha Watercolor Paint
   - on: Baohong Cold Press Watercolor Block

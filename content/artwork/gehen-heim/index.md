@@ -12,6 +12,9 @@ images: ['painting.jpg']
 
 ratio: landscape
 
+subfeatured: true
+power: 4
+
 supplies:
   - medium: Artist Loft Watercolor Paint
   - on: Baohong Cold Press Watercolor Block

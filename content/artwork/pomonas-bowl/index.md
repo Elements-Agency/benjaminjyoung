@@ -12,7 +12,7 @@ images: ['painting.jpg']
 
 subfeatured: true
 ratio: landscape
-power: 61
+power: 14
 
 supplies:
   - medium: Winsor and Newton Winton Oil

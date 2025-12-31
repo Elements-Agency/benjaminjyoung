@@ -11,7 +11,7 @@ images: ['painting.jpg']
 featured: true
 order: 9
 ratio: landscape
-power: 745
+power: 135
 sold: 3
 favorite: true
 
