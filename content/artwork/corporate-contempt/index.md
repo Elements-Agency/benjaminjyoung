@@ -9,7 +9,7 @@ aliases: [/corporate-contempt, /artwork/young-money, /young-money, /artwork/pret
 images: ['painting.jpg']
 
 featured: true
-order: 6 #8
+order: 9
 ratio: landscape
 power: 745
 sold: 3

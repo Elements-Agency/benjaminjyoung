@@ -11,6 +11,7 @@ images: ['painting.jpg']
 subfeatured: true
 ratio: portrait
 power: 62
+order: 14
 
 supplies:
   - medium: M. Graham Watercolor Paint

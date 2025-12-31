@@ -12,6 +12,7 @@ subfeatured: true
 ratio: portrait
 power: 138
 favorite: true
+order: 17
 
 supplies:
   - medium: M Graham Gouache Paints

@@ -9,7 +9,7 @@ aliases: [/one-last-walk-with-izzy, /artwork/walk-with-izzy]
 images: ['painting.jpg']
 
 featured: true
-order: 7 #1
+order: 1
 ratio: landscape
 power: 14586
 sold: 54

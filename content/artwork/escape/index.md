@@ -14,6 +14,7 @@ videos: [https://www.instagram.com/p/C3pK2JvOevm/, https://youtube.com/shorts/TS
 subfeatured: true
 ratio: landscape
 power: 75
+order: 20
 
 supplies:
   - medium: Marie's Watercolor Paint
