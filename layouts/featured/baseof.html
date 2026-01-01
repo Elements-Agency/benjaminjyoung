@@ -51,7 +51,9 @@
     {{ partial "twitter_cards.html" . }}
 
     {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
-      {{ template "_internal/google_analytics.html" . }}
+		{{ template "_internal/google_analytics.html" . }}
+
+		<script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"187227888", enableAutoSpaTracking: true};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script>
     {{ end }}
 
 	{{ block "head" . }}
@@ -2215,7 +2217,8 @@ function trackEngaged() {
 
 	fbq('trackCustom', 'Engaged');
 	gtag('event', 'engaged', {});
-	_tfa.push({notify: 'event', name: 'engaged', id: 1871409});
+	window.uetq = window.uetq || [];
+	window.uetq.push('event', 'engaged', {});
 	
 	localStorage.engaged = true;
 }

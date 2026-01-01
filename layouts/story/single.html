@@ -579,7 +579,8 @@
 
             fbq('trackCustom', 'Interested');
             gtag('event', 'interested', {});
-            _tfa.push({notify: 'event', name: 'interested', id: 1871409});
+            window.uetq = window.uetq || [];
+            window.uetq.push('event', 'interested', {});
             
             trackEngaged();
         }
@@ -593,8 +594,9 @@
 
             fbq('trackCustom', 'Potential');
             gtag('event', 'potential', {});
-            _tfa.push({notify: 'event', name: 'potential', id: 1871409});
-            
+            window.uetq = window.uetq || [];
+            window.uetq.push('event', 'potential', {});
+
             trackInterest();
         }
 
@@ -620,8 +622,9 @@
 
             fbq('trackCustom', 'Likely');
             gtag('event', 'likely', {});
-            _tfa.push({notify: 'event', name: 'likely', id: 1871409});
-            
+            window.uetq = window.uetq || [];
+            window.uetq.push('event', 'likely', {});
+
             trackPotential();
         }
 
