@@ -12,7 +12,7 @@ featured: true
 order: 11
 ratio: portrait
 power: 187
-sold: 5
+sold: 6
 favorite: true
 
 supplies:
