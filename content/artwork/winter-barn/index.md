@@ -16,6 +16,16 @@ ratio: landscape
 power: 99
 order: 0
 
+status: sale
+products:
+    - id: 805529148
+      name: Original Painting
+      price: $150
+    - id: 805526958
+      name: Open Reproduction
+      price: $20
+
+
 supplies:
   - medium: M. Graham Watercolor Paint
   - on: Arches Cold Press Watercolor Paper
