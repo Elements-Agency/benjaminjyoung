@@ -25,7 +25,6 @@ products:
       name: Open Reproduction
       price: $20
 
-
 supplies:
   - medium: M. Graham Watercolor Paint
   - on: Arches Cold Press Watercolor Paper
@@ -43,4 +42,10 @@ tags: [snow, winter, barn, trees, cool, cold, outdoors, sky, calm, lonely, isola
 
 ---
 
-More information coming soon.
+A quiet winter morning unfolds in this original watercolor, where a solitary barn rests beneath a pale sky and fresh snow softens the land. The scene feels unhurried and still, as if the world has paused for a moment of breath. Cool blue shadows drift across the snow while the weathered barn stands steady, carrying traces of warmth and history against the cold.
+
+<!-- more -->
+
+The simplicity of the composition draws you in gently—bare trees in the distance, open fields fading into white, and subtle brushstrokes that let the paper breathe. Rather than demanding attention, the painting invites it, rewarding slow looking with a sense of calm and quiet reflection.
+
+Painted by hand in watercolor, this 5×7 inch original is a one-of-a-kind piece that celebrates the beauty of ordinary rural places and the peacefulness of winter. It’s the kind of artwork that feels at home anywhere—on a small wall, a shelf, or a desk—bringing with it a soft reminder of stillness, space, and simple moments worth noticing.
