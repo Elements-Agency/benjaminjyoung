@@ -8,7 +8,7 @@ author: Benjamin J. Young
 aliases: [/standoff, /artwork/stand-off, /arwtwork/standoff]
 images: ['painting.jpg']
 
-subfeatured: true
+featured: true
 ratio: landscape
 power: 16
 

@@ -11,9 +11,9 @@ aliases: [/winter-barn]
 images: ['painting.jpg']
 videos: []
 
-subfeatured: true
+featured: true
 ratio: landscape
-power: 99
+power: 260
 order: 0
 
 status: sale

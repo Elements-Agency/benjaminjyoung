@@ -8,7 +8,7 @@ author: Benjamin J. Young
 aliases: [/grisaille-whiskey-on-the-rocks, /artwork/grisaille-whiskey, /grisaille-whiskey]
 images: ['painting.jpg']
 
-subfeatured: true
+featured: true
 ratio: portrait
 power: 33
 order: 14

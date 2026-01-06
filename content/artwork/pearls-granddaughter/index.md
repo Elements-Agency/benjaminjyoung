@@ -8,7 +8,7 @@ author: Benjamin J. Young
 aliases: [/pearls-granddaughter]
 images: ['painting.jpg']
 
-subfeatured: true
+featured: true
 ratio: portrait
 power: 30
 favorite: true

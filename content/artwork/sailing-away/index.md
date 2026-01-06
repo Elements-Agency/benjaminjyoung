@@ -10,7 +10,7 @@ progress: I planned this painting months ago and only did the wash. It sat until
 aliases: [/sailing-away, /sailing-away-schoon, /artwork/sailing-away]
 images: ['painting.jpg']
 
-subfeatured: true
+featured: true
 ratio: landscape
 power: 25
 

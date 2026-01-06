@@ -8,7 +8,7 @@ author: Benjamin J. Young
 aliases: [/erie-rock-ii]
 images: ['painting.jpg']
 
-subfeatured: true
+featured: true
 ratio: portrait
 power: 8
 
