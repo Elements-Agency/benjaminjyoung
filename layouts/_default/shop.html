@@ -132,6 +132,33 @@
                 </h1>
             </header>
 
+            <script>
+                const urlParams = new URLSearchParams(window.location.search);
+                if (urlParams.get('retargetting')) {
+                    const countdownDate = new Date();
+                    countdownDate.setHours(24, 0, 0, 0); // Set to midnight
+
+                    const countdownFunction = setInterval(function() {
+                        const now = new Date().getTime();
+                        const distance = countdownDate - now;
+
+                        const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+                        const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+                        const seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+                        document.getElementById("countdown").innerHTML = 
+                            "Use coupon code <strong>1SJHXTPG3UTT</strong> for <strong style=\"color:red;\">20% OFF</strong> your order!<br> <em>Expires in: "
+                            + hours + "h " + minutes + "m " + seconds + "s </em>";
+
+                        if (distance < 0) {
+                            clearInterval(countdownFunction);
+                            document.getElementById("countdown").innerHTML = "EXPIRED";
+                        }
+                    }, 1000);
+                }
+            </script>
+            <div id="countdown" style="font-size: 1.5em; line-height: 1.2em; padding-top:0.5em;"></div>
+
             <div id="my-store-101772706" class="loader" style="min-height:400px;"></div>
 
             <br>
