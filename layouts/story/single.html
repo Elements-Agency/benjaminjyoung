@@ -107,7 +107,7 @@
                         </li>
                     {{ end }}
                     <li>
-                        <a href="#artist" class="button big wide smooth-scroll secondary" onclick="trackInterest();">
+                        <a href="#artist" class="button big wide smooth-scroll secondary" onclick="trackPotential();">
                             Learn More About the Artist
                         </a>
                     </li>
@@ -138,7 +138,7 @@
             
             <ul class="actions">
                 <li>
-                    <a href="/story" class="button big wide smooth-scroll primary" onclick="trackInterest();">
+                    <a href="/story" class="button big wide smooth-scroll primary" onclick="trackPotential();">
                         View Full Story Series
                     </a>
                 </li>
@@ -285,7 +285,7 @@
                 </p>
                 <ul class="actions special">
                     <li>
-                        <a href="/contact" class="button big wide smooth-scroll primary"  onclick="trackInterest();">
+                        <a href="/contact" class="button big wide smooth-scroll primary"  onclick="trackPotential();">
                             Contact the Artist
                         </a>
                     </li>
@@ -610,7 +610,7 @@
             fbq('trackCustom', 'ViewSignup');
             gtag('event', 'view_signup', {});
             
-            trackInterest();
+            trackPotential();
         }
 
         function trackLikely() {
