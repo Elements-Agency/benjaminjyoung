@@ -11,6 +11,7 @@ images: ['painting.jpg']
 featured: true
 ratio: portrait
 power: 8
+order: 99
 
 supplies:
   - medium: Artist Loft Paint

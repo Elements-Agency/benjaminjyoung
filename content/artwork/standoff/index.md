@@ -11,6 +11,7 @@ images: ['painting.jpg']
 featured: true
 ratio: landscape
 power: 16
+order: 99
 
 supplies:
   - medium: M Graham Watercolor Paints
