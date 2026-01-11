@@ -13,7 +13,7 @@ videos: []
 
 featured: true
 ratio: landscape
-power: 260
+power: 45
 order: 0
 
 status: sale

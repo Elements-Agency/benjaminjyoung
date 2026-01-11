@@ -10,7 +10,7 @@ images: ['painting.jpg']
 ratio: square
 
 subfeatured: true
-power: 5
+power: 6
 
 supplies:
   - medium: Winsor and Newton Winton Oil

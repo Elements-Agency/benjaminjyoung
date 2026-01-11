@@ -13,7 +13,7 @@ videos: [https://www.instagram.com/p/C3pK2JvOevm/, https://youtube.com/shorts/TS
 
 subfeatured: true
 ratio: landscape
-power: 19
+power: 20
 order: 20
 
 supplies:

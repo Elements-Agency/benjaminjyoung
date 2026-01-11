@@ -11,7 +11,7 @@ images: ['painting.jpg']
 ratio: landscape
 
 subfeatured: true
-power: 9
+power: 12
 
 supplies:
   - medium: M. Graha Watercolor Paint

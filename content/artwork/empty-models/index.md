@@ -14,7 +14,7 @@ videos: [https://www.instagram.com/p/C3XZXDsuuum/]
 ratio: portrait
 
 subfeatured: true
-power: 14
+power: 18
 
 supplies:
   - medium: Oil Pastels
