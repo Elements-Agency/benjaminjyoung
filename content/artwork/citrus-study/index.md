@@ -27,7 +27,7 @@ mediums: [watercolor, gouache]
 materials: [cotton paper]
 colors: [red, green, yellow]
 collections: [still lifes]
-locations: [sold]
+locations: [kolps]
 tags: [mug, cup, lemon, lime, citrus, fruit, dark, indoors, warm, table]
 
 status: sale

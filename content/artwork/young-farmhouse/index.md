@@ -25,10 +25,10 @@ mediums: [watercolor]
 materials: [paper]
 colors: [red, green, brown, blue]
 collections: []
-locations: [sold]
+locations: [home]
 tags: [farm, house, brick, home, east sparta, ohio, swing, walnut, tree, countryside, building, outdoors, spring, nostalgia, warm, appalachia]
 
-status: sold
+status: sale
 products:
     - id: 648124011
       name: Original Painting

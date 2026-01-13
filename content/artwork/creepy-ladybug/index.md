@@ -25,7 +25,7 @@ mediums: [watercolor]
 materials: [cotton paper]
 colors: [red, black]
 collections: []
-locations: [sold]
+locations: [kolps]
 tags: [bug, ladybug, insect, creepy]
 
 status: sale
