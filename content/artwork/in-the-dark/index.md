@@ -12,8 +12,9 @@ featured: true
 order: 10
 ratio: portrait
 power: 124
-sold: 2
+sold: 3
 favorite: true
+status: sold
 
 supplies:
   - medium: M. Graham Watercolor Paint
@@ -27,8 +28,10 @@ mediums: [watercolor]
 materials: [cotton paper]
 colors: [brown, red, orange, tan]
 collections: [timeline, portraits]
-locations: [juilliard, print]
+locations: [sold, print]
 tags: [human, figure, ben, marcus, boy, youth, fire, flame, candle, dark, glow, warm, indoors]
+
+buyer: Joseph Harte (Puyallup, WA)
 
 reproductions:
   - 9x12in:

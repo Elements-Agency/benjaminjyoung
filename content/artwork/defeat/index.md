@@ -12,7 +12,7 @@ featured: true
 order: 12
 ratio: portrait
 power: 69
-sold: 1
+sold: 2
 favorite: true
 status: sold
 
@@ -36,6 +36,7 @@ reproductions:
   - 9x12in:
     - 1: Ben Young (East Sparta, OH)
     - 2: Reserved
+    - 3: Charmaine Lim (Temecula, CA)
   - 12x16in:
     - 1: Ben Young (East Sparta, OH)
   - 18x24in:
