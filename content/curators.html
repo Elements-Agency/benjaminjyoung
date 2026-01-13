@@ -73,16 +73,18 @@ outputs: ['html']
     </p>
 
     {{< row-start >}}
-        {{< preview col="3" painting="/artwork/hallelujah/" >}}
-        {{< preview col="3" painting="/artwork/howards-hills/" >}}
-        {{< preview col="3" painting="/artwork/in-the-dark/" >}}
-        {{< preview col="3" painting="/artwork/final-embrace/" >}}
-        {{< preview col="3" painting="/artwork/dying-in-a-snowfall/" >}}
         {{< preview col="3" painting="/artwork/corporate-contempt/" >}}
         {{< preview col="3" painting="/artwork/circus-act/" >}}
+        {{< preview col="3" painting="/artwork/coming-home/" >}}
+        {{< preview col="3" painting="/artwork/dying-in-a-snowfall/" >}}
+        {{< preview col="3" painting="/artwork/hallelujah/" >}}
+        {{< preview col="3" painting="/artwork/final-embrace/" >}}
         {{< preview col="3" painting="/artwork/pearls-granddaughter/" >}}
-        {{< preview col="3" painting="/artwork/fruitcake-delivery/" >}}
         {{< preview col="3" painting="/artwork/avalanche-lilies/" >}}
+        {{< preview col="3" painting="/artwork/winter-barn-i/" >}}
+        {{< preview col="3" painting="/artwork/winter-birch-i/" >}}
+        {{< preview col="3" painting="/artwork/howards-hills/" >}}
+        {{< preview col="3" painting="/artwork/fruitcake-delivery/" >}}
         {{< preview col="3" painting="/artwork/standoff/" >}}
         {{< preview col="3" painting="/artwork/grisaille-whiskey-on-the-rocks/" >}}
     {{< row-end >}}
@@ -95,6 +97,7 @@ outputs: ['html']
     {{< row-start >}}
         {{< preview col="3" painting="/artwork/one-last-walk-with-izzy/" >}}
         {{< preview col="3" painting="/artwork/okay-now/" >}}
+        {{< preview col="3" painting="/artwork/in-the-dark/" >}}
         {{< preview col="3" painting="/artwork/the-artists-assistant/" >}}
         {{< preview col="3" painting="/artwork/defeat/" >}}
         {{< preview col="3" painting="/artwork/erie-rock-ii/" >}}
@@ -115,31 +118,71 @@ outputs: ['html']
         Below you will find a map highlighting the locations of my previous exhibitions, which demonstrates the geographical reach and interest in my work.
     </p>
 
-    <gmp-map center="40,-82" zoom="7" map-id="DEMO_MAP_ID" style="height: 600px; width: 100%;">
-        <gmp-advanced-marker position="40.8004269,-81.3758651" title="Patina Arts Centre"></gmp-advanced-marker>
-        <gmp-advanced-marker position="40.793413,-81.376422" title="BZTAT Studios"></gmp-advanced-marker>
-        <gmp-advanced-marker position="40.802027,-81.373368" title="Juilliard Arts Center"></gmp-advanced-marker>
-        <gmp-advanced-marker position="40.7968316,-81.5215652" title="Massillon Museum"></gmp-advanced-marker>
-        <gmp-advanced-marker position="40.7974108,-81.5201385" title="Massillon Public Library"></gmp-advanced-marker>
-        <gmp-advanced-marker position="41.0837962,-81.5135543" title="Summit Artspace"></gmp-advanced-marker>
-        <gmp-advanced-marker position="41.2112432,-81.440565" title="Door 2 Art"></gmp-advanced-marker>
-        <gmp-advanced-marker position="40.0652553,-82.4888981" title="Bryn Du Mansion"></gmp-advanced-marker>
-        <gmp-advanced-marker position="40.802289,-81.3757132" title="The Hub Art Factory"></gmp-advanced-marker>
-        <gmp-advanced-marker position="40.8071653,-81.3733547" title="Canton Cultural Center"></gmp-advanced-marker>
-        <gmp-advanced-marker position="41.0129823,-81.6103934" title="White Rabbit Galleries"></gmp-advanced-marker>
-        <gmp-advanced-marker position="40.826853,-81.385296" title="Cyrus Custom Framing & Art Gallery"></gmp-advanced-marker>
-        <gmp-advanced-marker position="39.9295009,-83.8119203" title="Springfield Museum of Art"></gmp-advanced-marker>
-        <gmp-advanced-marker position="40.8736481,-81.3311657" title="Brewtifully"></gmp-advanced-marker>
-        <gmp-advanced-marker position="40.80054,-81.375886" title="Kolp's Attic"></gmp-advanced-marker>
-        <gmp-advanced-marker position="40.7808098,-81.4090918" title="The Pines Healthcare"></gmp-advanced-marker>
-        <gmp-advanced-marker position="40.2871297,-84.1539454" title="Amos Memorial Public Library"></gmp-advanced-marker>
-        <gmp-advanced-marker position="41.0397404,-83.6524" title="Marathon Center for the Performing Arts"></gmp-advanced-marker>
-        <gmp-advanced-marker position="40.1488548,-84.2403097" title="Piqua Public Library"></gmp-advanced-marker>
-    </gmp-map>
-    <script
-      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDg6e4C7IJ_BI0H08An-ediTsabnwZ6bqQ&loading=async&libraries=marker&v=beta&solution_channel=GMP_CCS_complexmarkers_v3"
-      defer
-    ></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.5.0/dist/chart.umd.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-chart-geo@4.3.6/build/index.umd.min.js"></script>
+
+    <canvas id="canvas"></canvas>
+    <script>
+        Promise.all([
+        fetch('https://unpkg.com/us-atlas/states-10m.json')
+        .then((r) => r.json())
+        ]).then(([us]) => {
+        const data = [
+            {'name': "", 'latitude': 0, 'longitude': 0, value: 20},
+            {'name': "Patina", 'latitude': 40.8004269, 'longitude': -81.3758651, value: 1},
+            {'name': "BZTAT Studios", 'latitude': 40.793413, 'longitude': -81.376422, value: 1},
+            {'name': "Juilliard Arts Center", 'latitude': 40.802027, 'longitude': -81.373368, value: 1},
+            {'name': "Massillon Museum", 'latitude': 40.7968316, 'longitude': -81.5215652, value: 1},
+            {'name': "Massillon Public Library", 'latitude': 40.7974108, 'longitude': -81.5201385, value: 1},
+            {'name': "ActLoCLE", 'latitude': 41.49932, 'longitude': -81.6943605, value: 1},
+            {'name': "Summit Artspace", 'latitude': 41.0837962, 'longitude': -81.5135543, value: 1},
+            {'name': "Door 2 Art", 'latitude': 41.2112432, 'longitude': -81.440565, value: 1},
+            {'name': "Bryn Du Mansion", 'latitude': 40.0652553, 'longitude': -82.4888981, value: 1},
+            {'name': "The Hub Art Factory", 'latitude': 40.802289, 'longitude': -81.3757132, value: 1},
+            {'name': "Canton Cultural Center", 'latitude': 40.8071653, 'longitude': -81.3733547, value: 1},
+            {'name': "White Rabbit Galleries", 'latitude': 41.0129823, 'longitude': -81.6103934, value: 1},
+            {'name': "Cyrus Custom Framing & Art Gallery", 'latitude': 40.826853, 'longitude': -81.385296, value: 1},
+            {'name': "Springfield Museum of Art", 'latitude': 39.9295009, 'longitude': -83.8119203, value: 1},
+            {'name': "Brewtifully", 'latitude': 40.8736481, 'longitude': -81.3311657, value: 1},
+            {'name': "Kolp's Attic", 'latitude': 40.80054, 'longitude': -81.375886, value: 1},
+            {'name': "The Pines Healthcare", 'latitude': 40.7808098, 'longitude': -81.4090918, value: 1},
+            {'name': "Amos Memorial Public Library", 'latitude': 40.2871297, 'longitude': -84.1539454, value: 1},
+            {'name': "Marathon Center for the Performing Arts", 'latitude': 41.0397404, 'longitude': -83.6524, value: 1},
+            {'name': "Piqua Public Library", 'latitude': 40.1488548, 'longitude': -84.2403097, value: 1},
+        ];
+        const states = ChartGeo.topojson.feature(us, us.objects.states).features;
+
+        const chart = new Chart(document.getElementById("canvas").getContext("2d"), {
+            type: 'bubbleMap', 
+            data: {
+            labels: data.map((d) => d.name),
+            datasets: [{
+                outline: states,
+                showOutline: true,
+                backgroundColor: 'steelblue',
+                data: data
+            }]
+            },
+            options: {
+            plugins: {
+                legend: {
+                display: false
+                }
+            },
+            scales: {
+                projection: {
+                axis: 'x',
+                projection: 'albersUsa', 
+                },
+                size: {
+                axis: 'x',
+                size: [1, 20],
+                },
+            }
+            }
+        });
+        });
+    </script>
 
     <br>
 
