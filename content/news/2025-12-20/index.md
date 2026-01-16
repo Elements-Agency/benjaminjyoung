@@ -1,17 +1,19 @@
 ---
-date: 2035-12-20
+date: 2025-12-20
 title: Ben Young - Beauty in Darkness and Pain
 author: Samuel Brooks
 description: The genius work of Ben Young, an emerging artist, approaches emotional mastery
 ---
 
+___An in-person interview with Ben Young, an emerging and award winning watercolorist and oil painter. Known for his emotional narrative works and portrait paintings.___
+
 {{< preview style="right" painting="/story/hallelujah/" full="true" caption="Hallelujah featured at Canton Cultural Center" >}}
 
-I first encountered the work of Ben Young less than a year ago during an exhibition at a local cultural center. Among the assembled pieces, one painting immediately commanded attention. *Hallelujah* depicted an intimate, suspended moment between two intertwined figures—so private in nature it felt almost intrusive to witness. Yet it was impossible to look away.
+I first encountered the [work of Ben Young](/) less than a year ago during an exhibition at a local cultural center. Among the assembled pieces, one painting immediately commanded attention. *[Hallelujah](/story/hallelujah)* depicted an intimate, suspended moment between two intertwined figures—so private in nature it felt almost intrusive to witness. Yet it was impossible to look away.
 
-At the time, Young was virtually unknown. He had no established reputation within the local art community, no formal art education, and no prior accolades to precede him. And yet *Hallelujah* displayed a level of compositional control and emotional restraint reminiscent of the Dutch masters, paired with a vulnerability that can only emerge from deep personal honesty. It was clear that this was not merely a promising newcomer, but an artist operating with unusual intentionality.
+At the time, Young was virtually unknown. He had no established reputation within the local art community, no formal art education, and no prior accolades to precede him. And yet *[Hallelujah](/story/hallelujah)* displayed a level of compositional control and emotional restraint reminiscent of the Dutch masters, paired with a vulnerability that can only emerge from deep personal honesty. It was clear that this was not merely a promising newcomer, but an artist operating with unusual intentionality.
 
-In under two years since first picking up a paintbrush, Young’s work has advanced at a pace rarely seen. He has won multiple juried awards, attracted national attention for his watercolor *One Last Walk With Izzy*, and nearly sold out a limited release of reproductions of the piece. Several of his original works have sold at price points atypical for an emerging artist, and his practice is now beginning to attract international interest—milestones that many artists spend decades pursuing, if they reach them at all.
+In under two years since first picking up a paintbrush, Young’s work has advanced at a pace rarely seen. He has won multiple juried awards, attracted national attention for his watercolor *[One Last Walk With Izzy](/story/one-last-walk-with-izzy)*, and nearly sold out a limited release of reproductions of the piece. Several of his original works have sold at price points atypical for an emerging artist, and his practice is now beginning to attract international interest—milestones that many artists spend decades pursuing, if they reach them at all.
 
 
 Yet technical achievement alone does not explain the response to Young’s work. What consistently draws viewers is his command of emotional resonance—an ability to construct paintings that feel lived rather than observed.
@@ -82,7 +84,7 @@ This marks a shift in the interview.
 
 “There’s a story there,” Young says carefully. “But it’s not ready to be spoken yet.”
 
-He does, however, reference *Hallelujah* as a pivotal work.
+He does, however, reference *[Hallelujah](/story/hallelujah)* as a pivotal work.
 
 “That painting represents a threshold,” he explains. “It points toward something unresolved—something that marks the beginning of why I left.”
 
@@ -114,7 +116,7 @@ The emerging body of work suggests a shift away from isolated loss toward broade
 
 As the interview progressed, it became clear that gaps remained. Former colleagues declined to discuss the pivotal events that led to Young’s departure from his previous career, often citing respect and discretion. The more information surfaced, the more complex the picture became. Accounts consistently described Young as kind, intelligent, and deeply respected—yet there was an undercurrent of something unresolved.
 
-Young has acknowledged embedding foreshadowing and coded imagery within his work. In *The Artist’s Assistant*, a seemingly playful stick-figure drawing in the background—watched over by a feline companion—reveals darker intent upon closer inspection. The drawing depicts a family near a roadway, a car speeding toward them: a reference to the automobile accident that claimed the lives of his fiancée and unborn daughter.
+Young has acknowledged embedding foreshadowing and coded imagery within his work. In *[The Artist’s Assistant](/story/the-artists-assistant)*, a seemingly playful stick-figure drawing in the background—watched over by a feline companion—reveals darker intent upon closer inspection. The drawing depicts a family near a roadway, a car speeding toward them: a reference to the automobile accident that claimed the lives of his [fiancée](/tags/aj) and [unborn daughter](/tags/audrey).
 
 What appears lighthearted at first glance becomes devastating upon recognition.
 
@@ -133,3 +135,4 @@ Collectors interested in acquiring original works or limited-edition releases by
 {{< button href="/" text="Learn More" >}}
 
 ---
+

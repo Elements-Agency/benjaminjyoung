@@ -100,6 +100,18 @@ On a much heavier note, I have some difficult family news. My father, featured i
 
 ---
 
+## Reproduction Winner ##
+
+Each month, one email newsletter subscriber is selected to received a free reproduction of their choice.
+
+And the winner is..
+
+  * **John B.** from Wilmington, Delaware
+
+{{< button href="/sign-up" text="Subscribe to Newsletter" >}}
+
+---
+
 ## Bring Art Home ##
 
 Whether you are looking for a small original or a limited-edition print, now is a wonderful time to add to your collection. To show my appreciation for your ongoing support during this season of transition, please use the code below for a discount on your next purchase.
