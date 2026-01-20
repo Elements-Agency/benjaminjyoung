@@ -70,3 +70,10 @@ I decided to use the facial reference of my son over myself, to represent in thi
 A medium watercolor work. This one took a lot of layers. A LOT. I started off with blacking out my absolute blacks first to help set the value range for me to work on. That is in fact pure watercolor used. I almost completely avoided using white opaque pigment, only in the place of a few overlaying corrections. The big experimental thing I did with this piece was glazing a lot of cobalt teal pigment, which gave it this shimmer light effect, which you can only see upon close inspection the bits of blue standing isolated.
 
 {{< progress >}}
+
+## Accolades ##
+
+* Featured in the 2025 Rod Meadows Art Call located at [Juilliard Arts Center](https://www.juilliardartscenter.com).
+* **2nd Place Judges Award** at the 2025 Rod Meadows Art Call.
+* **3rd Place People's Choice Award** at the 2025 Rod Meadows Art Call.
+* Featured in the [Cold Decembers Exhibit](https://www.facebook.com/events/873544318670710/) at [Brewtifully](https://www.tracydawnbrewer.com).

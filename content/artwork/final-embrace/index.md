@@ -74,3 +74,4 @@ Embrace is a small taste of the narrative I have been trying to ready myself in 
 ## Accolades ##
 
 * Featured in the [2025 Door 2 Art Show](https://www.door2art.com/artshow) at [Door 2 Art](https://www.door2art.com).
+* Featured in the [Cold Decembers Exhibit](https://www.facebook.com/events/873544318670710/) at [Brewtifully](https://www.tracydawnbrewer.com).

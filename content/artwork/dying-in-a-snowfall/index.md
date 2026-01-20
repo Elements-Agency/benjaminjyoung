@@ -62,3 +62,7 @@ _Title was changed from "Snowfall" to "Dying In A Snowfall" on July 10th, 2025._
 Another large watercolor work. Always working in layers upon layers with watercolor. I started by blacking out the darkest value elements, after the sketch.
 
 {{< progress >}}
+
+## Accolades ##
+
+* Featured in the [Cold Decembers Exhibit](https://www.facebook.com/events/873544318670710/) at [Brewtifully](https://www.tracydawnbrewer.com).

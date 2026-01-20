@@ -37,3 +37,7 @@ tags: [whiskey, bottle, cup, apple, wood, table, glass, cork, window, dining, ro
 I was getting fatigued from painting too many large paintings, so I had to switch it up. Took advantage of that by trying several new things at once. The first is testing out watercolor ground on a canvas panel (and sanding it smooth). The next new thing was to use the grisaille technique and glaze color over a completed black and white painting. I actually stayed pretty loose and the painting went incredibly quick. The final step of adding color presented some problems but it's giving me more insight in to the transparency and values of pigments I stick to. And using a honey binder watercolor brand, like M. Graham, on top of the smooth ground gave it some magical qualities that are similar to oil. Which I absolutely loved. It was a fun little break from my more serious work.
 
 <!--more-->
+
+## Accolades ##
+
+* Featured in the [Cold Decembers Exhibit](https://www.facebook.com/events/873544318670710/) at [Brewtifully](https://www.tracydawnbrewer.com).

@@ -285,13 +285,18 @@
                 </p>
                 <ul class="actions special">
                     <li>
-                        <a href="/contact" class="button big wide smooth-scroll primary"  onclick="trackPotential();">
+                        <a href="/contact" class="button big wide smooth-scroll primary" onclick="trackPotential();">
                             Contact the Artist
                         </a>
                     </li>
                     <li>
                         <a href="#signup" class="button big wide smooth-scroll secondary" onclick="focusSignup();">
                             Subscribe to Newsletter 
+                        </a>
+                    </li>
+                    <li>
+                        <a href="{{ replace .RelPermalink "/story" "/artwork" }}" class="button big wide smooth-scroll secondary" onclick="trackPotential();">
+                            Painting Details
                         </a>
                     </li>
                 </ul>

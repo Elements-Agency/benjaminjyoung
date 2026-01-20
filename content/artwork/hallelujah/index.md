@@ -75,3 +75,4 @@ I approached this painting the same way I did with my [Massillon Helmet](/artwor
 * Featured in the [Surface and Structure: A Dialogue in Texture Exhibit](https://artsinstark.com/surface-and-structure-a-dialogue-in-texture-opens-january-16-at-the-cultural-center-gallery/?fbclid=IwY2xjawHs4upleHRuA2FlbQIxMAABHVuxYcp1388QiP1wHwfzSl_zD5yaXzqCEaEzwQRiffFD4fi50l4KhCRbIQ_aem_y6Loqj6coj59e3x-HEd1yg) at the [Canton Cultural Center Gallery](https://culturalcenterforthearts.com).
 * Featured in the [2025 Door 2 Art Show](https://www.door2art.com/artshow) at [Door 2 Art](https://www.door2art.com).
 * **Honorable Mention** at the [2025 Door 2 Art Show](https://www.door2art.com/artshow).
+* Featured in the [Cold Decembers Exhibit](https://www.facebook.com/events/873544318670710/) at [Brewtifully](https://www.tracydawnbrewer.com).

@@ -402,7 +402,7 @@
                 </p>
               {{ end }}
 
-              {{ if or (eq .Params.status "sale") (eq .Params.status "sold") }}
+              {{ if and (or (eq .Params.status "sale") (eq .Params.status "sold")) (.Params.products) }}
                 <article id="purchase" class="clear">
                   <div class="box clear" style="background-color: #eee;">
                     <h2 style="text-align: center;">
