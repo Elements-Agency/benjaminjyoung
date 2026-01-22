@@ -23,6 +23,27 @@ outputs: ['html']
 
     localStorage.viewSignup = true;
   }
+
+  if (!localStorage.clickInterested) {
+      fbq('trackCustom', 'Interested');
+      gtag('event', 'interested', {});
+
+      localStorage.clickInterested = true;
+  }
+
+  if (!localStorage.clickedPotential) {
+      fbq('trackCustom', 'Potential');
+      gtag('event', 'potential', {});
+
+      localStorage.clickedPotential = true;
+  }
+
+  if (!localStorage.clickedLikely) {
+      fbq('trackCustom', 'Likely');
+      gtag('event', 'likely', {});
+
+      localStorage.clickedLikely = true;
+  }
 </script>
 
 <p>
