@@ -16,6 +16,12 @@ ratio: landscape
 power: 45
 order: 99
 
+status: sale
+products:
+    - id: 810824846
+      name: Original Painting
+      price: $200
+
 supplies:
   - medium: M. Graham Watercolor Paint
   - on: Arches Cold Press Watercolor Paper
