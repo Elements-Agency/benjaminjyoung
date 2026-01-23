@@ -23,7 +23,7 @@ products:
       price: $200
     - id: 805526958
       name: Open Reproduction
-      price: $20
+      price: $29
 
 supplies:
   - medium: M. Graham Watercolor Paint

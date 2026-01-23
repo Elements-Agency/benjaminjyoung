@@ -21,6 +21,9 @@ products:
     - id: 810824846
       name: Original Painting
       price: $200
+    - id: 811008414
+      name: Open Reproduction
+      price: $29
 
 supplies:
   - medium: M. Graham Watercolor Paint
