@@ -10,9 +10,9 @@ outputs: ['html']
 
 ### When will I get my order? ###
 
-Usually, for **limited reproductions**, it takes 1–5 business days to fulfill an order, after which it’s shipped out.
+Usually, for **limited reproductions**, it takes 1–5 business days to fulfill an order, after which it’s shipped out. Typically this translates to 2-7 days shipment times for the Standard Shipping (or Free Domestic) option, and 1-2 days for the Expedited Shipping option.
 
-For **originals**, it's more of direct relation process. I will stay in touch with you directly to ensure everything goes smoothly. It's best to [contact me](/contact) prior to ordering for more information. While the painting is all ready to go, packaging is done very carefully to ensure no damage in shipping. I will give you a delivery estimate personally, and you can get a full refund any time prior to confirming and finalizing shipment.
+For **originals**, it's more of direct relation process. I will stay in touch with you directly to ensure everything goes smoothly. It's best to [contact me](/contact) prior to ordering for more information. While the painting is all ready to go, packaging is done very carefully to ensure no damage in shipping. I will give you a delivery estimate personally, and you can get a full refund any time prior to confirming and finalizing shipment. Shipment times usually are 3-10 business days.
 
 ### Where will my order ship from? ###
 
@@ -51,8 +51,8 @@ I am sorry if the product you ordered arrived damaged. To help me resolve this f
 
 ## Contact Us ##
 
-If you have any questions about this Privacy Policy, please [contact us](/contact).
+If you have any questions about this Shipping Policy, please [contact us](/contact).
 
-This Privacy Policy is effective as of November 28th, 2024 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
+This Shipping Policy is effective as of November 28th, 2024 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
 
 [<< Back](/shop)
