@@ -46,7 +46,7 @@ You’ll receive a tracking link via email when your order ships out. If you hav
 
 ### I received a wrong/damaged product, what should I do? ###
 
-I am sorry if the product you ordered arrived damaged. To help me resolve this for you quickly, please [contact me](/contact) within a weeks' time with photos of the damaged product ready, include your order number, and any other details you may have about your order. I will get back to you with a resolution as soon as possible!
+I am sorry if the product you ordered arrived damaged. To help me resolve this for you quickly, please [contact me](/contact) within a weeks' time with photos of the damaged product and any damage to the packaging ready, include your order number, and any other details you may have about your order. I will get back to you with a resolution as soon as possible!
 
 
 ## Contact Us ##
