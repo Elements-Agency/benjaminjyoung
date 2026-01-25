@@ -3,7 +3,7 @@ date: 2024-09-10
 title: Howard's Hills
 subtitle: The Aging Appalachian Ohio
 description: In Howard’s Hills, Ben Young captures a tender moment of his elderly father navigating the familiar hills of Appalachian Ohio—the same land where the artist was raised. Set against a quiet rural backdrop, the painting speaks to legacy, memory, and the deep connection between person and place. Both personal and universal, it reflects on aging, home, and the passage of time.
-author: Benjamin J. Young
+author: Ben Young
 
 buy: Howard's Hills is available for acquisition as the original watercolor painting or as a high-quality limited reproduction. Collectors may choose between owning the one-of-a-kind original or a museum-grade print that preserves the emotional depth and detail of the work. Both options offer a meaningful way to bring this powerful and personal piece into your collection.
 

@@ -2,8 +2,8 @@
 date: 2025-02-26
 title: Dying In A Snowfall
 description: Dying In A Snowfall is a watercolor painting displaying the reality of that Feb 26th snowfall night.
-alt: A watercolor painting of a lone, hooded figure sits against a tree in a dark, snow-covered forest, evoking a sense of solitude and introspection.
-author: Benjamin J. Young
+alt: A watercolor painting  by Ben Young is of a lone, hooded figure sits against a tree in a dark, snow-covered forest, evoking a sense of solitude and introspection.
+author: Ben Young
 
 aliases: [/dying-in-snowfall, /artwork/snowfall, /snowfall]
 images: ['painting.jpg']

@@ -1,7 +1,7 @@
 ---
 date: 2024-06-13
 title: June (2024) Newsletter
-author: Benjamin J. Young
+author: Ben Young
 description: Artist Newsletter for June, 2024. Updates on Ben Young artwork completed, sold, and an upcoming Massillon Museum exhibit
 preview_image: patina.jpg
 images:

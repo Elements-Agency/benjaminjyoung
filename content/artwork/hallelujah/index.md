@@ -2,8 +2,8 @@
 date: 2024-08-29
 title: Hallelujah
 description: Based on the lyrics of the song, Hallelujah. She tied you to the kitchen chair, she broke your throne and cut your hair.
-alt: This painting depicts a solemn and intimate moment between two individuals, where a woman is carefully cutting the hair of a man sitting with his back to the viewer, set against a dark, textured background that enhances the emotional depth of the scene.
-author: Benjamin J. Young
+alt: This painting by Ben Young depicts a solemn and intimate moment between two individuals, where a woman is carefully cutting the hair of a man sitting with his back to the viewer, set against a dark, textured background that enhances the emotional depth of the scene.
+author: Ben Young
 
 aliases: [/hallelujah, /arwtwork/hallelujah]
 images: ['painting.jpg']

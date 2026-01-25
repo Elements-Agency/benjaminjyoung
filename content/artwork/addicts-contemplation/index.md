@@ -2,8 +2,8 @@
 date: 2024-06-20
 title: Addict's Contemplation
 description: Addict's Contemplation is a watercolor painting featuring a girl in contemplation, sitting on a dock, across a lake refracting the colors of a summer sun and sky.
-alt: This watercolor painting depicts a serene scene of a person sitting alone on the edge of a wooden dock, gazing out over a calm, expansive body of water with gentle ripples, under a cloudy sky and distant green hills.
-author: Benjamin J. Young
+alt: This watercolor painting by Ben Young depicts a serene scene of a person sitting alone on the edge of a wooden dock, gazing out over a calm, expansive body of water with gentle ripples, under a cloudy sky and distant green hills.
+author: Ben Young
 
 progress: The technique with the water was to stay loose, like I did with Sailing Away Schoon. Borrowing a lot of my usage of colors and values from Escape, but trying to improve on it after learning my realism technique in Oil Painting. I used almost entirely watercolor paint, but did incorporated blots of white gouache to give parts of the clouds it's texture. As well as the signature incorporated a mixture of white gouache and blue watercolor mixed together, to set someone contrast but subtle in the lower right corner in the depths of the dark water.
 

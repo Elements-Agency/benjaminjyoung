@@ -3,7 +3,7 @@ date: 2021-07-01
 title: One Last Walk With Izzy
 subtitle: Izzy, My Faithful Border Collie Companion
 description: One Last Walk With Izzy captures the walk I wish I’d had with my rescued Border Collie, Izzy, in her final days. Adopted alongside my late fiancée, AJ, Izzy overcame a painful past to become my constant companion after AJ's passing. In her youth, she roamed the rolling hills of Southeast Ohio by my side, but by the time I was healthy enough to walk them again, she had grown too old. This painting is my way of giving us that one last walk we never got to take.
-author: Benjamin J. Young
+author: Ben Young
 
 buy: While the original watercolor painting 'One Last Walk With Izzy' has been sold, limited edition limited reproductions are still available in various sizes. This emotionally resonant piece continues to connect with collectors, and these high-quality prints offer a meaningful way to bring its story into your own space.
 

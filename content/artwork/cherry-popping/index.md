@@ -2,8 +2,8 @@
 date: 2024-03-17
 title: Cherry Popping
 description: Cherry Popping was my first oil painting, to practice using oil paints, learning how to manipulate it. Featuring two Red Cherry fruits.
-alt: This is a realistic painting of two cherries connected by their stems, with a play of light and shadow enhancing their rich red color.
-author: Benjamin J. Young
+alt: This is a realistic painting by Ben Young is of two cherries connected by their stems, with a play of light and shadow enhancing their rich red color.
+author: Ben Young
 
 progress: This was painted using Oil Paint on Canvas Panel. I used layering to paint this canvas. It took time to constantly correct the color and values, as the paint would mix with the existing layers and tint it. There is a bit of layered buildup on the right cherry, as I let that part accidentally sit to long and dry, before I had the chance to blend it like I originally wanted to with the base layer of paint.
 

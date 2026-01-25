@@ -3,7 +3,7 @@ date: 2023-12-27
 title: Watermelon Slice
 description: Watermelon Slice is a simple study, testing my newly purchased watercolor pencil set, while also incorporating brushstrokes of water.
 alt: This watercolor artwork by Ben Young is a simple yet detailed depiction of a single slice of watermelon with a bright red flesh, black seeds, and a green rind, set against a plain background.
-author: Benjamin J. Young
+author: Ben Young
 
 progress: Drawn and painted wet with water and a brush, using watercolor pencils on cold press watercolor paper. It was a quick study that took just a few hours one evening. To test my new watercolor pencil set.
 

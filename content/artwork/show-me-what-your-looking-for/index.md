@@ -3,7 +3,7 @@ date: 2044-11-01
 title: Show Me What You're Looking For
 description: 
 alt: 
-author: Benjamin J. Young
+author: Ben Young
 
 progress: 
 

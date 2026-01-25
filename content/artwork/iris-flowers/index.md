@@ -2,8 +2,8 @@
 date: 2025-04-13
 title: Iris Flowers
 description: Creepy Ladybug is a oil pastel painting of some blue flowers.
-alt: A oil pastel painting portraying iris flowers
-author: Benjamin J. Young
+alt: A oil pastel painting by Ben Young portraying iris flowers.
+author: Ben Young
 
 aliases: [/iris-flowers]
 images: ['painting.jpg']

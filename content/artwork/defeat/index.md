@@ -2,8 +2,8 @@
 date: 2025-02-02
 title: Defeat
 description: Defeat is a watercolor painting displaying the emotions of my inability to play in the national tennis championship.
-alt: This watercolor painting depicts a tennis player standing in a sunlit field, gazing upward into the bright blue sky with a sense of defeat and disappointment.
-author: Benjamin J. Young
+alt: This watercolor painting by Ben Young depicts a tennis player standing in a sunlit field, gazing upward into the bright blue sky with a sense of defeat and disappointment.
+author: Ben Young
 
 aliases: [/defeat]
 images: ['painting.jpg']

@@ -11,7 +11,7 @@ date: YYYY-MM-DD
 title: The Painting Title
 description: Short description. Be sure to reiterate the title and what it is (painting or drawing).
 alt: Image alt descriptor.
-author: Benjamin J. Young
+author: Ben Young
 
 progress: A small description of the technique you used for this artwork
 

@@ -2,8 +2,8 @@
 date: 2025-07-01
 title: Circus Act
 description: Circus Act is a watercolor painting of a clown standing trial, inspired by Edward Hopper's Soir Bleu.
-alt: A watercolor painting depicts a surreal courtroom scene where a solemn clown in red and white stripes stands at the witness stand, surrounded by grim-faced onlookers and jurors, creating a powerful contrast between absurdity and gravity.
-author: Benjamin J. Young
+alt: A watercolor painting by Ben Young depicts a surreal courtroom scene where a solemn clown in red and white stripes stands at the witness stand, surrounded by grim-faced onlookers and jurors, creating a powerful contrast between absurdity and gravity.
+author: Ben Young
 
 aliases: [/circus-act, /artwork/2021CR2753, /story/circus-act]
 images: ['painting.jpg']

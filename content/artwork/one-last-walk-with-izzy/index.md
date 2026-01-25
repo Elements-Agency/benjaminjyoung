@@ -2,8 +2,8 @@
 date: 2024-11-11
 title: One Last Walk With Izzy
 description: A watercolor painting of the artist and his dog, Izzy, walking across the rolling hills of Appalachia Ohio.
-alt: This watercolor painting depicts a serene watercolor capturing a man and a Border Collie dog strolling through rolling hills, evoking the peaceful charm of the countryside.
-author: Benjamin J. Young
+alt: This watercolor painting by Ben Young depicts a serene watercolor capturing a man and a Border Collie dog strolling through rolling hills, evoking the peaceful charm of the countryside.
+author: Ben Young
 
 aliases: [/one-last-walk-with-izzy, /artwork/walk-with-izzy]
 images: ['painting.jpg']

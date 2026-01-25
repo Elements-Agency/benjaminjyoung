@@ -3,7 +3,7 @@ date: 2024-01-20
 title: Ms. Cezanne
 description: Ms. Cezanne is my own rendition of Paul Cezanne's artwork, including one of his many bather subjects. Using the oil pastels I have on hand.
 alt: The oil pastel painting by Ben Young portrays a woman reclining in a vibrant, natural setting, depicted with vivid colors and energetic, sketch-like strokes that create a lively and dynamic composition.
-author: Benjamin J. Young
+author: Ben Young
 
 progress: Oil pastels done on pastel paper. This took an evening to work on. It was meant to go quick and be expressive, to get that enjoyment of impressionism and force myself away from perfectionism.
 

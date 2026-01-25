@@ -2,8 +2,8 @@
 date: 2025-07-07
 title: Pearl's Granddaughter
 description: A gouache initiation practice using Vermeer's Girl with a Pearl Earring as a reference.
-alt: This striking gouache painting reimagines Vermeer’s iconic Girl with a Pearl Earring with a bold orange headscarf, rich textures, and expressive brushwork that brings a modern intensity to the classical pose.
-author: Benjamin J. Young
+alt: This striking gouache painting by Ben Young reimagines Vermeer’s iconic Girl with a Pearl Earring with a bold orange headscarf, rich textures, and expressive brushwork that brings a modern intensity to the classical pose.
+author: Ben Young
 
 aliases: [/pearls-granddaughter]
 images: ['painting.jpg']

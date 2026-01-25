@@ -2,8 +2,8 @@
 date: 2025-08-14
 title: Grisaille Whiskey, On The Rocks
 description: A warmly lit still life of a red apple, green bottle, and glass of amber liquor, capturing the quiet elegance of light and shadow.
-alt: A warmly lit still life of a red apple, green whiskey bottle, and glass of amber liquor, capturing the quiet elegance of light and shadow.
-author: Benjamin J. Young
+alt: This watercolor painting by Ben Young features a warmly lit still life of a red apple, green whiskey bottle, and glass of amber liquor, capturing the quiet elegance of light and shadow.
+author: Ben Young
 
 aliases: [/grisaille-whiskey-on-the-rocks, /artwork/grisaille-whiskey, /grisaille-whiskey]
 images: ['painting.jpg']

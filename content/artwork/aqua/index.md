@@ -2,8 +2,8 @@
 date: 2024-01-14
 title: Aqua
 description: Aqua is my second water painting done with Water Soluble Pencil, to display water splashing out of a wine glass.
-alt: The painting displays an artistic monochrome sketch of a wine glass with its contents in mid-splash, creating an elegant and dynamic fluid motion captured in a still moment.
-author: Benjamin J. Young
+alt: The painting by Ben Young displays an artistic monochrome sketch of a wine glass with its contents in mid-splash, creating an elegant and dynamic fluid motion captured in a still moment.
+author: Ben Young
 
 progress: This was drawn with a water soluble pencil on some cold press wood pulp watercolor paper. It only took about a hour to test and do, and was a test drawing before continuing on to start Drip.
 

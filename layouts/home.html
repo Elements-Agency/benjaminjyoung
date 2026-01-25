@@ -9,6 +9,29 @@
         <meta name="keywords" content="{{ with .Params.keywords }}{{ delimit (apply . "printf" "%s" ".") ", " }}{{ end }}{{ with .Params.tags }}{{ delimit (apply . "printf" "%s" ".") ", " }}{{ end }}{{if eq .Type "tags"}}art, artwork, paintings, category, tags, {{.Title}}{{end}}">
         <meta name="author" content="{{ with .Params.author | default .Site.Author.name }}{{ . }}{{ end }}">
         {{ hugo.Generator }}
+
+		<script type="application/ld+json">
+			{
+				"@context": "https://schema.org",
+				"@type": "Person",
+				"name": "Ben Young",
+				"alternateName": "Benjamin J. Young",
+				"jobTitle": "Watercolor Artist and Painter",
+				"description": "Ben Young is a painter working in watercolor and oil, creating emotionally driven narrative paintings rooted in personal experience.",
+				"url": "https://benjaminjyoung.com/about/",
+				"image": "https://benjaminjyoung.com/images/ben.jpg",
+				"sameAs": [
+					"https://www.instagram.com/artistbenyoung",
+					"https://www.facebook.com/artist.benjamin.young"
+				],
+				"knowsAbout": [
+					"Watercolor painting",
+					"Emotional narrative art",
+					"Fine art painting"
+				],
+				"nationality": "American"
+			}
+		</script>
 		
 		<link rel="stylesheet" href="/css/main.css" />
 		<noscript><link rel="stylesheet" href="/css/noscript.css" /></noscript>
@@ -101,23 +124,21 @@
 							</header>
 
 							<div class="logo align-center">
-								<h1>
-									<a href="/" aria-label="Home Page">
-										<img src="/images/logo.webp" title="Artist Ben Young" alt="Artist Ben Young">
-									</a>
-								</h1>
+								<a href="/" aria-label="Home Page">
+									<img src="/images/logo.webp" title="Ben Young - Artist" alt="Ben Young's Artist Signature Logo">
+								</a>
 							</div>
 							<p class="major">
 								{{ .Content }}
 							</p>
 							<ul class="actions stacked align-center">
-								<li><a href="#gallery" class="button big wide smooth-scroll">See The Art</a></li>
+								<li><a href="#gallery" class="button big wide smooth-scroll">See Ben Young's Art</a></li>
 							</ul>
 						</div>
 						<div class="image">
 							<video width="320" height="240" autoplay muted playsinline>
 								<source src="images/banner.mp4" type="video/mp4">
-								<img src="images/banner-sm.webp" fetchpriority="high" srcset="images/banner-sm.webp 500w, images/banner.webp 1000w, images/banner-lg.webp 1500w" alt="Profile of Ben Young" width="700px" height="700px" />
+								<img src="images/banner-sm.webp" fetchpriority="high" srcset="images/banner-sm.webp 500w, images/banner.webp 1000w, images/banner-lg.webp 1500w" alt="Profile of Ben Young" title="Ben Young, the Artist" width="700px" height="700px" />
 							</video>
 						</div>
 					</section>
@@ -150,13 +171,13 @@
 								{{ end }}
 							{{ end }}
 
-						    <h2 class="strong">Featured Artwork</h2>
+						    <h2 class="strong">Ben Young's Featured Paintings</h2>
 							<p>
-								An newly emerging artist, with just over 2 years of painting, Young's work has been featured in <a href="/about/cv/#exhibitions">25 exhibits, 18 art galleries, and 2 museums</a>.
+								Ben Young is a newly emerging artist, with just over 2 years of painting, his work has been featured in <a href="/about/cv/#exhibitions">25 exhibits, 18 art galleries, and 2 museums</a>.
 								With his artwork being collected and displayed in <u>over {{ $homeCount }} homes</u> around the United States.
 								<br>
 								<br>
-								Click on any artwork below to explore more information:
+								Click on any of Ben Young's artwork below to explore more information:
 							</p>
                         </div>
 
@@ -197,7 +218,7 @@
 
 						<div class="inner">
 							<p>
-								Ben's featured body of work follows a narrative that runs parallel to my his life.
+								Ben Young's featured body of work follows a narrative that runs parallel to my his life.
 								Each painting marks a moment, emotion, or turning point, creating a visual timeline that mirrors my personal journey.
 								From early struggles and loss, to connection, healing, and growth.
 								In this way, the collection is not only a series of individual paintings, but also a living story—an unfolding reflection of the path he has walked.
@@ -206,17 +227,6 @@
 								<li><a href="/featured" class="button">View All Featured Work</a></li>
 								<li><a href="/story" class="button">The Artist's Story</a></li>
 							</ul>
-
-							<!--<h3>Ben's Featured Work Are His Experiences</h3>
-							<p>
-								Ben Young's featured artwork is a reflection of his own life experiences, traumas, and emotions.
-								Each featured piece is a narrative that tells a story, inviting viewers to connect with the artist on a personal level.
-								From landscapes to figure expressions, his work captures the essence of human experience.
-							</p>
-
-							<ul class="actions stacked">
-								<li><a href="/story" class="button">Read About The Story</a></li>
-							</ul>-->
 						</div>
 
 					</section>
@@ -226,7 +236,7 @@
 				{{ with index (sort $newsSection "Date" "desc") 0 }}
 					<section class="spotlight style1 orient-left content-align-right image-position-center onscroll-image-fade-in">
 						<div class="content">
-							<h2><a href="/news">Latest News</a></h2>
+							<h2><a href="/news">Latest Artist News</a></h2>
 								<p>
 									<a href="{{ .RelPermalink }}"><em>{{ .Date | time.Format "January 2, 2006" }}</em></a>
 									-
@@ -299,9 +309,9 @@
 				<!-- Five -->
 					<section class="wrapper style1 align-center">
 						<div class="inner">
-							<h2>Purchase Artwork</h2>
+							<h2>Purchase Ben Young's Artwork</h2>
 							<p>
-								Ben offers the sales of <a href="/shop/#!/Originals/c/189383751">originals</a> as well as <a href="/shop/#!/Reproductions/c/184228819">limited reproductions</a> directly online.
+								Ben Young offers the sales of <a href="/shop/#!/Originals/c/189383751">originals</a> as well as <a href="/shop/#!/Reproductions/c/184228819">limited reproductions</a> directly online.
                                 Available to be shipped directly to your door.
 								Shipping is available to the United States, Canada, the United Kingdom, and anywhere in the European Economic Area.
 							</p>
@@ -350,7 +360,7 @@
 				<!-- Six -->
 					<section id="latest" class="wrapper style1 align-center">
                         <div class="inner">
-                            <h2>Latest Creations</h2>
+                            <h2>Latest Artwork Creations</h2>
                         </div>
 
 						<!-- Gallery -->
@@ -388,13 +398,13 @@
 
                         <div class="inner">
 							<p>
-                                Catch up on all of Young's latest artworks, creations, paintings, and drawings.
+                                Catch up on all of Ben Young's latest artworks, creations, paintings, and drawings.
                                 The above slider of paintings is his newest artwork.
 								Or feel free to also follow him on social media on either
 								<a href="https://facebook.com/artist.benjamin.young">Facebook</a> or <a href="https://instagram.com/artistbenyoung">Instagram</a>.
                             </p>
 							<ul class="actions stacked">
-								<li><a href="/artwork" class="button">Artwork Blog</a></li>
+								<li><a href="/artwork" class="button"> Ben Young's Artwork Blog</a></li>
 							</ul>
 						</div>
 					</section>
@@ -452,10 +462,10 @@
                             <strong>Quick Links:</strong>
                             <ul style="list-style:none; display:inline-block;">
                                 <li style="display:inline-block;">
-                                    <a href="/about">About Ben</a>
+                                    <a href="/about">About Ben Young</a>
                                 </li>
                                 <li style="display:inline-block;">
-                                    <a href="/featured">Paintings</a>
+                                    <a href="/featured">Paintings &amp; Artwork</a>
                                 </li>
                                 <li style="display:inline-block;">
                                     <a href="/shop">Browse Products</a>

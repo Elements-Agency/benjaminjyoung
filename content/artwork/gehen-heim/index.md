@@ -3,7 +3,7 @@ date: 2024-03-23
 title: Gehen Heim
 description: Gehen Heim is a night winter watercolor painting, third in the Winter Escape series. Showing the trek of the lone figure across ice lake.
 alt: This painting by Ben Young depicts a solitary figure walking across a lake of ice, with the scene conveying a sense of solitude in a wintry landscape.
-author: Benjamin J. Young
+author: Ben Young
 
 progress: Painted with watercolor paint on a cold press cotton watercolor block. I tried to continue the same Andrew Wyeth technique as this painting's predecessor, Escape.
 

@@ -3,7 +3,7 @@ date: 2025-04-01
 title: Innocence and Connection
 description: Innocence and Connection is a masterpiece oil painting that highlights the complexity of human emotions we experience in human connection.
 alt: A bold minimalist oil painting featuring two stick figures holding hands against a deep black background, symbolizing innocence, connection, and the beauty of simplicity.
-author: Benjamin J. Young
+author: Ben Young
 
 aliases: [/innocence-and-connection]
 images: ['painting.jpg']

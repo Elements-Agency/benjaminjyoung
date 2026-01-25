@@ -2,8 +2,8 @@
 date: 2024-06-26
 title: The Artist's Assistant
 description: A watercolor painting featuring a cat, named Princess. Wearing a water cup as a hat on her head. As she sits and watches the artist paint.
-alt: This watercolor painting depicts a black and white cat wearing an upside-down green water cup on its head, sitting beside a tennis ball and a painting of a stick-figure family, with a paintbrush resting nearby.
-author: Benjamin J. Young
+alt: This watercolor painting by Ben Young depicts a black and white cat wearing an upside-down green water cup on its head, sitting beside a tennis ball and a painting of a stick-figure family, with a paintbrush resting nearby.
+author: Ben Young
 
 progress: I started out with just sketching values using a pencil to form the shapes. Then, layer by layer, added the color. This painting is special in the fact I left the bare cotton paper exposed in the inception of it's self on the watercolor block in the painting. As well as finding a subtle way to integrate my signature in to the painting, on the painted painting it's self...
 

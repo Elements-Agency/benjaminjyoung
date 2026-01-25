@@ -3,7 +3,7 @@ date: 2024-05-14
 title: Blue Jay
 description: Blue Jay is the second watercolor pencil drawing of the three primary color winter birds.
 alt: This is a detailed colored pencil drawing by Ben Young of a vivid blue jay perched on a snowy mound eating berries.
-author: Benjamin J. Young
+author: Ben Young
 
 progress: This was drawn with watercolor pencils on cold press wood pulp watercolor paper. Anytime I draw with any colored pencils, it takes many going over in layers to intensify and blend the colors.
 

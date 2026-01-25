@@ -2,8 +2,8 @@
 date: 2025-03-02
 title: Creepy Ladybug
 description: Creepy Ladybug is a watercolor painting of a scary looking ladybug.
-alt: A watercolor painting portraying a strikingly detailed ladybug with an almost surreal quality, featuring bold red and black tones, exaggerated golden eyes, and a muted earthy background that enhances its dramatic presence.
-author: Benjamin J. Young
+alt: A watercolor painting by Ben Young portraying a strikingly detailed ladybug with an almost surreal quality, featuring bold red and black tones, exaggerated golden eyes, and a muted earthy background that enhances its dramatic presence.
+author: Ben Young
 
 aliases: [/creepy-ladybug]
 images: ['painting.jpg']

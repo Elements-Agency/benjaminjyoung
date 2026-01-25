@@ -3,7 +3,7 @@ date: 2024-03-13
 title: Back To
 description: Back To is a more complex watercolor painting, second in the Winter Escape series. Showing the trek of the lone figure through a winter trail.
 alt: This painting by Ben Young depicts a solitary figure in dark clothing standing on a snow-covered path flanked by bare trees, with the scene conveying a sense of solitude in a wintry landscape.
-author: Benjamin J. Young
+author: Ben Young
 
 progress: This painting was done with watercolor on a cold press cotton paper block. I mixed in white gouache in to a perfume bottle, to spray over as a final step. This took quite some time and a many number of glazing layers. To create the depth of trees, I of course had to brush several layers of trees.
 location: The location this scene is derived from is a part of the Ohio to Erie Canal Towpath, situated between Canal Fulton and Massillon Ohio, likely Jackson township at that point of the trail. This part of the trail I have both hiked and cycled through easily over thousands of times, so I am familiar with this area like the back of my hand. The trail is especially peaceful after a fresh winter snow, at which point I love for it's meditative properties.

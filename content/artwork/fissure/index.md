@@ -2,8 +2,8 @@
 date: 2024-02-27
 title: Fissure
 description: Fissure is a monochromatic abstract watercolor painting, that I just felt like expressing in a painting one evening.
-alt: The abstract painting depicts a stark, earth-toned fissure with its reflection, conveying a sense of division or a singular broad crack.
-author: Benjamin J. Young
+alt: The abstract painting by Ben Young depicts a stark, earth-toned fissure with its reflection, conveying a sense of division or a singular broad crack.
+author: Ben Young
 
 progress: The painting was quick and dirty. Pretty simple. The expression only lasted a hour.
 

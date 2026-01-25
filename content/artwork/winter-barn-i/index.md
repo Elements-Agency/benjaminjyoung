@@ -2,8 +2,8 @@
 date: 2026-01-04
 title: Winter Barn I
 description: In this watercolor, Ben Young utilizes soft, atmospheric washes and deep cerulean shadows to depict a weathered barn standing in quiet isolation against a stark, snow-swept landscape.
-alt: A weathered barn stands as a silent sentinel amidst a vast, snow-covered landscape, captured in soft watercolor washes that emphasize the cool blue shadows of a quiet winter day.
-author: Benjamin J. Young
+alt: This painting by Ben Young features a weathered barn standing as a silent sentinel amidst a vast, snow-covered landscape, captured in soft watercolor washes that emphasize the cool blue shadows of a quiet winter day.
+author: Ben Young
 
 progress: 
 

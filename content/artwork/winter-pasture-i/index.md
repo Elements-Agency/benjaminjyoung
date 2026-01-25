@@ -2,8 +2,8 @@
 date: 2026-01-19
 title: Winter Pasture I
 description: In this evocative 7x5 watercolor, artist Ben Young employs soft, atmospheric washes and a stark tonal contrast to capture the quiet solitude of a lone cow in a misty, snow-draped winter pasture.
-alt: A lone cow stands as a quiet focal point in this atmospheric 7x5 watercolor, which uses a muted palette and soft, misty washes to capture the stillness of a snow-covered rural landscape.
-author: Benjamin J. Young
+alt: A lone cow stands as a quiet focal point in this atmospheric 7x5 watercolor by Ben Young, which uses a muted palette and soft, misty washes to capture the stillness of a snow-covered rural landscape.
+author: Ben Young
 
 progress: 
 

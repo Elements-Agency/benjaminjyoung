@@ -2,8 +2,8 @@
 date: 2024-11-28
 title: Christmas Stocking
 description: Christmas Stocking is a watercolor painting meant as a simple prop for my art gallery.
-alt: This watercolor painting features a vibrant red Christmas stocking with the name Ben prominently displayed on it, accented by a textured white cuff and set against a dark black background.
-author: Benjamin J. Young
+alt: This watercolor painting by Ben Young features a vibrant red Christmas stocking, accented by a textured white cuff and set against a dark black background.
+author: Ben Young
 
 aliases: [/christmas-stocking]
 images: ['painting.jpg']

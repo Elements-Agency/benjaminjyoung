@@ -1,7 +1,7 @@
 ---
 date: 2025-09-02
 title: September Newsletter
-author: Benjamin J. Young
+author: Ben Young
 description: Studio Grand Opening, New Exhibits & a Special Winner
 preview_image: kolps.jpg
 preview_alt: Springfield Museum of Art

@@ -2,8 +2,8 @@
 date: 2024-08-14
 title: Lonely Rose in the Night's Rain
 description: Lonely Rose in the Night's Rain is a watercolor painting featuring a single rose in the rain with a dark background.
-alt: A vibrant red rose glistens with dewdrops against a dark, atmospheric background, creating a striking contrast and a sense of delicate elegance in this watercolor painting.
-author: Benjamin J. Young
+alt: A painting by Ben Young of a vibrant red rose glistens with dewdrops against a dark, atmospheric background, creating a striking contrast and a sense of delicate elegance in this watercolor painting.
+author: Ben Young
 
 aliases: [/lonely-rose-in-the-nights-rain, /artwork/lonely-rose]
 images: ['painting.jpg']

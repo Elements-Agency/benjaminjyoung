@@ -3,7 +3,7 @@ date: 2024-05-26
 title: Pomona's Bowl
 description: Pomona's Bowl is a still life to finally refine my abstract brushwork and realism in to the oil painting form.
 alt: This painting by Ben Young is a still life oil painting of an pomegranate fruit sitting in a metal bowl atop a velvet clothed table.
-author: Benjamin J. Young
+author: Ben Young
 
 progress: I was about to throw away an old painting print I had from childhood, that was on MDF board. Instead of being wasteful, I decided to repurpose it. I sanded off the old artwork and protective film, resealed it, and then loosely applied multiple thick applications of gesso. You can see some of those gesso brush strokes through the layers of oil paint still. After the MDF board was prepped, I sketched the under painting to layout guidelines. Then I used  Winsor and Newton oil paint to paint, with only Linseed oil as an medium additive. No solvents were used at all, both to protect my health and to not have any waste environmental impact. Only one layer of paint was used, as I worked directly on the gesso working my way from the top left down to the bottom right. In some areas, I make corrections, after the entire painting is filled in. This way I can intensely focus on the makeup of each tiny element on the colors and values, isolating it from the rest of the painting or gesso trying to bias my judgement. This became my longest time consuming artwork, as of yet.
 

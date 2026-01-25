@@ -3,7 +3,7 @@ date: 2020-02-27
 title: In The Dark
 subtitle: A Flame That Won’t Burn Out
 description: A candle’s flame becomes both literal and symbolic in In the Dark, a deeply personal work featuring the artist’s son. Bathed in warm light against a void of shadow, the boy’s focused gaze captures a quiet moment of reflection—but also survival. This piece draws from Robert Frost’s famed poem Fire and Ice, using the candle as a metaphor for the enduring fire within. Young channels a promise through this painting; the flame of love, memory, and creative will shall never again be extinguished and his flame will always be tended to.
-author: Benjamin J. Young
+author: Ben Young
 
 buy: In The Dark is available for acquisition as the original watercolor painting or as a high-quality limited reproduction. Collectors may choose between owning the one-of-a-kind original or a museum-grade print that preserves the emotional depth and detail of the work. Both options offer a meaningful way to bring this powerful and personal piece into your collection.
 

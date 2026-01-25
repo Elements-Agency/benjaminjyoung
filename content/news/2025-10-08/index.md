@@ -1,7 +1,7 @@
 ---
 date: 2025-10-08
 title: Tragedy Strikes, October Newsletter
-author: Benjamin J. Young
+author: Ben Young
 description: This month’s been a storm of emotion — loss, fear, healing, and small moments of grace. From tragedy close to home to new creative beginnings...
 preview_image: smoa.jpg
 preview_alt: Springfield Museum of Art

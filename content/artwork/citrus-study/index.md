@@ -3,7 +3,7 @@ date: 2024-02-06
 title: Citrus Study
 description: Citrus Study is a still life gouache painting, that was done as a study to practice both blending and lighting values. Featuring citrus fruit and a red mug.
 alt: This gouache painting by Ben Young depicts a still life with a red mug in the center, a green lime on the left, and a bright yellow lemon on the right, all set against a dark, textured background.
-author: Benjamin J. Young
+author: Ben Young
 
 progress: This was done with several painted layers of gouache and watercolor paint in certain areas as a glaze. Painted on cold press cotton watercolor block paper. The study took honestly a few weeks. It was a lot of applying one layer or blending, waiting for the painting to dry, and then continuing on with the next layer or step. This would have been honestly much easier using oil paint, but I did not have the supplies on hand at the time and took it as a challenge to do the blending in watercolor.
 

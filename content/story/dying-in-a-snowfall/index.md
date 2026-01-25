@@ -3,7 +3,7 @@ date: 2020-02-26
 title: Dying In A Snowfall
 subtitle: Falling Snow is My Meditation
 description: Dying in a Snowfall is a watercolor capturing the quiet, haunting reality of a winter night in Dundee Falls, Ohio. Paired with its companion piece Final Embrace, it contrasts the cold stillness of that moment with the warmth of the dream I experienced as I slipped away — a meeting of beauty, grief, and surrender.
-author: Benjamin J. Young
+author: Ben Young
 
 buy: Dying In A Snowfall is available for acquisition as the original watercolor painting or as a high-quality limited reproduction. Collectors may choose between owning the one-of-a-kind original or a museum-grade print that preserves the emotional depth and detail of the work. Both options offer a meaningful way to bring this powerful and personal piece into your collection.
 

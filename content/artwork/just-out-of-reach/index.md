@@ -2,8 +2,8 @@
 date: 2025-01-24
 title: Just Out Of Reach
 description: Just Out Of Reach is the final watercolor painting of the Winter Escape series.
-alt: This watercolor painting depicts a serene winter scene with a warmly lit log cabin surrounded by snow-covered trees, evoking a tranquil and cozy atmosphere.
-author: Benjamin J. Young
+alt: This watercolor painting by Ben Young depicts a serene winter scene with a warmly lit log cabin surrounded by snow-covered trees, evoking a tranquil and cozy atmosphere.
+author: Ben Young
 
 aliases: [/just-out-of-reach]
 images: ['painting.jpg']

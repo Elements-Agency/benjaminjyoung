@@ -1,7 +1,7 @@
 ---
 date: 2025-11-22
 title: November Newsletter
-author: Benjamin J. Young
+author: Ben Young
 description: A Cold December is coming.
 preview_image: smoa.jpg
 preview_alt: Springfield Museum of Art

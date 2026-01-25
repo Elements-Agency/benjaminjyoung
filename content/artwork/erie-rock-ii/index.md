@@ -2,8 +2,8 @@
 date: 2024-08-18
 title: Erie Rock II
 description: A watercolor painting summer remake of a monolith rock that rarely comes in sight on Lake Erie's shores.
-alt: This watercolor painting depicts a lone rock formation topped with a cluster of small trees, standing tall in calm, shallow water under a cloudy sky.
-author: Benjamin J. Young
+alt: This watercolor painting by Ben Young depicts a lone rock formation topped with a cluster of small trees, standing tall in calm, shallow water under a cloudy sky.
+author: Ben Young
 
 aliases: [/erie-rock-ii]
 images: ['painting.jpg']

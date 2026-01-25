@@ -1,7 +1,7 @@
 ---
 date: 2025-05-06
 title: Important Updates, May Newsletter
-author: Benjamin J. Young
+author: Ben Young
 description: In The Dark is released as well as many other important updates.
 preview_image: smoa.jpg
 preview_alt: Trio of paintings for One Last December

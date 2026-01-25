@@ -2,8 +2,8 @@
 date: 2025-11-17
 title: Coming Home
 description: A watercolor painting of my dog, Izzy, coming home to me.
-alt: A loyal dog pauses in a sun-bleached field, gazing toward the solitary man resting on a weathered porch in this quiet, contemplative watercolor scene.
-author: Benjamin J. Young
+alt: This watercolor painting by Ben Young loyal dog pauses in a sun-bleached field, gazing toward the solitary man resting on a weathered porch in this quiet, contemplative scene.
+author: Ben Young
 
 aliases: [/coming-home]
 images: ['painting.jpg']

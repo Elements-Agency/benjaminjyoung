@@ -1,7 +1,7 @@
 ---
 date: 2024-09-05
 title: September (2024) Newsletter
-author: Benjamin J. Young
+author: Ben Young
 description: Artist Newsletter for September, 2024. Updates on Ben Young artwork completed, sold, and current exhibits.
 preview_image: massmu.jpg
 preview_alt: Massillon Museum Art Exhibit

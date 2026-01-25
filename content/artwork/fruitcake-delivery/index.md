@@ -2,8 +2,8 @@
 date: 2024-10-29
 title: Fruitcake Delivery
 description: A watercolor that paints a scene of a delivery truck and driver bringing the joy of fruitcake to the resident of a blue house.
-alt: This watercolor painting depicts a cozy winter scene of a snow-covered house warmly lit from within, as a delivery truck labeled "Fruitcake Haus" unloads boxes in the quiet evening.
-author: Benjamin J. Young
+alt: This watercolor painting by Ben Young depicts a cozy winter scene of a snow-covered house warmly lit from within, as a delivery truck labeled "Fruitcake Haus" unloads boxes in the quiet evening.
+author: Ben Young
 
 aliases: [/fruitcake-delivery, /artwork/rachels-house, /arwtwork/fruitcake-delivery, /story/fruitcake-delivery]
 images: ['painting.jpg']

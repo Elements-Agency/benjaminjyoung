@@ -2,8 +2,8 @@
 date: 2026-01-13
 title: Winter Birch I
 description: This 7x5-inch watercolor painting captures the intricate, mottled texture of twin sycamore or birch trunks standing as quiet sentinels in a soft, snow-blanketed Pennsylvania landscape.
-alt: This watercolor painting depicts the textured trunks of twin birch or sycamore trees standing in a serene, snow-covered landscape under a soft grey sky.
-author: Benjamin J. Young
+alt: This watercolor painting by Ben Young depicts the textured trunks of twin birch or sycamore trees standing in a serene, snow-covered landscape under a soft grey sky.
+author: Ben Young
 
 progress: 
 

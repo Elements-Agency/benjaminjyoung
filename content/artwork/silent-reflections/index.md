@@ -3,7 +3,7 @@ date: 2024-06-06
 title: Silent Reflections
 description: Silent Reflections is such a simple watercolor painting, set on a misty lake surround by rolling forrest hills. The subject of a boat gliding across the water.
 alt: This painting by Ben Young shows a solitary boat moving across a lake, in a muted watercolor landscape shrouded in a misty atmosphere.
-author: Benjamin J. Young
+author: Ben Young
 
 progress: Painted with watercolor paint on a cold press cotton watercolor block. I built up the background first in many layers until I had what I wanted, then used watercolor pencil with water to build up the boat and darker ripple parts. Using the watercolor pencil again, but keeping it dry on the lighter ripple effects. Also using hints of yellow pencil and other small detailed corrections through the rest of the painting.
 

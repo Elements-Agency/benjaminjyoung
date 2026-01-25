@@ -2,8 +2,8 @@
 date: 2024-06-16
 title: Lily Pad
 description: Lily Pad is a watercolor painting featuring the aquatic plant and flower as it floats on pond water.
-alt: This watercolor painting depicts a serene pond with vibrant green lily pads and a delicate pink water lily blooming at the center.
-author: Benjamin J. Young
+alt: This watercolor painting by Ben Young depicts a serene pond with vibrant green lily pads and a delicate pink water lily blooming at the center.
+author: Ben Young
 
 progress: I tried to continue my watercolor technique from Massillon 52, but keep certain elements lose like I did with Sailing Away Schoon. Using gouache on the base of the flower.
 location: This was painted in reference on the pond at my Ohio home.

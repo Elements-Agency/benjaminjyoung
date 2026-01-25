@@ -2,8 +2,8 @@
 date: 2025-04-30
 title: In The Dark
 description: In The Dark is a watercolor painting framing the amusement of a youthful expression looking in to a candle flame.
-alt: A young man gazes intently at a flickering candle, his face illuminated by its warm glow in a powerful study of light, focus, and introspection.
-author: Benjamin J. Young
+alt: This watercolor painting by Ben Young features a young man gazing intently at a flickering candle, his face illuminated by its warm glow in a powerful study of light, focus, and introspection.
+author: Ben Young
 
 aliases: [/in-the-dark]
 images: ['painting.jpg']

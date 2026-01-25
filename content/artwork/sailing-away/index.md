@@ -3,7 +3,7 @@ date: 2024-06-07
 title: Sailing Away
 description: Silent Reflections is a watercolor painting, set on a misty ocean with rolling mountains in the background. The subject of a schooner boat sailing away at sea.
 alt: This painting by Ben Young shows a solitary schooner sailing across a sea, in a muted watercolor landscape shrouded in a misty atmosphere.
-author: Benjamin J. Young
+author: Ben Young
 
 progress: I planned this painting months ago and only did the wash. It sat until I started working on a commission, after completing Silent Reflections. Sitting in the park outside the Stark County court house, I somehow completed this quickly, working on it in between the drying layers of my other painting. This painting just seemed to "click" and I stayed what I assume most watercolor artists refer as "loose".
 

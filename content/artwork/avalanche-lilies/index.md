@@ -2,8 +2,8 @@
 date: 2025-01-06
 title: Avalanche Lilies
 description: A watercolor painting of a golden hour view of Mount Rainier with Avalanche Lilies as the main focus. A scene the artist hoped to share with his late Fiancee.
-alt: This watercolor painting depicts delicate white lilies illuminated against a rugged alpine landscape with golden grasses, shadowed mountains, and a snow-capped peak under a golden hour sky.
-author: Benjamin J. Young
+alt: This watercolor painting by Ben Young depicts delicate white lilies illuminated against a rugged alpine landscape with golden grasses, shadowed mountains, and a snow-capped peak under a golden hour sky.
+author: Ben Young
 
 aliases: [/avalanche-lilies]
 images: ['painting.jpg']

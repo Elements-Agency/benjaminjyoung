@@ -1,7 +1,7 @@
 ---
 date: 2026-01-13
 title: Winter Landscapes, Studio Update, And Personal Note
-author: Benjamin J. Young
+author: Ben Young
 description: I’m introducing a new series of 7x5in winter watercolor warm-ups, inspired by a recent reference-gathering trip to Delaware, and sharing a successful recap of my Brewtifully exhibit. I’m also announcing a shift to selective studio openings (moving away from every First Friday) and sharing some personal news regarding my upcoming surgery and a family health update.
 preview_image: brewtifully.jpg
 preview_alt: Brewtifully December Exhibit

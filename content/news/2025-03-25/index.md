@@ -1,7 +1,7 @@
 ---
 date: 2025-03-25
 title: One Last December, Artist Newsletter
-author: Benjamin J. Young
+author: Ben Young
 description: The series One Last December is complete, signaling the start of telling a story in painting.
 preview_image: trio.jpg
 preview_alt: Trio of paintings for One Last December

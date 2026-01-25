@@ -2,8 +2,8 @@
 date: 2024-08-24
 title: Blue Morpho Butterfly
 description: Blue Morpho Butterfly is a watercolor painting featuring a blue butterfly sitting on some green leaves.
-alt: This watercolor painting features a vibrant blue butterfly resting on green and yellow leaves, with a dark, earthy background that highlights the butterfly's striking color.
-author: Benjamin J. Young
+alt: This watercolor painting by Ben Young features a vibrant blue butterfly resting on green and yellow leaves, with a dark, earthy background that highlights the butterfly's striking color.
+author: Ben Young
 
 aliases: [/blue-morpho-butterfly, /artwork/blue-butterfly]
 images: ['painting.jpg']

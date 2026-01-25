@@ -3,7 +3,7 @@ date: 2023-12-20
 title: Avalanche Lilies
 subtitle: A Love Letter in Bloom
 description: Avalanche Lilies is a deeply personal painting by Ben Young, created in honor of a promise he made to his late fiancée—to one day visit the blooming Avalanche Lilies on Mount Rainier together. Though she passed before they could make the trip, Ben visited the site alone, using the painting as a way to grieve, reflect, and keep that promise in spirit. This piece captures not only the beauty of the landscape, but the emotional weight of love, loss, and remembrance—offering collectors a moving tribute to enduring connection.
-author: Benjamin J. Young
+author: Ben Young
 
 buy: Avalanche Lilies is available for acquisition as the original watercolor painting or as a high-quality limited reproduction. Collectors may choose between owning the one-of-a-kind original or a museum-grade print that preserves the emotional depth and detail of the work. Both options offer a meaningful way to bring this powerful and personal piece into your collection.
 

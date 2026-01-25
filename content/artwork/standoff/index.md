@@ -2,8 +2,8 @@
 date: 2024-10-12
 title: Standoff
 description: A watercolor painting of two silhouettes standing in a golden field, highlighting the tenseness of the couple.
-alt: This watercolor painting depicts two silhouetted figures standing apart in a vast, golden field under a cloudy sky, creating a mood of quiet tension and isolation against a distant mountainous backdrop.
-author: Benjamin J. Young
+alt: This watercolor painting by Ben Young depicts two silhouetted figures standing apart in a vast, golden field under a cloudy sky, creating a mood of quiet tension and isolation against a distant mountainous backdrop.
+author: Ben Young
 
 aliases: [/standoff, /artwork/stand-off, /arwtwork/standoff]
 images: ['painting.jpg']

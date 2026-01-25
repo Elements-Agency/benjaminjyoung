@@ -2,8 +2,8 @@
 date: 2024-12-20
 title: Final Embrace
 description: An oil painting a young couple embracing in a surreal and dramatic setting. Could it be a dream the artist had once again holding his greatest loss or the final moments of acceptance of something else?
-alt: This oil painting captures a tender and intimate moment of a couple embracing under dramatic, soft lighting against a dark, textured background, evoking deep emotion and connection.
-author: Benjamin J. Young
+alt: This oil painting by Ben Young captures a tender and intimate moment of a couple embracing under dramatic, soft lighting against a dark, textured background, evoking deep emotion and connection.
+author: Ben Young
 
 aliases: [/final-embrace, /artwork/embrace, /embrace]
 images: ['painting.jpg']

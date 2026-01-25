@@ -1,7 +1,7 @@
 ---
 date: 2024-12-07
 title: December (2024) Newsletter
-author: Benjamin J. Young
+author: Ben Young
 description: Artist Newsletter for December, 2024. Updates on Ben Young's artwork and activities'
 preview_image: residence.jpg
 preview_alt: Patina Resident Artist Showcase

@@ -9,9 +9,32 @@
         <meta name="keywords" content="{{ with .Params.keywords }}{{ delimit (apply . "printf" "%s" ".") ", " }}{{ end }}{{ with .Params.tags }}{{ delimit (apply . "printf" "%s" ".") ", " }}{{ end }}{{if eq .Type "tags"}}art, artwork, paintings, category, tags, {{.Title}}{{end}}">
         <meta name="author" content="{{ with .Params.author | default .Site.Author.name }}{{ . }}{{ end }}">
         {{ hugo.Generator }}
+
+        <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "Person",
+          "name": "Ben Young",
+          "alternateName": "Benjamin J. Young",
+          "jobTitle": "Watercolor Artist and Painter",
+          "description": "Ben Young is a painter working in watercolor and oil, creating emotionally driven narrative paintings rooted in personal experience.",
+          "url": "https://benjaminjyoung.com/about/",
+          "image": "https://benjaminjyoung.com/images/ben.jpg",
+          "sameAs": [
+            "https://www.instagram.com/artistbenyoung",
+            "https://www.facebook.com/artist.benjamin.young"
+          ],
+          "knowsAbout": [
+            "Watercolor painting",
+            "Emotional narrative art",
+            "Fine art painting"
+          ],
+          "nationality": "American"
+        }
+      </script>
 		
-		<link rel="stylesheet" href="/css/main.css" />
-		<noscript><link rel="stylesheet" href="/css/noscript.css" /></noscript>
+        <link rel="stylesheet" href="/css/main.css" />
+        <noscript><link rel="stylesheet" href="/css/noscript.css" /></noscript>
 
         {{ $production := eq (getenv "HUGO_ENV") "production" | or (eq site.Params.env "production") }}
         {{ $public := not .Params.private }}
@@ -75,7 +98,7 @@
                             <strong>Quick Links:</strong>
                             <ul style="list-style:none; display:inline-block;">
                                 <li style="display:inline-block;">
-                                    <a href="/about">About Ben</a>
+                                    <a href="/about">About Ben Young</a>
                                 </li>
                                 <li style="display:inline-block;">
                                     <a href="/featured">Paintings</a>

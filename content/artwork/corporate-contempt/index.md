@@ -2,8 +2,8 @@
 date: 2025-02-23
 title: Corporate Contempt
 description: Corporate Contempt is a watercolor painting displaying my contempt of corporate America.
-alt: A watercolor painting of a solitary man in a dark suit stands in a dimly lit office, his back to the viewer, as stark contrasts of light and shadow create a melancholic, introspective atmosphere.
-author: Benjamin J. Young
+alt: A watercolor painting by Ben Young is of a solitary man in a dark suit stands in a dimly lit office, his back to the viewer, as stark contrasts of light and shadow create a melancholic, introspective atmosphere.
+author: Ben Young
 
 aliases: [/corporate-contempt, /artwork/young-money, /young-money, /artwork/pretrial, /pretrial]
 images: ['painting.jpg']

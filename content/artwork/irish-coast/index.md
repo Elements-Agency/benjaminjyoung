@@ -2,8 +2,8 @@
 date: 2024-07-09
 title: Irish Coast
 description: Irish Coast a pure landscape oil pastel of an random Ireland coastline with the waves crashing against the rocks and cliff.
-alt: This oil pastel artwork depicts a rugged coastal landscape, with dark cliffs and rocks jutting into the blue-green sea, under a sky scattered with light clouds.
-author: Benjamin J. Young
+alt: This oil pastel artwork by Ben Young depicts a rugged coastal landscape, with dark cliffs and rocks jutting into the blue-green sea, under a sky scattered with light clouds.
+author: Ben Young
 
 progress: Painted with oil pastels. I started this project quite a long time ago. Drawing out the shape of it at first and then it sat on a shelf for many months. Just now getting around to finishing it.
 
