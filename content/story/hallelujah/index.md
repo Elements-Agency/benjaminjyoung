@@ -2,6 +2,7 @@
 date: 2019-12-22
 title: Hallelujah
 subtitle: Trauma, Love, Care, and Deceit
+medium: Oil
 description: Hallelujah is an oil painting inspired by the Leonard Cohen verse, reflecting my relationship with Gertrude — the first person to show me deep, caring love since my fiancée’s death. She helped me begin healing from years of PTSD, only for our bond to unravel into betrayal, mirroring the song’s blend of intimacy, vulnerability, and heartbreak.
 author: Ben Young
 

@@ -1,7 +1,8 @@
 ---
 date: 2022-10-07
 title: Defeat
-subtitle: Ben, The Midwest Tennis Champion
+subtitle: Ben Young, The Midwest Tennis Champion
+medium: Watercolor
 description: Defeat is a deeply personal watercolor by Ben Young, capturing the quiet, sunlit weight of falling short of a lifelong dream—making it to a National Tennis Championships, only to be unable to go when the moment finally came.
 author: Ben Young
 

@@ -2,6 +2,7 @@
 date: 2020-02-27
 title: In The Dark
 subtitle: A Flame That Won’t Burn Out
+medium: Watercolor
 description: A candle’s flame becomes both literal and symbolic in In the Dark, a deeply personal work featuring the artist’s son. Bathed in warm light against a void of shadow, the boy’s focused gaze captures a quiet moment of reflection—but also survival. This piece draws from Robert Frost’s famed poem Fire and Ice, using the candle as a metaphor for the enduring fire within. Young channels a promise through this painting; the flame of love, memory, and creative will shall never again be extinguished and his flame will always be tended to.
 author: Ben Young
 

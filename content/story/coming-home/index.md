@@ -2,6 +2,7 @@
 date: 2014-10-04
 title: Coming Home
 subtitle: Izzy and I, Broken By Loss
+medium: Watercolor
 description: Coming Home captures the space and uneasiness between Izzy and I, as we grow to learn to be close, after the loss of her favorite person.
 author: Ben Young
 

@@ -2,6 +2,7 @@
 date: 2022-05-20
 title: Circus Act
 subtitle: A Clown on Trial, A Menace to Society
+medium: Watercolor
 description: A watercolor painting depicts a surreal courtroom scene where a solemn clown in red and white stripes stands at the witness stand, surrounded by grim-faced onlookers and jurors, creating a powerful contrast between absurdity and gravity.
 author: Ben Young
 
