@@ -1,4 +1,5 @@
 ---
+title: Ben Young | Original Watercolor Paintings & Fine Art Prints
 heading: Ben Young | Original Watercolor Paintings & Fine Art Prints
 description: Explore original watercolor paintings and museum-quality fine art prints by Ben Young. Soft light, winter tones, and timeless landscapes.
 keywords: [ben young, benjamin young, contemporary artist, artwork paintings, impressionism paintings, realism art]
