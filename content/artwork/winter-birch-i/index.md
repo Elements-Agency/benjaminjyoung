@@ -46,7 +46,7 @@ This 7x5-inch original watercolor captures the serene, hushed atmosphere of a mi
 
 <!--more-->
 
-This painting is apart of the [Colors of Winter Collection](/collections/colors-of-winter).
+This painting is apart of the [Colors of Winter Collection](/collections/colors-of-winter/).
 
 ### Pennsylvania Sentinels ###
 

@@ -36,4 +36,4 @@ tags: [water, swirl, splash, broad, neutral, chaotic, storm, cool]
 
 {{< img src="reference.webp" width="200px" height="133px" class="floatright" gallery="progress" alt="Whirlpool Reference Photo" title="Reference Photo" link="reference.jpg" >}}
 
-I wanted to test working with the watercolor paints before moving on to attempt [Dyzee](/artwork/dyzee).
+I wanted to test working with the watercolor paints before moving on to attempt [Dyzee](/artwork/dyzee/).

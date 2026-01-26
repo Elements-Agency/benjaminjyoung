@@ -9,7 +9,7 @@ images:
     - smoa.jpg
 ---
 
-I have been holding off on being too public or opening [my new studio space](/contact). I needed time for myself to withdraw from the youth-filled local art scene and feel more at peace with my own company. I have been holding off on exhibits and being too public with any presence. However, with a supportive and loving partner by my side, I have found enough warmth not to continue to avoid the cold of the world.
+I have been holding off on being too public or opening [my new studio space](/contact/). I needed time for myself to withdraw from the youth-filled local art scene and feel more at peace with my own company. I have been holding off on exhibits and being too public with any presence. However, with a supportive and loving partner by my side, I have found enough warmth not to continue to avoid the cold of the world.
 
 <!--more-->
 
@@ -23,15 +23,15 @@ But how do I react to this toxicity? It hit me with a reminder this past First F
 
 The world doesn’t need any more coldness. This wasn’t the first cruel experience in the local art world for me this year, and it won’t be the last. These mean-spirted occurrences seem to a common as of late. I don’t need to add any more coldness to the world. While I admit these everyday acts hurt, I am only human, I will not entertain them.
 
-This brings me to the true reason I painted “[In The Dark](/artwork/in-the-dark)”, which I now want to revisit and be open about.
+This brings me to the true reason I painted “[In The Dark](/artwork/in-the-dark/)”, which I now want to revisit and be open about.
 
 {{< row-start >}}
     {{< preview col="6" painting="/artwork/in-the-dark/" >}}
 {{< row-end >}}
 
-The women in my [Halleluja](/artwork/hallelujah) painting introduced me to Robert Frost’s poem, Fire and Ice. I have dissent for both the women’s personal views and the conclusion of Frost’s poem. Accepting the world should end in ice is an analogy for watching the world end in hate, cruelty, and coldness. I would rather see the world burn up in desire. Ashes filled with love, kindness, empathy, care, all from desire.
+The women in my [Halleluja](/artwork/hallelujah/) painting introduced me to Robert Frost’s poem, Fire and Ice. I have dissent for both the women’s personal views and the conclusion of Frost’s poem. Accepting the world should end in ice is an analogy for watching the world end in hate, cruelty, and coldness. I would rather see the world burn up in desire. Ashes filled with love, kindness, empathy, care, all from desire.
 
-[In The Dark](/artwork/in-the-dark) was always intended from the concept as a protest against the local art scene’s clique coldness. No matter how cold and dark the world gets around me, I will tend to my little flame and keep it burning. [Most of my work](/featured) is meant to feel cold and melancholic, so I can intentionally contrast those with more powerful and bright paintings. Paintings like [In The Dark](/artwork/in-the-dark), [Okay Now](/artwork/okay-now), or [One Last Walk With Izzy](/artwork/one-last-walk-with-izzy]. My past bad memories will make you savor the good ones. I’m not painting for the people who don’t enjoy my art, or who dislike the idea they have of me. I’m painting for myself and the people my work moves. I will not let my flame burn out.
+[In The Dark](/artwork/in-the-dark/) was always intended from the concept as a protest against the local art scene’s clique coldness. No matter how cold and dark the world gets around me, I will tend to my little flame and keep it burning. [Most of my work](/featured/) is meant to feel cold and melancholic, so I can intentionally contrast those with more powerful and bright paintings. Paintings like [In The Dark](/artwork/in-the-dark/), [Okay Now](/artwork/okay-now/), or [One Last Walk With Izzy](/artwork/one-last-walk-with-izzy/). My past bad memories will make you savor the good ones. I’m not painting for the people who don’t enjoy my art, or who dislike the idea they have of me. I’m painting for myself and the people my work moves. I will not let my flame burn out.
 
 {{< row-start >}}
     {{< preview col="6" painting="/artwork/okay-now/" >}}
@@ -89,10 +89,10 @@ I'm always trying to get better as an artist. One of the things I realize I need
 
 So I have decided to change some titles of existing paintings. They are:
 
-  * [Embrace](/artwork/final-embrace) -> [Final Embrace](/artwork/final-embrace)
-  * [Young Money](/artwork/corporate-contempt) -> [Corporate Contempt](/artwork/corporate-contempt)
-  * [Snowfall](/artwork/dying-in-a-snowfall) -> [Dying in a Snowfall](/artwork/dying-in-a-snowfall)
-  * [Sailing Away Schoon](/artwork/sailing-away) -> [Sailing Away](/artwork/sailing-away)
+  * [Embrace](/artwork/final-embrace/) -> [Final Embrace](/artwork/final-embrace/)
+  * [Young Money](/artwork/corporate-contempt/) -> [Corporate Contempt](/artwork/corporate-contempt/)
+  * [Snowfall](/artwork/dying-in-a-snowfall/) -> [Dying in a Snowfall](/artwork/dying-in-a-snowfall/)
+  * [Sailing Away Schoon](/artwork/sailing-away/) -> [Sailing Away](/artwork/sailing-away/)
 
 Corporate Contempt can also be referred to Pending Trial.
 
@@ -108,7 +108,7 @@ This is a meaningful milestone in my journey as an artist, and I’m incredibly 
 
 ## One Last Walk With Izzy: Quicky Selling Out ##
 
-Over 50 collectors have already added [One Last Walk With Izzy](/artwork/one-last-walk-with-izzy) to their homes — and the response has been truly overwhelming. This emotional piece, honoring the quiet beauty of a final walk with my beloved companion, is nearly sold out in the popular 9x12” size.
+Over 50 collectors have already added [One Last Walk With Izzy](/artwork/one-last-walk-with-izzy/) to their homes — and the response has been truly overwhelming. This emotional piece, honoring the quiet beauty of a final walk with my beloved companion, is nearly sold out in the popular 9x12” size.
 
 {{< row-start >}}
     {{< preview col="6" painting="/artwork/one-last-walk-with-izzy/" >}}

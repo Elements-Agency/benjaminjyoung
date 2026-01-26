@@ -57,7 +57,7 @@ The ultrasound measures a 3cm nodule in the left side of my thyroid, a 2cm nodul
 
 ## Work in Progress: “Together Again” ##
 
-I’m very touched by how popular [One Last Walk With Izzy](/artwork/one-last-walk-with-izzy) has become, with a quickly selling out limited reproduction, and it continues to gain attention. I felt like Izzy deserved to be featured again in another positive moment to reflect on. Here’s my work in progress:
+I’m very touched by how popular [One Last Walk With Izzy](/artwork/one-last-walk-with-izzy/) has become, with a quickly selling out limited reproduction, and it continues to gain attention. I felt like Izzy deserved to be featured again in another positive moment to reflect on. Here’s my work in progress:
 
 {{< img span="image fit" src="wip.jpg" alt="Together Again" title="Work in Progress" >}}
 

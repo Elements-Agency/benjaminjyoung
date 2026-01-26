@@ -58,7 +58,7 @@ story: /story/howards-hills/
 
 {{< cta artwork="Howards Hills" story="/story/howards-hills/" >}}
 
-This painting is apart of the [Shades of Olson Collection](/collections/shades-of-olson).
+This painting is apart of the [Shades of Olson Collection](/collections/shades-of-olson/).
 
 This watercolor painting captures a quiet, nostalgic rural scene, featuring an aged white farmhouse nestled among rolling golden fields and bare trees. The soft, muted tones of the landscape evoke a sense of late autumn or early winter. A lone figure, dressed in dark trousers, a loose-fitting coat, and a black hat, walks along a winding dirt path toward the house, adding a contemplative and perhaps melancholic element to the composition. The hills in the background and the sky, painted in subtle grays and browns, create a tranquil yet slightly somber atmosphere. The detailed brushwork on the trees and the texture of the farmhouse give the painting a timeless quality, reminiscent of traditional Americana and rural solitude.
 

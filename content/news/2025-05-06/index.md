@@ -24,7 +24,7 @@ Now until **May 10th**, any limited reproduction orders will be freely upgraded 
 
 ## New Show Piece Completed ##
 
-I set out to specifically paint something dramatic and eye catching in watercolor. That painting is **[In The Dark](/artwork/in-the-dark)**.
+I set out to specifically paint something dramatic and eye catching in watercolor. That painting is **[In The Dark](/artwork/in-the-dark/)**.
 
 {{< row-start >}}
     {{< preview col="6" painting="/artwork/in-the-dark/" >}}
@@ -35,7 +35,7 @@ I set out to specifically paint something dramatic and eye catching in watercolo
 
 ## I'm headed to the Springfield Museum of Art ##
 
-**[Avalanche Lilies](/artwork/avalanche-lilies)** has been accepted in to the 2025 Ohio Watercolor Society exhibit, at Springfield Museum of Art. That shoe is starting on September 20th. I am honored to have been chosen to have my work displayed in this exhibit and this is a big deal for me. If you're in South West or Central Ohio, be sure to check the exhibit out!
+**[Avalanche Lilies](/artwork/avalanche-lilies/)** has been accepted in to the 2025 Ohio Watercolor Society exhibit, at Springfield Museum of Art. That shoe is starting on September 20th. I am honored to have been chosen to have my work displayed in this exhibit and this is a big deal for me. If you're in South West or Central Ohio, be sure to check the exhibit out!
 
 {{< row-start >}}
     {{< preview col="6" painting="/artwork/avalanche-lilies/" >}}
@@ -46,7 +46,7 @@ I set out to specifically paint something dramatic and eye catching in watercolo
 
 ## Young Money at Summit Artspace ##
 
-**[Young Money](/artwork/corporate-contempt)** is also currently being featured at the 2025 Artists of Rubber City Exhibit, at Summit Artspace. You can check out this exhibit until June 14th.
+**[Young Money](/artwork/corporate-contempt/)** is also currently being featured at the 2025 Artists of Rubber City Exhibit, at Summit Artspace. You can check out this exhibit until June 14th.
 
 {{< row-start >}}
     {{< preview col="6" painting="/artwork/corporate-contempt/" >}}

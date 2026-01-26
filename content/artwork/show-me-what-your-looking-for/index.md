@@ -38,10 +38,10 @@ As I sit hidden away in the lounge corner of a dance club, I scan the room as I 
 
 That was the night I met AJ. This is when the most defining story of my life would begin. A night that would last forever in my mind.
 
-This is the final painting of **[The Dark Trio Series](/collections/the-dark-trie)** and is the first painting in to the **[The Hart's Desire Series](/collections/the-harts-desire)**.
+This is the final painting of **[The Dark Trio Series](/collections/the-dark-trio/)** and is the first painting in to the **[The Hart's Desire Series](/collections/the-harts-desire/)**.
 
 {{< cta >}}
 
 ### Inspiration ###
 
-This moment was a snapshot in to the time AJ and I first met eyes on one-another. The following paintings in **[The Hart's Desire Series](/collections/the-harts-desire)** will begin to tell the story and develop the importance of who this woman was.
+This moment was a snapshot in to the time AJ and I first met eyes on one-another. The following paintings in **[The Hart's Desire Series](/collections/the-harts-desire/)** will begin to tell the story and develop the importance of who this woman was.

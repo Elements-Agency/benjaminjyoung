@@ -21,16 +21,16 @@ I have decided to change up how I do my newsletters, starting as of now. Instead
     {{< preview col="6" painting="/artwork/final-embrace/" >}}
 {{< row-end >}}
 
-I completed one watercolor ([Avalanche Lilies](/artwork/avalanche-lilies)) and one oil ([Embrace](/artwork/final-embrace)) paintings, both correlated with each other in someway. In the next quarter, I hope to paint the other side of Embrace, and will continue on with some of my narratives. As I slowly build out my own story in artwork, you'll start to see subjects interconnecting.
+I completed one watercolor ([Avalanche Lilies](/artwork/avalanche-lilies/)) and one oil ([Embrace](/artwork/final-embrace/)) paintings, both correlated with each other in someway. In the next quarter, I hope to paint the other side of Embrace, and will continue on with some of my narratives. As I slowly build out my own story in artwork, you'll start to see subjects interconnecting.
 
 ## So what have I been up to?... ##
 
 That's a good question. Quite a lot, and more coming soon:
 
-  * Starting January 10th, you can see [One Last Walk With Izzy](/artwork/one-last-walk-with-izzy) featured at [Summit Art's FRESH Exhibit](https://www.facebook.com/events/1760040301514562).
+  * Starting January 10th, you can see [One Last Walk With Izzy](/artwork/one-last-walk-with-izzy/) featured at [Summit Art's FRESH Exhibit](https://www.facebook.com/events/1760040301514562).
   * Several artworks of mine were featured in Patina Art Center's Resident Artist Showcase.
-  * The [1st Annual ActLoCLE Juried Art Exhibition](https://www.actlocle.org/firstexhibition/) has wrapped up, with featured [Howard's Hills](/artwork/howards-hills).
-  * The [Paul Brown Town Exhibit](https://paulbrownmuseum.org) wrapped up, which featured both [Massillon #52](/artwork/massillon-52) and [Massillon Helmet](/artwork/massillon-helmet).
+  * The [1st Annual ActLoCLE Juried Art Exhibition](https://www.actlocle.org/firstexhibition/) has wrapped up, with featured [Howard's Hills](/artwork/howards-hills/).
+  * The [Paul Brown Town Exhibit](https://paulbrownmuseum.org) wrapped up, which featured both [Massillon #52](/artwork/massillon-52/) and [Massillon Helmet](/artwork/massillon-helmet/).
   * The original for [The Artist's Assistant](/artwork/the-artists-assistant/) has been sold.
   * I have four possible other exhibits coming up in the next few months.
 

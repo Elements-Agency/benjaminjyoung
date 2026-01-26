@@ -32,7 +32,7 @@ Final Embrace is the most vulnerable painting I’ve ever created. It’s born f
 
 Years ago, I attempted to take my own life. As the darkness began to close in from a suicidal overdose, I dreamed of AJ, my late fiancée. In that dream, she found me. She pulled me into her arms with a tenderness that felt real enough to dissolve every ounce of pain I had been carrying. It was not a goodbye. It was an understanding. From the six long years of suffering I had put myself through, missing her.
 
-This painting is directly connected to my watercolor [Dying in a Snowfall](/story/dying-in-a-snowfall), a piece that explores that same moment of slipping away — only here, the focus is not on the cold surrender of death, but on the warmth and bittersweet peace of her embrace.
+This painting is directly connected to my watercolor [Dying in a Snowfall](/story/dying-in-a-snowfall/), a piece that explores that same moment of slipping away — only here, the focus is not on the cold surrender of death, but on the warmth and bittersweet peace of her embrace.
 
 Before I ever picked up a brush, I wrote a short story about that dream. Years later, when I painted Final Embrace, I realized the story had been waiting for this canvas all along:
 

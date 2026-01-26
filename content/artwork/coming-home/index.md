@@ -56,4 +56,4 @@ This watercolor painting captures a quiet, emotional moment in a wide field of s
 
 {{< cta artwork="Coming Home" story="/story/coming-home/" >}}
 
-This painting is apart of the [Shades of Olson Collection](/collections/shades-of-olson).
+This painting is apart of the [Shades of Olson Collection](/collections/shades-of-olson/).

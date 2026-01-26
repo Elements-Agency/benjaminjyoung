@@ -46,7 +46,7 @@ The **Massillon 52** is a vibrant watercolor painting, showcasing two Massillon 
 
 {{< img src="reference.webp" width="200px" height="197px" class="floatright" gallery="progress" alt="Massillon 52 Reference Photo" title="Joe Hallet with the Massillon Football Game" link="reference.jpg" >}}
 
-After the deadline was extended for the [Massillon Museum](http://massillonmuseum.org/)'s "[Brown Town Exhibit](https://paulbrownmuseum.org/home/special-exhibits/)", I figured I had enough time to finish this second painting, after already completing [the Massillon Helmet Oil Painting](/artwork/massillon-helmet) prior. It was a rush against the clock, but I made the deadline.
+After the deadline was extended for the [Massillon Museum](http://massillonmuseum.org/)'s "[Brown Town Exhibit](https://paulbrownmuseum.org/home/special-exhibits/)", I figured I had enough time to finish this second painting, after already completing [the Massillon Helmet Oil Painting](/artwork/massillon-helmet/) prior. It was a rush against the clock, but I made the deadline.
 
 The composition of the piece was selected because it's one of my "little" cousin's favorite [Massillon Football](https://massillontigers.com) pictures while he played on varsity. I'm not much of a football fan myself, but it was a nice reference photo to paint from.
 

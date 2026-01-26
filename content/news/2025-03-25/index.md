@@ -23,11 +23,11 @@ My most recent paintings have taken us in to more recent years of my life, durin
     {{< preview col="4" painting="/artwork/final-embrace/" >}}
 {{< row-end >}}
 
-The **One Last December** [collection](/collections/one-last-december) currently includes three paintings; [Hallelujah](/artwork/hallelujah), [Snowfall](/artwork/dying-in-a-snowfall), and [Embrace](/artwork/final-embrace). The latter two both happening the same night, of [February 26th](/collections/feb-26), 2020, with Hallelujah being the moment to delay and disrupt these events.
+The **One Last December** [collection](/collections/one-last-december/) currently includes three paintings; [Hallelujah](/artwork/hallelujah/), [Snowfall](/artwork/dying-in-a-snowfall/), and [Embrace](/artwork/final-embrace/). The latter two both happening the same night, of [February 26th](/collections/feb-26/), 2020, with Hallelujah being the moment to delay and disrupt these events.
 
 ## What's Next? ##
 
-[Hallelujah](/artwork/hallelujah) was the first of a trio of oil paintings I had planned, called [The Dark Trio](/collections/the-dark-trio). From here, it's time to finish the next two. All three are titled after song tiles. The second being "Unfaithful", and the third/final being "Show Me What You Are Looking For". The final piece of this trio is also the beginning to **The Hart's Desire** collection that will take you back to 2011 to finally begin that all important story.
+[Hallelujah](/artwork/hallelujah/) was the first of a trio of oil paintings I had planned, called [The Dark Trio](/collections/the-dark-trio/). From here, it's time to finish the next two. All three are titled after song tiles. The second being "Unfaithful", and the third/final being "Show Me What You Are Looking For". The final piece of this trio is also the beginning to **The Hart's Desire** collection that will take you back to 2011 to finally begin that all important story.
 
 Not everything I paint fits in to this timeline, but my more important pieces do. I have began documenting this timeline out, even with the unfinished but planned paintings. As more pieces are completed, I will add further and further context.
 
@@ -37,7 +37,7 @@ I will also have a few upcoming paintings I'm working on that will be scattered 
 
 ## Escape Series Also Completed ##
 
-While I started my [Escape](/artwork/escape) and it's other iterations last year, it wasn't until this year I put the final touches on the conclusion piece.
+While I started my [Escape](/artwork/escape/) and it's other iterations last year, it wasn't until this year I put the final touches on the conclusion piece.
 
 {{< row-start >}}
     {{< preview col="3" painting="/artwork/escape/" >}}
@@ -52,8 +52,8 @@ This narrative series was done to help me practice and learn different watercolo
 
 First off, I have two Honorable Mentions I received in juried exhibits:
 
-  * [Avalanche Lilies](/artwork/avalanche-lilies) received an **honorable mention award** at the [3rd Annual Flora Exhibit](https://www.whiterabbitgalleries.org/event-details/flora-3rd-annual-juried-exhibition-2025-01-17-16-00).
-  * [Hallelujah](/artwork/hallelujah) received an **honorable mention award** at the [2025 Door 2 Art Show](https://www.door2art.com/artshow).
+  * [Avalanche Lilies](/artwork/avalanche-lilies/) received an **honorable mention award** at the [3rd Annual Flora Exhibit](https://www.whiterabbitgalleries.org/event-details/flora-3rd-annual-juried-exhibition-2025-01-17-16-00).
+  * [Hallelujah](/artwork/hallelujah/) received an **honorable mention award** at the [2025 Door 2 Art Show](https://www.door2art.com/artshow).
 
 {{< row-start >}}
     {{< img col="3" span="image fit" src="flora.jpg" alt="Ben with Avalanche Lilies" title="Ben with Avalanche Lilies" >}}
@@ -84,7 +84,7 @@ There's been a handful of other paintings I have completed, checkout the others 
     {{< preview col="3" painting="/artwork/creepy-ladybug/" >}}
 {{< row-end >}}
 
-These paintings include; [Avalanche Lilies](/artwork/avalanche-lilies), [Defeat](/artwork/defeat), [Young Money](/artwork/corporate-contempt), and [Creepy Ladybug](/artwork/creepy-ladybug).
+These paintings include; [Avalanche Lilies](/artwork/avalanche-lilies/), [Defeat](/artwork/defeat/), [Young Money](/artwork/corporate-contempt/), and [Creepy Ladybug](/artwork/creepy-ladybug/).
 
 {{< button class="fit" href="/featured/" text="View All Artwork" >}}
 

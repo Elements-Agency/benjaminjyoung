@@ -10,4 +10,4 @@ outputs: ['html']
 
 Below is the entire catalog of landscape artworks by artist Ben Young. Click any of the icons to view and read more.
 
-Filter by: [All](/all), [Narratives](/all/narratives), [Landscapes](/all/landscapes)
+Filter by: [All](/all/), [Narratives](/all/narratives/), [Landscapes](/all/landscapes/)

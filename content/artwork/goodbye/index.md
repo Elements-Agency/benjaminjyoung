@@ -32,7 +32,7 @@ locations: [home]
 tags: [aj, ben, pain, loss, trauma, death, number two]
 ---
 
-This is the final painting in to the **[The Hart's Desire Series](/collections/the-harts-desire)**. This entry concludes the narrative of this story.
+This is the final painting in to the **[The Hart's Desire Series](/collections/the-harts-desire/)**. This entry concludes the narrative of this story.
 
 <!--more-->
 

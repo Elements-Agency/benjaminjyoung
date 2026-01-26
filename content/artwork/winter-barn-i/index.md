@@ -50,7 +50,7 @@ The simplicity of the composition draws you in gently—bare trees in the distan
 
 Painted by hand in watercolor, this 5×7 inch original is a one-of-a-kind piece that celebrates the beauty of ordinary rural places and the peacefulness of winter. It’s the kind of artwork that feels at home anywhere—on a small wall, a shelf, or a desk—bringing with it a soft reminder of stillness, space, and simple moments worth noticing.
 
-This painting is apart of the [Colors of Winter Collection](/collections/colors-of-winter).
+This painting is apart of the [Colors of Winter Collection](/collections/colors-of-winter/).
 
 ### The Roots of Home ###
 

@@ -51,4 +51,4 @@ This watercolor painting, titled "**Silent Reflections**," captures a serene and
 
 ### Inspiration ###
 
-I wanted to go back to my simplistic roots and building up the shadows, when I did [Escape](/artwork/escape). So this was my creative idea to paint this scene, but just this time lacking any cold weather and replacing it with a morning mist set across a lake. I wanted to ensure I set the mood to a calm and tranquil effect, so this could be something to enjoy peacefully in one's home. Perhaps someone who enjoys the hobby of fishing?
+I wanted to go back to my simplistic roots and building up the shadows, when I did [Escape](/artwork/escape/). So this was my creative idea to paint this scene, but just this time lacking any cold weather and replacing it with a morning mist set across a lake. I wanted to ensure I set the mood to a calm and tranquil effect, so this could be something to enjoy peacefully in one's home. Perhaps someone who enjoys the hobby of fishing?

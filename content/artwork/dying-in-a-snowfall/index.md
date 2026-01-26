@@ -51,7 +51,7 @@ story: /story/dying-in-a-snowfall/
 
 {{< cta artwork="Snowfall" story="/story/dying-in-a-snowfall/" >}}
 
-This painting is apart of the [Feb 26th Collection](/collections/feb-26)
+This painting is apart of the [Feb 26th Collection](/collections/feb-26/)
 
 This watercolor painting depicts a lone figure sitting against a tree in a dark, snow-covered forest. The person is dressed in a hooded cloak, their face partially hidden in shadow, exuding a sense of solitude and introspection. The surrounding trees are bare and stand tall, their dark trunks contrasting starkly with the white snow that blankets the ground. The background fades into deep darkness, enhancing the painting’s moody and melancholic atmosphere. The subtle blending of colors and the soft texture of the watercolor medium add depth to the scene, evoking a quiet, contemplative moment in the cold wilderness.
 

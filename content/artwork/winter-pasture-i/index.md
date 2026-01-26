@@ -46,5 +46,5 @@ This painting is an intimate study of solitude and winter light. The small 7x5 s
 
 <!--more-->
 
-This painting is apart of the [Colors of Winter Collection](/collections/colors-of-winter).
+This painting is apart of the [Colors of Winter Collection](/collections/colors-of-winter/).
 

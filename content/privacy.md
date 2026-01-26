@@ -48,8 +48,8 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 ### Contact Us ###
 
-If you have any questions about this Privacy Policy, please [contact us](/contact).
+If you have any questions about this Privacy Policy, please [contact us](/contact/).
 
 This Privacy Policy is effective as of March 25th, 2024 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
 
-[<< Back](/shop)
+[<< Back](/shop/)
