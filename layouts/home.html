@@ -89,7 +89,7 @@
 			<div id="wrapper" class="divided">
 
 				<!-- One -->
-					<section class="banner style1 orient-left content-align-left image-position-center fullscreen">
+					<section class="banner style1 orient-left content-align-left image-position-center fullscreen" role="banner">
 						<div class="content">
 							<header id="header">
 								<div class="inner">
@@ -100,7 +100,7 @@
 									</nav>
 
 									<!-- Menu -->
-									<nav id="menu" class="left">
+									<nav id="menu" class="left" role="navigation">
 										<h2>Menu</h2>
 										<ul>
 											{{ range .Site.Menus.main }}
@@ -123,7 +123,7 @@
 								</div>
 							</header>
 
-							<div class="logo align-center">
+							<div class="logo align-center" aria-label="Ben Young Artist Logo">
 								<a href="/" aria-label="Home Page">
 									<img src="/images/logo.webp" title="Ben Young - Artist" alt="Ben Young's Artist Signature Logo">
 								</a>
@@ -135,7 +135,7 @@
 								<li><a href="#gallery" class="button big wide smooth-scroll">See Ben Young's Art</a></li>
 							</ul>
 						</div>
-						<div class="image">
+						<div class="image role="img" aria-label="Profile of Ben Young">
 							<video width="320" height="240" autoplay muted playsinline>
 								<source src="images/banner.mp4" type="video/mp4">
 								<img src="images/banner-sm.webp" fetchpriority="high" srcset="images/banner-sm.webp 500w, images/banner.webp 1000w, images/banner-lg.webp 1500w" alt="Profile of Ben Young" title="Ben Young, the Artist" width="700px" height="700px" />
@@ -143,8 +143,8 @@
 						</div>
 					</section>
 
-					<section class="wrapper style1 align-center">
-                        <div id="gallery" class="inner">
+					<section class="wrapper style1 align-center" role="region">
+                        <div id="gallery" class="inner" role="banner">
 							{{ $homeCount := 0 }}
 							{{ $originalsCount := 0 }}
 							{{ $reproductionsCount := 0 }}
@@ -235,7 +235,7 @@
 				<!-- Three -->
 				{{ $newsSection := where .Site.RegularPages "Section" "news" }}
 				{{ with index (sort $newsSection "Date" "desc") 0 }}
-					<section class="spotlight style1 orient-left content-align-right image-position-center onscroll-image-fade-in">
+					<section class="spotlight style1 orient-left content-align-right image-position-center onscroll-image-fade-in" role="region">
 						<div class="content">
 							<h2><a href="/news/">Latest Artist News</a></h2>
 								<p>
@@ -265,7 +265,7 @@
     			{{ end }}
 
 				<!-- Four -->
-					<section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in">
+					<section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in" role="region">
 						<div class="content">
 							<h2>Newsletter Subscription</h2>
 							<p>
@@ -308,7 +308,7 @@
 					</section>
 
 				<!-- Five -->
-					<section class="wrapper style1 align-center">
+					<section class="wrapper style1 align-center" role="region">
 						<div class="inner">
 							<h2>Purchase Ben Young's Artwork</h2>
 							<p>
@@ -359,7 +359,7 @@
 					</section>
 
 				<!-- Six -->
-					<section id="latest" class="wrapper style1 align-center">
+					<section id="latest" class="wrapper style1 align-center" role="region">
                         <div class="inner">
                             <h2>Latest Artwork Creations</h2>
                         </div>
@@ -411,7 +411,7 @@
 					</section>
 
 				<!-- Seven -->
-					<section class="wrapper style1 align-center">
+					<section class="wrapper style1 align-center" role="region">
 						<div class="inner">
 							<h2>Get In Touch</h2>
 							<p>
@@ -458,7 +458,7 @@
 					</section>
 
 				<!-- Footer -->
-					<footer class="wrapper style1 align-center">
+					<footer class="wrapper style1 align-center" role="contentinfo">
 						<div class="inner">
                             <strong>Quick Links:</strong>
                             <ul style="list-style:none; display:inline-block;">
