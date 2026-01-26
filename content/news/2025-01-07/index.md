@@ -21,7 +21,7 @@ I have decided to change up how I do my newsletters, starting as of now. Instead
     {{< preview col="6" painting="/artwork/final-embrace/" >}}
 {{< row-end >}}
 
-I completed one watercolor ([Avalanche Lilies](/artwork/avalanche-lilies)) and one oil ([Embrace](/artwork/embrace)) paintings, both correlated with each other in someway. In the next quarter, I hope to paint the other side of Embrace, and will continue on with some of my narratives. As I slowly build out my own story in artwork, you'll start to see subjects interconnecting.
+I completed one watercolor ([Avalanche Lilies](/artwork/avalanche-lilies)) and one oil ([Embrace](/artwork/final-embrace)) paintings, both correlated with each other in someway. In the next quarter, I hope to paint the other side of Embrace, and will continue on with some of my narratives. As I slowly build out my own story in artwork, you'll start to see subjects interconnecting.
 
 ## So what have I been up to?... ##
 

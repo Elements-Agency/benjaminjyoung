@@ -46,7 +46,7 @@ I set out to specifically paint something dramatic and eye catching in watercolo
 
 ## Young Money at Summit Artspace ##
 
-**[Young Money](/artwork/young-money)** is also currently being featured at the 2025 Artists of Rubber City Exhibit, at Summit Artspace. You can check out this exhibit until June 14th.
+**[Young Money](/artwork/corporate-contempt)** is also currently being featured at the 2025 Artists of Rubber City Exhibit, at Summit Artspace. You can check out this exhibit until June 14th.
 
 {{< row-start >}}
     {{< preview col="6" painting="/artwork/corporate-contempt/" >}}

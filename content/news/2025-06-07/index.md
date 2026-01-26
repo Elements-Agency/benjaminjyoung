@@ -63,7 +63,7 @@ Use code **'SPRINGCLEANING'** at checkout to received 50% off these originals.
 
 ## Going Viral ##
 
-My newsletter followers jumped a lot this past month. Why? Besides my constant advertising to grow my followers, I decided to try Reddit. I was a little bit shocked when I became the 2nd most upvoted all-time posts in two subreddits. That was [Okay Now](/artwork/okay-now) in [r/PortraitArt](https://www.reddit.com/r/Portraitart/top/?t=all), [Embrace](/artwork/embrace) in [r/Painting](https://www.reddit.com/r/painting/top/?t=all), and then again with [In The Dark](/artwork/in-the-dark) in [r/PortraitArt](https://www.reddit.com/r/Portraitart/top/?t=all). For those of you joining me, here are those pieces:
+My newsletter followers jumped a lot this past month. Why? Besides my constant advertising to grow my followers, I decided to try Reddit. I was a little bit shocked when I became the 2nd most upvoted all-time posts in two subreddits. That was [Okay Now](/artwork/okay-now) in [r/PortraitArt](https://www.reddit.com/r/Portraitart/top/?t=all), [Embrace](/artwork/final-embrace) in [r/Painting](https://www.reddit.com/r/painting/top/?t=all), and then again with [In The Dark](/artwork/in-the-dark) in [r/PortraitArt](https://www.reddit.com/r/Portraitart/top/?t=all). For those of you joining me, here are those pieces:
 
 {{< row-start >}}
     {{< preview col="4" painting="/artwork/okay-now/" >}}

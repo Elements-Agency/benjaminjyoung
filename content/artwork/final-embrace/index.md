@@ -61,7 +61,7 @@ story: /story/final-embrace/
 
 This painting is apart of the [Feb 26th Collection](/collections/feb-26)
 
-This oil painting captures an intimate embrace between [my late fiancee](/tags/number/two) and [myself](/tags/ben), rendered in a dramatic and moody style. We are both dressed in dark clothing, our bodies entwined as we hold each other closely. Our faces are partially obscured by shadows, emphasizing the emotional depth of our connection rather than individual expressions. The background is a deep, textured black, enhancing the contrast and drawing attention to the warm highlights on their skin and hair. My face is intentionally hidden in plans for overlapping the planned [Snowfall Painting](/artwork/snowfall) that was occurring at the exact same moment.
+This oil painting captures an intimate embrace between [my late fiancee](/tags/number/two) and [myself](/tags/ben), rendered in a dramatic and moody style. We are both dressed in dark clothing, our bodies entwined as we hold each other closely. Our faces are partially obscured by shadows, emphasizing the emotional depth of our connection rather than individual expressions. The background is a deep, textured black, enhancing the contrast and drawing attention to the warm highlights on their skin and hair. My face is intentionally hidden in plans for overlapping the planned [Snowfall Painting](/artwork/dying-in-a-snowfall) that was occurring at the exact same moment.
 
 _Title was changed from "Embrace" to "Final Embrace" on July 10th, 2025._
 

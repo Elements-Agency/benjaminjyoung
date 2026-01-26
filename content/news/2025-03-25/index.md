@@ -23,7 +23,7 @@ My most recent paintings have taken us in to more recent years of my life, durin
     {{< preview col="4" painting="/artwork/final-embrace/" >}}
 {{< row-end >}}
 
-The **One Last December** [collection](/collections/one-last-december) currently includes three paintings; [Hallelujah](/artwork/hallelujah), [Snowfall](/artwork/snowfall), and [Embrace](/artwork/embrace). The latter two both happening the same night, of [February 26th](/collections/feb-26), 2020, with Hallelujah being the moment to delay and disrupt these events.
+The **One Last December** [collection](/collections/one-last-december) currently includes three paintings; [Hallelujah](/artwork/hallelujah), [Snowfall](/artwork/dying-in-a-snowfall), and [Embrace](/artwork/final-embrace). The latter two both happening the same night, of [February 26th](/collections/feb-26), 2020, with Hallelujah being the moment to delay and disrupt these events.
 
 ## What's Next? ##
 
@@ -84,7 +84,7 @@ There's been a handful of other paintings I have completed, checkout the others 
     {{< preview col="3" painting="/artwork/creepy-ladybug/" >}}
 {{< row-end >}}
 
-These paintings include; [Avalanche Lilies](/artwork/avalanche-lilies), [Defeat](/artwork/defeat), [Young Money](/artwork/young-money), and [Creepy Ladybug](/artwork/creepy-ladybug).
+These paintings include; [Avalanche Lilies](/artwork/avalanche-lilies), [Defeat](/artwork/defeat), [Young Money](/artwork/corporate-contempt), and [Creepy Ladybug](/artwork/creepy-ladybug).
 
 {{< button class="fit" href="/featured/" text="View All Artwork" >}}
 
