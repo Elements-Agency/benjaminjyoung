@@ -69,7 +69,7 @@
 
     {{ if .Params.canonicalUrl }}
       <link rel="canonical" href="{{ .Params.canonicalUrl }}">
-    {{ else }}
+    {{ else if not (in .Permalink "/shop") }}
       <link rel="canonical" href="{{ .Permalink }}">
     {{ end }}
 
