@@ -4,6 +4,7 @@ description: Explore original watercolor paintings and museum-quality fine art p
 keywords: [ben young, benjamin young, contemporary artist, artwork paintings, impressionism paintings, realism art]
 
 aliases: [/gallery]
+images: [ben.jpg]
 ---
 
 # Ben Young - Watercolor Painter & Fine Art Artist #

@@ -5,6 +5,7 @@ medium: Watercolor
 subtitle: A Portrait of Farewell, Dignity, and the Weight of Time
 description: A quiet and powerful portrait, Okay Now reflects on aging, memory, and the tender farewells that come with the passage of time. Inspired by Ben Young’s experience working in a nursing home, the painting honors the emotional bonds he formed with residents and the quiet dignity of saying goodbye. With expressive realism and deep sensitivity, this piece invites the viewer to pause, reflect, and connect with the universal experience of letting go.
 author: Ben Young
+images: ['painting.jpg']
 
 buy: While the original watercolor painting 'Okay Now' has been sold, limited edition limited reproductions are still available in various sizes. This emotionally resonant piece continues to connect with collectors, and these high-quality prints offer a meaningful way to bring its story into your own space.
 

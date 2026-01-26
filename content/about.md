@@ -4,6 +4,7 @@ title: Ben Young — Watercolor Painter
 heading: Ben Young — Watercolor Painter
 description: Ben Young is a painter working in watercolor and oil, creating emotionally driven narrative paintings based on personal experience and feeling. His work explores memory and mood, using paint as a means of reflection and quiet storytelling.
 outputs: ['html']
+images: [ben.jpg]
 ---
 
 {{< img span="image right" class="rounded" src="/images/ben2.jpg" alt="Photo of Ben Young" title="Ben Young - Artist" >}}

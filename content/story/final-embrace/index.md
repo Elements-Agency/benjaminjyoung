@@ -5,6 +5,7 @@ subtitle: A Dream of Love, Loss, and One Last Goodbye
 medium: Oil
 description: Final Embrace is an oil painting inspired by a dream I had while slipping into darkness, where my late fiancée, AJ, held me in a loving, forgiving embrace. Connected to my watercolor Dying in a Snowfall, it captures not the cold surrender of death, but the warmth of a love so deep it reaches beyond it.
 author: Ben Young
+images: ['painting.jpg']
 
 buy: Final Embrace is available for acquisition as the original oil painting or as a high-quality limited reproduction. Collectors may choose between owning the one-of-a-kind original or a museum-grade print that preserves the emotional depth and detail of the work. Both options offer a meaningful way to bring this powerful and personal piece into your collection.
 

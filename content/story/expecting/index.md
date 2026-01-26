@@ -5,4 +5,5 @@ subtitle:
 medium: Watercolor
 description: The previously suppressed memory of when I found out AJ was expecting, showing the stark difference of excitement for my future daughter.
 author: Ben Young
+images: ['painting.jpg']
 ---

@@ -5,6 +5,7 @@ subtitle: Trauma, Love, Care, and Deceit
 medium: Oil
 description: Hallelujah is an oil painting inspired by the Leonard Cohen verse, reflecting my relationship with Gertrude — the first person to show me deep, caring love since my fiancée’s death. She helped me begin healing from years of PTSD, only for our bond to unravel into betrayal, mirroring the song’s blend of intimacy, vulnerability, and heartbreak.
 author: Ben Young
+images: ['painting.jpg']
 
 buy: Hallelujah is available for acquisition as the original oil painting or as a high-quality limited reproduction. Collectors may choose between owning the one-of-a-kind original or a museum-grade print that preserves the emotional depth and detail of the work. Both options offer a meaningful way to bring this powerful and personal piece into your collection.
 

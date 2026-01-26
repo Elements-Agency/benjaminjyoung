@@ -5,4 +5,5 @@ subtitle:
 medium: Watercolor
 description: A nervous moment of buying an engagement ring.
 author: Ben Young
+images: ['painting.jpg']
 ---

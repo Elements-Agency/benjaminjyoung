@@ -5,6 +5,7 @@ subtitle: A Clown on Trial, A Menace to Society
 medium: Watercolor
 description: A watercolor painting depicts a surreal courtroom scene where a solemn clown in red and white stripes stands at the witness stand, surrounded by grim-faced onlookers and jurors, creating a powerful contrast between absurdity and gravity.
 author: Ben Young
+images: ['painting.jpg']
 
 buy: Circus Act is available for acquisition as the original watercolor painting or as a high-quality limited reproduction. Collectors may choose between owning the one-of-a-kind original or a museum-grade print that preserves the emotional depth and detail of the work. Both options offer a meaningful way to bring this powerful and personal piece into your collection.
 

@@ -5,6 +5,7 @@ subtitle: The Stillness Before the Exit
 medium: Watercolor
 description: In Corporate Contempt, Ben Young invites the viewer into a moment of profound stillness and internal questioning. A lone figure stands motionless in a modern office, his back to us, bathed in muted light filtering through towering glass windows. The setting is familiar—an executive suite high above a city—but the emotional undercurrent is anything but routine.
 author: Ben Young
+images: ['painting.jpg']
 
 buy: Corporate Contempt is available for acquisition as the original watercolor painting or as a high-quality limited reproduction. Collectors may choose between owning the one-of-a-kind original or a museum-grade print that preserves the emotional depth and detail of the work. Both options offer a meaningful way to bring this powerful and personal piece into your collection.
 

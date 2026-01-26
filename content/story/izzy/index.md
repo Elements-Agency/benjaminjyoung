@@ -5,4 +5,5 @@ subtitle:
 medium: Watercolor
 description: AJ and I adopt a Border Collie dog, with clear signs of previous abuse.
 author: Ben Young
+images: ['painting.jpg']
 ---

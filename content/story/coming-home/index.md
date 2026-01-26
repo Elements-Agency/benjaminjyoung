@@ -5,6 +5,7 @@ subtitle: Izzy and I, Broken By Loss
 medium: Watercolor
 description: Coming Home captures the space and uneasiness between Izzy and I, as we grow to learn to be close, after the loss of her favorite person.
 author: Ben Young
+images: ['painting.jpg']
 
 buy: Coming Home is available for acquisition as the original watercolor painting or as a high-quality limited reproduction. Collectors may choose between owning the one-of-a-kind original or a museum-grade print that preserves the emotional depth and detail of the work. Both options offer a meaningful way to bring this powerful and personal piece into your collection.
 

@@ -5,6 +5,7 @@ subtitle: A Portrait of Grief, Loyalty, and Unseen Witnesses
 medium: Watercolor
 description: At first glance, The Artist’s Assistant appears playful—a cat wearing a watercolor cup like a crown, watching quietly in a sunlit studio. But beneath the charm lies a story of profound loss and quiet companionship. Painted after the tragic loss of his fiancée and daughter in a car accident, this piece features the artist’s cat, Princess, faithfully watching him paint through grief. The childlike drawing in the foreground reflects a lost family, a surviving son, and Izzy the dog—Princess’s late companion. Tender, layered, and deeply personal, this work is a meditation on memory, resilience, and the silent witnesses who help carry us through.
 author: Ben Young
+images: ['painting.jpg']
 
 buy: While the original watercolor painting 'The Artist's Assistant' has been sold, limited edition limited reproductions are still available in various sizes. This emotionally resonant piece continues to connect with collectors, and these high-quality prints offer a meaningful way to bring its story into your own space.
 
