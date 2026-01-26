@@ -46,23 +46,23 @@ timeout = '600'
     weight = 10
 [[menus.main]]
     name = 'About'
-    pageRef = '/about'
+    pageRef = '/about/'
     weight = 20
 [[menus.main]]
     name = 'Artwork'
-    pageRef = '/featured'
+    pageRef = '/featured/'
     weight = 30
 [[menus.main]]
     name = 'Shop'
-    pageRef = '/shop'
+    pageRef = '/shop/'
     weight = 40
 [[menus.main]]
     name = 'News'
-    pageRef = '/news'
+    pageRef = '/news/'
     weight = 50
 [[menus.main]]
     name = 'Contact'
-    pageRef = '/contact'
+    pageRef = '/contact/'
     weight = 60
 
 [[menus.inside]]
@@ -71,23 +71,23 @@ timeout = '600'
     weight = 10
 [[menus.inside]]
     name = 'About'
-    pageRef = '/about'
+    pageRef = '/about/'
     weight = 30
 [[menus.inside]]
     name = 'Artwork'
-    pageRef = '/featured'
+    pageRef = '/featured/'
     weight = 40
 [[menus.inside]]
     name = 'Shop'
-    pageRef = '/Shop'
+    pageRef = '/shop/'
     weight = 50
 [[menus.inside]]
     name = 'News'
-    pageRef = '/news'
+    pageRef = '/news/'
     weight = 60
 [[menus.inside]]
     name = 'Contact'
-    pageRef = '/contact'
+    pageRef = '/contact/'
     weight = 80
 
 [[menus.small]]
@@ -96,11 +96,11 @@ timeout = '600'
     weight = 10
 [[menus.small]]
     name = 'About'
-    pageRef = '/about'
+    pageRef = '/about/'
     weight = 20
 [[menus.small]]
     name = 'Newsletter'
-    pageRef = '/sign-up'
+    pageRef = '/sign-up/'
     weight = 30
 
 [services]
