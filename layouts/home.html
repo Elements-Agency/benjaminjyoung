@@ -135,7 +135,7 @@
 								<li><a href="#gallery" class="button big wide smooth-scroll">See Ben Young's Art</a></li>
 							</ul>
 						</div>
-						<div class="image role="img" aria-label="Profile of Ben Young">
+						<div class="image" role="img" aria-label="Profile of Ben Young">
 							<video width="320" height="240" autoplay muted playsinline>
 								<source src="images/banner.mp4" type="video/mp4">
 								<img src="images/banner-sm.webp" fetchpriority="high" srcset="images/banner-sm.webp 500w, images/banner.webp 1000w, images/banner-lg.webp 1500w" alt="Profile of Ben Young" title="Ben Young, the Artist" width="700px" height="700px" />
@@ -253,13 +253,11 @@
 							{{ $thumbnail := $thumbnail.Fill "500x500 Center" }}
 							{{ $thumbnail := $thumbnail.Resize "500x webp" }}
 
-							{{ with $thumbnail }}
-								<div class="image">
-									<a href="{{ $.RelPermalink }}">
-									<img src="{{ .RelPermalink }}" alt="{{ $.Params.alt }}" title='{{ $.Title }} ({{ $.Date| time.Format "2006" }}) by Ben Young' />
-									</a>
-								</div>
-							{{ end }}
+							<div class="image">
+								<a href="{{ .RelPermalink }}" aria-label="{{ .Title }}">
+									<img src="{{ $thumbnail.RelPermalink }}" alt="{{ .Params.alt }}" title='{{ .Title }} ({{ .Date| time.Format "2006" }}) by Ben Young' />
+								</a>
+							</div>
 						{{ end }}
 					</section>
     			{{ end }}
@@ -279,7 +277,7 @@
 								<div class="fields">
 									<div class="field">
 										<label for="email">Email</label>
-										<input type="text" name="EMAIL" id="name" value="" required onfocus="focusSignup();">
+										<input type="text" name="EMAIL" id="email" value="" required onfocus="focusSignup();">
 									</div>
 									<div class="field half">
 										<label for="fname">First Name</label>
