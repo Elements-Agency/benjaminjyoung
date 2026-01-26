@@ -67,4 +67,4 @@ I’m very touched by how popular [One Last Walk With Izzy](/artwork/one-last-wa
 
 Congratulations to __Mark D. from Cincinnati, OH__. Mark has been selected to pick and receive any reproduction, as apart of being subscribed to this email newsletter. Mark will receive a separate email from me personally, and I will continue to pick winners each month.
 
-{{< button class="fit" href="/sign-up" text="Subscribe to Newsletter" >}}
+{{< button class="fit" href="/sign-up/" text="Subscribe to Newsletter" >}}

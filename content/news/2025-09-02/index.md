@@ -33,7 +33,7 @@ I’ve just finished my newest watercolor piece, Grisaille Whiskey, On The Rocks
     {{< preview col="6" painting="/artwork/grisaille-whiskey-on-the-rocks/" >}}
 {{< row-end >}}
 
-{{< button class="fit" href="/artwork/grisaille-whiskey-on-the-rocks" text="View Painting" >}}
+{{< button class="fit" href="/artwork/grisaille-whiskey-on-the-rocks/" text="View Painting" >}}
 
 ---
 ## 🐾 Nearly Sold-Out: One Last Walk With Izzy ##
@@ -80,7 +80,7 @@ My online Story page is now fully updated. It walks through the life narration b
     {{< preview col="3" painting="/artwork/in-the-dark/" >}}
 {{< row-end >}}
 
-{{< button class="fit" href="/story" text="Read the Story" >}}
+{{< button class="fit" href="/story/" text="Read the Story" >}}
 
 ---
 
@@ -93,4 +93,4 @@ This September is filled with celebration, creation, and connection—and I’d 
 With gratitude,
 Ben Young
 
-{{< button class="fit" href="/sign-up" text="Subscribe to Newsletter" >}}
+{{< button class="fit" href="/sign-up/" text="Subscribe to Newsletter" >}}

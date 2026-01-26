@@ -31,7 +31,7 @@ The **One Last December** [collection](/collections/one-last-december) currently
 
 Not everything I paint fits in to this timeline, but my more important pieces do. I have began documenting this timeline out, even with the unfinished but planned paintings. As more pieces are completed, I will add further and further context.
 
-{{< button class="fit" href="/story" text="Preview Story" >}}
+{{< button class="fit" href="/story/" text="Preview Story" >}}
 
 I will also have a few upcoming paintings I'm working on that will be scattered throughout this timeline, further expanding on little details that tie together.
 
@@ -86,7 +86,7 @@ There's been a handful of other paintings I have completed, checkout the others 
 
 These paintings include; [Avalanche Lilies](/artwork/avalanche-lilies), [Defeat](/artwork/defeat), [Young Money](/artwork/young-money), and [Creepy Ladybug](/artwork/creepy-ladybug).
 
-{{< button class="fit" href="/featured" text="View All Artwork" >}}
+{{< button class="fit" href="/featured/" text="View All Artwork" >}}
 
 ## Originals Paintings Sold ##
 
@@ -101,7 +101,7 @@ I have four originals sold this season:
 
 I'm struggling currently holding on to pieces long enough keep them for upcoming shows, so it may require I increase original artwork prices in the future. As of right now, I have not changed my pricing model, but it's a highly likely possibility soon.
 
-{{< button class="fit" href="/shop" text="Shop Artwork" >}}
+{{< button class="fit" href="/shop/" text="Shop Artwork" >}}
 
 ## Newsletter Winner ##
 
@@ -111,4 +111,4 @@ And Now for that moment you have been waiting for. Announcing the free limited r
 
 An email to the winner has separately been sent out to claim your prize.
 
-{{< button class="fit" href="/sign-up" text="Enter for a Chance to Win" >}}
+{{< button class="fit" href="/sign-up/" text="Enter for a Chance to Win" >}}

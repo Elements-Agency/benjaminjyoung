@@ -93,4 +93,4 @@ And the winners are…
 
 I have separately sent emails to these winners to get their choice of a limited reproduction and where to ship them to. So if your name is above, be on the lookout for another email.
 
-{{< button class="fit" href="/sign-up" text="Subscribe to Newsletter" >}}
+{{< button class="fit" href="/sign-up/" text="Subscribe to Newsletter" >}}

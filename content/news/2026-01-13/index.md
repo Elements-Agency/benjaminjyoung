@@ -27,7 +27,7 @@ Lately, I’ve been starting my mornings with small-scale explorations to captur
 
 These 7x5in watercolors serve as my daily warm-ups. They allow me to experiment with light and texture on a smaller canvas, and I plan to continue this series throughout the winter months. There is something incredibly meditative about the contrast of deep shadows against the winter snow.
 
-{{< button href="/collections/colors-of-winter" text="View Collection" >}}
+{{< button href="/collections/colors-of-winter/" text="View Collection" >}}
 
 ---
 
@@ -108,7 +108,7 @@ And the winner is..
 
   * **John B.** from Wilmington, Delaware
 
-{{< button href="/sign-up" text="Subscribe to Newsletter" >}}
+{{< button href="/sign-up/" text="Subscribe to Newsletter" >}}
 
 ---
 
@@ -118,7 +118,7 @@ Whether you are looking for a small original or a limited-edition print, now is 
 
 Your Collector Discount: Use code WINTER20 at checkout for 10% OFF all original paintings and prints.
 
-{{< button href="/shop" text="Discover Originals & Reproductions" >}}
+{{< button href="/shop/" text="Discover Originals & Reproductions" >}}
 
 Thank you for being part of this journey with me.
 

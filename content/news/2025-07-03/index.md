@@ -68,8 +68,8 @@ The winner is...
 
 An email to the winner has separately been sent out to claim their prize.
 
-{{< button class="fit" href="/sign-up" text="Enter for a Chance to Win" >}}
+{{< button class="fit" href="/sign-up/" text="Enter for a Chance to Win" >}}
 
 Did you know you can tell me your birthday, to not only receive special offers on your birthday, but also get an extra entry for the monthly drawings?
 
-{{< button class="fit" href="/birthday" text="Add Your Birthday" >}}
+{{< button class="fit" href="/birthday/" text="Add Your Birthday" >}}

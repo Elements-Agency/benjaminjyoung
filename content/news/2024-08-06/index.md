@@ -21,7 +21,7 @@ For everyone else, I am offering a limited use discount code of 30% OFF all orig
 
 Coupon Code: **S0W4CSL2B2RA**
 
-{{< button class="fit" text="Shop Artwork" href="/shop" >}}
+{{< button class="fit" text="Shop Artwork" href="/shop/" >}}
 
 
 {{< row-start >}}

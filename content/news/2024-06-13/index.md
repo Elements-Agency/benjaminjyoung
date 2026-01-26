@@ -59,4 +59,4 @@ The following original paintings have been sold and are no longer available to p
     {{< preview col="4" painting="/artwork/creepy-clown/" >}}
 {{< row-end >}}
 
-{{< button class="fit" text="Shop Reproductions and More" href="/shop" >}}
+{{< button class="fit" text="Shop Reproductions and More" href="/shop/" >}}

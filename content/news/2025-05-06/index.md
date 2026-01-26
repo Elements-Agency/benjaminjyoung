@@ -77,4 +77,4 @@ The winner is...
 
 An email to the winner has separately been sent out to claim their prize.
 
-{{< button class="fit" href="/sign-up" text="Enter for a Chance to Win" >}}
+{{< button class="fit" href="/sign-up/" text="Enter for a Chance to Win" >}}

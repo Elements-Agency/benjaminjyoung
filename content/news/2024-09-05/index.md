@@ -44,4 +44,4 @@ I entered [Hallelujah](/artwork/hallelujah/) in to the [Rod Meadow's Art Exhibit
 Tomorrow, on September 6th, the exhibit [Wings and Whimsy](https://www.facebook.com/events/1031065925277126/) will also open at Patina Arts Centre. Featuring my [Blue Butterfly Watercolor Painting](/artwork/blue-morpho-butterfly/) that was recently completed.
 
 
-{{< button class="fit" text="Shop Prints and More" href="/shop" >}}
+{{< button class="fit" text="Shop Prints and More" href="/shop/" >}}

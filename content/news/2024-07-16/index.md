@@ -80,4 +80,4 @@ Don't forget about the **[Paul Brown Town Exhibit](https://paulbrownmuseum.org)*
 {{< row-end >}}
 
 
-{{< button class="fit" text="Shop Prints and More" href="/shop" >}}
+{{< button class="fit" text="Shop Prints and More" href="/shop/" >}}

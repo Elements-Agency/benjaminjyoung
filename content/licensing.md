@@ -17,5 +17,5 @@ This means you are welcome to share, repost, or adapt my work for non-commercial
 
 If you’re interested in using my artwork for commercial purposes — such as in advertising, merchandise, publications, or other for-profit projects — please [contact me](/contact) to discuss licensing details and available options. I’m happy to work with you to find a fair and creative solution that supports both of our goals.
 
-{{< button class="fit" text="Contact for Commercial Usage" href="/contact" >}}
+{{< button class="fit" text="Contact for Commercial Usage" href="/contact/" >}}
 {{< button class="fit" text="Non-Commercial Usage" href="https://creativecommons.org/licenses/by-nc-sa/4.0/" >}}
