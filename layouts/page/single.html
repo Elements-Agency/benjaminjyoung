@@ -18,9 +18,11 @@
 
     <div id="main">
         <article class="post">
-            <header class="major">
-                <h1>{{ .Title }}</h1>
-            </header>
+            {{ if not .Params.shownotitle }}
+              <header class="major">
+                      <h1>{{ .Title }}</h1>
+              </header>
+            {{ end }}
 
             <div>
               {{- .Content -}}

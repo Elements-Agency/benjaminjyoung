@@ -21,7 +21,9 @@
                     {{ if .Date }}
                         <span class="date">({{ .Date| time.Format "January 2, 2006" }})</span>
                     {{ end }}
-                    <h1>{{ .Title }}</h1>
+                    {{ if not .Params.shownotitle }}
+                        <h1>{{ .Title }}</h1>
+                    {{ end }}
                     <p>{{ .Description }}</p>
                 </header>
 

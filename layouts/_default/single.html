@@ -103,7 +103,9 @@
       
 				<!-- Intro -->
         <div id="intro">
-          <h1>{{- .Title -}}</h1>
+          {{ if not .Params.shownotitle }}
+              <h1>{{ .Title }}</h1>
+          {{ end }}
           <p>
             {{ .Description }}
           </p>
