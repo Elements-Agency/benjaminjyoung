@@ -93,6 +93,7 @@ reproductions:
     - 51: Tonia Gusbar (Massillon, OH)
     - 52: Reserved
     - 53: DJ Harvey (Hudson, OH)
+    - 54: Aaron Stickney (Alamogordo, NM)
   - 12x16in:
     - 1: Ben Young (East Sparta, OH)
     - 2: Kristl Spalding (Red Creek, NY)
