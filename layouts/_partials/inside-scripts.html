@@ -39,3 +39,6 @@
     });
   </script>
 {{ end }}
+{{ with resources.Get "js/utms.js" | resources.Minify }}
+  <script src="{{ .RelPermalink }}"></script>
+{{ end }}
