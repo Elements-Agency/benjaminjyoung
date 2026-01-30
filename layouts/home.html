@@ -41,9 +41,18 @@
 				"nationality": "American"
 			}
 		</script>
+
+		{{ partial "precss-home.html" . }}
 		
-		<link rel="stylesheet" href="/css/main.css" />
-		<noscript><link rel="stylesheet" href="/css/noscript.css" /></noscript>
+		<link rel="preload" href="/css/main.css" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+		<link rel="preload" href="/css/fontawesome-all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+		<link rel="preload" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+		<noscript>
+			<link rel="stylesheet" href="/css/main.css" />
+			<link rel="stylesheet" href="/css/fontawesome-all.min.css" />
+			<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i" />
+			<link rel="stylesheet" href="/css/noscript.css" />
+		</noscript>
 
         {{ $production := eq (getenv "HUGO_ENV") "production" | or (eq site.Params.env "production") }}
         {{ $public := not .Params.private }}
@@ -172,7 +181,7 @@
 
 							<div class="logo align-center" aria-label="Ben Young Artist Logo">
 								<a href="/" aria-label="Home Page">
-									<img src="/images/logo.webp" title="Ben Young - Artist" alt="Ben Young's Artist Signature Logo">
+									<img src="/images/logo.webp" title="Ben Young - Artist" alt="Ben Young's Artist Signature Logo" fetchpriority="high">
 								</a>
 							</div>
 							<p class="major">
