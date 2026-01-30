@@ -6,4 +6,5 @@ medium: Watercolor
 description: A group of old ladies sit around a cafe table, gossiping about anyone and everyone.
 author: Ben Young
 images: ['painting.jpg']
+sitemap: false
 ---

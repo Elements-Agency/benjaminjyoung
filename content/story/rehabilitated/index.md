@@ -6,4 +6,5 @@ medium: Watercolor
 description: A clown stands rehabilitated, lost, no longer allowed to return to the circus.
 author: Ben Young
 images: ['painting.jpg']
+sitemap: false
 ---

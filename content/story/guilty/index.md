@@ -6,4 +6,5 @@ medium: Watercolor
 description: A clown sitting confined in jail.
 author: Ben Young
 images: ['painting.jpg']
+sitemap: false
 ---

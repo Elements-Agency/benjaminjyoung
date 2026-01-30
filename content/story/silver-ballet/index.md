@@ -6,4 +6,5 @@ medium: Watercolor
 description: An elderly woman dances ballet in dramatic lighting. A friend I lost at the nursing home I work at.
 author: Ben Young
 images: ['painting.jpg']
+sitemap: false
 ---
