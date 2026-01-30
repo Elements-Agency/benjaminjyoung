@@ -26,8 +26,6 @@ products:
       name: Original Watercolor Painting
     - id: 781803030
       name: Postcard
-
-reel: DN_ONt9DFyX
 ---
 
 Some portraits don’t just depict a person—they hold a moment. A breath. A lifetime.

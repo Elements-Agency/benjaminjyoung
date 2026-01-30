@@ -20,8 +20,6 @@ products:
       total: 30
     - id: 746855079
       name: Original Watercolor Painting
-
-reel: DMawRfQOAEO
 ---
 
 There are moments when darkness feels complete—when loss, grief, or loneliness surrounds us. ___In the Dark___ was born from such a space.

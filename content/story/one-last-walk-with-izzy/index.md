@@ -36,8 +36,6 @@ products:
       name: Postcard
     - id: 708668936
       name: Original Painting
-
-reel: DN8XyTuDTFx
 ---
 
 There are some walks we get to take — and some that live only in the quiet corners of our hearts. **One Last Walk With Izzy** is one of those moments I never had, but always wished for.

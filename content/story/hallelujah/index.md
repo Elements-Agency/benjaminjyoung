@@ -16,8 +16,6 @@ products:
       total: 60
     - id: 691515054
       name: Original Oil Painting
-
-reel: C-Ovs2fOV0x
 ---
 
 Hallelujah draws directly from one of the most haunting verses in Leonard Cohen’s timeless song:
