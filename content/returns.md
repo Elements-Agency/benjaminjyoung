@@ -8,7 +8,7 @@ outputs: ['html']
 
 ### What's your return policy? ###
 
-I offer a 30-day return window. If you're not satisfied with your purchase, you can return it within 30 days of receipt for a full refund. Please [contact me](/contact/) to initiate a return.
+I offer a 30-day return window. If you're not satisfied with your purchase, you can return it within 30 days of receipt for a full refund. Please [contact me](/contact/) to initiate a return. Return shipping costs are the responsibility of the customer.
 
 ### Do you offer refunds? ###
 
@@ -16,7 +16,7 @@ Yes, refunds are offered within 30 days of purchase if you're unsatisfied. Refun
 
 ### Can I exchange an item for a different size/color? ###
 
-Exchanges are available within 30 days of purchase. If you received a mislabeled item, [please let me know](/contact/) within 30 days. Include your order number and photos, and I will send you the correct item or issue a refund.
+Exchanges are available within 30 days of purchase. If you received a mislabeled item, [please let me know](/contact/) within 30 days. Include your order number and photos, and I will send you the correct item or issue a refund. Return shipping costs apply to exchanges.
 
 ### Contact Us ###
 
