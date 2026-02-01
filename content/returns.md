@@ -6,22 +6,23 @@ description: Read the returns policy for Ben Young's Artist website.
 outputs: ['html']
 ---
 
-### What’s your return policy? ###
+### What's your return policy? ###
 
-I do not offer returns and exchanges, but if there’s something wrong with your order, please let me know by [contacting me](/contact/)!
+I offer a 30-day return window. If you're not satisfied with your purchase, you can return it within 30 days of receipt for a full refund. Please [contact me](/contact/) to initiate a return.
 
 ### Do you offer refunds? ###
 
-Refunds are only offered to customers that receive the wrong items or damaged items. If any of these apply, please [contact me](/contact/) with photos of wrong/damaged items and I will sort that out for you.
+Yes, refunds are offered within 30 days of purchase if you're unsatisfied. Refunds are also available for customers who receive wrong or damaged items. If any of these apply, please [contact me](/contact/) with photos (if applicable) and I will process your refund.
 
 ### Can I exchange an item for a different size/color? ###
 
-At this time, I don't offer exchanges. Though rare, it's possible that an item you ordered was mislabelled. If that’s the case, [please let me know](/contact/) within a week after receiving your order. Include your order number and photos of the mislabeled item, and I will send you a new one, or issue a refund!
+Exchanges are available within 30 days of purchase. If you received a mislabeled item, [please let me know](/contact/) within 30 days. Include your order number and photos, and I will send you the correct item or issue a refund.
 
 ### Contact Us ###
 
-If you have any questions about this Privacy Policy, please [contact us](/contact/).
+If you have any questions about this Returns Policy, please [contact us](/contact/).
 
-This Privacy Policy is effective as of November 28th, 2024 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
+
+This Returns Policy is effective as of February 1st, 2026 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
 
 [<< Back](/shop/)
