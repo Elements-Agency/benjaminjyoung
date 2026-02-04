@@ -6,6 +6,8 @@
     {{ partial "inside-scripts.html" . }}
 {{ end }}
 
+{{ define "title" }}{{ .Title }} | {{ .Site.Title }}{{ end }}
+
 {{ define "main" }}
   <div id="wrapper">
     <!-- Do NOT remove inline styles on bg below -->
