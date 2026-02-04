@@ -9,11 +9,13 @@ function storeUTMData() {
             localStorage.setItem(param, value);
         }
     });
+
+    localStorage.setItem('utm_date', new Date().toISOString());
 }
 
 // Build UTM URL from localStorage
 function buildUTMUrl(baseUrl) {
-    const utmParams = ['utm_source', 'utm_medium', 'utm_campaign', 'utm_term', 'utm_content'];
+    const utmParams = ['utm_source', 'utm_medium', 'utm_campaign', 'utm_term', 'utm_content', 'utm_date'];
     const params = new URLSearchParams();
 
     utmParams.forEach(param => {
