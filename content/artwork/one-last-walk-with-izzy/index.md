@@ -99,6 +99,7 @@ reproductions:
     - 2: Kristl Spalding (Red Creek, NY)
     - 3: Chilensky (Toronto, OH)
     - 4: Reserved
+    - 5: Daren Robertson (Kennett, MO)
   - 18x24in:
     - 1: Ben Young (East Sparta, OH)
     - 2: Susan Lehman (Jupiter, FL)
