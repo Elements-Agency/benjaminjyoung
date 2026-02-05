@@ -43,12 +43,11 @@
 		</script>
 
 		{{ partial "precss-home.html" . }}
-		<link rel="preload" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i" as="style" onload="this.rel='stylesheet'; this.onload=null; const link = document.createElement('link'); link.rel = 'stylesheet'; link.href = 'data:text/css,.banner .content h1{ font-weight: inherit; font-size: 2.5rem;} .banner .content .major p{font-weight:inherit; font-size: 14pt;}'; document.head.appendChild(link);" />
 		<link rel="preload" href="/css/main.css" as="style" onload="this.onload=null;this.rel='stylesheet'" />
 		<link rel="preload" href="/css/fontawesome-all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'" />
 		<noscript>
 			<style type="text/css">
-				.banner .content h1{ font-weight: inherit; font-size: 2.5rem;} .banner .content .major p{font-weight:inherit; font-size: 14pt;}
+				.banner .content h1{font-weight:100; font-size:38px; text-align:center;} .banner .content .major p{font-weight:100; font-size:17px; text-align:justify;}
 			</style>
 			<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i" />
 			<link rel="stylesheet" href="/css/main.css" />
@@ -313,9 +312,13 @@
 							{{ $thumbnail := $thumbnail.Fill "500x500 Center" }}
 							{{ $thumbnail := $thumbnail.Resize "500x webp" }}
 
+							{{ $thumbnailsm := .Resources.GetMatch .Params.preview_image }}
+							{{ $thumbnailsm := $thumbnailsm.Fill "412x412 Center" }}
+							{{ $thumbnailsm := $thumbnailsm.Resize "412x webp q90" }}
+
 							<div class="image">
 								<a href="{{ .RelPermalink }}" aria-label="{{ .Title }}">
-									<img src="{{ $thumbnail.RelPermalink }}" alt="{{ .Params.alt }}" title='{{ .Title }} ({{ .Date| time.Format "2006" }}) by Ben Young' />
+									<img src="{{ $thumbnailsm.RelPermalink }}" srcset="{{ $thumbnailsm.RelPermalink }} 412w, {{ $thumbnail.RelPermalink }} 500w" alt="{{ .Params.alt }}" title='{{ .Title }} ({{ .Date| time.Format "2006" }}) by Ben Young' />
 								</a>
 							</div>
 						{{ end }}
