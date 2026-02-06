@@ -3,6 +3,13 @@
 {{ end }}
 
 {{ define "scripts" }}
+    <script>
+        if (window.location.pathname === '/shop/' && window.location.search.startsWith('?_escaped_fragment_=')) {
+            const fragment = window.location.search.replace('?_escaped_fragment_=', '');
+            window.location.href = '/shop/#!' + fragment;
+        }
+    </script>
+
     {{ partial "inside-scripts.html" . }}
 
     <script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?101772706&data_platform=code&data_date=2024-04-07" charset="utf-8"></script>
