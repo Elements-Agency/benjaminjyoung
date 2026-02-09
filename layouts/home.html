@@ -148,7 +148,7 @@
 			<main id="wrapper" class="divided">
 
 				<!-- One -->
-					<section class="banner style1 orient-left content-align-left image-position-center fullscreen" role="banner">
+					<section class="banner style1 orient-left content-align-justify image-position-center fullscreen" role="banner">
 						<div class="content">
 							<header id="header">
 								<div class="inner">
@@ -231,13 +231,13 @@
 							{{ end }}
 
 						    <h2 class="strong">Ben Young's Featured Paintings</h2>
-							<p>
+							<p class="align-justify">
 								Ben Young is a newly emerging artist, with just over 2 years of painting, his work has been featured in <a href="/about/cv/#exhibitions">28 exhibits, 20 art galleries, and 2 museums</a>.
 								With his artwork being collected and displayed in <u>over {{ $homeCount }} homes</u> around the United States and internationally.
 								From hanging in manors in Switzerland, to pent houses in New York, to private collections in California.
 								Ben's work has found a home with art lovers everywhere.
-								<br>
-								<br>
+							</p>
+							<p>
 								Click on any of Ben Young's artwork below to explore more information:
 							</p>
                         </div>
@@ -279,7 +279,7 @@
                         </div>
 
 						<div class="inner">
-							<p>
+							<p class="align-justify">
 								Ben Young's featured body of work follows a narrative that runs parallel to my his life.
 								Each painting marks a moment, emotion, or turning point, creating a visual timeline that mirrors his personal journey.
 								From early struggles and loss, to connection, healing, and growth.
@@ -296,7 +296,7 @@
 				<!-- Three -->
 				{{ $newsSection := where .Site.RegularPages "Section" "news" }}
 				{{ with index (sort $newsSection "Date" "desc") 0 }}
-					<section class="spotlight style1 orient-left content-align-right image-position-center onscroll-image-fade-in" role="region">
+					<section class="spotlight style1 orient-left content-align-justify image-position-center onscroll-image-fade-in" role="region">
 						<div class="content">
 							<h2><a href="/news/">Latest Artist News</a></h2>
 								<p>
@@ -328,7 +328,7 @@
     			{{ end }}
 
 				<!-- Four -->
-					<section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in" role="region">
+					<section class="spotlight style1 orient-right content-align-justify image-position-center onscroll-image-fade-in" role="region">
 						<div class="content">
 							<h2>Newsletter Subscription</h2>
 							<p>
@@ -374,7 +374,7 @@
 					<section class="wrapper style1 align-center" role="region">
 						<div class="inner">
 							<h2>Purchase Ben Young's Artwork</h2>
-							<p>
+							<p class="align-justify">
 								Ben Young offers the sales of <a href="/shop/#!/Originals/c/189383751">originals</a> as well as <a href="/shop/#!/Reproductions/c/184228819">limited reproductions</a> directly online.
                                 Available to be shipped directly to your door.
 								Shipping is available to the United States, Canada, the United Kingdom, and anywhere in the European Economic Area.
@@ -388,7 +388,7 @@
 								<section>
 									<span class="icon style2 major fa-paint-brush"></span>
 									<h3>Original Paintings</h3>
-									<p>
+									<p class="align-justify">
 										Browse featured original paintings for sale, or feel free to <a href="/contact">contact the artist</a> to discuss details.
 										Shipped directly from downtown Canton.
 									</p>
@@ -399,7 +399,7 @@
 								<section>
 									<span class="icon solid style2 major fa-print"></span>
 									<h3>Archival Reproductions</h3>
-									<p>
+									<p class="align-justify">
 										Offering both limited &amp; open archival reproductions with an option to be framed.
 										There are also other material options available.
 									</p>
@@ -410,7 +410,7 @@
 								<section>
 									<span class="icon solid style2 major fa-shopping-cart"></span>
 									<h3>Merchandise</h3>
-									<p>
+									<p class="align-justify">
 										I also offer <a href="/shop/#!/Puzzles/c/189384001">jigsaw puzzles</a> and <a href="/shop/#!/Postcards/c/188685119">greeting cards</a> featuring my artwork. A fun and meaningful way to share, gift, or experience the paintings you love.
 									</p>
 									<ul class="actions stacked">
@@ -461,7 +461,7 @@
                         </div>
 
                         <div class="inner">
-							<p>
+							<p class="align-justify">
                                 Catch up on all of Ben Young's latest artworks, creations, paintings, and drawings.
                                 The above slider of paintings is his newest artwork.
 								Or feel free to also follow him on social media on either
@@ -477,7 +477,7 @@
 					<section class="wrapper style1 align-center" role="region">
 						<div class="inner">
 							<h2>Get In Touch</h2>
-							<p>
+							<p class="align-justify">
 								Whether you are interested in visiting the studio, booking an exhibition, or just want to reach out, Ben would love to hear from you.
 								Feel free to explore the options below.
 							</p>
@@ -486,7 +486,7 @@
 								<section>
 									<span class="icon style2 major fa-calendar"></span>
 									<h3>Visit Studio</h3>
-									<p>
+									<p class="align-justify">
 										Studio visits, in Canton Ohio, are available on select Downtown First Fridays or by appointment.
 										Feel free to <a href="/appointment/">schedule an appointment</a> to visit the studio.
 									</p>
@@ -497,7 +497,7 @@
 								<section>
 									<span class="icon solid style2 major fa-landmark"></span>
 									<h3>Curators</h3>
-									<p>
+									<p class="align-justify">
 										If you are a gallery owner, or a museum curator, start here.
 										I'm currently booking exhibitions for 2026 and looking for gallery representation.
 									</p>
@@ -508,7 +508,7 @@
 								<section>
 									<span class="icon solid style2 major fa-envelope"></span>
 									<h3>Contact Artist</h3>
-									<p>
+									<p class="align-justify">
 										If you have any questions, inquiries, or need more information, you are always welcome to contact me.
 										Or find information to visit my downtown Canton studio.
 									</p>
@@ -546,8 +546,6 @@
 								<li><a href="https://instagram.com/artistbenyoung" class="icon brands style2 fa-instagram" aria-label="Follow Artist Ben Young on Instagram"><span class="label">Instagram</span></a></li>
 								<li><a href="https://facebook.com/artist.benjamin.young" class="icon brands style2 fa-facebook-f" aria-label="Follow Artist Ben Young on Facebook"><span class="label">Facebook</span></a></li>
 								<li><a href="https://www.reddit.com/user/artistbenyoung/" class="icon brands style2 fa-reddit" aria-label="Follow Artist Ben Young on Reddit"><span class="label">Reddit</span></a></li>
-								<li><a href="https://www.tumblr.com/artistbenyoung" class="icon brands style2 fa-tumblr" aria-label="Follow Artist Ben Young on Tumblr"><span class="label">Tumblr</span></a></li>
-								<li><a href="https://pinterest.com/artistbenyoung" class="icon brands style2 fa-pinterest" aria-label="Follow Artist Ben Young on Pinterest"><span class="label">Pinterest</span></a></li>
 								<li><a href="/contact/" class="icon style2 fa-envelope" aria-label="Contact Artist Ben Young"><span class="label">Email</span></a></li>
 							</ul>
 

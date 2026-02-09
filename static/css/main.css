@@ -288,6 +288,10 @@ input, select, textarea {
 		text-align: right;
 	}
 
+	.align-justify {
+		text-align: justify;
+	}
+
 	@media screen and (max-width: 736px) {
 
 		p.major {
@@ -3808,6 +3812,10 @@ input, select, textarea {
 			text-align: right;
 		}
 
+		.banner.style2.content-align-justify {
+			text-align: justify;
+		}
+
 		.banner.style2.image-position-left .image img {
 			-moz-object-position: left;
 			-webkit-object-position: left;
@@ -4375,6 +4383,10 @@ input, select, textarea {
 
 		.banner.style5.content-align-right {
 			text-align: right;
+		}
+
+		.banner.style5.content-align-justify {
+			text-align: justify;
 		}
 
 		.banner.style5.image-position-left .image img {
@@ -5632,6 +5644,10 @@ input, select, textarea {
 			text-align: right;
 		}
 
+		.spotlight.style4.content-align-justify {
+			text-align: justify;
+		}
+
 		.spotlight.style4.image-position-left .image img {
 			-moz-object-position: left;
 			-webkit-object-position: left;
@@ -5798,6 +5814,10 @@ input, select, textarea {
 
 		.spotlight.style5.content-align-right {
 			text-align: right;
+		}
+
+		.spotlight.style5.content-align-justify {
+			text-align: justify;
 		}
 
 		.spotlight.style5.image-position-left .image img {
