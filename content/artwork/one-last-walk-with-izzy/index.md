@@ -100,6 +100,7 @@ reproductions:
     - 3: Chilensky (Toronto, OH)
     - 4: Reserved
     - 5: Daren Robertson (Kennett, MO)
+    - 6: Karri Guy (Burgettstown, PA)
   - 18x24in:
     - 1: Ben Young (East Sparta, OH)
     - 2: Susan Lehman (Jupiter, FL)
@@ -118,6 +119,7 @@ reproductions:
     - 3: Reserved
   - postcard:
     - 1: John Dalles (Apopka, FL)
+    - 2: Karrie Workman (North Lawrence, OH)
 
 tag: The man walking is myself, with the blond hair shimmering from the bright autumn sun. The companion by my side is my late Border Collie dog, Izzy. The landscape is inspired by the Ohio Appalachian Plateau hills I grew up with. It's a memory I never got to have with my faithful family member, before she passed. She was always by my side in her life span, but sometimes time escapes us too quickly, and by the time I was in healthy enough state to hike myself, she had grown too elderly and weary to join me in my long walks of reflection.
 
