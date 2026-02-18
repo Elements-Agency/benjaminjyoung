@@ -42,6 +42,7 @@ reproductions:
     - 1: Ben Young (East Sparta, OH)
   - 18x24in:
     - 1: Ben Young (East Sparta, OH)
+    - 2: Craig Antilla (Little Elm, TX)
   - 30x40in:
     - 1: Ben Young (East Sparta, OH)
 

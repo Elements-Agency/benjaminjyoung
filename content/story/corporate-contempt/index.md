@@ -16,7 +16,7 @@ products:
       total: 60
     - id: 778124748
       name: 18x24in Limited Reproduction
-      left: 29
+      left: 28
       total: 30
     - id: 734463473
       name: Original Watercolor Painting
