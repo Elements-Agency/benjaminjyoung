@@ -12,9 +12,8 @@ images: ['painting.jpg']
 videos: []
 
 landscape: true
-order: 2
 ratio: landscape
-power: 45
+power: 184
 order: 2
 
 status: sale

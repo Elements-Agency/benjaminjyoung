@@ -11,7 +11,7 @@ images: ['painting.jpg']
 featured: true
 order: 3
 ratio: portrait
-power: 141
+power: 834
 sold: 3
 favorite: true
 

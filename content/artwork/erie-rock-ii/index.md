@@ -10,7 +10,7 @@ images: ['painting.jpg']
 
 landscape: true
 ratio: portrait
-power: 27
+power: 794
 order: 6
 
 supplies:

@@ -13,7 +13,7 @@ videos: [https://www.instagram.com/p/C3hi4DjAYqg/, https://youtu.be/Pcuv_QkT7Qo]
 
 landscape: true
 order: 9
-power: 17
+power: 748
 ratio: portrait
 
 supplies:

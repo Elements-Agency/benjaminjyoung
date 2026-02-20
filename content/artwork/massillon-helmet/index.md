@@ -14,7 +14,7 @@ ratio: landscape
 
 subfeatured: true
 power: 6
-order: 99
+order: 520
 
 supplies:
   - medium: Winsor & Newton Winton Oil

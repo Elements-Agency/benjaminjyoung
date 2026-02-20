@@ -11,7 +11,7 @@ images: ['painting.jpg']
 ratio: portrait
 
 subfeatured: true
-power: 43
+power: 253
 order: 99
 
 supplies:

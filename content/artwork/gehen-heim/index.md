@@ -14,7 +14,7 @@ ratio: landscape
 
 featured: true
 order: 21
-power: 7
+power: 183
 
 supplies:
   - medium: Artist Loft Watercolor Paint

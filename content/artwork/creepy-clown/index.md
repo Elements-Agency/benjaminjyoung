@@ -11,7 +11,7 @@ images: ['painting.jpg']
 
 ratio: square
 subfeatured: true
-power: 12
+power: 73
 order: 99
 
 supplies:

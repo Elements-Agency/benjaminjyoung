@@ -12,7 +12,7 @@ ratio: landscape
 
 featured: true
 order: 22
-power: 12
+power: 184
 
 supplies:
   - medium: M. Graha Watercolor Paint

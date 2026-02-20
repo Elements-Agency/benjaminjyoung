@@ -11,7 +11,7 @@ aliases: [/silent-reflections]
 images: ['painting.jpg']
 
 featured: true
-order: 20
+order: 194
 ratio: landscape
 power: 14
 

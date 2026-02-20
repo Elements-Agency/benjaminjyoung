@@ -13,7 +13,7 @@ videos: []
 
 landscape: true
 ratio: landscape
-power: 45
+power: 49
 order: 4
 
 status: sale
