@@ -10,7 +10,9 @@ progress: This was drawn with watercolor pencils on cold press wood pulp waterco
 aliases: [/blue-jay, /artwork/bluejay]
 images: ['painting.jpg']
 
+subfeatured: true
 ratio: landscape
+order: 99
 
 supplies:
   - medium: Kaloir Watercolor Pencils
