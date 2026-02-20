@@ -7,7 +7,9 @@
         {{ with .Params.Title }}
           {{ . }}
         {{ end }}
-        {{ if not (in .Params.Title "Ben Young") }}
+        {{ if .Params.mediums }}
+          - {{ title (index (.Params.mediums) 0) }} Painting by {{ .Params.author }}
+        {{ else if not (in .Params.Title "Ben Young") }}
           | {{ .Site.Title }}
         {{ end }}
       {{ end }}
