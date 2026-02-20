@@ -9,7 +9,7 @@ aliases: [/howards-hills, /arwtwork/howards-hills]
 images: ['painting.jpg']
 
 featured: true
-order: 8
+order: 99
 ratio: landscape
 power: 2335
 sold: 5

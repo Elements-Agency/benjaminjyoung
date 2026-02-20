@@ -11,7 +11,7 @@ images: ['painting.jpg']
 subfeatured: true
 ratio: portrait
 power: 176
-order: 99
+order: 2
 
 supplies:
   - medium: Artist Loft Watercolor Paint

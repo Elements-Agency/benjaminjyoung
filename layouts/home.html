@@ -230,7 +230,17 @@
 								{{ end }}
 							{{ end }}
 
-							<h2 class="strong">Ben Young's Artwork</h2>
+							<h2 class="strong">Art That Rejects the Disposable - Created to Endure</h2>
+							<quote>
+								"I paint what endures.
+								In a culture of the disposable, I am drawn to stillness, weight, and the quiet gravity of real things — land, light, memory, presence.
+								Each work is created with intention, meant not for passing trend but for permanence.
+								Art should not decorate a space. It should anchor it."
+								- <em>Benjamin J. Young</em>
+							</quote>
+
+							<br><br>
+
 							<p class="align-justify">
 								Ben Young is a newly emerging artist, with just over 2 years of painting, his work has been featured in <a href="/about/cv/#exhibitions">28 exhibits, 20 art galleries, and 2 museums</a>.
 								With his artwork being collected and displayed in <u>over {{ $homeCount }} homes</u> around the United States and internationally.
@@ -246,15 +256,12 @@
 
 					<section class="wrapper style1 align-center" role="region">
                         <div id="gallery" class="inner">
-						    <h2 class="strong">Featured Narrative Paintings</h2>
+						    <h2 class="strong">Emotional Narratives in Stillness</h2>
 							<p class="align-justify">
-								Ben Young's featured body of work follows a narrative that runs parallel to my his life.
+								Ben Young's featured body of work follows a narrative that runs parallel to his life.
 								Each painting marks a moment, emotion, or turning point, creating a visual timeline that mirrors his personal journey.
 								From early struggles and loss, to connection, healing, and growth.
 								In this way, the collection is not only a series of individual paintings, but also a living story—an unfolding reflection of the path he has walked.
-							</p>
-							<p>
-								Click on any of Ben Young's artwork below to explore more information:
 							</p>
                         </div>
 
@@ -265,7 +272,7 @@
 						<!-- Gallery -->
                         <div class="gallery style1 small onscroll-fade-in">
                             {{ range $i,$p := (sort $section "Params.order" "asc") }}
-                                {{ if lt $i 12 }}
+                                {{ if lt $i 8 }}
                                     {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
 									{{ $thumbnail := $thumbnail.Fill (printf "420x350 %s" (default "Center" .Params.fillPosition)) }}
                                     {{ $thumbnail := $thumbnail.Resize "420x webp q90" }}
@@ -303,17 +310,48 @@
 
 					</section>
 
+				<!-- Three -->
+				{{ $newsSection := where .Site.RegularPages "Section" "news" }}
+				{{ with index (sort $newsSection "Date" "desc") 0 }}
+					<section class="spotlight style1 orient-left content-align-justify image-position-center onscroll-image-fade-in" role="region">
+						<div class="content">
+							<h2><a href="/news/">Latest Collector News From The Artist</a></h2>
+								<p>
+									<a href="{{ .RelPermalink }}"><em>{{ .Date | time.Format "January 2, 2006" }}</em></a>
+									-
+									<quote>"{{ .Summary | plainify }}"</quote> - Benjamin J. Young
+								</p>
+								<ul class="actions stacked">
+									<li><a href="{{ .RelPermalink }}" class="button">Read Article</a></li>
+								</ul>
+						</div>
+
+						{{ if .Resources.GetMatch .Params.preview_image }}
+							{{ $thumbnail := .Resources.GetMatch .Params.preview_image }}
+							{{ $thumbnail := $thumbnail.Fill "500x500 Center" }}
+							{{ $thumbnail := $thumbnail.Resize "500x webp" }}
+
+							{{ $thumbnailsm := .Resources.GetMatch .Params.preview_image }}
+							{{ $thumbnailsm := $thumbnailsm.Fill "412x412 Center" }}
+							{{ $thumbnailsm := $thumbnailsm.Resize "412x webp q90" }}
+
+							<div class="image">
+								<a href="{{ .RelPermalink }}" aria-label="{{ .Title }}">
+									<img src="{{ $thumbnailsm.RelPermalink }}" srcset="{{ $thumbnailsm.RelPermalink }} 412w, {{ $thumbnail.RelPermalink }} 500w" alt="{{ .Params.alt }}" title='{{ .Title }} ({{ .Date| time.Format "2006" }}) by Ben Young' />
+								</a>
+							</div>
+						{{ end }}
+					</section>
+    			{{ end }}
+
 					<section class="wrapper style1 align-center" role="region">
                         <div id="landscapes" class="inner">
-						    <h2 class="strong">Featured Landscape Paintings</h2>
+						    <h2 class="strong">The Quiet Expanse</h2>
 							<p class="align-justify">
 								Ben's landscape paintings explore the quiet tension between presence and memory.
 								Rather than simply depicting scenery, Ben interprets the land as a living narrative—marked by time, atmosphere, and human experience.
 								Each piece invites the viewer to slow down and step into a moment suspended between stillness and movement.
 								These works are not just views of nature, but emotional terrains meant to be lived with.
-							</p>
-							<p>
-								Click on any of Ben Young's artwork below to explore more information:
 							</p>
                         </div>
 
@@ -324,7 +362,7 @@
 						<!-- Gallery -->
                         <div class="gallery style1 small onscroll-fade-in">
                             {{ range $i,$p := (sort $section "Params.order" "asc") }}
-                                {{ if lt $i 8 }}
+                                {{ if lt $i 4 }}
                                     {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
 									{{ $thumbnail := $thumbnail.Fill (printf "420x350 %s" (default "Center" .Params.fillPosition)) }}
                                     {{ $thumbnail := $thumbnail.Resize "420x webp q90" }}
@@ -361,55 +399,24 @@
 
 					</section>
 
-				<!-- Three -->
-				{{ $newsSection := where .Site.RegularPages "Section" "news" }}
-				{{ with index (sort $newsSection "Date" "desc") 0 }}
-					<section class="spotlight style1 orient-left content-align-justify image-position-center onscroll-image-fade-in" role="region">
-						<div class="content">
-							<h2><a href="/news/">Latest Artist News</a></h2>
-								<p>
-									<a href="{{ .RelPermalink }}"><em>{{ .Date | time.Format "January 2, 2006" }}</em></a>
-									-
-									{{ .Summary | plainify }}
-								</p>
-								<ul class="actions stacked">
-									<li><a href="{{ .RelPermalink }}" class="button">Read Article</a></li>
-								</ul>
-						</div>
-
-						{{ if .Resources.GetMatch .Params.preview_image }}
-							{{ $thumbnail := .Resources.GetMatch .Params.preview_image }}
-							{{ $thumbnail := $thumbnail.Fill "500x500 Center" }}
-							{{ $thumbnail := $thumbnail.Resize "500x webp" }}
-
-							{{ $thumbnailsm := .Resources.GetMatch .Params.preview_image }}
-							{{ $thumbnailsm := $thumbnailsm.Fill "412x412 Center" }}
-							{{ $thumbnailsm := $thumbnailsm.Resize "412x webp q90" }}
-
-							<div class="image">
-								<a href="{{ .RelPermalink }}" aria-label="{{ .Title }}">
-									<img src="{{ $thumbnailsm.RelPermalink }}" srcset="{{ $thumbnailsm.RelPermalink }} 412w, {{ $thumbnail.RelPermalink }} 500w" alt="{{ .Params.alt }}" title='{{ .Title }} ({{ .Date| time.Format "2006" }}) by Ben Young' />
-								</a>
-							</div>
-						{{ end }}
-					</section>
-    			{{ end }}
-
 				<!-- Four -->
 					<section class="spotlight style1 orient-right content-align-justify image-position-center onscroll-image-fade-in" role="region">
 						<div class="content">
-							<h2>Newsletter Subscription</h2>
+							<h2>Private Collector List</h2>
 							<p>
-								Sign up for Ben Young's art email newsletter, and be entered into a monthly drawing to win a <strong>free limited reproduction</strong>.
-                                Find out when paintings are completed, each month.
-								Receive any new sales and a continued <strong>20% discount</strong>.
-                                As well as any upcoming exhibits Ben will be at or sales going on.
+								Join a private circle of collectors and receive first access to newly completed works before they are publicly released.
+							</p>
+							<p>
+								Members are invited to exclusive monthly offerings, including a collector’s drawing for a limited reproduction, advance notice of exhibitions, and privileged acquisition opportunities. As part of this private list, you will also enjoy preferred collector pricing on select works.
+							</p>
+							<p>
+								Reserved for those who collect with intention.
 							</p>
 
 							<form method="post" action="https://benjaminjyoung.us14.list-manage.com/subscribe/post?u=5a284b4c27bab02102d3645de&amp;id=a01ee307ec&amp;f_id=0087c0e0f0" class="align-left" target="_blank">
 								<div class="fields">
 									<div class="field">
-										<label for="email">Email</label>
+										<label for="email">Email Address</label>
 										<input type="text" name="EMAIL" id="email" value="" required onfocus="focusSignup();">
 									</div>
 									<div class="field half">
@@ -429,7 +436,7 @@
 										<input type="text" name="b_5a284b4c27bab02102d3645de_a01ee307ec" tabindex="-1" value="">
 									</div>
 								<ul class="actions">
-									<li><input type="submit" name="submit" id="submit" value="Subscribe"></li>
+									<li><input type="submit" name="submit" id="submit" value="Request Access"></li>
 								</ul>
 							</form>
 						</div>
@@ -440,14 +447,11 @@
 
 					<section class="wrapper style1 align-center" role="region">
                         <div id="landscapes" class="inner">
-						    <h2 class="strong">Other Featured Paintings</h2>
+						    <h2 class="strong">The Quiet Abundance</h2>
 							<p class="align-justify">
-								Alongside my larger thematic pieces, my still life, floral, and animal paintings explore quieter, more intimate subjects.
+								Alongside Ben's larger thematic pieces, his still life, floral, and animal paintings explore quieter, more intimate subjects.
 								These works focus on light, texture, and presence—elevating simple forms into contemplative studies of beauty and character.
 								Whether capturing the fleeting vitality of a bloom, the quiet symbolism of arranged objects, or the instinct and personality within an animal, each painting invites the viewer to slow down and engage more deeply.
-							</p>
-							<p>
-								Click on any of Ben Young's artwork below to explore more information:
 							</p>
                         </div>
 
@@ -498,7 +502,7 @@
 				<!-- Five -->
 					<section class="wrapper style1 align-center" role="region">
 						<div class="inner">
-							<h2>Purchase Ben Young's Artwork</h2>
+							<h2>Acquire Ben Young's Artwork</h2>
 							<p class="align-justify">
 								Ben Young offers the sales of <a href="/shop/#!/Originals/c/189383751">originals</a> as well as <a href="/shop/#!/Reproductions/c/184228819">limited reproductions</a> directly online.
                                 Available to be shipped directly to your door.
@@ -506,7 +510,7 @@
 							</p>
 
 							<ul class="actions stacked">
-								<li><a href="/shop/" class="button">Explore All Products</a></li>
+								<li><a href="/shop/" class="button">Explore Collection</a></li>
 							</ul>
 
 							<div class="items style1 medium onscroll-fade-in">
@@ -529,14 +533,14 @@
 										There are also other material options available.
 									</p>
 									<ul class="actions stacked">
-										<li><a href="/shop/#!/Reproductions/c/184228819" class="button">Shop Reproductions</a></li>
+										<li><a href="/shop/#!/Reproductions/c/184228819" class="button">View Reproductions</a></li>
 									</ul>
 								</section>
 								<section>
 									<span class="icon solid style2 major fa-shopping-cart"></span>
 									<h3>Merchandise</h3>
 									<p class="align-justify">
-										I also offer <a href="/shop/#!/Puzzles/c/189384001">jigsaw puzzles</a> and <a href="/shop/#!/Postcards/c/188685119">greeting cards</a> featuring my artwork. A fun and meaningful way to share, gift, or experience the paintings you love.
+										Ben also offers <a href="/shop/#!/Puzzles/c/189384001">jigsaw puzzles</a> and <a href="/shop/#!/Postcards/c/188685119">greeting cards</a> featuring his artwork. A fun and meaningful way to share, gift, or experience the paintings you love.
 									</p>
 									<ul class="actions stacked">
 										<li><a href="/shop/" class="button">Explore Merchandise</a></li>
@@ -621,7 +625,7 @@
 								</section>
 								<section>
 									<span class="icon solid style2 major fa-landmark"></span>
-									<h3>Curators</h3>
+									<h3>For Curators</h3>
 									<p class="align-justify">
 										If you are a gallery owner, or a museum curator, start here.
 										I'm currently booking exhibitions for 2026 and looking for gallery representation.
@@ -634,8 +638,8 @@
 									<span class="icon solid style2 major fa-envelope"></span>
 									<h3>Contact Artist</h3>
 									<p class="align-justify">
-										If you have any questions, inquiries, or need more information, you are always welcome to contact me.
-										Or find information to visit my downtown Canton studio.
+										If you have any questions, inquiries, or need more information, you are always welcome to contact Ben.
+										Or find information to visit Ben's downtown Canton studio.
 									</p>
 									<ul class="actions stacked">
 										<li><a href="/contact/" class="button">Contact Information</a></li>
