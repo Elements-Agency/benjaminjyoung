@@ -251,11 +251,11 @@
                             {{ range $i,$p := (sort $section "Params.order" "asc") }}
                                 {{ if lt $i 12 }}
                                     {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
-                                    {{ $thumbnail := $thumbnail.Fill "420x350 Center" }}
+									{{ $thumbnail := $thumbnail.Fill (printf "420x350 %s" (default "Center" .Params.fillPosition)) }}
                                     {{ $thumbnail := $thumbnail.Resize "420x webp q90" }}
 
 									{{ $thumbnailsm := .Resources.GetMatch "painting.jpg" }}
-									{{ $thumbnailsm := $thumbnailsm.Fill "210x175 Center" }}
+									{{ $thumbnailsm := $thumbnailsm.Fill  (printf "210x175 %s" (default "Center" .Params.fillPosition)) }}
                                     {{ $thumbnailsm := $thumbnailsm.Resize "210x webp q90" }}
 
                                     <article>
