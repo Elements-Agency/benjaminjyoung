@@ -15,6 +15,7 @@ ratio: portrait
 
 subfeatured: true
 power: 18
+order: 99
 
 supplies:
   - medium: Oil Pastels

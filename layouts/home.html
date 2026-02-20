@@ -191,7 +191,7 @@
 								{{ .Content }}
 							</div>
 							<ul class="actions stacked align-center">
-								<li><a href="#gallery" class="button big wide smooth-scroll">See Ben Young's Art</a></li>
+								<li><a href="#more" class="button big wide smooth-scroll">Read More</a></li>
 							</ul>
 						</div>
 						<div class="image" role="img" aria-label="Profile of Ben Young">
@@ -203,7 +203,7 @@
 					</section>
 
 					<section class="wrapper style1 align-center" role="region">
-                        <div id="gallery" class="inner">
+                        <div id="more" class="inner">
 							{{ $homeCount := 0 }}
 							{{ $originalsCount := 0 }}
 							{{ $reproductionsCount := 0 }}
@@ -230,12 +230,28 @@
 								{{ end }}
 							{{ end }}
 
-						    <h2 class="strong">Ben Young's Featured Paintings</h2>
+							<h2 class="strong">Ben Young's Artwork</h2>
 							<p class="align-justify">
 								Ben Young is a newly emerging artist, with just over 2 years of painting, his work has been featured in <a href="/about/cv/#exhibitions">28 exhibits, 20 art galleries, and 2 museums</a>.
 								With his artwork being collected and displayed in <u>over {{ $homeCount }} homes</u> around the United States and internationally.
 								From hanging in manors in Switzerland, to pent houses in New York, to private collections in California.
 								Ben's work has found a home with art lovers everywhere.
+							</p>
+							<ul class="actions special align-center">
+								<li><a href="#gallery" class="button big wide smooth-scroll">Narrative Art</a></li>
+								<li><a href="#landscapes" class="button big wide smooth-scroll">Landscape Art</a></li>
+							</ul>
+						</div>
+					</section>
+
+					<section class="wrapper style1 align-center" role="region">
+                        <div id="gallery" class="inner">
+						    <h2 class="strong">Featured Narrative Paintings</h2>
+							<p class="align-justify">
+								Ben Young's featured body of work follows a narrative that runs parallel to my his life.
+								Each painting marks a moment, emotion, or turning point, creating a visual timeline that mirrors his personal journey.
+								From early struggles and loss, to connection, healing, and growth.
+								In this way, the collection is not only a series of individual paintings, but also a living story—an unfolding reflection of the path he has walked.
 							</p>
 							<p>
 								Click on any of Ben Young's artwork below to explore more information:
@@ -279,15 +295,67 @@
                         </div>
 
 						<div class="inner">
-							<p class="align-justify">
-								Ben Young's featured body of work follows a narrative that runs parallel to my his life.
-								Each painting marks a moment, emotion, or turning point, creating a visual timeline that mirrors his personal journey.
-								From early struggles and loss, to connection, healing, and growth.
-								In this way, the collection is not only a series of individual paintings, but also a living story—an unfolding reflection of the path he has walked.
-							</p>
 							<ul class="actions special">
 								<li><a href="/featured/" class="button">View All Featured Work</a></li>
 								<li><a href="/story/" class="button">The Artist's Story</a></li>
+							</ul>
+						</div>
+
+					</section>
+
+					<section class="wrapper style1 align-center" role="region">
+                        <div id="landscapes" class="inner">
+						    <h2 class="strong">Featured Landscape Paintings</h2>
+							<p class="align-justify">
+								Ben's landscape paintings explore the quiet tension between presence and memory.
+								Rather than simply depicting scenery, Ben interprets the land as a living narrative—marked by time, atmosphere, and human experience.
+								Each piece invites the viewer to slow down and step into a moment suspended between stillness and movement.
+								These works are not just views of nature, but emotional terrains meant to be lived with.
+							</p>
+							<p>
+								Click on any of Ben Young's artwork below to explore more information:
+							</p>
+                        </div>
+
+						{{ $mainSections := .Site.Params.mainSections | default (slice "post") }}
+						{{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
+						{{ $section := where $section "Params.landscape" true }}
+
+						<!-- Gallery -->
+                        <div class="gallery style1 small onscroll-fade-in">
+                            {{ range $i,$p := (sort $section "Params.order" "asc") }}
+                                {{ if lt $i 8 }}
+                                    {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
+									{{ $thumbnail := $thumbnail.Fill (printf "420x350 %s" (default "Center" .Params.fillPosition)) }}
+                                    {{ $thumbnail := $thumbnail.Resize "420x webp q90" }}
+
+									{{ $thumbnailsm := .Resources.GetMatch "painting.jpg" }}
+									{{ $thumbnailsm := $thumbnailsm.Fill  (printf "210x175 %s" (default "Center" .Params.fillPosition)) }}
+                                    {{ $thumbnailsm := $thumbnailsm.Resize "210x webp q90" }}
+
+                                    <article>
+                                        <a href="{{ if .Params.story }}{{ .Params.story }}{{ else }}{{ .RelPermalink }}{{ end }}" class="image">
+                                            <img src="{{ $thumbnailsm.RelPermalink }}"
+											srcset="{{ $thumbnailsm.RelPermalink }} 210w, {{ $thumbnail.RelPermalink }} 420w"
+											loading="lazy"
+											alt="{{ .Params.alt }}"
+											title="{{ .Title }} by Ben Young" />
+                                        </a>
+                                        <div class="caption">
+                                            <h3>{{ .Title }}</h3>
+                                            <p>{{ .Description }}</p>
+                                            <ul class="actions fixed">
+                                                <li><span class="button small">Details</span></li>
+                                            </ul>
+                                        </div>
+                                    </article>
+                                {{ end }}
+                            {{ end }}
+                        </div>
+
+						<div class="inner">
+							<ul class="actions special">
+								<li><a href="/featured/#landscape" class="button">View All Landscape Artwork</a></li>
 							</ul>
 						</div>
 
@@ -368,6 +436,63 @@
 						<div class="image">
 							<img src="images/spotlight02.webp" loading="lazy" alt="Kolp's Attic location" />
 						</div>
+					</section>
+
+					<section class="wrapper style1 align-center" role="region">
+                        <div id="landscapes" class="inner">
+						    <h2 class="strong">Other Featured Paintings</h2>
+							<p class="align-justify">
+								Alongside my larger thematic pieces, my still life, floral, and animal paintings explore quieter, more intimate subjects.
+								These works focus on light, texture, and presence—elevating simple forms into contemplative studies of beauty and character.
+								Whether capturing the fleeting vitality of a bloom, the quiet symbolism of arranged objects, or the instinct and personality within an animal, each painting invites the viewer to slow down and engage more deeply.
+							</p>
+							<p>
+								Click on any of Ben Young's artwork below to explore more information:
+							</p>
+                        </div>
+
+						{{ $mainSections := .Site.Params.mainSections | default (slice "post") }}
+						{{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
+						{{ $section := where $section "Params.subfeatured" true }}
+
+						<!-- Gallery -->
+                        <div class="gallery style1 small onscroll-fade-in">
+                            {{ range $i,$p := (sort $section "Params.order" "asc") }}
+                                {{ if lt $i 4 }}
+                                    {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
+									{{ $thumbnail := $thumbnail.Fill (printf "420x350 %s" (default "Center" .Params.fillPosition)) }}
+                                    {{ $thumbnail := $thumbnail.Resize "420x webp q90" }}
+
+									{{ $thumbnailsm := .Resources.GetMatch "painting.jpg" }}
+									{{ $thumbnailsm := $thumbnailsm.Fill  (printf "210x175 %s" (default "Center" .Params.fillPosition)) }}
+                                    {{ $thumbnailsm := $thumbnailsm.Resize "210x webp q90" }}
+
+                                    <article>
+                                        <a href="{{ if .Params.story }}{{ .Params.story }}{{ else }}{{ .RelPermalink }}{{ end }}" class="image">
+                                            <img src="{{ $thumbnailsm.RelPermalink }}"
+											srcset="{{ $thumbnailsm.RelPermalink }} 210w, {{ $thumbnail.RelPermalink }} 420w"
+											loading="lazy"
+											alt="{{ .Params.alt }}"
+											title="{{ .Title }} by Ben Young" />
+                                        </a>
+                                        <div class="caption">
+                                            <h3>{{ .Title }}</h3>
+                                            <p>{{ .Description }}</p>
+                                            <ul class="actions fixed">
+                                                <li><span class="button small">Details</span></li>
+                                            </ul>
+                                        </div>
+                                    </article>
+                                {{ end }}
+                            {{ end }}
+                        </div>
+
+						<div class="inner">
+							<ul class="actions special">
+								<li><a href="/featured/#other" class="button">View All Other Artwork</a></li>
+							</ul>
+						</div>
+
 					</section>
 
 				<!-- Five -->

@@ -14,6 +14,7 @@ videos: [https://www.instagram.com/p/C3aFj71ssZR/, https://youtu.be/CF7wcElqy8Y]
 ratio: landscape
 subfeatured: true
 power: 12
+order: 99
 
 supplies:
   - medium: Artist Loft Watercolor Paint

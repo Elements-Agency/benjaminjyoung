@@ -10,9 +10,10 @@ progress: Painted with watercolor paint on a cold press cotton watercolor block.
 aliases: [/silent-reflections]
 images: ['painting.jpg']
 
-subfeatured: true
+featured: true
+order: 20
 ratio: landscape
-power: 11
+power: 14
 
 supplies:
   - medium: Artist Loft Watercolor Paint

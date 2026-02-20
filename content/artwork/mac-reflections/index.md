@@ -13,8 +13,9 @@ videos: [https://www.instagram.com/p/C3mpPeQgORk/, https://youtube.com/shorts/JN
 
 ratio: portrait
 
-subfeatured: true
+featured: true
 power: 7
+order: 99
 
 supplies:
   - medium: Faber-Castell Oil Pastels

@@ -11,10 +11,10 @@ aliases: [/winter-pasture, /winter-pasture-i, /artwork/winter-pasture]
 images: ['painting.jpg']
 videos: []
 
-featured: true
+landscape: true
 ratio: landscape
 power: 45
-order: 99
+order: 5
 
 status: sale
 products:

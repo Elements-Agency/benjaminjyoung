@@ -13,6 +13,7 @@ images: ['painting.jpg']
 subfeatured: true
 ratio: landscape
 power: 43
+order: 99
 
 ratio: square
 

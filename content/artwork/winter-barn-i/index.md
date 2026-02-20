@@ -11,10 +11,11 @@ aliases: [/winter-barn, /winter-barn-i, /artwork/winter-barn]
 images: ['painting.jpg']
 videos: []
 
-featured: true
+landscape: true
+order: 2
 ratio: landscape
 power: 45
-order: 99
+order: 2
 
 status: sale
 products:

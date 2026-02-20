@@ -1731,6 +1731,13 @@ input, select, textarea {
 			}
 
 			#main .thumb > h2 {
+				font-weight: bold;
+				pointer-events: none;
+				text-align: center;
+				padding: 4em 0 0 0;
+			}
+
+			#main .thumb > h3 {
 				pointer-events: none;
 				bottom: 1.875em;
 				font-size: 0.8em;
@@ -2185,14 +2192,27 @@ input, select, textarea {
 					</header>
 
                     {{ $mainSections := .Site.Params.mainSections | default (slice "post") }}
+
                     {{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
                     {{ $section := where $section "Params.featured" true }}
+
+					{{ $landscapes := where .Site.RegularPages "Section" "in" $mainSections }}
+                    {{ $landscapes := where $landscapes "Params.landscape" true }}
 
                     {{ $subsection := where .Site.RegularPages "Section" "in" $mainSections }}
                     {{ $subsection := where $subsection "Params.subfeatured" true }}
 
 				<!-- Main -->
 					<div id="main">
+						<article class="thumb" id="narrative">
+							<a href="#narrative" class="image">
+								<img src="" alt="" />
+							</a>
+							<h2 style="text-shadow: #000 0 0 5px !important; font-weight: bold;">
+								Narrative Paintings
+							</h2>
+						</article>
+
                         {{ range $i,$p := (sort (sort $section "Params.power" "desc") "Params.sold" "desc") }}
                             {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
                             {{ $thumbnail := $thumbnail.Fill "1024x1024 Center" }}
@@ -2202,17 +2222,56 @@ input, select, textarea {
                                 <a href="{{ if .Params.story }}{{ .Params.story }}{{ else }}{{ .RelPermalink }}{{ end }}" class="image">
                                     <img src="{{ $thumbnail.RelPermalink }}" alt="{{ .Params.alt }}" />
                                 </a>
-                                <h2 style="text-shadow: #000 0 0 5px !important;">
+                                <h3 style="text-shadow: #000 0 0 5px !important;">
 									{{ .Title }}
 									{{ if eq .Params.status "sold" }}
 										<br>
 										<strong style="color:rgb(230, 0, 0); font-weight:bold;">SOLD</strong>
 										- Reproductions Available
 									{{ end }}
-								</h2>
+								</h3>
                                 <p>{{ .Description }}</p>
                             </article>
                         {{ end }}
+
+						<article class="thumb" id="landscape">
+							<a href="#landscape" class="image">
+								<img src="" alt="" />
+							</a>
+							<h2 style="text-shadow: #000 0 0 5px !important; font-weight: bold;">
+								Landscape Paintings
+							</h2>
+						</article>
+
+						{{ range $i,$p := (sort (sort $landscapes "Params.power" "desc") "Params.sold" "desc") }}
+                            {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
+                            {{ $thumbnail := $thumbnail.Fill "1024x1024 Center" }}
+                            {{ $thumbnail := $thumbnail.Resize "1024x webp q90" }}
+
+                            <article class="thumb">
+                                <a href="{{ if .Params.story }}{{ .Params.story }}{{ else }}{{ .RelPermalink }}{{ end }}" class="image">
+                                    <img src="{{ $thumbnail.RelPermalink }}" alt="{{ .Params.alt }}" />
+                                </a>
+                                <h3 style="text-shadow: #000 0 0 5px !important;">
+									{{ .Title }}
+									{{ if eq .Params.status "sold" }}
+										<br>
+										<strong style="color:rgb(230, 0, 0); font-weight:bold;">SOLD</strong>
+										- Reproductions Available
+									{{ end }}
+								</h3>
+                                <p>{{ .Description }}</p>
+                            </article>
+                        {{ end }}
+
+						<article class="thumb" id="other">
+							<a href="#other" class="image">
+								<img src="" alt="" />
+							</a>
+							<h2 style="text-shadow: #000 0 0 5px !important; font-weight: bold;">
+								Other Paintings
+							</h2>
+						</article>
 
 						{{ range $i,$p := (sort $subsection "Params.power" "desc") }}
                             {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
@@ -2223,7 +2282,7 @@ input, select, textarea {
                                 <a href="{{ if .Params.story }}{{ .Params.story }}{{ else }}{{ .RelPermalink }}{{ end }}" class="image">
                                     <img src="{{ $thumbnail.RelPermalink }}" alt="{{ .Params.alt }}" />
                                 </a>
-                                <h2 style="text-shadow: #000 0 0 5px !important;">
+                                <h3 style="text-shadow: #000 0 0 5px !important;">
 									{{ .Title }}
 									{{ if eq .Params.status "sold" }}
 										<br>
@@ -2232,7 +2291,7 @@ input, select, textarea {
 											- Reproductions Available
 										{{ end }}
 									{{ end }}
-								</h2>
+								</h3>
                                 <p>{{ .Description }}</p>
                             </article>
                         {{ end }}

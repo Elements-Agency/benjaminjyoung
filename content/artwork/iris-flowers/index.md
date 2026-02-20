@@ -12,6 +12,7 @@ ratio: portrait
 
 subfeatured: true
 power: 43
+order: 99
 
 supplies:
   - medium: Faber-Castell Oil Pastels

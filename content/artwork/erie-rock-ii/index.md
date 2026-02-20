@@ -8,10 +8,10 @@ author: Ben Young
 aliases: [/erie-rock-ii]
 images: ['painting.jpg']
 
-featured: true
+landscape: true
 ratio: portrait
 power: 27
-order: 99
+order: 6
 
 supplies:
   - medium: Artist Loft Paint

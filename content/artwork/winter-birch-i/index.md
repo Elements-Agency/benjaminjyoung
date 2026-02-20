@@ -11,10 +11,10 @@ aliases: [/winter-birch, /winter-birch-i, /artwork/winter-birch]
 images: ['painting.jpg']
 videos: []
 
-featured: true
+landscape: true
 ratio: landscape
 power: 45
-order: 99
+order: 4
 
 status: sale
 products:

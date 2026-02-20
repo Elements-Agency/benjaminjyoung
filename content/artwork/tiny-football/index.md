@@ -11,6 +11,7 @@ ratio: square
 
 subfeatured: true
 power: 6
+order: 99
 
 supplies:
   - medium: Winsor and Newton Winton Oil

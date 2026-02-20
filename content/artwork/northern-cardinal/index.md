@@ -15,6 +15,7 @@ ratio: portrait
 
 subfeatured: true
 power: 13
+order: 4
 
 supplies:
   - medium: Kaloir Watercolor Pencils

@@ -8,11 +8,11 @@ author: Ben Young
 aliases: [/pearls-granddaughter]
 images: ['painting.jpg']
 
-featured: true
+featutred: true
 ratio: portrait
 power: 34
 favorite: true
-order: 17
+order: 99
 
 supplies:
   - medium: M Graham Gouache Paints

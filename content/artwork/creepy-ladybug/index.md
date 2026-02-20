@@ -12,7 +12,7 @@ ratio: portrait
 
 subfeatured: true
 power: 21
-order: 16
+order: 99
 
 supplies:
   - medium: M Graham Watercolor Paints

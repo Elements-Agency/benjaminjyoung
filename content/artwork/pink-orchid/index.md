@@ -11,6 +11,7 @@ ratio: landscape
 
 subfeatured: true
 power: 7
+order: 99
 
 supplies:
   - medium: M Graham Watercolor

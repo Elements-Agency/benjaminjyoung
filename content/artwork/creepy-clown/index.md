@@ -12,6 +12,7 @@ images: ['painting.jpg']
 ratio: square
 subfeatured: true
 power: 12
+order: 99
 
 supplies:
   - medium: Winsor and Newton Winton Oil

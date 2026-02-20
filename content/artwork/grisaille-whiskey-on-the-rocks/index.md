@@ -8,10 +8,10 @@ author: Ben Young
 aliases: [/grisaille-whiskey-on-the-rocks, /artwork/grisaille-whiskey, /grisaille-whiskey]
 images: ['painting.jpg']
 
-featured: true
+subfeatured: true
 ratio: portrait
 power: 31
-order: 14
+order: 1
 
 supplies:
   - medium: M. Graham Watercolor Paint

@@ -11,6 +11,7 @@ images: ['painting.jpg']
 subfeatured: true
 ratio: landscape
 power: 24
+order: 3
 
 supplies:
   - medium: Artist Loft Watercolor Paint

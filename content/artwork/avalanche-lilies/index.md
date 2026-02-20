@@ -8,8 +8,8 @@ author: Ben Young
 aliases: [/avalanche-lilies]
 images: ['painting.jpg']
 
-featured: true
-order: 13
+landscape: true
+order: 1
 ratio: landscape
 power: 80
 sold: 0

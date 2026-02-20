@@ -10,10 +10,10 @@ progress: I planned this painting months ago and only did the wash. It sat until
 aliases: [/sailing-away, /sailing-away-schoon, /artwork/sailing-away]
 images: ['painting.jpg']
 
-featured: true
+landscape: true
 ratio: landscape
 power: 29
-order: 99
+order: 13
 
 supplies:
   - medium: Artist Loft Watercolor Paint

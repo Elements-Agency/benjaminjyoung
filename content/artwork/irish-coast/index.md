@@ -12,8 +12,9 @@ images: ['painting.jpg']
 
 ratio: landscape
 
-subfeatured: true
+landscape: true
 power: 20
+order: 99
 
 supplies:
   - medium: Faber-Castell Oil Pastels
