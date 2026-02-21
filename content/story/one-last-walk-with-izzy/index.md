@@ -30,10 +30,6 @@ products:
       name: 30x40in Limited Reproduction
       left: 7
       total: 10
-    - id: 777543312
-      name: Ceramic Mug
-    - id: 777543321
-      name: Postcard
     - id: 708668936
       name: Original Painting
 ---

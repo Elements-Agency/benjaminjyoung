@@ -15,7 +15,7 @@ products:
       left: 49
       total: 60
     - id: 797974902
-      name: 12x16in
+      name: 12x16in Limited Reproduction
       left: 39
       total: 40
     - id: 765476757
@@ -24,8 +24,6 @@ products:
       total: 30
     - id: 710975182
       name: Original Watercolor Painting
-    - id: 781803030
-      name: Postcard
 ---
 
 Some portraits don’t just depict a person—they hold a moment. A breath. A lifetime.
