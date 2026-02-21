@@ -16,6 +16,9 @@ products:
       total: 60
     - id: 675661538
       name: Original Painting
+
+accolades:
+    - Featured in the 2024 Patina Resident Artist Exhibit at Patina Arts Centre in Canton, Ohio.
 ---
 
 In The Artist’s Assistant, I present a deceptively whimsical image—a tuxedo cat wearing a watercolor cup as a crown, sitting quietly beside a watercolor block, a tennis ball, and a paintbrush. But behind the soft palette and tender brushwork lies a heartbreakingly personal story. This painting is not about play—it’s about presence, loss, and the quiet roles our companions play in helping us survive the unimaginable.

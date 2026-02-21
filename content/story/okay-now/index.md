@@ -24,6 +24,10 @@ products:
       total: 30
     - id: 710975182
       name: Original Watercolor Painting
+
+accolades:
+    - Featured in the 21st Bryn Du Art Show at the Bryn Du Mansion in Granville, Ohio.
+    - Featured in the Stark County Minority Business Association Opening Exhibit hosted at Kirk Schuring Center in Canton, Ohio.
 ---
 
 Some portraits don’t just depict a person—they hold a moment. A breath. A lifetime.

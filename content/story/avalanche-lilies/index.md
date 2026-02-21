@@ -16,6 +16,14 @@ products:
       total: 60
     - id: 718508603
       name: Original Watercolor Painting
+
+accolades:
+    - Honorable Mention at the 3rd Annual Juried Flora Exhibit.
+    - Featured in the 3rd Annual Juried Flora Exhibit at the White Rabbit Galleries in Barbeton, Ohio.
+    - Featured in the 2025 Ohio Watercolor Society’s Exhibit hosted at Springfield Museum of Art in Springfield, Ohio.
+    - Featured in the 2025 OWS’s Traveling Exhibit hosted at Amos Memorial Library in Sidney, Ohio.
+    - Featured in the 2025 OWS’s Traveling Exhibit hosted at Marathon Center for the Performing Arts in Findlay, Ohio.
+    - Featured in the 2025 OWS's Traveling Exhibit hosted at Piqua Public Library in Piqua, Ohio.
 ---
 
 There are moments in life that stay suspended in time—promises made, hopes whispered, dreams never fully realized. ___Avalanche Lilies___ is born from one of those moments.

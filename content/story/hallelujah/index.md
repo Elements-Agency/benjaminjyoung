@@ -16,6 +16,15 @@ products:
       total: 60
     - id: 691515054
       name: Original Oil Painting
+
+accolades:
+    - Honorable Mention at the 2025 Door 2 Art Show.
+    - Painted live at the 2024 Patina Arts Centre Fundraiser in the front window area of Patina Arts Centre in Canton, Ohio.
+    - Featured in the 2024 Rod Meadows Art Call located at Juilliard Arts Center in Canton, Ohio.
+    - Featured in the 2024 Patina Resident Artist Exhibit at Patina Arts Centre in Canton, Ohio.
+    - Featured in the Surface and Structure - A Dialogue in Texture Exhibit at the Canton Cultural Center Gallery in Canton, Ohio
+    - Featured in the 2025 Door 2 Art Show at Door 2 Art in Hudson, Ohio.
+    - Featured in the Cold Decembers Exhibit at Brewtifully in North Canton, Ohio.
 ---
 
 Hallelujah draws directly from one of the most haunting verses in Leonard Cohen’s timeless song:

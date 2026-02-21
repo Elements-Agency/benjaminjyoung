@@ -126,6 +126,22 @@
         </section>
     {{ end }}
 
+    {{ if .Params.accolades }}
+        <section id="accolades" class="wrapper style1 align-center">
+            <div class="inner">
+                <h2>{{ .Params.Title }}'s Accolades</h2>
+                
+                {{ with .Params.accolades }}
+                    <ul class="actions stacked">
+                        {{ range . }}
+                            <li>{{ . }}</li>
+                        {{ end }}
+                    </ul>
+                {{ end }}
+            </div>
+        </section>
+    {{ end }}
+
     <section {{ if not (replace .Content .Summary "") }}id="more"{{ end }} class="spotlight style1 {{ if replace .Content .Summary "" }}orient-right{{ else }}orient-left{{ end }} content-align-left image-position-center onscroll-image-fade-in">
         <div class="content">
             <h2 id="artist">About the Artist, Ben Young</h2>
