@@ -43,9 +43,11 @@ reproductions:
     - 6: Pandora Daniels (Garfield Heights, OH)
     - 7: The Pines Healthcare Center (Canton, OH)
     - 8: Reserved
-    - 9: Kelly Martin (Canton, OH)
-    - 10: Alison (Canton, OH)
-    - 11: Sheri (Canton, OH)
+    - 9: Kelly Martin (Canton, OH) *
+    - 10: Alison (Canton, OH) *
+    - 11: Sheri (Canton, OH) *
+    - 12: Polly Schlafhauser (Troy, MI)
+    - 13: Reserved
   - 12x16in:
     - 1: Ben Young (East Sparta, OH)
   - 18x24in:
