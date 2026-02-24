@@ -99,7 +99,7 @@ timeout = '600'
     pageRef = '/about/'
     weight = 20
 [[menus.small]]
-    name = 'Newsletter'
+    name = 'Join Collectors Circle'
     pageRef = '/sign-up/'
     weight = 30
 

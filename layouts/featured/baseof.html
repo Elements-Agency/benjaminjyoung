@@ -2211,6 +2211,9 @@ input, select, textarea {
 							<h2 style="text-shadow: #000 0 0 5px !important; font-weight: bold;">
 								Narrative Paintings
 							</h2>
+							<p>
+								These paintings tell a story. They are often inspired by personal experiences. Each painting invites the viewer to explore the narrative and discover the hidden meanings within the artwork.
+							</p>
 						</article>
 
                         {{ range $i,$p := (sort (sort $section "Params.power" "desc") "Params.sold" "desc") }}
@@ -2241,6 +2244,9 @@ input, select, textarea {
 							<h2 style="text-shadow: #000 0 0 5px !important; font-weight: bold;">
 								Landscape Paintings
 							</h2>
+							<p>
+								These paintings capture the beauty of nature. They are often inspired by the artist's travels and experiences in different landscapes. Each painting invites the viewer to explore the natural world and appreciate its beauty.
+							</p>
 						</article>
 
 						{{ range $i,$p := (sort (sort $landscapes "Params.power" "desc") "Params.sold" "desc") }}
@@ -2271,6 +2277,9 @@ input, select, textarea {
 							<h2 style="text-shadow: #000 0 0 5px !important; font-weight: bold;">
 								Other Paintings
 							</h2>
+							<p>
+								These paintings do not fit into the narrative or landscape categories. They are often inspired by abstract concepts, emotions, or other themes. Each painting invites the viewer to explore the artist's imagination and creativity.
+							</p>
 						</article>
 
 						{{ range $i,$p := (sort $subsection "Params.power" "desc") }}
