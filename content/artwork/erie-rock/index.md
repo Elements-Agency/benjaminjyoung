@@ -12,7 +12,8 @@ images: ['painting.jpg']
 videos: [https://www.instagram.com/p/C3rgdrrA3oI/, https://www.youtube.com/shorts/XCMouswfCm4]
 
 ratio: portrait
-power: 0
+power: 1
+order: 99
 landscape: true
 
 winter: 1
