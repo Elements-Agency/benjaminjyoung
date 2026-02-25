@@ -2205,7 +2205,7 @@ input, select, textarea {
 				<!-- Main -->
 					<div id="main">
 						<article class="thumb" id="narrative">
-							<a href="#narrative" class="image">
+							<a href="/story" class="image">
 								<img src="" alt="" />
 							</a>
 							<h2 style="text-shadow: #000 0 0 5px !important; font-weight: bold;">
@@ -2225,11 +2225,12 @@ input, select, textarea {
                                 <a href="{{ if .Params.story }}{{ .Params.story }}{{ else }}{{ .RelPermalink }}{{ end }}" class="image">
                                     <img src="{{ $thumbnail.RelPermalink }}" alt="{{ .Params.alt }}" />
                                 </a>
-                                <h3 style="text-shadow: #000 0 0 5px !important;">
+                                <h3 style="text-shadow: #000 0 0 5px !important; font-weight: bold;">
 									{{ .Title }}
 									{{ if eq .Params.status "sold" }}
+										({{ .Date.Format "2006" }})
 										<br>
-										<strong style="color:rgb(230, 0, 0); font-weight:bold;">SOLD</strong>
+										<span style="color:rgb(230, 0, 0);">SOLD</span>
 										- Reproductions Available
 									{{ end }}
 								</h3>
@@ -2258,11 +2259,12 @@ input, select, textarea {
                                 <a href="{{ if .Params.story }}{{ .Params.story }}{{ else }}{{ .RelPermalink }}{{ end }}" class="image">
                                     <img src="{{ $thumbnail.RelPermalink }}" alt="{{ .Params.alt }}" />
                                 </a>
-                                <h3 style="text-shadow: #000 0 0 5px !important;">
+                                <h3 style="text-shadow: #000 0 0 5px !important; font-weight: bold;">
 									{{ .Title }}
 									{{ if eq .Params.status "sold" }}
+										({{ .Date.Format "2006" }})
 										<br>
-										<strong style="color:rgb(230, 0, 0); font-weight:bold;">SOLD</strong>
+										<span style="color:rgb(230, 0, 0);">SOLD</span>
 										- Reproductions Available
 									{{ end }}
 								</h3>
@@ -2291,11 +2293,12 @@ input, select, textarea {
                                 <a href="{{ if .Params.story }}{{ .Params.story }}{{ else }}{{ .RelPermalink }}{{ end }}" class="image">
                                     <img src="{{ $thumbnail.RelPermalink }}" alt="{{ .Params.alt }}" />
                                 </a>
-                                <h3 style="text-shadow: #000 0 0 5px !important;">
+                                <h3 style="text-shadow: #000 0 0 5px !important; font-weight: bold;">
 									{{ .Title }}
 									{{ if eq .Params.status "sold" }}
+										({{ .Date.Format "2006" }})
 										<br>
-										<strong style="color:rgb(230, 0, 0); font-weight:bold;">SOLD</strong>
+										<span style="color:rgb(230, 0, 0);">SOLD</span>
 										{{ if .Params.repro }}
 											- Reproductions Available
 										{{ end }}
