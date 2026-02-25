@@ -16,6 +16,12 @@ ratio: landscape
 power: 585
 order: 20
 
+winter: 1
+spring: 0
+summer: 0
+fall:   0
+all:    1
+
 supplies:
   - medium: Marie's Watercolor Paint
   - on: Baohong Cold Press Watercolor Block

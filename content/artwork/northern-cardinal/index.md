@@ -17,6 +17,12 @@ subfeatured: true
 power: 958
 order: 4
 
+spring: 0
+summer: 0
+fall:   1
+winter: 1
+all:    1
+
 supplies:
   - medium: Kaloir Watercolor Pencils
   - on: Artist Loft Cold Press Watercolor Paper

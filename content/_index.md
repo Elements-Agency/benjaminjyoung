@@ -6,6 +6,8 @@ keywords: [ben young, benjamin young, contemporary artist, artwork paintings, im
 
 aliases: [/gallery]
 images: [ben.jpg]
+
+season: winter
 ---
 
 # Ben Young - Watercolor Painter & Fine Art Artist #

@@ -14,6 +14,12 @@ subfeatured: true
 power: 70
 order: 99
 
+spring: 1
+summer: 1
+fall:   0
+winter: 0
+all:    1
+
 supplies:
   - medium: M Graham Watercolor Paints
   - on: Baohong Cold Press Cotton Paper Block

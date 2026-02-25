@@ -13,6 +13,12 @@ subfeatured: true
 power: 78
 order: 99
 
+spring: 1
+summer: 1
+fall:   0
+winter: 0
+all:    1
+
 supplies:
   - medium: M Graham Watercolor
   - on: Baohong Hot Press Watercolor Block

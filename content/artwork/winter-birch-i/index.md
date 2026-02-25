@@ -16,6 +16,12 @@ ratio: landscape
 power: 49
 order: 4
 
+spring: 0
+summer: 0
+fall:   0
+winter: 1
+all:    1
+
 status: sale
 products:
     - id: 810837299

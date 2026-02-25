@@ -15,6 +15,12 @@ power: 1729
 sold: 6
 favorite: true
 
+spring: 0
+summer: 0
+fall:   1
+winter: 1
+all:    1
+
 supplies:
   - medium: M Graham Oil Paints
   - on: Stretched Cotton Canvas

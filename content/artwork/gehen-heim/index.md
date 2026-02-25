@@ -16,6 +16,11 @@ featured: true
 order: 21
 power: 183
 
+winter: 1
+spring: 0
+summer: 0
+fall:   0
+
 supplies:
   - medium: Artist Loft Watercolor Paint
   - on: Baohong Cold Press Watercolor Block

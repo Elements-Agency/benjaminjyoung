@@ -15,6 +15,12 @@ power: 656
 sold: 4
 favorite: true
 
+spring: 0
+summer: 0
+fall:   0
+winter: 1
+all:    1
+
 supplies:
   - medium: M Graham Watercolor Paints
   - on: Baohong Cold Press Cotton Paper Block

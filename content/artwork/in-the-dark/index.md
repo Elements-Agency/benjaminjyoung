@@ -16,6 +16,12 @@ sold: 3
 favorite: true
 status: sold
 
+spring: 0
+summer: 1
+fall:   1
+winter: 1
+all:    1
+
 supplies:
   - medium: M. Graham Watercolor Paint
   - on: Fabriano Artistico Cold Press Watercolor Block

@@ -15,6 +15,12 @@ ratio: landscape
 power: 322
 order: 13
 
+spring: 1
+summer: 1
+fall:   1
+winter: 1
+all:    1
+
 supplies:
   - medium: Artist Loft Watercolor Paint
   - on: Baohong Cold Press Watercolor Block

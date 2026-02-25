@@ -16,6 +16,12 @@ landscape: true
 power: 137
 order: 99
 
+spring: 1
+summer: 1
+fall:   0
+winter: 0
+all:    1
+
 supplies:
   - medium: Faber-Castell Oil Pastels
   - on: SunWorks Construction Paper

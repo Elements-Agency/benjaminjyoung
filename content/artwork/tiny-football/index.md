@@ -13,6 +13,12 @@ subfeatured: true
 power: 43
 order: 99
 
+spring: 0
+summer: 1
+fall:   1
+winter: 1
+all:    1
+
 supplies:
   - medium: Winsor and Newton Winton Oil
   - on: Tiny Canvas

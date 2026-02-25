@@ -17,6 +17,12 @@ subfeatured: true
 power: 63
 order: 99
 
+spring: 0
+summer: 0
+fall:   1
+winter: 1
+all:    1
+
 supplies:
   - medium: Oil Pastels
   - on: Construction Paper

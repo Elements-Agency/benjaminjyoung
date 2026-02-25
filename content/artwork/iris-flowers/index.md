@@ -14,6 +14,12 @@ subfeatured: true
 power: 253
 order: 99
 
+spring: 1
+summer: 1
+fall:   0
+winter: 0
+all:    1
+
 supplies:
   - medium: Faber-Castell Oil Pastels
   - on: Strathmore Pastel Paper

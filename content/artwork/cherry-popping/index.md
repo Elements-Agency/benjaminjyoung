@@ -14,8 +14,13 @@ subfeatured: true
 ratio: landscape
 power: 123
 order: 99
-
 ratio: square
+
+winter: 0
+spring: 1
+summer: 1
+fall:   0
+all:    1
 
 supplies:
   - medium: Winsor & Newton Winton Oil

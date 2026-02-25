@@ -15,6 +15,12 @@ power: 2123
 sold: 2
 favorite: true
 
+spring: 0
+summer: 0
+fall:   1
+winter: 1
+all:    1
+
 supplies:
   - medium: M Graham Oil Paints
   - on: Artist Loft Level 3 Cotton Stretched Canvas

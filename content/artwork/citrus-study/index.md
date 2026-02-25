@@ -16,6 +16,12 @@ subfeatured: true
 power: 99
 order: 99
 
+spring: 1
+summer: 1
+fall:   1
+winter: 0
+all:    1
+
 supplies:
   - medium: Artist Loft Watercolor Paint
   - on: Baohong Cold Press Watercolor Block

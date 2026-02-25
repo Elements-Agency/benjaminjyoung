@@ -15,6 +15,12 @@ ratio: landscape
 power: 1229
 order: 3
 
+spring: 0
+summer: 0
+fall:   1
+winter: 1
+all:    1
+
 supplies:
   - medium: Winsor and Newton Winton Oil
   - on: MDF Board

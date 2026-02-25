@@ -14,6 +14,12 @@ featured: true
 order: 22
 power: 184
 
+spring: 0
+summer: 0
+fall:   0
+winter: 1
+all:    1
+
 supplies:
   - medium: M. Graha Watercolor Paint
   - on: Baohong Cold Press Watercolor Block

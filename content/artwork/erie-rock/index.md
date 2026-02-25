@@ -12,7 +12,14 @@ images: ['painting.jpg']
 videos: [https://www.instagram.com/p/C3rgdrrA3oI/, https://www.youtube.com/shorts/XCMouswfCm4]
 
 ratio: portrait
-disliked: true
+power: 0
+landscape: true
+
+winter: 1
+spring: 0
+summer: 0
+fall:   1
+all:    1
 
 supplies:
   - medium: Marie's Watercolor and Gouache Paint

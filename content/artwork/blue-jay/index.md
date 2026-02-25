@@ -15,6 +15,12 @@ ratio: landscape
 power: 135
 order: 99
 
+spring: 0
+summer: 0
+fall:   0
+winter: 1
+all:    1
+
 supplies:
   - medium: Kaloir Watercolor Pencils
   - on: Artist Loft Cold Press Watercolor Pad

@@ -15,6 +15,12 @@ power: 1018
 sold: 4
 favorite: true
 
+spring: 1
+summer: 0
+fall:   1
+winter: 1
+all:    1
+
 supplies:
   - medium: M. Graham Watercolor Paint
   - on: Arches Cold Press Watercolor Paper

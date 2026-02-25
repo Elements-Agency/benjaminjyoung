@@ -13,6 +13,12 @@ ratio: portrait
 power: 794
 order: 6
 
+spring: 1
+summer: 1
+fall:   0
+winter: 0
+all:    1
+
 supplies:
   - medium: Artist Loft Paint
   - on: Baohong Cold Press Watercolor Block

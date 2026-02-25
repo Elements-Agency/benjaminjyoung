@@ -16,6 +16,12 @@ subfeatured: true
 power: 6
 order: 520
 
+spring: 0
+summer: 1
+fall:   1
+winter: 1
+all:    1
+
 supplies:
   - medium: Winsor & Newton Winton Oil
   - on: Artist Loft Canvas Panel

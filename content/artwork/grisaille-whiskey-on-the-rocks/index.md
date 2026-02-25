@@ -13,6 +13,12 @@ ratio: portrait
 power: 57
 order: 1
 
+spring: 1
+summer: 0
+fall:   1
+winter: 1
+all:    1
+
 supplies:
   - medium: M. Graham Watercolor Paint
   - on: Artist Loft Canvas Panel
