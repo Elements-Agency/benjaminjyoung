@@ -90,6 +90,17 @@
         {{ end }}
     </section>
 
+    {{ if (.Resources.GetMatch (printf "%svideo.mp4" (replace .File.Dir "story/" ""))) }}
+        {{ $video := .Resources.GetMatch (printf "%svideo.mp4" (replace .File.Dir "story/" "")) }}
+        <section class="wrapper style1 align-center">
+            {{ $preview := $full.Fill "1920x1080 webp q86" }}
+            <video controls playsinline preload="metadata" width="100%" aria-label="{{ .Title }} video" poster="{{ $preview.RelPermalink }}">
+                <source src="{{ $video.RelPermalink }}" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+        </section>
+    {{ end }}
+
     {{ if replace .Content .Summary "" }}
         <section id="more" class="spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in">
             <div class="content">
