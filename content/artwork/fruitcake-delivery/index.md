@@ -44,6 +44,7 @@ reproductions:
     - 4: Rob Volzer (Canton, OH)
     - 5: December First Friday (Canton, OH)
     - 6: Reserved
+    - 7: Karen Heyne (Atwater, CA)
   - 12x16in:
     - 1: Ben Young (East Sparta, OH)
   - 18x24in:
