@@ -7,6 +7,7 @@ description: One Last Walk With Izzy captures the walk I wish I’d had with my 
 author: Ben Young
 images: ['painting.jpg']
 videos: ['video.mp4']
+vimeo: 1169770932
 
 buy: While the original watercolor painting 'One Last Walk With Izzy' has been sold, limited edition limited reproductions are still available in various sizes. This emotionally resonant piece continues to connect with collectors, and these high-quality prints offer a meaningful way to bring its story into your own space.
 
