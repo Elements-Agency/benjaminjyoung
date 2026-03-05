@@ -11,12 +11,24 @@ paintings:
     - name: Final Embrace
       image: final-embrace.jpg
       story: /story/final-embrace/
+      sold: false
+      original: /shop/#!/p/716381943
+      reproductions: true
+      reproduction: /shop/#!/p/716135890
     - name: The Artist's Assistant
       image: the-artists-assistant.jpg
       story: /story/the-artists-assistant/
+      sold: true
+      original: /shop/#!/p/675661538
+      reproductions: true
+      reproduction: /shop/#!/p/683098813
     - name: Avalanche Lilies
       image: avalanche-lilies.jpg
-      story: /story/the-artists-assistant/
+      story: /story/avalanche-lilies/
+      sold: false
+      original: /shop/#!/p/718508603
+      reproductions: true
+      reproduction: /shop/#!/p/718515517
     
 
 ---

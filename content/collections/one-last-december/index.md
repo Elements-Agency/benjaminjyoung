@@ -11,15 +11,31 @@ paintings:
     - name: Hallelujah
       image: hallelujah.jpg
       story: /story/hallelujah/
+      sold: false
+      original: /shop/#!/p/691515054
+      reproductions: true
+      reproduction: shop/#!/p/691515048
     - name: Dying In A Snowfall
       image: dying-in-a-snowfall.jpg
       story: /story/dying-in-a-snowfall/
+      sold: false
+      original: /shop/#!/p/734463471
+      reproductions: true
+      reproduction: /shop/#!/p/734461906
     - name: Final Embrace
       image: final-embrace.jpg
       story: /story/final-embrace/
+      sold: false
+      original: /shop/#!/p/716381943
+      reproductions: true
+      reproduction: /shop/#!/p/716135890
     - name: In The Dark
       image: in-the-dark.jpg
       story: /story/in-the-dark/
+      sold: true
+      original: /shop/#!/p/746855079
+      reproductions: true
+      reproduction: /shop/#!/p/746858779
     
 
 ---

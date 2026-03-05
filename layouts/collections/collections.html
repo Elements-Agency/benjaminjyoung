@@ -10,7 +10,7 @@
                 </h1>
             </div>
             <p class="major">
-                {{- .Content -}}
+                {{- .Summary -}}
             </p>
         </div>
 
@@ -21,58 +21,34 @@
 
     <section class="wrapper style1 align-center">
         <div class="inner">
-            <h2>Six Eras. One Life Story Told in Pigment.</h2>
-            <p>
-                The body of work is presently organized into six distinct “eras,” each marking a clear and defining direction in life.
-                These eras are chronological, but more importantly, they trace the emotional and psychological evolution behind the paintings.
-                Together, they form a deeply personal narrative — one told not only through subject matter, but through color, tension, restraint, and release.
-                Using color, brightness, or lack of to reflect the emotional states.
-            </p>
-            <ul class="actions special">
-                <li>
-                    <div class="image">
-                        {{ $img := .Resources.GetMatch "collections/hart-of-a-man/painting.jpg" }}
-                        {{ if $img }}
-                            {{ $img = $img.Fit "800x800 webp q86" }}
-                            <img src="{{ $img.RelPermalink }}" alt="Hart of a Man collection" loading="lazy">
+            <h2>{{- .Params.subtitle -}}</h2>
+
+            <p>{{ replace .Content .Summary "" }}</p>
+            
+            <div class="items style1 onscroll-fade-in medium">
+                {{ range sort (where .Site.RegularPages "Section" "collections") "Params.Date" "asc" }}
+                    <section>
+                        <h3>{{ .Title }}</h3>
+                        {{ $image := .Resources.GetMatch (printf "%spainting.jpg" (replace .File.Dir "collections/" "")) }}
+                        {{ if $image }}
+                            {{ $image := $image.Fit "800x800 webp q86" }}
+                            <a href="{{ .Permalink }}" class="image fit">
+                                <img src="{{ $image.RelPermalink }}" alt="{{ .Title }}" />
+                            </a>
                         {{ end }}
-                    </div>
-                    <img src="hart-of-a-man/painting.jpg" alt="Hart of a Man collection" loading="lazy">
-                    <a href="/collections/hart-of-a-man" class="button big wide smooth-scroll">
-                        Hart of a Man (2010–2013)
-                    </a>
-                </li>
-                <li>
-                    <a href="/collections/falling-into-darkness" class="button big wide smooth-scroll">
-                        Falling into Darkness (2013–2020)
-                    </a>
-                </li>
-                <li>
-                    <a href="/collections/second-hartbeat" class="button big wide smooth-scroll">
-                        Second Hartbeat (2017–2020)
-                    </a>
-                </li>
-            </ul>
-            <ul class="actions special">
-                <li>
-                    <a href="/collections/one-last-december" class="button big wide smooth-scroll">
-                        One Last December (December 2019)
-                    </a>
-                </li>
-                <li>
-                    <a href="/collections/bitter-honeydew" class="button big wide smooth-scroll">
-                        Bitter Honeydew (2020–2023)
-                    </a>
-                </li>
-                <li>
-                    <a href="/collections/stepping-back-into-the-light" class="button big wide smooth-scroll">
-                        Stepping Back into The Light (2021–Current)
-                    </a>
-                </li>
-            </ul>
-            <p>
-                Seen together, these six eras form more than a timeline. They are chapters of a lived story — each one shaping the next. For collectors, understanding the eras offers a deeper way to engage with the work: not just as individual paintings, but as movements within a continuing narrative of loss, fracture, resilience, and ultimately, renewal.
-            </p>
+
+                        <div class="inner">
+                            <ul class="actions stacked">
+                                <li>
+                                    <a href="{{ .Permalink }}" class="button big wide smooth-scroll-middle " onclick="trackInterest();">
+                                        View Collection
+                                    </a>
+                                </li>
+                            </ul>
+                            </div>
+                    </section>
+                {{ end }}
+            </div>
         </div>
     </section>
 

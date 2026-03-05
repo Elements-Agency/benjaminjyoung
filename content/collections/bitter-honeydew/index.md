@@ -11,12 +11,24 @@ paintings:
     - name: Fruitcake Delivery
       image: fruitcake-delivery.jpg
       story: /story/fruitcake-delivery/
+      sold: false
+      original: /shop/#!/p/711216274
+      reproductions: true
+      reproduction: /shop/#!/p/705991341
     - name: Circus Act
       image: circus-act.jpg
       story: /story/circus-act/
+      sold: false
+      original: /shop/#!/p/764160303
+      reproductions: true
+      reproduction: /shop/#!/p/764161038
     - name: Defeat
       image: defeat.jpg
       story: /story/defeat/
+      sold: true
+      original: /shop/#!/p/726369026
+      reproductions: true
+      reproduction: /shop/#!/p/734461977
     
 ---
 

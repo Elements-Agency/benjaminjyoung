@@ -11,6 +11,10 @@ paintings:
     - name: Hallelujah
       image: hallelujah.jpg
       story: /story/hallelujah/
+      sold: false
+      original: /shop/#!/p/691515054
+      reproductions: true
+      reproduction: shop/#!/p/691515048
     
 ---
 

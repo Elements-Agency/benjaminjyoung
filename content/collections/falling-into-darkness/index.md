@@ -1,5 +1,5 @@
 ---
-date: 2010-01-01
+date: 2013-01-01
 title: Falling In To Darkness
 subtitle: 2013 - 2020
 secondary: The Darkness of Trauma
@@ -11,12 +11,24 @@ paintings:
     - name: Corporate Contempt
       image: corporate-contempt.jpg
       story: /story/corporate-contempt/
+      sold: false
+      original: /shop/#!/p/734463473
+      reproductions: true
+      reproduction: shop/#!/p/734463429
     - name: Hallelujah
       image: hallelujah.jpg
       story: /story/hallelujah/
+      sold: false
+      original: /shop/#!/p/691515054
+      reproductions: true
+      reproduction: shop/#!/p/691515048
     - name: Dying In A Snowfall
       image: dying-in-a-snowfall.jpg
       story: /story/dying-in-a-snowfall/
+      sold: false
+      original: /shop/#!/p/734463471
+      reproductions: true
+      reproduction: /shop/#!/p/734461906
     
 
 ---

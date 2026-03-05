@@ -1,8 +1,13 @@
 ---
-title: Collections
-description: My main bodies of work are laid out in my life's story.
+title: Art Collections of Ben Young
+subtitle: Discover All Collections
+description: All artwork collections of Ben Young.
 outputs: ['html']
 layout: collections
 ---
-s
-The body of work is presently organized into six distinct “eras,” each marking a clear and defining direction in life. These eras are chronological, but more importantly, they trace the emotional and psychological evolution behind the paintings. Together, they form a deeply personal narrative — one told not only through subject matter, but through color, tension, restraint, and release.
+
+The artwork of Ben Young is organized into curated collections that reflect the emotional and narrative journey explored throughout his paintings. Each collection brings together a group of works connected by shared themes, moods, and moments of reflection. While individual paintings often stand alone in their meaning, the collections reveal a deeper story—one that moves through grief, healing, hope, memory, and personal growth.
+
+<!--more-->
+
+By organizing the paintings into thematic collections, viewers are able to experience the artwork not only as individual pieces, but also as chapters within a larger narrative. Each collection becomes a doorway into a different emotional space, allowing collectors and viewers to connect with the artwork in ways that resonate with their own experiences and memories.

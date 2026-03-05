@@ -40,9 +40,14 @@
             </p>
             <ul class="actions special">
                 <li>
-                    <a href="#more" class="button big wide smooth-scroll-middle secondary" onclick="trackInterest();">
+                    <a href="#more" class="button big wide smooth-scroll-middle primary" onclick="trackInterest();">
                         View Series
                     </a>
+                    <li>
+                        <a href="/collections" class="button big wide secondary">
+                            More Collections
+                        </a>
+                    </li>
                 </li>
             </ul>
         </div>
@@ -100,6 +105,29 @@
                             </a>
                         {{ end }}
                         <div class="inner">
+                            <p>
+                                Original:
+
+                                <a href="{{ .original }}" onclick="trackLikely();">
+                                    {{ if .sold }}
+                                        <strong style="font-weight:bold; color:red;">Sold</strong>
+                                    {{ else }}
+                                        <strong style="font-weight:bold;">Available</strong>
+                                    {{ end }}
+                                </a>
+
+                                <br>
+
+                                Reproductions:
+
+                                <a href="{{ .reproduction }}" onclick="trackLikely();">
+                                    {{ if .reproductions }}
+                                        <strong style="font-weight:bold;">Available</strong>
+                                    {{ else }}
+                                        <strong style="font-weight:bold; color:red;">Sold Out</strong>
+                                    {{ end }}
+                                </a>
+                            </p>
                             <ul class="actions stacked">
                                 {{ if .story }}
                                     <li>
