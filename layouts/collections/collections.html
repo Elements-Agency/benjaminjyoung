@@ -30,6 +30,14 @@
             </p>
             <ul class="actions special">
                 <li>
+                    <div class="image">
+                        {{ $img := .Resources.GetMatch "collections/hart-of-a-man/painting.jpg" }}
+                        {{ if $img }}
+                            {{ $img = $img.Fit "800x800 webp q86" }}
+                            <img src="{{ $img.RelPermalink }}" alt="Hart of a Man collection" loading="lazy">
+                        {{ end }}
+                    </div>
+                    <img src="hart-of-a-man/painting.jpg" alt="Hart of a Man collection" loading="lazy">
                     <a href="/collections/hart-of-a-man" class="button big wide smooth-scroll">
                         Hart of a Man (2010–2013)
                     </a>
@@ -84,62 +92,6 @@
         }
     });
     </script>
-
-    {{ $orient := "orient-left" }}
-    {{ range sort (where .Site.RegularPages "Section" "story") "Params.Date" "asc" }}
-        {{ if (.Resources.GetMatch (printf "%spainting.jpg" (replace .File.Dir "story/" ""))) }}
-            <section class="spotlight style1 {{ $orient }} content-align-left image-position-center onscroll-image-fade-in">
-                <div class="content">
-
-            {{ if eq $orient "orient-left" }}
-                {{ $orient = "orient-right" }}
-            {{ else }}
-                {{ $orient = "orient-left" }}
-            {{ end }}
-        {{ else if (.Resources.GetMatch (printf "%splan.png" (replace .File.Dir "story/" ""))) }}
-            <section class="spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in planned hidden" style="background-color: lightgray;">
-                <div class="content">
-        {{ else }}
-            <section class="wrapper style1 align-center planned hidden" style="background-color: lightgray;">
-                <div class="inner">
-        {{ end }}
-                <h2>{{ .Title }}</h2>
-                <p class="major" style="font-style: italic;">
-                    {{ .Params.Date.Format "January 2, 2006" }}
-                </p>
-                <p>
-                    {{ .Description }}
-                </p>
-
-                {{ if (.Resources.GetMatch (printf "%spainting.jpg" (replace .File.Dir "story/" ""))) }}
-                    <ul class="actions special">
-                        <li>
-                            <a href="{{ .Permalink }}" class="button big wide">
-                                Read More
-                            </a>
-                        </li>
-                    </ul>
-                {{ end }}
-            </div>
-
-            {{ if (.Resources.GetMatch (printf "%spainting.jpg" (replace .File.Dir "story/" ""))) }}
-                <div class="image">
-                    {{ $side := .Resources.GetMatch (printf "%spainting.jpg" (replace .File.Dir "story/" "")) }}
-                    {{ $side := $side.Fit "800x800 webp q86" }}
-
-                    <img src="{{ $side.RelPermalink }}" alt="">
-                </div>
-            {{ else if (.Resources.GetMatch (printf "%splan.png" (replace .File.Dir "story/" ""))) }}
-                <div class="image planned hidden">
-                    {{ $side := .Resources.GetMatch (printf "%splan.png" (replace .File.Dir "story/" "")) }}
-                    {{ $side := $side.Fit "400x400 webp q80" }}
-
-                    <img src="{{ $side.RelPermalink }}" alt="">
-                </div>
-            {{ end }}
-            
-        </section>
-    {{ end }}
 
     <section {{ if not (replace .Content .Summary "") }}id="more"{{ end }} class="spotlight style1 {{ if replace .Content .Summary "" }}orient-right{{ else }}orient-left{{ end }} content-align-left image-position-center onscroll-image-fade-in">
         <div class="content">

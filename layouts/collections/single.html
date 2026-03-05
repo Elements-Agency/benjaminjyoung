@@ -1,0 +1,317 @@
+{{ define "main" }}
+    {{ $full := .Resources.GetMatch (printf "%spainting.jpg" (replace .File.Dir "collections/" "")) }}
+    <section class="banner style1 content-align-left image-position-center - orient-right">
+        <div class="content">
+            <header id="header">
+                <div class="inner">
+                    <nav>
+                        <ul>
+                            <li><a href="#menu">Menu</a></li>
+                        </ul>
+                    </nav>
+
+                    <!-- Menu -->
+                    <nav id="menu">
+                        <h2>Menu</h2>
+                        <ul>
+                            {{ range .Site.Menus.main }}
+                                <li>
+                                    <a href="{{ .URL }}" title="{{ i18n "pageTitle" . }}">
+                                        {{ .Name }}
+                                    </a>
+                                </li>
+                            {{ end }}
+                        </ul>
+                    </nav>
+                </div>
+            </header>
+
+            <div class="logo align-center">
+                <a href="/" aria-label="Home Page">
+                    <img src="/images/logo.webp" title="Ben Young - Artist" alt="Ben Young's Artist Signature Logo" fetchpriority="high" style="width:300px; height:150px;" />
+                </a>
+                <h1>
+                    {{- .Title -}}
+                </h1>
+                <span>Collection based on {{ .Params.Subtitle }}</span>
+            </div>
+            <p class="major">
+                {{- .Summary -}}
+            </p>
+            <ul class="actions special">
+                <li>
+                    <a href="#more" class="button big wide smooth-scroll-middle secondary" onclick="trackInterest();">
+                        View Series
+                    </a>
+                </li>
+            </ul>
+        </div>
+
+        {{ if $full }}
+            {{ $big := $full.Fit "1600x1600 webp q96" }}
+            {{ $medium := $full.Fit "1200x1200 webp q96" }}
+            {{ $small := $full.Fit "600x600 webp q96" }}
+            <div class="image" itemscope itemtype="https://schema.org/ImageObject">
+                <a href="{{ $full.RelPermalink }}" class="button big wide primary" data-fancybox data-caption="{{ .Title }} by Ben Young" aria-label="View Full Painting" onclick="trackInterest();">
+                    <img src="{{ $small.RelPermalink }}"
+                        fetchpriority="high"
+                        srcset="{{ $small.RelPermalink }} 500w, {{ $medium.RelPermalink }} 1000w, {{ $big.RelPermalink }} 1500w"
+                        alt="{{ .Params.subtitle }}"
+                        itemprop="contentUrl" />
+                </a>
+
+                <div style="display:none; height:0;">
+                    <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                    <meta itemprop="name" content="{{ .Params.author }}" />
+                    </span>
+                    <span itemprop="copyrightNotice">
+                    {{ with $.Site.Copyright | default $.Site.Title }}
+                        &copy;
+                        {{ $.Date | time.Format "2006" }}
+                        {{ . | safeHTML }}
+                        All rights reserved.
+                    {{ end }}
+                    </span>
+                    <span itemprop="creditText">{{ $.Site.Copyright }}</span>
+                    <span itemprop="license">https://creativecommons.org/licenses/by-nc-sa/4.0/</span>
+                    <span itemprop="acquireLicensePage">https://benjaminjyoung.com/licensing</span>
+                </div>
+            </div>
+        {{ end }}
+    </section>
+
+    <section id="more" class="wrapper style1 align-center">
+        <div class="inner">
+            <h2>{{ .Params.secondary }}</h2>
+
+            <p>
+                {{ replace .Content .Summary "" | safeHTML }}
+            </p>
+
+            <div class="items style1 onscroll-fade-in medium">
+                {{ range .Params.paintings }}
+                    <section>
+                        <h3>{{ .name }}</h3>
+                        {{ $image := $.Resources.GetMatch (printf "**/%s" .image) }}
+                        {{ if $image }}
+                            {{ $image := $image.Fit "800x800 webp q86" }}
+                            <a href="{{ .story }}" class="image fit">
+                                <img src="{{ $image.RelPermalink }}" alt="{{ .name }}" />
+                            </a>
+                        {{ end }}
+                        <div class="inner">
+                            <ul class="actions stacked">
+                                {{ if .story }}
+                                    <li>
+                                        <a href="{{ .story }}" class="button big wide smooth-scroll-middle " onclick="trackInterest();">
+                                            Read Story
+                                        </a>
+                                    </li>
+                                {{ end }}
+                            </ul>
+                        </div>
+                    </section>
+                {{ end }}
+            </div>
+        </div>
+    </section>
+
+    {{ if (.Resources.GetMatch (printf "%svideo.mp4" (replace .File.Dir "story/" ""))) }}
+        {{ $video := .Resources.GetMatch (printf "%svideo.mp4" (replace .File.Dir "story/" "")) }}
+        <section class="wrapper style1 align-center">
+            {{ $preview := $full.Fill "1920x1080 webp q86" }}
+                {{ if .Params.vimeo }}
+                    <div style="padding:56.25% 0 0 0;position:relative;">
+                        <iframe src="https://player.vimeo.com/video/{{ .Params.vimeo }}?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="video"></iframe>
+                    </div>
+                    <script src="https://player.vimeo.com/api/player.js"></script>
+                {{ else }}
+                    <video controls playsinline preload="metadata" width="100%" aria-label="{{ .Title }} video" poster="{{ $preview.RelPermalink }}">
+                        <source src="{{ $video.RelPermalink }}" type="video/mp4">
+                        Your browser does not support the video tag.
+                    </video>
+                {{ end}}
+        </section>
+    {{ end }}
+
+    <section {{ if not (replace .Content .Summary "") }}id="more"{{ end }} class="spotlight style1 {{ if replace .Content .Summary "" }}orient-right{{ else }}orient-left{{ end }} content-align-left image-position-center onscroll-image-fade-in">
+        <div class="content">
+            <h2 id="artist">About the Artist, Ben Young</h2>
+            <p>
+                Ben Young is a contemporary fine artist originally from Appalachia, Ohio.
+                Originally a Software Engineer, he began painting in watercolor and oil less than two years ago, and his work has quickly gained attention for its emotional depth and storytelling.
+                Each piece is a personal narrative, rooted in lived experience and expressed through a sensitive, evocative style.
+                Each piece touches on themes of loss, love, family, and resilience, often drawing from his own life, including the tragic loss of his fiancée and journey it took to overcome those emotional burdens.
+                His paintings resonate with collectors drawn to authenticity, vulnerability, and a fresh, emerging voice in American art.
+            </p>
+            
+            <ul class="actions">
+                <li>
+                    <a href="/story/" class="button big wide smooth-scroll primary" onclick="trackInterest();">
+                        Explore Ben's Story
+                    </a>
+                </li>
+                <li>
+                    <a href="/about/" class="button big wide smooth-scroll secondary" onclick="trackPotential();">
+                        Learn More About Ben Young
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <div class="image">
+            <img src="/images/banner-sm.webp" srcset="/images/banner-sm.webp 500w, /images/banner.webp 1000w, /images/banner-lg.webp 1500w" alt="Artist Ben Young" width="600px" height="800px">
+        </div>
+    </section>
+
+    <section id="signup" class="wrapper style1 align-center">
+        <div class="inner">
+            <h2>Ready to Learn More? Join Collector's Circle</h2>
+            <p>
+                If you would like to step inside the story behind this piece—discover its inspiration, explore the creative journey, and gain access to private notes and collector insights—I invite you to join my private collector’s list.
+            </p>
+            <p>
+                As a welcome gesture, you will receive a preferred 15% collector’s privilege on your acquisitions, along with entry into an exclusive monthly drawing to receive a complimentary limited reproduction.
+            </p>
+
+            <form method="post" action="https://benjaminjyoung.us14.list-manage.com/subscribe/post?u=5a284b4c27bab02102d3645de&amp;id=a01ee307ec&amp;f_id=0087c0e0f0" class="align-left" target="_blank">
+                <div class="fields">
+                    <div class="field">
+                        <label for="email">Email Address</label>
+                        <input type="text" name="EMAIL" id="email" value="" required onfocus="focusSignup();">
+                    </div>
+                    <div class="field half">
+                        <label for="fname">First Name</label>
+                        <input type="text" name="FNAME" id="fname" value="" onfocus="focusSignup();">
+                    </div>
+                    <div class="field half">
+                        <label for="lname">Last Name</label>
+                        <input type="text" name="LNAME" id="lname" value="" onfocus="focusSignup();">
+                    </div>
+                </div>
+                <div hidden>
+                    <input type="hidden" id="hid-MMERGE7" name="MMERGE7" value="Story">
+                    <input type="hidden" name="tags" value="7257335,7257510">
+                </div>
+                <div aria-hidden="true" style="position: absolute; left: -5000px;">
+                        <input type="text" name="b_5a284b4c27bab02102d3645de_a01ee307ec" tabindex="-1" value="">
+                    </div>
+                <ul class="actions">
+                    <li><input type="submit" name="submit" id="submit" value="Request Access"></li>
+                </ul>
+            </form>
+
+            <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script>
+            <script type="text/javascript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';fnames[6]='COMPANY';ftypes[6]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+        </div>
+
+        {{ if (.Resources.GetMatch (printf "%scollector.jpg" (replace .File.Dir "story/" ""))) }}
+            <div class="image">
+                {{ $side := .Resources.GetMatch (printf "%scollector.jpg" (replace .File.Dir "story/" "")) }}
+                {{ $side := $side.Fit "800x800 webp q86" }}
+
+                <img src="{{ $side.RelPermalink }}" alt="">
+            </div>
+        {{ end }}
+    </section>
+{{ end }}
+
+{{ define "styles" }}
+    <link
+        rel="stylesheet"
+        href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@6.0/dist/fancybox/fancybox.css"
+        />
+{{ end }}
+
+{{ define "scripts" }}
+    <script type="text/javascript">
+        function trackInterest() {
+            if (localStorage.clickedInterest) {
+                return;
+            }
+
+            localStorage.clickedInterest = true;
+
+            fbq('trackCustom', 'Interested');
+            gtag('event', 'interested', {});
+            window.uetq = window.uetq || [];
+            window.uetq.push('event', 'interested', {});
+            
+            trackEngaged();
+        }
+
+        function trackPotential() {
+            if (localStorage.clickedPotential) {
+                return;
+            }
+
+            localStorage.clickedPotential = true;
+
+            fbq('trackCustom', 'Potential');
+            gtag('event', 'potential', {});
+            window.uetq = window.uetq || [];
+            window.uetq.push('event', 'potential', {});
+
+            trackInterest();
+        }
+
+        function focusSignup() {
+            if (localStorage.viewSignup) {
+                return;
+            }
+
+            localStorage.viewSignup = true;
+            
+            fbq('trackCustom', 'ViewSignup');
+            gtag('event', 'view_signup', {});
+            
+            trackPotential();
+        }
+
+        function trackLikely() {
+            if (localStorage.clickedLikely) {
+                return;
+            }
+
+            localStorage.clickedLikely = true;
+
+            fbq('trackCustom', 'Likely');
+            gtag('event', 'likely', {});
+            window.uetq = window.uetq || [];
+            window.uetq.push('event', 'likely', {});
+
+            trackPotential();
+        }
+
+        document.addEventListener("DOMContentLoaded", () => {
+            localStorage.viewpainting = true;
+            
+            fbq('trackCustom', 'ViewPainting', {
+                content_category: 'Artwork',
+                content_name: '{{- .Title -}}',
+            });
+            gtag('event', 'view_painting', {});
+        });
+
+        if (!localStorage.paintingsViewed) {
+            paintingsViewed = {};
+
+            {{ range .Site.RegularPages }}
+                {{ if eq .Section "story" }}
+                    paintingsViewed["{{ replace (replace .File.Path "story/" "") "/index.md" "" }}"] = 0;
+                {{ end }}
+            {{ end }}
+
+            paintingsViewed["{{ replace (replace .File.Path "story/" "") "/index.md" "" }}"]++;
+
+           localStorage.paintingsViewed = JSON.stringify(paintingsViewed);
+        } else {
+            paintingsViewed = JSON.parse(localStorage.paintingsViewed);
+
+            paintingsViewed["{{ replace (replace .File.Path "story/" "") "/index.md" "" }}"]++;
+
+            localStorage.paintingsViewed = JSON.stringify(paintingsViewed);
+        }
+    </script>
+
+    <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@6.0/dist/fancybox/fancybox.umd.js"></script>
+{{ end }}

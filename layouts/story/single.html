@@ -35,9 +35,11 @@
                 </h1>
                 <span>{{ .Params.medium }} Painting by Ben Young</span>
             </div>
+            
             <p class="major">
                 {{- .Summary -}}
             </p>
+
             <ul class="actions special">
                 {{ if $full }}
                     <li class="gallery">
@@ -45,9 +47,6 @@
                             View Full Painting
                         </a>
                     </li>
-                    <script>
-                        Fancybox.bind("[data-fancybox]", {});
-                    </script>
                 {{ end }}
                 <li>
                     <a href="#more" class="button big wide smooth-scroll-middle secondary" onclick="trackInterest();">
@@ -55,6 +54,10 @@
                     </a>
                 </li>
             </ul>
+
+            <script>
+                Fancybox.bind("[data-fancybox]", {});
+            </script>
         </div>
 
         {{ if $full }}
