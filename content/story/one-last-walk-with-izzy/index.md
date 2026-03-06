@@ -24,14 +24,14 @@ products:
       name: 18x24in Limited Reproduction
       left: 23
       total: 30
-    - id: 788412829
-      name: 24x32in Limited Reproduction
-      left: 15
-      total: 20
-    - id: 758189666
-      name: 30x40in Limited Reproduction
-      left: 7
-      total: 10
+#    - id: 788412829
+#      name: 24x32in Limited Reproduction
+#      left: 15
+#      total: 20
+#    - id: 758189666
+#      name: 30x40in Limited Reproduction
+#      left: 7
+#      total: 10
     - id: 708668936
       name: Original Painting
 

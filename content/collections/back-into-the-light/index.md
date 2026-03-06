@@ -36,6 +36,13 @@ paintings:
       original: /shop/#!/p/710975182
       reproductions: true
       reproduction: /shop/#!/p/711193420
+    - name: Howard's Hills
+      image: howards-hills.jpg
+      story: /story/howards-hills/
+      sold: false
+      original: /shop/#!/p/694481795
+      reproductions: true
+      reproduction: /shop/#!/p/694564503
     
 ---
 
@@ -44,7 +51,5 @@ The current era reflects intentional healing. After confronting trauma and seeki
 <!--more-->
 
 **Back into The Light** marks the most intentional era of the artist’s journey — not a sudden escape from pain, but a deliberate return to meaning. Unlike earlier shifts that were shaped by circumstance, this chapter is defined by choice. After confronting trauma, betrayal, and the weight of unresolved grief, the artist begins actively pursuing healing rather than merely surviving.
-
-This era does not deny the darkness that came before it. Instead, it integrates it. The work reflects a matured emotional language — one that understands loss, recognizes deception, and acknowledges vulnerability, yet refuses to remain defined by them. The light in these paintings feels earned. It is not soft idealism; it is resilience forged through lived experience.
 
 Visually, there is greater openness. Compositions often breathe more freely. The use of color carries renewed vibrancy, yet it is grounded rather than impulsive. There is strength in restraint and clarity in symbolism. Where previous eras wrestled with confusion or heaviness, this one feels centered — aware of shadow but no longer consumed by it.
