@@ -21,7 +21,7 @@ paintings:
       sold: false
       original: /shop/#!/p/797673135
       reproductions: true
-      reproduction: shop/#!/p/705991341
+      reproduction: shop/#!/p/820773850
     - name: One Last Walk With Izzy
       image: one-last-walk-with-izzy.jpg
       story: /story/one-last-walk-with-izzy/
