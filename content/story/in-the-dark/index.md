@@ -26,6 +26,9 @@ accolades:
     - 3rd Place People’s Choice Award at the 2025 Rod Meadows Art Call.
     - Featured in the 2025 Rod Meadows Art Call located at Julliard Arts Center in Canton, Ohio.
     - Featured in the Cold Decembers Exhibit at Brewtifully in North Canton, Ohio.
+    - Featured in Voyage Ohio - Benjamin Young’s Story.
+
+collection: Back into The Light
 ---
 
 There are moments when darkness feels complete—when loss, grief, or loneliness surrounds us. ___In the Dark___ was born from such a space.

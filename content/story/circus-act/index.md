@@ -27,6 +27,9 @@ products:
 
 accolades:
     - Featured in the Stark County Bar Association’s Law in Art Exhibit hosted at Cyrus Custom Framing & Art Gallery in Canton, Ohio.
+    - Featured in Voyage Ohio - Benjamin Young’s Story.
+
+collection: Bitter Honeydew
 ---
 
 Circus Act is a watercolor painting that depicts a surreal courtroom scene where a solemn clown in red and white stripes stands at the witness stand, surrounded by grim-faced onlookers and jurors, creating a powerful contrast between absurdity and gravity.

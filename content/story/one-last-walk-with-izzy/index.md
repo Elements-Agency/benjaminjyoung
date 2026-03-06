@@ -37,7 +37,12 @@ products:
 
 accolades:
     - Featured in the 2025 Juried FRESH Exhibit at Summit Artspace in Akron, Ohio.
-    - Featured in the 2nd Annual Juried ActLoCLE Exhibit in Cleveland, Ohio.
+    - Featured in ActLoCLE's Featured Artist.
+    - Featured in Massillon Community Arts Council's Featured Artist.
+    - Featured online in the 2nd Annual Juried ActLoCLE Exhibit in Cleveland, Ohio.
+    - Featured in Voyage Ohio - Benjamin Young’s Story.
+
+collection: Back into The Light
 ---
 
 There are some walks we get to take — and some that live only in the quiet corners of our hearts. **One Last Walk With Izzy** is one of those moments I never had, but always wished for.

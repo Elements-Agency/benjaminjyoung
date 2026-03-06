@@ -1,7 +1,7 @@
 {{ define "main" }}
     {{ $full := .Resources.GetMatch (printf "%spainting.jpg" (replace .File.Dir "story/" "")) }}
     <section class="banner style1 content-align-left image-position-center - orient-right">
-        <div class="content">
+        <div class="content align-justify">
             <header id="header">
                 <div class="inner">
                     <nav>
@@ -112,8 +112,8 @@
     {{ end }}
 
     {{ if replace .Content .Summary "" }}
-        <section id="more" class="spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in">
-            <div class="content">
+        <section id="more" class="{{ if (.Resources.GetMatch (printf "%svideo.mp4" (replace .File.Dir "story/" ""))) }}wrapper style1 align-justify{{ else }}spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in{{ end}}">
+            <div class="{{ if (.Resources.GetMatch (printf "%svideo.mp4" (replace .File.Dir "story/" ""))) }}inner{{ else }}content{{ end }}">
                 <h2>{{- .Params.Subtitle -}}</h2>
                 <p>
                     {{- replace .Content .Summary "" | safeHTML -}}
@@ -136,7 +136,8 @@
                 </ul>
             </div>
 
-            {{ if (.Resources.GetMatch (printf "%sside.jpg" (replace .File.Dir "story/" ""))) }}
+            {{ if (.Resources.GetMatch (printf "%svideo.mp4" (replace .File.Dir "story/" ""))) }}
+            {{ else if (.Resources.GetMatch (printf "%sside.jpg" (replace .File.Dir "story/" ""))) }}
                 <div class="image">
                     {{ $side := .Resources.GetMatch (printf "%sside.jpg" (replace .File.Dir "story/" "")) }}
                     {{ $side := $side.Fit "1024x1024 webp q90" }}
@@ -148,49 +149,40 @@
     {{ end }}
 
     {{ if .Params.accolades }}
-        <section id="accolades" class="wrapper style1 align-center">
-            <div class="inner">
-                <h2>{{ .Params.Title }}'s Accolades</h2>
+        <section id="accolades" class="{{ if (.Resources.GetMatch (printf "%svideo.mp4" (replace .File.Dir "story/" ""))) }}spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in{{ else }}wrapper style1 align-justify{{ end }}">
+            <div class="{{ if (.Resources.GetMatch (printf "%svideo.mp4" (replace .File.Dir "story/" ""))) }}content{{ else }}inner{{ end }}">
+                <h2>Painting Accolades</h2>
                 
                 {{ with .Params.accolades }}
-                    <ul class="actions stacked">
+                    <ul>
                         {{ range . }}
                             <li>{{ . }}</li>
                         {{ end }}
                     </ul>
                 {{ end }}
+
+                {{ if .Params.collection }}
+                    <br>
+                    <p>{{ .Title }} is part of the <a href="/collections/{{ lower (replace .Params.collection " " "-") }}">{{ .Params.collection }} collection</a>.</p>
+                    <ul class="actions stacked">
+                        <li>
+                            <a href="/collections/{{ lower (replace .Params.collection " " "-") }}" class="button big wide smooth-scroll primary" onclick="trackPotential();">
+                                View Collection
+                            </a>
+                        </li>
+                    </ul>
+                {{ end }}
             </div>
+            {{ if (.Resources.GetMatch (printf "%svideo.mp4" (replace .File.Dir "story/" ""))) }}
+                <div class="image">
+                    {{ $side := .Resources.GetMatch (printf "%sdisplay.jpg" (replace .File.Dir "story/" "")) }}
+                    {{ $side := $side.Fit "1024x1024 webp q90" }}
+
+                    <img src="{{ $side.RelPermalink }}" alt="">
+                </div>
+            {{ end }}
         </section>
     {{ end }}
-
-    <section {{ if not (replace .Content .Summary "") }}id="more"{{ end }} class="spotlight style1 {{ if replace .Content .Summary "" }}orient-right{{ else }}orient-left{{ end }} content-align-left image-position-center onscroll-image-fade-in">
-        <div class="content">
-            <h2 id="artist">About the Artist, Ben Young</h2>
-            <p>
-                Ben Young is a contemporary fine artist originally from Appalachia, Ohio.
-                Originally a Software Engineer, he began painting in watercolor and oil less than two years ago, and his work has quickly gained attention for its emotional depth and storytelling.
-                Each piece is a personal narrative, rooted in lived experience and expressed through a sensitive, evocative style.
-                Each piece touches on themes of loss, love, family, and resilience, often drawing from his own life, including the tragic loss of his fiancée and journey it took to overcome those emotional burdens.
-                His paintings resonate with collectors drawn to authenticity, vulnerability, and a fresh, emerging voice in American art.
-            </p>
-            
-            <ul class="actions">
-                <li>
-                    <a href="/about/" class="button big wide smooth-scroll primary" onclick="trackPotential();">
-                        Learn More About Ben Young
-                    </a>
-                </li>
-                <li>
-                    <a href="#signup" class="button big wide smooth-scroll secondary" onclick="focusSignup();">
-                        Sign Up for Newsletter 
-                    </a>
-                </li>
-            </ul>
-        </div>
-        <div class="image">
-            <img src="/images/banner-sm.webp" srcset="/images/banner-sm.webp 500w, /images/banner.webp 1000w, /images/banner-lg.webp 1500w" alt="Artist Ben Young" width="600px" height="800px">
-        </div>
-    </section>
 
     {{ if .Params.products }}
         <section class="wrapper style1 align-center">
@@ -315,7 +307,7 @@
                     Designed to preserve the integrity of the original artwork, each reproduction is a museum-quality piece intended to be cherished for generations.
                 </p>
 
-                <hr>
+                <!--<hr>
 
                 <h3>Want to Know More?</h3>
                 <p>
@@ -337,11 +329,11 @@
                             Painting Details
                         </a>
                     </li>
-                </ul>
+                </ul>-->
             </div>
         </section>
 
-        <section id="commitment" class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in">
+        <!--<section id="commitment" class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in">
             <div class="content">
                 <h2>Commitment to Quality</h2>
                 <p>
@@ -441,7 +433,7 @@
                         </a>
                     </li>
                 </ul>
-            </div>
+            </div>-->
 
             {{ if (.Resources.GetMatch (printf "%scustomer.jpg" (replace .File.Dir "story/" ""))) }}
                 <div class="image">
@@ -505,7 +497,7 @@
         {{ end }}
     </section>
 
-    <section id="other" class="wrapper style1 align-center">
+    <!--<section id="other" class="wrapper style1 align-center">
         <div class="inner">
             <h2>Other Featured Works</h2>
             <p>The following works are in order of date the narration takes place, starting after the current painting.</p>
@@ -590,6 +582,35 @@
                     {{ end }}
                 {{ end}}
             {{ end }}
+        </div>
+    </section>-->
+
+    <section {{ if not (replace .Content .Summary "") }}id="more"{{ end }} class="spotlight style1 {{ if replace .Content .Summary "" }}orient-right{{ else }}orient-left{{ end }} content-align-left image-position-center onscroll-image-fade-in">
+        <div class="content">
+            <h2 id="artist">About the Artist, Ben Young</h2>
+            <p>
+                Ben Young is a contemporary fine artist originally from Appalachia, Ohio.
+                Originally a Software Engineer, he began painting in watercolor and oil less than two years ago, and his work has quickly gained attention for its emotional depth and storytelling.
+                Each piece is a personal narrative, rooted in lived experience and expressed through a sensitive, evocative style.
+                Each piece touches on themes of loss, love, family, and resilience, often drawing from his own life, including the tragic loss of his fiancée and journey it took to overcome those emotional burdens.
+                His paintings resonate with collectors drawn to authenticity, vulnerability, and a fresh, emerging voice in American art.
+            </p>
+            
+            <ul class="actions">
+                <li>
+                    <a href="/about/" class="button big wide smooth-scroll primary" onclick="trackPotential();">
+                        Learn More About Ben Young
+                    </a>
+                </li>
+                <li>
+                    <a href="#signup" class="button big wide smooth-scroll secondary" onclick="focusSignup();">
+                        Sign Up for Newsletter 
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <div class="image">
+            <img src="/images/banner-sm.webp" srcset="/images/banner-sm.webp 500w, /images/banner.webp 1000w, /images/banner-lg.webp 1500w" alt="Artist Ben Young" width="600px" height="800px">
         </div>
     </section>
 {{ end }}

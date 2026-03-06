@@ -19,6 +19,8 @@ products:
 
 accolades:
     - Featured in the Cold Decembers Exhibit at Brewtifully in North Canton, Ohio.
+
+collection: One Last December
 ---
 
 Dying in a Snowfall is a painting of reality — the cold, unflinching truth of a winter’s night in Dundee Falls, Ohio. It is the moment that directly connects to my oil painting [Final Embrace](/story/final-embrace/). Where Final Embrace lives in the dream I experienced as I slipped away, Dying in a Snowfall lives in the physical world — the actual scene as it happened.

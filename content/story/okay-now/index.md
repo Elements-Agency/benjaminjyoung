@@ -26,8 +26,13 @@ products:
       name: Original Watercolor Painting
 
 accolades:
-    - Featured in the 21st Bryn Du Art Show at the Bryn Du Mansion in Granville, Ohio.
-    - Featured in the Stark County Minority Business Association Opening Exhibit hosted at Kirk Schuring Center in Canton, Ohio.
+    - Featured and sold in the 21st Bryn Du Art Show at the Bryn Du Mansion in Granville, Ohio.
+    - Featured in ActLoCLE's Featured Artist.
+    - Featured in Massillon Community Arts Council's Featured Artist.
+    - Featured in Voyage Ohio - Benjamin Young’s Story.
+    - Reproduction featured in the Stark County Minority Business Association Opening Exhibit hosted at Kirk Schuring Center in Canton, Ohio.
+
+collection: Back into The Light
 ---
 
 Some portraits don’t just depict a person—they hold a moment. A breath. A lifetime.

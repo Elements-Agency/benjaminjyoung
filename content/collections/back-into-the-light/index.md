@@ -8,20 +8,6 @@ author: Ben Young
 images: ['painting.jpg']
 
 paintings:
-    - name: In The Dark
-      image: in-the-dark.jpg
-      story: /story/in-the-dark/
-      sold: true
-      original: /shop/#!/p/746855079
-      reproductions: true
-      reproduction: /shop/#!/p/746858779
-    - name: Coming Home
-      image: coming-home.jpg
-      story: /story/coming-home/
-      sold: false
-      original: /shop/#!/p/797673135
-      reproductions: true
-      reproduction: shop/#!/p/820773850
     - name: One Last Walk With Izzy
       image: one-last-walk-with-izzy.jpg
       story: /story/one-last-walk-with-izzy/
@@ -36,6 +22,20 @@ paintings:
       original: /shop/#!/p/710975182
       reproductions: true
       reproduction: /shop/#!/p/711193420
+    - name: Coming Home
+      image: coming-home.jpg
+      story: /story/coming-home/
+      sold: false
+      original: /shop/#!/p/797673135
+      reproductions: true
+      reproduction: shop/#!/p/820773850
+    - name: In The Dark
+      image: in-the-dark.jpg
+      story: /story/in-the-dark/
+      sold: true
+      original: /shop/#!/p/746855079
+      reproductions: true
+      reproduction: /shop/#!/p/746858779
     - name: Howard's Hills
       image: howards-hills.jpg
       story: /story/howards-hills/
@@ -43,6 +43,13 @@ paintings:
       original: /shop/#!/p/694481795
       reproductions: true
       reproduction: /shop/#!/p/694564503
+    - name: The Artist's Assistant
+      image: the-artists-assistant.jpg
+      story: /story/the-artists-assistant/
+      sold: true
+      original: /shop/#!/p/675661538
+      reproductions: true
+      reproduction: /shop/#!/p/683098813
     
 ---
 

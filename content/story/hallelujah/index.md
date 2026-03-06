@@ -25,6 +25,9 @@ accolades:
     - Featured in the Surface and Structure - A Dialogue in Texture Exhibit at the Canton Cultural Center Gallery in Canton, Ohio
     - Featured in the 2025 Door 2 Art Show at Door 2 Art in Hudson, Ohio.
     - Featured in the Cold Decembers Exhibit at Brewtifully in North Canton, Ohio.
+    - Featured in Voyage Ohio - Benjamin Young’s Story.
+
+collection: One Last December
 ---
 
 Hallelujah draws directly from one of the most haunting verses in Leonard Cohen’s timeless song:

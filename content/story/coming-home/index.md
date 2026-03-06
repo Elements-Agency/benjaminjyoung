@@ -16,6 +16,8 @@ products:
       total: 60
     - id: 797673135
       name: Original Watercolor Painting
+
+collection: Back into The Light
 ---
 
 **Coming Home** holds a quiet, aching tenderness - Izzy poised in the tall, sun-bleached grass, ears lifted in hope, carries a longing that reaches across the empty space between it and me sitting on the porch ahead of her.

@@ -27,7 +27,12 @@ products:
 
 accolades:
     - Featured in the 2025 Door 2 Art Show at Door 2 Art in Hudson, Ohio.
+    - Featured in ActLoCLE's Featured Artist.
+    - Featured in Massillon Community Arts Council's Featured Artist.
     - Featured in the Cold Decembers Exhibit at Brewtifully in North Canton, Ohio.
+    - Featured in Voyage Ohio - Benjamin Young’s Story.
+
+collection: One Last December
 ---
 
 Final Embrace is the most vulnerable painting I’ve ever created. It’s born from a dream — or perhaps a memory — that came to me on the edge of life itself. A dream of one last embrace with my late Fiancee.
