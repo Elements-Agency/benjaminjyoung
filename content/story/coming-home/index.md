@@ -12,7 +12,7 @@ buy: Coming Home is available for acquisition as the original watercolor paintin
 products:
     - id: 820773850
       name: 9x12in Limited Reproduction
-      left: 59
+      left: 58
       total: 60
     - id: 797673135
       name: Original Watercolor Painting
