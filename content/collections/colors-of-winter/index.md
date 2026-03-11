@@ -36,4 +36,8 @@ Immerse yourself in a serene seasonal journey with the Colors of Winter collecti
 
 <!--more-->
 
-All watercolors sized on 5x7in areas of Arches Cotton paper. Usually done in practice or warmup, before working on larger pieces.
+**The Colors of Winter** collection brings together Ben Young’s winter landscapes—watercolor paintings that explore the quiet depth and subtle beauty found within the coldest season.
+
+Winter is often described in terms of absence: muted fields, bare branches, and subdued skies. Yet for the attentive observer, winter reveals a remarkably sophisticated palette. Soft atmospheric grays, cool cerulean shadows across fresh snow, warm earth tones beneath weathered barns, and the faint amber glow of distant homes all emerge within the restrained light of the season.
+
+Through watercolor, Young studies these quiet tonal relationships with precision and restraint. The medium’s transparency allows light to move through each layer of pigment, creating the delicate luminosity necessary to capture snow-covered landscapes and winter air. Rather than dramatizing the season, these works focus on atmosphere—moments when the landscape feels paused, contemplative, and timeless.

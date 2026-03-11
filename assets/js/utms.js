@@ -25,7 +25,8 @@ function buildUTMUrl(baseUrl) {
         }
     });
 
-    return params.toString() ? `${baseUrl}?${params.toString()}` : baseUrl;
+    const [baseUrlPart, hash] = baseUrl.split('#');    
+    return params.toString() ? `${baseUrlPart}?${params.toString()}${hash ? '#' + hash : ''}` : baseUrl;
 }
 
 document.addEventListener("DOMContentLoaded", () => {

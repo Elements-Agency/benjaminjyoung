@@ -9,9 +9,10 @@
                     {{- .Title -}}
                 </h1>
             </div>
-            <p class="major">
+            <br>
+            <div class="major align-justify">
                 {{- .Summary -}}
-            </p>
+            </div>
         </div>
 
         <div class="image">
@@ -23,8 +24,10 @@
         <div class="inner">
             <h2>{{- .Params.subtitle -}}</h2>
 
-            <p>{{ replace .Content .Summary "" }}</p>
-            
+            <div class="align-justify">
+                {{ replace .Content .Summary "" | safeHTML }}
+            </div>
+
             <div class="items style1 onscroll-fade-in medium">
                 {{ range sort (where .Site.RegularPages "Section" "collections") "Params.Date" "asc" }}
                     <section>
@@ -72,7 +75,7 @@
     <section {{ if not (replace .Content .Summary "") }}id="more"{{ end }} class="spotlight style1 {{ if replace .Content .Summary "" }}orient-right{{ else }}orient-left{{ end }} content-align-left image-position-center onscroll-image-fade-in">
         <div class="content">
             <h2>About the Artist</h2>
-            <p>
+            <p class="align-justify">
                 Ben Young is a contemporary fine artist originally from Appalachia, Ohio.
                 Originally a Software Engineer, he began painting in watercolor and oil less than two years ago, and his work has quickly gained attention for its emotional depth and storytelling.
                 Each piece is a personal narrative, rooted in lived experience and expressed through a sensitive, evocative style.

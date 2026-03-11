@@ -35,9 +35,10 @@
                 </h1>
                 <span>Collection based on {{ .Params.Subtitle }}</span>
             </div>
-            <p class="major">
+            <br>
+            <div class="major align-justify">
                 {{- .Summary -}}
-            </p>
+            </div>
             <ul class="actions special">
                 <li>
                     <a href="#more" class="button big wide smooth-scroll-middle primary" onclick="trackInterest();">
@@ -89,9 +90,9 @@
         <div class="inner">
             <h2>{{ .Params.secondary }}</h2>
 
-            <p>
+            <div class="align-justify">
                 {{ replace .Content .Summary "" | safeHTML }}
-            </p>
+            </div>
 
             <div class="items style1 onscroll-fade-in medium">
                 {{ range .Params.paintings }}
@@ -118,15 +119,17 @@
 
                                 <br>
 
-                                Reproductions:
+                                {{ if .reproduction }}
+                                    Reproductions:
 
-                                <a href="{{ .reproduction }}" onclick="trackLikely();">
-                                    {{ if .reproductions }}
-                                        <strong style="font-weight:bold;">Available</strong>
-                                    {{ else }}
-                                        <strong style="font-weight:bold; color:red;">Sold Out</strong>
-                                    {{ end }}
-                                </a>
+                                    <a href="{{ .reproduction }}" onclick="trackLikely();">
+                                        {{ if .reproductions }}
+                                            <strong style="font-weight:bold;">Available</strong>
+                                        {{ else }}
+                                            <strong style="font-weight:bold; color:red;">Sold Out</strong>
+                                        {{ end }}
+                                    </a>
+                                {{ end }}
                             </p>
                             <ul class="actions stacked">
                                 {{ if .story }}
@@ -171,7 +174,7 @@
     <section {{ if not (replace .Content .Summary "") }}id="more"{{ end }} class="spotlight style1 {{ if replace .Content .Summary "" }}orient-right{{ else }}orient-left{{ end }} content-align-left image-position-center onscroll-image-fade-in">
         <div class="content">
             <h2 id="artist">About the Artist, Ben Young</h2>
-            <p>
+            <p class="align-justify">
                 Ben Young is a contemporary fine artist originally from Appalachia, Ohio.
                 Originally a Software Engineer, he began painting in watercolor and oil less than two years ago, and his work has quickly gained attention for its emotional depth and storytelling.
                 Each piece is a personal narrative, rooted in lived experience and expressed through a sensitive, evocative style.
