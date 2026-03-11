@@ -147,7 +147,6 @@
 		<!-- Wrapper -->
 			<main id="wrapper" class="divided">
 
-				<!-- One -->
 					<section class="banner style1 orient-left content-align-justify image-position-center fullscreen" role="banner">
 						<div class="content">
 							<header id="header">
@@ -268,7 +267,6 @@
 						{{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
 						{{ $section := where $section "Params.featured" true }}
 
-						<!-- Gallery -->
                         <div class="gallery style1 small onscroll-fade-in">
                             {{ range $i,$p := (sort $section "Params.order" "asc") }}
                                 {{ if lt $i 8 }}
@@ -310,41 +308,7 @@
 
 					</section>
 
-				<!-- Three -->
-				{{ $newsSection := where .Site.RegularPages "Section" "news" }}
-				{{ with index (sort $newsSection "Date" "desc") 0 }}
-					<section class="spotlight style1 orient-left content-align-justify image-position-center onscroll-image-fade-in" role="region">
-						<div class="content">
-							<h2><a href="/news/">Latest Collector News From The Artist</a></h2>
-								<p>
-									<a href="{{ .RelPermalink }}"><em>{{ .Date | time.Format "January 2, 2006" }}</em></a>
-									-
-									<quote>"{{ .Summary | plainify }}"</quote> - Benjamin J. Young
-								</p>
-								<ul class="actions stacked">
-									<li><a href="{{ .RelPermalink }}" class="button">Read Article</a></li>
-								</ul>
-						</div>
-
-						{{ if .Resources.GetMatch .Params.preview_image }}
-							{{ $thumbnail := .Resources.GetMatch .Params.preview_image }}
-							{{ $thumbnail := $thumbnail.Fill "500x500 Center" }}
-							{{ $thumbnail := $thumbnail.Resize "500x webp" }}
-
-							{{ $thumbnailsm := .Resources.GetMatch .Params.preview_image }}
-							{{ $thumbnailsm := $thumbnailsm.Fill "412x412 Center" }}
-							{{ $thumbnailsm := $thumbnailsm.Resize "412x webp q90" }}
-
-							<div class="image">
-								<a href="{{ .RelPermalink }}" aria-label="{{ .Title }}">
-									<img src="{{ $thumbnailsm.RelPermalink }}" srcset="{{ $thumbnailsm.RelPermalink }} 412w, {{ $thumbnail.RelPermalink }} 500w" alt="{{ .Params.alt }}" title='{{ .Title }} ({{ .Date| time.Format "2006" }}) by Ben Young' />
-								</a>
-							</div>
-						{{ end }}
-					</section>
-    			{{ end }}
-
-					<section class="wrapper style1 align-center" role="region">
+					<!-- <section class="wrapper style1 align-center" role="region">
                         <div id="landscapes" class="inner">
 						    <h2 class="strong">The Quiet Expanse</h2>
 							<p class="align-justify">
@@ -359,7 +323,6 @@
 						{{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
 						{{ $section := where $section "Params.landscape" true }}
 
-						<!-- Gallery -->
                         <div class="gallery style1 small onscroll-fade-in">
                             {{ range $i,$p := (sort $section "Params.order" "asc") }}
                                 {{ if lt $i 4 }}
@@ -397,9 +360,8 @@
 							</ul>
 						</div>
 
-					</section>
+					</section>-->
 
-				<!-- Four -->
 					<section class="spotlight style1 orient-right content-align-justify image-position-center onscroll-image-fade-in" role="region">
 						<div class="content">
 							<h2>Private Collector List</h2>
@@ -446,7 +408,7 @@
 						</div>
 					</section>
 
-					<section class="wrapper style1 align-center" role="region">
+					<!--<section class="wrapper style1 align-center" role="region">
                         <div id="landscapes" class="inner">
 						    <h2 class="strong">The Quiet Abundance</h2>
 							<p class="align-justify">
@@ -460,7 +422,6 @@
 						{{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
 						{{ $section := where $section "Params.subfeatured" true }}
 
-						<!-- Gallery -->
                         <div class="gallery style1 small onscroll-fade-in">
                             {{ range $i,$p := (sort $section "Params.order" "asc") }}
                                 {{ if lt $i 4 }}
@@ -498,10 +459,9 @@
 							</ul>
 						</div>
 
-					</section>
+					</section>-->
 
-				<!-- Five -->
-					<section class="wrapper style1 align-center" role="region">
+					<!--<section class="wrapper style1 align-center" role="region">
 						<div class="inner">
 							<h2>Acquire Ben Young's Artwork</h2>
 							<p class="align-justify">
@@ -549,15 +509,46 @@
 								</section>
 							</div>
 						</div>
-					</section>
+					</section>-->
 
-				<!-- Six -->
+				{{ $newsSection := where .Site.RegularPages "Section" "news" }}
+				{{ with index (sort $newsSection "Date" "desc") 0 }}
+					<section class="spotlight style1 orient-left content-align-justify image-position-center onscroll-image-fade-in" role="region">
+						<div class="content">
+							<h2><a href="/news/">Latest Collector News From The Artist</a></h2>
+								<p>
+									<a href="{{ .RelPermalink }}"><em>{{ .Date | time.Format "January 2, 2006" }}</em></a>
+									-
+									<quote>"{{ .Summary | plainify }}"</quote> - Benjamin J. Young
+								</p>
+								<ul class="actions stacked">
+									<li><a href="{{ .RelPermalink }}" class="button">Read Article</a></li>
+								</ul>
+						</div>
+
+						{{ if .Resources.GetMatch .Params.preview_image }}
+							{{ $thumbnail := .Resources.GetMatch .Params.preview_image }}
+							{{ $thumbnail := $thumbnail.Fill "500x500 Center" }}
+							{{ $thumbnail := $thumbnail.Resize "500x webp" }}
+
+							{{ $thumbnailsm := .Resources.GetMatch .Params.preview_image }}
+							{{ $thumbnailsm := $thumbnailsm.Fill "412x412 Center" }}
+							{{ $thumbnailsm := $thumbnailsm.Resize "412x webp q90" }}
+
+							<div class="image">
+								<a href="{{ .RelPermalink }}" aria-label="{{ .Title }}">
+									<img src="{{ $thumbnailsm.RelPermalink }}" srcset="{{ $thumbnailsm.RelPermalink }} 412w, {{ $thumbnail.RelPermalink }} 500w" alt="{{ .Params.alt }}" title='{{ .Title }} ({{ .Date| time.Format "2006" }}) by Ben Young' />
+								</a>
+							</div>
+						{{ end }}
+					</section>
+    			{{ end }}
+
 					<section id="latest" class="wrapper style1 align-center" role="region">
                         <div class="inner">
                             <h2>Latest Artwork Creations</h2>
                         </div>
 
-						<!-- Gallery -->
                         <div class="gallery style2 medium onscroll-fade-in">
                             {{ $mainSections := .Site.Params.mainSections | default (slice "post") }}
                             {{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
@@ -603,7 +594,6 @@
 						</div>
 					</section>
 
-				<!-- Seven -->
 					<section class="wrapper style1 align-center" role="region">
 						<div class="inner">
 							<h2>Get In Touch</h2>
