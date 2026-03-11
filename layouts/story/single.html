@@ -43,14 +43,14 @@
             <ul class="actions special">
                 {{ if $full }}
                     <li class="gallery">
-                        <a href="{{ $full.RelPermalink }}" class="button big wide primary" data-fancybox data-caption="{{ .Title }} by Ben Young" aria-label="View Full Painting" onclick="trackInterest();">
+                        <a href="{{ $full.RelPermalink }}" class="button big wide secondary" data-fancybox data-caption="{{ .Title }} by Ben Young" aria-label="View Full Painting" onclick="trackInterest();">
                             View Full Painting
                         </a>
                     </li>
                 {{ end }}
                 <li>
-                    <a href="#more" class="button big wide smooth-scroll-middle secondary" onclick="trackInterest();">
-                        Learn More
+                    <a href="#purchase" class="button big wide smooth-scroll primary" onclick="trackPotential();">
+                        Acquire Artwork
                     </a>
                 </li>
             </ul>
@@ -191,7 +191,7 @@
                 <p>{{- .Params.buy -}}</p>
 
                 <p class="center">
-                    <a href="#signup" class="smooth-scroll" onclick="focusSignup();">Join the Collector's Circle</a> to gain access for collector privileged pricing on select works.
+                    <a href="#signup" class="smooth-scroll" onclick="focusSignup();">Join the Collector's Circle</a> to gain access for collector privileged pricing on select works and <strong>15% OFF</strong> your first purchase.
                 </p>
 
                 <script>
