@@ -272,15 +272,21 @@
 
                         Ecwid.OnAPILoaded.add(function() {
                             Ecwid.OnCartChanged.add(function(cart) {
-                                if (cart && cart.items && cart.items.length > 0) {
+                                cart_string = cart.items.map(function(item) { return item.product.id + ' x' + item.quantity; }).join(', ');
+
+                                if (cart && cart.items && cart.items.length > 0 && cart_string !== localStorage.cart) {
                                     fbq('track', 'AddToCart', {
-                                        content_ids: cart.items.map(function(item) { return item.product.sku ? item.product.sku : item.product.id; }),
+                                        content_ids: cart.items.map(function(item) { return item.product.id; }),
                                         content_type: 'product',
-                                        contents: cart.items.map(function(item) { return {id: item.product.sku ? item.product.sku : item.product.id, quantity: item.quantity}; }),
+                                        content_name: cart.items.map(function(item) { return item.product.name; }).join(', '),
+                                        contents: cart.items.map(function(item) { return {id: item.product.id, quantity: item.quantity}; }),
                                         value: cart.items.reduce(function(sum, item) { return sum + (item.product.price * item.quantity); }, 0),
-                                        currency: 'USD'
+                                        currency: 'USD',
+                                        event_id: 'ecwid_add_to_cart_' + Date.now()
                                     });
                                 }
+
+                                localStorage.cart = cart_string;
 
                                 trackLikely();
                             });
@@ -288,11 +294,13 @@
                             Ecwid.OnOrderPlaced.add(function(order) {
                                 if (order && order.total) {
                                     fbq('track', 'Purchase', {
-                                        content_ids: order.items.map(function(item) { return item.product.sku ? item.product.sku : item.product.id; }),
+                                        content_ids: order.items.map(function(item) { return item.product.id; }),
                                         content_type: 'product',
-                                        contents: order.items.map(function(item) { return {id: item.product.sku ? item.product.sku : item.product.id, quantity: item.quantity}; }),
+                                        content_name: cart.items.map(function(item) { return item.product.name; }).join(', '),
+                                        contents: order.items.map(function(item) { return {id: item.product.id, quantity: item.quantity}; }),
                                         value: order.total,
-                                        currency: 'USD'
+                                        currency: 'USD',
+                                        event_id: 'ecwid_begin_checkout_' + Date.now()
                                     });
                                 }
                                 

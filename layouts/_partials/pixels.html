@@ -27,7 +27,13 @@
     <!-- End Bing UET Tag -->
 {{ else }}
     <script>
-        function fbq() { return; }
-        function gtag() { return; }
+        function fbq() {
+            console.log('fb pixel called with', Array.from(arguments));
+            return;
+        }
+        function gtag() {
+            console.log('gtag called with', Array.from(arguments));
+            return;
+        }
     </script>
 {{ end }}
