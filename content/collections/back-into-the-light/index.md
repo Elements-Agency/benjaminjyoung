@@ -28,7 +28,7 @@ paintings:
       sold: false
       original: /shop/#!/p/797673135
       reproductions: true
-      reproduction: shop/#!/p/820773850
+      reproduction: /shop/#!/p/820773850
     - name: In The Dark
       image: in-the-dark.jpg
       story: /story/in-the-dark/

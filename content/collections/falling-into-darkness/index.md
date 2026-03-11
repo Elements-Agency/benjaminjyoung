@@ -14,14 +14,14 @@ paintings:
       sold: false
       original: /shop/#!/p/734463473
       reproductions: true
-      reproduction: shop/#!/p/734463429
+      reproduction: /shop/#!/p/734463429
     - name: Hallelujah
       image: hallelujah.jpg
       story: /story/hallelujah/
       sold: false
       original: /shop/#!/p/691515054
       reproductions: true
-      reproduction: shop/#!/p/691515048
+      reproduction: /shop/#!/p/691515048
     - name: Dying In A Snowfall
       image: dying-in-a-snowfall.jpg
       story: /story/dying-in-a-snowfall/

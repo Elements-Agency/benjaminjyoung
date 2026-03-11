@@ -13,19 +13,22 @@ paintings:
       sold: false
       original: /shop/#!/p/805529148
       reproductions: true
-      reproduction: shop/#!/p/805526958
+      reproduction: /shop/#!/p/805526958
+      link: /artwork/winter-barn-i/
     - name: Winter Birch I
       image: winter-birch-i.jpg
       sold: false
       original: /shop/#!/p/810837299
       reproductions: true
-      reproduction: shop/#!/p/811010309
+      reproduction: /shop/#!/p/811010309
+      link: /artwork/winter-birch-i/
     - name: Winter Pasture I
       image: winter-pasture-i.jpg
       sold: false
       original: /shop/#!/p/810824846
       reproductions: true
-      reproduction: shop/#!/p/811008414
+      reproduction: /shop/#!/p/811008414
+      link: /artwork/winter-pasture-i/
     
 ---
 
