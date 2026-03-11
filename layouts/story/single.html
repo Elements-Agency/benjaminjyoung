@@ -93,27 +93,18 @@
         {{ end }}
     </section>
 
-    {{ if (.Resources.GetMatch (printf "%svideo.mp4" (replace .File.Dir "story/" ""))) }}
-        {{ $video := .Resources.GetMatch (printf "%svideo.mp4" (replace .File.Dir "story/" "")) }}
+    {{ if .Params.vimeo }}
         <section class="wrapper style1 align-center">
-            {{ $preview := $full.Fill "1920x1080 webp q86" }}
-                {{ if .Params.vimeo }}
-                    <div style="padding:56.25% 0 0 0;position:relative;">
-                        <iframe src="https://player.vimeo.com/video/{{ .Params.vimeo }}?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="video"></iframe>
-                    </div>
-                    <script src="https://player.vimeo.com/api/player.js"></script>
-                {{ else }}
-                    <video controls playsinline preload="metadata" width="100%" aria-label="{{ .Title }} video" poster="{{ $preview.RelPermalink }}">
-                        <source src="{{ $video.RelPermalink }}" type="video/mp4">
-                        Your browser does not support the video tag.
-                    </video>
-                {{ end}}
+            <div style="padding:56.25% 0 0 0;position:relative;">
+                <iframe src="https://player.vimeo.com/video/{{ .Params.vimeo }}?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="video"></iframe>
+            </div>
+            <script src="https://player.vimeo.com/api/player.js"></script>
         </section>
     {{ end }}
 
     {{ if replace .Content .Summary "" }}
-        <section id="more" class="{{ if (.Resources.GetMatch (printf "%svideo.mp4" (replace .File.Dir "story/" ""))) }}wrapper style1 align-justify{{ else }}spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in{{ end}}">
-            <div class="{{ if (.Resources.GetMatch (printf "%svideo.mp4" (replace .File.Dir "story/" ""))) }}inner{{ else }}content{{ end }}">
+        <section id="more" class="{{ if .Params.vimeo }}wrapper style1 align-justify{{ else }}spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in{{ end}}">
+            <div class="{{ if .Params.vimeo }}inner{{ else }}content{{ end }}">
                 <h2>{{- .Params.Subtitle -}}</h2>
                 <p>
                     {{- replace .Content .Summary "" | safeHTML -}}
@@ -136,7 +127,7 @@
                 </ul>
             </div>
 
-            {{ if (.Resources.GetMatch (printf "%svideo.mp4" (replace .File.Dir "story/" ""))) }}
+            {{ if .Params.vimeo }}
             {{ else if (.Resources.GetMatch (printf "%sside.jpg" (replace .File.Dir "story/" ""))) }}
                 <div class="image">
                     {{ $side := .Resources.GetMatch (printf "%sside.jpg" (replace .File.Dir "story/" "")) }}
@@ -149,8 +140,8 @@
     {{ end }}
 
     {{ if .Params.accolades }}
-        <section id="accolades" class="{{ if (.Resources.GetMatch (printf "%svideo.mp4" (replace .File.Dir "story/" ""))) }}spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in{{ else }}wrapper style1 align-justify{{ end }}">
-            <div class="{{ if (.Resources.GetMatch (printf "%svideo.mp4" (replace .File.Dir "story/" ""))) }}content{{ else }}inner{{ end }}">
+        <section id="accolades" class="{{ if .Params.vimeo }}spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in{{ else }}wrapper style1 align-justify{{ end }}">
+            <div class="{{ if .Params.vimeo }}content{{ else }}inner{{ end }}">
                 <h2>Painting Accolades</h2>
                 
                 {{ with .Params.accolades }}
@@ -173,7 +164,7 @@
                     </ul>
                 {{ end }}
             </div>
-            {{ if (.Resources.GetMatch (printf "%svideo.mp4" (replace .File.Dir "story/" ""))) }}
+            {{ if .Params.vimeo }}
                 <div class="image">
                     {{ $side := .Resources.GetMatch (printf "%sdisplay.jpg" (replace .File.Dir "story/" "")) }}
                     {{ $side := $side.Fit "1024x1024 webp q90" }}
