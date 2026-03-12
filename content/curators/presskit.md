@@ -100,6 +100,5 @@ All images are cleared for editorial use in media features, interviews, exhibiti
 ## CONACT ##
 
   * Name: Benjamin J. Young
-  * Email: [assistant@benjaminjyoung.com](mailto:assistant@benjaminjyoung.com)
   * Website: [https://benjaminjyoung.com](https://benjaminjyoung.com)
   * Instagram: [@artistbenyoung](https://www.instagram.com/artistbenyoung/)
