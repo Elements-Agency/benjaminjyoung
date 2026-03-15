@@ -45,6 +45,7 @@ reproductions:
     - 2: Dawn Whatley (Hackettstown, NJ)
     - 3: Theresa Ehmke (Hutchinson, KS)
     - 4: Reserved
+    - 5: Krystina Flynn (Mecosta, MI)
   - 9x12in:
     - 1: Ben Young (East Sparta, OH)
     - 2: Fred Boone (Canton, OH)
@@ -116,6 +117,7 @@ reproductions:
     - 5: Megan Darwin (Shaker Heights, OH)
     - 6: Victoria Anderson (Williamsfield, OH)
     - 7: Amy Moroney (Vienna, VA)
+    - 8: Krystina Flynn (Mecosta, MI)
   - 24x32in:
     - 1: Ben Young (East Sparta, OH)
     - 2: Reserved
