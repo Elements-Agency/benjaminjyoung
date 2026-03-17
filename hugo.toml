@@ -45,23 +45,23 @@ timeout = '600'
     pageRef = '/'
     weight = 10
 [[menus.main]]
-    name = 'About'
-    pageRef = '/about/'
+    name = 'Featured Art'
+    pageRef = '/featured/'
     weight = 20
 [[menus.main]]
-    name = 'Artwork'
-    pageRef = '/featured/'
+    name = 'Art Collections'
+    pageRef = '/collections/'
     weight = 30
 [[menus.main]]
-    name = 'Acquire'
+    name = 'Acquire Artwork'
     pageRef = '/shop/'
     weight = 40
 [[menus.main]]
-    name = 'News'
-    pageRef = '/news/'
+    name = 'About Artist'
+    pageRef = '/Contact/'
     weight = 50
 [[menus.main]]
-    name = 'Contact'
+    name = 'Contact Artist'
     pageRef = '/contact/'
     weight = 60
 
