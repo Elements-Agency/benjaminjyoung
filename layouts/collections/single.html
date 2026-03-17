@@ -162,35 +162,6 @@
         </section>
     {{ end }}
 
-    <section {{ if not (replace .Content .Summary "") }}id="more"{{ end }} class="spotlight style1 {{ if replace .Content .Summary "" }}orient-right{{ else }}orient-left{{ end }} content-align-left image-position-center onscroll-image-fade-in">
-        <div class="content">
-            <h2 id="artist">About the Artist, Ben Young</h2>
-            <p class="align-justify">
-                Ben Young is a contemporary fine artist originally from Appalachia, Ohio.
-                Originally a Software Engineer, he began painting in watercolor and oil less than two years ago, and his work has quickly gained attention for its emotional depth and storytelling.
-                Each piece is a personal narrative, rooted in lived experience and expressed through a sensitive, evocative style.
-                Each piece touches on themes of loss, love, family, and resilience, often drawing from his own life, including the tragic loss of his fiancée and journey it took to overcome those emotional burdens.
-                His paintings resonate with collectors drawn to authenticity, vulnerability, and a fresh, emerging voice in American art.
-            </p>
-            
-            <ul class="actions">
-                <li>
-                    <a href="/story/" class="button big wide smooth-scroll primary" onclick="trackInterest();">
-                        Explore Ben's Story
-                    </a>
-                </li>
-                <li>
-                    <a href="/about/" class="button big wide smooth-scroll secondary" onclick="trackPotential();">
-                        Learn More About Ben Young
-                    </a>
-                </li>
-            </ul>
-        </div>
-        <div class="image">
-            <img src="/images/banner-sm.webp" srcset="/images/banner-sm.webp 500w, /images/banner.webp 1000w, /images/banner-lg.webp 1500w" alt="Artist Ben Young" width="600px" height="800px">
-        </div>
-    </section>
-
     <section id="signup" class="wrapper style1 align-center">
         <div class="inner">
             <h2>Ready to Learn More? Join Collector's Circle</h2>
@@ -240,6 +211,35 @@
                 <img src="{{ $side.RelPermalink }}" alt="">
             </div>
         {{ end }}
+    </section>
+
+    <section {{ if not (replace .Content .Summary "") }}id="more"{{ end }} class="spotlight style1 {{ if replace .Content .Summary "" }}orient-right{{ else }}orient-left{{ end }} content-align-left image-position-center onscroll-image-fade-in">
+        <div class="content">
+            <h2 id="artist">About the Artist, Ben Young</h2>
+            <p class="align-justify">
+                Ben Young is a contemporary fine artist originally from Appalachia, Ohio.
+                Originally a Software Engineer, he began painting in watercolor and oil less than two years ago, and his work has quickly gained attention for its emotional depth and storytelling.
+                Each piece is a personal narrative, rooted in lived experience and expressed through a sensitive, evocative style.
+                Each piece touches on themes of loss, love, family, and resilience, often drawing from his own life, including the tragic loss of his fiancée and journey it took to overcome those emotional burdens.
+                His paintings resonate with collectors drawn to authenticity, vulnerability, and a fresh, emerging voice in American art.
+            </p>
+            
+            <ul class="actions">
+                <li>
+                    <a href="/story/" class="button big wide smooth-scroll primary" onclick="trackInterest();">
+                        Explore Ben's Story
+                    </a>
+                </li>
+                <li>
+                    <a href="/about/" class="button big wide smooth-scroll secondary" onclick="trackPotential();">
+                        Learn More About Ben Young
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <div class="image">
+            <img src="/images/banner-sm.webp" srcset="/images/banner-sm.webp 500w, /images/banner.webp 1000w, /images/banner-lg.webp 1500w" alt="Artist Ben Young" width="600px" height="800px">
+        </div>
     </section>
 {{ end }}
 

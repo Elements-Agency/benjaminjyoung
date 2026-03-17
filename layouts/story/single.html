@@ -139,6 +139,57 @@
         </section>
     {{ end }}
 
+    <section id="signup" class="wrapper style1 align-center">
+        <div class="inner">
+            <h2>Ready to Learn More? Join Collector's Circle</h2>
+            <p>
+                If you would like to step inside the story behind this piece—discover its inspiration, explore the creative journey, and gain access to private notes and collector insights—I invite you to join my private collector’s list.
+            </p>
+            <p>
+                As a welcome gesture, you will receive a preferred 15% collector’s privilege on your acquisitions, along with entry into an exclusive monthly drawing to receive a complimentary limited reproduction.
+            </p>
+
+            <form method="post" action="https://benjaminjyoung.us14.list-manage.com/subscribe/post?u=5a284b4c27bab02102d3645de&amp;id=a01ee307ec&amp;f_id=0087c0e0f0" class="align-left" target="_blank">
+                <div class="fields">
+                    <div class="field">
+                        <label for="email">Email Address</label>
+                        <input type="text" name="EMAIL" id="email" value="" required onfocus="focusSignup();">
+                    </div>
+                    <div class="field half">
+                        <label for="fname">First Name</label>
+                        <input type="text" name="FNAME" id="fname" value="" onfocus="focusSignup();">
+                    </div>
+                    <div class="field half">
+                        <label for="lname">Last Name</label>
+                        <input type="text" name="LNAME" id="lname" value="" onfocus="focusSignup();">
+                    </div>
+                </div>
+                <div hidden>
+                    <input type="hidden" id="hid-MMERGE7" name="MMERGE7" value="Story">
+                    <input type="hidden" name="tags" value="7257335,7257510">
+                </div>
+                <div aria-hidden="true" style="position: absolute; left: -5000px;">
+                        <input type="text" name="b_5a284b4c27bab02102d3645de_a01ee307ec" tabindex="-1" value="">
+                    </div>
+                <ul class="actions">
+                    <li><input type="submit" name="submit" id="submit" value="Request Access"></li>
+                </ul>
+            </form>
+
+            <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script>
+            <script type="text/javascript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';fnames[6]='COMPANY';ftypes[6]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+        </div>
+
+        {{ if (.Resources.GetMatch (printf "%scollector.jpg" (replace .File.Dir "story/" ""))) }}
+            <div class="image">
+                {{ $side := .Resources.GetMatch (printf "%scollector.jpg" (replace .File.Dir "story/" "")) }}
+                {{ $side := $side.Fit "800x800 webp q86" }}
+
+                <img src="{{ $side.RelPermalink }}" alt="">
+            </div>
+        {{ end }}
+    </section>
+
     {{ if .Params.accolades }}
         <section id="accolades" class="{{ if .Params.vimeo }}spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in{{ else }}wrapper style1 align-justify{{ end }}">
             <div class="{{ if .Params.vimeo }}content{{ else }}inner{{ end }}">
@@ -444,57 +495,6 @@
             {{ end }}
         </section>
     {{ end }}
-
-    <section id="signup" class="wrapper style1 align-center">
-        <div class="inner">
-            <h2>Ready to Learn More? Join Collector's Circle</h2>
-            <p>
-                If you would like to step inside the story behind this piece—discover its inspiration, explore the creative journey, and gain access to private notes and collector insights—I invite you to join my private collector’s list.
-            </p>
-            <p>
-                As a welcome gesture, you will receive a preferred 15% collector’s privilege on your acquisitions, along with entry into an exclusive monthly drawing to receive a complimentary limited reproduction.
-            </p>
-
-            <form method="post" action="https://benjaminjyoung.us14.list-manage.com/subscribe/post?u=5a284b4c27bab02102d3645de&amp;id=a01ee307ec&amp;f_id=0087c0e0f0" class="align-left" target="_blank">
-                <div class="fields">
-                    <div class="field">
-                        <label for="email">Email Address</label>
-                        <input type="text" name="EMAIL" id="email" value="" required onfocus="focusSignup();">
-                    </div>
-                    <div class="field half">
-                        <label for="fname">First Name</label>
-                        <input type="text" name="FNAME" id="fname" value="" onfocus="focusSignup();">
-                    </div>
-                    <div class="field half">
-                        <label for="lname">Last Name</label>
-                        <input type="text" name="LNAME" id="lname" value="" onfocus="focusSignup();">
-                    </div>
-                </div>
-                <div hidden>
-                    <input type="hidden" id="hid-MMERGE7" name="MMERGE7" value="Story">
-                    <input type="hidden" name="tags" value="7257335,7257510">
-                </div>
-                <div aria-hidden="true" style="position: absolute; left: -5000px;">
-                        <input type="text" name="b_5a284b4c27bab02102d3645de_a01ee307ec" tabindex="-1" value="">
-                    </div>
-                <ul class="actions">
-                    <li><input type="submit" name="submit" id="submit" value="Request Access"></li>
-                </ul>
-            </form>
-
-            <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script>
-            <script type="text/javascript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';fnames[6]='COMPANY';ftypes[6]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
-        </div>
-
-        {{ if (.Resources.GetMatch (printf "%scollector.jpg" (replace .File.Dir "story/" ""))) }}
-            <div class="image">
-                {{ $side := .Resources.GetMatch (printf "%scollector.jpg" (replace .File.Dir "story/" "")) }}
-                {{ $side := $side.Fit "800x800 webp q86" }}
-
-                <img src="{{ $side.RelPermalink }}" alt="">
-            </div>
-        {{ end }}
-    </section>
 
     <!--<section id="other" class="wrapper style1 align-center">
         <div class="inner">
