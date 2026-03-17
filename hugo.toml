@@ -74,11 +74,11 @@ timeout = '600'
     pageRef = '/about/'
     weight = 30
 [[menus.inside]]
-    name = 'Artwork'
+    name = 'Art'
     pageRef = '/featured/'
     weight = 40
 [[menus.inside]]
-    name = 'Acquire'
+    name = 'Shop'
     pageRef = '/shop/'
     weight = 50
 [[menus.inside]]
@@ -95,11 +95,11 @@ timeout = '600'
     pageRef = '/'
     weight = 10
 [[menus.small]]
-    name = 'About'
-    pageRef = '/about/'
+    name = 'Acquire'
+    pageRef = '/shop/'
     weight = 20
 [[menus.small]]
-    name = 'Join Collectors Circle'
+    name = 'Join'
     pageRef = '/sign-up/'
     weight = 30
 
