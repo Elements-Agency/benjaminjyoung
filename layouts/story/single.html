@@ -190,42 +190,6 @@
         {{ end }}
     </section>
 
-    {{ if .Params.accolades }}
-        <section id="accolades" class="{{ if .Params.vimeo }}spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in{{ else }}wrapper style1 align-justify{{ end }}">
-            <div class="{{ if .Params.vimeo }}content{{ else }}inner{{ end }}">
-                <h2>Painting Accolades</h2>
-                
-                {{ with .Params.accolades }}
-                    <ul>
-                        {{ range . }}
-                            <li>{{ . }}</li>
-                        {{ end }}
-                    </ul>
-                {{ end }}
-
-                {{ if .Params.collection }}
-                    <br>
-                    <p>{{ .Title }} is part of the <a href="/collections/{{ lower (replace .Params.collection " " "-") }}">{{ .Params.collection }} collection</a>.</p>
-                    <ul class="actions stacked">
-                        <li>
-                            <a href="/collections/{{ lower (replace .Params.collection " " "-") }}" class="button big wide smooth-scroll primary" onclick="trackPotential();">
-                                View Collection
-                            </a>
-                        </li>
-                    </ul>
-                {{ end }}
-            </div>
-            {{ if .Params.vimeo }}
-                <div class="image">
-                    {{ $side := .Resources.GetMatch (printf "%sdisplay.jpg" (replace .File.Dir "story/" "")) }}
-                    {{ $side := $side.Fit "1024x1024 webp q90" }}
-
-                    <img src="{{ $side.RelPermalink }}" alt="">
-                </div>
-            {{ end }}
-        </section>
-    {{ end }}
-
     {{ if .Params.products }}
         <section class="wrapper style1 align-center">
             <div class="inner">
@@ -489,6 +453,42 @@
                 <div class="image">
                     {{ $side := .Resources.GetMatch (printf "%scustomer.jpg" (replace .File.Dir "story/" "")) }}
                     {{ $side := $side.Fit "800x800 webp q86" }}
+
+                    <img src="{{ $side.RelPermalink }}" alt="">
+                </div>
+            {{ end }}
+        </section>
+    {{ end }}
+
+    {{ if .Params.accolades }}
+        <section id="accolades" class="{{ if .Params.vimeo }}spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in{{ else }}wrapper style1 align-justify{{ end }}">
+            <div class="{{ if .Params.vimeo }}content{{ else }}inner{{ end }}">
+                <h2>Painting Accolades</h2>
+                
+                {{ with .Params.accolades }}
+                    <ul>
+                        {{ range . }}
+                            <li>{{ . }}</li>
+                        {{ end }}
+                    </ul>
+                {{ end }}
+
+                {{ if .Params.collection }}
+                    <br>
+                    <p>{{ .Title }} is part of the <a href="/collections/{{ lower (replace .Params.collection " " "-") }}">{{ .Params.collection }} collection</a>.</p>
+                    <ul class="actions stacked">
+                        <li>
+                            <a href="/collections/{{ lower (replace .Params.collection " " "-") }}" class="button big wide smooth-scroll primary" onclick="trackPotential();">
+                                View Collection
+                            </a>
+                        </li>
+                    </ul>
+                {{ end }}
+            </div>
+            {{ if .Params.vimeo }}
+                <div class="image">
+                    {{ $side := .Resources.GetMatch (printf "%sdisplay.jpg" (replace .File.Dir "story/" "")) }}
+                    {{ $side := $side.Fit "1024x1024 webp q90" }}
 
                     <img src="{{ $side.RelPermalink }}" alt="">
                 </div>
