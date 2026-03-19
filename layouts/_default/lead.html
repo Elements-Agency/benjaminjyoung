@@ -12,6 +12,17 @@
 
         localStorage.viewSignup = true;
       }
+
+      function trackLeadFocus() {
+        if (localStorage.focusedLead) {
+          return;
+        }
+
+        fbq('trackCustom', 'LeadFocus');
+        gtag('event', 'lead_focus', {});
+
+        localStorage.focusedLead = true;
+      }
     </script>
 {{ end }}
 
@@ -40,7 +51,7 @@
             <div style="text-align: left" class="sender-form-field">
               <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
               <div id="mc_embed_signup">
-                  <form action="https://benjaminjyoung.us14.list-manage.com/subscribe/post?u=5a284b4c27bab02102d3645de&amp;id=a01ee307ec&amp;f_id=00e0c0e0f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
+                  <form action="https://benjaminjyoung.us14.list-manage.com/subscribe/post?u=5a284b4c27bab02102d3645de&amp;id=a01ee307ec&amp;f_id=00e0c0e0f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" onfocus="trackLeadFocus();">
                       <div id="mc_embed_signup_scroll">
                           <div class="mc-field-group field"><label for="mce-EMAIL">Email Address <span class="asterisk">*</span></label><input type="email" name="EMAIL" class="required email" id="mce-EMAIL" required="" value=""></div>
                           <div class="mc-field-group field"><label for="mce-FNAME">First Name <span class="asterisk">*</span></label><input type="text" name="FNAME" class=" text" id="mce-FNAME" value=""></div>
