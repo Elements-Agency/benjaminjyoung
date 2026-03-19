@@ -25,7 +25,7 @@ paintings:
     - name: Coming Home
       image: coming-home.jpg
       story: /story/coming-home/
-      sold: false
+      sold: true
       original: /shop/#!/p/797673135
       reproductions: true
       reproduction: /shop/#!/p/820773850

@@ -24,7 +24,7 @@ paintings:
       link: /artwork/winter-birch-i/
     - name: Winter Pasture I
       image: winter-pasture-i.jpg
-      sold: false
+      sold: true
       original: /shop/#!/p/810824846
       reproductions: true
       reproduction: /shop/#!/p/811008414

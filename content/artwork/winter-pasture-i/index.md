@@ -22,11 +22,14 @@ fall:   0
 winter: 1
 all:    1
 
-status: sale
+buyer: Kathy DiLoretto (East Sparta, OH)
+
+status: sold
 products:
     - id: 810824846
       name: Original Painting
       price: $200
+      sold: true
     - id: 811008414
       name: Open Reproduction
       price: $29
@@ -43,7 +46,7 @@ mediums: [watercolor]
 materials: [cotton paper]
 colors: [white, blue, black]
 collections: [landscapes, colors of winter]
-locations: [kolp]
+locations: [sold]
 tags: [snow, winter, cow, trees, water, creek, pasture, cool, cold, outdoors, sky, calm, lonely, isolation, peaceful, melancholy, cool]
 
 ---

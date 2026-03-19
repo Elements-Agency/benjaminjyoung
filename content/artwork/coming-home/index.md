@@ -14,6 +14,7 @@ ratio: landscape
 power: 436
 sold: 0
 favorite: true
+status: sold
 
 spring: 0
 summer: 1
@@ -33,8 +34,10 @@ mediums: [watercolor]
 materials: [paper]
 colors: [yellow, blue, black]
 collections: [shades of olson, figures facing from view, timeline, landscapes, animals]
-locations: [kolp, print]
+locations: [sold, print]
 tags: [man, figure, dog, izzy, ben, border collie, house, field, outdoors, autumn, rustic, serene, appalachia, east sparta, ohio]
+
+buyer: Gary Stewart (Columbus, OH)
 
 limited: 60
 reproductions:
