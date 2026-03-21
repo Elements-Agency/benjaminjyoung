@@ -6,4 +6,5 @@ medium: Watercolor
 description: A yellow canary sits nestling with a Raven perched on a telephone wire. The large and dark bird represents the artist, while the small little yellow bird represents the artist's 4th love.
 images: ['painting.jpg']
 sitemap: false
+draft: true 
 ---

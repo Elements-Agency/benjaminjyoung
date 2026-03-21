@@ -7,4 +7,5 @@ description: An painting displaying the faceless coward I imagine in hiding, tha
 author: Ben Young
 images: ['painting.jpg']
 sitemap: false
+draft: true 
 ---

@@ -7,4 +7,5 @@ description: A clown hobbles down a residential road, with an empty liquor bottl
 author: Ben Young
 images: ['painting.jpg']
 sitemap: false
+draft: true 
 ---

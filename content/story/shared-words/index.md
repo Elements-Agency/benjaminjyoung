@@ -7,4 +7,5 @@ description: The first time sharing the words "I love you" between AJ and I, whi
 author: Ben Young
 images: ['painting.jpg']
 sitemap: false
+draft: true 
 ---

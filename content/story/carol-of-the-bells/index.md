@@ -7,4 +7,5 @@ description: A nervous moment of buying an engagement ring.
 author: Ben Young
 images: ['painting.jpg']
 sitemap: false
+draft: true 
 ---

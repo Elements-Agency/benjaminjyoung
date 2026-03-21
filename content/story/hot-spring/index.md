@@ -7,4 +7,5 @@ description: An intimate moment of love between AJ and I, while we sit in a hot 
 author: Ben Young
 images: ['painting.jpg']
 sitemap: false
+draft: true 
 ---

@@ -7,4 +7,5 @@ description: AJ and I adopt a Border Collie dog, with clear signs of previous ab
 author: Ben Young
 images: ['painting.jpg']
 sitemap: false
+draft: true 
 ---

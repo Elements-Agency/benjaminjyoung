@@ -7,4 +7,5 @@ description: A display of going through EMDR trauma therapy, to finally face my 
 author: Ben Young
 images: ['painting.jpg']
 sitemap: false
+draft: true 
 ---

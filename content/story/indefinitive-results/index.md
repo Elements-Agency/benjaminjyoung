@@ -7,4 +7,5 @@ description: Is it cancer? Now a question on my mind. As I anxiously journey to 
 author: Ben Young
 images: ['painting.jpg']
 sitemap: false
+draft: true 
 ---

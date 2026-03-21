@@ -7,4 +7,5 @@ description: A clown stands rehabilitated, lost, no longer allowed to return to 
 author: Ben Young
 images: ['painting.jpg']
 sitemap: false
+draft: true 
 ---

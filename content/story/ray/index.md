@@ -7,4 +7,5 @@ description: An elderly man beats a blond boy.
 author: Ben Young
 images: ['painting.jpg']
 sitemap: false
+draft: true 
 ---

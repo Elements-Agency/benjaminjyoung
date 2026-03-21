@@ -1,5 +1,5 @@
 ---
-title: The Story
+title: Ben Young's Story, Painted
 description: My main bodies of work are laid out in my life's story.
 outputs: ['html']
 layout: story

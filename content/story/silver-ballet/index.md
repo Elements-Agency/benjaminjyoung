@@ -7,4 +7,5 @@ description: An elderly woman dances ballet in dramatic lighting. A friend I los
 author: Ben Young
 images: ['painting.jpg']
 sitemap: false
+draft: true 
 ---

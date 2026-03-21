@@ -7,4 +7,5 @@ description: A hiking visualization to represent my journey of 100lb weight loss
 author: Ben Young
 images: ['painting.jpg']
 sitemap: false
+draft: true 
 ---

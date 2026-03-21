@@ -7,4 +7,5 @@ description: Izzy lays her head in to my lap, one last time.
 author: Ben Young
 images: ['painting.jpg']
 sitemap: false
+draft: true 
 ---

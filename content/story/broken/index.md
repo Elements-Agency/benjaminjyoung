@@ -7,4 +7,5 @@ description: The aftermath and visualization of PTSD in me of December 20th. She
 author: Ben Young
 images: ['painting.jpg']
 sitemap: false
+draft: true 
 ---
