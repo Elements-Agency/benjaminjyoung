@@ -58,7 +58,7 @@ timeout = '600'
     weight = 40
 [[menus.main]]
     name = 'About Artist'
-    pageRef = '/Contact/'
+    pageRef = '/about/'
     weight = 50
 [[menus.main]]
     name = 'Contact Artist'
