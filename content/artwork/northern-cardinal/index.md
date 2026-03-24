@@ -14,7 +14,7 @@ videos: [https://www.instagram.com/p/C3fAU-6ON7E/, https://youtube.com/shorts/Js
 ratio: portrait
 
 subfeatured: true
-power: 958
+power: 436
 order: 4
 
 spring: 0

@@ -10,7 +10,7 @@ images: ['painting.jpg']
 
 subfeatured: true
 ratio: portrait
-power: 176
+power: 165
 order: 2
 
 spring: 1

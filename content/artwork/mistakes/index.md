@@ -11,7 +11,7 @@ images: ['painting.jpg']
 featured: true
 order: 99
 ratio: portrait
-power: 50
+power: 370
 sold: 0
 
 spring: 0

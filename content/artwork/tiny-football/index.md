@@ -9,8 +9,7 @@ images: ['painting.jpg']
 
 ratio: square
 
-subfeatured: true
-power: 43
+subfeatured: false
 order: 99
 
 spring: 0

@@ -9,8 +9,7 @@ images: ['painting.jpg']
 
 ratio: portrait
 
-subfeatured: true
-power: 108
+subfeatured: false
 order: 99
 
 spring: 0

@@ -10,7 +10,7 @@ images: ['painting.jpg']
 
 landscape: true
 ratio: portrait
-power: 794
+power: 604
 order: 6
 
 spring: 1

@@ -13,7 +13,7 @@ videos: []
 
 landscape: true
 ratio: landscape
-power: 49
+power: 64
 order: 4
 
 spring: 0

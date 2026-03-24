@@ -13,8 +13,7 @@ videos: [https://www.instagram.com/p/C3mpPeQgORk/, https://youtube.com/shorts/JN
 
 ratio: portrait
 
-featured: true
-power: 56
+featured: false
 order: 99
 
 spring: 0

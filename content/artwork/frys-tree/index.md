@@ -11,9 +11,8 @@ aliases: [/frys-tree]
 images: ['painting.jpg']
 videos: [https://www.instagram.com/p/C3hi4DjAYqg/, https://youtu.be/Pcuv_QkT7Qo]
 
-landscape: true
+landscape: false
 order: 9
-power: 748
 ratio: portrait
 
 spring: 1

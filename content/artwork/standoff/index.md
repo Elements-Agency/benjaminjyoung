@@ -8,9 +8,8 @@ author: Ben Young
 aliases: [/standoff, /artwork/stand-off, /arwtwork/standoff]
 images: ['painting.jpg']
 
-featured: true
+featured: false
 ratio: landscape
-power: 390
 order: 99
 
 spring: 0

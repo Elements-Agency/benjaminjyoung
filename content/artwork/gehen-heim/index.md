@@ -12,9 +12,8 @@ images: ['painting.jpg']
 
 ratio: landscape
 
-featured: true
+featured: false
 order: 21
-power: 183
 
 winter: 1
 spring: 0

@@ -12,8 +12,7 @@ images: ['painting.jpg']
 
 ratio: landscape
 
-landscape: true
-power: 137
+landscape: false
 order: 99
 
 spring: 1

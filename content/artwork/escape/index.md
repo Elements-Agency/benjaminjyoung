@@ -13,7 +13,7 @@ videos: [https://www.instagram.com/p/C3pK2JvOevm/, https://youtube.com/shorts/TS
 
 featured: true
 ratio: landscape
-power: 585
+power: 363
 order: 20
 
 winter: 1

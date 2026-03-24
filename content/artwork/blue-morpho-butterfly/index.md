@@ -10,7 +10,7 @@ images: ['painting.jpg']
 
 subfeatured: true
 ratio: landscape
-power: 160
+power: 148
 order: 99
 
 spring: 0
