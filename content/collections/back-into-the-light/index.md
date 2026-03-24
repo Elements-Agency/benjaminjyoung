@@ -43,6 +43,13 @@ paintings:
       original: /shop/#!/p/694481795
       reproductions: true
       reproduction: /shop/#!/p/694564503
+    - name: Avalanche Lilies
+      image: avalanche-lilies.jpg
+      story: /story/avalanche-lilies/
+      sold: false
+      original: /shop/#!/p/718508603
+      reproductions: true
+      reproduction: /shop/#!/p/718515517
     - name: The Artist's Assistant
       image: the-artists-assistant.jpg
       story: /story/the-artists-assistant/
