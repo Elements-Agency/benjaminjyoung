@@ -10,6 +10,8 @@ images: ['painting.jpg']
 buy: While the original watercolor painting 'One Last Walk With Izzy' has been sold, limited edition limited reproductions are still available in various sizes. This emotionally resonant piece continues to connect with collectors, and these high-quality prints offer a meaningful way to bring its story into your own space.
 
 products:
+    - id: 708668936
+      name: Original Painting
     - id: 711216285
       name: 9x12in Limited Reproduction
       left: 5
@@ -30,8 +32,6 @@ products:
       name: 30x40in Limited Reproduction
       left: 7
       total: 10
-    - id: 708668936
-      name: Original Painting
 
 accolades:
     - Featured in the 2025 Juried FRESH Exhibit at Summit Artspace in Akron, Ohio.

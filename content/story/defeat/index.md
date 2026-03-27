@@ -10,12 +10,12 @@ images: ['painting.jpg']
 buy: While the original watercolor painting 'Defeat' has been sold, limited edition limited reproductions are still available in various sizes. This emotionally resonant piece continues to connect with collectors, and these high-quality prints offer a meaningful way to bring its story into your own space.
 
 products:
+    - id: 734461977
+      name: Original Watercolor Painting
     - id: 726369026
       name: 9x12in Limited Reproduction
       left: 57
       total: 60
-    - id: 734461977
-      name: Original Watercolor Painting
 
 accolades:
     - Featured in the 2025 New Artist Showcase at The Hub Art Factory in Canton, Ohio.

@@ -10,12 +10,12 @@ images: ['painting.jpg']
 buy: While the original watercolor painting 'The Artist's Assistant' has been sold, limited edition limited reproductions are still available in various sizes. This emotionally resonant piece continues to connect with collectors, and these high-quality prints offer a meaningful way to bring its story into your own space.
 
 products:
+    - id: 675661538
+      name: Original Painting
     - id: 683098813
       name: 9x12in Limited Reproduction
       left: 56
       total: 60
-    - id: 675661538
-      name: Original Painting
 
 accolades:
     - Featured in the 2024 Patina Resident Artist Exhibit at Patina Arts Centre in Canton, Ohio.

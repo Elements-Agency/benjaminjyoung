@@ -10,12 +10,12 @@ images: ['painting.jpg']
 buy: Fruitcake Delivery is available for acquisition as the original watercolor painting or as a high-quality limited reproduction. Collectors may choose between owning the one-of-a-kind original or a museum-grade print that preserves the emotional depth and detail of the work. Both options offer a meaningful way to bring this powerful and personal piece into your collection.
 
 products:
+    - id: 705991341
+      name: Original Watercolor Painting
     - id: 711216274
       name: 9x12in Limited Reproduction
       left: 54
       total: 60
-    - id: 705991341
-      name: Original Watercolor Painting
 
 accolades:
     - Featured in the 2024 Patina Resident Artist Exhibit at Patina Arts Centre in Canton, Ohio.

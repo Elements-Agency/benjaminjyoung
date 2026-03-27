@@ -10,12 +10,12 @@ images: ['painting.jpg']
 buy: Avalanche Lilies is available for acquisition as the original watercolor painting or as a high-quality limited reproduction. Collectors may choose between owning the one-of-a-kind original or a museum-grade print that preserves the emotional depth and detail of the work. Both options offer a meaningful way to bring this powerful and personal piece into your collection.
 
 products:
+    - id: 718508603
+      name: Original Watercolor Painting
     - id: 718515517
       name: 9x12in Limited Reproduction
       left: 58
       total: 60
-    - id: 718508603
-      name: Original Watercolor Painting
 
 accolades:
     - Honorable Mention at the 3rd Annual Juried Flora Exhibit.
