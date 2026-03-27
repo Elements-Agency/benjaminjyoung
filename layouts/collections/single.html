@@ -122,7 +122,7 @@
                                 {{ if .reproduction }}
                                     Reproductions:
 
-                                    <a href="{{ .reproduction }}" onclick="trackLikely();">
+                                    <a href="{{ if .story }}{{ .story }}#purchase{{ else if .link }}{{ .link }}#purchase{{ else }}{{ .reproduction }}{{ end }}" onclick="trackLikely();">
                                         {{ if .reproductions }}
                                             <strong style="font-weight:bold;">Available</strong>
                                         {{ else }}
