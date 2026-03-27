@@ -27,7 +27,7 @@ accolades:
     - Featured in Voyage Ohio - Benjamin Young’s Story.
     - Featured in the 22nd Annual Bryn Du Art Show hosted at Bryn Du Mansion in Granville, Ohio.
 
-collection: Falling In To Darkness
+collection: Bitter Honeydew
 ---
 
 There’s a certain silence that falls in a corporate office when the emails stop, the calls fade, and all that’s left is the hum of fluorescent lights and the weight of your own thoughts.
