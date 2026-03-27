@@ -19,6 +19,7 @@ products:
 
 accolades:
     - Featured in the 2024 Patina Resident Artist Exhibit at Patina Arts Centre in Canton, Ohio.
+    - Original painting sold in 2024
 
 collection: Back into The Light
 ---

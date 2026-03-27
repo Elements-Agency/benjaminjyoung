@@ -6,6 +6,7 @@ secondary: The End of Grief, and The Start of Letting Go
 description: 
 author: Ben Young
 images: ['painting.jpg']
+list: true
 
 paintings:
     - name: Hallelujah

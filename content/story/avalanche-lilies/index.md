@@ -26,7 +26,7 @@ accolades:
     - Featured in the 2025 OWS’s Traveling Exhibit hosted at Marathon Center for the Performing Arts in Findlay, Ohio.
     - Featured in the 2025 OWS's Traveling Exhibit hosted at Piqua Public Library in Piqua, Ohio.
 
-collection: Hart of a Man
+collection: Back into The Light
 ---
 
 There are moments in life that stay suspended in time—promises made, hopes whispered, dreams never fully realized. ___Avalanche Lilies___ is born from one of those moments.

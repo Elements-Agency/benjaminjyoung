@@ -39,6 +39,7 @@ accolades:
     - Featured in Massillon Community Arts Council's Featured Artist.
     - Featured online in the 2nd Annual Juried ActLoCLE Exhibit in Cleveland, Ohio.
     - Featured in Voyage Ohio - Benjamin Young’s Story.
+    - Original painting sold in 2025
 
 collection: Back into The Light
 ---

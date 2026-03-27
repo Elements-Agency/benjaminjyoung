@@ -31,6 +31,7 @@ accolades:
     - Featured in Massillon Community Arts Council's Featured Artist.
     - Featured in Voyage Ohio - Benjamin Young’s Story.
     - Reproduction featured in the Stark County Minority Business Association Opening Exhibit hosted at Kirk Schuring Center in Canton, Ohio.
+    - Original painting sold in 2025, at the Bryn Du Art Show
 
 collection: Back into The Light
 ---

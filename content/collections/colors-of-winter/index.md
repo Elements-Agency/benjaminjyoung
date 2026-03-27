@@ -6,6 +6,7 @@ secondary: Watercolor 5x7in Winter Scenes
 description: 
 author: Ben Young
 images: ['painting.jpg']
+list: true
 
 paintings:
     - name: Winter Barn I

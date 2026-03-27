@@ -20,6 +20,9 @@ products:
 accolades:
     - Featured in the 2025 New Artist Showcase at The Hub Art Factory in Canton, Ohio.
     - Featured in The Scribe. Vol 2, No. 9, Page 11.
+    - Original painting sold in 2025
+
+collection: Bitter Honeydew
 ---
 
 For years, tennis was more than just a sport to me—it was a test of resilience, leadership, and the stubborn pursuit of an almost unreachable dream. Every season, I poured my energy into captaining my team, chasing the elusive goal of making it to the United States Tennis Association (USTA) National Championships. We fought through countless matches, faced down stronger opponents, and year after year came up just short.

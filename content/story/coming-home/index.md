@@ -17,6 +17,9 @@ products:
     - id: 797673135
       name: Original Watercolor Painting
 
+accolades:
+    - Original painting sold in 2026
+
 collection: Back into The Light
 ---
 

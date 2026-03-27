@@ -30,26 +30,28 @@
 
             <div class="items style1 onscroll-fade-in medium">
                 {{ range sort (where .Site.RegularPages "Section" "collections") "Params.Date" "asc" }}
-                    <section>
-                        <h3>{{ .Title }}</h3>
-                        {{ $image := .Resources.GetMatch (printf "%spainting.jpg" (replace .File.Dir "collections/" "")) }}
-                        {{ if $image }}
-                            {{ $image := $image.Fit "800x800 webp q86" }}
-                            <a href="{{ .Permalink }}" class="image fit">
-                                <img src="{{ $image.RelPermalink }}" alt="{{ .Title }}" />
-                            </a>
-                        {{ end }}
+                    {{ if .Params.list }}
+                        <section>
+                            <h3>{{ .Title }}</h3>
+                            {{ $image := .Resources.GetMatch (printf "%spainting.jpg" (replace .File.Dir "collections/" "")) }}
+                            {{ if $image }}
+                                {{ $image := $image.Fit "800x800 webp q86" }}
+                                <a href="{{ .Permalink }}" class="image fit">
+                                    <img src="{{ $image.RelPermalink }}" alt="{{ .Title }}" />
+                                </a>
+                            {{ end }}
 
-                        <div class="inner">
-                            <ul class="actions stacked">
-                                <li>
-                                    <a href="{{ .Permalink }}" class="button big wide smooth-scroll " onclick="trackInterest();">
-                                        View Collection
-                                    </a>
-                                </li>
-                            </ul>
+                            <div class="inner">
+                                <ul class="actions stacked">
+                                    <li>
+                                        <a href="{{ .Permalink }}" class="button big wide smooth-scroll " onclick="trackInterest();">
+                                            View Collection
+                                        </a>
+                                    </li>
+                                </ul>
                             </div>
-                    </section>
+                        </section>
+                    {{ end }}
                 {{ end }}
             </div>
         </div>

@@ -6,6 +6,7 @@ secondary: Watercolor Winter Narrative Landscape Scenes
 description: 
 author: Ben Young
 images: ['painting.jpg']
+list: true
 
 paintings:
     - name: Escape

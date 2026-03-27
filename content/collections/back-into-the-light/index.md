@@ -6,6 +6,7 @@ secondary: Enjoying the Light and Tender Moments
 description: 
 author: Ben Young
 images: ['painting.jpg']
+list: true
 
 paintings:
     - name: One Last Walk With Izzy
@@ -29,13 +30,6 @@ paintings:
       original: /shop/#!/p/797673135
       reproductions: true
       reproduction: /shop/#!/p/820773850
-    - name: In The Dark
-      image: in-the-dark.jpg
-      story: /story/in-the-dark/
-      sold: true
-      original: /shop/#!/p/746855079
-      reproductions: true
-      reproduction: /shop/#!/p/746858779
     - name: Howard's Hills
       image: howards-hills.jpg
       story: /story/howards-hills/
@@ -43,13 +37,6 @@ paintings:
       original: /shop/#!/p/694481795
       reproductions: true
       reproduction: /shop/#!/p/694564503
-    - name: Avalanche Lilies
-      image: avalanche-lilies.jpg
-      story: /story/avalanche-lilies/
-      sold: false
-      original: /shop/#!/p/718508603
-      reproductions: true
-      reproduction: /shop/#!/p/718515517
     - name: The Artist's Assistant
       image: the-artists-assistant.jpg
       story: /story/the-artists-assistant/
@@ -57,6 +44,13 @@ paintings:
       original: /shop/#!/p/675661538
       reproductions: true
       reproduction: /shop/#!/p/683098813
+    - name: Avalanche Lilies
+      image: avalanche-lilies.jpg
+      story: /story/avalanche-lilies/
+      sold: false
+      original: /shop/#!/p/718508603
+      reproductions: true
+      reproduction: /shop/#!/p/718515517
     
 ---
 
