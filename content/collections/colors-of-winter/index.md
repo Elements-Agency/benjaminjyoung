@@ -35,6 +35,8 @@ paintings:
 
 Immerse yourself in a serene seasonal journey with the Colors of Winter collection — a collection of original watercolors that distill the essence of winter’s stillness and subtle beauty. Each piece balances minimalist composition with atmospheric detail, evoking quiet reflection and the hushed light of cold months.
 
+_This collection is an open work of progress._
+
 <!--more-->
 
 **The Colors of Winter** collection brings together Ben Young’s winter landscapes—watercolor paintings that explore the quiet depth and subtle beauty found within the coldest season.

@@ -20,6 +20,8 @@ paintings:
 
 Amid the darkness, a new presence enters: Gretchen. This period overlaps the previous era because healing rarely happens in isolation from pain. Through her care and recognition of the artist’s PTSD, a subtle but important shift begins. The paintings reveal glimpses of softness and renewal — cautious hope emerging within unresolved grief.
 
+_This collection is in a planned worked in progress._
+
 <!--more-->
 
 **Second Hartbeat** is a quiet but pivotal era — one defined not by the absence of pain, but by the introduction of care within it. Overlapping with Falling into Darkness, this chapter reflects the reality that healing rarely arrives after suffering ends. Instead, it often enters while wounds are still open.

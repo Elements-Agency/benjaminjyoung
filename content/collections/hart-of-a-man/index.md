@@ -35,6 +35,8 @@ paintings:
 
 This era captures the rise and depth of a relationship that shaped everything that followed. It is a period of connection, devotion, and emotional intensity — culminating in the tragic loss of the artist’s late fiancée. The paintings from this time carry both warmth and fragility, as if aware that love and heartbreak often exist in the same breath.
 
+_This collection has not been started yet._
+
 <!--more-->
 
 **Hart of a Man** is the foundational era — the emotional genesis from which all other chapters unfold. It captures the buildup of a deeply meaningful relationship, one that shaped not only the artist’s personal life but the emotional vocabulary of his work. This period reflects devotion, vulnerability, anticipation, and the quiet belief in a shared future.

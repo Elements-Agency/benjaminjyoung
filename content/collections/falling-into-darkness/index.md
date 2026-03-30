@@ -35,6 +35,8 @@ paintings:
 
 Following the loss, the work descends into a prolonged season of grief. This era reflects the weight of PTSD, suppressed emotion, and the internal isolation that defined those years. The brushwork becomes heavier, the palette more restrained, and the emotional tone more introspective. It is not simply sadness, but survival — art created while navigating the long shadow of trauma.
 
+_This collection is in a planned work of progress._
+
 <!--more-->
 
 **Falling into Darkness** is the longest and most immersive era within the body of work — a six-year descent shaped by grief, trauma, and the quiet endurance of survival. Following the tragic loss of the artist’s late fiancée, this period reflects not just sadness, but the psychological aftershock that lingered long after the funeral flowers faded.

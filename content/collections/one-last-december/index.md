@@ -43,6 +43,8 @@ paintings:
 
 A singular, pivotal chapter. This era represents the breaking point — the moment when the burden of loss felt unbearable. The work from this brief but powerful period carries a raw finality, confronting despair without disguise. It stands as a stark emotional landmark within the larger journey. The moment the artist finally faces the loss of his late fiancée.
 
+_This collection is completed._
+
 <!--more-->
 
 Unlike the other eras, **One Last December** is not meant to be a long season of work—it is a moment. A brief but defining chapter that captures the point where emotional endurance finally reached its limit. After years of carrying the weight of loss and unresolved trauma, December of 2019 represents the breaking point where the artist could no longer continue living under the constant shadow of grief. Halted shortly by another, but eventually serves as the turning point to make a final fal in to darkness, only to start a journey to completely turn it all around.

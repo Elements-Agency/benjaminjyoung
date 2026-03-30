@@ -50,6 +50,8 @@ paintings:
 
 **Winter Escape** is a collection of watercolor paintings by Ben Young that captures the quiet pull of winter landscapes—the places we go, both physically and emotionally, when the world slows beneath cold skies and drifting snow.
 
+_This collection is completed._
+
 <!--more-->
 
 The snow had been falling since the early hours of the morning, quiet and steady, softening the world outside the window. Fields that once held the color of autumn were now buried beneath pale blankets of white. The trees stood bare against the sky, their branches reaching like silent witnesses to the passing of another winter.

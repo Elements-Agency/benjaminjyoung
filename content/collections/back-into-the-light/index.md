@@ -56,6 +56,8 @@ paintings:
 
 The current era reflects intentional healing. After confronting trauma and seeking restoration, the work shifts toward meaning, reflection, and grounded hope. The paintings do not ignore the past — they integrate it. Light re-enters the compositions, not as naiveté, but as resilience earned through experience.
 
+_This collection is an open work of progress._
+
 <!--more-->
 
 **Back into The Light** marks the most intentional era of the artist’s journey — not a sudden escape from pain, but a deliberate return to meaning. Unlike earlier shifts that were shaped by circumstance, this chapter is defined by choice. After confronting trauma, betrayal, and the weight of unresolved grief, the artist begins actively pursuing healing rather than merely surviving.

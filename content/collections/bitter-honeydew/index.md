@@ -44,6 +44,8 @@ Bitter Honeydew unfolds like a story you’re not entirely sure you were meant t
 
 The collection drifts between whimsy and tension, where gestures feel deliberate but motives remain just out of reach. Characters seem to linger in unresolved exchanges, caught somewhere between confession and performance. There’s drama here, but it doesn’t announce itself loudly—it simmers, twists, and occasionally slips into something absurd.
 
+_This collection is in a planned work of progress._
+
 <!--more-->
 
 What makes Bitter Honeydew compelling for collectors is this constant push and pull: the surreal bending toward realism, and realism dissolving back into something stranger. Familiar forms begin to feel uncertain. Emotional cues blur. You’re left questioning what’s genuine, what’s exaggerated, and whether that distinction matters at all.
