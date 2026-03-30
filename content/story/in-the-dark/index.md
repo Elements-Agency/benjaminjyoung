@@ -12,6 +12,7 @@ buy: In The Dark is available for acquisition as the original watercolor paintin
 products:
     - id: 746855079
       name: Original Watercolor Painting
+      sold: true
     - id: 746858779
       name: 9x12in Limited Reproduction
       left: 56

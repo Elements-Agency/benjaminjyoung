@@ -237,6 +237,14 @@
                                         <strong style="color:orange; font-size:1.6em;">
                                             {{ $product.left }} LEFT OF {{ $product.total }}
                                         </strong>
+                                    {{ else if $product.sold }}
+                                        <strong style="color:red; font-size:1.6em;">
+                                            {{ if $product.total }}
+                                                SOLD OUT
+                                            {{ else }}
+                                                SOLD
+                                            {{ end }}
+                                        </strong>
                                     {{ end }}
 
                                     <div itemtype="http://schema.org/Offer" itemscope itemprop="offers">

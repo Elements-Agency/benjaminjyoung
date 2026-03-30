@@ -12,6 +12,7 @@ buy: While the original watercolor painting 'Okay Now' has been sold, limited ed
 products:
     - id: 710975182
       name: Original Watercolor Painting
+      sold: true
     - id: 711193420
       name: 9x12in Limited Reproduction
       left: 47

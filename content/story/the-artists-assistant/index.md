@@ -12,6 +12,7 @@ buy: While the original watercolor painting 'The Artist's Assistant' has been so
 products:
     - id: 675661538
       name: Original Painting
+      sold: true
     - id: 683098813
       name: 9x12in Limited Reproduction
       left: 56
