@@ -49,6 +49,11 @@ collections: [landscapes, colors of winter]
 locations: [sold]
 tags: [snow, winter, cow, trees, water, creek, pasture, cool, cold, outdoors, sky, calm, lonely, isolation, peaceful, melancholy, cool]
 
+reproductions:
+  - 5x7in:
+    - 1: Ben Young (East Sparta, OH)
+    - 2: Brenda Frasher (Bellefontaine, OH)
+
 ---
 
 This painting is an intimate study of solitude and winter light. The small 7x5 scale enhances the feeling of looking through a window into a peaceful, frozen moment. By balancing the heavy detail of the cow with the minimalist, ethereal treatment of the background, it successfully captures the quiet gravity of a winter morning.

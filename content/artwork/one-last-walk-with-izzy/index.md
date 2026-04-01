@@ -53,6 +53,13 @@ reproductions:
     - 10: Laurie Nikolai-Svetlik (Merrill, WI)
     - 11: Ryan Lind (Hiram, OH)
     - 12: Linda Brown (Corydon, IN)
+    - 13: Terri Morey (Albany, GA)
+    - 14: Derek Winder (South Jordan, UT)
+    - 15: Molly Whitt (Taylorsville, KY)
+    - 16: Edwin Hanna (Bowling Green, KY)
+    - 17: Christy Jones (Silver Lake, OR)
+    - 18: Katherine R Scott (Athens, OH)
+    - 19: Jeff Childers (Macon, GA)
   - 6x8in:
     - 1: Ben Young (East Sparta, OH)
     - 2: Dawn Whatley (Hackettstown, NJ)
@@ -60,6 +67,7 @@ reproductions:
     - 4: Reserved
     - 5: Krystina Flynn (Mecosta, MI)
     - 6: Kelly Dishong (Colorado Springs, CO)
+    - 7: Lisa Copeland (Birmingham, AL)
   - 9x12in:
     - 1: Ben Young (East Sparta, OH)
     - 2: Fred Boone (Canton, OH)
