@@ -26,7 +26,7 @@ paintings:
     - name: Final Embrace
       image: final-embrace.jpg
       story: /story/final-embrace/
-      sold: false
+      sold: true
       original: /shop/#!/p/716381943
       reproductions: true
       reproduction: /shop/#!/p/716135890

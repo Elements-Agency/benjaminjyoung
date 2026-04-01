@@ -13,7 +13,6 @@ products:
     - id: 708668936
       name: Original Painting
       sold: true
-      total: 60
     - id: 788413574
       name: 12x16in Limited Reproduction
       left: 29
@@ -33,6 +32,7 @@ products:
     - id: 711216285
       name: 9x12in Limited Reproduction
       left: 0
+      total: 60
       sold: true
 
 accolades:

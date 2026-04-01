@@ -14,6 +14,7 @@ ratio: portrait
 power: 1590
 sold: 6
 favorite: true
+status: sold
 
 spring: 0
 summer: 0
@@ -33,7 +34,7 @@ mediums: [oil]
 materials: [canvas]
 colors: [black, brown, white]
 collections: [feb 26, one last december, timeline, figures]
-locations: [kolp, print]
+locations: [sold, print]
 tags: [woman, lady, man, ben, aj, smoke, embrace, hug, couple, death, figure, love, suit, dress, dark, indoors, dramatic, winter, surreal, number two]
 
 limited: 60
@@ -55,6 +56,8 @@ reproductions:
     - 1: Ben Young (East Sparta, OH)
   - postcard:
     - 1: Jared Mason (San Antonio, TX)
+
+buyer: Joseph Harter (Puyallup, WA)
 
 tag: February 26th, 2020. “You’ve grown tired, have’t you dear?”, she reassured. “It was too difficult. I’m so sorry. I failed you”, was my excuse. My stature felt different, like the weighing years had melted off and I was almost floating. She snuck in closer and whispered in my ear with her arms wrapped around me, “I understand. It’s alright now. It’s time to rest.” “Just five more minutes? You know how much I missed this”, I pleaded like an innocent child. “I suppose. Maybe you’ll see me when you awake, but it’s a surprise”, as she somehow wrapped herself around me even more. It was just like her to say something alluring like that. A cold winter wind blew against my neck and creeped throughout the rest of my body, but it felt as though a warmth was melting me asleep. My eyes grew heavy as my head dropped on to her soft shoulder. It was becoming too difficult to fight to stay awake, but I was already asleep. I expelled my last bit of energy to muster up one last, “I really missed you.” Finally closing my eyelids and letting go, drifting off. Was this really her loving hug again, after all these years? Or was this just me, making the rounds in my head, to embrace death?
 

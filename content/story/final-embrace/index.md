@@ -12,6 +12,7 @@ buy: Final Embrace is available for acquisition as the original oil painting or 
 products:
     - id: 716381943
       name: Original Oil Painting
+      sold: true
     - id: 716135890
       name: 9x12in Limited Reproduction
       left: 54

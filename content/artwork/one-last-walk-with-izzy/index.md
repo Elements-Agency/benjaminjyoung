@@ -40,12 +40,26 @@ buyer: Gary Stewart (Columbus, OH)
 
 limited: 60
 reproductions:
+  - 3x5in:
+    - 1: Karen Herndon (Pullman, WA)
+    - 2: Jennifer Hupp (Henrico, VA)
+    - 3: Jennifer Hupp (Henrico, VA)
+    - 4: Rhoda Johnson Byrne (Middleton, ID)
+    - 5: Karen Ledgerwood (Crawfordsville, IN)
+    - 6: Karen Marden (Queensbury, NY)
+    - 7: Eiblis Goldings (Needham, MA)
+    - 8: Logan Turner (Roanoke, VA)
+    - 9: Debbie Waugh (Madison, VA)
+    - 10: Laurie Nikolai-Svetlik (Merrill, WI)
+    - 11: Ryan Lind (Hiram, OH)
+    - 12: Linda Brown (Corydon, IN)
   - 6x8in:
     - 1: Ben Young (East Sparta, OH)
     - 2: Dawn Whatley (Hackettstown, NJ)
     - 3: Theresa Ehmke (Hutchinson, KS)
     - 4: Reserved
     - 5: Krystina Flynn (Mecosta, MI)
+    - 6: Kelly Dishong (Colorado Springs, CO)
   - 9x12in:
     - 1: Ben Young (East Sparta, OH)
     - 2: Fred Boone (Canton, OH)
