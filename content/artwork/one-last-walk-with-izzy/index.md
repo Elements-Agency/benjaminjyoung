@@ -98,10 +98,15 @@ reproductions:
     - 49: Laura Fernandez Estrada (Williamsburg, VA)
     - 50: Ian Crogahn (Mooresville, IN)
     - 51: Tonia Gusbar (Massillon, OH)
-    - 52: Reserved
+    - 52: Stacy Ransom (Menifee, CA)
     - 53: DJ Harvey (Hudson, OH)
     - 54: Aaron Stickney (Alamogordo, NM)
     - 55: Lindy Carpenter (Little Rock, AR)
+    - 56: Reserved
+    - 57: Reserved
+    - 58: Reserved
+    - 59: Reserved
+    - 60: Reserved
   - 12x16in:
     - 1: Ben Young (East Sparta, OH)
     - 2: Kristl Spalding (Red Creek, NY)
