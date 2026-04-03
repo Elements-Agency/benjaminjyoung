@@ -46,6 +46,7 @@ reproductions:
   - 9x12in:
     - 1: Ben Young (East Sparta, OH)
     - 2: Jessica Ferro (Cedaredge, CO)
+    - 3: Frances Hutchins (Chester, SC)
   - 12x16in:
     - 1: Ben Young (East Sparta, OH)
   - 18x24in:

@@ -136,6 +136,7 @@ reproductions:
     - 4: Reserved
     - 5: Daren Robertson (Kennett, MO)
     - 6: Karri Guy (Burgettstown, PA)
+    - 7: Frances Hutchins (Chester, SC)
   - 18x24in:
     - 1: Ben Young (East Sparta, OH)
     - 2: Susan Lehman (Jupiter, FL)

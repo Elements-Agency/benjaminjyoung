@@ -15,7 +15,7 @@ products:
       sold: true
     - id: 820773850
       name: 9x12in Limited Reproduction
-      left: 58
+      left: 57
       total: 60
 
 accolades:
