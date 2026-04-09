@@ -8,6 +8,14 @@
             const fragment = window.location.search.replace('?_escaped_fragment_=', '');
             window.location.href = '/shop/#!' + fragment;
         }
+
+        const storePageParam = new URLSearchParams(window.location.search).get('store-page');
+        if (storePageParam) {
+            const params = new URLSearchParams(window.location.search);
+            params.delete('store-page');
+            const newUrl = window.location.pathname + (params.toString() ? '?' + params.toString() : '') + '#!/' + storePageParam;
+            window.history.replaceState({}, document.title, newUrl);
+        }
     </script>
 
     {{ partial "inside-scripts.html" . }}
