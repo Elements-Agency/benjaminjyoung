@@ -1750,6 +1750,11 @@ input, select, textarea {
 			#main .thumb > p {
 				display: none;
 			}
+			#main .thumb > p.description {
+				display: block;
+				padding: 2em;
+				text-align: justify;
+			}
 
 		#main:after {
 			pointer-events: none;
@@ -2176,7 +2181,7 @@ input, select, textarea {
 
 				<!-- Header -->
 					<header id="header">
-						<h1><a href="/">{{ .Title }}</a></h1>
+						<h1><a href="/">Ben Young</a></h1>
 						<nav>
                             {{ $currentPage := . }}
                             <ul>
@@ -2211,7 +2216,7 @@ input, select, textarea {
 							<h2 style="text-shadow: #000 0 0 5px !important; font-weight: bold;">
 								Narrative Paintings
 							</h2>
-							<p>
+							<p class="description">
 								These paintings tell a story. They are often inspired by personal experiences. Each painting invites the viewer to explore the narrative and discover the hidden meanings within the artwork.
 							</p>
 						</article>
@@ -2245,7 +2250,7 @@ input, select, textarea {
 							<h2 style="text-shadow: #000 0 0 5px !important; font-weight: bold;">
 								Landscape Paintings
 							</h2>
-							<p>
+							<p class="description">
 								These paintings capture the beauty of nature. They are often inspired by the artist's travels and experiences in different landscapes. Each painting invites the viewer to explore the natural world and appreciate its beauty.
 							</p>
 						</article>
@@ -2279,7 +2284,7 @@ input, select, textarea {
 							<h2 style="text-shadow: #000 0 0 5px !important; font-weight: bold;">
 								Other Paintings
 							</h2>
-							<p>
+							<p class="description">
 								These paintings do not fit into the narrative or landscape categories. They are often inspired by abstract concepts, emotions, or other themes. Each painting invites the viewer to explore the artist's imagination and creativity.
 							</p>
 						</article>
