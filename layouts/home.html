@@ -262,15 +262,20 @@
 					<section class="wrapper style1 align-center" role="region">
                         <div id="more" class="inner">
 							{{ $homeCount := 0 }}
+							{{ $itemsSold := 0 }}
 							{{ $originalsCount := 0 }}
 							{{ $reproductionsCount := 0 }}
+							{{ $artbuyers := slice }}
 
 							{{ $mainSections := .Site.Params.mainSections | default (slice "post") }}
                             {{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
                             {{ range $i,$p := $section }}
 								{{ if eq .Params.status "sold" }}
-									{{ $homeCount = add $homeCount 1 }}
+									{{ $itemsSold = add $itemsSold 1 }}
 									{{ $originalsCount = add $originalsCount 1 }}
+									{{ if not (in $artbuyers .Params.buyer) }}
+										{{ $artbuyers = $artbuyers | append .Params.buyer }}
+									{{ end }}
 								{{ end }}
 
 								{{ if .Params.reproductions }}
@@ -278,14 +283,22 @@
 										{{ range $size, $collection := $container }}
 											{{ range $j, $buyers := $collection }}
 												{{ range $k, $buyer := $buyers }}
-													{{ $homeCount = add $homeCount 1 }}
+													{{ if and (ne ($buyer | lower) "ben young") (ne ($buyer | lower) "reserved") }}
+														{{ $itemsSold = add $itemsSold 1 }}
+													{{ end }}
+													
 													{{ $reproductionsCount = add $reproductionsCount 1 }}
+													{{ if not (in $artbuyers $buyer) }}
+														{{ $artbuyers = $artbuyers | append $buyer }}
+													{{ end }}
 												{{ end}}
 											{{ end }}
 										{{ end }}
 									{{ end }}
 								{{ end }}
 							{{ end }}
+
+							{{ $homeCount = len $artbuyers }}
 
 							<h2 class="strong">My Objective is Emotions First, Values Second</h2>
 							<quote>
@@ -301,7 +314,7 @@
 
 							<p class="align-justify">
 								Ben Young is a newly emerging artist, with just over 2 years of painting, his work has been featured in <a href="/about/cv/#exhibitions">28 exhibits, 20 art galleries, and 2 museums</a>.
-								With his artwork being collected and displayed in <u>over {{ $homeCount }} homes</u> around the United States and internationally.
+								With his artwork being collected and displayed in <u>over {{ $itemsSold }} homes</u> around the United States and internationally.
 								With over <u>{{ $originalsCount }} original paintings</u> sold into private collections.
 								From hanging in manors in Switzerland, to pent houses in New York, to private collections in California.
 								Ben's work has found a home with art lovers everywhere.

@@ -41,6 +41,10 @@ products:
       name: Open Reproduction
       price: $30
 
+reproductions:
+  - 5x7in:
+    - 1: Catherine Underwood (Saint Peters, MI)
+
 repro: true
 ---
 

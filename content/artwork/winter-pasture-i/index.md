@@ -53,6 +53,7 @@ reproductions:
   - 5x7in:
     - 1: Ben Young (East Sparta, OH)
     - 2: Brenda Frasher (Bellefontaine, OH)
+    - 3: Susan Voccola (Ocean Park, Maine)
 
 ---
 

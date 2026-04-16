@@ -50,6 +50,7 @@ reproductions:
     - 1: Ben Young (East Sparta, OH)
     - 2: Gary Hinterlong (Midland, TX)
     - 3: Reserved
+    - 4: Lisa Copeland (Birmingham, AL)
   - 18x24in:
     - 1: Ben Young (East Sparta, OH)
   - 30x40in:
