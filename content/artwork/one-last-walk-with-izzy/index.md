@@ -191,12 +191,12 @@ reproductions:
     - 148: Lori Pearlman (Roswell, Georgia)
     - 149: Lydia Nowakowski (Ashland, Ohio)
     - 150: Traci Welch Moritz (Lima, Ohio)
-    - 151: jessie jellicorse (Cary, North Carolina)
-    - 152: lori lucas (Guthrie, Oklahoma)
-    - 153: suzanne white (Mount Holly Springs, Pennsylvania)
+    - 151: Jessie Jellicorse (Cary, North Carolina)
+    - 152: Lori Lucas (Guthrie, Oklahoma)
+    - 153: Suzanne White (Mount Holly Springs, Pennsylvania)
     - 154: Kelley Saveika (Villa Ridge, Missouri)
     - 155: Leonard Sandler (Carlisle, Pennsylvania)
-    - 156: tracey pezen (Saint Charles, Illinois)
+    - 156: Tracey Pezen (Saint Charles, Illinois)
   - 5x7in:
     - 1: Ben Young (Canton, OH)
     - 2: Kathryn Kohl (Mountain top, Pennsylvania)
@@ -217,6 +217,9 @@ reproductions:
     - 17: Geoff Stern (Littleton, Massachusetts)
     - 18: John Sanders (Yucaipa, California)
     - 19: Nancy Housto (Seattle, Washington)
+    - 20: Michael Garcia (Whitehall, Pennsylvania)
+    - 21: Tracy Smith (Greensboro, North Carolina)
+    - 22: Kellie Bush (Woodbridge, Virginia)
   - 6x8in:
     - 1: Ben Young (East Sparta, OH)
     - 2: Dawn Whatley (Hackettstown, NJ)
@@ -310,6 +313,7 @@ reproductions:
     - 1: Ben Young (East Sparta, OH)
     - 2: Reserved
     - 3: Karrie Workman (North Lawrence, OH)
+    - 4: John (Kalispell, Montana)
   - 30x40in:
     - 1: Ben Young (East Sparta, OH)
     - 2: Jim Lynd (Jeffersonville, IN)
