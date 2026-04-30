@@ -21,7 +21,7 @@ products:
 accolades:
     - Original painting sold in 2026
 
-collection: Back into The Light
+collection: Back In The Light
 ---
 
 **Coming Home** holds a quiet, aching tenderness - Izzy poised in the tall, sun-bleached grass, ears lifted in hope, carries a longing that reaches across the empty space between it and me sitting on the porch ahead of her.

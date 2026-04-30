@@ -42,7 +42,7 @@ accolades:
     - Featured in Voyage Ohio - Benjamin Young’s Story.
     - Original painting sold in 2025
 
-collection: Back into The Light
+collection: Back In The Light
 ---
 
 There are some walks we get to take — and some that live only in the quiet corners of our hearts. **One Last Walk With Izzy** is one of those moments I never had, but always wished for.

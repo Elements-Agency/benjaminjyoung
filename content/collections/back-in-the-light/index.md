@@ -1,12 +1,13 @@
 ---
 date: 2021-01-01
-title: Back into The Light
+title: Back In The Light
 subtitle: 2021 - Current
 secondary: Enjoying the Light and Tender Moments
 description: 
 author: Ben Young
 images: ['painting.jpg']
 list: true
+aliases: [/collections/back-into-the-light/, /collections/back-in-to-the-light/]
 
 paintings:
     - name: One Last Walk With Izzy
@@ -53,6 +54,6 @@ _This collection is an open work of progress._
 
 <!--more-->
 
-**Back into The Light** marks the most intentional era of the artist’s journey — not a sudden escape from pain, but a deliberate return to meaning. Unlike earlier shifts that were shaped by circumstance, this chapter is defined by choice. After confronting trauma, betrayal, and the weight of unresolved grief, the artist begins actively pursuing healing rather than merely surviving.
+**Back In The Light** marks the most intentional era of the artist’s journey — not a sudden escape from pain, but a deliberate return to meaning. Unlike earlier shifts that were shaped by circumstance, this chapter is defined by choice. After confronting trauma, betrayal, and the weight of unresolved grief, the artist begins actively pursuing healing rather than merely surviving.
 
 Visually, there is greater openness. Compositions often breathe more freely. The use of color carries renewed vibrancy, yet it is grounded rather than impulsive. There is strength in restraint and clarity in symbolism. Where previous eras wrestled with confusion or heaviness, this one feels centered — aware of shadow but no longer consumed by it.

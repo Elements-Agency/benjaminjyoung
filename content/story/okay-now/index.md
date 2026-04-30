@@ -34,7 +34,7 @@ accolades:
     - Reproduction featured in the Stark County Minority Business Association Opening Exhibit hosted at Kirk Schuring Center in Canton, Ohio.
     - Original painting sold in 2025, at the Bryn Du Art Show
 
-collection: Back into The Light
+collection: Back In The Light
 ---
 
 Some portraits don’t just depict a person—they hold a moment. A breath. A lifetime.

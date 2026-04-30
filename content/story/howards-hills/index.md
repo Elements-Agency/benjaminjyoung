@@ -24,7 +24,7 @@ accolades:
     - Featured in the 2025 New Artist Showcase at The Hub Art Factory in Canton, Ohio.
     - Featured in Massillon Community Arts Council's Featured Artist.
 
-collection: Back into The Light
+collection: Back In The Light
 ---
 
 In ___Howard’s Hills___, I return home—not only in geography, but in heart. Set in the quiet hills of Appalachian Ohio where I was raised, the painting captures a deeply personal and intimate moment: my elderly father making his way across the familiar terrain of our shared past. It’s not just a portrait of landscape—it’s a portrait of legacy.
