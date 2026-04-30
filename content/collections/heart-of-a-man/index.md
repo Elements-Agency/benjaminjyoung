@@ -1,11 +1,12 @@
 ---
 date: 2010-01-01
-title: Hart of a Man
+title: Heart of a Man
 subtitle: 2010 – 2013
 secondary: Love & Loss
 description: 
 author: Ben Young
 images: ['painting.jpg']
+aliases: [/collections/hart-of-a-man/]
 
 paintings:
     - name: Final Embrace
@@ -39,7 +40,7 @@ _This collection has not been started yet._
 
 <!--more-->
 
-**Hart of a Man** is the foundational era — the emotional genesis from which all other chapters unfold. It captures the buildup of a deeply meaningful relationship, one that shaped not only the artist’s personal life but the emotional vocabulary of his work. This period reflects devotion, vulnerability, anticipation, and the quiet belief in a shared future.
+**Heart of a Man** is the foundational era — the emotional genesis from which all other chapters unfold. It captures the buildup of a deeply meaningful relationship, one that shaped not only the artist’s personal life but the emotional vocabulary of his work. This period reflects devotion, vulnerability, anticipation, and the quiet belief in a shared future.
 
 The paintings from this era carry an unmistakable sincerity. There is openness in the compositions — a willingness to be seen and to see another fully. Color often feels warmer, more alive, echoing the intensity and intimacy of young love. Even when moments are contemplative, they feel rooted in connection rather than isolation. The work breathes with expectancy.
 
