@@ -37,13 +37,6 @@ paintings:
       original: /shop/#!/p/694481795
       reproductions: true
       reproduction: /shop/#!/p/694564503
-    - name: The Artist's Assistant
-      image: the-artists-assistant.jpg
-      story: /story/the-artists-assistant/
-      sold: true
-      original: /shop/#!/p/675661538
-      reproductions: true
-      reproduction: /shop/#!/p/683098813
     - name: Avalanche Lilies
       image: avalanche-lilies.jpg
       story: /story/avalanche-lilies/

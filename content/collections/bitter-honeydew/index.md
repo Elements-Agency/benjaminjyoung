@@ -9,6 +9,13 @@ images: ['painting.jpg']
 list: true
 
 paintings:
+    - name: Corporate Contempt
+      image: corporate-contempt.jpg
+      story: /story/corporate-contempt/
+      sold: false
+      original: /shop/#!/p/734463473
+      reproductions: true
+      reproduction: /shop/#!/p/734463429
     - name: Fruitcake Delivery
       image: fruitcake-delivery.jpg
       story: /story/fruitcake-delivery/
@@ -30,13 +37,13 @@ paintings:
       original: /shop/#!/p/726369026
       reproductions: true
       reproduction: /shop/#!/p/734461977
-    - name: Corporate Contempt
-      image: corporate-contempt.jpg
-      story: /story/corporate-contempt/
-      sold: false
-      original: /shop/#!/p/734463473
+    - name: The Artist's Assistant
+      image: the-artists-assistant.jpg
+      story: /story/the-artists-assistant/
+      sold: true
+      original: /shop/#!/p/675661538
       reproductions: true
-      reproduction: /shop/#!/p/734463429
+      reproduction: /shop/#!/p/683098813
     
 ---
 
