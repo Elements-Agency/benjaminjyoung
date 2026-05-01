@@ -197,6 +197,8 @@ reproductions:
     - 154: Kelley Saveika (Villa Ridge, Missouri)
     - 155: Leonard Sandler (Carlisle, Pennsylvania)
     - 156: Tracey Pezen (Saint Charles, Illinois)
+    - 157: Carol Graham (Queen Creek, Arizona)
+    - 158: David Mann (Greencastle, Indiana)
   - 5x7in:
     - 1: Ben Young (Canton, OH)
     - 2: Kathryn Kohl (Mountain top, Pennsylvania)
@@ -300,6 +302,8 @@ reproductions:
     - 7: Frances Hutchins (Chester, SC)
     - 8: Dave Geitgey (Youngstown, OH)
     - 9: Molly Hanberr (Hattiesburg, Mississippi)
+    - 10: Cheryl Lambert (Grand Rapids, Michigan)
+    - 11: Laura D Lindstrom (Dallas, TX)
   - 18x24in:
     - 1: Ben Young (East Sparta, OH)
     - 2: Susan Lehman (Jupiter, FL)
