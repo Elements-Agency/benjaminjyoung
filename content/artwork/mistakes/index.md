@@ -25,6 +25,15 @@ supplies:
   - on: Baohong Cold Press Cotton Paper Block
 size: 12x16in (31x41cm)
 
+status: sale
+products:
+    - id: 833239832
+      name: Original Painting
+      price: $900
+    - id: 828716057
+      name: Open Reproduction
+      price: $40
+
 series: []
 categories: [realism, narrative, painting]
 mediums: [watercolor]

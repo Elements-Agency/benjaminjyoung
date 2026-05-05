@@ -51,6 +51,9 @@ The painting is displayed prominently at the entrance to the gallery — ironica
 
 The exhibition will run throughout May and June.
 
+{{< button href="/shop/#!/Mistakes-Original/p/833239832" text="Acquire Painting" >}}
+
+
 ## 3.5x5in Sales ##
 
 Many of you are joining this newsletter for the first time following the popularity of the recent 3.5x5in sale of One Last Walk With Izzy, which originally began as a lighthearted April Fools promotion.
