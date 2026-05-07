@@ -313,6 +313,7 @@ reproductions:
     - 6: Victoria Anderson (Williamsfield, OH)
     - 7: Amy Moroney (Vienna, VA)
     - 8: Krystina Flynn (Mecosta, MI)
+    - 9: Mia Anderson (Littleton, Colorado)
   - 24x32in:
     - 1: Ben Young (East Sparta, OH)
     - 2: Reserved

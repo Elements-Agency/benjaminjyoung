@@ -44,6 +44,7 @@ reproductions:
     - 3: First Friday (Canton, OH)
     - 4: Reserved
     - 5: Nicholas Defibaugh (Parkersburg, WV)
+    - 6: Elizabeth Mulivai (Salt Lake, UT)
   - 12x16in:
     - 1: Ben Young (East Sparta, OH)
   - 18x24in:

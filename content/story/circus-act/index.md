@@ -14,7 +14,7 @@ products:
       name: Original Watercolor Painting
     - id: 764161038
       name: 9x12in Limited Reproduction
-      left: 56
+      left: 54
       total: 60
     - id: 797983608
       name: 12x16in Limited Reproduction
