@@ -25,7 +25,6 @@ all:    1
 supplies:
   - medium: M. Graham Watercolor Paint
   - on: Fabriano Artistico Cold Press Watercolor Block
-  - frame: Cyrus Custom Framing
 size: 18x24in (45.7x61.0cm)
 
 series: []

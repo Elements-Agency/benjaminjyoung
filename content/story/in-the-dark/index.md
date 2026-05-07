@@ -7,7 +7,7 @@ description: A candle’s flame becomes both literal and symbolic in In the Dark
 author: Ben Young
 images: ['painting.jpg']
 
-buy: In The Dark is available for acquisition as the original watercolor painting or as a high-quality limited reproduction. Collectors may choose between owning the one-of-a-kind original or a museum-grade print that preserves the emotional depth and detail of the work. Both options offer a meaningful way to bring this powerful and personal piece into your collection.
+buy: While the original watercolor painting 'In The Dark' has been sold, limited edition limited reproductions are still available in various sizes. This emotionally resonant piece continues to connect with collectors, and these high-quality prints offer a meaningful way to bring its story into your own space.
 
 products:
     - id: 746855079

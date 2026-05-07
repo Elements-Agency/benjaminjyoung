@@ -1,5 +1,5 @@
 ---
-date: 2022-05-20
+date: 2022-04-25
 title: Circus Act
 subtitle: A Clown on Trial, A Menace to Society
 medium: Watercolor

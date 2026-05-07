@@ -1,7 +1,6 @@
 ---
 date: 2021-01-01
 title: Back In The Light
-subtitle: 2021 - Current
 secondary: Enjoying the Light and Tender Moments
 description: 
 author: Ben Young
@@ -45,6 +44,13 @@ paintings:
       original: /shop/#!/p/718508603
       reproductions: true
       reproduction: /shop/#!/p/718515517
+    - name: Mistakes
+      image: mistakes.jpg
+      story: /story/mistakes/
+      sold: false
+      original: /shop/#!/p/833239832
+      reproductions: true
+      reproduction: /shop/#!/p/828716057
     
 ---
 
