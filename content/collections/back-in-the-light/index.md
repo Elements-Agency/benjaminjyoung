@@ -1,6 +1,7 @@
 ---
 date: 2021-01-01
 title: Back In The Light
+subtitle: 2021 - Current
 secondary: Enjoying the Light and Tender Moments
 description: 
 author: Ben Young
@@ -13,9 +14,9 @@ paintings:
       image: one-last-walk-with-izzy.jpg
       story: /story/one-last-walk-with-izzy/
       sold: true
-      original: /shop/#!/p/708668936
+      original: https://shop.benjaminjyoung.com/products/one-last-walk-with-izzy-original-painting
       reproductions: true
-      reproduction: /shop/#!/p/711216285
+      reproduction: https://shop.benjaminjyoung.com/products/one-last-walk-with-izzy-giclee-print
     - name: Okay Now
       image: okay-now.jpg
       story: /story/okay-now/
