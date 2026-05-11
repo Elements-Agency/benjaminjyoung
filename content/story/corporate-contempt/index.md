@@ -10,16 +10,10 @@ images: ['painting.jpg']
 buy: Corporate Contempt is available for acquisition as the original watercolor painting or as a high-quality limited reproduction. Collectors may choose between owning the one-of-a-kind original or a museum-grade print that preserves the emotional depth and detail of the work. Both options offer a meaningful way to bring this powerful and personal piece into your collection.
 
 products:
-    - id: 734463473
-      name: Original Watercolor Painting
-    - id: 734463429
-      name: 9x12in Limited Reproduction
-      left: 54
-      total: 60
-    - id: 778124748
-      name: 18x24in Limited Reproduction
-      left: 28
-      total: 30
+    - id: original
+      shopify_id: 10325563605124
+    - id: giclee
+      shopify_id: 10328099258500
 
 accolades:
     - Featured in the 2025 Artists of Rubber City Exhibit hosted at Summit Artspace in Akron, Ohio.

@@ -10,21 +10,10 @@ images: ['painting.jpg']
 buy: While the original watercolor painting 'Okay Now' has been sold, limited edition limited reproductions are still available in various sizes. This emotionally resonant piece continues to connect with collectors, and these high-quality prints offer a meaningful way to bring its story into your own space.
 
 products:
-    - id: 710975182
-      name: Original Watercolor Painting
-      sold: true
-    - id: 711193420
-      name: 9x12in Limited Reproduction
-      left: 47
-      total: 60
-    - id: 797974902
-      name: 12x16in Limited Reproduction
-      left: 39
-      total: 40
-    - id: 765476757
-      name: 18x24in Limited Reproduction
-      left: 27
-      total: 30
+    - id: original
+      shopify_id: 10327106715780
+    - id: giclee
+      shopify_id: 10328414355588
 
 accolades:
     - Featured and sold in the 21st Bryn Du Art Show at the Bryn Du Mansion in Granville, Ohio.

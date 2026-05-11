@@ -10,17 +10,10 @@ images: ['painting.jpg']
 buy: While the original watercolor painting 'In The Dark' has been sold, limited edition limited reproductions are still available in various sizes. This emotionally resonant piece continues to connect with collectors, and these high-quality prints offer a meaningful way to bring its story into your own space.
 
 products:
-    - id: 746855079
-      name: Original Watercolor Painting
-      sold: true
-    - id: 746858779
-      name: 9x12in Limited Reproduction
-      left: 56
-      total: 60
-    - id: 765476755
-      name: 18x24in Limited Reproduction
-      left: 29
-      total: 30
+    - id: original
+      shopify_id: 10327103635588
+    - id: giclee
+      shopify_id: 10328414093444
 
 accolades:
     - 2nd Place Judges Award at the 2025 Rod Meadows Art Call.

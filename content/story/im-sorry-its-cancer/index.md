@@ -10,8 +10,10 @@ images: ['painting.jpg']
 buy: I'm Sorry, It's Cancer is available for acquisition as the original watercolor painting or as a high-quality limited reproduction. Collectors may choose between owning the one-of-a-kind original or a museum-grade print that preserves the emotional depth and detail of the work. Both options offer a meaningful way to bring this powerful and personal piece into your collection.
 
 products:
-    - id: 833844820
-      name: Original Watercolor Painting
+    - id: original
+      shopify_id: 10325579890820
+    - id: giclee
+      shopify_id: 10328450793604
 
 collection: Beauty in Darkness
 ---

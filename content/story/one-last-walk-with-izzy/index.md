@@ -13,7 +13,7 @@ products:
     - id: original
       shopify_id: 10317143933060
     - id: giclee
-      shopify_id: 10308272914564
+      shopify_id: 10328414486660
     - id: canvas
       shopify_id: 10308384161924
 

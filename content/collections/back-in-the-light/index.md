@@ -16,7 +16,7 @@ paintings:
       sold: true
       original: https://shop.benjaminjyoung.com/products/one-last-walk-with-izzy-original-painting
       reproductions: true
-      reproduction: https://shop.benjaminjyoung.com/products/one-last-walk-with-izzy-giclee-print
+      reproduction: https://shop.benjaminjyoung.com/products/one-last-walk-with-izzy-giclee-limited-reproduction
     - name: Okay Now
       image: okay-now.jpg
       story: /story/okay-now/

@@ -10,12 +10,10 @@ images: ['painting.jpg']
 buy: Dying In A Snowfall is available for acquisition as the original watercolor painting or as a high-quality limited reproduction. Collectors may choose between owning the one-of-a-kind original or a museum-grade print that preserves the emotional depth and detail of the work. Both options offer a meaningful way to bring this powerful and personal piece into your collection.
 
 products:
-    - id: 734463471
-      name: Original Watercolor Painting
-    - id: 734461906
-      name: 9x12in Limited Reproduction
-      left: 57
-      total: 60
+    - id: original
+      shopify_id: 10325556658308
+    - id: giclee
+      shopify_id: 10328104534148
 
 accolades:
     - Featured in the Cold Decembers Exhibit at Brewtifully in North Canton, Ohio.

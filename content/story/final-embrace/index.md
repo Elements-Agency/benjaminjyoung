@@ -10,21 +10,12 @@ images: ['painting.jpg']
 buy: Final Embrace is available for acquisition as the original oil painting or as a high-quality limited reproduction. Collectors may choose between owning the one-of-a-kind original or a museum-grade print that preserves the emotional depth and detail of the work. Both options offer a meaningful way to bring this powerful and personal piece into your collection.
 
 products:
-    - id: 716381943
-      name: Original Oil Painting
-      sold: true
-    - id: 716135890
-      name: 9x12in Limited Reproduction
-      left: 54
-      total: 60
-    - id: 790050257
-      name: 12x16in Limited Reproduction
-      left: 37
-      total: 40
-    - id: 765435153
-      name: 18x24in Limited Reproduction
-      left: 29
-      total: 30
+    - id: original
+      shopify_id: 10322423251076
+    - id: giclee
+      shopify_id: 10328130584708
+    - id: canvas
+      shopify_id: 10321791647876
 
 accolades:
     - Featured in the 2025 Door 2 Art Show at Door 2 Art in Hudson, Ohio.
