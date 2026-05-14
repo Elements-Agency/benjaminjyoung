@@ -15,7 +15,7 @@ products:
     - id: giclee
       shopify_id: 10328130584708
     - id: canvas
-      shopify_id: 10321791647876
+      shopify_id: 10331000438916
 
 accolades:
     - Featured in the 2025 Door 2 Art Show at Door 2 Art in Hudson, Ohio.

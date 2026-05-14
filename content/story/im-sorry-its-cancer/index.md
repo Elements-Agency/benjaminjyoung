@@ -14,6 +14,8 @@ products:
       shopify_id: 10325579890820
     - id: giclee
       shopify_id: 10328450793604
+    - id: canvas
+      shopify_id: 10332203090052
 
 collection: Beauty in Darkness
 ---

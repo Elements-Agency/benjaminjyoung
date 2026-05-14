@@ -36,6 +36,8 @@ locations: [kolp, print]
 tags: [man, portrait, face, expression, gaze, indoors, dark]
 
 tag: Bad news.
+
+story: /story/im-sorry-its-cancer/
 ---
 
 The completion of my most realistic watercolor painting yet comes with an announcement. As the title implies, I was diagnosed with cancer back in March.

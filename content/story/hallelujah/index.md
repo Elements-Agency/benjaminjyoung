@@ -14,6 +14,8 @@ products:
       shopify_id: 10327099637892
     - id: giclee
       shopify_id: 10328413143172
+    - id: canvas
+      shopify_id: 10331000995972
 
 accolades:
     - Honorable Mention at the 2025 Door 2 Art Show.
