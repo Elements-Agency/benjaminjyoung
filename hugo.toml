@@ -54,7 +54,7 @@ timeout = '600'
     weight = 30
 [[menus.main]]
     name = 'Acquire Artwork'
-    pageRef = '/shop/'
+    url = 'https://shop.benjaminjyoung.com/'
     weight = 40
 [[menus.main]]
     name = 'About Artist'
@@ -79,7 +79,7 @@ timeout = '600'
     weight = 40
 [[menus.inside]]
     name = 'Shop'
-    pageRef = '/shop/'
+    url = 'https://shop.benjaminjyoung.com/'
     weight = 50
 [[menus.inside]]
     name = 'News'
@@ -96,7 +96,7 @@ timeout = '600'
     weight = 10
 [[menus.small]]
     name = 'Acquire'
-    pageRef = '/shop/'
+    url = 'https://shop.benjaminjyoung.com/'
     weight = 20
 [[menus.small]]
     name = 'Join'
