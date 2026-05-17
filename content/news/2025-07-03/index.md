@@ -37,7 +37,7 @@ There are still a few original paintings available in my Summer Cleaning Sale â€
 
 Use code **'SPRINGCLEANING'** at checkout to received 50% off these originals. Sales ends in August.
 
-{{< button class="fit" href="/shop/" text="Shop All Artwork" >}}
+{{< button class="fit" href="https://shop.benjaminjyoung.com" text="Shop All Artwork" >}}
 
 
 ## Massillon Public Library Display ##

@@ -96,7 +96,7 @@ On a much heavier note, I have some difficult family news. My father, featured i
     {{< preview col="4" painting="/story/one-last-walk-with-izzy/" >}}
 {{< row-end >}}
 
-{{< button href="/shop/#!/Reproductions/c/184228819" text="Browse Reproductions" >}}
+{{< button href="https://shop.benjaminjyoung.com/collections/reproductions" text="Browse Reproductions" >}}
 
 ---
 
@@ -118,7 +118,7 @@ Whether you are looking for a small original or a limited-edition print, now is 
 
 Your Collector Discount: Use code WINTER20 at checkout for 10% OFF all original paintings and prints.
 
-{{< button href="/shop/" text="Discover Originals & Reproductions" >}}
+{{< button href="https://shop.benjaminjyoung.com" text="Discover Originals & Reproductions" >}}
 
 Thank you for being part of this journey with me.
 

@@ -111,7 +111,7 @@ And the winner is..
 
 This season has reminded me how fragile and resilient life can be — how art continues, even when paused. I’m stepping back into the studio with renewed gratitude, clarity, and ambition.
 
-{{< button href="/shop/" text="Discover Originals & Reproductions" >}}
+{{< button href="https://shop.benjaminjyoung.com" text="Discover Originals & Reproductions" >}}
 
 Thank you for being here. Your presence in this journey means more than you know.
 

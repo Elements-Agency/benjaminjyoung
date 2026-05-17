@@ -118,7 +118,7 @@ If this piece speaks to you, don’t wait — once this edition is gone, it will
 
 Secure yours before they're gone for good.
 
-{{< button class="fit" href="https://benjaminjyoung.com/shop/#!/One-Last-Walk-With-Izzy-9x12in-Limited-Reproduction/p/711216285" text="View Product" >}}
+{{< button class="fit" href="https://shop.benjaminjyoung.com/products/one-last-walk-with-izzy-giclee-limited-reproduction" text="View Product" >}}
 
 ---
 

@@ -30,4 +30,4 @@ If you have any questions about this Returns Policy, please [contact us](/contac
 
 This Returns Policy is effective as of February 7th, 2026 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
 
-[<< Back](/shop/)
+[<< Back](https://shop.benjaminjyoung.com)

@@ -55,4 +55,4 @@ If you have any questions about this Shipping Policy, please [contact us](/conta
 
 This Shipping Policy is effective as of November 28th, 2024 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
 
-[<< Back](/shop/)
+[<< Back](https://shop.benjaminjyoung.com)

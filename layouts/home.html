@@ -123,20 +123,6 @@
 				const [baseUrlPart, hash] = baseUrl.split('#');    
     			return params.toString() ? `${baseUrlPart}?${params.toString()}${hash ? '#' + hash : ''}` : baseUrl;
 			}
-
-			document.addEventListener("DOMContentLoaded", () => {
-				localStorage.viewhome = true;
-
-				// Call the function to store UTM data
-				storeUTMData();
-
-				const shopUtmUrl = buildUTMUrl('/shop/');
-
-				// replace any hrefs to /shop/, /artwork/, or /story/ with UTM version
-				/*document.querySelectorAll('a[href*="/shop/"], a[href*="/artwork/"], a[href*="/story/"]').forEach(link => {
-					link.href = buildUTMUrl(link.href);
-				});*/
-			});
 		</script>
     
         {{ block "head" . }}
@@ -173,7 +159,7 @@
 
 										<ul class="icons">
 											<li>
-												<a href="/shop/#!/~/cart" class="icon solid before fa-shopping-cart" title="Your Bag">
+												<a href="https://shop.benjaminjyoung.com/cart/" class="icon solid before fa-shopping-cart" title="Your Bag">
 													<span class="label">Your Bag</span>
 												</a>
 											</li>
@@ -479,13 +465,13 @@
 						<div class="inner">
 							<h2>Acquire Ben Young's Artwork</h2>
 							<p class="align-justify">
-								Ben Young offers the sales of <a href="/shop/#!/Originals/c/189383751">originals</a> as well as <a href="/shop/#!/Reproductions/c/184228819">limited reproductions</a> directly online.
+								Ben Young offers the sales of <a href="https://shop.benjaminjyoung.com/collections/original-paintings">originals</a> as well as <a href="https://shop.benjaminjyoung.com/collections/reproductions">limited reproductions</a> directly online.
                                 Available to be shipped directly to your door.
 								Shipping is available to the United States, Canada, the United Kingdom, and anywhere in the European Economic Area.
 							</p>
 
 							<ul class="actions stacked">
-								<li><a href="/shop/" class="button">Explore Collection</a></li>
+								<li><a href="https://shop.benjaminjyoung.com" class="button">Explore Collection</a></li>
 							</ul>
 
 							<div class="items style1 medium onscroll-fade-in">
@@ -497,7 +483,7 @@
 										Shipped directly from downtown Canton.
 									</p>
 									<ul class="actions stacked">
-										<li><a href="/shop/#!/Originals/c/189383751" class="button">Browse Originals</a></li>
+										<li><a href="https://shop.benjaminjyoung.com/collections/original-paintings" class="button">Browse Originals</a></li>
 									</ul>
 								</section>
 								<section>
@@ -508,17 +494,17 @@
 										There are also other material options available.
 									</p>
 									<ul class="actions stacked">
-										<li><a href="/shop/#!/Reproductions/c/184228819" class="button">View Reproductions</a></li>
+										<li><a href="https://shop.benjaminjyoung.com/collections/reproductions" class="button">View Reproductions</a></li>
 									</ul>
 								</section>
 								<section>
 									<span class="icon solid style2 major fa-shopping-cart"></span>
 									<h3>Merchandise</h3>
 									<p class="align-justify">
-										Ben also offers <a href="/shop/#!/Puzzles/c/189384001">jigsaw puzzles</a> and <a href="/shop/#!/Postcards/c/188685119">greeting cards</a> featuring his artwork. A fun and meaningful way to share, gift, or experience the paintings you love.
+										Ben also offers <a href="https://shop.benjaminjyoung.com/collections/puzzles">jigsaw puzzles</a> and <a href="https://shop.benjaminjyoung.com/collections/postcards">greeting cards</a> featuring his artwork. A fun and meaningful way to share, gift, or experience the paintings you love.
 									</p>
 									<ul class="actions stacked">
-										<li><a href="/shop/" class="button">Explore Merchandise</a></li>
+										<li><a href="https://shop.benjaminjyoung.com" class="button">Explore Merchandise</a></li>
 									</ul>
 								</section>
 							</div>
@@ -667,7 +653,7 @@
                                     <a href="/featured/">Featured Paintings</a>
                                 </li>
                                 <li style="display:inline-block;">
-                                    <a href="/shop/">Acquire Artwork</a>
+                                    <a href="https://shop.benjaminjyoung.com">Acquire Artwork</a>
                                 </li>
                                 <li style="display:inline-block;">
                                     <a href="/news/">Newsletter</a>
@@ -688,7 +674,7 @@
                             <strong>Order Resources:</strong>
                             <ul style="list-style:none; display:inline-block;">
 								<li style="display:inline-block;">
-                                    <a href="/shop/#!/~/cart">Your Bag</a>
+                                    <a href="https://shop.benjaminjyoung.com/cart/">Your Bag</a>
                                 </li>
                                 <li style="display:inline-block;">
                                     <a href="/shipping/">Shipping Policy</a>

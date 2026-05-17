@@ -51,7 +51,7 @@ The painting is displayed prominently at the entrance to the gallery — ironica
 
 The exhibition will run throughout May and June.
 
-{{< button href="/shop/#!/Mistakes-Original/p/833239832" text="Acquire Painting" >}}
+{{< button href="https://shop.benjaminjyoung.com/products/mistakes-original-watercolor-painting" text="Acquire Painting" >}}
 
 
 ## 3.5x5in Sales ##

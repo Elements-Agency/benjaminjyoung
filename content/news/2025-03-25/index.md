@@ -101,7 +101,7 @@ I have four originals sold this season:
 
 I'm struggling currently holding on to pieces long enough keep them for upcoming shows, so it may require I increase original artwork prices in the future. As of right now, I have not changed my pricing model, but it's a highly likely possibility soon.
 
-{{< button class="fit" href="/shop/" text="Shop Artwork" >}}
+{{< button class="fit" href="https://shop.benjaminjyoung.com" text="Shop Artwork" >}}
 
 ## Newsletter Winner ##
 

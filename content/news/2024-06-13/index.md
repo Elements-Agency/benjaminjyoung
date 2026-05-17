@@ -48,7 +48,7 @@ I also had completed two paintings, that have been accepted in the upcoming [Pau
 
 ## Sold Out ##
 
-The following original paintings have been sold and are no longer available to purchase. However, I do offer [limited reproductions](https://benjaminjyoung.com/shop/#!/Reproductions/c/166807502)!
+The following original paintings have been sold and are no longer available to purchase. However, I do offer [limited reproductions](https://shop.benjaminjyoung.com/collections/reproductions)!
 
 {{< row-start >}}
     {{< preview col="4" painting="/artwork/escape/" >}}
@@ -59,4 +59,4 @@ The following original paintings have been sold and are no longer available to p
     {{< preview col="4" painting="/artwork/creepy-clown/" >}}
 {{< row-end >}}
 
-{{< button class="fit" text="Shop Reproductions and More" href="/shop/" >}}
+{{< button class="fit" text="Shop Reproductions and More" href="https://shop.benjaminjyoung.com" >}}

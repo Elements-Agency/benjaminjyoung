@@ -58,7 +58,7 @@ I know, spring is almost over. But... I need to free up some space in my studio 
 
 Use code **'SPRINGCLEANING'** at checkout to received 50% off these originals.
 
-{{< button class="fit" href="/shop/" text="Shop All Artwork" >}}
+{{< button class="fit" href="https://shop.benjaminjyoung.com" text="Shop All Artwork" >}}
 
 
 ## Going Viral ##
