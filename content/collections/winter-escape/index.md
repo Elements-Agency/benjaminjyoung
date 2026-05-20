@@ -12,9 +12,9 @@ paintings:
     - name: Escape
       image: escape.jpg
       sold: true
-      original: /shop/#!/p/645943624
+      original: https://shop.benjaminjyoung.com/products/escape-original-watercolor-painting
       reproductions: true
-      reproduction: /shop/#!/p/763020627
+      reproduction: https://shop.benjaminjyoung.com/products/escape-giclee-limited-reproduction
       link: /artwork/escape/
     - name: Sailing Away
       image: sailing-away.jpg

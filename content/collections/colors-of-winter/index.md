@@ -12,23 +12,23 @@ paintings:
     - name: Winter Barn I
       image: winter-barn-i.jpg
       sold: false
-      original: /shop/#!/p/805529148
+      original: https://shop.benjaminjyoung.com/products/winter-barn-original-watercolor-painting
       reproductions: true
-      reproduction: /shop/#!/p/805526958
+      reproduction: https://shop.benjaminjyoung.com/products/winter-barn-giclee-reproduction
       link: /artwork/winter-barn-i/
     - name: Winter Birch I
       image: winter-birch-i.jpg
       sold: false
-      original: /shop/#!/p/810837299
+      original: https://shop.benjaminjyoung.com/products/winter-birch-original-watercolor-painting
       reproductions: true
-      reproduction: /shop/#!/p/811010309
+      reproduction: https://shop.benjaminjyoung.com/products/winter-birch-giclee-reproduction
       link: /artwork/winter-birch-i/
     - name: Winter Pasture I
       image: winter-pasture-i.jpg
       sold: true
-      original: /shop/#!/p/810824846
+      original: https://shop.benjaminjyoung.com/products/winter-pasture-original-watercolo-painting
       reproductions: true
-      reproduction: /shop/#!/p/811008414
+      reproduction: https://shop.benjaminjyoung.com/products/winter-pasture-giclee-reproduction
       link: /artwork/winter-pasture-i/
     
 ---

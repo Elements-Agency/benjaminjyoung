@@ -13,9 +13,9 @@ paintings:
       image: im-sorry-its-cancer.jpg
       story: /story/im-sorry-its-cancer/
       sold: false
-      original: /shop/#!/p/833844820
+      original: https://shop.benjaminjyoung.com/products/im-sorry-its-cancer-original-watercolor-painting
       reproductions: true
-      reproduction: /shop/#!/p/833844820
+      reproduction: https://shop.benjaminjyoung.com/products/im-sorry-its-cancer-giclee-reproduction
     
 ---
 

@@ -21,37 +21,37 @@ paintings:
       image: okay-now.jpg
       story: /story/okay-now/
       sold: true
-      original: /shop/#!/p/710975182
+      original: https://shop.benjaminjyoung.com/products/okay-now-original-watercolor
       reproductions: true
-      reproduction: /shop/#!/p/711193420
+      reproduction: https://shop.benjaminjyoung.com/products/okay-now-giclee-reproduction
     - name: Coming Home
       image: coming-home.jpg
       story: /story/coming-home/
       sold: true
-      original: /shop/#!/p/797673135
+      original: https://shop.benjaminjyoung.com/products/coming-home-original-watercolor-painting
       reproductions: true
-      reproduction: /shop/#!/p/820773850
+      reproduction: https://shop.benjaminjyoung.com/products/coming-home-giclee-reproduction
     - name: Howard's Hills
       image: howards-hills.jpg
       story: /story/howards-hills/
       sold: false
-      original: /shop/#!/p/694481795
+      original: https://shop.benjaminjyoung.com/products/howards-hills-original-watercolor-painting
       reproductions: true
-      reproduction: /shop/#!/p/694564503
+      reproduction: https://shop.benjaminjyoung.com/products/howards-hills-giclee-reproduction
     - name: Avalanche Lilies
       image: avalanche-lilies.jpg
       story: /story/avalanche-lilies/
       sold: false
-      original: /shop/#!/p/718508603
+      original: https://shop.benjaminjyoung.com/products/avalanche-lilies-original-watercolor-painting
       reproductions: true
-      reproduction: /shop/#!/p/718515517
+      reproduction: https://shop.benjaminjyoung.com/products/avalanche-lilies-giclee-reproduction
     - name: Mistakes
       image: mistakes.jpg
       story: /story/mistakes/
       sold: false
-      original: /shop/#!/p/833239832
+      original: https://shop.benjaminjyoung.com/products/mistakes-original-watercolor-painting
       reproductions: true
-      reproduction: /shop/#!/p/828716057
+      reproduction: https://shop.benjaminjyoung.com/products/mistakes-giclee-reproduction
     
 ---
 

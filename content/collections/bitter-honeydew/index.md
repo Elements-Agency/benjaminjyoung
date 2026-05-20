@@ -13,37 +13,37 @@ paintings:
       image: corporate-contempt.jpg
       story: /story/corporate-contempt/
       sold: false
-      original: /shop/#!/p/734463473
+      original: https://shop.benjaminjyoung.com/products/corporate-contempt-original-watercolor-painting
       reproductions: true
-      reproduction: /shop/#!/p/734463429
+      reproduction: https://shop.benjaminjyoung.com/products/corporate-contempt-giclee-reproduction
     - name: Fruitcake Delivery
       image: fruitcake-delivery.jpg
       story: /story/fruitcake-delivery/
       sold: false
-      original: /shop/#!/p/711216274
+      original: https://shop.benjaminjyoung.com/products/fruitcake-delivery-original-watercolor-painting
       reproductions: true
-      reproduction: /shop/#!/p/705991341
+      reproduction: https://shop.benjaminjyoung.com/products/fruitcake-delivery-giclee-reproduction
     - name: Circus Act
       image: circus-act.jpg
       story: /story/circus-act/
       sold: false
-      original: /shop/#!/p/764160303
+      original: https://shop.benjaminjyoung.com/products/circus-act-original-watercolor-painting
       reproductions: true
-      reproduction: /shop/#!/p/764161038
+      reproduction: https://shop.benjaminjyoung.com/products/circus-act-giclee-reproduction
     - name: Defeat
       image: defeat.jpg
       story: /story/defeat/
       sold: true
-      original: /shop/#!/p/726369026
+      original: https://shop.benjaminjyoung.com/products/defeat-original-watercolor
       reproductions: true
-      reproduction: /shop/#!/p/734461977
+      reproduction: https://shop.benjaminjyoung.com/products/defeat-giclee-reproduction
     - name: The Artist's Assistant
       image: the-artists-assistant.jpg
       story: /story/the-artists-assistant/
       sold: true
-      original: /shop/#!/p/675661538
+      original: https://shop.benjaminjyoung.com/products/the-artists-assistant-original-watercolor-painting
       reproductions: true
-      reproduction: /shop/#!/p/683098813
+      reproduction: https://shop.benjaminjyoung.com/products/the-artists-assistant-giclee-reproduction
     
 ---
 

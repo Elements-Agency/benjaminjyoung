@@ -13,30 +13,30 @@ paintings:
       image: hallelujah.jpg
       story: /story/hallelujah/
       sold: false
-      original: /shop/#!/p/691515054
+      original: https://shop.benjaminjyoung.com/products/hallelujah-original-oil-painting
       reproductions: true
-      reproduction: /shop/#!/p/691515048
+      reproduction: https://shop.benjaminjyoung.com/products/hallelujah-giclee-reproduction
     - name: Dying In A Snowfall
       image: dying-in-a-snowfall.jpg
       story: /story/dying-in-a-snowfall/
       sold: false
-      original: /shop/#!/p/734463471
+      original: https://shop.benjaminjyoung.com/products/dying-in-a-snowfall-original-watercolor-painting
       reproductions: true
-      reproduction: /shop/#!/p/734461906
+      reproduction: https://shop.benjaminjyoung.com/products/dying-in-a-snowfall-giclee-reproduction
     - name: Final Embrace
       image: final-embrace.jpg
       story: /story/final-embrace/
       sold: true
-      original: /shop/#!/p/716381943
+      original: https://shop.benjaminjyoung.com/products/final-embrace-original-painting
       reproductions: true
-      reproduction: /shop/#!/p/716135890
+      reproduction: https://shop.benjaminjyoung.com/products/final-embrace-giclee-reproduction
     - name: In The Dark
       image: in-the-dark.jpg
       story: /story/in-the-dark/
       sold: true
-      original: /shop/#!/p/746855079
+      original: https://shop.benjaminjyoung.com/products/in-the-dark-original-watercolor-painting
       reproductions: true
-      reproduction: /shop/#!/p/746858779
+      reproduction: https://shop.benjaminjyoung.com/products/in-the-dark-giclee-reproduction
     
 
 ---
