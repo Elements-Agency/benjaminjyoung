@@ -324,103 +324,18 @@
                             <section>
                                 <h3>{{ $product.name }}</h3>
                                 <div class="inner">
-                                    <div class="ecsp ecsp-SingleProduct-v2 ecsp-SingleProduct-v2-bordered ecsp-SingleProduct-v2-centered ecsp-Product ec-Product-{{ $product.id }}" itemscope itemtype="http://schema.org/Product" data-single-product-id="{{ $product.id }}">
-                                        {{ $pcon := .Resources.GetMatch (printf "%spainting.jpg" (replace .File.Dir "story/" "")) }}
-                                        {{ $pcon := $pcon.Fit "400x400 webp q85" }}
-                                        <div itemprop="image" content=""></div>
-
-                                        <span itemprop="name" content="{{ .Title }}" style="display:none;">{{ .Title }}</span>
-                                        
-                                        {{ if $product.left }}
-                                            <strong style="color:orange; font-size:1.6em;">
-                                                {{ $product.left }} LEFT OF {{ $product.total }}
-                                            </strong>
-                                        {{ else if $product.sold }}
-                                            <strong style="color:red; font-size:1.6em;">
-                                                {{ if $product.total }}
-                                                    SOLD
-                                                {{ else }}
-                                                    SOLD OUT
-                                                {{ end }}
-                                            </strong>
-                                        {{ end }}
-
-                                        <div itemtype="http://schema.org/Offer" itemscope itemprop="offers">
-                                            <link itemprop="url" href="/shop/#!/p/{{ $product.id }}" />
-                                            {{ if not $product.sold }}
-                                                <meta itemprop="availability" content="https://schema.org/InStock" />
-                                            {{ end }}
-                                            {{ $price := trim $product.price "$" }}
-                                            {{ $price = replace $price "," "" }}
-                                            <div class="ecsp-productBrowser-price ecsp-price" itemprop="price" content="{{ printf "%.2f" (float $product.price) }}">
-                                                <div itemprop="priceCurrency" content="USD"></div>
-                                            </div>
-                                        </div>
-                                        <div customprop="vatinprice"></div>
-                                        <div customprop="options"></div>
-                                        <div customprop="numberinstock"></div>
-                                        <div customprop="addtobag" style="margin-bottom: 0.5em;"></div>
-
-                                        <div>
-                                            <div style="position: relative; display: none;">
-                                                <a class="ecwid-btn ecwid-btn--primary ecwid-btn--addToBag ecwid-btn--actionOK"
-                                                    style="background: #fff; color: #000; border: 1px solid #ddd;"
-                                                    href="/shop/#!/p/{{ $product.id }}"
-                                                    aria-label="More Information"
-                                                    title="More Information"
-                                                    onclick="trackLikely();">
-                                                    <span style=" color: #000;">More Information</span>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
+                                    <p>Please visit our store to view this product.</p>
+                                    <ul class="actions">
+                                        <li>
+                                            <a href="https://shop.benjaminjyoung.com" class="button big wide primary" onclick="trackPotential();">
+                                                Visit Store
+                                            </a>
+                                        </li>
+                                    </ul>
                                 </div>
                             </section>
                         {{ end }}
                     {{ end }}
-
-                    <script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?101772706&data_platform=singleproduct_v2" charset="utf-8"></script>
-                    <script type="text/javascript">
-                        xProduct();
-
-                        Ecwid.OnAPILoaded.add(function() {
-                            Ecwid.OnCartChanged.add(function(cart) {
-                                cart_string = cart.items.map(function(item) { return item.product.id + ' x' + item.quantity; }).join(', ');
-
-                                if (cart && cart.items && cart.items.length > 0 && cart_string !== localStorage.cart) {
-                                    fbq('track', 'AddToCart', {
-                                        content_ids: cart.items.map(function(item) { return item.product.id; }),
-                                        content_type: 'product',
-                                        content_name: cart.items.map(function(item) { return item.product.name; }).join(', '),
-                                        contents: cart.items.map(function(item) { return {id: item.product.id, quantity: item.quantity}; }),
-                                        value: cart.items.reduce(function(sum, item) { return sum + (item.product.price * item.quantity); }, 0),
-                                        currency: 'USD',
-                                        event_id: 'ecwid_add_to_cart_' + Date.now()
-                                    });
-                                }
-
-                                localStorage.cart = cart_string;
-
-                                trackLikely();
-                            });
-
-                            Ecwid.OnOrderPlaced.add(function(order) {
-                                if (order && order.total) {
-                                    fbq('track', 'Purchase', {
-                                        content_ids: order.items.map(function(item) { return item.product.id; }),
-                                        content_type: 'product',
-                                        content_name: cart.items.map(function(item) { return item.product.name; }).join(', '),
-                                        contents: order.items.map(function(item) { return {id: item.product.id, quantity: item.quantity}; }),
-                                        value: order.total,
-                                        currency: 'USD',
-                                        event_id: 'ecwid_begin_checkout_' + Date.now()
-                                    });
-                                }
-                                
-                                trackLikely();
-                            });
-                        });
-                    </script>
                 </div>
 
                 <p>
