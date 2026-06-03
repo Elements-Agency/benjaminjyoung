@@ -3,7 +3,7 @@ date: 2026-06-02
 title: Moving Forward
 author: Ben Young
 description: After my cancer announcement, I keep moving forward, with some amazing announcements.
-preview_image: barberton.jpg
+preview_image: returningthefavor.jpg
 preview_alt: Magic City Arts and Music Festival
 images:
     - returningthefavor.jpg
@@ -12,9 +12,11 @@ images:
 ---
 Dear Collector,
 
-I don't know where to begin. The positive reception of ["I'm Sorry, It's Cancer"](/story/im-sorry-its-cancer) has been overwhelming. I have a lot to go over this newsletter.
+I’m not quite sure where to begin.
 
-While my energy feels short in recent days, I have had to focus what is being worked on in the pipeline. I see this as temporary, but for now, it's time to focus on my most critical work.
+The response to ["I'm Sorry, It's Cancer"](/story/im-sorry-its-cancer) has been overwhelming. The messages, encouragement, and support I’ve received over the past month has meant more to me than I can adequately express. Thank you.
+
+My energy has been limited lately, which has forced me to focus carefully on the work moving through my studio. I believe this season is temporary, but for now, my attention must be devoted to the paintings that matter most.
 
 <!--more-->
 
@@ -26,20 +28,24 @@ I’ve finally begun painting toward the darkest piece I’ve ever planned.
 
 When I first started painting a few years ago, there was one painting I knew I had to create someday. Just one. But I also knew I wasn’t ready for it — not technically, and not emotionally.
 
-Even after completing “In The Dark,” despite it going on to win several awards, I still didn’t feel capable of painting it.
-Now, after finishing “I’m Sorry, It’s Cancer,” I don’t really have an excuse left when it comes to a lack of technical realism skill. If anything, I’ve started to worry more about time — in the small chance my cancer takes a turn, even though I fully believe I’ll beat it.
+Even after completing “[In The Dark](/story/in-the-dark),” despite it going on to win several awards, I still didn’t feel capable of painting it.
+
+Now, after finishing “[I’m Sorry, It’s Cancer](/story/im-sorry-its-cancer),” I don’t really have an excuse left when it comes to a lack of technical realism skill. If anything, I’ve started to worry more about time — in the small chance my cancer takes a turn, even though I fully believe I’ll beat it.
 
 Before I can reach that final painting, though, there are two darker works that need to come first. They foreshadow the past.Both are almost as heart-wrenching, and both are incredibly painful for me to revisit.
 
-This painting is the first of those pieces: “Returning the Favor.” It will mirror the next work, in an unexpected way.
-After this comes “Broken,” which takes place in the aftermath of the finale — sometime in the early morning hours of December 21st.
+This painting is the first of those pieces: “__Returning the Favor__.” It will mirror the next work, in an unexpected way.
 
 {{< row-start >}}
     {{< img col="6" src="returningthefavor.jpg" alt="Beginning of a Watercolor Painting" title="Returning The Favor, Watercolor on Paper" >}}
 {{< row-end >}}
 
+After this comes “__Broken__,” which takes place in the aftermath of the finale — sometime in the early morning hours of December 21st.
+
 But a good story needs buildup. Before the final piece, I still need to create lighter, warmer paintings that go further back in time — works that establish the relationship and emotional connection behind it all.
-“December 20th” is the working title for that final painting. It will depict the darkest and most tragic moment of my life.
+
+“__December 20th__” is the working title for that final painting. It will depict the darkest and most tragic moment of my life.
+
 After that chapter is complete, the work beyond it will return to warmth, color, and light. More vibrant pieces. More hopeful ones.
 
 These upcoming paintings aren’t meant to define my art as darkness alone, but to contrast against the lighter moments — because the dark makes the light shine brighter.
@@ -48,13 +54,15 @@ For anyone signed up for my email newsletter, I will be publishing context to th
 
 ---
 
-## "Returning The Favor" - Watercolor on Paper ##
+## Preview of "Returning The Favor" ##
 
-"Returning The Favor" will feature a character most of you are familiar with by now. Izzy, along with myself. This scene will be set with the current context:
+Returning the Favor will feature a character many of you already know: Izzy.
+
+Alongside me, she will be at the center of a deeply personal scene inspired by a memory I have never forgotten.
 
 > My dear child,
 > 
-> It was eight years ago that you first lay your head in my lap, like it is now.It was AJ’s idea that I needed a dog. She was the one who pushed me into adopting you. She was one person who always understood me and knew I yearned for a canine companion again. She was the one who found you online. It was her you first found comfort and trust in. She was your human. You came from an abusive past and had plenty of scars to show for it. You were afraid of men, like me. In a way, you were our first child together.
+> It was eight years ago that you first lay your head in my lap, like it is now. It was AJ’s idea that I needed a dog. She was the one who pushed me into adopting you. She was one person who always understood me and knew I yearned for a canine companion again. She was the one who found you online. It was her you first found comfort and trust in. She was your human. You came from an abusive past and had plenty of scars to show for it. You were afraid of men, like me. In a way, you were our first child together.
 > 
 > I wasn’t the only one who lost her that night.
 > 
@@ -72,15 +80,25 @@ For anyone signed up for my email newsletter, I will be publishing context to th
 
 ## Entry in to The American Watercolor Society ##
 
-Originally, last year I had plans to complete show piece paintings for entry in to some of the most prestigious exhibits I could find. It was a wild ambition. The American Watercolor Society's (AWS) [Annual International Exhibit](https://americanwatercolorsociety.org/2026-annual-international-exhibition/) was one of these shows. The cancer diagnoses journey slowed down my ability to get a show piece completed in time, and so I missed the deadline with no current work I had left unsold, I felt was worthy entering in the show. And I'm afraid I don't have the energy or resources right now to make it to New York for the exhibit it's self.
+Last year, I had ambitious plans to create several exhibition pieces for some of the most prestigious watercolor shows in the country.
 
-AWS however has another online associate member's exhibit, and I had just completed my show piece with some time left before the deadline for this exhibit was up. So became a new member and entered...
+One of those goals was entry into the American Watercolor Society's [Annual International Exhibit](https://americanwatercolorsociety.org/2026-annual-international-exhibition/).
+
+Cancer had other plans.
+
+The diagnosis and treatment process slowed my progress enough that I missed the deadline, and I didn't have an available painting I felt represented my best work. Even if I had, I'm not certain I currently have the energy or resources required to travel to New York for the exhibition itself.
+
+Fortunately, AWS also hosts an Associate Members Online Exhibition.
+
+Having just completed [I'm Sorry, It's Cancer](/story/im-sorry-its-cancer) before the submission deadline, I became a member and entered the painting.
 
 {{< row-start >}}
-    {{< preview col="6" painting="/artwork/im-sorry-its-cancer/" >}}
+    {{< img col="6" src="cancer.jpg" alt="Self Portrait Watercolor" title="I'm Sorry, It's Cancer. Watercolor on Paper" >}}
 {{< row-end >}}
 
-I would now like to announce [I'm Sorry, It's Cancer](/story/im-sorry-its-cancer) has been accepted in to the [2026 American Watercolor Society's Associate Members Online Exhibit](https://americanwatercolorsociety.org/2025-associate-members-online-exhibition-2/). I'm beyond words and excitement.
+I am thrilled to announce that I'm Sorry, It's Cancer has been accepted into the [2026 American Watercolor Society's Associate Members Online Exhibit](https://americanwatercolorsociety.org/2025-associate-members-online-exhibition-2/).
+
+I'm beyond grateful and honored to have the work included.
 
 {{< button href="/story/im-sorry-its-cancer" text="View Painting" >}}
 
@@ -88,13 +106,13 @@ I would now like to announce [I'm Sorry, It's Cancer](/story/im-sorry-its-cancer
 
 ## Mugshot Exhibit at Second April Studios ##
 
-[Second April Studios](https://www.secondaprilstudios.org) continues the Mugshot Exhibit, featuring my painting [Mistakes](/artwork/mistakes), for the month of June.
+The Mugshot Exhibit at [Second April Studios](https://www.secondaprilstudios.org) continues through the month of June and features my watercolor painting, [Mistakes](/artwork/mistakes).
 
 {{< row-start >}}
     {{< preview col="6" painting="/artwork/mistakes/" >}}
 {{< row-end >}}
 
-The painting is displayed prominently at the entrance to the gallery and exhibition will run throughout the rest of the month.
+The painting is displayed prominently near the gallery entrance and will remain on view throughout the remainder of the exhibition.
 
 {{< button href="/story/mistakes" text="View Painting" >}}
 
@@ -102,13 +120,17 @@ The painting is displayed prominently at the entrance to the gallery and exhibit
 
 ## "For Dianne" ##
 
-There is one other watercolor painting I'm choosing to work on. It's a gift, to my dear Dianne. It will feature a branch of Cherry Blossoms on a 22x30in Arches Full Sheet.
+There is one additional watercolor currently on my drafting table.
+
+Unlike the others, this one is not intended for exhibition or sale.
 
 {{< row-start >}}
     {{< img col="6" src="blossoms.jpg" alt="Cherry Blossoms Watercolor" title="For Dianne, Watercolor on Arches Paper" >}}
 {{< row-end >}}
 
-She's been responsible for helping to keep my spirits up through this time. The painting will not be for sale, and will remain with her, but reproductions will be available once it's completed.
+"For Dianne" will feature a branch of cherry blossoms painted on a full 22×30-inch sheet of Arches watercolor paper. It is a gift for someone who has been with me to keep my spirits lifted during a difficult season.
+
+The original painting will remain with her, but reproductions will be available once it is completed.
 
 ---
 
@@ -118,7 +140,11 @@ She's been responsible for helping to keep my spirits up through this time. The 
     {{< img col="12" src="barberton.jpg" alt="Magic City Arts and Music Festival" title="Magic City Arts and Music Festival" >}}
 {{< row-end >}}
 
-I will be (slowly) live painting at the Magic City Arts and Music Festival this year, June 13th. I have my french easel, tent, and some of my artworks ready to take with me. If you're near Barberton Ohio, stop by!
+On June 13th, I will be participating in the [Magic City Arts & Music Festival](https://www.facebook.com/events/1662499148057649) in Barberton, Ohio.
+
+I'll be doing some live painting (albeit at a slower pace than others), and I'll have several original works and reproductions available to view.
+
+If you're nearby, I'd love to meet you.
 
 {{< button href="https://www.facebook.com/events/1662499148057649" text="Learn More" >}}
 
@@ -126,11 +152,13 @@ I will be (slowly) live painting at the Magic City Arts and Music Festival this 
 
 ## Father's Day Sale ##
 
-I'm not a fan of celebrating holidays, as I prefer consistency. But in case you didn't know, I am a father to a 16 year old teenage son. So Father's Day is one holiday that is forced upon me.
+I’ve never been much for holidays. I generally prefer consistency throughout the year.
 
-So for the rest of you to enjoy Father's Day with me, I'm running a small sale.
+That said, as the father of a sixteen-year-old son, Father's Day is one holiday that inevitably finds its way into my calendar.
 
-ALL 5x7in reproductions until June 22nd will be 50% off, using private offer code __FATHERSDAYS__.
+To celebrate and share, all 5×7-inch reproductions will be 50% off through June 22nd using the private offer code:
+
+__FATHERSDAYS__
 
 {{< button href="https://shop.benjaminjyoung.com/collections/giclee-prints" text="Explore Collection" >}}
 
@@ -138,12 +166,16 @@ ALL 5x7in reproductions until June 22nd will be 50% off, using private offer cod
 
 ## Newsletter Winners ##
 
-Now for the monthly drawing. The following newsletter subscriber will receive a 9x12in reproduction of their choice.
+And finally, it's time for this month's newsletter drawing.
+
+The winner of a 9×12-inch reproduction of their choice is:
 
 The winners are:
 
-  * Tom B. from Akron, Ohio
+  * __Tom B.__ from Akron, Ohio
 
-Congratulations to the winner, and thank you again to everyone for your continued support and encouragement.
+Congratulations, Tom.
+
+And to everyone reading this: thank you for your continued support, encouragement, and belief in my work. It means more than you know.
 
 — Benjamin J. Young
