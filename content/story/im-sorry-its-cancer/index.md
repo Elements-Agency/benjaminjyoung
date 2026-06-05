@@ -17,6 +17,10 @@ products:
     - id: canvas
       shopify_id: 10332203090052
 
+
+accolades:
+    - Featured in 2026 American Watercolor Society Associate Member's Exhibit
+
 collection: Beauty in Darkness
 ---
 

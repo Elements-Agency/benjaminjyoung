@@ -375,7 +375,7 @@
               {{ end }}
 
               {{ if and (or (eq .Params.status "sale") (eq .Params.status "sold")) (.Params.products) }}
-                <article id="purchase" class="clear">
+                <!--<article id="purchase" class="clear">
                   <div class="box clear" style="background-color: #eee;">
                     <h2 style="text-align: center;">
                       🛒 Purchase {{ .Title }} 🛒
@@ -453,7 +453,7 @@
                       {{ end }}
                     </div>
                   </div>
-                </article>
+                </article>-->
               {{ end }}
 
               {{ if .Resources.GetMatch "painting.jpg" }}

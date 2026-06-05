@@ -2,7 +2,6 @@
 date: 2022-04-27
 title: Mistakes
 medium: Watercolor
-subtitle: A Portrait of Mistakes Made
 description: Mistakes is a deeply introspective watercolor portrait that confronts the emotional burden of reflection and regret with striking honesty. Through subdued earth tones, delicate layering, and an unflinching gaze, the painting captures the quiet tension between resilience and vulnerability. The weathered expression and stark simplicity of the composition invite viewers to project their own experiences onto the figure, transforming the work into a universal meditation on the scars left behind by time, choices, and survival.
 author: Ben Young
 images: ['painting.jpg']
