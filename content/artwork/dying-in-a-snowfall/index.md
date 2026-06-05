@@ -9,7 +9,7 @@ aliases: [/dying-in-snowfall, /artwork/snowfall, /snowfall]
 images: ['painting.jpg']
 
 featured: true
-order: 7
+order: 9
 ratio: landscape
 power: 1008
 sold: 1

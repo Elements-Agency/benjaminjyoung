@@ -32,7 +32,7 @@ Even after completing “[In The Dark](/story/in-the-dark),” despite it going 
 
 Now, after finishing “[I’m Sorry, It’s Cancer](/story/im-sorry-its-cancer),” I don’t really have an excuse left when it comes to a lack of technical realism skill. If anything, I’ve started to worry more about time — in the small chance my cancer takes a turn, even though I fully believe I’ll beat it.
 
-Before I can reach that final painting, though, there are two darker works that need to come first. They foreshadow the past.Both are almost as heart-wrenching, and both are incredibly painful for me to revisit.
+Before I can reach that final painting, though, there are two darker works that need to come first. They foreshadow the past. Both are almost as heart-wrenching, and both are incredibly painful for me to revisit.
 
 This painting is the first of those pieces: “__Returning the Favor__.” It will mirror the next work, in an unexpected way.
 

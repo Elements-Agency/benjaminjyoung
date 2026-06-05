@@ -9,7 +9,7 @@ aliases: [/im-sorry-its-cancer]
 images: ['painting.jpg']
 
 featured: true
-order: 0
+order: 5
 ratio: portrait
 power: 9000
 sold: 0

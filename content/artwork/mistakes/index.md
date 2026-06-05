@@ -9,7 +9,7 @@ aliases: [/mistakes]
 images: ['painting.jpg']
 
 featured: true
-order: 99
+order: 7
 ratio: portrait
 power: 370
 sold: 0
@@ -44,6 +44,8 @@ locations: [kolp]
 tags: [man, mugshot, old, face, expression, earthy, indoors, cool, rustic]
 
 tag: A mugshot featuring the subtle expression of pain and mistakes.
+
+story: /story/mistakes/
 ---
 
 I painted this for a group exhibit at Second April, themed as celebrity mugshots. The subject is that of Jerry Lee Lewis, however I poured my own emotions in to his facial expression on how one would feel in the situation.

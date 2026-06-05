@@ -9,7 +9,7 @@ aliases: [/in-the-dark]
 images: ['painting.jpg']
 
 featured: true
-order: 3
+order: 4
 ratio: portrait
 power: 744
 sold: 3
