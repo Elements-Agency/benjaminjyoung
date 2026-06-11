@@ -374,6 +374,11 @@
                 </p>
               {{ end }}
 
+              {{ if .Params.story }}
+                <p style="text-align: center;">
+                  <a class="button large" href="{{ .Params.story }}#purchase">Acquire Original or Reproductions &gt;</a>
+                </p>
+              {{ end }}
               {{ if and (or (eq .Params.status "sale") (eq .Params.status "sold")) (.Params.products) }}
                 <!--<article id="purchase" class="clear">
                   <div class="box clear" style="background-color: #eee;">
