@@ -12,6 +12,7 @@ buy: While the original watercolor painting 'Defeat' has been sold, limited edit
 products:
     - id: original
       shopify_id: 10327110484100
+      sold: true
     - id: giclee
       shopify_id: 10328103551108
 

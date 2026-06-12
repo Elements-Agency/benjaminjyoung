@@ -12,6 +12,7 @@ buy: While the original watercolor painting 'Okay Now' has been sold, limited ed
 products:
     - id: original
       shopify_id: 10327106715780
+      sold: true
     - id: giclee
       shopify_id: 10328414355588
 

@@ -12,6 +12,7 @@ buy: Coming Home is available for acquisition as the original watercolor paintin
 products:
     - id: original
       shopify_id: 10325551415428
+      sold: true
     - id: giclee
       shopify_id: 10328087167108
 

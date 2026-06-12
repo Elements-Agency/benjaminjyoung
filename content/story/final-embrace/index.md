@@ -12,6 +12,7 @@ buy: Final Embrace is available for acquisition as the original oil painting or 
 products:
     - id: original
       shopify_id: 10322423251076
+      sold: true
     - id: giclee
       shopify_id: 10328130584708
     - id: canvas

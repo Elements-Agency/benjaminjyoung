@@ -12,10 +12,11 @@ buy: While the original watercolor painting 'One Last Walk With Izzy' has been s
 products:
     - id: original
       shopify_id: 10317143933060
+      sold: true
     - id: giclee
       shopify_id: 10328414486660
-    - id: canvas
-      shopify_id: 10330999914628
+    - id: miniature
+      shopify_id: 10357452931204
 
 accolades:
     - Featured in the 2025 Juried FRESH Exhibit at Summit Artspace in Akron, Ohio.

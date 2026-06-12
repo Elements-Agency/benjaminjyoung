@@ -12,6 +12,7 @@ buy: While the original watercolor painting 'The Artist's Assistant' has been so
 products:
     - id: original
       shopify_id: 10327117430916
+      sold: true
     - id: giclee
       shopify_id: 10328449908868
 

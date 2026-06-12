@@ -12,6 +12,7 @@ buy: While the original watercolor painting 'In The Dark' has been sold, limited
 products:
     - id: original
       shopify_id: 10327103635588
+      sold: true
     - id: giclee
       shopify_id: 10328414093444
 
