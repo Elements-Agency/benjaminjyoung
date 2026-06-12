@@ -7,7 +7,8 @@ description: One Last Walk With Izzy captures the walk I wish I’d had with my 
 author: Ben Young
 images: ['painting.jpg']
 
-buy: While the original watercolor painting 'One Last Walk With Izzy' has been sold, limited edition limited reproductions are still available in various sizes. This emotionally resonant piece continues to connect with collectors, and these high-quality prints offer a meaningful way to bring its story into your own space.
+acquire: Bring Izzy's Story Into Your Home — View Limited Edition Prints
+buy: While the original watercolor of 'One Last Walk With Izzy' has found its permanent home, a select number of limited-edition archival reproductions are available. This piece continues to deeply connect with collectors—bring Izzy’s story, and the reminder of unwavering loyalty, into your own space.
 
 products:
     - id: original
@@ -29,7 +30,7 @@ accolades:
 collection: Back In The Light
 ---
 
-There are some walks we get to take — and some that live only in the quiet corners of our hearts. **One Last Walk With Izzy** is one of those moments I never had, but always wished for.
+A tribute to love, loss, and a walk that never happened. - There are some walks we get to take — and some that live only in the quiet corners of our hearts. **One Last Walk With Izzy** is one of those moments I never had, but always wished for.
 
 <!--more-->
 

@@ -43,8 +43,8 @@
             <ul class="actions special">
                 {{ if $full }}
                     <li class="gallery">
-                        <a href="{{ $full.RelPermalink }}" class="button big wide secondary" data-fancybox data-caption="{{ .Title }} by Ben Young" aria-label="View Full Painting" onclick="trackInterest();">
-                            Expand Painting
+                        <a href="#more" class="button big wide secondary" aria-label="Learn More" onclick="trackInterest();">
+                            Learn More
                         </a>
                     </li>
                 {{ end }}
@@ -93,15 +93,6 @@
         {{ end }}
     </section>
 
-    {{ if .Params.vimeo }}
-        <section class="wrapper style1 align-center">
-            <div style="padding:56.25% 0 0 0;position:relative;">
-                <iframe src="https://player.vimeo.com/video/{{ .Params.vimeo }}?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="video"></iframe>
-            </div>
-            <script src="https://player.vimeo.com/api/player.js"></script>
-        </section>
-    {{ end }}
-
     {{ if and (replace .Content .Summary "") (.Params.subtitle) }}
         <section id="more" class="{{ if .Params.vimeo }}wrapper style1 align-justify{{ else }}spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in{{ end}}">
             <div class="{{ if .Params.vimeo }}inner{{ else }}content{{ end }}">
@@ -109,26 +100,9 @@
                 <p>
                     {{- replace .Content .Summary "" | safeHTML -}}
                 </p>
-
-                
-                <ul class="actions">
-                    {{ if .Params.products }}
-                        <li>
-                            <a href="#purchase" class="button big wide smooth-scroll primary" onclick="trackPotential();">
-                                Acquire Art
-                            </a>
-                        </li>
-                    {{ end }}
-                    <li>
-                        <a href="#signup" class="button big wide smooth-scroll secondary" onclick="trackPotential();">
-                            Learn More
-                        </a>
-                    </li>
-                </ul>
             </div>
 
-            {{ if .Params.vimeo }}
-            {{ else if (.Resources.GetMatch (printf "%sside.jpg" (replace .File.Dir "story/" ""))) }}
+            {{ if (.Resources.GetMatch (printf "%sside.jpg" (replace .File.Dir "story/" ""))) }}
                 <div class="image">
                     {{ $side := .Resources.GetMatch (printf "%sside.jpg" (replace .File.Dir "story/" "")) }}
                     {{ $side := $side.Fit "1024x1024 webp q90" }}
@@ -139,15 +113,55 @@
         </section>
     {{ end }}
 
+    <section id="signup" class="wrapper style1 align-center">
+        <div class="inner">
+            <h2>Take the Stories Home</h2>
+            <p>
+                Download the exclusive digital lookbook of my original paintings, featuring the stories behind the art, plus get 15% off your first limited-edition print.
+            </p>
+            <p>
+                Receive a beautifully designed digital booklet and a curated high-resolution wallpaper pack to bring the emotion and atmosphere of these paintings into your everyday space.
+            </p>
+
+            <form method="post" action="https://benjaminjyoung.us14.list-manage.com/subscribe/post?u=5a284b4c27bab02102d3645de&amp;id=a01ee307ec&amp;f_id=0087c0e0f0" class="align-left" target="_blank">
+                <div class="fields">
+                    <div class="field half">
+                        <label for="fname">First Name</label>
+                        <input type="text" name="FNAME" id="fname" value="" onfocus="focusSignup();">
+                    </div>
+                    <div class="field half">
+                        <label for="email">Email Address</label>
+                        <input type="email" name="EMAIL" id="email" value="" required onfocus="focusSignup();">
+                    </div>
+                </div>
+                <div hidden>
+                    <input type="hidden" id="hid-MMERGE7" name="MMERGE7" value="Story">
+                    <input type="hidden" name="tags" value="7257335,7257510">
+                </div>
+                <div aria-hidden="true" style="position: absolute; left: -5000px;">
+                        <input type="text" name="b_5a284b4c27bab02102d3645de_a01ee307ec" tabindex="-1" value="">
+                    </div>
+                <ul class="actions">
+                    <li><input type="submit" name="submit" id="submit" value="Request Invitation"></li>
+                </ul>
+            </form>
+
+            <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script>
+            <script type="text/javascript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';fnames[6]='COMPANY';ftypes[6]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+        </div>
+    </section>
+
     {{ if .Params.products }}
         <section class="wrapper style1 align-center">
             <div class="inner">
-                <h2 id="purchase">Acquire Artwork</h2>
+                <h2 id="purchase">
+                    {{ if .Params.acquire }}
+                        {{- .Params.acquire -}}
+                    {{ else }}
+                        Acquire Artwork
+                    {{ end }}
+                </h2>
                 <p>{{- .Params.buy -}}</p>
-
-                <p class="center">
-                    <a href="#signup" class="smooth-scroll" onclick="focusSignup();">Join the Collector's Circle</a> to gain access for collector privileged pricing on select works and a <strong>15% OFF</strong> private offer for your first purchase.
-                </p>
 
                 <script>
                     function fireViewProducts() {
@@ -291,137 +305,10 @@
                 </div>
 
                 <p>
-                    Reproductions are printed on premium archival fine art paper using only the finest archival-grade inks, these works meet the strict standards of giclée printmaking—ensuring exceptional detail, color accuracy, and fade resistance.
-                    Designed to preserve the integrity of the original artwork, each reproduction is a museum-quality piece intended to be cherished for generations.
+                    100% Insured Shipping, Archival Safe for 100+ years, Secure Checkout.
                 </p>
-
-                <!--<hr>
-
-                <h3>Want to Know More?</h3>
-                <p>
-                    If you have any questions about the artwork, the reproduction process, or anything else, please feel free to <a href="/contact/">contact me</a>.
-                </p>
-                <ul class="actions special">
-                    <li>
-                        <a href="/contact/" class="button big wide smooth-scroll primary" onclick="trackPotential();">
-                            Contact the Artist
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#signup" class="button big wide smooth-scroll secondary" onclick="focusSignup();">
-                            Join Collector's Circle
-                        </a>
-                    </li>
-                    <li>
-                        <a href="{{ replace .RelPermalink "/story" "/artwork" }}" class="button big wide smooth-scroll secondary" onclick="trackPotential();">
-                            Painting Details
-                        </a>
-                    </li>
-                </ul>-->
             </div>
         </section>
-
-        <!--<section id="commitment" class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in">
-            <div class="content">
-                <h2>Commitment to Quality</h2>
-                <p>
-                    I take the quality of my artwork—both original pieces and limited reproductions—very seriously.
-                    Every piece is created and produced with a long-term collector in mind.
-                    Whether you're purchasing an original or a reproduction, I ensure that all materials meet archival standards, so your investment will stand the test of time.
-                    My reproductions are produced to meet giclée-quality standards for exceptional fidelity and durability.
-                </p>
-
-                <h3>Limited Reproductions Feature:</h3>
-                <ul>
-                    <li>Printed on <strong>high-quality archival fine art paper</strong></li>
-                    <li>Produced using archival pigment-based inks for <strong>long-lasting color</strong></li>
-                    <li>Created to meet <strong>giclée printing standards</strong> for color density, detail, and accuracy</li>
-                    <li>Frame options are professionally <strong>custom built</strong> and archival safe, with <strong>non-glare acrylic</strong>.</li>
-                    <li>Each limited reproduction comes with a numbered <strong>Certificate of Authenticity</strong></strong></li>
-                </ul>
-
-                <h3>Original Artwork Quality:</h3>
-                <ul>
-                    <li>Painted with <strong>professional-grade artist materials</strong> (watercolors or oils)</li>
-                    <li>All surfaces and mediums are <strong>archival and acid-free</strong></li>
-                    <li>Canvas is either Duct Cotton or Linen, Watercolor Paper is always on 100% Cotton.</li>
-                    <li>Framing is done to archival standards, using conservation-quality mats, backing, and UV-protective glazing when applicable</li>
-                    <li>Every original is designed and finished with <strong>museum-level care</strong> and craftsmanship</li>
-                </ul>
-
-                <ul class="actions">
-                    <li>
-                        <a href="#purchase" class="button big wide smooth-scroll primary" onclick="trackPotential();">
-                            Discover This Collection
-                        </a>
-                    </li>
-                    <li>
-                        <a href="https://shop.benjaminjyoung.com" class="button big wide smooth-scroll secondary" onclick="trackPotential();">
-                            Browse All Products
-                        </a>
-                    </li>
-                </ul>
-            </div>
-
-            {{ if (.Resources.GetMatch (printf "%sdisplay.jpg" (replace .File.Dir "story/" ""))) }}
-                <div class="image">
-                    {{ $side := .Resources.GetMatch (printf "%sdisplay.jpg" (replace .File.Dir "story/" "")) }}
-                    {{ $side := $side.Fit "1024x1024 webp q96" }}
-
-                    <img src="{{ $side.RelPermalink }}" alt="">
-                </div>
-            {{ end }}
-        </section>
-
-        <section id="testimonials" class="spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in">
-            <div class="content">
-                <h2>What Collectors Are Saying</h2>
-                <p>
-                    Hear directly from those who have welcomed my work into their homes.
-                    These heartfelt testimonials reflect the emotional connection, quality, and meaning that collectors have found in each piece.
-                </p>
-
-                <dl>
-                    <dd>
-                        It got here safe and sound as it was very nicely packaged.
-                        It's matted, framed and on the wall.
-                        We love it!
-                    </dd>
-                    <dt>Dave K., Michigan</dt>
-
-                    <dd>
-                        I’m very pleased with the Painting looks good in the office.
-                        I will give him a five star rating!
-                    </dd>
-                    <dt>Victor M., Ohio</dt>
-
-                    <dd>
-                        Beautiful painting.
-                        Great communication and parcel arrived in a timely fashion, thoughtfully packaged.
-                    </dd>
-                    <dt>Mark D., Virginia</dt>
-
-                    <dd>
-                        The painting arrived safe and sound...
-                        I have already found just the right place for maximum enjoyment...
-                        Thanks for the very quick and secure shipping!
-                    </dd>
-                    <dt>Gary S., Ohio</dt>
-                </dl>
-
-                <ul class="actions special">
-                    <li>
-                        <a href="https://shop.benjaminjyoung.com" class="button big wide smooth-scroll primary" onclick="trackPotential();">
-                            Explore All Products
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#purchase" class="button big wide smooth-scroll secondary"  onclick="trackPotential();">
-                            Collect This Artwork
-                        </a>
-                    </li>
-                </ul>
-            </div>-->
 
             {{ if (.Resources.GetMatch (printf "%scustomer.jpg" (replace .File.Dir "story/" ""))) }}
                 <div class="image">
@@ -470,114 +357,19 @@
         </section>
     {{ end }}
 
-    <!--<section id="other" class="wrapper style1 align-center">
-        <div class="inner">
-            <h2>Other Featured Works</h2>
-            <p>The following works are in order of date the narration takes place, starting after the current painting.</p>
-
-            <ul class="actions fit">
-                <li>
-                    <a href="/story/" class="button big wide smooth-scroll primary" onclick="trackPotential();">
-                        View Full Story Series
-                    </a>
-                </li>
-            </ul>
-        </div>
-
-        <div class="gallery style2 medium onscroll-fade-in">
-            {{ $current := . }}
-            {{ $all := sort (where .Site.RegularPages "Section" "story") "Params.date" "asc" }}
-            {{ $again := sort (where .Site.RegularPages "Section" "story") "Params.date" "asc" }}
-            {{ $found := false }}
-            {{ $something := false }}
-            {{ $last := false}}
-            {{ $end := false }}
-
-            {{ range $i, $p := $all }}
-                {{ if eq $p.Permalink $current.Permalink }}
-                    {{ $found = true }}
-                {{ else if $found }}
-                    {{ $something = true }}
-                    {{ $painting := $p.Resources.GetMatch (printf "%spainting.jpg" (replace $p.File.Dir "story/" "")) }}
-                    {{ if $painting }}
-                        {{ $painting := $painting.Fill "420x420 Center" }}
-                        {{ $painting := $painting.Resize "420x webp q90" }}
-                        <article>
-                            <a href="{{ $p.RelPermalink }}" class="image {{ if eq $p.Permalink $current.Permalink }}current{{ end }}" onclick="trackInterest();">
-                                <img src="{{ $painting.RelPermalink }}" alt="{{ $p.Title }}" loading="lazy">
-                            </a>
-                            <div class="caption">
-                                <h3>{{ $p.Title }}</h3>
-                                <p>{{ $p.Date | time.Format "January 2, 2006" }}</p>
-                                <ul class="actions fixed">
-                                    <li><span class="button small">Details</span></li>
-                                </ul>
-                            </div>
-                        </article>
-                    {{ end }}
-                {{ end }}
-            {{ end }}
-
-            <article>
-                <a href="/story/" class="image" onclick="trackInterest();">
-                    <img src="/images/social.png" alt="Story of the Collection" loading="lazy">
-                </a>
-                <div class="caption">
-                    <h3>The Story</h3>
-                    <p>The featured artwork forms a visual autobiography, presenting moments of adversity, resilience, connection, and growth in chronological order to reflect both personal memories and the broader evolution of my life and art.</p>
-                    <ul class="actions fixed">
-                        <li><span class="button small">Read More</span></li>
-                    </ul>
-                </div>
-            </article>
-
-            {{ range $l, $q := $again }}
-                {{ if or (eq $q.Permalink $current.Permalink) ($end) }}
-                    {{ $end := true }}
-                    {{ break }}
-                {{ else }}
-                    {{ $painting := $q.Resources.GetMatch (printf "%spainting.jpg" (replace $q.File.Dir "story/" "")) }}
-                    {{ if $painting }}
-                        {{ $painting := $painting.Fill "420x420 Center" }}
-                        {{ $painting := $painting.Resize "420x webp q90" }}
-                        <article>
-                            <a href="{{ $q.RelPermalink }}" class="image">
-                                <img src="{{ $painting.RelPermalink }}" alt="{{ $q.Title }}" loading="lazy">
-                            </a>
-                            <div class="caption">
-                                <h3>{{ $q.Title }}</h3>
-                                <p>{{ .Date | time.Format "January 2, 2006" }}</p>
-                                <ul class="actions fixed">
-                                    <li><span class="button small">Details</span></li>
-                                </ul>
-                            </div>
-                        </article>
-                    {{ end }}
-                {{ end}}
-            {{ end }}
-        </div>
-    </section>-->
-
     <section {{ if not (replace .Content .Summary "") }}id="more"{{ end }} class="spotlight style1 {{ if replace .Content .Summary "" }}orient-right{{ else }}orient-left{{ end }} content-align-left image-position-center onscroll-image-fade-in">
         <div class="content">
-            <h2 id="artist">About the Artist, Ben Young</h2>
+            <h2 id="artist">Meet the Artist, Ben Young</h2>
             <p>
-                Ben Young is a contemporary fine artist originally from Appalachia, Ohio.
-                Originally a Software Engineer, he began painting in watercolor and oil less than two years ago, and his work has quickly gained attention for its emotional depth and storytelling.
-                Each piece is a personal narrative, rooted in lived experience and expressed through a sensitive, evocative style.
-                Each piece touches on themes of loss, love, family, and resilience, often drawing from his own life, including the tragic loss of his fiancée and journey it took to overcome those emotional burdens.
-                His paintings resonate with collectors drawn to authenticity, vulnerability, and a fresh, emerging voice in American art.
+                Benjamin J. Young is an Ohio-based painter specializing in narrative realism.
+                His work explores themes of personal reckoning, healing, and the quiet beauty of the American landscape.
+                Every piece is printed locally to museum-grade standards.
             </p>
             
             <ul class="actions">
                 <li>
                     <a href="/about/" class="button big wide smooth-scroll primary" onclick="trackPotential();">
                         Learn More About Ben Young
-                    </a>
-                </li>
-                <li>
-                    <a href="#signup" class="button big wide smooth-scroll secondary" onclick="focusSignup();">
-                        Sign Up for Newsletter 
                     </a>
                 </li>
             </ul>
@@ -587,55 +379,20 @@
         </div>
     </section>
 
-    <section id="signup" class="wrapper style1 align-center">
+    <section id="contact" class="wrapper style1 align-center">
         <div class="inner">
-            <h2>Ready to Learn More? Join Collector's Circle</h2>
+            <h2>Not ready to collect just yet?</h2>
             <p>
-                If you would like to step inside the story behind this piece—discover its inspiration, explore the creative journey, and gain access to private notes and collector insights—I invite you to join my private collector’s list.
+                Join Ben's Insider Circle to get behind-the-scenes studio updates, first access to new watercolor warmups, and 15% off when you're ready.
             </p>
-            <p>
-                As a welcome gesture, you will receive a preferred 15% collector’s privilege on your acquisitions, along with entry into an exclusive monthly drawing to receive a complimentary limited reproduction.
-            </p>
-
-            <form method="post" action="https://benjaminjyoung.us14.list-manage.com/subscribe/post?u=5a284b4c27bab02102d3645de&amp;id=a01ee307ec&amp;f_id=0087c0e0f0" class="align-left" target="_blank">
-                <div class="fields">
-                    <div class="field">
-                        <label for="email">Email Address</label>
-                        <input type="text" name="EMAIL" id="email" value="" required onfocus="focusSignup();">
-                    </div>
-                    <div class="field half">
-                        <label for="fname">First Name</label>
-                        <input type="text" name="FNAME" id="fname" value="" onfocus="focusSignup();">
-                    </div>
-                    <div class="field half">
-                        <label for="lname">Last Name</label>
-                        <input type="text" name="LNAME" id="lname" value="" onfocus="focusSignup();">
-                    </div>
-                </div>
-                <div hidden>
-                    <input type="hidden" id="hid-MMERGE7" name="MMERGE7" value="Story">
-                    <input type="hidden" name="tags" value="7257335,7257510">
-                </div>
-                <div aria-hidden="true" style="position: absolute; left: -5000px;">
-                        <input type="text" name="b_5a284b4c27bab02102d3645de_a01ee307ec" tabindex="-1" value="">
-                    </div>
-                <ul class="actions">
-                    <li><input type="submit" name="submit" id="submit" value="Request Invitation"></li>
-                </ul>
-            </form>
-
-            <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script>
-            <script type="text/javascript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';fnames[6]='COMPANY';ftypes[6]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+            <ul class="actions special">
+                <li>
+                    <a href="/signup/" class="button big wide smooth-scroll primary" onclick="focusSignup();">
+                        Join the Insider Circle
+                    </a>
+                </li>
+            </ul>
         </div>
-
-        {{ if (.Resources.GetMatch (printf "%scollector.jpg" (replace .File.Dir "story/" ""))) }}
-            <div class="image">
-                {{ $side := .Resources.GetMatch (printf "%scollector.jpg" (replace .File.Dir "story/" "")) }}
-                {{ $side := $side.Fit "800x800 webp q86" }}
-
-                <img src="{{ $side.RelPermalink }}" alt="">
-            </div>
-        {{ end }}
     </section>
 {{ end }}
 
