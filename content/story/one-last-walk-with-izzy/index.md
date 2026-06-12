@@ -20,14 +20,15 @@ products:
       shopify_id: 10357452931204
 
 accolades:
-    - Featured in the 2025 Juried FRESH Exhibit at Summit Artspace in Akron, Ohio.
-    - Featured in ActLoCLE's Featured Artist.
-    - Featured in Massillon Community Arts Council's Featured Artist.
-    - Featured online in the 2nd Annual Juried ActLoCLE Exhibit in Cleveland, Ohio.
-    - Featured in Voyage Ohio - Benjamin Young’s Story.
-    - Original painting sold in 2025
+    - "Official Selection: 2025 Juried FRESH Exhibit | Summit Artspace (Akron, OH)"
+    - "Juried Exhibition: 2nd Annual ActLoCLE Exhibit (Cleveland, OH)"
+    - "Featured Press: Voyage Ohio Magazine – Benjamin Young’s Story"
+    - "Honored Artist: Massillon Community Arts Council Featured Artist"
+    - "Featured Artwork: ActLoCLE Featured Artist"
 
 collection: Back In The Light
+
+about: One Last Walk With Izzy is a central piece of my Back In The Light collection, a visual timeline tracking the journey after healing from grief occurring from the tragic loss of my fiancée, AJ. Thank you for sharing in her memory, and for supporting emerging American narrative realism.
 ---
 
 A tribute to love, loss, and a walk that never happened. - There are some walks we get to take — and some that live only in the quiet corners of our hearts. **One Last Walk With Izzy** is one of those moments I never had, but always wished for.

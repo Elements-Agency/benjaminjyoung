@@ -324,12 +324,18 @@
     {{ if .Params.accolades }}
         <section id="accolades" class="{{ if .Params.vimeo }}spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in{{ else }}wrapper style1 align-justify{{ end }}">
             <div class="{{ if .Params.vimeo }}content{{ else }}inner{{ end }}">
-                <h2>Painting Accolades</h2>
+                <h2>Exhibition History & Recognition</h2>
                 
                 {{ with .Params.accolades }}
                     <ul>
                         {{ range . }}
-                            <li>{{ . }}</li>
+                            <li>
+                                {{ if in . ":" }}
+                                    {{ replaceRE "^([^:]+):" "<strong>$1:</strong>" . | safeHTML }}
+                                {{ else }}
+                                    {{ . }}
+                                {{ end }}
+                            </li>
                         {{ end }}
                     </ul>
                 {{ end }}
@@ -361,10 +367,15 @@
         <div class="content">
             <h2 id="artist">Meet the Artist, Ben Young</h2>
             <p>
-                Benjamin J. Young is an Ohio-based painter specializing in narrative realism.
-                His work explores themes of personal reckoning, healing, and the quiet beauty of the American landscape.
-                Every piece is printed locally to museum-grade standards.
+                I am a contemporary painter based in Ohio, deeply rooted in the landscapes and narratives of the Appalachian plateau where I grew up.
+                Having transitioned from a career in software engineering, I pour lived experiences—themes of profound loss, resilience, and quiet healing—directly onto the paper.
             </p>
+
+            {{ if .Params.about }}
+                <p>
+                    {{ .Params.about }}
+                </p>
+            {{ end }}
             
             <ul class="actions">
                 <li>
