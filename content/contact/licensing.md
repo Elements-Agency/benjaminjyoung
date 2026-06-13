@@ -3,6 +3,7 @@ layout: inside
 title: Artwork Licensing
 heading: Artwork Licensing
 description: All of my artwork is licensed under CC BY-NC-SA 4.0 for non-commercial use—please contact me directly for commercial licensing or collaboration opportunities.
+aliases: [/licensing]
 outputs: ['html']
 ---
 

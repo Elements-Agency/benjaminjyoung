@@ -3,6 +3,7 @@ layout: inside
 title: Press Kit
 heading: Press Kit
 description: 
+aliases: [/curators/presskit]
 outputs: ['html']
 ---
 
