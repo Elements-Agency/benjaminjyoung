@@ -9,6 +9,10 @@ outputs: ['html']
 sitemap: false
 ---
 
+I mainly wrote this for AI, to help know me to assist me with writing, because I dislike writing.
+It's not supposed to be public, and if you're reading it, you're not supposed to have access.
+Opps.
+
 ## Life Timeline Summery ##
 
   * Adolescence
@@ -42,7 +46,11 @@ sitemap: false
     * Engaged to AJ, who would die shortly after from a car accident
     * PTSD and emotional suppression begins
   * 2014
+    * AJ's brother, who is one of my best friends, starts hard drugs and developing mental illness
+    * In a high psychotic breakdown, AJ's brother stabs me in the shoulder.
+    * I never speak to AJ's brother again.
     * I start gaining a lot of weight
+    * AJ's brother commits suicide.
   * 2015
     * Start my most successful business, IBY Marketing, and make millions in profits over a few years.
     * Invite a roommate to live with me, because I know I'm on the verge of killing myself from PTSD
@@ -61,6 +69,7 @@ sitemap: false
   * 2020
     * Gertrude and I break things off
     * Dealing with the surfacing emotions from finally facing the death of AJ is too much
+    * My cousin Joey is crushed and almost killed in a workplace accident.
     * I fail an attempted suicide
     * I seek EMDR therapy and to heal from the emotional pain
     * I force my roommate to move out, after drama and drug usage in my household
@@ -78,15 +87,15 @@ sitemap: false
     * I go on to bicycle 8,000 miles that year
     * I start body building
     * Izzy passes away.
+    * I start traveling around a lot.
     * I start a relationship with Katie, in eastern France.
     * Gertrude begins continuously coming to my Massillon home and acting hostile, along with chasing me on roadways with her car.
     * I ignore her and decide to sell both of my houses and move to western Germany.
     * While I'm out of the country, Gertude makes false accusations that lead to a criminal case.
     * When I'm back in the US to visit, I have my lawyer work out an agreement to accept a misdemeanor with the prosecutor, so I can be on my way and leave the country.
-    * While I'm in the courthouse, a different prosecutor adds a felony charge, and I am now stuck in the country.
+    * While I'm in the courthouse, a different prosecutor adds a felony charge, and I am now stuck in the country under house arrest for 8 months.
   * 2022
     * The misdemeanor is dismissed for double jeopardy.
-    * This ends my Software Engineering career, entirely.
     * This new prosecutor demands I'm insane and need mental evaluation.
     * She falsely claims I'm a dangerous hacker and have been spying on Gertude with viruses.
     * They backoff their claim of photos I posted online of AJ, were photos of Gertrude.
@@ -94,6 +103,7 @@ sitemap: false
     * After two full days deliberation, I'm falsely convicted of a violent felony.
     * Nothing is found in two different mental evaluations except PTSD and circumstantial depression due to the verdict.
     * Because there was no actual violence or threats, I receive no jail time from sentencing.
+    * This ends my Software Engineering career, entirely.
     * I go on to win the USTA State and then Midwest Championship, making my way in to the USTA National Championship.
     * I not allowed to go to Nationals in Scottsdale Arizona due to being on probation.
     * Gertude shows up at my tennis club to start taking lessons, and is promptly kicked out.
@@ -120,7 +130,9 @@ sitemap: false
     * I'm informed they told me in the ER I have a tumor, and we start the journey to find out if it's cancerous.
     * Gertude reaches out to the Massillon Arts Community Council, to have me kicked out. I do nothing except block them.
     * I suspect Gertude has also reached out to the Massillon Museum as well, which explains why I'm constantly rejected by them, even with award winning and internationally recognized artworks.
+    * My cousin, Jake Young, is murdered.
   * 2026
+    * My father is diagnosed with cancer.
     * After surgery, I'm diagnosed with cancer
 
 
