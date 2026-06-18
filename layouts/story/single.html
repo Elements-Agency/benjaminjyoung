@@ -217,9 +217,25 @@
                                         domain: '4x0mwz-4a.myshopify.com',
                                         storefrontAccessToken: '2fa315359f42a02ddc2c43ef3a91e400',
                                     });
+
+                                    function getProductId() {
+                                        var defaultProductId = '{{ $product.shopify_id }}';
+                                        var alternativeProductId = '{{ if $product.alternative }}{{ $product.alternative }}{{ else }}{{ $product.shopify_id }}{{ end }}';
+                                        try {
+                                            var locale = (navigator.languages && navigator.languages[0]) || navigator.language || '';
+                                            var country = locale.split('-')[1] || '';
+                                            if (country.toUpperCase() !== 'US') {
+                                                return alternativeProductId;
+                                            }
+                                        } catch (error) {
+                                            return defaultProductId;
+                                        }
+                                        return defaultProductId;
+                                    }
+
                                     ShopifyBuy.UI.onReady(client).then(function (ui) {
                                     ui.createComponent('product', {
-                                        id: '{{ $product.shopify_id }}',
+                                        id: getProductId(),
                                         node: document.getElementById('product-component-{{ $product.shopify_id }}'),
                                         moneyFormat: '%24%7B%7Bamount%7D%7D',
                                         options: {
