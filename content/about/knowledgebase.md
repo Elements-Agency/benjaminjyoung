@@ -21,19 +21,15 @@ My art is a response to the growing yearning for genuine human connection. I use
 
 ## Basic Facts About Me ##
 
-## Branding Guildlines ##
+Born September 13th, 1990 in Canton Ohio. Grew up in East Sparta Ohio, in the hills of Appalachia Ohio, just down the road from Cricket Valley Rodeo.
+
+## Branding Guidelines ##
+
+Coming soon.
 
 ## Known Target Audience ##
 
-## Codenames ##
-
-To help protect the privacy of everyone, I have changed the names. Examples of this include AJ, Gertrude, and Katie are none of their real names. There are a few exceptions this rule does not apply to. Names not changed:
-
-  * Myself
-  * Any family members (e.g. my son Marcus, Ray, or Jake)
-    * Although, any use of Howard is my father, who is Jay "Chip" Howard Young Jr.
-  * Dianne
-  * Audrey, my never-born daughter
+Coming soon.
 
 ## Life Timeline Summery ##
 
@@ -149,7 +145,7 @@ To help protect the privacy of everyone, I have changed the names. Examples of t
     * I end things with Katie on good terms, because I can no longer return home to her, as previously planned.
   * 2023
     * I start working in a nursing home in Activities, as it's the only job willing to hire me.
-    * I start painting.
+    * I start painting. The first time doing art since 8th grade.
   * 2024
     * I join Patina Art Centre
     * I'm hit by a car while bicycling to work, and am badly injured
@@ -162,20 +158,23 @@ To help protect the privacy of everyone, I have changed the names. Examples of t
     * Gertude reaches out to the owner of Patina Art Centre to have me kicked out. I do nothing and block the owner.
     * I immediately move out of Patina and in to Kolp's Attic.
     * Several other people leave because of this, and Patina Art Centre closes within two months of kicking me out.
+    * I reach a milestone of my 100th sale.
+    * I am exhibited in my first prestigious exhibit, for the Ohio Watercolor society.
     * I start a relationship with Dianne.
     * A year after the car accident, I revisit the doctors because of the pain.
     * I'm informed they told me in the ER I have a tumor, and we start the journey to find out if it's cancerous.
     * Gertrude reaches out to the Massillon Arts Community Council, to have me kicked out. I do nothing except block them.
     * I suspect Gertude has also reached out to the Massillon Museum as well, which explains why I'm constantly rejected by them, even with award winning and internationally recognized artworks.
+    * I begin winning cash-prize awards for my artwork.
     * My cousin, Jake Young, is murdered, after a break-in to his home.
   * 2026
+    * I surpass over 500 sales within a month's time.
     * My father is diagnosed with cancer.
     * After surgery, I'm diagnosed with cancer.
     * Ray, my father's cousin who I call uncle, and the father of Jake, dies, while we await pre-trial for the murder of Jake.
     * My Cancer is found to be Stage 3 Follicular Thyroid Cancer.
+    * I begin being accepted in to international levels of prestigious exhibits, including for the American Watercolor Society.
 
 ## Family Heritage & History ##
 
-## Ethical Guidelines ##
-
-I made a few promises to AJ when were together, that helped develop a list of ethical guidelines I follow:
+I belong to the oldest family in Stark County, a direct descendant of George Young, of Pike Township in Ohio. Benjamin Jay Young is son of Jay Howard Young Junior, son of Jay Howard Young Senior, son of Francis J Young, son of George J Young, son of George Young. Prior to that, we migrated from Germany to Pennsylvania, and then to North East Ohio in 1800.
