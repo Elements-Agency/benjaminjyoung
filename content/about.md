@@ -11,11 +11,9 @@ images: [ben.jpg]
 
 ## Artist Statement ##
 
-I work primarily in watercolor, a medium I chose not for ease, but for the resistance it offers. While oil painting comes more naturally to me, watercolor demands patience, restraint, and attentiveness. Its unpredictability slows the process, giving me time to reflect as I gradually build value through many transparent layers. That pace allows the act of painting to become as meaningful as the finished work.
+Our increasing reliance on technology has come at a cost: we are losing touch with the human element. Having spent years contributing to this digital landscape as a software engineer, I have seen firsthand how the loss of face-to-face communication reduces connection to code and distance. Online, isolated from the subtle facial expressions that naturally build empathy, it is easy to forget the real impact of our words.
 
-My paintings are deeply emotional and narrative in nature, drawn from my own experiences and inner life. Painting functions as a form of therapy—an honest way to process feeling, memory, and emotional weight. Through this work, I seek not only personal understanding, but connection.
-
-I hope viewers feel the sadness or pain present in the work. Not as something negative, but as something necessary. Allowing space for difficult emotion can be an act of release—an invitation to sit with what weighs on us, acknowledge it, and let it pass. If my paintings help others recognize or move through their own struggles, then the work has served its purpose.
+My art is a response to the growing yearning for genuine human connection. I use the artwork to slow down and capture the quiet nuances of the human form—the fleeting emotions in a posture, the stories told in the subtle contours of a face. By anchoring these small, touching moments in my compositions, I seek to reawaken the raw emotional depth that technology so often filters out.
 
 ## Ben Young's Artist Story ##
 
