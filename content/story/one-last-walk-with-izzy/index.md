@@ -16,8 +16,8 @@ products:
       sold: true
     - id: giclee
       shopify_id: 10328414486660
-    - id: miniature
-      shopify_id: 10357452931204
+    - id: canvas
+      shopify_id: 10330999914628
 
 accolades:
     - "Official Selection: 2025 Juried FRESH Exhibit | Summit Artspace (Akron, OH)"

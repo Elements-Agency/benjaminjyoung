@@ -41,18 +41,18 @@
             </p>
 
             <ul class="actions special">
+                <li>
+                    <a href="#more" class="button big wide smooth-scroll primary" aria-label="Learn More" onclick="trackInterest();">
+                        Learn More
+                    </a>
+                </li>
                 {{ if $full }}
                     <li class="gallery">
-                        <a href="#more" class="button big wide smooth-scroll primary" aria-label="Learn More" onclick="trackInterest();">
-                            Learn More
+                        <a href="{{ $full.RelPermalink }}" class="button big wide secondary" data-fancybox data-caption="{{ .Title }} by Ben Young" aria-label="View Full Painting" onclick="trackInterest();">
+                            Inspect Brushwork
                         </a>
                     </li>
                 {{ end }}
-                <li>
-                    <a href="#purchase" class="button big wide smooth-scroll secondary" onclick="trackPotential();">
-                        Acquire Artwork
-                    </a>
-                </li>
             </ul>
 
             <script>
