@@ -7,5 +7,6 @@ description: The first time setting eyes on my second fiancee, AJ. Set in the ba
 author: Ben Young
 images: ['painting.jpg']
 sitemap: false
-draft: true 
+draft: true
+portrait: true
 ---

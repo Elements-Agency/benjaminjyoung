@@ -6,6 +6,7 @@ subtitle: Finding Out The Results
 description: The completion of my most realistic watercolor painting yet comes with an announcement.
 author: Ben Young
 images: ['painting.jpg']
+portrait: true
 
 buy: I'm Sorry, It's Cancer is available for acquisition as the original watercolor painting or as a high-quality limited reproduction. Collectors may choose between owning the one-of-a-kind original or a museum-grade print that preserves the emotional depth and detail of the work. Both options offer a meaningful way to bring this powerful and personal piece into your collection.
 

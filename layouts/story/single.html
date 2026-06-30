@@ -1,6 +1,6 @@
 {{ define "main" }}
     {{ $full := .Resources.GetMatch (printf "%spainting.jpg" (replace .File.Dir "story/" "")) }}
-    <section class="banner style1 content-align-left image-position-center - orient-right">
+    <section class="banner style1 content-align-left {{ if .Params.portrait }}fullscreen{{ end }} image-position-center - orient-right">
         <div class="content align-justify">
             <header id="header">
                 <div class="inner">

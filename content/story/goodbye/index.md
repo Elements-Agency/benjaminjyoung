@@ -7,5 +7,6 @@ description: The tragic death and loss of AJ. Me squeezing her limp body in my a
 author: Ben Young
 images: ['painting.jpg']
 sitemap: false
-draft: true 
+draft: true
+portrait: true
 ---

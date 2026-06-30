@@ -5,6 +5,7 @@ medium: Watercolor
 description: Mistakes is a deeply introspective watercolor portrait that confronts the emotional burden of reflection and regret with striking honesty. Through subdued earth tones, delicate layering, and an unflinching gaze, the painting captures the quiet tension between resilience and vulnerability. The weathered expression and stark simplicity of the composition invite viewers to project their own experiences onto the figure, transforming the work into a universal meditation on the scars left behind by time, choices, and survival.
 author: Ben Young
 images: ['painting.jpg']
+portrait: true
 
 buy: Mistakes is available for acquisition as the original watercolor painting or as a high-quality limited reproduction. Collectors may choose between owning the one-of-a-kind original or a museum-grade print that preserves the emotional depth and detail of the work. Both options offer a meaningful way to bring this powerful and personal piece into your collection.
 

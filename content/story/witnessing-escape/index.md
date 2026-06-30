@@ -7,5 +7,6 @@ description: An old man sits at a window, watching the snow.
 author: Ben Young
 images: ['painting.jpg']
 sitemap: false
-draft: true 
+draft: true
+portrait: true
 ---
