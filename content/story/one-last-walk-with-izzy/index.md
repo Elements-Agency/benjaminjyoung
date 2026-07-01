@@ -19,6 +19,8 @@ products:
     - id: canvas
       shopify_id: 10330999914628
 
+catalog: https://shop.benjaminjyoung.com/collections/one-last-walk-with-izzy-products
+
 accolades:
     - "Official Selection: 2025 Juried FRESH Exhibit | Summit Artspace (Akron, OH)"
     - "Juried Exhibition: 2nd Annual ActLoCLE Exhibit (Cleveland, OH)"

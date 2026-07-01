@@ -413,6 +413,17 @@
                 <p>
                     100% Insured Shipping, Archival Safe for 100+ years, Secure Checkout.
                 </p>
+
+                {{ if .Params.catalog }}
+                    <ul class="actions stacked">
+                        <li>
+                            <a href="{{ .Params.catalog }}" class="button big wide smooth-scroll primary" onclick="trackPotential();">
+                                Explore the Full Catalog
+                            </a>
+                        </li>
+                    </ul>
+                {{ end }}
+
             </div>
         </section>
 
