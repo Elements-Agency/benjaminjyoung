@@ -15,6 +15,9 @@ products:
       sold: true
     - id: giclee
       shopify_id: 10328087167108
+    - id: miniature
+      shopify_id: 10378006429828
+catalog: https://shop.benjaminjyoung.com/collections/coming-home-products
 
 accolades:
     - Original painting sold in 2026
