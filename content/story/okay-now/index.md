@@ -16,6 +16,8 @@ products:
       sold: true
     - id: giclee
       shopify_id: 10328414355588
+    - id: postcard
+      shopify_id: 10378056466564
 catalog: https://shop.benjaminjyoung.com/collections/okay-now-products
 
 accolades:

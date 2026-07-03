@@ -15,8 +15,8 @@ products:
       sold: true
     - id: giclee
       shopify_id: 10328087167108
-    - id: miniature
-      shopify_id: 10378006429828
+    - id: postcard
+      shopify_id: 10378044014724
 catalog: https://shop.benjaminjyoung.com/collections/coming-home-products
 
 accolades:

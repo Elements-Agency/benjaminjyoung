@@ -16,8 +16,8 @@ products:
       sold: true
     - id: giclee
       shopify_id: 10328414486660
-    - id: canvas
-      shopify_id: 10330999914628
+    - id: postcard
+      shopify_id: 10378043293828
 
 catalog: https://shop.benjaminjyoung.com/collections/one-last-walk-with-izzy-products
 

@@ -14,6 +14,8 @@ products:
       shopify_id: 10327997022340
     - id: giclee
       shopify_id: 10328413241476
+    - id: postcard
+      shopify_id: 10378046701700
 catalog: https://shop.benjaminjyoung.com/collections/howards-hills-products
 
 accolades:
