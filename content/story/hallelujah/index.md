@@ -37,12 +37,10 @@ This painting is my own interpretation of that imagery, woven into the fabric of
 
 <!--more-->
 
-The woman in the painting is Gertrude — someone who forced her way into my life at a time when I was emotionally locked away in the deepest shadows of PTSD. For six years after my fiancée’s death, I had been unable to truly feel — I existed in a state of numbness, survival, and emotional suppression. Gertrude saw it. She recognized it because she, too, had walked through her own trauma.
+In the deepest shadows of PTSD after my fiancée’s death, I existed in a state of numbness, survival, and emotional suppression for six years, unable to truly feel. Pain and trauma were things Gertrude recognized immediately, having walked through her own, and she forced her way into my life when I was completely locked away. Under her gentle care, she tended to me, pointing out the ways my soul had been fractured and showing me what needed to be done to begin healing. Through her intimate, grounding, and fiercely compassionate presence, I began to feel again, accessing emotions I thought were gone forever.
 
-Her love, at first, was an act of gentle care — tending to me, pointing out the ways my soul had been fractured, and showing me what needed to be done to begin healing. Her presence was intimate, grounding, and fiercely compassionate. Through her, I began to feel again — to access emotions I thought were gone forever.
+Intimacy between us felt unshakable at first, but like the song’s verse, the story eventually turned. Trust proved fragile, and my own lack of courage to speak my truth led to a sudden, painful reversal. Instead of care, distance grew between us, and the bond we shared was ultimately pierced by betrayal. Now, this painting sits in that exact duality—the way love can be both the hands that free you and the hands that bind you.
 
-But like the song’s verse, the story turned. My lack of courage to speak my truth, combined with the fragility of trust between us, led to a sudden reversal. What began as care became distance, and what I believed was unshakable intimacy was pierced by betrayal.
+Heartbreak was how our story ended, yet Gertrude was the first person to show me deep, caring love since losing AJ. Even with all the discord she caused, she was also the one who broke open the locked door inside me. Reflecting on it now, I know that if it wasn’t for Gertrude, I wouldn’t be alive today.
 
-This painting sits in that duality — the way love can be both the hands that free you and the hands that bind you. Gertrude was the first person to show me deep, caring love since losing AJ, and though the story ended in heartbreak, she was also the one who broke open the locked door inside me. As much discord she cause, if it wasn't for Gertrude, I wouldn't be alive today.
-
-Hallelujah is not just a painting of two figures — it’s a portrait of the complexity of love, trauma, and the way another person’s touch can change the course of your life, for better and for worse.
+Altogether, Hallelujah is not just a painting of two figures. Specifically, it is a portrait of the sheer complexity of love and trauma. Simply put, it shows the way another person’s touch can change the course of your life, for better and for worse.
