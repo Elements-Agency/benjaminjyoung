@@ -15,6 +15,7 @@ products:
       shopify_id: 10325501804676
     - id: giclee
       shopify_id: 10328064557188
+catalog: https://shop.benjaminjyoung.com/collections/circus-act-products
 
 accolades:
     - Featured in the Stark County Bar Association’s Law in Art Exhibit hosted at Cyrus Custom Framing & Art Gallery in Canton, Ohio.

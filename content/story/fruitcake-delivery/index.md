@@ -14,6 +14,7 @@ products:
       shopify_id: 10327997153412
     - id: giclee
       shopify_id: 10328412094596
+catalog: https://shop.benjaminjyoung.com/collections/fruitcake-delivery-products
 
 accolades:
     - Featured in the 2024 Patina Resident Artist Exhibit at Patina Arts Centre in Canton, Ohio.

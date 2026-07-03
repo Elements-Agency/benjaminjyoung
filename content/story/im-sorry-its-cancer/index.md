@@ -17,7 +17,7 @@ products:
       shopify_id: 10328450793604
     - id: canvas
       shopify_id: 10332203090052
-
+catalog: https://shop.benjaminjyoung.com/collections/im-sorry-its-cancer-products
 
 accolades:
     - Featured in 2026 American Watercolor Society Associate Member's Exhibit

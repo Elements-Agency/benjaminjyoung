@@ -14,6 +14,7 @@ products:
       shopify_id: 10327997022340
     - id: giclee
       shopify_id: 10328413241476
+catalog: https://shop.benjaminjyoung.com/collections/howards-hills-products
 
 accolades:
     - Featured in the 1st Annual Juried ActLoCLE Exhibit in Cleveland, Ohio.

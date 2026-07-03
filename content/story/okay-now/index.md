@@ -16,6 +16,7 @@ products:
       sold: true
     - id: giclee
       shopify_id: 10328414355588
+catalog: https://shop.benjaminjyoung.com/collections/okay-now-products
 
 accolades:
     - Featured and sold in the 21st Bryn Du Art Show at the Bryn Du Mansion in Granville, Ohio.
