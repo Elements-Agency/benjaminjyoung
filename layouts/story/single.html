@@ -195,9 +195,9 @@
                                 var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
                                 if (window.ShopifyBuy) {
                                     if (window.ShopifyBuy.UI) {
-                                    ShopifyBuyInit();
+                                        ShopifyBuyInit();
                                     } else {
-                                    loadScript();
+                                        loadScript();
                                     }
                                 } else {
                                     loadScript();
@@ -269,11 +269,32 @@
                                     },
                                     "buttonDestination": "checkout",
                                     "text": {
-                                        "button": "Acquire Now"
+                                        "button": "Acquire Now",
+                                        "outOfStock": "Acquired"
                                     },
                                     "googleFonts": [
                                         "Source Sans Pro"
-                                    ]
+                                    ],
+                                    "events": {
+                                        "addVariantToCart": function (product) {
+                                            try {
+                                                if (typeof fbq === 'function') {
+                                                    fbq('track', 'AddToCart');
+                                                }
+                                            } catch (e) {
+                                                console && console.error && console.error('fbq error', e);
+                                            }
+                                        },
+                                        "openCheckout": function (product) {
+                                            try {
+                                                if (typeof fbq === 'function') {
+                                                    fbq('track', 'InitiateCheckout');
+                                                }
+                                            } catch (e) {
+                                                console && console.error && console.error('fbq error', e);
+                                            }
+                                        },
+                                    }
                                 },
                                 "productSet": {
                                     "styles": {
