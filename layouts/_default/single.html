@@ -180,7 +180,11 @@
             <article>
               {{ if .Resources.GetMatch "painting.jpg" }}
                 <h2 id="about">
-                  About The {{ title (index (.Params.mediums) 0) }} Painting
+                  {{ if .Params.subtitle }}
+                    {{ .Params.subtitle }}
+                  {{ else }}
+                    About The {{ title (index (.Params.mediums) 0) }} Painting
+                  {{ end }}
                 </h2>
               {{ end }}
 
