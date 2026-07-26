@@ -9008,3 +9008,13 @@ input, select, textarea {
 	.ecwid-btn {
 		color: white !important;
 	}
+
+.t-declineButton {
+	color: #fff !important;
+}
+.t-acceptAllButton {
+	color: #fff !important;
+}
+.t-acceptButton {
+	color: #fff !important;
+}

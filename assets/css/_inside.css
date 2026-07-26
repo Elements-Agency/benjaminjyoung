@@ -4731,3 +4731,15 @@ input, select, textarea {
 	.loader {
 		background: #000 url('/images/loader.gif') center no-repeat;
 	}
+
+
+
+.t-declineButton {
+	color: #fff !important;
+}
+.t-acceptAllButton {
+	color: #fff !important;
+}
+.t-acceptButton {
+	color: #fff !important;
+}
