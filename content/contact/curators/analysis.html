@@ -26,20 +26,13 @@ https://cdn.jsdelivr.net/npm/chartjs-chart-funnel@4.2.5/build/index.umd.min.js
         </li>
     </ul>
 
-    <p style="text-align: center; font-style: italic;">Sales data updated as of December 26th, 2025</p>
+    <p style="text-align: center; font-style: italic;">Sales data updated as of July 25th, 2026</p>
 
     <h3>General Sales Statistics at a Glance</h3>
-    <p>
-        From January 2025 to December 2025, I have had 81 sales, totalling $10,425.
-        8 of those were original paintings, 73 were reproductions.
-    </p>
 
     <div class="row">
-        <div class="col-8 col-12-small">
+        <div class="col-12">
             <canvas id="OnlineOrders"></canvas>
-        </div>
-        <div class="col-4 col-12-small">
-            <canvas id="OnlineOffline"></canvas>
         </div>
     </div>
 
@@ -66,15 +59,15 @@ https://cdn.jsdelivr.net/npm/chartjs-chart-funnel@4.2.5/build/index.umd.min.js
         <tbody>
             <tr>
                 <td>Customer</td>
-                <td>$52.45</td>
-                <td>$128.70</td>
-                <td>2.45</td>
-                <td>59.27%</td>
+                <td>$16.25</td>
+                <td>$79.71</td>
+                <td>4.91</td>
+                <td>79.61%</td>
             </tr>
             <tr>
                 <td>Lead</td>
-                <td>$14.11</td>
-                <td>$34.63</td>
+                <td>$1.88</td>
+                <td>$9.24</td>
                 <td>N/A</td>
                 <td>N/A</td>
             </tr>
@@ -83,7 +76,7 @@ https://cdn.jsdelivr.net/npm/chartjs-chart-funnel@4.2.5/build/index.umd.min.js
 
     <h3>Original Painting Sales</h3>
     <p>
-        For 2025, original painting sales totaled $5,300. My highest price point original was $2,000, with an average sale price point of $662.
+        For 2025, original painting sales totaled $5,300. My highest price point original was $2,000, with an average sale price point of $662. It's noted this has changed for 2026, as original sales are down while I busy with receiving cancer treatment, and have stepped away from exhibits for the time being.
     </p>
 
     <div class="row">
@@ -100,7 +93,7 @@ https://cdn.jsdelivr.net/npm/chartjs-chart-funnel@4.2.5/build/index.umd.min.js
 
     <h3>Reproduction Sales</h3>
     <p>
-        Reproduction sales for 2025 totaled $5,125. My highest reproduction sale was $480, with an average reproduction sale of $96.
+        Reproduction sales for 2025 totaled $5,125. My highest reproduction sale was $480, with an average reproduction sale of $96. It's noted that this has changed for 2026 and onward, due to changes to allow for international orders.
     </p>
 
     <p>
@@ -141,7 +134,7 @@ https://cdn.jsdelivr.net/npm/chartjs-chart-funnel@4.2.5/build/index.umd.min.js
         In order to better understand regional interest, I have also included a second pie graph, which is adjusted for population of each state over sales.
         When adjusted for population, the states with the highest per capita sales are in the second pie graph:
     </p>
-    <p style="text-align: center; font-style: italic; font-weight: bold;">(sales / (state population / US population))</p>
+    <p style="text-align: center; font-style: italic; font-weight: bold;">(sales / (state population )) / 10,000</p>
     <p>
         This indicates a strong regional interest in my work, particularly in areas with rich cultural histories and vibrant art communities, especially in northern Appalachian or rural states.
         The data suggests that my art resonates well in regions that appreciate Americana themes and narrative-driven pieces.
@@ -160,25 +153,6 @@ https://cdn.jsdelivr.net/npm/chartjs-chart-funnel@4.2.5/build/index.umd.min.js
         </div>
     </div>
 
-    <br>
-
-    <h3>Sales Funnel Analysis</h3>
-    <p>
-        My funnel analysis reveals that while we attract a significant number of new visitors, a smaller percentage engage with our content, and even fewer convert into leads and sales. This highlights the need for targeted strategies to nurture leads and guide them through the funnel.
-    </p>
-    <p>
-        My cost per acquisition (CPA) for 2025 is approximately $52.45 per sale. This figure is derived from the total advertising spend divided by the number of sales generated through those ads.
-        With the average order value (AOV) for 2025 projected at $128.70, this gives me a return on ad spend (ROAS) of about 2.45. This means that for every dollar spent on advertising, I can expect to generate $2.45 in revenue.
-        After considering hard costs, this brings my profit margin down to approximately 39% (59% before hard costs).
-        Which may seem high to other industries, but metrics like these do not consider my time spent on creating and marketing my work without a set wage.
-    </p>
-
-    <div class="row">
-        <div class="col-12">
-            <canvas id="Funnel"></canvas>
-        </div>
-    </div>
-
     <ul class="actions special">
         <li>
             <a href="/curators/" class="button primary">
@@ -189,13 +163,13 @@ https://cdn.jsdelivr.net/npm/chartjs-chart-funnel@4.2.5/build/index.umd.min.js
     
     <script>
         const orders_ctx = document.getElementById('OnlineOrders');
-        const orders_labels = ['Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec', 'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+        const orders_labels = [2024, 2025, 2026];
         const orders_data = {
             labels: orders_labels,
             datasets: [
                 {
                     label: 'Online Orders',
-                    data: [0, 1, 0, 0, 0, 1, 1, 3, 1, 3, 2, 2, 3, 6, 8, 16, 13, 9, 11, 6, 6, 9],
+                    data: [12, 86, (217+49)],
                     borderColor: 'rgb(75, 192, 192)',
                     tension: 0.1
                 }
@@ -206,38 +180,6 @@ https://cdn.jsdelivr.net/npm/chartjs-chart-funnel@4.2.5/build/index.umd.min.js
             data: orders_data
         };
         new Chart(orders_ctx, orders_config);
-
-        const online_ctx = document.getElementById('OnlineOffline');
-        const online_data = {
-            labels: [
-                'Online',
-                'Offline'
-            ],
-            datasets: [
-                {
-                    label: 'Number of Sales',
-                    data: [68, 13],
-                    backgroundColor: [
-                        'rgb(0, 200, 83)', // Green
-                        'rgb(54, 162, 235)', // Blue
-                    ],
-                    hoverOffset: 4
-                }
-            ]
-        };
-        const online_config = {
-            type: 'pie',
-            data: online_data,
-            options: {
-                plugins: {
-                    title: {
-                        display: true,
-                        text: 'Online vs Offline Sales',
-                    }
-                }
-            }
-        };
-        new Chart(online_ctx, online_config);
 
         const genders_ctx = document.getElementById('Genders');
         const genders_data = {
@@ -328,542 +270,1814 @@ https://cdn.jsdelivr.net/npm/chartjs-chart-funnel@4.2.5/build/index.umd.min.js
 
         const states = ChartGeo.topojson.feature(us, us.objects.states).features;
 
+        const cities = [
+    {
+        "city": "",
+        "state": "",
+        "latitude": 0,
+        "longitude": 0,
+        "value": 50
+    },
+    {
+        "city": "Birmingham",
+        "state": "Alabama",
+        "latitude": 33.5186,
+        "longitude": -86.8104,
+        "value": 1
+    },
+    {
+        "city": "Guntersville",
+        "state": "Alabama",
+        "latitude": 34.3581,
+        "longitude": -86.2947,
+        "value": 1
+    },
+    {
+        "city": "Gilbert",
+        "state": "Arizona",
+        "latitude": 33.3528,
+        "longitude": -111.789,
+        "value": 1
+    },
+    {
+        "city": "Glendale",
+        "state": "Arizona",
+        "latitude": 33.5387,
+        "longitude": -112.186,
+        "value": 1
+    },
+    {
+        "city": "Phoenix",
+        "state": "Arizona",
+        "latitude": 33.4484,
+        "longitude": -112.074,
+        "value": 1
+    },
+    {
+        "city": "Queen Creek",
+        "state": "Arizona",
+        "latitude": 33.263,
+        "longitude": -111.6346,
+        "value": 1
+    },
+    {
+        "city": "Little Rock",
+        "state": "Arkansas",
+        "latitude": 34.7465,
+        "longitude": -92.2896,
+        "value": 1
+    },
+    {
+        "city": "Atwater",
+        "state": "California",
+        "latitude": 37.3566,
+        "longitude": -120.6038,
+        "value": 1
+    },
+    {
+        "city": "Chico",
+        "state": "California",
+        "latitude": 39.7285,
+        "longitude": -121.8375,
+        "value": 1
+    },
+    {
+        "city": "Davis",
+        "state": "California",
+        "latitude": 38.5449,
+        "longitude": -121.7405,
+        "value": 1
+    },
+    {
+        "city": "Dunsmuir",
+        "state": "California",
+        "latitude": 41.2082,
+        "longitude": -122.2719,
+        "value": 1
+    },
+    {
+        "city": "Kenwood",
+        "state": "California",
+        "latitude": 38.4376,
+        "longitude": -122.458,
+        "value": 1
+    },
+    {
+        "city": "Los Angeles",
+        "state": "California",
+        "latitude": 34.0522,
+        "longitude": -118.2437,
+        "value": 1
+    },
+    {
+        "city": "Menifee",
+        "state": "California",
+        "latitude": 33.6786,
+        "longitude": -117.1859,
+        "value": 1
+    },
+    {
+        "city": "Pleasant Hill",
+        "state": "California",
+        "latitude": 37.948,
+        "longitude": -122.0608,
+        "value": 1
+    },
+    {
+        "city": "Temecula",
+        "state": "California",
+        "latitude": 33.4936,
+        "longitude": -117.1484,
+        "value": 1
+    },
+    {
+        "city": "Yucaipa",
+        "state": "California",
+        "latitude": 34.0336,
+        "longitude": -117.0431,
+        "value": 1
+    },
+    {
+        "city": "Arlington",
+        "state": "Colorado",
+        "latitude": 38.3361,
+        "longitude": -103.3444,
+        "value": 1
+    },
+    {
+        "city": "Cedaredge",
+        "state": "Colorado",
+        "latitude": 38.8961,
+        "longitude": -107.9256,
+        "value": 1
+    },
+    {
+        "city": "Colorado Springs",
+        "state": "Colorado",
+        "latitude": 38.8339,
+        "longitude": -104.8214,
+        "value": 1
+    },
+    {
+        "city": "Cripple Creek",
+        "state": "Colorado",
+        "latitude": 38.7469,
+        "longitude": -105.1783,
+        "value": 1
+    },
+    {
+        "city": "Littleton",
+        "state": "Colorado",
+        "latitude": 39.6133,
+        "longitude": -105.0166,
+        "value": 1
+    },
+    {
+        "city": "Norwalk",
+        "state": "Connecticut",
+        "latitude": 41.1177,
+        "longitude": -73.4079,
+        "value": 1
+    },
+    {
+        "city": "Apopka",
+        "state": "Florida",
+        "latitude": 28.6934,
+        "longitude": -81.5106,
+        "value": 1
+    },
+    {
+        "city": "Jupiter",
+        "state": "Florida",
+        "latitude": 26.9342,
+        "longitude": -80.0942,
+        "value": 1
+    },
+    {
+        "city": "Albany",
+        "state": "Georgia",
+        "latitude": 31.5785,
+        "longitude": -84.1557,
+        "value": 1
+    },
+    {
+        "city": "Athens",
+        "state": "Georgia",
+        "latitude": 33.9519,
+        "longitude": -83.3576,
+        "value": 1
+    },
+    {
+        "city": "Atlanta",
+        "state": "Georgia",
+        "latitude": 33.749,
+        "longitude": -84.388,
+        "value": 1
+    },
+    {
+        "city": "Macon",
+        "state": "Georgia",
+        "latitude": 32.8407,
+        "longitude": -83.6324,
+        "value": 1
+    },
+    {
+        "city": "Portal",
+        "state": "Georgia",
+        "latitude": 32.5385,
+        "longitude": -81.9332,
+        "value": 1
+    },
+    {
+        "city": "Powder Springs",
+        "state": "Georgia",
+        "latitude": 33.8595,
+        "longitude": -84.6838,
+        "value": 1
+    },
+    {
+        "city": "Rome",
+        "state": "Georgia",
+        "latitude": 34.257,
+        "longitude": -85.1647,
+        "value": 1
+    },
+    {
+        "city": "Roswell",
+        "state": "Georgia",
+        "latitude": 34.0234,
+        "longitude": -84.3616,
+        "value": 1
+    },
+    {
+        "city": "Sandy Springs",
+        "state": "Georgia",
+        "latitude": 33.9304,
+        "longitude": -84.3733,
+        "value": 1
+    },
+    {
+        "city": "Suwanee",
+        "state": "Georgia",
+        "latitude": 34.0515,
+        "longitude": -84.0713,
+        "value": 1
+    },
+    {
+        "city": "Middleton",
+        "state": "Idaho",
+        "latitude": 43.7068,
+        "longitude": -116.6201,
+        "value": 1
+    },
+    {
+        "city": "Geneva",
+        "state": "Illinois",
+        "latitude": 41.8875,
+        "longitude": -88.3056,
+        "value": 1
+    },
+    {
+        "city": "Kingston Mines",
+        "state": "Illinois",
+        "latitude": 40.5564,
+        "longitude": -89.774,
+        "value": 1
+    },
+    {
+        "city": "Saint Charles",
+        "state": "Illinois",
+        "latitude": 41.9142,
+        "longitude": -88.3087,
+        "value": 1
+    },
+    {
+        "city": "Corydon",
+        "state": "Indiana",
+        "latitude": 38.212,
+        "longitude": -86.1261,
+        "value": 1
+    },
+    {
+        "city": "Crawfordsville",
+        "state": "Indiana",
+        "latitude": 40.0417,
+        "longitude": -86.8989,
+        "value": 1
+    },
+    {
+        "city": "Greencastle",
+        "state": "Indiana",
+        "latitude": 39.6445,
+        "longitude": -86.8647,
+        "value": 1
+    },
+    {
+        "city": "Jeffersonville",
+        "state": "Indiana",
+        "latitude": 38.2776,
+        "longitude": -85.7372,
+        "value": 1
+    },
+    {
+        "city": "Mooresville",
+        "state": "Indiana",
+        "latitude": 39.6125,
+        "longitude": -86.3744,
+        "value": 1
+    },
+    {
+        "city": "Saint John",
+        "state": "Indiana",
+        "latitude": 41.45,
+        "longitude": -87.472,
+        "value": 1
+    },
+    {
+        "city": "Bellevue",
+        "state": "Iowa",
+        "latitude": 42.2589,
+        "longitude": -90.4226,
+        "value": 1
+    },
+    {
+        "city": "Decorah",
+        "state": "Iowa",
+        "latitude": 43.3033,
+        "longitude": -91.7857,
+        "value": 1
+    },
+    {
+        "city": "Neola",
+        "state": "Iowa",
+        "latitude": 41.4483,
+        "longitude": -95.6136,
+        "value": 1
+    },
+    {
+        "city": "Wellman",
+        "state": "Iowa",
+        "latitude": 41.4678,
+        "longitude": -91.8318,
+        "value": 1
+    },
+    {
+        "city": "Abilene",
+        "state": "Kansas",
+        "latitude": 38.9172,
+        "longitude": -97.2139,
+        "value": 1
+    },
+    {
+        "city": "Hutchinson",
+        "state": "Kansas",
+        "latitude": 38.0608,
+        "longitude": -97.9298,
+        "value": 1
+    },
+    {
+        "city": "Overland Park",
+        "state": "Kansas",
+        "latitude": 38.9822,
+        "longitude": -94.6708,
+        "value": 1
+    },
+    {
+        "city": "Bowling Green",
+        "state": "Kentucky",
+        "latitude": 36.9685,
+        "longitude": -86.4808,
+        "value": 1
+    },
+    {
+        "city": "Falmouth",
+        "state": "Kentucky",
+        "latitude": 38.6737,
+        "longitude": -84.3316,
+        "value": 1
+    },
+    {
+        "city": "Mt Washington",
+        "state": "Kentucky",
+        "latitude": 38.0448,
+        "longitude": -85.5516,
+        "value": 1
+    },
+    {
+        "city": "Prospect",
+        "state": "Kentucky",
+        "latitude": 38.3542,
+        "longitude": -85.6125,
+        "value": 1
+    },
+    {
+        "city": "Taylorsville",
+        "state": "Kentucky",
+        "latitude": 38.0337,
+        "longitude": -85.3444,
+        "value": 1
+    },
+    {
+        "city": "Denham Springs",
+        "state": "Louisiana",
+        "latitude": 30.481,
+        "longitude": -90.9576,
+        "value": 1
+    },
+    {
+        "city": "Freeport",
+        "state": "Maine",
+        "latitude": 43.857,
+        "longitude": -70.1037,
+        "value": 1
+    },
+    {
+        "city": "Hollis Center",
+        "state": "Maine",
+        "latitude": 43.6062,
+        "longitude": -70.6276,
+        "value": 1
+    },
+    {
+        "city": "Ocean Park",
+        "state": "Maine",
+        "latitude": 43.5048,
+        "longitude": -70.4353,
+        "value": 1
+    },
+    {
+        "city": "Beltsville",
+        "state": "Maryland",
+        "latitude": 39.0348,
+        "longitude": -76.9075,
+        "value": 1
+    },
+    {
+        "city": "Arlington",
+        "state": "Massachusetts",
+        "latitude": 42.4154,
+        "longitude": -71.1565,
+        "value": 1
+    },
+    {
+        "city": "Boston",
+        "state": "Massachusetts",
+        "latitude": 42.3601,
+        "longitude": -71.0589,
+        "value": 1
+    },
+    {
+        "city": "Cambridge",
+        "state": "Massachusetts",
+        "latitude": 42.3736,
+        "longitude": -71.1097,
+        "value": 1
+    },
+    {
+        "city": "Chicopee",
+        "state": "Massachusetts",
+        "latitude": 42.1487,
+        "longitude": -72.5809,
+        "value": 1
+    },
+    {
+        "city": "Fairhaven",
+        "state": "Massachusetts",
+        "latitude": 41.6373,
+        "longitude": -70.9023,
+        "value": 1
+    },
+    {
+        "city": "Holland",
+        "state": "Massachusetts",
+        "latitude": 42.062,
+        "longitude": -72.1584,
+        "value": 1
+    },
+    {
+        "city": "Littleton",
+        "state": "Massachusetts",
+        "latitude": 42.5381,
+        "longitude": -71.482,
+        "value": 1
+    },
+    {
+        "city": "Needham",
+        "state": "Massachusetts",
+        "latitude": 42.2809,
+        "longitude": -71.2378,
+        "value": 1
+    },
+    {
+        "city": "Ada",
+        "state": "Michigan",
+        "latitude": 42.955,
+        "longitude": -85.4889,
+        "value": 1
+    },
+    {
+        "city": "Chassell",
+        "state": "Michigan",
+        "latitude": 47.0305,
+        "longitude": -88.5282,
+        "value": 1
+    },
+    {
+        "city": "Farwell",
+        "state": "Michigan",
+        "latitude": 43.8347,
+        "longitude": -84.8681,
+        "value": 1
+    },
+    {
+        "city": "Grand Rapids",
+        "state": "Michigan",
+        "latitude": 42.9634,
+        "longitude": -85.6681,
+        "value": 1
+    },
+    {
+        "city": "Grass Lake",
+        "state": "Michigan",
+        "latitude": 42.2509,
+        "longitude": -84.2155,
+        "value": 1
+    },
+    {
+        "city": "Lake Orion",
+        "state": "Michigan",
+        "latitude": 42.7871,
+        "longitude": -83.1496,
+        "value": 1
+    },
+    {
+        "city": "Lansing",
+        "state": "Michigan",
+        "latitude": 42.7325,
+        "longitude": -84.5555,
+        "value": 1
+    },
+    {
+        "city": "Manchester",
+        "state": "Michigan",
+        "latitude": 42.15,
+        "longitude": -84.0377,
+        "value": 1
+    },
+    {
+        "city": "Mecosta",
+        "state": "Michigan",
+        "latitude": 43.6214,
+        "longitude": -85.2309,
+        "value": 1
+    },
+    {
+        "city": "Metamora",
+        "state": "Michigan",
+        "latitude": 42.9431,
+        "longitude": -83.2902,
+        "value": 1
+    },
+    {
+        "city": "Royal Oak",
+        "state": "Michigan",
+        "latitude": 42.4895,
+        "longitude": -83.1446,
+        "value": 1
+    },
+    {
+        "city": "Tecumseh",
+        "state": "Michigan",
+        "latitude": 41.9992,
+        "longitude": -83.9449,
+        "value": 1
+    },
+    {
+        "city": "Troy",
+        "state": "Michigan",
+        "latitude": 42.5803,
+        "longitude": -83.1499,
+        "value": 1
+    },
+    {
+        "city": "Faribault",
+        "state": "Minnesota",
+        "latitude": 44.295,
+        "longitude": -93.2688,
+        "value": 1
+    },
+    {
+        "city": "Minneapolis",
+        "state": "Minnesota",
+        "latitude": 44.9778,
+        "longitude": -93.265,
+        "value": 1
+    },
+    {
+        "city": "Hattiesburg",
+        "state": "Mississippi",
+        "latitude": 31.3271,
+        "longitude": -89.2903,
+        "value": 1
+    },
+    {
+        "city": "Armstrong",
+        "state": "Missouri",
+        "latitude": 39.1834,
+        "longitude": -92.7032,
+        "value": 1
+    },
+    {
+        "city": "Ballwin",
+        "state": "Missouri",
+        "latitude": 38.5953,
+        "longitude": -90.546,
+        "value": 1
+    },
+    {
+        "city": "Excelsior Springs",
+        "state": "Missouri",
+        "latitude": 39.3392,
+        "longitude": -94.2261,
+        "value": 1
+    },
+    {
+        "city": "Jamestown",
+        "state": "Missouri",
+        "latitude": 38.7617,
+        "longitude": -92.4782,
+        "value": 1
+    },
+    {
+        "city": "Kennett",
+        "state": "Missouri",
+        "latitude": 36.2362,
+        "longitude": -90.0556,
+        "value": 1
+    },
+    {
+        "city": "Marshall",
+        "state": "Missouri",
+        "latitude": 39.1231,
+        "longitude": -93.1808,
+        "value": 1
+    },
+    {
+        "city": "Saint Peters",
+        "state": "Missouri",
+        "latitude": 38.7992,
+        "longitude": -90.6262,
+        "value": 1
+    },
+    {
+        "city": "Villa Ridge",
+        "state": "Missouri",
+        "latitude": 38.4684,
+        "longitude": -90.8843,
+        "value": 1
+    },
+    {
+        "city": "Kalispell",
+        "state": "Montana",
+        "latitude": 48.192,
+        "longitude": -114.3168,
+        "value": 1
+    },
+    {
+        "city": "Kearney",
+        "state": "Nebraska",
+        "latitude": 40.6995,
+        "longitude": -99.0815,
+        "value": 1
+    },
+    {
+        "city": "Spring Creek",
+        "state": "Nevada",
+        "latitude": 40.7277,
+        "longitude": -115.5862,
+        "value": 1
+    },
+    {
+        "city": "Pelham",
+        "state": "New Hampshire",
+        "latitude": 42.7345,
+        "longitude": -71.3242,
+        "value": 1
+    },
+    {
+        "city": "Flemington",
+        "state": "New Jersey",
+        "latitude": 40.5123,
+        "longitude": -74.8593,
+        "value": 1
+    },
+    {
+        "city": "Hackettstown",
+        "state": "New Jersey",
+        "latitude": 40.8537,
+        "longitude": -74.8291,
+        "value": 1
+    },
+    {
+        "city": "Alamogordo",
+        "state": "New Mexico",
+        "latitude": 32.8995,
+        "longitude": -105.9603,
+        "value": 1
+    },
+    {
+        "city": "Albuquerque",
+        "state": "New Mexico",
+        "latitude": 35.0844,
+        "longitude": -106.6504,
+        "value": 1
+    },
+    {
+        "city": "Binghamton",
+        "state": "New York",
+        "latitude": 42.0987,
+        "longitude": -75.6742,
+        "value": 1
+    },
+    {
+        "city": "Buffalo",
+        "state": "New York",
+        "latitude": 42.8864,
+        "longitude": -78.8784,
+        "value": 1
+    },
+    {
+        "city": "Fultonville",
+        "state": "New York",
+        "latitude": 42.947,
+        "longitude": -74.3685,
+        "value": 1
+    },
+    {
+        "city": "Manchester",
+        "state": "New York",
+        "latitude": 42.9698,
+        "longitude": -77.23,
+        "value": 1
+    },
+    {
+        "city": "North Tonawanda",
+        "state": "New York",
+        "latitude": 43.0367,
+        "longitude": -78.8689,
+        "value": 1
+    },
+    {
+        "city": "Queensbury",
+        "state": "New York",
+        "latitude": 43.3448,
+        "longitude": -73.6823,
+        "value": 1
+    },
+    {
+        "city": "Red Creek",
+        "state": "New York",
+        "latitude": 43.2487,
+        "longitude": -76.7266,
+        "value": 1
+    },
+    {
+        "city": "Wallkill",
+        "state": "New York",
+        "latitude": 41.6062,
+        "longitude": -74.1632,
+        "value": 1
+    },
+    {
+        "city": "Asheville",
+        "state": "North Carolina",
+        "latitude": 35.5951,
+        "longitude": -82.5515,
+        "value": 1
+    },
+    {
+        "city": "Burnsville",
+        "state": "North Carolina",
+        "latitude": 35.9173,
+        "longitude": -82.2996,
+        "value": 1
+    },
+    {
+        "city": "Cary",
+        "state": "North Carolina",
+        "latitude": 35.7915,
+        "longitude": -78.7811,
+        "value": 1
+    },
+    {
+        "city": "Concord",
+        "state": "North Carolina",
+        "latitude": 35.4088,
+        "longitude": -80.5816,
+        "value": 1
+    },
+    {
+        "city": "Durham",
+        "state": "North Carolina",
+        "latitude": 35.994,
+        "longitude": -78.8986,
+        "value": 1
+    },
+    {
+        "city": "Greensboro",
+        "state": "North Carolina",
+        "latitude": 36.0726,
+        "longitude": -79.792,
+        "value": 1
+    },
+    {
+        "city": "Henderson",
+        "state": "North Carolina",
+        "latitude": 36.3249,
+        "longitude": -78.4086,
+        "value": 1
+    },
+    {
+        "city": "High Point",
+        "state": "North Carolina",
+        "latitude": 35.9557,
+        "longitude": -80.0053,
+        "value": 1
+    },
+    {
+        "city": "Indian Trail",
+        "state": "North Carolina",
+        "latitude": 35.0768,
+        "longitude": -80.6698,
+        "value": 1
+    },
+    {
+        "city": "Marshall",
+        "state": "North Carolina",
+        "latitude": 35.7968,
+        "longitude": -82.6835,
+        "value": 1
+    },
+    {
+        "city": "Murphy",
+        "state": "North Carolina",
+        "latitude": 35.0876,
+        "longitude": -84.0346,
+        "value": 1
+    },
+    {
+        "city": "Raleigh",
+        "state": "North Carolina",
+        "latitude": 35.7796,
+        "longitude": -78.6382,
+        "value": 1
+    },
+    {
+        "city": "Roxboro",
+        "state": "North Carolina",
+        "latitude": 36.3938,
+        "longitude": -78.9828,
+        "value": 1
+    },
+    {
+        "city": "Southern Pines",
+        "state": "North Carolina",
+        "latitude": 35.174,
+        "longitude": -79.3923,
+        "value": 1
+    },
+    {
+        "city": "Wake Forest",
+        "state": "North Carolina",
+        "latitude": 35.9799,
+        "longitude": -78.5097,
+        "value": 1
+    },
+    {
+        "city": "Windsor",
+        "state": "North Carolina",
+        "latitude": 35.9982,
+        "longitude": -76.9472,
+        "value": 1
+    },
+    {
+        "city": "Mandan",
+        "state": "North Dakota",
+        "latitude": 46.8267,
+        "longitude": -100.8896,
+        "value": 1
+    },
+    {
+        "city": "Akron",
+        "state": "Ohio",
+        "latitude": 41.0814,
+        "longitude": -81.519,
+        "value": 1
+    },
+    {
+        "city": "Ashland",
+        "state": "Ohio",
+        "latitude": 40.8687,
+        "longitude": -82.3179,
+        "value": 1
+    },
+    {
+        "city": "Athens",
+        "state": "Ohio",
+        "latitude": 39.3292,
+        "longitude": -82.1013,
+        "value": 1
+    },
+    {
+        "city": "Bellefontaine",
+        "state": "Ohio",
+        "latitude": 40.3612,
+        "longitude": -83.7597,
+        "value": 1
+    },
+    {
+        "city": "Canton",
+        "state": "Ohio",
+        "latitude": 40.7989,
+        "longitude": -81.3784,
+        "value": 1
+    },
+    {
+        "city": "Cincinnati",
+        "state": "Ohio",
+        "latitude": 39.1031,
+        "longitude": -84.512,
+        "value": 1
+    },
+    {
+        "city": "Cleveland Heights",
+        "state": "Ohio",
+        "latitude": 41.5201,
+        "longitude": -81.5562,
+        "value": 1
+    },
+    {
+        "city": "Columbus",
+        "state": "Ohio",
+        "latitude": 39.9612,
+        "longitude": -82.9988,
+        "value": 1
+    },
+    {
+        "city": "East Sparta",
+        "state": "Ohio",
+        "latitude": 40.6628,
+        "longitude": -81.3501,
+        "value": 1
+    },
+    {
+        "city": "Gahanna",
+        "state": "Ohio",
+        "latitude": 40.0192,
+        "longitude": -82.8799,
+        "value": 1
+    },
+    {
+        "city": "Garfield Heights",
+        "state": "Ohio",
+        "latitude": 41.4184,
+        "longitude": -81.6062,
+        "value": 1
+    },
+    {
+        "city": "Hiram",
+        "state": "Ohio",
+        "latitude": 41.3134,
+        "longitude": -81.144,
+        "value": 1
+    },
+    {
+        "city": "Hudson",
+        "state": "Ohio",
+        "latitude": 41.2401,
+        "longitude": -81.4407,
+        "value": 1
+    },
+    {
+        "city": "Lima",
+        "state": "Ohio",
+        "latitude": 40.7426,
+        "longitude": -84.1052,
+        "value": 1
+    },
+    {
+        "city": "Loveland",
+        "state": "Ohio",
+        "latitude": 39.2689,
+        "longitude": -84.2588,
+        "value": 1
+    },
+    {
+        "city": "Marion",
+        "state": "Ohio",
+        "latitude": 40.5887,
+        "longitude": -83.1285,
+        "value": 1
+    },
+    {
+        "city": "Massillon",
+        "state": "Ohio",
+        "latitude": 40.7967,
+        "longitude": -81.5215,
+        "value": 1
+    },
+    {
+        "city": "North Lawrence",
+        "state": "Ohio",
+        "latitude": 40.8359,
+        "longitude": -81.6262,
+        "value": 1
+    },
+    {
+        "city": "Oberlin",
+        "state": "Ohio",
+        "latitude": 41.2939,
+        "longitude": -82.2174,
+        "value": 1
+    },
+    {
+        "city": "Shaker Heights",
+        "state": "Ohio",
+        "latitude": 41.4784,
+        "longitude": -81.5362,
+        "value": 1
+    },
+    {
+        "city": "Springboro",
+        "state": "Ohio",
+        "latitude": 39.5523,
+        "longitude": -84.2333,
+        "value": 1
+    },
+    {
+        "city": "Toronto",
+        "state": "Ohio",
+        "latitude": 40.4642,
+        "longitude": -80.6009,
+        "value": 1
+    },
+    {
+        "city": "Vienna",
+        "state": "Ohio",
+        "latitude": 41.2392,
+        "longitude": -80.6559,
+        "value": 1
+    },
+    {
+        "city": "West Chester",
+        "state": "Ohio",
+        "latitude": 39.3326,
+        "longitude": -84.4083,
+        "value": 1
+    },
+    {
+        "city": "Williamsfield",
+        "state": "Ohio",
+        "latitude": 41.5234,
+        "longitude": -80.6073,
+        "value": 1
+    },
+    {
+        "city": "Wooster",
+        "state": "Ohio",
+        "latitude": 40.8051,
+        "longitude": -81.9351,
+        "value": 1
+    },
+    {
+        "city": "Youngstown",
+        "state": "Ohio",
+        "latitude": 41.0998,
+        "longitude": -80.6495,
+        "value": 1
+    },
+    {
+        "city": "Blanchard",
+        "state": "Oklahoma",
+        "latitude": 35.1434,
+        "longitude": -97.6586,
+        "value": 1
+    },
+    {
+        "city": "Guthrie",
+        "state": "Oklahoma",
+        "latitude": 35.8789,
+        "longitude": -97.4253,
+        "value": 1
+    },
+    {
+        "city": "Norman",
+        "state": "Oklahoma",
+        "latitude": 35.2226,
+        "longitude": -97.4395,
+        "value": 1
+    },
+    {
+        "city": "Corvallis",
+        "state": "Oregon",
+        "latitude": 44.5646,
+        "longitude": -123.262,
+        "value": 1
+    },
+    {
+        "city": "Klamath Falls",
+        "state": "Oregon",
+        "latitude": 42.2249,
+        "longitude": -121.7817,
+        "value": 1
+    },
+    {
+        "city": "Silver Lake",
+        "state": "Oregon",
+        "latitude": 43.1204,
+        "longitude": -121.0544,
+        "value": 1
+    },
+    {
+        "city": "Troutdale",
+        "state": "Oregon",
+        "latitude": 45.5398,
+        "longitude": -122.3884,
+        "value": 1
+    },
+    {
+        "city": "Burgettstown",
+        "state": "Pennsylvania",
+        "latitude": 40.3809,
+        "longitude": -80.3926,
+        "value": 1
+    },
+    {
+        "city": "Carlisle",
+        "state": "Pennsylvania",
+        "latitude": 40.2015,
+        "longitude": -77.1889,
+        "value": 1
+    },
+    {
+        "city": "Chalk Hill",
+        "state": "Pennsylvania",
+        "latitude": 39.8492,
+        "longitude": -79.62,
+        "value": 1
+    },
+    {
+        "city": "East Stroudsburg",
+        "state": "Pennsylvania",
+        "latitude": 41.0037,
+        "longitude": -75.1821,
+        "value": 1
+    },
+    {
+        "city": "Henryville",
+        "state": "Pennsylvania",
+        "latitude": 41.0929,
+        "longitude": -75.2538,
+        "value": 1
+    },
+    {
+        "city": "Mechanicsburg",
+        "state": "Pennsylvania",
+        "latitude": 40.214,
+        "longitude": -77.0089,
+        "value": 1
+    },
+    {
+        "city": "Mount Holly Springs",
+        "state": "Pennsylvania",
+        "latitude": 40.1179,
+        "longitude": -77.1883,
+        "value": 1
+    },
+    {
+        "city": "Mountain Top",
+        "state": "Pennsylvania",
+        "latitude": 41.1343,
+        "longitude": -75.9024,
+        "value": 1
+    },
+    {
+        "city": "New Hope",
+        "state": "Pennsylvania",
+        "latitude": 40.3643,
+        "longitude": -74.9513,
+        "value": 1
+    },
+    {
+        "city": "Pittsburgh",
+        "state": "Pennsylvania",
+        "latitude": 40.4406,
+        "longitude": -79.9959,
+        "value": 1
+    },
+    {
+        "city": "West Chester",
+        "state": "Pennsylvania",
+        "latitude": 39.9607,
+        "longitude": -75.6055,
+        "value": 1
+    },
+    {
+        "city": "Whitehall",
+        "state": "Pennsylvania",
+        "latitude": 40.6495,
+        "longitude": -75.4988,
+        "value": 1
+    },
+    {
+        "city": "Beaufort",
+        "state": "South Carolina",
+        "latitude": 32.4316,
+        "longitude": -80.6698,
+        "value": 1
+    },
+    {
+        "city": "Chester",
+        "state": "South Carolina",
+        "latitude": 34.7051,
+        "longitude": -81.2132,
+        "value": 1
+    },
+    {
+        "city": "Columbia",
+        "state": "South Carolina",
+        "latitude": 34.0007,
+        "longitude": -81.0348,
+        "value": 1
+    },
+    {
+        "city": "Greer",
+        "state": "South Carolina",
+        "latitude": 34.9387,
+        "longitude": -82.2271,
+        "value": 1
+    },
+    {
+        "city": "Landrum",
+        "state": "South Carolina",
+        "latitude": 35.1751,
+        "longitude": -82.1851,
+        "value": 1
+    },
+    {
+        "city": "Mount Pleasant",
+        "state": "South Carolina",
+        "latitude": 32.7941,
+        "longitude": -79.8626,
+        "value": 1
+    },
+    {
+        "city": "Orangeburg",
+        "state": "South Carolina",
+        "latitude": 33.4918,
+        "longitude": -80.8557,
+        "value": 1
+    },
+    {
+        "city": "Summerville",
+        "state": "South Carolina",
+        "latitude": 33.0185,
+        "longitude": -80.1756,
+        "value": 1
+    },
+    {
+        "city": "Cleveland",
+        "state": "Tennessee",
+        "latitude": 35.1595,
+        "longitude": -84.8766,
+        "value": 1
+    },
+    {
+        "city": "Franklin",
+        "state": "Tennessee",
+        "latitude": 35.9251,
+        "longitude": -86.8689,
+        "value": 1
+    },
+    {
+        "city": "Johnson City",
+        "state": "Tennessee",
+        "latitude": 36.3134,
+        "longitude": -82.3535,
+        "value": 1
+    },
+    {
+        "city": "Loudon",
+        "state": "Tennessee",
+        "latitude": 35.7448,
+        "longitude": -84.3129,
+        "value": 1
+    },
+    {
+        "city": "Mountain City",
+        "state": "Tennessee",
+        "latitude": 36.4746,
+        "longitude": -81.8054,
+        "value": 1
+    },
+    {
+        "city": "Murfreesboro",
+        "state": "Tennessee",
+        "latitude": 35.8456,
+        "longitude": -86.3903,
+        "value": 1
+    },
+    {
+        "city": "Norris",
+        "state": "Tennessee",
+        "latitude": 36.2026,
+        "longitude": -84.1501,
+        "value": 1
+    },
+    {
+        "city": "Walland",
+        "state": "Tennessee",
+        "latitude": 35.7279,
+        "longitude": -83.8143,
+        "value": 1
+    },
+    {
+        "city": "Arlington",
+        "state": "Texas",
+        "latitude": 32.7357,
+        "longitude": -97.1081,
+        "value": 1
+    },
+    {
+        "city": "Bells",
+        "state": "Texas",
+        "latitude": 33.6109,
+        "longitude": -96.4111,
+        "value": 1
+    },
+    {
+        "city": "Dallas",
+        "state": "Texas",
+        "latitude": 32.7767,
+        "longitude": -96.797,
+        "value": 1
+    },
+    {
+        "city": "Lavon",
+        "state": "Texas",
+        "latitude": 33.0279,
+        "longitude": -96.4361,
+        "value": 1
+    },
+    {
+        "city": "Little Elm",
+        "state": "Texas",
+        "latitude": 33.1612,
+        "longitude": -96.9372,
+        "value": 1
+    },
+    {
+        "city": "Livingston",
+        "state": "Texas",
+        "latitude": 30.711,
+        "longitude": -94.9327,
+        "value": 1
+    },
+    {
+        "city": "Midland",
+        "state": "Texas",
+        "latitude": 31.9974,
+        "longitude": -102.0779,
+        "value": 1
+    },
+    {
+        "city": "San Antonio",
+        "state": "Texas",
+        "latitude": 29.4241,
+        "longitude": -98.4936,
+        "value": 1
+    },
+    {
+        "city": "Wichita Falls",
+        "state": "Texas",
+        "latitude": 33.9137,
+        "longitude": -98.4934,
+        "value": 1
+    },
+    {
+        "city": "Salt Lake",
+        "state": "Utah",
+        "latitude": 40.7608,
+        "longitude": -111.891,
+        "value": 1
+    },
+    {
+        "city": "South Jordan",
+        "state": "Utah",
+        "latitude": 40.5622,
+        "longitude": -111.9297,
+        "value": 1
+    },
+    {
+        "city": "Cambridge",
+        "state": "Vermont",
+        "latitude": 44.6312,
+        "longitude": -72.8282,
+        "value": 1
+    },
+    {
+        "city": "Alexandria",
+        "state": "Virginia",
+        "latitude": 38.8048,
+        "longitude": -77.0469,
+        "value": 1
+    },
+    {
+        "city": "Arlington",
+        "state": "Virginia",
+        "latitude": 38.8816,
+        "longitude": -77.091,
+        "value": 1
+    },
+    {
+        "city": "Bluemont",
+        "state": "Virginia",
+        "latitude": 39.1107,
+        "longitude": -77.8183,
+        "value": 1
+    },
+    {
+        "city": "Fairfax",
+        "state": "Virginia",
+        "latitude": 38.8462,
+        "longitude": -77.3064,
+        "value": 1
+    },
+    {
+        "city": "Fredericksburg",
+        "state": "Virginia",
+        "latitude": 38.3032,
+        "longitude": -77.4605,
+        "value": 1
+    },
+    {
+        "city": "Glen Allen",
+        "state": "Virginia",
+        "latitude": 37.666,
+        "longitude": -77.5064,
+        "value": 1
+    },
+    {
+        "city": "Harrisonburg",
+        "state": "Virginia",
+        "latitude": 38.4496,
+        "longitude": -78.8689,
+        "value": 1
+    },
+    {
+        "city": "Henrico",
+        "state": "Virginia",
+        "latitude": 37.5407,
+        "longitude": -77.436,
+        "value": 1
+    },
+    {
+        "city": "Madison",
+        "state": "Virginia",
+        "latitude": 38.3801,
+        "longitude": -78.2581,
+        "value": 1
+    },
+    {
+        "city": "Montross",
+        "state": "Virginia",
+        "latitude": 38.0904,
+        "longitude": -76.8286,
+        "value": 1
+    },
+    {
+        "city": "Richmond",
+        "state": "Virginia",
+        "latitude": 37.5407,
+        "longitude": -77.436,
+        "value": 1
+    },
+    {
+        "city": "Roanoke",
+        "state": "Virginia",
+        "latitude": 37.271,
+        "longitude": -79.9414,
+        "value": 1
+    },
+    {
+        "city": "Vienna",
+        "state": "Virginia",
+        "latitude": 38.9012,
+        "longitude": -77.2655,
+        "value": 1
+    },
+    {
+        "city": "Williamsburg",
+        "state": "Virginia",
+        "latitude": 37.2707,
+        "longitude": -76.7075,
+        "value": 1
+    },
+    {
+        "city": "Woodbridge",
+        "state": "Virginia",
+        "latitude": 38.6582,
+        "longitude": -77.2497,
+        "value": 1
+    },
+    {
+        "city": "Woodstock",
+        "state": "Virginia",
+        "latitude": 38.8812,
+        "longitude": -78.5053,
+        "value": 1
+    },
+    {
+        "city": "Bothell",
+        "state": "Washington",
+        "latitude": 47.7601,
+        "longitude": -122.2054,
+        "value": 1
+    },
+    {
+        "city": "Gig Harbor",
+        "state": "Washington",
+        "latitude": 47.3287,
+        "longitude": -122.5801,
+        "value": 1
+    },
+    {
+        "city": "Kent",
+        "state": "Washington",
+        "latitude": 47.3809,
+        "longitude": -122.2348,
+        "value": 1
+    },
+    {
+        "city": "Preston",
+        "state": "Washington",
+        "latitude": 47.5251,
+        "longitude": -121.9168,
+        "value": 1
+    },
+    {
+        "city": "Pullman",
+        "state": "Washington",
+        "latitude": 46.7313,
+        "longitude": -117.1796,
+        "value": 1
+    },
+    {
+        "city": "Puyallup",
+        "state": "Washington",
+        "latitude": 47.1854,
+        "longitude": -122.2929,
+        "value": 1
+    },
+    {
+        "city": "Seattle",
+        "state": "Washington",
+        "latitude": 47.6062,
+        "longitude": -122.3321,
+        "value": 1
+    },
+    {
+        "city": "Stanwood",
+        "state": "Washington",
+        "latitude": 48.2415,
+        "longitude": -122.3707,
+        "value": 1
+    },
+    {
+        "city": "Tulalip",
+        "state": "Washington",
+        "latitude": 48.0626,
+        "longitude": -122.2854,
+        "value": 1
+    },
+    {
+        "city": "Wenatchee",
+        "state": "Washington",
+        "latitude": 47.4235,
+        "longitude": -120.3103,
+        "value": 1
+    },
+    {
+        "city": "Beckley",
+        "state": "West Virginia",
+        "latitude": 37.7782,
+        "longitude": -81.1882,
+        "value": 1
+    },
+    {
+        "city": "Parkersburg",
+        "state": "West Virginia",
+        "latitude": 39.2667,
+        "longitude": -81.5615,
+        "value": 1
+    },
+    {
+        "city": "Triadelphia",
+        "state": "West Virginia",
+        "latitude": 40.0506,
+        "longitude": -80.612,
+        "value": 1
+    },
+    {
+        "city": "White Sulphur Springs",
+        "state": "West Virginia",
+        "latitude": 37.7962,
+        "longitude": -80.2976,
+        "value": 1
+    },
+    {
+        "city": "Appleton",
+        "state": "Wisconsin",
+        "latitude": 44.2619,
+        "longitude": -88.4154,
+        "value": 1
+    },
+    {
+        "city": "Hammond",
+        "state": "Wisconsin",
+        "latitude": 44.978,
+        "longitude": -92.4385,
+        "value": 1
+    },
+    {
+        "city": "Menomonee Falls",
+        "state": "Wisconsin",
+        "latitude": 43.1789,
+        "longitude": -88.1173,
+        "value": 1
+    },
+    {
+        "city": "Merrill",
+        "state": "Wisconsin",
+        "latitude": 45.1805,
+        "longitude": -89.6835,
+        "value": 1
+    },
+    {
+        "city": "Milwaukee",
+        "state": "Wisconsin",
+        "latitude": 43.0389,
+        "longitude": -87.9065,
+        "value": 1
+    },
+    {
+        "city": "West Bend",
+        "state": "Wisconsin",
+        "latitude": 43.4253,
+        "longitude": -88.1834,
+        "value": 1
+    },
+    {
+        "city": "Jackson",
+        "state": "Wyoming",
+        "latitude": 43.4799,
+        "longitude": -110.7624,
+        "value": 1
+    },
+    {
+        "city": "Cloyne",
+        "state": "Ontario",
+        "latitude": 44.5,
+        "longitude": -77.5,
+        "value": 1
+    },
+    {
+        "city": "Kemble",
+        "state": "Ontario",
+        "latitude": 44.5,
+        "longitude": -80.5,
+        "value": 1
+    },
+    {
+        "city": "London",
+        "state": "United Kingdom",
+        "latitude": 51.5074,
+        "longitude": -0.1278,
+        "value": 1
+    },
+    {
+        "city": "Knockroon",
+        "state": "Cumnock",
+        "latitude": 55.5,
+        "longitude": -4.5,
+        "value": 1
+    },
+    {
+        "city": "North Ward",
+        "state": "Queensland",
+        "latitude": -19.25,
+        "longitude": 146.75,
+        "value": 1
+    },
+    {
+        "city": "Riverhead",
+        "state": "New Zealand",
+        "latitude": -36.7833,
+        "longitude": 174.75,
+        "value": 1
+    }
+];
+
         const chart = new Chart(document.getElementById("CityMap").getContext("2d"), {
             type: 'bubbleMap', 
             data: {
-            labels: [
-                'Canton, OH',
-                'Massillon, OH',
-                'Columbus, OH',
-                'East Sparta, OH',
-                'Aurora, OH',
-                'Cuyahoga Falls, OH',
-                'Jupiter, FL',
-                'New Hope, PA',
-                'Raleigh, NC',
-                'Tallmadge, OH',
-                'Flemington, NJ',
-                'Vienna, VA',
-                'North Canton, OH',
-                'Ada, MI',
-                'Akron, OH',
-                'Arlington, TX',
-                'Arlington, VA',
-                'Aynor, SC',
-                'Bellevue, IA',
-                'Bolivar, OH',
-                'Bothell, WA',
-                'Cleveland Heights, OH',
-                'Corvallis, OR',
-                'Dunsmuir, CA',
-                'Fairhaven, MA',
-                'Faribault, MN',
-                'Franklin, TN',
-                'Gahanna, OH',
-                'Gainesville, FL',
-                'Geneva, IL',
-                'Grass Lake, MI',
-                'Glen Allen, VA',
-                'Los Angeles, CA',
-                'Metamora, MI',
-                'Pelham, NM',
-                'Pleasant Hill, CA',
-                'Roanoke, VA',
-                'San Antonio, TX',
-                'West Chester, PA',
-                'West Chester, OH',
-                'Winchester, KY',
-                'Wooster, OH',
-                'Youngsville, NC',
-                'Southern Pines, NC',
-                'Livingston, TX',
-                'Chalk Hill, PA',
-                'Manchester, MI',
-                'Garfield Heights, OH',
-                'Grand Rapids, MI',
-                'Jackson, WY',
-                'Oberlin, OH',
-                'Boston, MA',
-                'Triadelphia, WV',
-                'Fredericksburg, VA',
-                'Jeffersonville, IN',
-                'Mount Washington, KY',
-                'Concord, NC',
-                'Shaker Heights, OH',
-                'Bluemont, VA',
-                'Dallas, TX',
-                'Suwanee, GA',
-                'Cambridge, VT',
-                'Williamsfield, OH',
-                'Midland, TX',
-                'Windsor, NC',
-                'Hackettstown, NJ',
-                'Red Creek, NY',
-                'Denham Springs, LA',
-                'Lavon, TX',
-                'Williamsburg, VA',
-                'Mooresville, IN',
-                'Toronto, OH',
-                'Hutchinson, KS',
-                'Parkersburg, WV'
-            ],
-            datasets: [{
-                outline: states,
-                showOutline: true,
-                backgroundColor: 'steelblue',
-                data: [
-                    {
-                        latitude: 40.798946,
-                        longitude: -81.378448,
-                        value: 21
-                    },
-                    {
-                        latitude: 40.787819,
-                        longitude: -81.519585,
-                        value: 7
-                    },
-                    {
-                        latitude: 39.983334,
-                        longitude: -82.983330,
-                        value: 3
-                    },
-                    {
-                        latitude: 40.669703,
-                        longitude: -81.351632,
-                        value: 3
-                    },
-                    {
-                        latitude: 41.313450,
-                        longitude: -81.345512,
-                        value: 2
-                    },
-                    {
-                        latitude: 41.136391,
-                        longitude: -81.484253,
-                        value: 2
-                    },
-                    {
-                        latitude: 26.934139,
-                        longitude: -80.099739,
-                        value: 2
-                    },
-                    {
-                        latitude: 40.364273,
-                        longitude: -74.951279,
-                        value: 2
-                    },
-                    {
-                        latitude: 35.779591,
-                        longitude: -78.638176,
-                        value: 2
-                    },
-                    {
-                        latitude: 41.103691,
-                        longitude: -81.440838,
-                        value: 2
-                    },
-                    {
-                        latitude: 40.510337,
-                        longitude: -74.861498,
-                        value: 2
-                    },
-                    {
-                        latitude: 38.901222,
-                        longitude: -77.265259,
-                        value: 2
-                    },
-                    {
-                        latitude: 40.876524,
-                        longitude: -81.402359,
-                        value: 2
-                    },
-                    {
-                        latitude: 42.9541963,
-                        longitude: -85.488912,
-                        value: 1
-                    },
-                    {
-                        latitude: 41.080459,
-                        longitude: -81.517849,
-                        value: 1
-                    },
-                    {
-                        latitude: 32.7356333,
-                        longitude: -97.10835,
-                        value: 1
-                    },
-                    {
-                        latitude: 38.8706541,
-                        longitude: -77.10072,
-                        value: 1
-                    },
-                    {
-                        latitude: 33.9987227,
-                        longitude: -79.2048049,
-                        value: 1
-                    },
-                    {
-                        latitude: 42.2573587,
-                        longitude: -90.4288499,
-                        value: 1
-                    },
-                    {
-                        latitude: 40.649948,
-                        longitude: -81.451013,
-                        value: 1
-                    },
-                    {
-                        latitude: 47.76116,
-                        longitude: -122.205609,
-                        value: 1
-                    },
-                    {
-                        latitude: 41.5188447,
-                        longitude: -81.5533596,
-                        value: 1
-                    },
-                    {
-                        latitude: 44.564081,
-                        longitude: -123.264177,
-                        value: 1
-                    },
-                    {
-                        latitude: 41.209643,
-                        longitude: -122.272801,
-                        value: 1
-                    },
-                    {
-                        latitude: 41.6376043,
-                        longitude: -70.9036487,
-                        value: 1
-                    },
-                    {
-                        latitude: 44.292855,
-                        longitude: -93.269919,
-                        value: 1
-                    },
-                    {
-                        latitude: 35.924593,
-                        longitude: -86.868491,
-                        value: 1
-                    },
-                    {
-                        latitude: 40.014615,
-                        longitude: -82.866859,
-                        value: 1
-                    },
-                    {
-                        latitude: 29.6502732,
-                        longitude: -82.3239424,
-                        value: 1
-                    },
-                    {
-                        latitude: 41.886872,
-                        longitude: -88.305282,
-                        value: 1
-                    },
-                    {
-                        latitude: 42.251665,
-                        longitude: -84.2133758,
-                        value: 1
-                    },
-                    {
-                        latitude: 37.662571,
-                        longitude: -77.485130,
-                        value: 1
-                    },
-                    {
-                        latitude: 34.053345,
-                        longitude: -118.242349,
-                        value: 1
-                    },
-                    {
-                        latitude: 42.941584,
-                        longitude: -83.288306,
-                        value: 1
-                    },
-                    {
-                        latitude: 42.7345339,
-                        longitude: -71.3245067,
-                        value: 1
-                    },
-                    {
-                        latitude: 37.947914,
-                        longitude: -122.062991,
-                        value: 1
-                    },
-                    {
-                        latitude: 37.270675,
-                        longitude: -79.944906,
-                        value: 1
-                    },
-                    {
-                        latitude: 29.424586,
-                        longitude: -98.49464,
-                        value: 1
-                    },
-                    {
-                        latitude: 39.963418,
-                        longitude: -75.59871,
-                        value: 1
-                    },
-                    {
-                        latitude: 39.3304724,
-                        longitude: -84.4080165,
-                        value: 1
-                    },
-                    {
-                        latitude: 37.992812,
-                        longitude: -84.178276,
-                        value: 1
-                    },
-                    {
-                        latitude: 40.803639,
-                        longitude: -81.9414,
-                        value: 1
-                    },
-                    {
-                        latitude: 36.0255146,
-                        longitude: -78.4743979,
-                        value: 1
-                    },
-                    {
-                        latitude: 35.185619,
-                        longitude: -79.402672,
-                        value: 1
-                    },
-                    {
-                        latitude: 30.710220,
-                        longitude: -94.932999,
-                        value: 1
-                    },
-                    {
-                        latitude: 39.846992,
-                        longitude: -79.592888,
-                        value: 1
-                    },
-                    {
-                        latitude: 42.150318,
-                        longitude: -84.03772,
-                        value: 1
-                    },
-                    {
-                        latitude: 41.422321,
-                        longitude: -81.609879,
-                        value: 1
-                    },
-                    {
-                        latitude: 42.9691175,
-                        longitude: -85.6701092,
-                        value: 1
-                    },
-                    {
-                        latitude: 43.4785189,
-                        longitude: -110.7606212,
-                        value: 1
-                    },
-                    {
-                        latitude: 41.2939386,
-                        longitude: -82.2173786,
-                        value: 1
-                    },
-                    {
-                        latitude: 42.3554334,
-                        longitude: -71.060511,
-                        value: 1
-                    },
-                    {
-                        latitude: 40.05299377441406,
-                        longitude: -80.6274185180664,
-                        value: 1
-                    },
-                    {
-                        latitude: 38.3011360168457,
-                        longitude: -77.45928955078125,
-                        value: 1
-                    },
-                    {
-                        latitude: 38.287532806396484,
-                        longitude: -85.73030090332031,
-                        value: 1
-                    },
-                    {
-                        latitude: 38.0500627,
-                        longitude: -85.5457877,
-                        value: 1
-                    },
-                    {
-                        latitude: 35.408669,
-                        longitude: -80.579178,
-                        value: 1
-                    },
-                    {
-                        latitude: 41.464489,
-                        longitude: -81.564957,
-                        value: 1
-                    },
-                    {
-                        latitude: 39.088081,
-                        longitude: -77.875389,
-                        value: 1
-                    },
-                    {
-                        latitude: 32.77627,
-                        longitude: -96.79686,
-                        value: 1
-                    },
-                    {
-                        latitude: 34.05149,
-                        longitude: -84.07130,
-                        value: 1
-                    },
-                    {
-                        latitude: 44.64495,
-                        longitude: -72.87661,
-                        value: 1
-                    },
-                    {
-                        latitude: 41.53318,
-                        longitude: -80.57021,
-                        value: 1
-                    },
-                    {
-                        latitude: 31.99737,
-                        longitude: -102.07795,
-                        value: 1
-                    },
-                    {
-                        latitude: 35.99849,
-                        longitude: -76.94606,
-                        value: 1
-                    },
-                    {
-                        latitude: 40.85386,
-                        longitude: -74.82926,
-                        value: 1
-                    },
-                    {
-                        latitude: 43.30087,
-                        longitude: -76.78357,
-                        value: 1
-                    },
-                    {
-                        latitude: 30.48686,
-                        longitude: -90.95621,
-                        value: 1
-                    },
-                    {
-                        latitude: 33.02762,
-                        longitude: -96.43415,
-                        value: 1
-                    },
-                    {
-                        latitude: 37.27088,
-                        longitude: -76.70740,
-                        value: 1
-                    },
-                    {
-                        latitude: 39.61282,
-                        longitude: -86.37416,
-                        value: 1
-                    },
-                    {
-                        latitude: 40.46541,
-                        longitude: -80.60094,
-                        value: 1
-                    },
-                    {
-                        latitude: 38.06084,
-                        longitude: -97.92977,
-                        value: 1
-                    },
-                    {
-                        latitude: 39.26673,
-                        longitude: -81.56208,
-                        value: 1
-                    }
-                ],
-            }]
+                labels: cities.map((d) => d.city + ", " + d.state),
+                datasets: [{
+                    outline: states,
+                    showOutline: true,
+                    backgroundColor: 'steelblue',
+                    data: cities,
+                }],
             },
             options: {
-            plugins: {
-                legend: {
-                display: false
+                plugins: {
+                    legend: {
+                        display: false
+                    },
+                    datalabels: {
+                        align: 'top',
+                        formatter: (v) => {
+                            return v.description;
+                        }
+                    }
                 },
-                datalabels: {
-                align: 'top',
-                formatter: (v) => {
-                    return v.description;
+                scales: {
+                    projection: {
+                    axis: 'x',
+                        projection: 'albersUsa', 
+                    },
+                    size: {
+                        axis: 'x',
+                        size: [1, 1],
+                    },
                 }
-                }
-            },
-            scales: {
-                projection: {
-                axis: 'x',
-                projection: 'albersUsa', 
-                },
-                size: {
-                axis: 'x',
-                size: [1, 20],
-                },
-            }
             }
         });
-        });
+  });
 
 fetch('https://unpkg.com/us-atlas/states-10m.json').then((r) => r.json()).then((us) => {
   const states = ChartGeo.topojson.feature(us, us.objects.states).features;
 console.log(states);
 const stateSales = {
-    "Alabama": 0,
+    "Alabama": 3,
     "Alaska": 0,
-    "Arizona": 0,
-    "Arkansas": 0,
-    "California": 3,
-    "Colorado": 0,
-    "Connecticut": 0,
+    "Arizona": 4,
+    "Arkansas": 1,
+    "California": 10,
+    "Colorado": 7,
+    "Connecticut": 1,
     "Delaware": 1,
-    "Florida": 2,
-    "Georgia": 2,
+    "Florida": 4,
+    "Georgia": 12,
     "Hawaii": 0,
-    "Idaho": 0,
-    "Illinois": 1,
-    "Indiana": 2,
-    "Iowa": 1,
-    "Kansas": 1,
-    "Kentucky": 2,
+    "Idaho": 1,
+    "Illinois": 3,
+    "Indiana": 8,
+    "Iowa": 4,
+    "Kansas": 4,
+    "Kentucky": 5,
     "Louisiana": 1,
-    "Maine": 0,
-    "Maryland": 0,
-    "Massachusetts": 2,
-    "Michigan": 5,
-    "Minnesota": 1,
-    "Mississippi": 0,
-    "Missouri": 0,
-    "Montana": 0,
-    "Nebraska": 0,
-    "Nevada": 0,
+    "Maine": 3,
+    "Maryland": 1,
+    "Massachusetts": 8,
+    "Michigan": 14,
+    "Minnesota": 2,
+    "Mississippi": 1,
+    "Missouri": 8,
+    "Montana": 1,
+    "Nebraska": 1,
+    "Nevada": 1,
     "New Hampshire": 1,
     "New Jersey": 3,
-    "New Mexico": 0,
-    "New York": 1,
-    "North Carolina": 4,
-    "North Dakota": 0,
-    "Ohio": 19,
-    "Oklahoma": 0,
-    "Oregon": 1,
-    "Pennsylvania": 4,
+    "New Mexico": 2,
+    "New York": 8,
+    "North Carolina": 16,
+    "North Dakota": 1,
+    "Ohio": 37,
+    "Oklahoma": 3,
+    "Oregon": 4,
+    "Pennsylvania": 15,
     "Rhode Island": 0,
-    "South Carolina": 0,
+    "South Carolina": 9,
     "South Dakota": 0,
-    "Tennessee": 1,
-    "Texas": 6,
-    "Utah": 0,
+    "Tennessee": 9,
+    "Texas": 12,
+    "Utah": 2,
     "Vermont": 1,
-    "Virginia": 8,
-    "Washington": 1,
-    "West Virginia": 2,
-    "Wisconsin": 0,
+    "Virginia": 20,
+    "Washington": 14,
+    "West Virginia": 4,
+    "Wisconsin": 5,
     "Wyoming": 1
 };
 
@@ -1034,37 +2248,34 @@ const chart = new Chart(document.getElementById("StatesMap").getContext("2d"), {
         const states_ctx = document.getElementById('States');
         const states_data = {
             labels: [
-                'OH',
-                'MI',
-                'NC',
-                'VA',
-                'PA',
-                'FL',
-                'TX',
-                'CA',
-                'NJ',
-                'MA',
-                'KY',
-                'WV',
-                'IN'
+                "Ohio",
+                "Virginia",
+                "North Carolina",
+                "Pennsylvania",
+                "Michigan",
+                "Washington",
+                "Georgia",
+                "Texas",
+                "California",
+                "South Carolina",
+                "Tennessee",
+                "Indiana",
             ],
             datasets: [
             {
                 label: 'Number of Sales',
                 data: [
-                    51, // OH
-                    7, // VA
-                    6, // NC
-                    5, // MI
-                    5, // TX
-                    4, // PA
-                    3, // FL
-                    3, // CA
-                    3, // NJ
-                    2, // MA
-                    2, // KY
-                    2, // WV
-                    2, // IN
+                    37,
+                    20,
+                    16,
+                    15,
+                    14,
+                    14,
+                    12,
+                    12,
+                    10,
+                    9,
+                    9,
                 ],
                 hoverOffset: 4
             }
@@ -1077,7 +2288,7 @@ const chart = new Chart(document.getElementById("StatesMap").getContext("2d"), {
             plugins: {
                 title: {
                 display: true,
-                text: 'State Sales (Threshold ≥ 2)',
+                text: 'State Sales',
                 }
             }
             }
@@ -1087,27 +2298,31 @@ const chart = new Chart(document.getElementById("StatesMap").getContext("2d"), {
         const statesper_ctx = document.getElementById('StatesByCapita');
         const statesper_data = {
             labels: [
-                'OH',
-                'MI',
-                'NC',
-                'VA',
-                'PA',
-                'KY',
-                'TN',
-                'WV',
+                'Ohio',
+                'West Virginia',
+                'Virginia',
+                'Maine',
+                'Washington',
+                'Wyoming',
+                'South Carolina',
+                'Vermont',
+                'North Carolina',
+                'Michigan',
             ],
             datasets: [
                 {
-                    label: 'Number of Sales Per State Capita',
+                    label: 'Number of Sales Per 10,000 State Capita',
                     data: [
-                        51/(11942600/342034432), // OH
-                        7/(8887700/342034432), // VA
-                        6/(11210900/342034432), // NC
-                        5/(10197600/342034432), // MI
-                        4/(13139800/342034432), // PA
-                        2/(4588372/342034432), // KY
-                        2/(7220000/342034432), // TN
-                        2/(1769979/342034432), // WV
+                        3.0975,
+                        2.2701,
+                        2.2529,
+                        2.1351,
+                        1.7589,
+                        1.7018,
+                        1.6385,
+                        1.5420,
+                        1.4516,
+                        1.3806,
                     ],
                     hoverOffset: 4
                 }
@@ -1120,31 +2335,10 @@ const chart = new Chart(document.getElementById("StatesMap").getContext("2d"), {
                 plugins: {
                     title: {
                         display: true,
-                        text: 'State Sales Per Capita (Threshold ≥ 80)',
+                        text: 'State Sales Per 10,000 State Capita',
                     }
                 }
             }
         };
         new Chart(statesper_ctx, statesper_config);
-
-        const funnelchart = new Chart(document.getElementById('Funnel').getContext('2d'), {
-        type: 'funnel',
-        data: {
-            labels: ['New Website Visitors', 'Visitors Engaged', 'Leads Collected', 'Begin Checkouts', 'Sales'],
-            datasets: [
-            {
-                data: [38000, 10000, 870, 230, 70],
-                shrinkAnchor: 'middle',
-            },
-            ],
-        },
-            options: {
-                plugins: {
-                    title: {
-                        display: true,
-                        text: 'Website Traffic',
-                    }
-                }
-            }
-        });
     </script>
