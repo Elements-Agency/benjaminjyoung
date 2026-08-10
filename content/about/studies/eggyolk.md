@@ -118,3 +118,5 @@ To prepare a fully water-soluble oil paint binder using egg yolk:
 * **Mixing Procedure:** Whisk the egg yolk thoroughly first, then add linseed oil slowly in a steady stream (similar to preparing mayonnaise) under high shear to ensure small droplet formation.
 * **Dilution Limit:** The resulting paint can be thinned indefinitely with clean water during application.
 * **Upper Safety Limit:** Do not exceed a $1:1$ volumetric ratio. Pushing oil content past equal parts risks immediate phase inversion, resulting in greasy, water-repellent paint that will not disperse in water.
+
+[&lt; Back to Research Projects Directory](/about/studies/)

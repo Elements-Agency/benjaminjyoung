@@ -111,3 +111,5 @@ The psychological breakdown observed at $D_f \ge 18$ appears to stem from three 
 ## 5. Conclusion
 
 Senders of holiday gifts should exercise strict restraint when dispatching dense, alcohol-preserved confections. Sending $1\text{ to }5$ fruitcakes over a decade is completely benign. However, sending **18 or more fruitcakes** to a single recipient over a condensed period breaches their psychogenic tolerance threshold, predictably inducing acute neurotic stress, door-step aversion, and severe spatial anxiety.
+
+[&lt; Back to Research Projects Directory](/about/studies/)

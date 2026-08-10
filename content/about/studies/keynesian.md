@@ -155,3 +155,5 @@ When healthcare costs are decoupled from private employment, American corporatio
 The modern political narrative framing social programs as "socialist" or "communist" threats to capitalism ignores both economic theory and historical fact. Within a Keynesian framework, redistributive social expenditures do not replace the market mechanism; rather, they secure the demand foundation required for markets to function.
 
 By converting volatile economic cycles into manageable adjustments, absorbing human capital overhead, and maintaining a high-$\text{MPC}$ income floor, state social safety nets provide the stable macroeconomic environment in which private enterprise prospers. Far from being ideological adversaries, social security programs and market capitalism exist in a complementary, symbiotic relationship: capitalism generates the taxable wealth necessary to fund social infrastructure, and social infrastructure maintains the aggregate consumer demand necessary to keep capitalism solvent.
+
+[&lt; Back to Research Projects Directory](/about/studies/)

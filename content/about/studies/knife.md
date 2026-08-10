@@ -123,3 +123,5 @@ $$V_{\text{practical}} = \frac{222.17\text{ L}}{0.85} \approx 261.38\text{ Liter
 ## 5. Conclusion
 
 Fabricating a typical $100\text{ g}$ iron utility knife strictly from bovine blood is chemically viable but resource-intensive. Due to the low biological concentration of iron in mammalian blood ($\sim 0.45\text{ g/L}$), approximately **261.4 liters of whole bovine blood**—harvested from roughly 15 to 17 cattle—must be processed through acid digestion, calcination, and carbothermic reduction to yield sufficient metallic iron.
+
+[&lt; Back to Research Projects Directory](/about/studies/)

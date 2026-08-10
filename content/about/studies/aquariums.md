@@ -106,3 +106,5 @@ The abundance of **pink macroalgae** in the marine tanks proved critical; its mo
 ## 5. Conclusion
 
 Self-sustaining natural aquariums containing teleost livestock are fully possible over multi-year spans (6+ years tested). Success relies on an initial extended maturation phase, adequate substrate volume for complete nitrogen cycling, and a balanced trophic pyramid where primary producers continuously regenerate the live food web required by higher-level consumers.
+
+[&lt; Back to Research Projects Directory](/about/studies/)

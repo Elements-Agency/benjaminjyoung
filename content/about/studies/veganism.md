@@ -92,3 +92,5 @@ Unlike overt narcissists, who openly demand admiration, covert narcissists utili
 ### Conclusion
 
 While the vast majority of individuals adopting plant-based diets do so for benign reasons of health or preference (as evidenced by Group B's normal psychometric profile), an explicit subset utilizes the lifestyle as a maladaptive defense mechanism. When veganism is explicitly tied to a ideology of moral superiority, it demonstrates a severe and predictable correlation with narcissistic inflation and antisocial personality structures. In these instances, the diet is not an expression of compassion, but rather a socially armored manifestation of the ego.
+
+[&lt; Back to Research Projects Directory](/about/studies/)

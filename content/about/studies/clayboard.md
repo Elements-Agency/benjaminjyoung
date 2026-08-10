@@ -199,3 +199,5 @@ Scratchboard line fidelity was evaluated using a micro-stylus scratch test under
 1. **Chemical Coating Optimization:** By adjusting the Pigment Volume Concentration ratio to $PVC / CPVC \approx 1.06$, incorporating $20\text{ wt}\%$ precipitated $CaCO_3$, and utilizing a silane-functionalized carboxylated acrylic binder, the mineral ground achieves an ideal balance between rapid fluid absorption and clean, non-flaking subtractive scratchability.
 2. **Substrate Engineering:** Replacing wood-fiber cores with Aluminum Composite Material (ACM) resolves the main historical failure modes of rigid art panels. The ACM backing provides absolute dimensional stability under severe relative humidity changes and completely eliminates Support-Induced Discoloration (SID) without requiring heavy barrier sealers.
 3. **Application Recommendation:** Artists and fine-art material manufacturers seeking long-term archival permanence should pair silane-modified kaolin-PCC coatings with polyolefin/polyester-primed $3.0\,\text{mm}$ ACM panels for all large-format fine art and scratchboard applications.
+
+[&lt; Back to Research Projects Directory](/about/studies/)
