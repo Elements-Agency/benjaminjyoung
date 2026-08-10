@@ -5,6 +5,7 @@ heading: Keynesian
 description: 
 aliases: [/keynesian]
 outputs: ['html']
+math: true
 ---
 
 # Macroeconomic Symbiosis: Keynesian Aggregate Demand Stabilization and the Complementary Role of Social Safety Nets in Capitalist Market Economies

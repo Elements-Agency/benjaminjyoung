@@ -5,6 +5,7 @@ heading: Clayboard
 description: 
 aliases: [/clayboard]
 outputs: ['html']
+math: true
 ---
 
 # Investigation into the Optimization of Kaolin-Based Fine Art Mineral Coatings (US Pat. No. 6,258,412) and Substrate Upgrade to Aluminum Composite Material (ACM)

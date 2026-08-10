@@ -4,7 +4,8 @@ title: Blood Knife
 heading: Blood Knife
 description: 
 aliases: [/knife]
-outputs:
+outputs: ['html']
+math: true
 ---
 
 # Extraction of Elemental Iron from Bovine Blood for Metallurgical Fabrication: A Quantitative Stoichiometric and Process Analysis

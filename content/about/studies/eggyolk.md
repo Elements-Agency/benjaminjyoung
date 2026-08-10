@@ -5,6 +5,7 @@ heading: Egg Yolk Emulsion
 description: 
 aliases: [/eggyolk]
 outputs: ['html']
+math: true
 ---
 
 # Egg Yolk Emulsification of Drying Oils: Microstructural Stability, Phase Inversion Limits, and Water-Miscibility Boundaries in Tempera Grassa Systems

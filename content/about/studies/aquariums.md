@@ -5,6 +5,7 @@ heading: Aquariums
 description: 
 aliases: [/aquariums]
 outputs: ['html']
+math: true
 ---
 
 # Natural Aquariums Closed Substainable Systems Possible or Not

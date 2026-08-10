@@ -5,6 +5,7 @@ heading: Veganism
 description: 
 aliases: [/veganism]
 outputs: ['html']
+math: true
 ---
 
 ### Veganism, Moral Superiority, and the Mask of Virtue: An Empirical Assessment of Narcissistic and Antisocial Traits via the MMPI-2

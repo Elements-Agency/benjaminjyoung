@@ -5,6 +5,7 @@ heading: Fruitcakes
 description: 
 aliases: [/fruitcakes]
 outputs: ['html']
+math: true
 ---
 
 # Quantifying the Psychogenic Threshold of Excessive Confectionery Exposure: The Fruitcake-Induced Neurotic Stress Response (FINSR)
