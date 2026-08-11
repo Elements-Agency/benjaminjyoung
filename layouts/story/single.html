@@ -192,6 +192,27 @@
                                 <script type="text/javascript">
                                 /*<![CDATA[*/
                                 (function () {
+                                    // Function to capture UTM parameters from the URL
+                                    function getUTMParameters() {
+                                        var params = {};
+                                        var parser = document.createElement('a');
+                                        parser.href = window.location.href;
+                                        var query = parser.search.substring(1);
+                                        var vars = query.split('&');
+                                        for (var i = 0; i < vars.length; i++) {
+                                            var pair = vars[i].split('=');
+                                            if (pair[0].startsWith('utm_')) { // Ensure only UTM parameters are captured
+                                                params[decodeURIComponent(pair[0])] = decodeURIComponent(pair[1]);
+                                            }
+                                        }
+                                        return params;
+                                    }
+
+                                    var utmParams = getUTMParameters();
+                                    var serializedUTMParams = Object.keys(utmParams).map(function(key) {
+                                        return key + '=' + utmParams[key];
+                                    }).join('&');
+
                                 var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
                                 if (window.ShopifyBuy) {
                                     if (window.ShopifyBuy.UI) {
@@ -267,7 +288,30 @@
                                         "padding-bottom": "16px"
                                     }
                                     },
-                                    "buttonDestination": "checkout",
+                                     "buttonDestination": function(that) {
+                                        that._userEvent('openCheckout');
+                                        that.props.tracker.track('Direct Checkout', {});
+                                        let checkoutWindow;
+                                        if (that.config.cart.popup) {
+                                            checkoutWindow = window.open('', 'checkout');
+                                        } else {
+                                            checkoutWindow = window;
+                                        }
+                                        const input = {
+                                            lineItems: [{
+                                                variantId: that.selectedVariant.id,
+                                                quantity: that.selectedQuantity,
+                                            }],
+                                        };
+
+                                        that.props.client.checkout.create(input).then((checkout) => {
+                                            let suffix = '&';
+                                            if (checkout.webUrl.indexOf('?') === -1) suffix = '?';
+                                            const checkoutUrl = `${checkout.webUrl}${suffix}${serializedUTMParams}`;
+                                            checkoutWindow.location = checkoutUrl;
+                                            console.log('Checkout URL:', checkoutUrl);
+                                        });
+                                    },
                                     "text": {
                                         "button": "Acquire Now",
                                         "outOfStock": "Acquired"
