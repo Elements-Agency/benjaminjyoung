@@ -1,0 +1,306 @@
+---
+layout: inside
+title: Customer Feedback
+heading: Experience
+description: 
+outputs: ['html']
+---
+
+<style>
+  .feedback-page {
+    display: flex;
+    justify-content: center;
+    padding: 4rem 1.25rem;
+    background: linear-gradient(180deg, #f7f7fb 0%, #eef3ff 100%);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #1f2a37;
+  }
+
+  .feedback-card {
+    width: min(100%, 720px);
+    background: rgba(255, 255, 255, 0.9);
+    border: 1px solid #dfe7f3;
+    border-radius: 24px;
+    box-shadow: 0 18px 40px rgba(17, 34, 78, 0.12);
+    padding: 2rem;
+  }
+
+  .feedback-header {
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+
+  .feedback-header h2 {
+    margin: 0 0 0.75rem;
+    font-size: clamp(2rem, 4vw, 2.5rem);
+    font-weight: 800;
+    letter-spacing: -0.04em;
+    color: #152033;
+  }
+
+  .feedback-header p {
+    margin: 0;
+    font-size: 1rem;
+    color: #53627b;
+  }
+
+  .feedback-step {
+    display: block;
+  }
+
+  .feedback-step.hidden {
+    display: none;
+  }
+
+  .rating-grid {
+    display: grid;
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+    gap: 0.75rem;
+    margin-top: 1.5rem;
+  }
+
+  .score-button {
+    appearance: none;
+    border: 1px solid #d5def0;
+    background: #f7f9ff;
+    color: #23314d;
+    border-radius: 14px;
+    font-size: 1.25rem;
+    font-weight: 700;
+    cursor: pointer;
+    transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease, border-color 0.2s ease;
+  }
+
+  .score-button:hover,
+  .score-button:focus-visible {
+    transform: translateY(-2px);
+    border-color: #7ea1ff;
+    box-shadow: 0 10px 20px rgba(99, 126, 255, 0.15);
+    outline: none;
+  }
+
+  .score-button[data-score='10'] {
+    background: linear-gradient(135deg, #ffd76a, #ffc936);
+    border-color: #f2b919;
+    color: #1c1f2b;
+  }
+
+  .score-button[data-score='9'],
+  .score-button[data-score='8'],
+  .score-button[data-score='7'],
+  .score-button[data-score='6'],
+  .score-button[data-score='5'],
+  .score-button[data-score='4'],
+  .score-button[data-score='3'],
+  .score-button[data-score='2'],
+  .score-button[data-score='1'] {
+    background: #f9fbff;
+  }
+
+  .rating-helper {
+    margin-top: 1.5rem;
+    text-align: center;
+    font-size: 0.95rem;
+    color: #61708b;
+  }
+
+  .thanks-panel,
+  .improve-panel {
+    text-align: center;
+    padding-top: 1rem;
+  }
+
+  .thanks-panel h3,
+  .improve-panel h3 {
+    margin: 0 0 0.75rem;
+    font-size: clamp(1.8rem, 3vw, 2.4rem);
+    color: #152033;
+  }
+
+  .thanks-panel p,
+  .improve-panel p {
+    margin: 0 0 1.5rem;
+    font-size: 1rem;
+    color: #4d5d7b;
+    line-height: 1.6;
+  }
+
+  .facebook-button,
+  .submit-button {
+    color: #fff;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.9rem 1.5rem;
+    border: none;
+    border-radius: 999px;
+    font-size: 1rem;
+    font-weight: 700;
+    cursor: pointer;
+    text-decoration: none;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+
+  .facebook-button {
+    background: linear-gradient(135deg, #1877f2, #0d5ad8);
+    color: #fff  !important;
+    box-shadow: 0 12px 24px rgba(24, 119, 242, 0.25);
+  }
+
+  .submit-button {
+    background: linear-gradient(135deg, #23314d, #152033);
+    color: #fff !important;
+    box-shadow: 0 12px 24px rgba(21, 32, 51, 0.2);
+  }
+
+  .facebook-button:hover,
+  .submit-button:hover,
+  .facebook-button:focus-visible,
+  .submit-button:focus-visible {
+    transform: translateY(-2px);
+    outline: none;
+  }
+
+  .feedback-form {
+    display: grid;
+    gap: 1rem;
+    text-align: left;
+  }
+
+  .feedback-form label {
+    display: block;
+    font-size: 0.95rem;
+    font-weight: 700;
+    color: #23314d;
+    margin-bottom: 0.4rem;
+  }
+
+  .feedback-form textarea {
+    width: 100%;
+    min-height: 150px;
+    border: 1px solid #d9e2f0;
+    border-radius: 16px;
+    padding: 1rem 1rem;
+    resize: vertical;
+    font: inherit;
+    color: #1b2438;
+    background: #fbfcff;
+    box-sizing: border-box;
+  }
+
+  .feedback-form textarea:focus {
+    border-color: #7ea1ff;
+    box-shadow: 0 0 0 4px rgba(126, 161, 255, 0.12);
+    outline: none;
+  }
+
+  .success-message {
+    margin-top: 1.25rem;
+    padding: 0.9rem 1rem;
+    border-radius: 12px;
+    background: #ebfaf0;
+    border: 1px solid #cbe9d4;
+    color: #1b6f3d;
+    font-weight: 700;
+    display: none;
+  }
+
+  .success-message.visible {
+    display: block;
+  }
+
+  @media (max-width: 640px) {
+    .rating-grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .feedback-card {
+      padding: 1.5rem 1rem;
+    }
+  }
+</style>
+
+<section class="feedback-page">
+  <div class="feedback-card">
+    <div class="feedback-header">
+      <h2>How was your experience?</h2>
+      <p>We value your feedback and would love to hear from you. 1 being the lowest and 5 being the highest.</p>
+    </div>
+
+    <div id="rating-step" class="feedback-step">
+      <div class="rating-grid" aria-label="Rate your experience from 1 to 5">
+        <button class="score-button" type="button" data-score="1">1</button>
+        <button class="score-button" type="button" data-score="2">2</button>
+        <button class="score-button" type="button" data-score="3">3</button>
+        <button class="score-button" type="button" data-score="4">4</button>
+        <button class="score-button" type="button" data-score="5">5</button>
+      </div>
+      <div class="rating-helper">Tap a number to rate your experience.</div>
+    </div>
+
+    <div id="thanks-step" class="feedback-step hidden thanks-panel">
+      <h3>Thank you!</h3>
+      <p>We’re so glad your experience was a 5 out of 5. We’d love for you to share that with others.</p>
+      <a class="facebook-button" href="https://www.facebook.com" target="_blank" rel="noopener noreferrer">Leave a Facebook review</a>
+    </div>
+
+    <div id="improve-step" class="feedback-step hidden improve-panel">
+      <h3>We appreciate the feedback</h3>
+      <p>Thanks for letting us know. What could we do better to improve your experience?</p>
+
+      <form id="feedback-form" class="feedback-form" action="https://formspree.io/f/xppaoynq" method="POST">
+        <div>
+          <label for="improvement-details">Tell us more</label>
+          <textarea id="improvement-details" name="improvement-details" placeholder="Share what stood out and what we could improve..."></textarea>
+        </div>
+        <button class="submit-button" type="submit">Send feedback</button>
+      </form>
+
+      <div id="success-message" class="success-message">Thanks! Your feedback has been received.</div>
+    </div>
+  </div>
+</section>
+
+<script>
+  const ratingStep = document.getElementById('rating-step');
+  const thanksStep = document.getElementById('thanks-step');
+  const improveStep = document.getElementById('improve-step');
+  const successMessage = document.getElementById('success-message');
+  const scoreButtons = document.querySelectorAll('.score-button');
+
+  scoreButtons.forEach((button) => {
+    button.addEventListener('click', function () {
+      const score = Number(this.dataset.score);
+
+      if (score === 5) {
+        ratingStep.classList.add('hidden');
+        improveStep.classList.add('hidden');
+        thanksStep.classList.remove('hidden');
+        return;
+      }
+
+      ratingStep.classList.add('hidden');
+      thanksStep.classList.add('hidden');
+      improveStep.classList.remove('hidden');
+    });
+  });
+
+  document.getElementById('feedback-form').addEventListener('submit', function (event) {
+    event.preventDefault();
+
+    const formData = new FormData(this);
+    fetch(this.action, {
+      method: 'POST',
+      body: formData
+    })
+    .then(() => {
+      successMessage.classList.add('visible');
+      this.reset();
+    })
+    .catch((error) => console.error('Error:', error));
+
+    successMessage.classList.add('visible');
+    this.reset();
+  });
+</script>
+
