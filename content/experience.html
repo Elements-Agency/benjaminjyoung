@@ -250,9 +250,18 @@ outputs: ['html']
 
       <form id="feedback-form" class="feedback-form" action="https://formspree.io/f/xppaoynq" method="POST">
         <div>
+          <label for="feedback-name">Name (optional)</label>
+          <input id="feedback-name" type="text" name="name" autocomplete="name" placeholder="Your name">
+        </div>
+        <div>
+          <label for="feedback-email">Email (optional)</label>
+          <input id="feedback-email" type="email" name="email" autocomplete="email" placeholder="Your email">
+        </div>
+        <div>
           <label for="improvement-details">Tell us more</label>
           <textarea id="improvement-details" name="improvement-details" placeholder="Share what stood out and what we could improve..."></textarea>
         </div>
+        <input id="experience-rating" type="hidden" name="experience-rating" value="">
         <button class="submit-button" type="submit">Send feedback</button>
       </form>
 
@@ -266,29 +275,54 @@ outputs: ['html']
   const thanksStep = document.getElementById('thanks-step');
   const improveStep = document.getElementById('improve-step');
   const successMessage = document.getElementById('success-message');
+  const experienceRating = document.getElementById('experience-rating')
   const scoreButtons = document.querySelectorAll('.score-button');
 
+  async function getClientIp() {
+    try {
+      const ipResponse = await fetch('https://api.ipify.org?format=json');
+      const { ip } = await ipResponse.json();
+      return ip;
+    } catch (error) {
+      console.error('Error retrieving IP:', error);
+      return '';
+    }
+  }
+
   scoreButtons.forEach((button) => {
-    button.addEventListener('click', function () {
+    button.addEventListener('click', async function () {
       const score = Number(this.dataset.score);
 
       if (score === 5) {
+        const formData = new FormData();
+        formData.append('experience-rating', '5');
+        formData.append('ip', await getClientIp());
+
+        fetch('https://formspree.io/f/xppaoynq', {
+          method: 'POST',
+          body: formData
+        }).catch((error) => console.error('Error:', error));
+
         ratingStep.classList.add('hidden');
         improveStep.classList.add('hidden');
         thanksStep.classList.remove('hidden');
+
         return;
       }
 
+      experienceRating.setAttribute('value', score);
       ratingStep.classList.add('hidden');
       thanksStep.classList.add('hidden');
       improveStep.classList.remove('hidden');
     });
   });
 
-  document.getElementById('feedback-form').addEventListener('submit', function (event) {
+  document.getElementById('feedback-form').addEventListener('submit', async function (event) {
     event.preventDefault();
 
     const formData = new FormData(this);
+    formData.append('ip', await getClientIp());
+
     fetch(this.action, {
       method: 'POST',
       body: formData
