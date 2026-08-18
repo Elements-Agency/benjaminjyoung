@@ -7,7 +7,8 @@ description: Coming Home captures the space and uneasiness between Izzy and I, a
 author: Ben Young
 images: ['painting.jpg']
 
-buy: Coming Home is available for acquisition as the original watercolor painting or as a high-quality limited reproduction. Collectors may choose between owning the one-of-a-kind original or a museum-grade print that preserves the emotional depth and detail of the work. Both options offer a meaningful way to bring this powerful and personal piece into your collection.
+acquire: Bring the Story of Quiet Healing Home — Collect Limited Edition Prints
+buy: The original watercolor was acquired in 2026, but a limited number of museum-grade reproductions are available. Printed on archival rag paper to preserve every subtle wash and sun-bleached texture for 100+ years.
 
 products:
     - id: original
@@ -17,6 +18,7 @@ products:
       shopify_id: 10328087167108
     - id: postcard
       shopify_id: 10378044014724
+
 catalog: https://shop.benjaminjyoung.com/collections/coming-home-products
 
 accolades:
@@ -25,8 +27,12 @@ accolades:
 collection: Back In The Light
 ---
 
-**Coming Home** holds a quiet, aching tenderness - Izzy poised in the tall, sun-bleached grass, ears lifted in hope, carries a longing that reaches across the empty space between it and me sitting on the porch ahead of her.
+A tribute to the moment trust replaces grief. **Coming Home** holds a quiet, aching tenderness - Izzy poised in the tall, sun-bleached grass, ears lifted in hope, carries a longing that reaches across the empty space between it and me sitting on the porch ahead of her.
 
 <!--more-->
 
-In this summer-lit moment, the painting holds the quiet story of how Izzy and I learned to find our way to one another after loss reshaped our world. When her trusted person—my fiancée—passed away, Izzy carried her grief in the same way I carried mine: cautiously, quietly, unsure of where to place it. For a long time, she kept her distance, watching me from the edges of the room or the far side of the field, as if waiting to understand the shape of this new life we hadn’t asked for. But slowly, day by day, she began to draw closer, out of necessity for each other. This painting captures the tender turning point of that journey: the moment she chose to close the gap, to trust again, and to let the warmth of a summer afternoon soften what had been hardened by loss. It’s the story of how two hearts, both broken in the same place, learned to heal together.
+In this summer-lit moment, the painting holds the quiet story of how Izzy and I learned to find our way to one another after loss reshaped our world. When her trusted person—my fiancée—passed away, Izzy carried her grief in the same way I carried mine: cautiously, quietly, unsure of where to place it. For a long time, she kept her distance, watching me from the edges of the room or the far side of the field, as if waiting to understand the shape of this new life we hadn’t asked for. But slowly, day by day, she began to draw closer, out of necessity for each other.
+
+This painting captures the exact moment the wall between us dissolved—when two wounded souls chose to step out of the shadows together. It isn't just a scene in the grass; it is the quiet turning point where healing officially began.
+
+We couldn't fix what was lost, so we learned to build something new together.
