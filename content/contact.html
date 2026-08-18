@@ -76,6 +76,7 @@ outputs: ['html']
     Email
     <input type="email" name="email">
   </label>
+  <input type="hidden" name="ip" id="ip">
   <label>
     Message
     <textarea name="message"></textarea>
@@ -83,3 +84,9 @@ outputs: ['html']
   <!-- your other form fields go here -->
   <button type="submit">Send</button>
 </form>
+<script>
+  fetch('https://api.ipify.org?format=json')
+    .then(response => response.json())
+    .then(data => { document.getElementById('ip').value = data.ip; })
+    .catch(() => {});
+</script>
