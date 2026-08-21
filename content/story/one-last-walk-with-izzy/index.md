@@ -1,5 +1,5 @@
 ---
-date: 2021-07-01
+date: 2021-07-02
 title: One Last Walk With Izzy
 subtitle: Izzy, My Faithful Border Collie Companion
 medium: Watercolor
