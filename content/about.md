@@ -2,7 +2,7 @@
 layout: inside
 title: Ben Young – Ohio Contemporary Artist & Watercolorist
 heading: Ben Young — Watercolor Painter
-description: Ben Young is a painter working in watercolor and oil, creating emotionally driven narrative paintings based on personal experience and feeling. His work explores memory and mood, using paint as a means of reflection and quiet storytelling.
+description: Ben Young is a painter working in watercolor and egg tempera, creating emotionally driven narrative paintings based on personal experience and feeling. His work explores memory and mood, using paint as a means of reflection and quiet storytelling.
 outputs: ['html']
 images: [ben.jpg]
 ---
@@ -11,15 +11,25 @@ images: [ben.jpg]
 
 ## Artist Statement ##
 
-Our increasing reliance on technology has come at a cost: we are losing touch with the human element. Having spent years contributing to this digital landscape as a software engineer, I have seen firsthand how the loss of face-to-face communication reduces connection to code and distance. Online, isolated from the subtle facial expressions that naturally build empathy, it is easy to forget the real impact of our words.
+Our increasing reliance on technology has come at a cost: we are losing touch with the human element. My art in watercolor and egg tempera is a response to the growing yearning for genuine human connection. Having spent years contributing to the digital landscape as a software engineer, I have seen firsthand how the loss of face-to-face communication reduces connection to cold distance. Online, isolated from the subtle expressions that naturally build empathy, it is easy to forget the real impact of our words.
 
-My art is a response to the growing yearning for genuine human connection. I use the artwork to slow down and capture the quiet nuances of the human form—the fleeting emotions in a posture, the stories told in the subtle contours of a face. By anchoring these small, touching moments in my compositions, I seek to reawaken the raw emotional depth that technology so often filters out.
+Through these deliberate, slow-working mediums, I capture the quiet nuances of the human form—the fleeting emotion in a posture, the stories told in the subtle contours of a face. By anchoring these intimate moments in my work, I seek to reawaken the raw emotional depth that technology so often filters out.
 
-## Ben Young's Artist Story ##
+## The Weight of Silence: The Story of Benjamin J. Young ##
 
-I began painting in December 2023, with no formal background in art beyond an eighth-grade class. Since then, I’ve primarily worked in watercolor, occasionally exploring oil, with a focus on narrative realism. My approach is rooted in expressing emotion first and capturing values second—if a painting evokes a genuine emotional response in someone, then I consider it a success.
+It was 2004 when I gained early access to the Andrew Wyeth exhibit at the Canton Museum of Art. Just thirteen at the time, I was called an artistic prodigy and felt pushed to refine my skills through formal instruction at the museum’s art institute. Standing before Wyeth’s temperas and watercolors, studying his quiet, atmospheric landscapes as part of my coursework, a seed was planted. I often look back now and wonder how deeply those early impressions shaped the way I see light, shadow, and solitude today.
 
-Interestingly, many viewers have compared my style to that of Andrew Wyeth, a connection I wasn’t initially aware of until it was pointed out to me. After exploring his work, I realized the resemblance is purely intuitive—an organic outcome of my own developing expression and technique. Much of my work is drawn from personal experience, emotion, and past trauma. Through this visual storytelling, I aim to create work that resonates with others on a deeply human level.
+Yet, my innate resistance to external control soon took hold. Resentful of being ordered to create, I defiantly put away my brushes. Believing even then that art offered no sustainable path, I turned my analytical mind toward technology. At thirteen, I taught myself computer programming from a library book. I chose to follow a career in software engineering, ultimately building successful enterprises, driving digital transformations, and securing a comfortable, upper-middle-class life.
+
+Though financial success came easily, true fulfillment remained elusive. Then I met AJ. In her, I found a partner who brought profound warmth and meaning into my life. We built a home, welcomed our beloved dog, Izzy, and began preparing for a shared future. But life altered course in an instant: on a cold winter night—December 20th—a tragic car accident took her life.
+
+For six years, the weight of unresolved grief and trauma accumulated quietly behind a facade of relentless work. When the dam of emotional suppression finally broke, it initiated a turbulent period of raw, painful transformation. A subsequent encounter helped break that emotional numbness, compelling me to confront my PTSD and begin the arduous process of healing.
+
+When legal friction and hardship eventually brought my tech career to a definitive end, I was stripped of everything I had built. Yet, in that total stillness, the long-dormant creative urge reemerged. I picked up a simple watercolor palette, seeking solace in the deliberate, unforgiving nature of pigment and water.
+
+What began as a quiet personal sanctuary quickly resonated with others. Observers immediately recognized an undeniable emotional depth in the work, leading to early private acquisitions and a sudden, organic rebirth as a full-time artist.
+
+Today, working in narrative realism through watercolor and egg tempera, my studio practice is rooted in restraint and quiet observation. Drawing inspiration from the weathered barns, quiet winter pastures, and solitary landscapes of Appalachia and the American East, my paintings explore the fleeting spaces where grief, resilience, and quiet human beauty intersect. Each composition serves as an invitation to slow down, disconnect from the digital noise, and reconnect with the profound weight of our shared human experience.
 
 ### Ben Young's Featured Artwork ###
 
@@ -33,7 +43,7 @@ My featured work is a deeply personal narration of my own life—told not throug
 ## Bio Facts ##
 
   * **Name**: Ben Young
-  * **Medium**: Watercolor and oil
+  * **Medium**: Watercolor, Oil, and Egg Tempera
   * **Focus**: Emotional, narrative-driven paintings rooted in personal experience
   * **Themes**: Memory, reflection, sadness, and emotional release
   * **Approach**: Layered, patient process emphasizing atmosphere and feeling over precision
