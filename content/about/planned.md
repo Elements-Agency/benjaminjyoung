@@ -23,7 +23,7 @@ In chronological order:
 - [ ] **Office Christmas Party** - Me holding up a friend to do a kegstand.
 - [ ] **Enablement** - A group of men force a drink down a drunk's throat.
 - [ ] **Last Call** - One last round of drinks among friends.
-- [x] **Hallelujah** - Gretchen takes care of me.
+- [x] **Hallelujah** - Gertrude takes care of me.
 - [ ] **Late Puzzle Party** - A man a woman sit at a table working on a puzzle together.
 - [ ] **The Dam Breaks** - A women lays on top of a man in bed, clutching him, as the man screams in agony.
 - [ ] **In To The Woods** - A man walks in to an autumn forrest at sundown.
