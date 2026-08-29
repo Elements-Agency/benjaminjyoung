@@ -32,6 +32,10 @@ paintings:
       image: show-me-what-your-looking-for.jpg
       story: /story/show-me-what-your-looking-for/
       original: /story/show-me-what-your-looking-for/
+    - name: Silver Ballet
+      image: silver-ballet.jpg
+      story: /collections/back-in-the-light/
+      original: /collections/back-in-the-light/
     
 ---
 

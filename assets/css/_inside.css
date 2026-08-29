@@ -4743,3 +4743,17 @@ input, select, textarea {
 .t-acceptButton {
 	color: #fff !important;
 }
+
+/* Markdown checklist styles */
+ul li input[type="checkbox"] {
+	margin: 0 0.6em 0 -1.75em;
+	vertical-align: middle;
+	width: 1em;
+	height: 1em;
+	accent-color: #333;
+	float: none;
+	display: inline-block;
+	opacity: 1;
+	appearance: auto;
+}
+
