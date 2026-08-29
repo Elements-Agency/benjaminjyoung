@@ -16,6 +16,10 @@ paintings:
       original: https://shop.benjaminjyoung.com/products/corporate-contempt-original-watercolor-painting
       reproductions: true
       reproduction: https://shop.benjaminjyoung.com/products/corporate-contempt-giclee-reproduction
+    - name: Boujee
+      image: boujee.jpg
+      story: /collections/bitter-honeydew/
+      original: /collections/bitter-honeydew/
     - name: Fruitcake Delivery
       image: fruitcake-delivery.jpg
       story: /story/fruitcake-delivery/
@@ -44,7 +48,7 @@ paintings:
       original: https://shop.benjaminjyoung.com/products/the-artists-assistant-original-watercolor-painting
       reproductions: true
       reproduction: https://shop.benjaminjyoung.com/products/the-artists-assistant-giclee-reproduction
-    
+
 ---
 
 Bitter Honeydew unfolds like a story you’re not entirely sure you were meant to overhear. There’s a theatricality to it—moments that feel staged, exaggerated, almost playful—yet threaded with something more grounded, more real, quietly pressing through the surface.

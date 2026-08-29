@@ -9,6 +9,10 @@ images: ['painting.jpg']
 list: true
 
 paintings:
+    - name: Last Call
+      image: last-call.jpg
+      story: /story/last-call/
+      original: /story/last-call/
     - name: Hallelujah
       image: hallelujah.jpg
       story: /story/hallelujah/
@@ -37,7 +41,6 @@ paintings:
       original: https://shop.benjaminjyoung.com/products/in-the-dark-original-watercolor-painting
       reproductions: true
       reproduction: https://shop.benjaminjyoung.com/products/in-the-dark-giclee-reproduction
-    
 
 ---
 

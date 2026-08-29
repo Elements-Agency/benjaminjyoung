@@ -52,6 +52,10 @@ paintings:
       original: https://shop.benjaminjyoung.com/products/mistakes-original-watercolor-painting
       reproductions: true
       reproduction: https://shop.benjaminjyoung.com/products/mistakes-giclee-reproduction
+    - name: Silver Ballet
+      image: silver-ballet.jpg
+      story: /collections/back-in-the-light/
+      original: /collections/back-in-the-light/
     
 ---
 

@@ -16,6 +16,22 @@ paintings:
       original: https://shop.benjaminjyoung.com/products/im-sorry-its-cancer-original-watercolor-painting
       reproductions: true
       reproduction: https://shop.benjaminjyoung.com/products/im-sorry-its-cancer-giclee-reproduction
+    - name: Returning The Favor
+      image: returning-the-favor.jpg
+      story: /story/returning-the-favor/
+      original: /story/returning-the-favor/
+    - name: Broken
+      image: broken.jpg
+      story: /story/broken/
+      original: /story/broken/
+    - name: Goodbye
+      image: goodbye.jpg
+      story: /story/goodbye/
+      original: /story/goodbye/
+    - name: Show Me What You're Looking For
+      image: show-me-what-your-looking-for.jpg
+      story: /story/show-me-what-your-looking-for/
+      original: /story/show-me-what-your-looking-for/
     
 ---
 
