@@ -7,21 +7,31 @@ aliases: [/planned]
 outputs: ['html']
 ---
 
-In chronological order:
+### A Chronological Journey in Pigment and Memory ###
 
+The following list outlines a narrative arc of upcoming works, ordered sequentially as a visual memoir. From moments of profound loss, grief, and addiction to quiet reflections on fatherhood, love, and recovery, each piece serves as an honest document of lived experience. Together, these paintings trace a path through darkness toward light, capturing the fragile, complex threads that connect us to the people and places we love.
+
+In chronological order, by era and completion:
+
+#### Learning to be Quite  (September 13th, 1990 - September 13, 2008) ####
 - [ ] **Ray** - An old man beats a helpless child.
+
+#### First Time (May 13th, 2005 - December 25th, 2010 ) ####
 - [ ] **Unfaithful** - A girl regrets her decision.
-- [ ] **Show Me What You're Looking For** - First sight of AJ.
+
+#### Heart of a Man (May 8th, 2012 - December 20th, 2013) ####
 - [ ] **Hot Spring** - AJ and I share a romantic moment in a hot spring.
 - [ ] **Izzy** - The moment AJ and I adopted Izzy.
 - [ ] **Expecting** - The scene of AJ telling me she's pregnant.
 - [ ] **Carol of the Bells** - My admiration of buying an engagement ring.
 - [ ] **Goodbye** - I embrace AJ's limp body.
-- [ ] **Broken** - I sit on the bathroom ground, broken, with Izzy in my lap.
-- [x] **Coming Home** - Izzy comes home to me.
+
+#### Falling in to Darkness (December 21st, 2013 - December 20th, 2019) ####
 - [ ] **Predator** - A woman's face lurks in the shadows.
 - [ ] **Office Christmas Party** - Me holding up a friend to do a kegstand.
 - [ ] **Enablement** - A group of men force a drink down a drunk's throat.
+
+#### One Last December (December 21st, 2019 - February 27th, 2020) ####
 - [ ] **Last Call** - One last round of drinks among friends.
 - [x] **Hallelujah** - Gertrude takes care of me.
 - [ ] **Late Puzzle Party** - A man a woman sit at a table working on a puzzle together.
@@ -29,13 +39,11 @@ In chronological order:
 - [ ] **In To The Woods** - A man walks in to an autumn forrest at sundown.
 - [x] **Embrace** - AJ and I embrace, as I say goodbye in a dream.
 - [x] **In The Dark** - A young boy looks in to the flame of a candle.
+
+#### Bitter Honeydew (January 19th, 2020 - May 23rd, 2024) ####
 - [x] **Corporate Contempt** - A man in a suit stands isolated in a high-rise office.
 - [ ] **Boujee** - A poolboy lays fallen on the ground in the presence of a man in a suite.
 - [ ] **Fruitcake Delivery** - A man delivers 30 fruitcakes to a house.
-- [ ] **EMDR** - EMDR Therapy
-- [ ] **Returning the Favor** - Izzy lays in my lap, as she dies.
-- [x] **One Last Walk With Izzy** - One last walk with my Border Collie dog.
-- [ ] **Audrey** - Me walking a field of flowers with my late/unborn daughter, Audrey.
 - [ ] **Smoking Gun** - A pink parcel sits on a doorstep.
 - [ ] **Fear** - A woman screams in fear at a clown performing at a circus.
 - [x] **Circus Act** - A clown stands trial.
@@ -45,6 +53,12 @@ In chronological order:
 - [x] **Defeat** - Defeat on a tennis court.
 - [ ] **Guilty** - A clown sits in jail.
 - [ ] **Rehabilitated** - A clown stands on the sidewalk, homeless.
+
+#### Back in to the Light (February 27th, 2020 - Current) ####
+- [x] **Coming Home** - Izzy comes home to me.
+- [ ] **EMDR** - EMDR Therapy
+- [x] **One Last Walk With Izzy** - One last walk with my Border Collie dog.
+- [ ] **Audrey** - Me walking a field of flowers with my late/unborn daughter, Audrey.
 - [x] **Mistakes** - A mugshot of Jerry Lee Lewis, I can double for my own feelings.
 - [ ] **Busy** - A woman lays back in a chair, drugged out and passed out.
 - [x] **Standoff** - A man and a woman standoff in a field.
@@ -75,4 +89,11 @@ In chronological order:
 - [ ] **Good Mornings** - A woman in her underwear watering plants while her three cats harass her.
 - [ ] **Coward** - A man hides in cowardice after murdering my cousin.
 - [ ] **Flowers for D** - Cherry Blossom branch.
+
+#### Beauty in Darkness (May 8th, 2012 - April 3rd, 2026) ####
+- [ ] **Show Me What You're Looking For** - First sight of AJ.
+- [ ] **Broken** - I sit on the bathroom ground, broken, with Izzy in my lap.
+- [ ] **Returning the Favor** - Izzy lays in my lap, as she dies.
 - [x] **I'm Sorry, It's Cancer** - The look I felt on my face, as I find out I have cancer.
+
+Completion: 23 out of 66 (35%)
