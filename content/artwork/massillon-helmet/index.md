@@ -54,4 +54,6 @@ After completion of my [first oil painting](/artwork/cherry-popping/), I learned
 
 ## Accolades ##
 
- * Featured in the [2024 Juried Brown’s Town Exhibit](https://paulbrownmuseum.org/exhibits/detail/browns-town-art-inspired-by-ohios-football-heritage) at the [Massillon Museum](https://massillonmuseum.org/).
+  * Featured in the [2024 Juried Brown’s Town Exhibit](https://paulbrownmuseum.org/exhibits/detail/browns-town-art-inspired-by-ohios-football-heritage) at the [Massillon Museum](https://massillonmuseum.org/).
+  * Featured in the [2026 Stark County Fair](https://starkcountyfair.com)
+  * 1st Place in the [2026 Stark County Fair](https://starkcountyfair.com) for Oil Still Life

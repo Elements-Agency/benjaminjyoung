@@ -64,3 +64,7 @@ This piece is more than just a study of winter light; it is a portrait of my his
 
 By stripping away the clutter of the modern world and placing the barn against a quiet, snow-covered landscape, I wanted to capture the solitude and strength I remember so vividly. The cool blue shadows and the rusted warmth of the roof reflect the passage of time on a building that, to me, always felt permanent. It stands as a tribute to the quiet resilience of rural life and the enduring silhouette of "home."
 
+## Accolades ##
+
+  * Featured in the [2026 Stark County Fair](https://starkcountyfair.com)
+  * 1st Place in the [2026 Stark County Fair](https://starkcountyfair.com) for Watercolor Architecture

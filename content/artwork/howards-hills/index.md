@@ -77,9 +77,3 @@ I came up with an Appalachia landscape, very similar to the rolling hills I grew
 I first built the wash of the sky up and then mainly worked my way down the painting. Covering the house and man in masking liquid to later paint for a more detailed focus and to stand out against the rest of the flow of the brush strokes. This painting easily has thousands of layers added to it and working on it spanned over several months. You can easily see all hundreds of brush strokes as you closely look in to the tree. Lots of lifting used in key areas to help shape the values and balance of the scene. I tried to use dry brushing as much as possible in this painting, on the top most layers. Sometimes later going over and blending the hard dried edges where I didn't feel it was fit to the style's atmosphere.
 
 {{< progress >}}
-
-## Accolades ##
-
-* Featured in the [1st Annual Juried ActLoCLE Exhibit](https://www.actlocle.org/).
-* Featured in the [2024 Patina Resident Artist Exhibit](https://www.facebook.com/events/512553025101953) at Patina Arts Centre.
-* Featured in the New Artist Showcase at [The Hub Art Factory](https://www.thehubcanton.com).

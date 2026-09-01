@@ -20,7 +20,10 @@ products:
 catalog: https://shop.benjaminjyoung.com/collections/im-sorry-its-cancer-products
 
 accolades:
+    - 1st Place in the 2026 Stark County Fair for Watercolor Portrait
     - Featured in 2026 American Watercolor Society Associate Member's Exhibit
+    - Featured in the 2026 Stark County Fair
+    - Featured in the 2026 Door 2 Art Show
 
 collection: Beauty in Darkness
 ---

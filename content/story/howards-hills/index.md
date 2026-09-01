@@ -24,6 +24,8 @@ accolades:
     - Featured in ActLoCLE's Featured Artist.
     - Featured in the 2025 New Artist Showcase at The Hub Art Factory in Canton, Ohio.
     - Featured in Massillon Community Arts Council's Featured Artist.
+    - Featured in the 2026 Stark County Fair
+    - 2nd Place in the 2026 Stark County Fair for Watercolor Landscape
 
 collection: Back In The Light
 ---

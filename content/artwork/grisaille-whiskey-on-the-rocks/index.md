@@ -46,4 +46,6 @@ I was getting fatigued from painting too many large paintings, so I had to switc
 
 ## Accolades ##
 
-* Featured in the [Cold Decembers Exhibit](https://www.facebook.com/events/873544318670710/) at [Brewtifully](https://www.tracydawnbrewer.com).
+  * Featured in the [Cold Decembers Exhibit](https://www.facebook.com/events/873544318670710/) at [Brewtifully](https://www.tracydawnbrewer.com).
+  * Featured in the [2026 Stark County Fair](https://starkcountyfair.com)
+  * 1st Place in the [2026 Stark County Fair](https://starkcountyfair.com) for Watercolor Still Life
