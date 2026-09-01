@@ -14,6 +14,8 @@ products:
       shopify_id: 10327997153412
     - id: giclee
       shopify_id: 10328412094596
+    - id: canvas
+      shopify_id: 10470288523396
     - id: postcard
       shopify_id: 10378051256452
 catalog: https://shop.benjaminjyoung.com/collections/fruitcake-delivery-products

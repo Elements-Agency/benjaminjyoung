@@ -15,6 +15,8 @@ products:
       shopify_id: 10325501804676
     - id: giclee
       shopify_id: 10328064557188
+    - id: canvas
+      shopify_id: 10470280495236
 catalog: https://shop.benjaminjyoung.com/collections/circus-act-products
 
 accolades:

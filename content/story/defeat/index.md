@@ -16,6 +16,9 @@ products:
       sold: true
     - id: giclee
       shopify_id: 10328103551108
+    - id: canvas
+      shopify_id: 10470251954308
+catalog: https://shop.benjaminjyoung.com/collections/fruitcake-delivery-products
 
 accolades:
     - Featured in the 2025 New Artist Showcase at The Hub Art Factory in Canton, Ohio.
