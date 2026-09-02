@@ -124,7 +124,7 @@
             
             <ul class="actions stacked">
                 <li>
-                    <a href="#signup" class="button big wide smooth-scroll" onclick="focusSignup();">
+                    <a href="#lead-signup" class="button big wide smooth-scroll" onclick="focusSignup();">
                         Join Collector's Circle
                     </a>
                 </li>
@@ -135,7 +135,7 @@
         </div>
     </section>
 
-    <section id="signup" class="wrapper style1 align-center">
+    <section id="lead-signup" class="wrapper style1 align-center">
         <div class="inner">
             <h2>Ready to Learn More? Join Collector's Circle</h2>
             <p>
@@ -187,6 +187,8 @@
             </div>
         {{ end }}
     </section>
+
+    {{ partial "signup-check.html" . }}
 {{ end }}
 
 {{ define "scripts" }}

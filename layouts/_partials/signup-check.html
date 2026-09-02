@@ -1,0 +1,77 @@
+<script>
+    (async function () {
+        const signup = document.getElementById('lead-signup');
+        if (!signup) return;
+
+        const allowedCountries = new Set([
+            'US', 'CA', 'AU', 'NZ', 'GB', 'IE',
+            'DE', 'FR', 'NL', 'BE', 'SE', 'NO', 'LU', 'DK'
+        ]);
+
+        // Do not show the form until the visitor's country is confirmed.
+        signup.style.display = 'none';
+        const countryCodeKey = 'leadSignupCountryCode';
+        const countryDateKey = 'leadSignupCountryDate';
+        const cacheDuration = 24 * 60 * 60 * 1000;
+        const cachedCountryCode = localStorage.getItem(countryCodeKey);
+        const cachedCountryDate = Number(localStorage.getItem(countryDateKey));
+
+        if (cachedCountryCode && Date.now() - cachedCountryDate < cacheDuration) {
+            if (allowedCountries.has(cachedCountryCode)) {
+                signup.style.display = '';
+            }
+            return;
+        }
+
+        try {
+            const response = await fetch('https://ipapi.co/json/');
+            if (!response.ok) return;
+            const location = await response.json();
+            localStorage.setItem(countryCodeKey, location.country_code || '');
+            localStorage.setItem(countryDateKey, Date.now().toString());
+            if (allowedCountries.has(location.country_code)) {
+                signup.style.display = '';
+            }
+        } catch (error) {
+            // Keep the signup hidden if the GeoIP lookup fails.
+        }
+    })();
+</script>			<script>
+    (async function () {
+        const signup = document.getElementById('lead-signup');
+        if (!signup) return;
+
+        const allowedCountries = new Set([
+            'US', 'CA', 'AU', 'NZ', 'GB', 'IE',
+            'DE', 'FR', 'NL', 'BE', 'SE', 'NO', 'LU', 'DK'
+        ]);
+
+        // Do not show the form until the visitor's country is confirmed.
+        signup.style.display = 'none';
+        const countryCodeKey = 'leadSignupCountryCode';
+        const countryDateKey = 'leadSignupCountryDate';
+        const cacheDuration = 24 * 60 * 60 * 1000;
+        const cachedCountryCode = localStorage.getItem(countryCodeKey);
+        const cachedCountryDate = Number(localStorage.getItem(countryDateKey));
+
+        if (cachedCountryCode && Date.now() - cachedCountryDate < cacheDuration) {
+            if (allowedCountries.has(cachedCountryCode)) {
+                signup.style.display = '';
+            }
+            return;
+        }
+
+        try {
+            const response = await fetch('https://ipapi.co/json/');
+            if (!response.ok) return;
+            const location = await response.json();
+            localStorage.setItem(countryCodeKey, location.country_code || '');
+            localStorage.setItem(countryDateKey, Date.now().toString());
+            if (allowedCountries.has(location.country_code)) {
+                signup.style.display = '';
+            }
+        } catch (error) {
+            signup.style.display = '';
+        }
+    })();
+</script>

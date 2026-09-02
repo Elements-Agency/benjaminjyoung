@@ -191,7 +191,7 @@
         </div>
     </section>
     
-    <section id="signup" class="wrapper style1 align-center">
+    <section id="lead-signup" class="wrapper style1 align-center">
         <div class="inner">
             <h2>Ready to Learn More? Join Collector's Circle</h2>
             <p>
@@ -241,6 +241,8 @@
             </div>
         {{ end }}
     </section>
+
+    {{ partial "signup-check.html" . }}
 {{ end }}
 
 {{ define "styles" }}
