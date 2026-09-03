@@ -42,8 +42,11 @@
         if (!signup) return;
 
         const allowedCountries = new Set([
-            'US', 'CA', 'AU', 'NZ', 'GB', 'IE',
-            'DE', 'FR', 'NL', 'BE', 'SE', 'NO', 'LU', 'DK', 'CH'
+            'US', 'CA', 'AU', 'NZ', //'GB', 'IE',
+            //'DE', 'FR', 'NL', 'BE', 'SE', 'NO', 'LU', 'DK', 'CH',
+            //'AT', 'BG', 'HR', 'CY', 'CZ', 'EE', 'FI', 'GR', 'HU', 'IS',
+            //'IT', 'LI', 'LT', 'MT', 'PL', 'PT', 'RO', 'SK', 'SI', 'ES',
+            
         ]);
 
         // Do not show the form until the visitor's country is confirmed.
@@ -57,7 +60,12 @@
         if (cachedCountryCode && Date.now() - cachedCountryDate < cacheDuration) {
             if (allowedCountries.has(cachedCountryCode)) {
                 signup.style.display = '';
+                localStorage.setItem('previousCountryRefusal', true);
             }
+            return;
+        }
+        if (localStorage.getItem('previousCountryRefusal')) {
+            signup.style.display = '';
             return;
         }
 
@@ -69,6 +77,7 @@
             localStorage.setItem(countryDateKey, Date.now().toString());
             if (allowedCountries.has(location.country_code)) {
                 signup.style.display = '';
+                localStorage.setItem('previousCountryRefusal', true);
             }
         } catch (error) {
             signup.style.display = '';
