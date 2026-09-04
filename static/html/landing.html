@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Free Fine Art Framing & Display Guide | Fine Art Studio</title>
+    <style>
+        :root {
+            --bg-color: #FAF8F5;
+            --card-bg: #FFFFFF;
+            --text-main: #2C2A29;
+            --text-muted: #65625E;
+            --accent-color: #8C6D46;
+            --accent-hover: #705533;
+            --border-color: #E2DDD5;
+            --font-serif: "Playfair Display", Georgia, serif;
+            --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            font-family: var(--font-sans);
+            line-height: 1.6;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 960px;
+            width: 100%;
+            background: var(--card-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.04);
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            overflow: hidden;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        .image-section {
+            background-color: #F2EDE4;
+            padding: 40px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            border-right: 1px solid var(--border-color);
+        }
+
+        .mockup-card {
+            width: 100%;
+            max-width: 320px;
+            background: var(--card-bg);
+            border: 12px solid #1A1A1A;
+            box-shadow: 0 15px 25px rgba(0,0,0,0.15);
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+
+        .art-placeholder {
+            width: 100%;
+            background: linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #555;
+            font-size: 0.9rem;
+            font-style: italic;
+        }
+
+        .image-caption {
+            font-size: 0.85rem;
+            color: var(--text-muted);
+            font-style: italic;
+        }
+
+        .content-section {
+            padding: 50px 40px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .badge {
+            display: inline-block;
+            text-transform: uppercase;
+            font-size: 0.75rem;
+            letter-spacing: 1.5px;
+            font-weight: 700;
+            color: var(--accent-color);
+            margin-bottom: 12px;
+        }
+
+        h1 {
+            font-family: var(--font-serif);
+            font-size: 2rem;
+            line-height: 1.25;
+            margin-bottom: 16px;
+            color: var(--text-main);
+        }
+
+        p.subhead {
+            color: var(--text-muted);
+            font-size: 1rem;
+            margin-bottom: 24px;
+        }
+
+        .benefits-list {
+            list-style: none;
+            margin-bottom: 30px;
+        }
+
+        .benefits-list li {
+            position: relative;
+            padding-left: 28px;
+            margin-bottom: 12px;
+            font-size: 0.95rem;
+            color: var(--text-main);
+        }
+
+        .benefits-list li::before {
+            content: "✓";
+            position: absolute;
+            left: 0;
+            top: 0;
+            color: var(--accent-color);
+            font-weight: bold;
+        }
+
+        .optin-form {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+
+        .form-group input {
+            width: 100%;
+            padding: 14px 16px;
+            border: 1px solid var(--border-color);
+            border-radius: 4px;
+            font-size: 0.95rem;
+            background-color: #FAF8F5;
+            transition: border-color 0.2s ease;
+        }
+
+        .form-group input:focus {
+            outline: none;
+            border-color: var(--accent-color);
+            background-color: #FFFFFF;
+        }
+
+        .submit-btn {
+            background-color: var(--accent-color);
+            color: #FFFFFF;
+            border: none;
+            padding: 16px;
+            border-radius: 4px;
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: background-color 0.2s ease;
+        }
+
+        .submit-btn:hover {
+            background-color: var(--accent-hover);
+        }
+
+        .privacy-note {
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            text-align: center;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <div class="image-section">
+            <div class="mockup-card">
+                <div class="art-placeholder">
+                    <img src="/images/one-last-walk-with-izzy.jpg" alt="One Last Walk with Izzy" style="width: 100%; height: 100%; object-fit: cover;">
+                </div>
+            </div>
+            <p class="image-caption">Free Digital Download • 12-Page Visual Collector's Guide</p>
+        </div>
+
+        <div class="content-section">
+            <span class="badge">Free Collector Resource</span>
+            <h1>How to Style & Frame Fine Art Without Spend Guesses</h1>
+            <p class="subhead">Avoid costly custom framing mistakes. Learn how to transform standard off-the-shelf frames into gallery-grade displays for your home.</p>
+
+            <ul class="benefits-list">
+                <li><strong>The $30 IKEA Frame Hack:</strong> Make affordable retail frames look like custom museum glass.</li>
+                <li><strong>Pro proportion rules:</strong> Exact mat-width ratios for 8x10, 11x14, and 16x20 prints.</li>
+                <li><strong>Color-matching cheat sheet:</strong> Match wood finishes to your existing interior wall palette.</li>
+            </ul>
+
+            <form class="optin-form" action="#" method="POST">
+                <div class="form-group">
+                    <input type="text" name="first_name" placeholder="First Name" required>
+                </div>
+                <div class="form-group">
+                    <input type="email" name="email" placeholder="Best Email Address" required>
+                </div>
+                
+                <button type="submit" class="submit-btn">Send Me The Free Guide</button>
+            </form>
+
+            <p class="privacy-note">🔒 We respect your privacy. Unsubscribe at any time with one click.</p>
+        </div>
+    </div>
+
+</body>
+</html>

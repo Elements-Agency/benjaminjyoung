@@ -1,0 +1,526 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exclusive Release: One Last Walk With Izzy | Fine Art Studio</title>
+    <style>
+        :root {
+            --bg-color: #FAF8F5;
+            --card-bg: #FFFFFF;
+            --text-main: #2C2A29;
+            --text-muted: #65625E;
+            --accent-color: #8C6D46;
+            --accent-hover: #705533;
+            --border-color: #E2DDD5;
+            --font-serif: "Playfair Display", Georgia, serif;
+            --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            font-family: var(--font-sans);
+            line-height: 1.6;
+            padding: 40px 20px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        .notice-banner {
+            background-color: #EFE8DC;
+            border: 1px solid var(--border-color);
+            border-radius: 6px;
+            padding: 16px;
+            text-align: center;
+            font-size: 0.95rem;
+            color: var(--text-main);
+            margin-bottom: 30px;
+        }
+
+        .notice-banner strong {
+            color: var(--accent-color);
+        }
+
+        .offer-card {
+            background: var(--card-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.04);
+            padding: 40px;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .badge {
+            display: inline-block;
+            text-transform: uppercase;
+            font-size: 0.75rem;
+            letter-spacing: 1.5px;
+            font-weight: 700;
+            color: var(--accent-color);
+            margin-bottom: 10px;
+        }
+
+        h1 {
+            font-family: var(--font-serif);
+            font-size: 2.2rem;
+            line-height: 1.25;
+            margin-bottom: 12px;
+        }
+
+        .subhead {
+            color: var(--text-muted);
+            font-size: 1.1rem;
+        }
+
+        .hero-art {
+            text-align: center;
+            margin: 30px 0;
+            background-color: #F2EDE4;
+            padding: 30px;
+            border-radius: 6px;
+            border: 1px solid var(--border-color);
+        }
+
+        .mockup-frame {
+            display: inline-block;
+            background: #FFFFFF;
+            border: 14px solid #1A1A1A;
+            box-shadow: 0 15px 30px rgba(0,0,0,0.15);
+            padding: 24px;
+            max-width: 100%;
+        }
+
+        .art-display {
+            width: 320px;
+            height: 240px;
+            max-width: 100%;
+            background: #D9D2C7;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #555;
+            font-style: italic;
+        }
+
+        .story-section {
+            margin-bottom: 35px;
+            font-size: 1rem;
+            color: var(--text-main);
+        }
+
+        .story-section h2 {
+            font-family: var(--font-serif);
+            font-size: 1.4rem;
+            margin-bottom: 10px;
+        }
+
+        .value-stack {
+            background-color: #FAF8F5;
+            border: 1px solid var(--border-color);
+            border-radius: 6px;
+            padding: 24px;
+            margin-bottom: 35px;
+        }
+
+        .value-stack h3 {
+            font-family: var(--font-serif);
+            font-size: 1.2rem;
+            margin-bottom: 16px;
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 8px;
+        }
+
+        .stack-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px 0;
+            border-bottom: 1px dashed var(--border-color);
+        }
+
+        .stack-item:last-child {
+            border-bottom: none;
+        }
+
+        .item-name {
+            font-size: 0.95rem;
+        }
+
+        .item-val {
+            font-weight: bold;
+            color: var(--accent-color);
+            font-size: 0.95rem;
+        }
+
+        .price-box {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .total-value {
+            text-decoration: line-through;
+            color: var(--text-muted);
+            font-size: 1.1rem;
+        }
+
+        .your-price {
+            font-size: 2.5rem;
+            font-weight: 800;
+            color: var(--text-main);
+            font-family: var(--font-serif);
+            margin: 5px 0;
+        }
+
+        .savings-tag {
+            display: inline-block;
+            background-color: #E8F0E6;
+            color: #2D6A4F;
+            font-weight: 700;
+            font-size: 0.85rem;
+            padding: 4px 12px;
+            border-radius: 50px;
+        }
+
+        .cta-btn {
+            text-align: center;
+            margin-bottom: 30px;
+            width: 100% !important;
+            max-width: 100% !important;
+        }
+
+        .cta-btn button {
+            display: block;
+            width: 100%;
+            background-color: var(--accent-color);
+            color: #FFFFFF;
+            text-align: center;
+            text-decoration: none;
+            padding: 20px !important;
+            border-radius: 4px;
+            font-size: 1.15rem;
+            font-weight: 700;
+            transition: background-color 0.2s ease;
+            margin-bottom: 15px;
+        }
+
+        .shopify-buy__btn {
+            padding: 20px !important;
+        }
+
+        .cta-btn button:hover {
+            background-color: var(--accent-hover);
+        }
+
+        .guarantee-box {
+            border: 1px solid var(--border-color);
+            border-radius: 6px;
+            padding: 20px;
+            text-align: center;
+            background-color: #FFFFFF;
+            margin-top: 30px;
+        }
+
+        .guarantee-box h4 {
+            font-family: var(--font-serif);
+            font-size: 1.1rem;
+            margin-bottom: 6px;
+        }
+
+        .guarantee-box p {
+            font-size: 0.85rem;
+            color: var(--text-muted);
+        }
+
+        @media (max-width: 600px) {
+            .offer-card {
+                padding: 24px 16px;
+            }
+            
+            h1 {
+                font-size: 1.75rem;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <!-- Upsell Banner -->
+        <div class="notice-banner">
+            ✉️ <strong>Success!</strong> Your Framing & Display Guide is on its way to your inbox.
+        </div>
+
+        <div class="offer-card">
+            <div class="header">
+                <span class="badge">Featured Watercolor Release</span>
+                <h1>One Last Walk With Izzy</h1>
+                <p class="subhead">A narrative watercolor capturing quiet devotion, lasting memories, and rolling countryside views.</p>
+            </div>
+
+            <!-- Artwork Display -->
+            <div class="hero-art">
+                <div class="mockup-frame">
+                    <div class="art-display">
+                        [ "One Last Walk With Izzy" Artwork ]
+                    </div>
+                </div>
+            </div>
+
+            <!-- Story Section -->
+            <div class="story-section">
+                <h2>The Story Behind the Painting</h2>
+                <p>Painted in tribute to a beloved Border Collie, this piece captures a quiet stroll across the sweeping hills of Southeast Ohio. Designed to bring warmth, reflection, and timeless warmth into living spaces and cozy study rooms, it reflects the deep bond of quiet companionship.</p>
+            </div>
+
+            <!-- Value Stack -->
+            <div class="value-stack">
+                <h3>Your Complete Collector Package Includes:</h3>
+                
+                <div class="stack-item">
+                    <span class="item-name"><strong>"One Last Walk With Izzy" Archival Giclée Print</strong> (11x14 on Textured Cotton Rag)</span>
+                    <span class="item-val">$65 Value</span>
+                </div>
+
+                <div class="stack-item">
+                    <span class="item-name"><strong>FREE BONUS #1:</strong> Digital Collector’s Companion PDF (Studio & Story Notes)</span>
+                    <span class="item-val">$15 Value</span>
+                </div>
+
+                <div class="stack-item">
+                    <span class="item-name"><strong>FREE BONUS #2:</strong> Registered Digital Certificate of Authenticity</span>
+                    <span class="item-val">$15 Value</span>
+                </div>
+
+                <div class="stack-item">
+                    <span class="item-name"><strong>FREE BONUS #3:</strong> Collector's Framing & Hanging Guide</span>
+                    <span class="item-val">$10 Value</span>
+                </div>
+
+                <div class="stack-item">
+                    <span class="item-name"><strong>FREE BONUS #4:</strong> Fully Insured Standard Shipping</span>
+                    <span class="item-val">$12 Value</span>
+                </div>
+            </div>
+
+            <!-- Pricing & Checkout -->
+            <div class="price-box">
+                <div class="total-value">Total Value: $117</div>
+                <div class="your-price">$65.00</div>
+                <span class="savings-tag">Save $52 With This Package</span>
+            </div>
+
+            <div id='product-component-1788529879362' class="cta-btn"></div>
+            <script type="text/javascript">
+            /*<![CDATA[*/
+            (function () {
+            var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
+            if (window.ShopifyBuy) {
+                if (window.ShopifyBuy.UI) {
+                ShopifyBuyInit();
+                } else {
+                loadScript();
+                }
+            } else {
+                loadScript();
+            }
+            function loadScript() {
+                var script = document.createElement('script');
+                script.async = true;
+                script.src = scriptURL;
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(script);
+                script.onload = ShopifyBuyInit;
+            }
+            function ShopifyBuyInit() {
+                var client = ShopifyBuy.buildClient({
+                domain: '4x0mwz-4a.myshopify.com',
+                storefrontAccessToken: '2fa315359f42a02ddc2c43ef3a91e400',
+                });
+                ShopifyBuy.UI.onReady(client).then(function (ui) {
+                ui.createComponent('product', {
+                    id: '10477580779652',
+                    node: document.getElementById('product-component-1788529879362'),
+                    moneyFormat: '%24%7B%7Bamount%7D%7D',
+                    options: {
+            "product": {
+                "styles": {
+                "product": {
+                    "@media (min-width: 601px)": {
+                    "margin-left": "0px",
+                    "margin-bottom": "50px"
+                    }
+                },
+                "button": {
+                    "font-family": "Roboto, sans-serif",
+                    "font-weight": "bold",
+                    "font-size": "18px",
+                    "padding-top": "20px",
+                    "padding-bottom": "20px",
+                    "padding-left": "20px",
+                    "padding-right": "20px",
+                    ":hover": {
+                    "background-color": "#7e623f"
+                    },
+                    "background-color": "#8c6d46",
+                    ":focus": {
+                    "background-color": "#7e623f"
+                    },
+                    "border-radius": "0px",
+                },
+                "quantityInput": {
+                    "font-size": "18px",
+                    "padding-top": "20px",
+                    "padding-bottom": "20px",
+                    "padding-left": "20px",
+                    "padding-right": "20px",
+                }
+                },
+                "contents": {
+                "img": false,
+                "title": false,
+                "price": false
+                },
+                "text": {
+                "button": "Claim Your Print & Free Collector Package"
+                },
+                "googleFonts": [
+                "Roboto"
+                ]
+            },
+            "productSet": {
+                "styles": {
+                "products": {
+                    "@media (min-width: 601px)": {
+                    "margin-left": "0px"
+                    }
+                }
+                }
+            },
+            "modalProduct": {
+                "contents": {
+                "img": false,
+                "imgWithCarousel": true,
+                "button": false,
+                "buttonWithQuantity": true
+                },
+                "styles": {
+                "product": {
+                    "@media (min-width: 601px)": {
+                    "max-width": "100%",
+                    "margin-left": "0px",
+                    "margin-bottom": "0px"
+                    }
+                },
+                "button": {
+                    "font-family": "Roboto, sans-serif",
+                    "font-weight": "bold",
+                    "font-size": "18px",
+                    "padding-top": "20px",
+                    "padding-bottom": "20px",
+                    "padding-left": "20px",
+                    "padding-right": "20px",
+                    ":hover": {
+                    "background-color": "#7e623f"
+                    },
+                    "background-color": "#8c6d46",
+                    ":focus": {
+                    "background-color": "#7e623f"
+                    },
+                    "border-radius": "0px",
+                },
+                "quantityInput": {
+                    "font-size": "18px",
+                    "padding-top": "20px",
+                    "padding-bottom": "20px",
+                    "padding-left": "20px",
+                    "padding-right": "20px",
+                }
+                },
+                "googleFonts": [
+                "Roboto"
+                ],
+                "text": {
+                "button": "Add to cart"
+                }
+            },
+            "option": {},
+            "cart": {
+                "styles": {
+                "button": {
+                    "font-family": "Roboto, sans-serif",
+                    "font-weight": "bold",
+                    "font-size": "18px",
+                    "padding-top": "20px",
+                    "padding-bottom": "20px",
+                    "padding-left": "20px",
+                    "padding-right": "20px",
+                    ":hover": {
+                    "background-color": "#7e623f"
+                    },
+                    "background-color": "#8c6d46",
+                    ":focus": {
+                    "background-color": "#7e623f"
+                    },
+                    "border-radius": "0px"
+                }
+                },
+                "text": {
+                "total": "Subtotal",
+                "button": "Checkout"
+                },
+                "googleFonts": [
+                "Roboto"
+                ]
+            },
+            "toggle": {
+                "styles": {
+                "toggle": {
+                    "font-family": "Roboto, sans-serif",
+                    "font-weight": "bold",
+                    "background-color": "#8c6d46",
+                    ":hover": {
+                    "background-color": "#7e623f"
+                    },
+                    ":focus": {
+                    "background-color": "#7e623f"
+                    }
+                },
+                "count": {
+                    "font-size": "18px"
+                }
+                },
+                "googleFonts": [
+                "Roboto"
+                ]
+            }
+            },
+                });
+                });
+            }
+            })();
+            /*]]>*/
+            </script>
+
+            <!-- Risk Reversal Guarantee -->
+            <div class="guarantee-box">
+                <h4>🛡️ The 30-Day "In-Home Vibe" Guarantee</h4>
+                <p>Display this artwork in your home for 30 days. If the tone, warmth, or story doesn't fit your space perfectly, return it for a 100% full refund—no questions asked.</p>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
