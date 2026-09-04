@@ -524,7 +524,34 @@
                     <ul>
                         {{ range . }}
                             <li>
-                                {{ if in . ":" }}
+                                {{ if reflect.IsMap . }}
+                                    {{ range $heading, $entries := . }}
+                                        <strong>{{ $heading }}</strong>
+                                        <ul style="margin-top: 0; margin-bottom: 0;">
+                                            {{ range $entries }}
+                                                <li>
+                                                    {{ if in . ":" }}
+                                                        {{ replaceRE "^([^:]+):" "<strong>$1:</strong>" . | safeHTML }}
+                                                    {{ else }}
+                                                        {{ . }}
+                                                    {{ end }}
+                                                </li>
+                                            {{ end }}
+                                        </ul>
+                                    {{ end }}
+                                {{ else if reflect.IsSlice . }}
+                                    <ul style="margin-top: 0; margin-bottom: 0;">
+                                        {{ range . }}
+                                            <li>
+                                                {{ if in . ":" }}
+                                                    {{ replaceRE "^([^:]+):" "<strong>$1:</strong>" . | safeHTML }}
+                                                {{ else }}
+                                                    {{ . }}
+                                                {{ end }}
+                                            </li>
+                                        {{ end }}
+                                    </ul>
+                                {{ else if in . ":" }}
                                     {{ replaceRE "^([^:]+):" "<strong>$1:</strong>" . | safeHTML }}
                                 {{ else }}
                                     {{ . }}
