@@ -16,21 +16,6 @@ ratio: landscape
 power: 64
 order: 4
 
-spring: 0
-summer: 0
-fall:   0
-winter: 1
-all:    1
-
-status: sale
-products:
-    - id: 810837299
-      name: Original Painting
-      price: $200
-    - id: 811010309
-      name: Open Reproduction
-      price: $29
-
 supplies:
   - medium: M. Graham Watercolor Paint
   - on: Arches Cold Press Watercolor Paper
@@ -43,9 +28,13 @@ mediums: [watercolor]
 materials: [cotton paper]
 colors: [white, blue, yellow]
 collections: [landscapes, colors of winter]
-locations: [kolp]
 tags: [snow, winter, birch, tree, cool, cold, outdoors, sky, calm, lonely, isolation, peaceful, melancholy, cool]
 
+products:
+    - shopify_id: 10327999905924
+      name: Original
+    - shopify_id: 10328488509572
+      name: Print
 ---
 
 This 7x5-inch original watercolor captures the serene, hushed atmosphere of a mid-winter morning. Focused on the striking contrast between the dark, textured bark of twin birch trees and the soft, expansive white of a fresh snowfall, this piece invites the viewer into a moment of absolute stillness.
@@ -59,4 +48,3 @@ This painting is apart of the [Colors of Winter Collection](/collections/colors-
 This 7x5-inch watercolor was born from a winter drive through the rolling hills of Pennsylvania. While traveling, I found myself captivated by the striking, skeletal beauty of the white sycamores and birches that line the frozen creek beds and snowy fields of the Northeast.
 
 In this piece, I wanted to capture the specific way their bark—mottled with deep greys and warm earth tones—stands in stark defiance against the blinding white of a fresh snowfall. The twin trunks act as a focal point of strength in an otherwise soft, muted world. It is a tribute to those quiet roadside scenes that make a long winter drive feel like a journey through a living gallery.
-

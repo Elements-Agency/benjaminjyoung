@@ -14,12 +14,6 @@ power: 144
 favorite: true
 order: 99
 
-spring: 0
-summer: 0
-fall:   1
-winter: 1
-all:    1
-
 supplies:
   - medium: M Graham Gouache Paints
   - on: Baohong Cold Press Cotton Paper Block
@@ -31,19 +25,7 @@ mediums: [gouache]
 materials: [paper]
 colors: [tan, orange, blue]
 collections: [portraits]
-locations: [kolp]
 tags: [woman, lady, young, smile, face, expression, gaze, headscarf, pose, intense, indoors, classical]
-
-status: sale
-products:
-    - id: 765371062
-      name: Original Painting
-      price: $600
-    - id: 765361108
-      name: Open Reproduction
-      price: $30
-
-repro: true
 
 tag: A gouache initiation practice using Vermeer's Girl with a Pearl Earring as a reference.
 ---

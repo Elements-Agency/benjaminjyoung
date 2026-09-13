@@ -247,44 +247,15 @@
 
 					<section class="wrapper style1 align-center" role="region">
                         <div id="more" class="inner">
-							{{ $homeCount := 0 }}
-							{{ $itemsSold := 0 }}
 							{{ $originalsCount := 0 }}
-							{{ $reproductionsCount := 0 }}
-							{{ $artbuyers := slice }}
 
 							{{ $mainSections := .Site.Params.mainSections | default (slice "post") }}
                             {{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
                             {{ range $i,$p := $section }}
-								{{ if eq .Params.status "sold" }}
-									{{ $itemsSold = add $itemsSold 1 }}
+								{{ if .Params.buyer }}
 									{{ $originalsCount = add $originalsCount 1 }}
-									{{ if not (in $artbuyers .Params.buyer) }}
-										{{ $artbuyers = $artbuyers | append .Params.buyer }}
-									{{ end }}
-								{{ end }}
-
-								{{ if .Params.reproductions }}
-									{{ range $index, $container := .Params.reproductions }}
-										{{ range $size, $collection := $container }}
-											{{ range $j, $buyers := $collection }}
-												{{ range $k, $buyer := $buyers }}
-													{{ if and (ne ($buyer | lower) "ben young") (ne ($buyer | lower) "reserved") }}
-														{{ $itemsSold = add $itemsSold 1 }}
-													{{ end }}
-													
-													{{ $reproductionsCount = add $reproductionsCount 1 }}
-													{{ if not (in $artbuyers $buyer) }}
-														{{ $artbuyers = $artbuyers | append $buyer }}
-													{{ end }}
-												{{ end}}
-											{{ end }}
-										{{ end }}
-									{{ end }}
 								{{ end }}
 							{{ end }}
-
-							{{ $homeCount = len $artbuyers }}
 
 							<h2 class="strong">My Objective is Emotions First, Values Second</h2>
 							<quote>

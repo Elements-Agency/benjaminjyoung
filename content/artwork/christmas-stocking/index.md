@@ -12,12 +12,6 @@ ratio: portrait
 subfeatured: false
 order: 99
 
-spring: 0
-summer: 0
-fall:   0
-winter: 1
-all:    1
-
 supplies:
   - medium: M Graham Watercolor Paint
   - on: Baohong Cold Press Cotton Paper Block
@@ -28,10 +22,7 @@ mediums: [watercolor]
 materials: [paper]
 colors: [red, white, black]
 collections: [still lifes]
-locations: [office]
 tags: [christmas, stocking, holidary, cheer, dark, winter, ben, resident, artist]
-
-status: sold
 ---
 
 This watercolor painting depicts a bold and festive red Christmas stocking adorned with the name "Ben" in dark, block letters at its center. The stocking's textured surface showcases rich, layered shades of red, giving it a realistic and slightly worn appearance, while its white, fluffy cuff contrasts beautifully with a subtle mix of cream tones, evoking a cozy, wintry feel. The dark, almost black background creates a dramatic contrast, making the stocking the focal point and giving the composition a sense of warmth and nostalgia.

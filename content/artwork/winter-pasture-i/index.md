@@ -16,24 +16,6 @@ ratio: landscape
 power: 46
 order: 99
 
-spring: 0
-summer: 0
-fall:   0
-winter: 1
-all:    1
-
-buyer: Kathy DiLoretto (East Sparta, OH)
-
-status: sold
-products:
-    - id: 810824846
-      name: Original Painting
-      price: $200
-      sold: true
-    - id: 811008414
-      name: Open Reproduction
-      price: $29
-
 supplies:
   - medium: M. Graham Watercolor Paint
   - on: Arches Cold Press Watercolor Paper
@@ -46,15 +28,15 @@ mediums: [watercolor]
 materials: [cotton paper]
 colors: [white, blue, black]
 collections: [landscapes, colors of winter]
-locations: [sold]
 tags: [snow, winter, cow, trees, water, creek, pasture, cool, cold, outdoors, sky, calm, lonely, isolation, peaceful, melancholy, cool]
 
-reproductions:
-  - 5x7in:
-    - 1: Ben Young (East Sparta, OH)
-    - 2: Brenda Frasher (Bellefontaine, OH)
-    - 3: Susan Voccola (Ocean Park, Maine)
+products:
+    - shopify_id: 10327999512708
+      name: Original
+    - shopify_id: 10328488870020
+      name: Print
 
+buyer: Kathy DiLoretto (East Sparta, OH)
 ---
 
 This painting is an intimate study of solitude and winter light. The small 7x5 scale enhances the feeling of looking through a window into a peaceful, frozen moment. By balancing the heavy detail of the cow with the minimalist, ethereal treatment of the background, it successfully captures the quiet gravity of a winter morning.

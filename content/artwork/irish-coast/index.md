@@ -15,12 +15,6 @@ ratio: landscape
 landscape: false
 order: 99
 
-spring: 1
-summer: 1
-fall:   0
-winter: 0
-all:    1
-
 supplies:
   - medium: Faber-Castell Oil Pastels
   - on: SunWorks Construction Paper
@@ -33,14 +27,7 @@ mediums: [oil pastel]
 materials: [construction paper]
 colors: [blue, green, brow, white]
 collections: [the colors of water]
-locations: [kolp]
 tags: [coast, sea, ocean, waves, rock, water, sun, sky, summer, warm, outdoors, ireland, dim, relaxing, cool]
-
-status: sale
-products:
-    - id: 680225708
-      name: Original Drawing
-      price: $300
 ---
 
 **Irish Coast** is a oil pastel artwork of a beautiful landscape somewhere off an Ireland coastline. Featuring a wave crashing against two standing rocks, finally kissing a pebbled beach. The sky is mostly clear except a few faint clouds, bright and cool feeling. As you can almost feel the nice cool wind blown against your face, to balance out the warmth of the sun as it hits you and the rolling green cliffs standing against the sea.

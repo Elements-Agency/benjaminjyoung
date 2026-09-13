@@ -12,15 +12,7 @@ featured: true
 order: 2
 ratio: portrait
 power: 2497
-sold: 11
 favorite: true
-status: sold
-
-spring: 1
-summer: 1
-fall:   1
-winter: 0
-all:    1
 
 supplies:
   - medium: M Graham Watercolor Paints
@@ -33,35 +25,9 @@ mediums: [watercolor]
 materials: [paper]
 colors: [brown, black, white]
 collections: [shades of olson, timeline, portraits]
-locations: [sold, print]
 tags: [woman, lady, old, window, wood, face, expression, gaze, house, glasses, earthy, outdoors, summer, rustic]
 
 buyer: Gary Stewart (Columbus, OH)
-
-limited: 60
-reproductions:
-  - 9x12in:
-    - 1: Ben Young (East Sparta, OH)
-    - 2: Denise Hunt (Canton, OH)
-    - 3: Teresa Hoffman (Bothell, WA)
-    - 4: Doug Crombie (Gahanna, OH)
-    - 5: Amanda Thompson (Cleveland Heights, OH)
-    - 6: Pandora Daniels (Garfield Heights, OH)
-    - 7: The Pines Healthcare Center (Canton, OH)
-    - 8: Reserved
-    - 9: Kelly Martin (Canton, OH) *
-    - 10: Alison (Canton, OH) *
-    - 11: Sheri (Canton, OH) *
-    - 12: Polly Schlafhauser (Troy, MI)
-    - 13: Reserved
-  - 12x16in:
-    - 1: Ben Young (East Sparta, OH)
-  - 18x24in:
-    - 1: Ben Young (East Sparta, OH)
-    - 2: Amy Moroney (Vienna, VA)
-    - 3: Reserved
-  - 30x40in:
-    - 1: Ben Young (East Sparta, OH)
 
 tag: I knew an old wise woman once. She told me to make my way back to Strasbourg, so I did. From her pine framed window, she bid farewell, "Okay now. I'll be seeing you." With her gaze and expression of both endearment and concern, but excitement for me. Looking on in to the day's sun. This painting perfectly captures those feelings and experiences with my dear old friend.
 
@@ -85,7 +51,3 @@ The painting depicts an altered version of an old and wise friend of mine.
 I approached this much like I did [Hallelujah](/artwork/hallelujah/), working inch by inch. At least on the face. The background was done wet-on-wet, and building up as it dried.
 
 {{< progress >}}
-
-## Accolades ##
-
-* Featured in the [Bryn Du Art Show](https://www.bryndu.com/bryn-du-art-show) at the [Bryn Du Mansion](https://www.bryndu.com)

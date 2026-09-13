@@ -12,14 +12,7 @@ featured: true
 order: 8
 ratio: portrait
 power: 850
-sold: 3
 favorite: true
-
-spring: 1
-summer: 1
-fall:   1
-winter: 0
-all:    1
 
 supplies:
   - medium: M. Graham Watercolor Paint
@@ -33,24 +26,7 @@ mediums: [watercolor]
 materials: [cotton paper]
 colors: [red, white, blue]
 collections: [timeline, figures]
-locations: [cyrus, print]
 tags: [human, figure, clown, ben, court, trial, bad, joke, guilty, menace, grim, loss, neutral, indoors, day]
-
-limited: 60
-reproductions:
-  - 9x12in:
-    - 1: Ben Young (East Sparta, OH)
-    - 2: Doug Meads (Chalk Hill, PA)
-    - 3: First Friday (Canton, OH)
-    - 4: Reserved
-    - 5: Nicholas Defibaugh (Parkersburg, WV)
-    - 6: Elizabeth Mulivai (Salt Lake, UT)
-  - 12x16in:
-    - 1: Ben Young (East Sparta, OH)
-  - 18x24in:
-    - 1: Ben Young (East Sparta, OH)
-  - 30x40in:
-    - 1: Ben Young (East Sparta, OH)
 
 tag: Circus Act is a watercolor painting of a clown standing trial, inspired by Edward Hopper's Soir Bleu.
 
@@ -74,7 +50,3 @@ The inspiration for this painting will be expanded upon at a future date, but it
 Another large watercolor work. Always working in layers upon layers with watercolor.
 
 {{< progress >}}
-
-## Accolades ##
-
-* Featured in the [Stark County Bar Association's](https://starkctybar.com) Law in Art Exhibit hosted at [Cyrus Custom Framing & Art Gallery](https://www.cyruscustom.com).

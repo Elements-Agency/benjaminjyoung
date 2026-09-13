@@ -15,12 +15,6 @@ ratio: landscape
 power: 206
 order: 13
 
-spring: 1
-summer: 1
-fall:   1
-winter: 1
-all:    1
-
 supplies:
   - medium: Artist Loft Watercolor Paint
   - on: Baohong Cold Press Watercolor Block
@@ -32,30 +26,15 @@ mediums: [watercolor]
 materials: [cotton paper]
 colors: [blue, grey]
 collections: [the colors of water, landscapes]
-locations: [sold, print]
 tags: [schooner, boat, ocean, waves, mist, morning, sea, water, mountains, outdoors, spring, cool]
 
-status: sold
 products:
-    - id: 763016635
-      name: Open Reproduction
-      price: $30
-    - id: 670400475
-      name: Original Painting
-      price: $400
-      sold: true
+    - shopify_id: 10413615513732
+      name: Original
+    - shopify_id: 10448664264836
+      name: Postcard
 
 buyer: Jay Spencer (Canton, OH)
-repro: true
-
-reproductions:
-  - 9x12in:
-    - 1: Ben Young (East Sparta, OH)
-    - 2: Fred Boone (Canton, OH)
-    - 3: Chloe Oberting (Cuyahoga Falls, OH)
-    - 4: Reserved
-  - 12x16in:
-    - 1: Ben Young (East Sparta, OH)
 ---
 
 This watercolor painting, **Sailing Away**, depicts a solitary schooner boat navigating through misty waters. The scene is serene and atmospheric, with soft, muted colors creating a sense of calm and tranquility. The sailboat, with its sails billowing gently, is positioned towards the right side of the painting, moving forward through the slightly choppy, dark blue waves. The background features indistinct, hazy mountains that blend seamlessly with the overcast sky, enhancing the overall misty ambiance. The use of watercolor techniques adds a fluid and ethereal quality to the painting, capturing the essence of a quiet journey through a tranquil seascape.

@@ -13,12 +13,6 @@ ratio: portrait
 power: 604
 order: 6
 
-spring: 1
-summer: 1
-fall:   0
-winter: 0
-all:    1
-
 supplies:
   - medium: Artist Loft Paint
   - on: Baohong Cold Press Watercolor Block
@@ -31,30 +25,15 @@ mediums: [watercolor]
 materials: [cotton paper]
 colors: [green, blue, black]
 collections: [the colors of water, landscapes]
-locations: [sold, print]
 tags: [lake, erie, rock, beach, cleveland, ohio, sandusky, great lakes, water, waves, nature, outdoors, overcast, costal, cool, summer]
 
-status: sold
 products:
-    - id: 763016633
-      name: Open Reproduction
-      price: $40
-    - id: 689389017
-      name: Original Painting
-      price: $580
-      sold: true
+    - shopify_id: 10327112384644
+      name: Original
+    - shopify_id: 10328653398148
+      name: Print
 
 buyer: Eric Anderson (Columbus, OH)
-repro: true
-
-limited: 60
-reproductions:
-  - 9x12in:
-    - 1: Ben Young (East Sparta, OH)
-    - 2: Artober (Massillon, OH)
-    - 3: Pines Craft Show (Canton, OH)
-  - 12x16in:
-    - 1: Ben Young (East Sparta, OH)
 ---
 
 This watercolor painting captures a striking and serene scene of a solitary rock formation rising from the shallow waters. The rock, dark and textured, is crowned by a small group of slender trees, their delicate branches reaching skyward. The surrounding water is a soft, muted green, gently reflecting the rock's rugged base. The sky above is overcast, with layers of pale gray clouds stretching across the horizon, adding a contemplative mood to the piece. The overall composition evokes a sense of isolation and resilience, as the rock and trees stand alone, enduring the passage of time in a tranquil, almost ethereal landscape.

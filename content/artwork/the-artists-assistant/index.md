@@ -14,15 +14,7 @@ featured: true
 order: 18
 ratio: portrait
 power: 1880
-sold: 3
 favorite: true
-status: sold
-
-spring: 1
-summer: 1
-fall:   1
-winter: 0
-all:    1
 
 supplies:
   - medium: Artist Loft Watercolor Paint
@@ -34,29 +26,13 @@ mediums: [watercolor]
 materials: [cotton paper]
 colors: [black, blue, green]
 collections: [timeline, animals]
-locations: [sold, print]
 tags: [princess, cat, pet, cup, hat, head, brush, stick figure, tennis, ball, inception, humor, funny, lighthearted, childish, morbid, foreshadowing, loss, ben, aj, marcus, audrey, izzy, indoors, warm, number two]
-
-limited: 60
-
-reproductions:
-  - 9x12in:
-    - 1: Ben Young (East Sparta, OH)
-    - 2: Steph Sweany (Canton, OH)
-    - 3: Canton Comedy Boom (Canton, OH)
-    - 4: Reserved
-  - 12x16in:
-    - 1: Ben Young (East Sparta, OH)
-  - 18x24in:
-    - 1: Ben Young (East Sparta, OH)
-  - 30x40in:
-    - 1: Ben Young (East Sparta, OH)
-
-buyer: Jocelyn Maciol (Los Angeles, CA)
 
 tag: This painting has everything you need. Cute cats, funny hats, and a dark sense of morbid humor. It features my long haired domestic black and white cat, Princess. Stuck in a scene of her by my side as I paint. Adorning my watercolor cup on her head. Her favorite Penn tennis ball resting not far away. Peering on to the cold press cotton paper watercolor block, that is painted with my late dog, Izzy, along with family. I know deep down Princess shares in my miss of Izzy. The stick figures childishly painted on the exposed cotton paper, integrated in a method of inception in to the painting. Adding to the silliness and partly dry humor.
 
 story: /story/the-artists-assistant/
+
+buyer: Jocelyn Maciol (Los Angeles, CA)
 ---
 
 This painting has everything you need. Cute cats, funny hats, and a dark sense of morbid humor. It features my long haired domestic black and white cat, Princess. Stuck in a scene of her by my side as I paint. Adorning my [Faber-Castell Collapsable Water Cup](https://www.fabercastell.com/products/collapsible-water-cup-770310) on her head. Her favorite Penn tennis ball resting not far away. Peering on to the cold press cotton paper watercolor block, that is painted with my late dog, Izzy, along with family. I know deep down Princess shares in my miss of Izzy. The stick figures childishly painted on the exposed cotton paper, integrated in a method of inception in to the painting. Adding to the silliness and partly dry humor.
@@ -76,7 +52,3 @@ On the surface and by design, it's meant to be humorous and lighthearted. Someth
 The painting was mainly done while studying a reference photo I took. Actually photographed while I was painting another painting. I incorporated other elements, such as the paint brush and watercolor block, by studying on the same location as the photo was taking.
 
 I frequently have the need to sit on the carpeted floor and paint. I just find this more comforting, which is something just originating from my childhood. Princess is most of the time laying or sitting by my side, when I paint in this spot. Normally nestling up against me or cuddling with her second-hand tennis ball, past down from me.
-
-## Accolades ##
-
-* Featured in the [2024 Patina Resident Artist Exhibit](https://www.facebook.com/events/512553025101953) at Patina Arts Centre.

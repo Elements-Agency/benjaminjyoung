@@ -15,12 +15,6 @@ ratio: portrait
 order: 99
 landscape: false
 
-winter: 1
-spring: 0
-summer: 0
-fall:   1
-all:    1
-
 supplies:
   - medium: Marie's Watercolor and Gouache Paint
   - on: Baohong Cold Press Watercolor Block
@@ -33,15 +27,11 @@ mediums: [watercolor]
 materials: [cotton paper]
 colors: [green, blue, grey, black]
 collections: [the colors of water]
-locations: [sold]
 tags: [lake, erie, rock, beach, cleveland, ohio, sandusky, great lakes, water, waves, nature, outdoors, overcast, costal, warm, winter]
 
-status: sold
 products:
-    - id: 645990284
-      name: Original Painting
-      price: $400
-      sold: true
+    - id: 10413596934276
+      name: Original
 
 buyer: Ted Turner (Aurora, OH)
 ---

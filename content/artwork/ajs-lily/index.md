@@ -24,7 +24,6 @@ mediums: [graphite pencil]
 materials: [paper]
 colors: [black, white]
 collections: [lilies, drawings, reserved]
-locations: [home]
 tags: [lily, flower, spring, day, aj, number two]
 ---
 

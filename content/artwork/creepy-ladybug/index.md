@@ -13,12 +13,6 @@ ratio: portrait
 subfeatured: false
 order: 99
 
-spring: 1
-summer: 1
-fall:   0
-winter: 0
-all:    1
-
 supplies:
   - medium: M Graham Watercolor Paints
   - on: Baohong Cold Press Cotton Paper Block
@@ -30,27 +24,11 @@ mediums: [watercolor]
 materials: [cotton paper]
 colors: [red, black]
 collections: []
-locations: [kolps]
 tags: [bug, ladybug, insect, creepy]
 
-status: sale
-products:
-    - id: 804840178
-      name: Original Painting
-      price: $300
-    - id: 763020612
-      name: Open Reproduction
-      price: $30
+tag: A 1 hour watercolor painting of a ladybug.
 
 buyer: Marcus Young (Canton, OH)
-repro: true
-
-reproductions:
-  - 5x5in:
-    - 1: Ben Young (East Sparta, OH)
-    - 2: Amy Moroney (Vienna, VA)
-
-tag: A 1 hour watercolor painting of a ladybug.
 ---
 
 A 1 hour watercolor painting of a ladybug. Not for sale as I painted it for my son to hang up at his mother's house. His mother absolutely loves ladybugs! 🐞

@@ -12,14 +12,7 @@ featured: true
 order: 6
 ratio: landscape
 power: 2213
-sold: 5
 favorite: true
-
-spring: 1
-summer: 0
-fall:   1
-winter: 0
-all:    1
 
 supplies:
   - medium: M Graham Watercolor Paints
@@ -32,26 +25,7 @@ mediums: [watercolor]
 materials: [paper]
 colors: [brown, yellow, white, black]
 collections: [figures facing from view, shades of olson, landscapes]
-locations: [kolp, print]
 tags: [hills, father, jay, howard, farm, house, old, man, figure, tree, muted, countryside, building, outdoors, autumn, solitary, rustic, farmhouse, appalachia, east sparta, ohio]
-
-limited: 60
-reproductions:
-  - 9x12in:
-    - 1: Ben Young (East Sparta, OH)
-    - 2: Artober (Massillon, OH)
-    - 3: Debra Mee (Raleigh, NC)
-    - 4: John Schnabel (Marion, OH)
-    - 5: Grand Opening (Canton, OH)
-    - 6: Pines Craft Show (Canton, OH)
-    - 7: Reserved
-    - 8: Reserved
-  - 12x16in:
-    - 1: Ben Young (East Sparta, OH)
-  - 18x24in:
-    - 1: Ben Young (East Sparta, OH)
-  - 30x40in:
-    - 1: Ben Young (East Sparta, OH)
 
 tag: This painting features an Appalachia landscape, very similar to the rolling hills I grew up in. The house is inspired by a lot of the old farmhouses that were still standing during my childhood but in need of repairs. The man is based off my elderly father, hiking his way across our family farm land.
 

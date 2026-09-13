@@ -12,12 +12,6 @@ ratio: square
 subfeatured: false
 order: 99
 
-spring: 0
-summer: 1
-fall:   1
-winter: 1
-all:    1
-
 supplies:
   - medium: Winsor and Newton Winton Oil
   - on: Tiny Canvas
@@ -29,14 +23,7 @@ mediums: [oil]
 materials: [canvas]
 colors: [brown, white, black]
 collections: [tiny canvas]
-locations: [kolp]
 tags: [american, football, sports, ball, dark, indoors, canton, massillon, ohio, warm]
-
-status: sale
-products:
-    - id: 677888659
-      name: Original Painting
-      price: $100
 ---
 
 **Tiny Football** was another quick artwork done on a tiny canvas. A tribute to one of Canton's large driving parts of their economy, American Football. Since our city hosts the [Pro Football Hall of Fame](https://www.profootballhof.com), which is the biggest reason for tourism and festivals in our tiny city, I figured it was a good idea to have this sitting out on my studio space as a pick-me-up. Sports!

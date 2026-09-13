@@ -13,12 +13,6 @@ ratio: portrait
 power: 165
 order: 2
 
-spring: 1
-summer: 1
-fall:   1
-winter: 0
-all:    1
-
 supplies:
   - medium: Artist Loft Watercolor Paint
   - on: Baohong Cold Press Watercolor Block
@@ -30,19 +24,7 @@ mediums: [watercolor]
 materials: [cotton paper]
 colors: [red, black, blue, green]
 collections: []
-locations: [kolp]
 tags: [rose, flower, stem, rain, night, dark, outdoors, summer, warm]
-
-status: sale
-products:
-    - id: 688767257
-      name: Original Painting
-      price: $300
-    - id: 763020629
-      name: Open Reproduction
-      price: $30
-
-repro: true
 ---
 
 This evocative watercolor painting features a single red rose, captured in a moment of quiet beauty as it stands against a dark, rain-soaked background. The petals, rendered with delicate brushstrokes, are adorned with glistening raindrops that reflect light, adding a touch of realism and tenderness to the scene. The contrast between the vibrant red of the rose and the deep, almost black, background highlights the flower's resilience and elegance, making it a powerful symbol of love and endurance. The soft, muted colors of the stem and leaves further enhance the focus on the rose, making this painting a striking piece that conveys emotion and depth.

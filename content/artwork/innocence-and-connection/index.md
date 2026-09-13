@@ -22,17 +22,11 @@ mediums: [oil]
 materials: [canvas]
 colors: [black, white]
 collections: []
-locations: [sold]
 tags: [human, man, figure, woman, hand, holding, love, emotion, happiness, genius, masterpiece, complex]
 
-status: sold
-products:
-    - id: 738046313
-      name: Original Painting
-      price: $100,000
-      sold: true
-
 tag: A true masterpiece, with an amazing amount of details and complexity hidden beneath layers of paint.
+
+buyer: Destroyed
 ---
 
 *This was my **April Fools joke** for 2025.* The canvas will be repurposed to paint "Silver Ballet."

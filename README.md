@@ -36,17 +36,11 @@ mediums: [watercolor, oil, oil pastel, graphite pencil, watercolor pencil, gouac
 materials: [cotton paper, canvas]
 colors: [red, green, blue]
 collections: [winter escape, primary winter birds, tiny canvas]
-locations: [patina, massmu, home, sold]
 tags: [subject, nouns, actions, season, weather, mood, emotion]
 
-hours: 6
-frame cost: $110
-
-status: sale
 products:
-  - id: 648124011
+  - shopify_id: 648124011
     name: Original Painting
-    price: $199
 
 buyer: Who Bought It
 ---

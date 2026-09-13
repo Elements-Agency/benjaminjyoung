@@ -21,7 +21,6 @@ mediums: [watercolor, graphite]
 materials: [cotton paper]
 colors: [pink, red, tan]
 collections: [watercolor sketches, reserved]
-locations: [home]
 tags: [woman, figure, lounging, nude, pose, recline, indoors, zorn, number thirteen]
 ---
 

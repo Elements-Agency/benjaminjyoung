@@ -24,17 +24,13 @@ mediums: [watercolor pencil]
 materials: [paper]
 colors: [white, blue, green]
 collections: [lilies, reserved]
-locations: [sold]
 tags: [lily, flower, tomb, resting, aj, surreal, spring, cool, loss, number two]
 
-buyer: Fred Boone (Canton, OH)
-
-status: sold
 products:
-    - id: 654233365
-      name: Original Painting
-      price: $200
-      sold: true
+    - shopify_id: 10413605159044
+      name: Original
+
+buyer: Fred Boone (Canton, OH)
 ---
 
 **Tomb Flowers** is a watercolor pencil drawing, with a brushed and washed colorful background, of white lilies. That's all I really have to say about this artwork piece.

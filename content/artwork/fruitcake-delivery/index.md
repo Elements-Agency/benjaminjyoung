@@ -12,14 +12,7 @@ featured: true
 order: 54
 ratio: landscape
 power: 556
-sold: 4
 favorite: true
-
-spring: 0
-summer: 0
-fall:   0
-winter: 1
-all:    1
 
 supplies:
   - medium: M Graham Watercolor Paints
@@ -32,25 +25,7 @@ mediums: [watercolor]
 materials: [paper]
 colors: [blue, white, black, yellow]
 collections: [figures facing from view, reserved, timeline, landscapes]
-locations: [kolp, print]
 tags: [house, fruitcake, delivery, truck, driver, figure, package, light, windows, tree, snow, street, outdoors, winter, solitary, rustic, whimsical, shenanigans, massillon, ohio, number five]
-
-limited: 60
-reproductions:
-  - 9x12in:
-    - 1: Ben Young (East Sparta, OH)
-    - 2: Pam Pratt (Winchester, KY)
-    - 3: Muriel Keller (Winterthur, Switzerland)
-    - 4: Rob Volzer (Canton, OH)
-    - 5: December First Friday (Canton, OH)
-    - 6: Reserved
-    - 7: Karen Heyne (Atwater, CA)
-  - 12x16in:
-    - 1: Ben Young (East Sparta, OH)
-  - 18x24in:
-    - 1: Ben Young (East Sparta, OH)
-  - 30x40in:
-    - 1: Ben Young (East Sparta, OH)
 
 tag: This quaint winter scene showcases a Fruitcake delivery truck and it's driver preparing to drop off it's abundant order of 30 fruitcakes to the anxiously awaiting recipient in the blue snow covered house. A wasteful purchase that would later go on to be donated to the local food bank, with an absurd and humorous smile. The package handler's confident movements inferring that him and homeowner inside are intertwined in scandalous love affair. The calmness of the winter night should be heard in mind. It's left up to the viewer to form their own opinions of what the delivery figure may be thinking or what will transpire when the door bell rings.
 
@@ -74,7 +49,3 @@ The scene is painted and altered from my own memory of some shenanigans I've bee
 Sticking to my natural style, I start off with a wash using wet-on-wet. Then building up middle layers using wet-on-dry, to then finalize the painting with a lot of dry-on-dry brush marks. The painting consists of hundreds if not thousands of layers of watercolor painting. Building on each time to the depth of values and to as fine detail as I can achieve with the lack of control of the watercolor medium. As I have been becoming more and more familiar with my preference of tones, I am introducing more and more earthy pigments, especially yellow ochre and burnt umber in this piece.
 
 {{< progress >}}
-
-## Accolades ##
-
-* Featured in the [2024 Patina Resident Artist Exhibit](https://www.facebook.com/events/512553025101953) at Patina Arts Centre.

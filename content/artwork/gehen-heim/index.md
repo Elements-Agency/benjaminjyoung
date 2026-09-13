@@ -15,11 +15,6 @@ ratio: landscape
 featured: false
 order: 21
 
-winter: 1
-spring: 0
-summer: 0
-fall:   0
-
 supplies:
   - medium: Artist Loft Watercolor Paint
   - on: Baohong Cold Press Watercolor Block
@@ -32,15 +27,11 @@ mediums: [watercolor]
 materials: [cotton paper]
 colors: [white, grey, black]
 collections: [winter escape, figures facing from view, landscapes]
-locations: [sold]
 tags: [human, figure, snow, winter, storm, dusk, sky, night, forest, outdoors, dark, frozen, lake, marina, dock, dim, lonely, isolation, sad, melancholy, warm]
 
-status: sold
 products:
-    - id: 645990286
-      name: Original Painting
-      price: $400
-      sold: true
+    - shopify_id: 10413596704900
+      name: Original
 
 buyer: Fred Boone (Bolivar, OH)
 ---

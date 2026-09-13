@@ -12,14 +12,7 @@ featured: true
 order: 9
 ratio: portrait
 power: 1989
-sold: 2
 favorite: true
-
-spring: 0
-summer: 0
-fall:   1
-winter: 1
-all:    1
 
 supplies:
   - medium: M Graham Oil Paints
@@ -33,23 +26,7 @@ mediums: [oil]
 materials: [canvas]
 colors: [black, blue, tan, brown, grey]
 collections: [the dark trio, one last december, figures facing from view, reserved, timeline, figures]
-locations: [kolp, print]
 tags: [song, chair, scissors, woman, man, ben, figure, rope, dark, melancholy, sad, tied, bound, broken, intimate, fixing, trauma, cut, indoors, warm, ben, fat, loss, massillon, number five]
-
-limited: 60
-reproductions:
-  - 9x12in:
-    - 1: Ben Young (East Sparta, OH)
-    - 2: Johnathan Becker (Artober. Massillon, OH)
-    - 3: Michelle Hartman (Barberton, OH)
-    - 4: Reserved
-    - 5: Jay Mason (San Antonio, Texas)
-  - 12x16in:
-    - 1: Ben Young (East Sparta, OH)
-  - 18x24in:
-    - 1: Ben Young (East Sparta, OH)
-  - 30x40in:
-    - 1: Ben Young (East Sparta, OH)
 
 tag: She tied you to the kitchen chair. She broke your throne, and she cut your hair. And from your lips she drew the Hallelujah! - The man, is myself, when my hair was longer and wild with curls. A time when I was younger. The framing design displays a moment between myself and the woman that is focused and touches briefly on the duality of emotions seeing this painting evokes in me. Much like the meaning and interpretation of the song.
 
@@ -73,13 +50,3 @@ The template for the narrative is set to the song's verse, from Hallelujah, "She
 I approached this painting the same way I did with my [Massillon Helmet](/artwork/massillon-helmet/). The background was painted a little bit more impasto and looser, as well as the definition of details were not as focused moving away from the focal point of the two faces in the center. This being my biggest painting so far is also my most time consuming thus so far. It was obviously well worth the time spent! I truly love this painting and it's journey. Both how I came to the narrative, how long I held off to practice before tackling it, an of course my love for the actual painting it's self. This design has been in the back of my mind for over six months. It's touching to finally see the finished fruition.
 
 {{< progress >}}
-
-## Accolades ##
-
-* Painted live at the [2024 Patina Arts Centre Fundraiser](https://www.facebook.com/events/869821251632238) in the front window area of Patina Arts Centre.
-* Featured in the [2024 Rod Meadows Art Call](https://www.juilliardartscenter.com/ron-meadows-art-call-2024.html) located at [Juilliard Arts Center](https://www.juilliardartscenter.com).
-* Featured in the [2024 Patina Resident Artist Exhibit](https://www.facebook.com/events/512553025101953) at Patina Arts Centre.
-* Featured in the [Surface and Structure: A Dialogue in Texture Exhibit](https://artsinstark.com/surface-and-structure-a-dialogue-in-texture-opens-january-16-at-the-cultural-center-gallery/?fbclid=IwY2xjawHs4upleHRuA2FlbQIxMAABHVuxYcp1388QiP1wHwfzSl_zD5yaXzqCEaEzwQRiffFD4fi50l4KhCRbIQ_aem_y6Loqj6coj59e3x-HEd1yg) at the [Canton Cultural Center Gallery](https://culturalcenterforthearts.com).
-* Featured in the [2025 Door 2 Art Show](https://www.door2art.com/artshow) at [Door 2 Art](https://www.door2art.com).
-* **Honorable Mention** at the [2025 Door 2 Art Show](https://www.door2art.com/artshow).
-* Featured in the [Cold Decembers Exhibit](https://www.facebook.com/events/873544318670710/) at [Brewtifully](https://www.tracydawnbrewer.com).

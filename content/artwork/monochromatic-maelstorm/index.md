@@ -24,7 +24,6 @@ mediums: [watercolor]
 materials: [paper]
 colors: [blue, grey, black]
 collections: [abstract attempts]
-locations: [home]
 tags: [water, swirl, splash, broad, neutral, chaotic, storm, cool]
 ---
 

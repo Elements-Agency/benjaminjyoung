@@ -25,15 +25,7 @@ mediums: [watercolor]
 materials: [paper]
 colors: [red, green, brown, blue]
 collections: []
-locations: [home]
 tags: [farm, house, brick, home, east sparta, ohio, swing, walnut, tree, countryside, building, outdoors, spring, nostalgia, warm, appalachia]
-
-status: sale
-products:
-    - id: 648124011
-      name: Original Painting
-      price: $300
-      sold: true
 
 buyer: Susan Young (East Sparta, OH)
 ---

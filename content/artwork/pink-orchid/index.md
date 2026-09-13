@@ -12,12 +12,6 @@ ratio: landscape
 subfeatured: false
 order: 99
 
-spring: 1
-summer: 1
-fall:   0
-winter: 0
-all:    1
-
 supplies:
   - medium: M Graham Watercolor
   - on: Baohong Hot Press Watercolor Block
@@ -29,14 +23,7 @@ mediums: [watercolor, graphite]
 materials: [cotton paper]
 colors: [pink, white, green]
 collections: [watercolor sketches]
-locations: [kolp]
 tags: [orchid, flower, stem, petals, plant, summer, outdoors]
-
-status: sale
-products:
-    - id: 696913012
-      name: Original Painting
-      price: $100
 ---
 
 **Pink Orchid** is a quick and easy graphite pencil sketch painted in with watercolor. This simple small artwork is a nice little decoration to hang in your room. Orchids being one of my favorite flowers, usually white though, I decided to go with a pink one instead to avoid having to paint a background.

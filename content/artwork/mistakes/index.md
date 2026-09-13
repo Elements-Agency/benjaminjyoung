@@ -12,27 +12,11 @@ featured: true
 order: 7
 ratio: portrait
 power: 370
-sold: 0
-
-spring: 0
-summer: 0
-fall:   1
-winter: 1
-all:    1
 
 supplies:
   - medium: M Graham Watercolor Paints
   - on: Baohong Cold Press Cotton Paper Block
 size: 12x16in (31x41cm)
-
-status: sale
-products:
-    - id: 833239832
-      name: Original Painting
-      price: $900
-    - id: 828716057
-      name: Open Reproduction
-      price: $40
 
 series: []
 categories: [realism, narrative, painting]
@@ -40,7 +24,6 @@ mediums: [watercolor]
 materials: [paper]
 colors: [brown, black, blue]
 collections: [portraits]
-locations: [kolp]
 tags: [man, mugshot, old, face, expression, earthy, indoors, cool, rustic]
 
 tag: A mugshot featuring the subtle expression of pain and mistakes.

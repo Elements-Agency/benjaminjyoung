@@ -12,15 +12,7 @@ featured: true
 order: 12
 ratio: portrait
 power: 678
-sold: 2
 favorite: true
-status: sold
-
-spring: 1
-summer: 1
-fall:   1
-winter: 0
-all:    1
 
 supplies:
   - medium: M Graham Watercolor Paints
@@ -33,29 +25,14 @@ mediums: [watercolor]
 materials: [cotton paper]
 colors: [white, blue, tan]
 collections: [timeline, figures]
-locations: [sold, print]
 tags: [human, man, ben, figure, tennis, racket, summer, emotion, agony, failure, warm, outdoors, day]
-
-buyer: Gary Stewart (Columbus, OH)
-
-reproductions:
-  - 9x12in:
-    - 1: Ben Young (East Sparta, OH)
-    - 2: Reserved
-    - 3: Charmaine Lim (Temecula, CA)
-  - 12x16in:
-    - 1: Ben Young (East Sparta, OH)
-  - 18x24in:
-    - 1: Ben Young (East Sparta, OH)
-  - 30x40in:
-    - 1: Ben Young (East Sparta, OH)
-
-limited: 60
 
 tag: A few years ago I had accomplished a dream of mine and won my way with my beloved team to the United States Tennis Association National Championships. I had spent many years prior, captaining and building teams just to fall short of winning districts each year. Finally winning our season, sectionals, districts, state, and then winning the Midwest championship; we finally did it. This painting isn't about the feeling of defeat on the court, as that's always a chance to improve and grow. I didn't lose in that aspect, because I was nearly undefeated that year and was almost a guaranteed win on doubles. This painting represents the agony, disappointment, disgust, and deceit, I felt when I learned I could not go to play alongside my friends in the championship in Scottsdale Arizona. I had let my team down and missed out on a once in a lifetime accomplishment.
 
 story: /story/defeat/
 fillPosition: Top
+
+buyer: Gary Stewart (Columbus, OH)
 ---
 
 _Based on October 7th, 2022:_ A few years ago I had accomplished a dream of mine and won my way with my beloved team to the United States Tennis Association National Championships. I had spent many years prior, captaining and building teams just to fall short of winning districts each year. Finally winning our season, sectionals, districts, state, and then winning the Midwest championship; we finally did it. This painting isn't about the feeling of defeat on the court, as that's always a chance to improve and grow. I didn't lose in that aspect, because I was nearly undefeated that year and was almost a guaranteed win on doubles. This painting represents the agony, disappointment, disgust, and deceit, I felt when I learned I could not go to play alongside my friends in the championship in Scottsdale Arizona. I had let my team down and missed out on a once in a lifetime accomplishment.
@@ -71,7 +48,3 @@ This captivating watercolor painting portrays a tennis player standing tall in t
 I tested some new techniques on this one, including relying on glazing to get my shadows an extra sense of depth and texture.
 
 {{< progress >}}
-
-## Accolades ##
-
-* Featured in the New Artist Showcase at [The Hub Art Factory](https://www.thehubcanton.com).

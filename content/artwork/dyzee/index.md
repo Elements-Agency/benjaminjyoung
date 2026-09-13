@@ -24,7 +24,6 @@ mediums: [watercolor]
 materials: [paper]
 colors: [blue, yellow, grey]
 collections: [abstract attempts]
-locations: [home]
 tags: [daisy, flower, splash, broad, cool]
 ---
 

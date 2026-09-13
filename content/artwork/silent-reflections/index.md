@@ -15,12 +15,6 @@ order: 112
 ratio: landscape
 power: 14
 
-spring: 1
-summer: 0
-fall:   1
-winter: 1
-all:    1
-
 supplies:
   - medium: Artist Loft Watercolor Paint
   - on: Baohong Cold Press Watercolor Block
@@ -32,22 +26,15 @@ mediums: [watercolor]
 materials: [cotton paper]
 colors: [grey, blue]
 collections: [the colors of water, landscapes]
-locations: [sold]
 tags: [lake, water, boat, human, figure, dark, mist, ripples, forrest, hills, outdoors, spring, dusk, cool]
 
-buyer: Mark Danis (Arlington, VA)
-
-status: sold
 products:
-    - id: 763020631
-      name: Open Reproduction
-      price: $30
-    - id: 670473779
-      name: Original Painting
-      price: $200
-      sold: true
+    - shopify_id: 10413611221124
+      name: Original
+    - shopify_id: 10448652599428
+      name: Postcard
 
-repro: true
+buyer: Mark Danis (Arlington, VA)
 ---
 
 This watercolor painting, titled "**Silent Reflections**," captures a serene and contemplative scene of two individuals in a small boat on a vast, calm body of water. The palette consists primarily of muted blues and grays, creating a tranquil and misty atmosphere. Light touches of yellow kiss the finer details to show the dancing of light. The reflections on the water's surface are subtly rendered, blending seamlessly with the surrounding landscape. In the background, the faint outlines of forested hills fade into the horizon, shrouded in a gentle haze. This watercolor painting is a  peaceful and introspective work of art.

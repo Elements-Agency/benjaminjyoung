@@ -13,22 +13,16 @@ ratio: portrait
 power: 2060
 order: 1
 
-spring: 1
-summer: 0
-fall:   1
-winter: 1
-all:    1
-
 supplies:
   - medium: M. Graham Watercolor Paint
   - on: Artist Loft Canvas Panel
 size: 14x11in (35.56cmx27.94cm)
 
-status: sale
 products:
-    - id: 804903766
-      name: Original Painting
-      price: $300
+    - shopify_id: 10327997546628
+      name: Original
+    - shopify_id: 10328590516356
+      name: Print
 
 series: [still life]
 categories: [realism, still life, painting]
@@ -36,7 +30,6 @@ mediums: [watercolor]
 materials: [canvas]
 colors: [green, red, yellow]
 collections: [still lifes]
-locations: [kolp]
 tags: [whiskey, bottle, cup, apple, wood, table, glass, cork, window, dining, room, warm, rich, indoors]
 ---
 

@@ -12,14 +12,7 @@ featured: true
 order: 8
 ratio: landscape
 power: 887
-sold: 4
 favorite: true
-
-spring: 1
-summer: 0
-fall:   1
-winter: 1
-all:    1
 
 supplies:
   - medium: M. Graham Watercolor Paint
@@ -33,26 +26,7 @@ mediums: [watercolor]
 materials: [cotton paper]
 colors: [black, brown]
 collections: [timeline, figures]
-locations: [cyrus, print]
 tags: [human, figure, man, ben, office, work, room, desk, shadow, melancholy, success, warm, indoors, day]
-
-reproductions:
-  - 9x12in:
-    - 1: Ben Young (East Sparta, OH)
-    - 2: Victor Moore (Canton, OH)
-    - 3: Reserved
-    - 4: Drake Danner (Boston, MA)
-    - 5: Victoria Finecy (Dallas, TX)
-    - 6: Nicholas Defibaugh (Parkersburg, WV)
-  - 12x16in:
-    - 1: Ben Young (East Sparta, OH)
-  - 18x24in:
-    - 1: Ben Young (East Sparta, OH)
-    - 2: Craig Antilla (Little Elm, TX)
-  - 30x40in:
-    - 1: Ben Young (East Sparta, OH)
-
-limited: 60
 
 tag: For 15 years, I built a career in software engineering. Working my way up the white-collar ladder. At the height of my career, working up to the Director or Executive level. At times, running my own businesses. My same-aged friends coined the nickname “Young Money” for me, which I was never big on being titled. Sooner or later, I believe all of us working in an office setting eventually reflect and ask ourselves, “What am I doing?” Questioning if what we’re doing is even meaningful. Maybe longing for the outdoors and venturing into the rest of the world beyond the concrete highrise walls in that corporate park. This painting is meant to exemplify that moment of reflection.
 
@@ -74,8 +48,3 @@ _Title was changed from "Young Money" to "Corporate Contempt" on July 10th, 2025
 Another large watercolor work. Always working in layers upon layers with watercolor.
 
 {{< progress >}}
-
-## Accolades ##
-
-* Featured in the [2025 Artists of Rubber City Exhibit](https://www.summitartspace.org/aorc-juried-exhibition-2025/) hosted at [Summit Artspace](https://www.summitartspace.org).
-* Featured in the [Stark County Bar Association's](https://starkctybar.com) Law in Art Exhibit hosted at [Cyrus Custom Framing & Art Gallery](https://www.cyruscustom.com).

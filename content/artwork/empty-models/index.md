@@ -17,12 +17,6 @@ subfeatured: true
 power: 46
 order: 99
 
-spring: 0
-summer: 0
-fall:   1
-winter: 1
-all:    1
-
 supplies:
   - medium: Oil Pastels
   - on: Construction Paper
@@ -34,15 +28,7 @@ mediums: [oil pastel]
 materials: [construction paper]
 colors: [green, brown, white]
 collections: [still lifes]
-locations: [sold]
 tags: [wine, bottle, pitcher, jug, wood, bowl, tablecloth, dropcloth, dining, room, table, backdrop, warm, indoors]
-
-status: sold
-products:
-  - id: 645927912
-    name: Original Painting
-    price: $80
-    sold: true
 
 buyer: Teresa Vitulli (New Hope, PA)
 ---

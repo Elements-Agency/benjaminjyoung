@@ -22,7 +22,6 @@ mediums: [water soluble pencil]
 materials: [wood pulp paper]
 colors: [black, white]
 collections: []
-locations: [home]
 tags: [water, droplet, liquid, ripples]
 ---
 

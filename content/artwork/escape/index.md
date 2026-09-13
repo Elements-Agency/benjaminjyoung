@@ -16,12 +16,6 @@ ratio: landscape
 power: 363
 order: 20
 
-winter: 1
-spring: 0
-summer: 0
-fall:   0
-all:    1
-
 supplies:
   - medium: Marie's Watercolor Paint
   - on: Baohong Cold Press Watercolor Block
@@ -34,29 +28,15 @@ mediums: [watercolor]
 materials: [cotton paper]
 colors: [white, blue]
 collections: [winter escape, figures facing from view, landscapes]
-locations: [sold, print]
 tags: [human, figure, snow, winter, fence, tracks, cool, cold, outdoors, gate, calm, lonely, isolation, peaceful, melancholy, cool]
 
-status: sold
 products:
-    - id: 763020627
-      name: Open Reproduction
-      price: $30
-    - id: 645943624
-      name: Original Painting
-      price: $420
-      sold: true
+    - shopify_id: 10332588802180
+      name: Print
+    - shopify_id: 10332591882372
+      name: Original
 
 buyer: Fred Boone (Bolivar, OH)
-repro: true
-
-reproductions:
-  - 9x12in:
-    - 1: Ben Young (East Sparta, OH)
-    - 2: Marcus Young (East Sparta, OH)
-    - 3: Reserved
-  - 12x16in:
-    - 1: Ben Young (East Sparta, OH)
 ---
 
 **Escape** is a painting that depicts a tranquil winter scene, including a solitary figure is shown walking away from the viewer, journeying along a curved path that has been carved through the snow from what may have been a vehicle. With overcast skies, soft grays and cobalts that blend seamlessly with the snowy ground,  tire tracks that are visible in the snow, all reinforcing the sense that the figure has journeyed alone. The overall mood of this watercolor painting is one of solitude and silence, evoking a sense of introspection or the quiet beauty of nature in winter.

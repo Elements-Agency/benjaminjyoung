@@ -16,21 +16,6 @@ ratio: landscape
 power: 211
 order: 2
 
-spring: 0
-summer: 0
-fall:   0
-winter: 1
-all:    1
-
-status: sale
-products:
-    - id: 805529148
-      name: Original Painting
-      price: $200
-    - id: 805526958
-      name: Open Reproduction
-      price: $29
-
 supplies:
   - medium: M. Graham Watercolor Paint
   - on: Arches Cold Press Watercolor Paper
@@ -43,9 +28,13 @@ mediums: [watercolor]
 materials: [cotton paper]
 colors: [white, blue, yellow]
 collections: [landscapes, colors of winter]
-locations: [kolp]
 tags: [snow, winter, barn, trees, cool, cold, outdoors, sky, calm, lonely, isolation, peaceful, melancholy, cool]
 
+products:
+    - shopify_id: 10327998169220
+      name: Original
+    - shopify_id: 10328487985284
+      name: Print
 ---
 
 A quiet winter morning unfolds in this original watercolor, where a solitary barn rests beneath a pale sky and fresh snow softens the land. The scene feels unhurried and still, as if the world has paused for a moment of breath. Cool blue shadows drift across the snow while the weathered barn stands steady, carrying traces of warmth and history against the cold.

@@ -437,7 +437,7 @@ figcaption {
             {{ $subsection := where .Site.RegularPages "Section" "in" $mainSections }}
             {{ $subsection := where $subsection "Params.subfeatured" true }}
 
-			{{ range $i,$p := (sort (sort $section "Params.power" "desc") "Params.sold" "desc") }}
+			{{ range $i,$p := (sort $section "Params.power" "desc") }}
 				{{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
 
 				<figure style="margin:0;">

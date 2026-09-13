@@ -13,12 +13,6 @@ ratio: portrait
 subfeatured: false
 order: 99
 
-spring: 1
-summer: 1
-fall:   0
-winter: 0
-all:    1
-
 supplies:
   - medium: Faber-Castell Oil Pastels
   - on: Strathmore Pastel Paper
@@ -30,14 +24,7 @@ mediums: [oil pastel]
 materials: [paper]
 colors: [blue, green, yellow]
 collections: []
-locations: [kolp]
 tags: [flower, bouquet, iris, leaf, petal, stem]
-
-status: sale
-products:
-    - id: 745421974
-      name: Original Drawing
-      price: $200
 
 tag: My first attempt to mix both watercolor and oil pastels.
 ---

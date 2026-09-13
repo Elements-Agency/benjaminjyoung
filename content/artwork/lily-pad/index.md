@@ -16,12 +16,6 @@ ratio: landscape
 power: 527
 order: 99
 
-spring: 1
-summer: 1
-fall:   0
-winter: 0
-all:    1
-
 supplies:
   - medium: Artist Loft Watercolor Paint
   - on: Baohong Cold Press Watercolor Block
@@ -33,26 +27,11 @@ mediums: [watercolor, gouache]
 materials: [cotton paper]
 colors: [pink, green, white, brown]
 collections: [lilies]
-locations: [kolp]
 tags: [lily, flower, pad, water, pond, stones, outdoors, summer, cool]
 
-status: sale
 products:
-    - id: 672644323
-      name: Original Painting
-      price: $300
-    - id: 763016637
-      name: Open Reproduction
-      price: $30
-
-repro: true
-
-reproductions:
-  - 9x12in:
-    - 1: Ben Young (East Sparta, OH)
-    - 2: Richard Reikowski (Tallmadge, OH)
-    - 3: Marcus Young (East Sparta, OH)
-    - 4: Reserved
+    - shopyify_id: 10413610893444
+      name: Original
 ---
 
 This exquisite watercolor painting captures the tranquil beauty of a pond scene, in **Lily Pad**. Dominated by lush, green lily pads that float serenely on the water's surface, the composition is centered around a single, vibrant pink water lily in full bloom. The delicate petals of the lily showcase a gradient of pink hues, leading to a bright yellow core, contrasting beautifully with the dark, reflective water below. The intricate details of the lily pads, including the subtle veins and slight imperfections, add a touch of realism to the scene. I have used a combination of light and shadow to create depth, making the lily and its surrounding pads appear almost three-dimensional. This painting evokes a sense of peace and natural harmony.

@@ -12,14 +12,7 @@ featured: true
 order: 9
 ratio: landscape
 power: 1008
-sold: 1
 favorite: true
-
-spring: 0
-summer: 0
-fall:   0
-winter: 1
-all:    1
 
 supplies:
   - medium: M. Graham Watercolor Paint
@@ -33,18 +26,7 @@ mediums: [watercolor]
 materials: [cotton paper]
 colors: [white, black, tan]
 collections: [feb 26, one last december, timeline, figures]
-locations: [kolp, print]
 tags: [human, figure, ben, forest, night, dark, tree, snow, dundee falls, winter, melancholy, cold, outdoors]
-
-reproductions:
-  - 9x12in:
-    - 1: Ben Young (East Sparta, OH)
-    - 2: December First Friday (Canton, OH)
-    - 3: Reserved
-  - 12x16in:
-    - 1: Ben Young (East Sparta, OH)
-
-limited: 60
 
 tag: The snowfall to me is such a funny thing. Its tranquility is something I’ve grown to love. In adolescence, it became my medium for meditation. To escape the busyness of the world with the flutter of falling flakes. Yet, I’ve realized it’s what’s responsible for troubling my heart. I lost the love of my life only due to the icy weather. With the snow, only did that violent cluster of twisted automobile came into existence. Many years later, waiting for snowfall for my last moments became an obsession. I found a place to spectate that last snowfall, where water falls in the forest to carve stone. As I lean against an old maple’s trunk, I lay watching guard of a stone grotto temple at the base of the falling stream. This temple has no worshipers but only prayers from the whistling branches. There is a sacredness I find in this place’s beauty. A sacredness I myself no longer share. The lone guard of this temple has grown old and tired. Complacent with the agonies of life. The frozen flakes drift down to smother most sounds. Blanketing me with its comfort. The wind kisses my neck, running it’s chilling fingers down my spine. My dulled and greyed eyes grow heavy. From the little light left from the winter night sky, glistens the landscape to reveal a faint figure in the dark’s thickness. It’s my love greeting me to a long-awaited reunion. Reaching her hands out for mine, closer and closer as her figure enclosed in on my restful state. Until her spirit wraps around me. Her warm embrace only cools. First my skin, then the fibers of my being. Now finally the cold creeping into my slowing heart.
 
@@ -68,7 +50,3 @@ _Title was changed from "Snowfall" to "Dying In A Snowfall" on July 10th, 2025._
 Another large watercolor work. Always working in layers upon layers with watercolor. I started by blacking out the darkest value elements, after the sketch.
 
 {{< progress >}}
-
-## Accolades ##
-
-* Featured in the [Cold Decembers Exhibit](https://www.facebook.com/events/873544318670710/) at [Brewtifully](https://www.tracydawnbrewer.com).

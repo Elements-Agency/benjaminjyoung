@@ -17,12 +17,6 @@ subfeatured: true
 power: 436
 order: 4
 
-spring: 0
-summer: 0
-fall:   1
-winter: 1
-all:    1
-
 supplies:
   - medium: Kaloir Watercolor Pencils
   - on: Artist Loft Cold Press Watercolor Paper
@@ -34,27 +28,13 @@ mediums: [watercolor pencil]
 materials: [paper]
 colors: [red]
 collections: [primary winter birds]
-locations: [sold, print]
 tags: [northern, red, cardinal, bird, outdoors, nature, winter, snow, branch, perched, overcast, warm]
 
-status: sold
 products:
-    - id: 763020609
-      name: Open Reproduction
-      price: $30
-    - id: 763016649
-      name: Original Drawing
-      price: $300
-      sold: true
+    - shopify_id: 10413595820164
+      name: Original
 
 buyer: Bruce Treiber (Massillon, OH)
-repro: true
-
-reproductions:
-  - 9x12in:
-    - 1: Ben Young (East Sparta, OH)
-    - 2: Michele Oakley (Aynor, SC)
-    - 3: Reserved
 ---
 
 **Northern Cardinal** is a colored pencil drawing of a Northern Cardinal perched on a branch. The bird is depicted with a vibrant red plumage, which is characteristic of the male of the species. Its beak is orange-yellow, and the facial mask is black, extending from the beak around the eyes. The drawing captures the distinct crest of the cardinal, which is a pointy tuft of feathers on top of its head. The branch is rendered with a muted gray tone, contrasting with the bright red of the bird. The background is a soft, textured gray, allowing the cardinal to stand out prominently. The pencil strokes have created a sense of softness and detail, particularly in the feathers and the blending of colors.

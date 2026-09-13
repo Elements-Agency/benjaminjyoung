@@ -16,12 +16,6 @@ power: 115
 order: 99
 ratio: square
 
-winter: 0
-spring: 1
-summer: 1
-fall:   0
-all:    1
-
 supplies:
   - medium: Winsor & Newton Winton Oil
   - on: Artist Loft Canvas Panel
@@ -33,15 +27,7 @@ mediums: [oil]
 materials: [canvas panel]
 colors: [red, white]
 collections: [still lifes]
-locations: [sold]
 tags: [cherry, stem, bright, indoors, warm, summer]
-
-status: sold
-products:
-    - id: 645940862
-      name: Original Painting
-      price: $310
-      sold: true
 
 buyer: Richard Reikowski (Tallmadge, OH)
 ---

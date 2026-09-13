@@ -16,18 +16,11 @@ landscape: true
 power: 10
 order: 99
 
-spring: 1
-summer: 0
-fall:   0
-winter: 1
-all:    0
-
 categories: [realism, landscape, painting]
 mediums: [watercolor]
 materials: [cotton paper]
 colors: [grey]
 collections: [landscapes]
-locations: [kolp]
 tags: [winter, landscape, outdoors, cold, morning, fog]
 ---
 

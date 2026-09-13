@@ -23,7 +23,6 @@ mediums: [water soluble pencil]
 materials: [wood pulp paper]
 colors: [black, white]
 collections: []
-locations: [home]
 tags: [water, splash, liquid, droplet, wine, glass, clear, day]
 ---
 

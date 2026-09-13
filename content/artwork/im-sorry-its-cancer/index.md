@@ -12,14 +12,7 @@ featured: true
 order: 5
 ratio: portrait
 power: 9000
-sold: 0
 favorite: true
-
-spring: 1
-summer: 0
-fall:   1
-winter: 1
-all:    1
 
 supplies:
   - medium: M Graham Watercolor Paints
@@ -32,7 +25,6 @@ mediums: [watercolor]
 materials: [paper]
 colors: [black, red, white]
 collections: [timeline, portraits]
-locations: [kolp, print]
 tags: [man, portrait, face, expression, gaze, indoors, dark]
 
 tag: Bad news.

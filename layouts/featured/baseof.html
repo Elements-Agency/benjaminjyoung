@@ -2221,7 +2221,7 @@ input, select, textarea {
 							</p>
 						</article>
 
-                        {{ range $i,$p := (sort (sort $section "Params.power" "desc") "Params.sold" "desc") }}
+                        {{ range $i,$p := (sort $section "Params.power" "desc") }}
                             {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
                             {{ $thumbnail := $thumbnail.Fill "1024x1024 Center" }}
                             {{ $thumbnail := $thumbnail.Resize "1024x webp q90" }}
@@ -2232,7 +2232,7 @@ input, select, textarea {
                                 </a>
                                 <h3 style="text-shadow: #000 0 0 5px !important; font-weight: bold;">
 									{{ .Title }}
-									{{ if eq .Params.status "sold" }}
+									{{ if .Params.buyer }}
 										({{ .Date.Format "2006" }})
 										<br>
 										<span style="color:rgb(230, 0, 0);">SOLD</span>
@@ -2255,7 +2255,7 @@ input, select, textarea {
 							</p>
 						</article>
 
-						{{ range $i,$p := (sort (sort $landscapes "Params.power" "desc") "Params.sold" "desc") }}
+						{{ range $i,$p := (sort $landscapes "Params.power" "desc") }}
                             {{ $thumbnail := .Resources.GetMatch "painting.jpg" }}
                             {{ $thumbnail := $thumbnail.Fill "1024x1024 Center" }}
                             {{ $thumbnail := $thumbnail.Resize "1024x webp q90" }}
@@ -2266,7 +2266,7 @@ input, select, textarea {
                                 </a>
                                 <h3 style="text-shadow: #000 0 0 5px !important; font-weight: bold;">
 									{{ .Title }}
-									{{ if eq .Params.status "sold" }}
+									{{ if .Params.buyer }}
 										({{ .Date.Format "2006" }})
 										<br>
 										<span style="color:rgb(230, 0, 0);">SOLD</span>
@@ -2300,13 +2300,11 @@ input, select, textarea {
                                 </a>
                                 <h3 style="text-shadow: #000 0 0 5px !important; font-weight: bold;">
 									{{ .Title }}
-									{{ if eq .Params.status "sold" }}
+									{{ if .Params.buyer }}
 										({{ .Date.Format "2006" }})
 										<br>
 										<span style="color:rgb(230, 0, 0);">SOLD</span>
-										{{ if .Params.repro }}
-											- Reproductions Available
-										{{ end }}
+										- Reproductions Available
 									{{ end }}
 								</h3>
                                 <p>{{ .Description }}</p>

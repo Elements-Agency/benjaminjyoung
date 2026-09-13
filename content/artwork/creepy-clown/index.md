@@ -13,12 +13,6 @@ ratio: square
 subfeatured: false
 order: 99
 
-spring: 0
-summer: 1
-fall:   1
-winter: 0
-all:    1
-
 supplies:
   - medium: Winsor and Newton Winton Oil
   - on: Tiny Canvas
@@ -30,15 +24,7 @@ mediums: [oil]
 materials: [canvas]
 colors: [red, white]
 collections: [tiny canvas, reserved]
-locations: [sold]
 tags: [creepy, clown, scary, face, nose, smile, teeth, it, warm, number twenty two]
-
-status: sold
-products:
-    - id: 669390403
-      name: Original Painting
-      price: $60
-      sold: true
 
 buyer: Jeni Burns (Canton, OH)
 ---

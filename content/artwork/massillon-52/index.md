@@ -25,15 +25,7 @@ mediums: [watercolor, gouache]
 materials: [cotton paper]
 colors: [orange, black, green]
 collections: [massillon football]
-locations: [sold]
 tags: [massillon, ohio, tigers, joe, hallett, football, sports, field, autumn, team, win, figure, outdoors, crowd, trees, warm]
-
-status: sold
-products:
-    - id: 654299515
-      name: Original Painting
-      sold: true
-      price: $390
 
 buyer: Joe Hallett (Massillon, OH)
 ---
