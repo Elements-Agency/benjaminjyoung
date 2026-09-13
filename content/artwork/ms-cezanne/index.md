@@ -12,6 +12,7 @@ images: ['painting.jpg']
 videos: ['https://www.instagram.com/p/C3lKtCjvEd5/']
 
 ratio: portrait
+disliked: true
 
 supplies:
   - medium: Faber-Castell Oil Pastels

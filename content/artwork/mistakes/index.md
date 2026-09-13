@@ -11,7 +11,7 @@ images: ['painting.jpg']
 featured: true
 order: 7
 ratio: portrait
-power: 370
+power: 400
 
 supplies:
   - medium: M Graham Watercolor Paints

@@ -11,6 +11,7 @@ aliases: [/drip]
 images: ['painting.jpg']
 
 ratio: landscape
+disliked: true
 
 supplies:
   - medium: Water Soluble Pencils

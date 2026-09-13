@@ -11,6 +11,7 @@ aliases: [/jennys-contemplation, /artwork/jennys-contemplation, /artwork/jenis-c
 images: ['painting.jpg']
 
 ratio: landscape
+disliked: true
 
 supplies:
   - medium: Artist Loft Watercolor Paint

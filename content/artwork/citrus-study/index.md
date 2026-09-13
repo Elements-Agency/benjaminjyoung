@@ -14,6 +14,7 @@ videos: [https://www.instagram.com/p/C3aFj71ssZR/, https://youtu.be/CF7wcElqy8Y]
 ratio: landscape
 subfeatured: false
 order: 99
+disliked: true
 
 supplies:
   - medium: Artist Loft Watercolor Paint

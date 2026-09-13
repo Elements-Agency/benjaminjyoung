@@ -13,7 +13,7 @@ ratio: landscape
 size: 20x14in (51x34cm)
 
 landscape: true
-power: 10
+power: 100
 order: 99
 
 categories: [realism, landscape, painting]

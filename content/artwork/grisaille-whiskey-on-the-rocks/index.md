@@ -10,7 +10,7 @@ images: ['painting.jpg']
 
 subfeatured: true
 ratio: portrait
-power: 2060
+power: 100
 order: 1
 
 supplies:

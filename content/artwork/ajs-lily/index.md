@@ -11,7 +11,6 @@ aliases: [/ajs-lily]
 images: ['painting.jpg']
 
 ratio: portrait
-disliked: true
 
 supplies:
   - medium: Graphite Pencil

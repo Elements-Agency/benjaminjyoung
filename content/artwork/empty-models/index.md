@@ -14,7 +14,6 @@ videos: [https://www.instagram.com/p/C3XZXDsuuum/]
 ratio: portrait
 
 subfeatured: true
-power: 46
 order: 99
 
 supplies:

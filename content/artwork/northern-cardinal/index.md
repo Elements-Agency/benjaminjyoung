@@ -14,7 +14,7 @@ videos: [https://www.instagram.com/p/C3fAU-6ON7E/, https://youtube.com/shorts/Js
 ratio: portrait
 
 subfeatured: true
-power: 436
+power: 108
 order: 4
 
 supplies:

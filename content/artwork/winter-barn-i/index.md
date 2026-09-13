@@ -13,7 +13,7 @@ videos: []
 
 landscape: true
 ratio: landscape
-power: 211
+power: 229
 order: 2
 
 supplies:

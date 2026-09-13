@@ -12,7 +12,7 @@ images: ['painting.jpg']
 
 subfeatured: true
 ratio: landscape
-power: 1187
+power: 104
 order: 3
 
 supplies:
