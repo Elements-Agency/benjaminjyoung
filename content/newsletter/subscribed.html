@@ -55,7 +55,7 @@ outputs: ['html']
   <div style="background: #fafafa; border: 2px dashed #aeaeae; border-radius: 8px 0 0 8px; padding: 0 2em; font-size: 2em; font-weight: bold; flex: 1; text-align: center;">
     <span id="split-discount-code">ARTINSIDER</span>
   </div>
-  <button id="split-copy-btn" style=" border-radius: 0 8px 8px 0; padding: 1em 2em; font-size: 1em; font-weight: bold; cursor: pointer; transition: background 0.3s; height:100%; margin: 0;">
+  <button id="split-copy-btn" onclick="trackInterested();" style=" border-radius: 0 8px 8px 0; padding: 1em 2em; font-size: 1em; font-weight: bold; cursor: pointer; transition: background 0.3s; height:100%; margin: 0;">
     Copy
   </button>
 </div>
@@ -75,11 +75,202 @@ outputs: ['html']
 </script>
 
 <p style="text-align: center;">
-  After you copy the code, you can apply it at checkout in my <a href="https://shop.benjaminjyoung.com">online store</a> to get your private offer.
+  After you copy the code, you can apply it at checkout in my <a href="https://shop.benjaminjyoung.com/discount/artinsider" onclick="trackLikely();">online store</a> to get your private offer.
 </p>
 
 <p style="text-align: center;">
-  <a class="button large" href="https://shop.benjaminjyoung.com">
+  <a class="button large" href="https://shop.benjaminjyoung.com/discount/artinsider" onclick="trackLikely();">
     Discover the Collection
   </a>
 </p>
+
+<div id='collection-component-1789614204194'></div>
+<script type="text/javascript">
+/*<![CDATA[*/
+(function () {
+  var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
+  if (window.ShopifyBuy) {
+    if (window.ShopifyBuy.UI) {
+      ShopifyBuyInit();
+    } else {
+      loadScript();
+    }
+  } else {
+    loadScript();
+  }
+  function loadScript() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = scriptURL;
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(script);
+    script.onload = ShopifyBuyInit;
+  }
+  function ShopifyBuyInit() {
+    var client = ShopifyBuy.buildClient({
+      domain: '4x0mwz-4a.myshopify.com',
+      storefrontAccessToken: '2fa315359f42a02ddc2c43ef3a91e400',
+    });
+    ShopifyBuy.UI.onReady(client).then(function (ui) {
+      ui.createComponent('collection', {
+        id: '655422128260',
+        node: document.getElementById('collection-component-1789614204194'),
+        moneyFormat: '%24%7B%7Bamount%7D%7D',
+        options: {
+  "product": {
+    "styles": {
+      "product": {
+        "@media (min-width: 601px)": {
+          "max-width": "calc(25% - 20px)",
+          "margin-left": "20px",
+          "margin-bottom": "50px",
+          "width": "calc(25% - 20px)"
+        },
+        "img": {
+          "height": "calc(100% - 15px)",
+          "position": "absolute",
+          "left": "0",
+          "right": "0",
+          "top": "0"
+        },
+        "imgWrapper": {
+          "padding-top": "calc(75% + 15px)",
+          "position": "relative",
+          "height": "0"
+        }
+      },
+      "button": {
+        "font-family": "Roboto, sans-serif",
+        "font-weight": "bold",
+        "font-size": "18px",
+        "padding-top": "17px",
+        "padding-bottom": "17px",
+        ":hover": {
+          "background-color": "#7e623f"
+        },
+        "background-color": "#8c6d46",
+        ":focus": {
+          "background-color": "#7e623f"
+        },
+        "border-radius": "0px"
+      },
+      "quantityInput": {
+        "font-size": "18px",
+        "padding-top": "17px",
+        "padding-bottom": "17px"
+      }
+    },
+    "buttonDestination": "checkout",
+    "text": {
+      "button": "Buy now"
+    },
+    "googleFonts": [
+      "Roboto"
+    ]
+  },
+  "productSet": {
+    "styles": {
+      "products": {
+        "@media (min-width: 601px)": {
+          "margin-left": "-20px"
+        }
+      }
+    }
+  },
+  "modalProduct": {
+    "contents": {
+      "img": false,
+      "imgWithCarousel": true,
+      "button": false,
+      "buttonWithQuantity": true
+    },
+    "styles": {
+      "product": {
+        "@media (min-width: 601px)": {
+          "max-width": "100%",
+          "margin-left": "0px",
+          "margin-bottom": "0px"
+        }
+      },
+      "button": {
+        "font-family": "Roboto, sans-serif",
+        "font-weight": "bold",
+        "font-size": "18px",
+        "padding-top": "17px",
+        "padding-bottom": "17px",
+        ":hover": {
+          "background-color": "#7e623f"
+        },
+        "background-color": "#8c6d46",
+        ":focus": {
+          "background-color": "#7e623f"
+        },
+        "border-radius": "0px"
+      },
+      "quantityInput": {
+        "font-size": "18px",
+        "padding-top": "17px",
+        "padding-bottom": "17px"
+      }
+    },
+    "googleFonts": [
+      "Roboto"
+    ],
+    "text": {
+      "button": "Add to cart"
+    }
+  },
+  "option": {},
+  "cart": {
+    "styles": {
+      "button": {
+        "font-family": "Roboto, sans-serif",
+        "font-weight": "bold",
+        "font-size": "18px",
+        "padding-top": "17px",
+        "padding-bottom": "17px",
+        ":hover": {
+          "background-color": "#7e623f"
+        },
+        "background-color": "#8c6d46",
+        ":focus": {
+          "background-color": "#7e623f"
+        },
+        "border-radius": "0px"
+      }
+    },
+    "text": {
+      "total": "Subtotal",
+      "button": "Checkout"
+    },
+    "googleFonts": [
+      "Roboto"
+    ]
+  },
+  "toggle": {
+    "styles": {
+      "toggle": {
+        "font-family": "Roboto, sans-serif",
+        "font-weight": "bold",
+        "background-color": "#8c6d46",
+        ":hover": {
+          "background-color": "#7e623f"
+        },
+        ":focus": {
+          "background-color": "#7e623f"
+        }
+      },
+      "count": {
+        "font-size": "18px"
+      }
+    },
+    "googleFonts": [
+      "Roboto"
+    ]
+  }
+},
+      });
+    });
+  }
+})();
+/*]]>*/
+</script>
