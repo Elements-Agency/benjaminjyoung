@@ -15,6 +15,7 @@ In chronological order, by era and completion:
 
 #### Learning to be Quite  (September 13th, 1990 - September 13, 2008) ####
 - [ ] **Ray** - An old man beats a helpless child.
+- [ ] **Speachless** - The moment I'm shocked I will be a father.
 
 #### First Time (May 13th, 2005 - December 25th, 2010 ) ####
 - [ ] **Unfaithful** - A girl regrets her decision.
@@ -43,7 +44,7 @@ In chronological order, by era and completion:
 #### Bitter Honeydew (January 19th, 2020 - May 23rd, 2024) ####
 - [x] **Corporate Contempt** - A man in a suit stands isolated in a high-rise office.
 - [ ] **Boujee** - A poolboy lays fallen on the ground in the presence of a man in a suite.
-- [ ] **Fruitcake Delivery** - A man delivers 30 fruitcakes to a house.
+- [x] **Fruitcake Delivery** - A man delivers 30 fruitcakes to a house.
 - [ ] **Smoking Gun** - A pink parcel sits on a doorstep.
 - [ ] **Fear** - A woman screams in fear at a clown performing at a circus.
 - [x] **Circus Act** - A clown stands trial.
