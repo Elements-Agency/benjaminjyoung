@@ -21,7 +21,7 @@ While the underlying emotional themes expressed in the work reflect authentic pe
 
 **4. Limitation of Liability & Third-Party Interpretation**
 
-This statement and disclaimer are explicitly established to protect the artist's rights of free creative expression. The artist assumes no responsibility or liability for any subjective offense taken, personal offense inferred, or perceived damage to reputation resulting from third-party interpretations or misapplications of these stylized works of art. Any association made between fictional characters or narratives and real-world individuals is strictly the result of the viewer's own design and interpretation.
+This statement and disclaimer are explicitly established to protect the artist's rights of free creative expression. The artist and Ben Young Arts LLC assumes no responsibility or liability for any subjective offense taken, personal offense inferred, or perceived damage to reputation resulting from third-party interpretations or misapplications of these stylized works of art. Any association made between fictional characters or narratives and real-world individuals is strictly the result of the viewer's own design and interpretation.
 
 **5. Terms of Access & Anti-Harassment**
 
@@ -29,11 +29,11 @@ This disclaimer is established proactively to safeguard against frivolous legal 
 
 **6. Constitutional & Statutory Protections**
 
-All content on this website—including fine art, visual storytelling, parody, satire, and opinion—is fully protected under the First Amendment of the United States Constitution, as well as applicable state constitutional protections for free speech and artistic expression. The artist asserts full constitutional protection against civil liability for non-factual, expressive, or symbolic creative works. Furthermore, the artist reserves the right to seek legal remedies, attorney’s fees, and sanctions under applicable Anti-SLAPP (Strategic Lawsuit Against Public Participation) statutes against any party attempting to restrict these rights through bad-faith litigation or coercive threats.
+All content on this website—including fine art, visual storytelling, parody, satire, and opinion—is fully protected under the First Amendment of the United States Constitution, as well as applicable state constitutional protections for free speech and artistic expression. The artist asserts full constitutional protection against civil liability for non-factual, expressive, or symbolic creative works. Furthermore, the artist and Ben Young Arts LLC reserves the right to seek legal remedies, attorney’s fees, and sanctions under applicable Anti-SLAPP (Strategic Lawsuit Against Public Participation) statutes against any party attempting to restrict these rights through bad-faith litigation or coercive threats.
 
 **7. Intellectual Property & Copyright Ownership**
 
-All visual artworks, images, text, designs, digital media, and written content displayed on this website are the exclusive intellectual property of the artist and are protected under United States and international copyright laws. Unlawful reproduction, redistribution, modification, public display, or commercial exploitation of any artwork or site content—in whole or in part—without the prior express written permission of the artist is strictly prohibited. The sale or transfer of any original artwork or print reproduction does not transfer copyright or reproduction rights to the buyer, which remain fully retained by the artist.
+All visual artworks, images, text, designs, digital media, and written content displayed on this website are the exclusive intellectual property of Ben Young Arts LLC and are protected under United States and international copyright laws. Unlawful reproduction, redistribution, modification, public display, or commercial exploitation of any artwork or site content—in whole or in part—without the prior express written permission of the artist or Ben Young Arts LLC is strictly prohibited. The sale or transfer of any original artwork or print reproduction does not transfer copyright or reproduction rights to the buyer, which remain fully retained by Ben Young Arts LLC.
 
 For proper licensing information, please read the [Licensing Information page](/contact/licensing/).
 
