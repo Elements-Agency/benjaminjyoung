@@ -25,8 +25,10 @@ accolades:
         - "American Watercolor Society: Featured Artist, 2026 Associate Member’s Exhibition"
         - "Massillon Museum: Selected Artist, 2026 Stark County Artists Exhibition"
     - "Awards & Juried Exhibitions":
+        - "First Place for Theme: 2026 Door 2 Art Show"
         - "First Place in Watercolor Portraiture: 2026 Stark County Fair"
         - "Selected Juried Artist: 2026 Door 2 Art Exhibition"
+        - "Winners Circle Showing: Christ Community Chapel"
 
 collection: Beauty in Darkness
 
