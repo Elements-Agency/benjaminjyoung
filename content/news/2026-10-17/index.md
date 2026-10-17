@@ -2,7 +2,7 @@
 date: 2026-10-17
 title: Amazing October News
 author: Ben Young
-description: Official studio update from Benjamin J. Young: Celebrating cancer remission, 1st place at the Door 2 Art Show, upcoming original auctions, and new narrative works.
+description: Official studio update from Benjamin J. Young - Celebrating cancer remission, 1st place at the Door 2 Art Show, upcoming original auctions, and new narrative works.
 preview_image: inspection.jpg
 preview_alt: 2026 Door 2 Art Show
 images:
