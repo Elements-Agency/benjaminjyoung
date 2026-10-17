@@ -146,9 +146,9 @@ These final pieces in the **[Beauty in Darkness series](/collections/beauty-in-d
 
 ### The Purpose of the Darkness
 
-Then from there it will be back to more lighted pieces. As I mentioned before, my whole body of work perfectly exemplifies “From Darkness to Light”. My work is not meant to focus on the darkness as a whole, but to show the depth of the darkness, to contrast the more lighted moments, so they can be much more appreciated. Hope can only come out of a necessity for it. If it wasn’t for the loss, and the PTSD, I would not be who I am today. And even literally from a technical standpoint, my realism work heavily uses light and darkness to contrast the depth, in sometimes even a Chiaroscuro way.
+Then from there it will be back to more lighted pieces. As I mentioned before, my whole body of work perfectly exemplifies “From Darkness to Light”. My work is not meant to focus on the darkness as a whole, but to show the depth of the darkness, to contrast the more lighted moments, so they can be much more appreciated. Hope can only come out of a necessity for it. If it wasn’t for the loss and the PTSD, I would not be who I am today. And even literally from a technical standpoint, my realism work heavily uses light and darkness to contrast the depth, in sometimes even a Chiaroscuro way.
 
-My work will hopefully one day will help others that may be in a dark place of their own, and show them it’s only temporary.
+My work will hopefully one day help others who may be in a dark place of their own, and be a light for them that it’s only temporary.
 
 
 
