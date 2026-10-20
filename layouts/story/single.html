@@ -159,6 +159,9 @@
                     {{ end }}
                 </h2>
                 <p>{{- .Params.buy -}}</p>
+                {{ if .Params.buybold }}
+                    <p style="font-size: 1.2em; font-weight: bold;">{{- .Params.buybold -}}</p>
+                {{ end }}
 
                 <script>
                     function fireViewProducts() {

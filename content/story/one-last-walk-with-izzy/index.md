@@ -9,6 +9,7 @@ images: ['painting.jpg']
 
 acquire: Bring Izzy's Story Into Your Home — View Limited Edition Prints
 buy: While the original watercolor of 'One Last Walk With Izzy' has found its permanent home, a select number of limited-edition archival reproductions are available. This piece continues to deeply connect with collectors—bring Izzy’s story, and the reminder of unwavering loyalty, into your own space.
+buybold: Availability of One Last Walk With Izzy's Giclée Prints will cease on December 31st, 2026!
 
 products:
     - id: original
