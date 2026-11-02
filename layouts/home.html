@@ -10,7 +10,8 @@
 					| {{ .Site.Title }}
 				{{ end }}
 			{{ end }}
-		</title> 
+		</title>
+		
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -671,6 +672,47 @@
 					</footer>
 
 				</main>
+
+		<style>
+			#auction-popup[hidden] { display: none; }
+			#auction-popup { position: fixed; inset: 0; z-index: 10000; display: grid; place-items: center; padding: 1rem; background: rgba(0, 0, 0, .7); }
+			#auction-popup .auction-popup-card { position: relative; width: min(100%, 34rem); padding: 2.5rem 2rem; background: #fff; color: #222; text-align: center; box-shadow: 0 1rem 3rem rgba(0, 0, 0, .35); }
+			#auction-popup h2 { margin: 0 0 1rem; }
+			#auction-popup p { margin-bottom: 1.5rem; }
+			#auction-popup .auction-popup-close { position: absolute; top: .5rem; right: .75rem; border: 0; background: none; color: inherit; font-size: 1.75rem; cursor: pointer; padding:0%; line-height: 1; }
+			@media (max-width: 480px) { #auction-popup .auction-popup-card { padding: 2.5rem 1.25rem 1.5rem; } }
+		</style>
+		<div id="auction-popup" hidden>
+			<section class="auction-popup-card" role="dialog" aria-modal="true" aria-labelledby="auction-popup-title" aria-describedby="auction-popup-description">
+				<button class="auction-popup-close" type="button" aria-label="Close auction announcement">&times;</button>
+				<h2 id="auction-popup-title">November: 30-Day Art Auction</h2>
+				<p id="auction-popup-description">For 30 days this November, 30 pieces of artwork will be up for auction. Discover the artwork and place your bid.</p>
+				<a class="button primary" href="https://shop.benjaminjyoung.com/collections/auction-today">Explore the Auction</a>
+			</section>
+		</div>
+		<script>
+			(function () {
+				const popup = document.getElementById('auction-popup');
+				const closeButton = popup.querySelector('.auction-popup-close');
+				function closeAuctionPopup() {
+					popup.hidden = true;
+					sessionStorage.setItem('auctionPopupDismissed', 'true');
+				}
+				closeButton.addEventListener('click', closeAuctionPopup);
+				popup.addEventListener('click', function (event) {
+					if (event.target === popup) closeAuctionPopup();
+				});
+				document.addEventListener('keydown', function (event) {
+					if (event.key === 'Escape' && !popup.hidden) closeAuctionPopup();
+				});
+				if (!sessionStorage.getItem('auctionPopupDismissed')) {
+					window.setTimeout(function () {
+						popup.hidden = false;
+						closeButton.focus();
+					}, 1200);
+				}
+			})();
+		</script>
 
 		<!-- Scripts -->
 			<script src="/js/jquery.min.js"></script>
