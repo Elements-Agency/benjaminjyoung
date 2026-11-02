@@ -27,7 +27,7 @@ accolades:
     - "Awards & Juried Exhibitions":
         - "First Place for Theme: 2026 Door 2 Art Show"
         - "First Place in Watercolor Portraiture: 2026 Stark County Fair"
-        - "Selected Juried Artist: 2026 Door 2 Art Exhibition"
+        - "Honorable Mention: 3rd Annual ActLoCLE Exhibit"
         - "Winners Circle Showing: Christ Community Chapel"
 
 collection: Beauty in Darkness
