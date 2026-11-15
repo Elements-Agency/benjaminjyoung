@@ -22,7 +22,13 @@ mediums: [watercolor]
 materials: [cotton paper]
 colors: [blue, green, brown, black]
 collections: [animals]
-tags: [butterfly, insect, leaf, wings, summer, cool, outdoors]
+tags: [butterfly, insect, leaf, wings, summer, cool, outdoors, metallic]
+
+progress: Masking fluid was used initially, and then metallic watercolors were used in the final stage.
+
+products:
+    - shopify_id: 15460281122948
+      name: Original
 ---
 
 This watercolor painting captures the delicate beauty of a blue butterfly perched on a cluster of green and yellow leaves. The butterfly's wings are depicted in vivid shades of blue, with intricate black and white patterns along the edges, adding depth and contrast to the piece. The artist skillfully uses the dark, textured background to make the butterfly's bright colors pop, creating a striking visual effect. The leaves beneath the butterfly are painted with a mix of green and yellow tones, which add a natural, organic feel to the composition. Overall, the painting evokes a sense of tranquility and appreciation for the subtle details found in nature.
