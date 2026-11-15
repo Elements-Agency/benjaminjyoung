@@ -24,7 +24,7 @@ mediums: [watercolor]
 materials: [paper]
 colors: [brown, black, blue]
 collections: [portraits]
-tags: [man, mugshot, old, face, expression, earthy, indoors, cool, rustic]
+tags: [man, mugshot, old, face, expression, earthy, indoors, cool, rustic, jerry lee lewis, celebrity]
 
 tag: A mugshot featuring the subtle expression of pain and mistakes.
 
