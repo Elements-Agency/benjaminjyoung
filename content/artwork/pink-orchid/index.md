@@ -24,6 +24,10 @@ materials: [cotton paper]
 colors: [pink, white, green]
 collections: [watercolor sketches]
 tags: [orchid, flower, stem, petals, plant, summer, outdoors]
+
+products:
+    - shopify_id: 15460347740292
+      name: Original
 ---
 
 **Pink Orchid** is a quick and easy graphite pencil sketch painted in with watercolor. This simple small artwork is a nice little decoration to hang in your room. Orchids being one of my favorite flowers, usually white though, I decided to go with a pink one instead to avoid having to paint a background.

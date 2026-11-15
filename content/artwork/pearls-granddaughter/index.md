@@ -28,6 +28,10 @@ collections: [portraits]
 tags: [woman, lady, young, smile, face, expression, gaze, headscarf, pose, intense, indoors, classical]
 
 tag: A gouache initiation practice using Vermeer's Girl with a Pearl Earring as a reference.
+
+products:
+    - shopify_id: 15460348854404
+      name: Original
 ---
 
 This gouache painting is a compelling reinterpretation of Johannes Vermeer’s Girl with a Pearl Earring, replacing the original's soft elegance with a bolder, more contemporary edge. The subject’s vivid orange headscarf adds a striking contrast to the dark background, drawing immediate attention to her thoughtful, almost confrontational gaze. The textured brushstrokes and rich, earthy palette give the piece a tactile depth and painterly energy that differentiates it from the smooth subtlety of the original. Her expression, simultaneously vulnerable and strong, invites the viewer into a quiet moment of introspection. Signed in blue by the artist, the work pays homage to a timeless classic while asserting a distinct and personal voice.

@@ -22,6 +22,10 @@ materials: [cotton paper]
 colors: [grey]
 collections: [landscapes]
 tags: [winter, landscape, outdoors, cold, morning, fog, ohio, farm]
+
+products:
+    - shopify_id: 10403158818948
+      name: Original
 ---
 
 Every artist has a few default settings they rely on. For me, it’s a deep appreciation for details, texture, and the slow, deliberate building of a scene. My work under the Benjamin J. Young name often leans into narrative realism, where every fence post, shadow, and curl of chimney smoke has a story to tell.

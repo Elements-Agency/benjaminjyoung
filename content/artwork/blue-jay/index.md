@@ -28,8 +28,8 @@ collections: [primary winter birds, animals]
 tags: [blue jay, bird, outdoors, nature, winter, snow, log, tree, berries, perched, cool, overcast]
 
 products:
-  - id: 10413613023364
-    name: Original
+    - shopify_id: 10413613023364
+      name: Original
 ---
 
 **Blue Jay** depicts a blue jay perched on a snowy surface, delicately pecking at a cluster of red berries on a nearby branch. The bird's vivid blue plumage, accented with black and white markings, contrasts beautifully with the soft, white snow. I captured the texture of the bird's feathers and the intricate details of the berries and branches. The overall scene exudes a serene winter atmosphere, with the red berries adding a touch of color and life to the otherwise muted background.

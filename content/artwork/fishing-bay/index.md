@@ -21,6 +21,10 @@ materials: [cotton paper]
 colors: [grey, blue, orange]
 collections: [landscapes]
 tags: [spring, landscape, outdoors, delaware, ocean, bay, boat, fishing, sea]
+
+products:
+    - shopify_id: 15460286726276
+      name: Original
 ---
 
 A quiet study of coastal light and shifting weather along the Delaware coast. *Fishing Bay* captures the stillness of moored vessels resting on glassy, reflective waters beneath a heavy, atmospheric sky. 

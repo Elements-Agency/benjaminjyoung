@@ -20,6 +20,10 @@ materials: [acm panel]
 colors: [pink, gold, black]
 collections: [portraits]
 tags: [indoors, dolly parton, celebrity, stage, singing, microphone]
+
+products:
+    - shopify_id: 15444244529284
+      name: Original
 ---
 
 *In Between Notes* captures a quiet, unguarded pause beneath the stage lights. Rather than depicting the height of a performance, the composition focuses on the breath just before the next lyric—eyes lifted, expression reflective, and the gold microphone waiting just out of reach against a deep, velvety black void.
