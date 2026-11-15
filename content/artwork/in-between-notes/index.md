@@ -14,11 +14,11 @@ size: 24x13.5in
 power: 100
 order: 99
 
-categories: [realism, landscape, painting]
+categories: [realism, portrait, painting]
 mediums: [egg tempera]
 materials: [acm panel]
 colors: [pink, gold, black]
-collections: [landscapes]
+collections: [portraits]
 tags: [indoors, dolly parton, celebrity, stage, singing, microphone]
 ---
 

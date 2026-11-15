@@ -8,7 +8,7 @@ author: Ben Young
 images: ['painting.jpg']
 
 acquire: Bring the Story of Quiet Healing Home — Collect Limited Edition Prints
-buy: The original watercolor was acquired in 2026, but a limited number of museum-grade reproductions are available. Printed on archival rag paper to preserve every subtle wash and sun-bleached texture for 100+ years.
+buy: The original watercolor was acquired in 2026, but a limited number of museum-grade reproductions are available. Printed on archival paper to preserve every subtle wash and sun-bleached texture for 100+ years.
 
 products:
     - id: original
