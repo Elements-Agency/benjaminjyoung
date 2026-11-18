@@ -19,10 +19,6 @@ products:
       shopify_id: 10328414486660
     - id: canvas
       shopify_id: 10330999914628
-    - id: framed
-      shopify_id: 10442148937860
-    - id: metal
-      shopify_id: 10442137174148
     - id: postcard
       shopify_id: 10378043293828
 
