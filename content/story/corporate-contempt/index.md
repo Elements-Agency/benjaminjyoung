@@ -10,8 +10,8 @@ images: ['painting.jpg']
 buy: Corporate Contempt is available for acquisition as the original watercolor painting or as a high-quality limited reproduction. Collectors may choose between owning the one-of-a-kind original or a museum-grade print that preserves the emotional depth and detail of the work. Both options offer a meaningful way to bring this powerful and personal piece into your collection.
 
 products:
-    - id: original
-      shopify_id: 10325563605124
+    #- id: original
+    #  shopify_id: 10325563605124
     - id: giclee
       shopify_id: 10328099258500
 
@@ -22,6 +22,7 @@ accolades:
     - Featured in the 22nd Annual Bryn Du Art Show hosted at Bryn Du Mansion in Granville, Ohio.
 
 collection: Bitter Honeydew
+auction: https://shop.benjaminjyoung.com/products/corporate-contempt-original-watercolor-painting
 ---
 
 There’s a certain silence that falls in a corporate office when the emails stop, the calls fade, and all that’s left is the hum of fluorescent lights and the weight of your own thoughts.

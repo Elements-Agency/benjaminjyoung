@@ -10,8 +10,8 @@ images: ['painting.jpg']
 buy: Dying In A Snowfall is available for acquisition as the original watercolor painting or as a high-quality limited reproduction. Collectors may choose between owning the one-of-a-kind original or a museum-grade print that preserves the emotional depth and detail of the work. Both options offer a meaningful way to bring this powerful and personal piece into your collection.
 
 products:
-    - id: original
-      shopify_id: 10325556658308
+    #- id: original
+    #  shopify_id: 10325556658308
     - id: giclee
       shopify_id: 10328104534148
 
@@ -19,6 +19,7 @@ accolades:
     - Featured in the Cold Decembers Exhibit at Brewtifully in North Canton, Ohio.
 
 collection: One Last December
+auction: https://shop.benjaminjyoung.com/products/dying-in-a-snowfall-original-watercolor-painting
 ---
 
 Dying in a Snowfall is a painting of reality — the cold, unflinching truth of a winter’s night in Dundee Falls, Ohio. It is the moment that directly connects to my oil painting [Final Embrace](/story/final-embrace/). Where Final Embrace lives in the dream I experienced as I slipped away, Dying in a Snowfall lives in the physical world — the actual scene as it happened.

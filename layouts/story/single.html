@@ -163,6 +163,19 @@
                     <p style="font-size: 1.2em; font-weight: bold;">{{- .Params.buybold -}}</p>
                 {{ end }}
 
+
+
+                {{ if .Params.auction }}
+                    <h2 style="font-size: 2em;">The original painting is currently at auction</h2>
+                    <ul class="actions special">
+                        <li>
+                            <a href="{{ .Params.auction }}" class="button big wide primary" target="_blank" rel="noopener noreferrer">
+                                View Auction
+                            </a>
+                        </li>
+                    </ul>
+                {{ end }}
+
                 <script>
                     function fireViewProducts() {
                         fbq('trackCustom', 'ViewProducts');

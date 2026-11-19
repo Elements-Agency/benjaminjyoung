@@ -10,8 +10,8 @@ images: ['painting.jpg']
 buy: Howard's Hills is available for acquisition as the original watercolor painting or as a high-quality limited reproduction. Collectors may choose between owning the one-of-a-kind original or a museum-grade print that preserves the emotional depth and detail of the work. Both options offer a meaningful way to bring this powerful and personal piece into your collection.
 
 products:
-    - id: original
-      shopify_id: 10327997022340
+    #- id: original
+    #  shopify_id: 10327997022340
     - id: giclee
       shopify_id: 10328413241476
     - id: postcard
@@ -28,6 +28,7 @@ accolades:
     - 2nd Place in the 2026 Stark County Fair for Watercolor Landscape
 
 collection: Back In The Light
+auction: https://shop.benjaminjyoung.com/products/howards-hills-original-watercolor-painting
 ---
 
 In ___Howard’s Hills___, I return home—not only in geography, but in heart. Set in the quiet hills of Appalachian Ohio where I was raised, the painting captures a deeply personal and intimate moment: my elderly father making his way across the familiar terrain of our shared past. It’s not just a portrait of landscape—it’s a portrait of legacy.
