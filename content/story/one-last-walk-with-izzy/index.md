@@ -19,6 +19,8 @@ products:
       shopify_id: 10328414486660
     - id: canvas
       shopify_id: 10330999914628
+    - id: postcards
+      shopify_id: 15508894941316
     - id: postcard
       shopify_id: 10378043293828
 
