@@ -26,7 +26,7 @@ https://cdn.jsdelivr.net/npm/chartjs-chart-funnel@4.2.5/build/index.umd.min.js
         </li>
     </ul>
 
-    <p style="text-align: center; font-style: italic;">Sales data updated as of July 25th, 2026</p>
+    <p style="text-align: center; font-style: italic;">Sales data updated as of November 20th, 2026</p>
 
     <h3>General Sales Statistics at a Glance</h3>
 
@@ -35,6 +35,8 @@ https://cdn.jsdelivr.net/npm/chartjs-chart-funnel@4.2.5/build/index.umd.min.js
             <canvas id="OnlineOrders"></canvas>
         </div>
     </div>
+
+    <p><em><strong>Note:</strong> that ~800 outlier sales have been removed from this analysis, under 2026 Q2 and Q3. These were apart of the $1-2 sale range for 3.5x5" prints. Largely which were a wash in terms of profitability.</em></p>
 
     <br>
 
@@ -45,7 +47,7 @@ https://cdn.jsdelivr.net/npm/chartjs-chart-funnel@4.2.5/build/index.umd.min.js
         This approach not only amplifies visibility but also creates a scalable, repeatable model for reaching new audiences and building lasting relationships with collectors.
     </p>
 
-    <h3>Acquisition Costs & ROI</h3>
+    <h3>Acquisition Costs & ROI (Outdated for 2026)</h3>
     <table>
         <thead>
             <tr>
@@ -74,7 +76,7 @@ https://cdn.jsdelivr.net/npm/chartjs-chart-funnel@4.2.5/build/index.umd.min.js
         </tbody>
     </table>
 
-    <h3>Original Painting Sales</h3>
+    <h3>Original Painting Sales (Outdated for 2026)</h3>
     <p>
         For 2025, original painting sales totaled $5,300. My highest price point original was $2,000, with an average sale price point of $662. It's noted this has changed for 2026, as original sales are down while I busy with receiving cancer treatment, and have stepped away from exhibits for the time being.
     </p>
@@ -91,7 +93,7 @@ https://cdn.jsdelivr.net/npm/chartjs-chart-funnel@4.2.5/build/index.umd.min.js
         The majority of original paintings sales are made in-person or during an exhibit, or through connections made during an exhibit.
     </p>
 
-    <h3>Reproduction Sales</h3>
+    <h3>Reproduction Sales (Outdated for 2026)</h3>
     <p>
         Reproduction sales for 2025 totaled $5,125. My highest reproduction sale was $480, with an average reproduction sale of $96. It's noted that this has changed for 2026 and onward, due to changes to allow for international orders.
     </p>
@@ -101,7 +103,7 @@ https://cdn.jsdelivr.net/npm/chartjs-chart-funnel@4.2.5/build/index.umd.min.js
     </p>
 
 
-    <h2>Collector Demographics</h2>
+    <h2>Collector Demographics (Outdated for 2026)</h2>
     <p>
         Through ongoing sales and collector engagement, clear patterns have emerged in the audiences drawn to my work.
         My original paintings primarily appeal to retired or upper-aged men within the middle to upper class, who are often seeking meaningful, lasting additions to their personal collections.
@@ -125,10 +127,11 @@ https://cdn.jsdelivr.net/npm/chartjs-chart-funnel@4.2.5/build/index.umd.min.js
     </p>
 
     <canvas id="CityMap"></canvas>
+    <p><em><strong>Note:</strong> This US map is outdated as of July 25th, 2026 and will be updated in the coming months.</em></p>
 
     <br>
 
-    <h3>Geographical Sales by State</h3>
+    <h3>Geographical Sales by State (Outdated for 2026)</h3>
     <p>
         The states with the highest number of sales are in the first pie graph.
         In order to better understand regional interest, I have also included a second pie graph, which is adjusted for population of each state over sales.
@@ -153,6 +156,43 @@ https://cdn.jsdelivr.net/npm/chartjs-chart-funnel@4.2.5/build/index.umd.min.js
         </div>
     </div>
 
+    <br>
+
+    <h2>International Sales Map</h2>
+    <p>
+        My international sales are primarily concentrated in the United Kingdom, Canada, Australia, and New Zealand, with a smaller but growing presence in other countries.
+        This distribution reflects the global appeal of my work, particularly in English-speaking countries where cultural and artistic sensibilities align closely with the themes explored in my pieces.
+        The international reach of my art underscores its universal resonance, transcending geographic boundaries and connecting with collectors worldwide who appreciate the narratives and aesthetics I present.
+    </p>
+
+    <canvas id="CountryMap"></canvas>
+
+    <br>
+
+    <h1>Original Paintings Pricing Model</h1>
+    <p>
+        I organized my history of painting sales and recorded as many relevant factors as I could, then used multivariable calculus to develop a predictive pricing equation. The initial estimate was:
+    </p>
+    <blockquote style="text-align: center; font-style: italic;">
+        Estimated Price = 0.42(Area in Square Inches) + 120.66(Emotional Score) + 94.46(# of Prizes) + 90.75(Cumulative Sum of Scores) − 24.87(Complexity Score) − 5.03(Skill Score) − 48.06(Experience in Years) − 35.07(# of Exhibits) − 2961.20
+    </blockquote>
+    <p>
+        I then simplified the model into a more practical formula for pricing original paintings:
+    </p>
+    <blockquote style="text-align: center; font-style: italic;">
+        Painting Price = ((Width (in) × Height (in) × $0.60) + (Realism Level Rating (0–3) × $50) + (Emotions Rating (0–3) × $200) + (# of Prizes × $100) + ((Year Painted − 2030) × $50)) × 1.2 Margin
+    </blockquote>
+    
+    <p>
+        I had 92% accuracy with existing data. This is the equation I will use to price original paintings. I find it especially interesting that the emotional rating of a piece is the strongest positive factor in the initial model. Prizes also raise the estimate, though to a lesser degree. Complexity slightly lowers it, suggesting simpler work can price higher in this dataset, while rated skill does not necessarily increase the estimated price.
+    </p>
+    <p>It's also noted that because I am a new artist, there is a negative weighting factor applied to the price until I get more experience. Hence why the price is adjusted downward for the first six years.</p>
+    <p>
+        The number of exhibits a painting has appeared in is also negatively associated with its sale price. I believe this may reflect correlation rather than causation: paintings that take longer to sell have more opportunities to be included in additional exhibits.
+    </p>
+
+    <br>
+
     <ul class="actions special">
         <li>
             <a href="/curators/" class="button primary">
@@ -163,21 +203,46 @@ https://cdn.jsdelivr.net/npm/chartjs-chart-funnel@4.2.5/build/index.umd.min.js
     
     <script>
         const orders_ctx = document.getElementById('OnlineOrders');
-        const orders_labels = [2024, 2025, 2026];
+        const orders_labels = ['2024 Q1', '2024 Q2', '2024 Q3', '2024 Q4', '2025 Q1', '2025 Q2', '2025 Q3', '2025 Q4', '2026 Q1', '2026 Q2', '2026 Q3', '2026 Q4'];
         const orders_data = {
             labels: orders_labels,
             datasets: [
                 {
                     label: 'Online Orders',
-                    data: [12, 86, (217+49)],
+                    data: [0, 0, 2, 7, 4, 27, 29, 24, 19, 185, 61, 38],
                     borderColor: 'rgb(75, 192, 192)',
-                    tension: 0.1
-                }
+                    tension: 0.1,
+                    yAxisID: 'y1'
+                },
+                {
+                    label: 'Online Revenue',
+                    data: [0, 0, 935, 1091, 957, 2595, 3350, 1820, 3560, 3500, 5637, 5915],
+                    borderColor: 'rgb(255, 99, 132)',
+                    tension: 0.1,
+                    yAxisID: 'y2'
+                },
             ]
         };
         const orders_config = {
             type: 'line',
-            data: orders_data
+            data: orders_data,
+            options: {
+                scales: {
+                    y1: {
+                        type: 'linear',
+                        position: 'left',
+                        beginAtZero: true
+                    },
+                    y2: {
+                        type: 'linear',
+                        position: 'right',
+                        beginAtZero: true,
+                        grid: {
+                            drawOnChartArea: false
+                        }
+                    }
+                }
+            }
         };
         new Chart(orders_ctx, orders_config);
 
@@ -2341,4 +2406,92 @@ const chart = new Chart(document.getElementById("StatesMap").getContext("2d"), {
             }
         };
         new Chart(statesper_ctx, statesper_config);
+
+        fetch('https://unpkg.com/world-atlas@2/countries-110m.json')
+            .then((response) => response.json())
+            .then((world) => {
+                const countries = ChartGeo.topojson.feature(world, world.objects.countries).features
+                    .filter((country) => country.properties.name !== 'Antarctica');
+                const countrySales = {
+                    'United States of America': 284+78,
+                    'Canada': 12,
+                    'Australia': 10,
+                    'New Zealand': 8,
+                    'United Kingdom': 7,
+                    'Sweden': 2,
+                    'Ireland': 2,
+                    'Italy': 2,
+                    'Czech Republic': 2,
+                    'Germany': 1,
+                    'France': 3,
+                    'Norway': 1,
+                    'Finland': 1,
+                    'Denmark': 1,
+                    'Netherlands': 2,
+                    'Belgium': 1,
+                    'Switzerland': 2,
+                    'Austria': 1,
+                    'Spain': 1,
+                    'Philippines': 2,
+                    'Mexico': 1,
+                    'Luxembourg': 1,
+                    'Japan': 1,
+                    'South Korea': 1,
+                    'Dubai': 1,
+                };
+                const secondHighestSales = [...new Set(Object.values(countrySales))]
+                    .sort((a, b) => b - a)[1] || 0;
+                    console.log('Second highest sales:', secondHighestSales);
+
+                new Chart(document.getElementById('CountryMap').getContext('2d'), {
+                    type: 'choropleth',
+                    data: {
+                        labels: countries.map((country) => country.properties.name),
+                        datasets: [{
+                            label: 'Country Sales',
+                            outline: countries,
+                            data: countries.map((country) => ({
+                                feature: country,
+                                value: country.properties.name === 'United States of America'
+                                    ? Math.sqrt(secondHighestSales)
+                                    : countrySales[country.properties.name]
+                                        ? Math.sqrt(countrySales[country.properties.name])
+                                        : 0
+                            }))
+                        }]
+                    },
+                    options: {
+                        plugins: {
+                            title: {
+                                display: true,
+                                text: 'Sales by Country'
+                            },
+                            tooltip: {
+                                callbacks: {
+                                    label: (context) => {
+                                        const name = context.raw.feature.properties.name;
+                                        const sales = countrySales[name] || 0;
+                                        return `${name}: ${sales} sales`;
+                                    }
+                                }
+                            }
+                        },
+                        scales: {
+                            projection: {
+                                axis: 'x',
+                                projection: 'equirectangular'
+                            },
+                            color: {
+                                axis: 'x',
+                                quantize: 5,
+                                legend: {
+                                    position: 'bottom-right',
+                                    align: 'bottom'
+                                }
+                            }
+                        }
+                    }
+                });
+            });
+
     </script>
