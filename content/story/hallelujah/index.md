@@ -11,8 +11,8 @@ portrait: true
 buy: Hallelujah is available for acquisition as the original oil painting or as a high-quality limited reproduction. Collectors may choose between owning the one-of-a-kind original or a museum-grade print that preserves the emotional depth and detail of the work. Both options offer a meaningful way to bring this powerful and personal piece into your collection.
 
 products:
-    #- id: original
-    #  shopify_id: 10327099637892
+    - id: original
+      shopify_id: 10327099637892
     - id: giclee
       shopify_id: 10328413143172
     - id: canvas
@@ -29,7 +29,6 @@ accolades:
     - Featured in Voyage Ohio - Benjamin Young’s Story.
 
 collection: One Last December
-auction: https://shop.benjaminjyoung.com/products/hallelujah-original-oil-painting
 ---
 
 Hallelujah draws directly from one of the most haunting verses in Leonard Cohen’s timeless song:
