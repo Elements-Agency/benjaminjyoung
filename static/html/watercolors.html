@@ -1,0 +1,908 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Benjamin J. Young | From Darkness to Light — Fine Art & Limited Editions</title>
+    <meta name="description" content="Emotionally narrative drybrush watercolor paintings and museum-grade limited edition giclée prints by representational realist Benjamin J. Young.">
+    
+    <!-- Google Fonts: Cormorant Garamond (Editorial Serif) & Plus Jakarta Sans (Clean Modern Sans) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Plus+Jakarta+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+    
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        gallery: {
+                            bg: '#FAF9F6',       /* Warm Gallery Off-White / Stone */
+                            surface: '#F3F1EC',  /* Subtle Warm Alabaster Card Surface */
+                            ink: '#1C1B1A',      /* Deep Charcoal Ink */
+                            muted: '#57534E',    /* Warm Stone Gray */
+                            ochre: '#8C7A6B',    /* Muted Earth / Ochre Accent */
+                            ochreDark: '#6E5E50',
+                            border: '#E5E0D8',   /* Fine Hairline Divider */
+                            zornDark: '#23201E', /* Ivory Black / Umber */
+                            zornRed: '#7A3E36',  /* Venetian Red / Vermilion Muted */
+                            zornGold: '#B59461'  /* Yellow Ochre */
+                        }
+                    },
+                    fontFamily: {
+                        serif: ['"Cormorant Garamond"', 'Georgia', 'serif'],
+                        sans: ['"Plus Jakarta Sans"', '-apple-system', 'BlinkMacSystemFont', 'sans-serif'],
+                    },
+                    letterSpacing: {
+                        widestEditorial: '0.2em',
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        /* Custom subtle museum aesthetics */
+        body {
+            background-color: #FAF9F6;
+            color: #1C1B1A;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+        }
+        
+        .museum-frame {
+            box-shadow: 0 20px 45px -15px rgba(28, 27, 26, 0.08), 0 4px 12px -4px rgba(28, 27, 26, 0.04);
+            transition: transform 0.6s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+        }
+        
+        .artwork-card:hover .museum-frame {
+            transform: translateY(-4px);
+            box-shadow: 0 28px 55px -15px rgba(28, 27, 26, 0.13), 0 8px 18px -6px rgba(28, 27, 26, 0.06);
+        }
+
+        /* Subtle paper grain overlay for museum plates */
+        .paper-texture {
+            background-image: radial-gradient(rgba(28, 27, 26, 0.04) 1px, transparent 0);
+            background-size: 16px 16px;
+        }
+    </style>
+
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-LKWC4KDVH8');
+    </script>
+    <!-- Facebook Pixel Code -->
+    <script>
+        !function(f,b,e,v,n,t,s)
+        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+        n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t,s)}(window, document,'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '61556301758002');
+        fbq('track', 'PageView');
+    </script>
+    <noscript>
+        <img height="1" width="1" style="display:none"
+            src="https://www.facebook.com/tr?id=61556301758002&ev=PageView&noscript=1" alt="">
+    </noscript>
+</head>
+<body class="font-sans text-gallery-ink bg-gallery-bg selection:bg-gallery-ochre/20 selection:text-gallery-ink">
+
+    <!-- 1. MINIMAL TOP BAR -->
+    <header class="sticky top-0 z-40 bg-gallery-bg/95 backdrop-blur-md border-b border-gallery-border">
+        <div class="max-w-7xl mx-auto px-5 sm:px-8 lg:px-12 h-20 flex items-center justify-between">
+            <!-- Artist Wordmark -->
+            <a href="https://benjaminjyoung.com" target="_blank" rel="noopener noreferrer" class="group flex flex-col">
+                <span class="font-serif text-xl sm:text-2xl tracking-[0.18em] font-medium text-gallery-ink uppercase">
+                    Benjamin J. Young
+                </span>
+                <span class="text-[10px] tracking-[0.22em] text-gallery-ochre uppercase mt-0.5 hidden sm:block">
+                    Representational Realism &bull; Fine Art
+                </span>
+            </a>
+
+            <!-- Navigation & Primary CTA -->
+            <div class="flex items-center space-x-6 lg:space-x-10">
+                <nav class="hidden md:flex items-center space-x-8 text-xs tracking-[0.14em] uppercase text-gallery-muted">
+                    <a href="#the-collection" class="hover:text-gallery-ink transition-colors py-2">The Collection</a>
+                    <a href="#about-artist" class="hover:text-gallery-ink transition-colors py-2">About the Artist</a>
+                    <a href="#collector-inquiries" class="hover:text-gallery-ink transition-colors py-2">Collector Inquiries</a>
+                </nav>
+                <a href="https://shop.benjaminjyoung.com" target="_blank" rel="noopener noreferrer" 
+                   class="inline-flex items-center justify-center px-5 py-2.5 text-xs tracking-[0.14em] uppercase font-medium bg-gallery-ink text-gallery-bg rounded hover:bg-gallery-ochreDark transition-colors duration-300">
+                    Explore Available Works
+                </a>
+            </div>
+        </div>
+    </header>
+
+    <!-- 2. HERO SECTION -->
+    <section class="relative pt-16 pb-20 sm:pt-24 sm:pb-28 lg:pt-32 lg:pb-32 px-5 sm:px-8 lg:px-12 border-b border-gallery-border">
+        <div class="max-w-4xl mx-auto text-center">
+            <!-- Eyebrow Label -->
+            <p class="text-[11px] sm:text-xs tracking-widestEditorial uppercase text-gallery-ochre font-medium mb-6">
+                A Narrative Retrospective &bull; Watercolor &amp; Archival Editions
+            </p>
+
+            <!-- Editorial Headline -->
+            <h1 class="font-serif text-4xl sm:text-6xl lg:text-[68px] font-normal leading-[1.08] tracking-tight text-gallery-ink mb-8">
+                From Darkness to Light:<br class="hidden sm:inline">
+                <span class="italic font-normal text-gallery-ink/90">A Life Story Told on Paper</span>
+            </h1>
+
+            <!-- Decorative Hairline Divider -->
+            <div class="w-16 h-px bg-gallery-ochre/60 mx-auto mb-8"></div>
+
+            <!-- Subheadline (Exact Meta Ad Spirit & Copy) -->
+            <p class="font-serif text-xl sm:text-2xl lg:text-[26px] leading-relaxed text-gallery-ink/85 font-normal max-w-3xl mx-auto mb-10">
+                “My emotionally narrative, award-winning watercolor paintings, together, tell a life story. An enduring journey through loss, drama, a change in careers, a battle with cancer, and a reflection on the life and beauty that life has to show. From darkness to light; from chiaroscuro to melancholy.”
+            </p>
+
+            <!-- Action CTAs -->
+            <div class="flex flex-col sm:flex-row items-center justify-center gap-4 sm:gap-8">
+                <a href="https://shop.benjaminjyoung.com" target="_blank" rel="noopener noreferrer"
+                   class="w-full sm:w-auto inline-flex items-center justify-center px-8 py-4 text-xs tracking-[0.16em] uppercase font-medium bg-gallery-ink text-gallery-bg rounded hover:bg-gallery-ochreDark transition-all duration-300 shadow-sm">
+                    Acquire Originals &amp; Limited Editions
+                </a>
+                <a href="#the-collection"
+                   class="w-full sm:w-auto inline-flex items-center justify-center px-6 py-4 text-xs tracking-[0.16em] uppercase font-medium text-gallery-ink hover:text-gallery-ochre transition-colors">
+                    Experience the 10-Work Narrative &darr;
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- 3. EDITORIAL CREDIBILITY & CRITICAL RECEPTION STRIP -->
+    <section class="bg-gallery-surface/70 border-b border-gallery-border py-14 sm:py-16 px-5 sm:px-8 lg:px-12">
+        <div class="max-w-6xl mx-auto">
+            <!-- Thoughtful Critical Reception Quote -->
+            <div class="max-w-3xl mx-auto text-center mb-12">
+                <p class="font-serif italic text-xl sm:text-2xl text-gallery-ink/90 leading-relaxed">
+                    “Comparisons to Andrew Wyeth’s quiet psychological realism follow Young’s restrained earth palette and chiaroscuro storytelling—capturing solitary human resilience with rare honesty.”
+                </p>
+                <p class="text-[11px] tracking-[0.2em] uppercase text-gallery-ochre mt-3">
+                    Curatorial Notes &bull; Contemporary American Realism
+                </p>
+            </div>
+
+            <!-- Key Collector Milestones -->
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-8 pt-10 border-t border-gallery-border text-center">
+                <div class="px-4">
+                    <p class="font-serif text-3xl sm:text-4xl text-gallery-ink mb-1">1,200+ Collectors</p>
+                    <p class="text-xs tracking-[0.14em] uppercase text-gallery-muted">
+                        Works Placed Across 20+ Countries
+                    </p>
+                </div>
+                <div class="px-4 md:border-x md:border-gallery-border">
+                    <p class="font-serif text-3xl sm:text-4xl text-gallery-ink mb-1">30+ Exhibitions</p>
+                    <p class="text-xs tracking-[0.14em] uppercase text-gallery-muted">
+                        Juried &amp; Invitational Shows Nationwide
+                    </p>
+                </div>
+                <div class="px-4">
+                    <p class="font-serif text-3xl sm:text-4xl text-gallery-ink mb-1">Award-Winning</p>
+                    <p class="text-xs tracking-[0.14em] uppercase text-gallery-muted">
+                        Emerging Representational Realist
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 4. THE 10-PAINTING NARRATIVE SEQUENCE -->
+    <section id="the-collection" class="py-20 sm:py-28 px-5 sm:px-8 lg:px-12 border-b border-gallery-border">
+        <div class="max-w-6xl mx-auto">
+            <!-- Section Header -->
+            <div class="max-w-2xl mx-auto text-center mb-20 sm:mb-24">
+                <p class="text-[11px] tracking-widestEditorial uppercase text-gallery-ochre font-medium mb-3">
+                    Exhibition Walkthrough &bull; Plates I – X
+                </p>
+                <h2 class="font-serif text-3xl sm:text-5xl font-normal text-gallery-ink mb-5">
+                    From Darkness to Light — The Ten Chapters
+                </h2>
+                <p class="text-sm sm:text-base text-gallery-muted leading-relaxed">
+                    Sequenced chronologically and emotionally, each work marks a threshold in a lived journey—moving from the stark shadows of diagnosis and isolation toward stillness, endurance, and grace. Select any plate to read the full story behind the painting or inquire regarding acquisition.
+                </p>
+            </div>
+
+            <!-- Exhibition Plates Container (Populated cleanly for maintainability & crisp layout) -->
+            <div id="exhibition-plates" class="space-y-24 sm:space-y-32">
+                <!-- Plates I through X are rendered below with museum-grade typography and tonal Zorn-palette studies -->
+            </div>
+        </div>
+    </section>
+
+    <!-- 5. ARTIST STATEMENT & BIOGRAPHY SECTION -->
+    <section id="about-artist" class="py-20 sm:py-28 px-5 sm:px-8 lg:px-12 bg-gallery-surface/60 border-b border-gallery-border">
+        <div class="max-w-5xl mx-auto">
+            <div class="grid grid-cols-1 lg:grid-cols-12 gap-12 lg:gap-16 items-start">
+                <!-- Left Column: Artist Portrait Frame & Statement Pull-Quote -->
+                <div class="lg:col-span-5">
+                    <div class="bg-gallery-bg p-6 sm:p-8 border border-gallery-border rounded museum-frame">
+                        <!-- Minimalist Archival Artist Monogram / Studio Study Visual -->
+                        <div class="aspect-[4/5] w-full bg-[#24211E] rounded-sm relative overflow-hidden flex flex-col justify-between p-7 text-gallery-bg">
+                            <svg class="absolute inset-0 w-full h-full opacity-25" viewBox="0 0 400 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <defs>
+                                    <radialGradient id="studioLight" cx="30%" cy="25%" r="75%">
+                                        <stop offset="0%" stop-color="#D8C3A5" stop-opacity="0.65"/>
+                                        <stop offset="55%" stop-color="#8C7A6B" stop-opacity="0.2"/>
+                                        <stop offset="100%" stop-color="#1C1B1A" stop-opacity="0.95"/>
+                                    </radialGradient>
+                                </defs>
+                                <rect width="400" height="500" fill="url(#studioLight)"/>
+                                <line x1="0" y1="360" x2="400" y2="360" stroke="#FAF9F6" stroke-opacity="0.15" stroke-width="1"/>
+                                <circle cx="135" cy="155" r="95" stroke="#FAF9F6" stroke-opacity="0.12" stroke-width="1"/>
+                            </svg>
+                            <div class="relative z-10 flex justify-between items-center text-[10px] tracking-[0.22em] uppercase text-gallery-bg/70">
+                                <span>Studio Archive</span>
+                                <span>Ohio, USA</span>
+                            </div>
+                            <div class="relative z-10 my-auto py-8">
+                                <p class="font-serif italic text-2xl sm:text-3xl leading-snug text-gallery-bg/95">
+                                    “I have used my painting as a way of healing, meditation, and reflection. My hope is that these quiet, honest moments on paper offer you a place to pause, reflect, and feel deeply connected to the beauty that remains.”
+                                </p>
+                            </div>
+                            <div class="relative z-10 pt-4 border-t border-gallery-bg/15 flex items-center justify-between">
+                                <span class="font-serif text-lg tracking-wider">Benjamin J. Young</span>
+                                <span class="text-[10px] tracking-[0.18em] uppercase text-gallery-zornGold">Artist Statement</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Right Column: Narrative Biography -->
+                <div class="lg:col-span-7 space-y-6">
+                    <p class="text-[11px] tracking-widestEditorial uppercase text-gallery-ochre font-medium">
+                        The Artist Behind the Brush
+                    </p>
+                    <h2 class="font-serif text-3xl sm:text-5xl font-normal text-gallery-ink leading-tight">
+                        Quiet Honesty in Drybrush Watercolor &amp; Mineral Pigments
+                    </h2>
+                    <div class="w-12 h-px bg-gallery-ochre/60"></div>
+                    
+                    <div class="space-y-5 text-gallery-muted text-base leading-relaxed font-normal">
+                        <p>
+                            Benjamin J. Young’s path to fine art began not in an academic atelier, but in the quiet reckoning that followed stepping away from a demanding corporate career and confronting a life-altering cancer diagnosis. Turning toward paper and pigment as a discipline of survival and stillness, Young developed an intimate, labor-intensive approach to <strong class="font-medium text-gallery-ink">drybrush watercolor on 100% cotton paper</strong>, alongside work in oil and egg tempera.
+                        </p>
+                        <p>
+                            Working primarily with a restrained mineral and Zorn-inspired palette—ivory black, yellow ochre, Venetian red, and titanium white—Young strips away superfluous color to heighten emotional weight and chiaroscuro contrast. Every layer of drybrush pigment is built slowly, allowing the tooth of the cotton rag to breathe through shadow and muted light.
+                        </p>
+                        <p>
+                            Within his first three years of exhibiting, Young has emerged as one of the fastest-growing representational realists in the United States. His works have been featured in <strong class="font-medium text-gallery-ink">over 30 juried and invitational exhibitions nationwide</strong>, earned multiple honors for portraiture and narrative realism, and found permanent homes with <strong class="font-medium text-gallery-ink">more than 1,200 collectors across over 20 countries</strong>.
+                        </p>
+                    </div>
+
+                    <div class="pt-4 flex flex-wrap items-center gap-6">
+                        <a href="https://benjaminjyoung.com" target="_blank" rel="noopener noreferrer"
+                           class="inline-flex items-center text-xs tracking-[0.16em] uppercase font-medium text-gallery-ink border-b border-gallery-ink pb-1.5 hover:text-gallery-ochre hover:border-gallery-ochre transition-colors">
+                            Visit Official Artist Portfolio &rarr;
+                        </a>
+                        <a href="https://shop.benjaminjyoung.com" target="_blank" rel="noopener noreferrer"
+                           class="inline-flex items-center text-xs tracking-[0.16em] uppercase font-medium text-gallery-ochre border-b border-gallery-ochre/60 pb-1.5 hover:text-gallery-ink hover:border-gallery-ink transition-colors">
+                            Browse Current Releases &rarr;
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 6. COLLECTOR STANDARDS & PROVENANCE SECTION -->
+    <section class="py-20 sm:py-28 px-5 sm:px-8 lg:px-12 border-b border-gallery-border">
+        <div class="max-w-5xl mx-auto">
+            <div class="max-w-2xl mx-auto text-center mb-16">
+                <p class="text-[11px] tracking-widestEditorial uppercase text-gallery-ochre font-medium mb-3">
+                    Archival Craftsmanship &amp; Stewardship
+                </p>
+                <h2 class="font-serif text-3xl sm:text-5xl font-normal text-gallery-ink mb-4">
+                    Collector Standards &amp; Editions
+                </h2>
+                <p class="text-sm sm:text-base text-gallery-muted leading-relaxed">
+                    Whether acquiring a singular original painting or a strictly limited archival edition, every work is created and prepared to enduring museum conservation standards.
+                </p>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8 lg:gap-12">
+                <!-- Column 1: Original Drybrush Watercolors -->
+                <div class="bg-gallery-surface/70 border border-gallery-border rounded p-8 sm:p-10 flex flex-col justify-between">
+                    <div>
+                        <div class="flex items-center justify-between mb-6">
+                            <span class="text-[11px] tracking-[0.2em] uppercase text-gallery-ochre font-medium">One-of-One Works</span>
+                            <span class="font-serif italic text-lg text-gallery-muted">Original Paintings</span>
+                        </div>
+                        <h3 class="font-serif text-2xl sm:text-3xl text-gallery-ink mb-4">
+                            Original Drybrush Watercolors
+                        </h3>
+                        <p class="text-sm text-gallery-muted leading-relaxed mb-6">
+                            Each original painting is executed by hand on heavyweight <strong class="font-medium text-gallery-ink">100% cotton archival paper</strong> using traditional lightfast mineral pigments. Built over weeks of patient drybrush layering, no two works can ever be replicated.
+                        </p>
+                        <ul class="space-y-3 text-sm text-gallery-ink/85 border-t border-gallery-border pt-6">
+                            <li class="flex items-start gap-3">
+                                <span class="text-gallery-ochre mt-0.5">&bull;</span>
+                                <span>100% cotton rag archival paper with traditional mineral pigments</span>
+                            </li>
+                            <li class="flex items-start gap-3">
+                                <span class="text-gallery-ochre mt-0.5">&bull;</span>
+                                <span>Shipped unframed, carefully rolled in a protective archival sleeve inside a heavy-duty reinforced tube so your framer can tailor the presentation to your interior</span>
+                            </li>
+                            <li class="flex items-start gap-3">
+                                <span class="text-gallery-ochre mt-0.5">&bull;</span>
+                                <span>Includes complimentary full-value shipping insurance worldwide</span>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="mt-8 pt-6 border-t border-gallery-border">
+                        <button type="button" onclick="openInquiryModal('', 'Original Drybrush Watercolor')"
+                                class="w-full py-3.5 px-6 text-xs tracking-[0.16em] uppercase font-medium border border-gallery-ink text-gallery-ink rounded hover:bg-gallery-ink hover:text-gallery-bg transition-colors">
+                            Inquire on Original Availability
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Column 2: Limited-Edition Giclée Prints -->
+                <div class="bg-gallery-surface/70 border border-gallery-border rounded p-8 sm:p-10 flex flex-col justify-between">
+                    <div>
+                        <div class="flex items-center justify-between mb-6">
+                            <span class="text-[11px] tracking-[0.2em] uppercase text-gallery-ochre font-medium">Numbered Releases</span>
+                            <span class="font-serif italic text-lg text-gallery-muted">Archival Editions</span>
+                        </div>
+                        <h3 class="font-serif text-2xl sm:text-3xl text-gallery-ink mb-4">
+                            Limited-Edition Giclée Prints
+                        </h3>
+                        <p class="text-sm text-gallery-muted leading-relaxed mb-6">
+                            Produced to museum standards to faithfully preserve the subtle drybrush grain, chiaroscuro tonal transitions, and warm paper undertones of the original paintings.
+                        </p>
+                        <ul class="space-y-3 text-sm text-gallery-ink/85 border-t border-gallery-border pt-6">
+                            <li class="flex items-start gap-3">
+                                <span class="text-gallery-ochre mt-0.5">&bull;</span>
+                                <span>Printed with museum-grade archival pigment inks for generational longevity</span>
+                            </li>
+                            <li class="flex items-start gap-3">
+                                <span class="text-gallery-ochre mt-0.5">&bull;</span>
+                                <span>200 GSM acid-free archival matte fine art paper with natural surface texture</span>
+                            </li>
+                            <li class="flex items-start gap-3">
+                                <span class="text-gallery-ochre mt-0.5">&bull;</span>
+                                <span>Strictly capped edition runs—once an edition closes or retires, it is never reprinted</span>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="mt-8 pt-6 border-t border-gallery-border">
+                        <a href="https://shop.benjaminjyoung.com/collections/giclee-prints" target="_blank" rel="noopener noreferrer"
+                           class="block text-center w-full py-3.5 px-6 text-xs tracking-[0.16em] uppercase font-medium bg-gallery-ink text-gallery-bg rounded hover:bg-gallery-ochreDark transition-colors">
+                            Acquire Limited Editions Online
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 7. PRIVATE COLLECTOR INQUIRY & CLOSING CTA -->
+    <section id="collector-inquiries" class="py-20 sm:py-28 px-5 sm:px-8 lg:px-12 bg-gallery-surface/40">
+        <div class="max-w-4xl mx-auto">
+            <div class="text-center mb-14">
+                <p class="text-[11px] tracking-widestEditorial uppercase text-gallery-ochre font-medium mb-3">
+                    Private Acquisition &amp; Advisory
+                </p>
+                <h2 class="font-serif text-3xl sm:text-5xl font-normal text-gallery-ink mb-4">
+                    Private Collector Inquiry
+                </h2>
+                <p class="text-sm sm:text-base text-gallery-muted max-w-2xl mx-auto leading-relaxed">
+                    For collectors seeking available original watercolors, private studio viewings, or guidance on specific limited editions from the ten-work retrospective, please submit a note below or visit the online gallery directly.
+                </p>
+            </div>
+
+            <!-- Inline Collector Inquiry Form -->
+            <div class="bg-gallery-bg border border-gallery-border rounded p-7 sm:p-12 museum-frame">
+                <form id="inline-inquiry-form" class="space-y-6">
+                    <div class="grid grid-cols-1 sm:grid-cols-2 gap-6">
+                        <div>
+                            <label for="collector-name" class="block text-[11px] tracking-[0.16em] uppercase text-gallery-muted mb-2">
+                                Full Name *
+                            </label>
+                            <input type="text" id="collector-name" name="name" required placeholder="e.g., Eleanor Vance"
+                                   class="w-full px-4 py-3 bg-gallery-bg border border-gallery-border rounded text-sm text-gallery-ink placeholder:text-gallery-muted/50 focus:outline-none focus:border-gallery-ochre transition-colors">
+                        </div>
+                        <div>
+                            <label for="collector-email" class="block text-[11px] tracking-[0.16em] uppercase text-gallery-muted mb-2">
+                                Email Address *
+                            </label>
+                            <input type="email" id="collector-email" name="email" required placeholder="collector@domain.com"
+                                   class="w-full px-4 py-3 bg-gallery-bg border border-gallery-border rounded text-sm text-gallery-ink placeholder:text-gallery-muted/50 focus:outline-none focus:border-gallery-ochre transition-colors">
+                        </div>
+                    </div>
+
+                    <div class="grid grid-cols-1 sm:grid-cols-2 gap-6">
+                        <div>
+                            <label for="selected-work" class="block text-[11px] tracking-[0.16em] uppercase text-gallery-muted mb-2">
+                                Work of Interest
+                            </label>
+                            <select id="selected-work" name="work"
+                                    class="w-full px-4 py-3 bg-gallery-bg border border-gallery-border rounded text-sm text-gallery-ink focus:outline-none focus:border-gallery-ochre transition-colors">
+                                <option value="General Collection Inquiry">General Collection / Multiple Works</option>
+                                <option value="I. I'm Sorry, It's Cancer">I. I'm Sorry, It's Cancer</option>
+                                <option value="II. Dying in a Snowfall">II. Dying in a Snowfall</option>
+                                <option value="III. In The Dark">III. In The Dark</option>
+                                <option value="IV. Corporate Contempt">IV. Corporate Contempt</option>
+                                <option value="V. Circus Act">V. Circus Act</option>
+                                <option value="VI. Howard's Hills">VI. Howard's Hills</option>
+                                <option value="VII. Defeat">VII. Defeat</option>
+                                <option value="VIII. Coming Home">VIII. Coming Home</option>
+                                <option value="IX. Okay Now">IX. Okay Now</option>
+                                <option value="X. One Last Walk With Izzy">X. One Last Walk With Izzy (Retiring Dec 31, 2026)</option>
+                            </select>
+                        </div>
+                        <div>
+                            <label for="edition-type" class="block text-[11px] tracking-[0.16em] uppercase text-gallery-muted mb-2">
+                                Acquisition Preference
+                            </label>
+                            <select id="edition-type" name="edition"
+                                    class="w-full px-4 py-3 bg-gallery-bg border border-gallery-border rounded text-sm text-gallery-ink focus:outline-none focus:border-gallery-ochre transition-colors">
+                                <option value="Original Drybrush Watercolor">Original Drybrush Watercolor</option>
+                                <option value="Limited-Edition Archival Giclée Print">Limited-Edition Archival Giclée Print</option>
+                                <option value="Both / Open to Guidance">Both / Open to Guidance</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <div>
+                        <label for="collector-message" class="block text-[11px] tracking-[0.16em] uppercase text-gallery-muted mb-2">
+                            Notes or Questions (Location, Framing Dimensions, etc.)
+                        </label>
+                        <textarea id="collector-message" name="message" rows="4" placeholder="Share any details regarding your collection or the piece that spoke to you..."
+                                  class="w-full px-4 py-3 bg-gallery-bg border border-gallery-border rounded text-sm text-gallery-ink placeholder:text-gallery-muted/50 focus:outline-none focus:border-gallery-ochre transition-colors"></textarea>
+                    </div>
+
+                    <div class="flex flex-col sm:flex-row items-center justify-between gap-4 pt-2">
+                        <p class="text-xs text-gallery-muted">
+                            Direct studio response within 24 hours. Complimentary worldwide insurance on originals.
+                        </p>
+                        <button type="submit"
+                                class="w-full sm:w-auto px-8 py-4 text-xs tracking-[0.16em] uppercase font-medium bg-gallery-ink text-gallery-bg rounded hover:bg-gallery-ochreDark transition-colors">
+                            Send Private Inquiry
+                        </button>
+                    </div>
+                </form>
+
+                <!-- Confirmation Banner (Hidden by default) -->
+                <div id="inquiry-confirmation" class="hidden mt-6 p-6 bg-gallery-surface border border-gallery-ochre/40 rounded text-center">
+                    <p class="font-serif text-2xl text-gallery-ink mb-2">Thank You for Your Inquiry</p>
+                    <p class="text-sm text-gallery-muted max-w-lg mx-auto mb-4">
+                        Your collector inquiry has been recorded for Benjamin J. Young’s studio. You may also view immediate edition availability in the online shop.
+                    </p>
+                    <a href="https://shop.benjaminjyoung.com" target="_blank" rel="noopener noreferrer"
+                       class="inline-flex items-center text-xs tracking-[0.16em] uppercase font-medium text-gallery-ochre border-b border-gallery-ochre pb-1 hover:text-gallery-ink hover:border-gallery-ink transition-colors">
+                        Proceed to shop.benjaminjyoung.com &rarr;
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- MINIMAL FOOTER -->
+    <footer class="bg-gallery-bg border-t border-gallery-border py-14 px-5 sm:px-8 lg:px-12">
+        <div class="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between gap-6">
+            <div class="text-center md:text-left">
+                <p class="font-serif text-lg tracking-[0.18em] uppercase text-gallery-ink">
+                    Benjamin J. Young
+                </p>
+                <p class="text-xs text-gallery-muted mt-1">
+                    &copy; 2026 Benjamin J. Young Fine Art. All Rights Reserved.
+                </p>
+            </div>
+
+            <div class="flex flex-wrap items-center justify-center gap-6 sm:gap-8 text-xs tracking-[0.14em] uppercase text-gallery-muted">
+                <a href="https://benjaminjyoung.com" target="_blank" rel="noopener noreferrer" class="hover:text-gallery-ink transition-colors">
+                    Artist Website
+                </a>
+                <a href="https://shop.benjaminjyoung.com" target="_blank" rel="noopener noreferrer" class="hover:text-gallery-ink transition-colors">
+                    Collector Shop
+                </a>
+                <a href="#the-collection" class="hover:text-gallery-ink transition-colors">
+                    The 10 Works
+                </a>
+                <a href="#collector-inquiries" class="hover:text-gallery-ink transition-colors">
+                    Inquire
+                </a>
+            </div>
+        </div>
+    </footer>
+
+    <!-- QUICK COLLECTOR INQUIRY MODAL (Triggered from individual painting plates) -->
+    <div id="collector-modal" class="fixed inset-0 z-50 hidden items-center justify-center p-4 sm:p-6 bg-gallery-ink/60 backdrop-blur-sm">
+        <div class="bg-gallery-bg border border-gallery-border rounded max-w-lg w-full p-6 sm:p-8 relative shadow-2xl">
+            <button type="button" onclick="closeInquiryModal()" aria-label="Close modal"
+                    class="absolute top-5 right-5 text-gallery-muted hover:text-gallery-ink p-2">
+                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M6 18L18 6M6 6l12 12"/>
+                </svg>
+            </button>
+
+            <p class="text-[10px] tracking-widestEditorial uppercase text-gallery-ochre font-medium mb-2">
+                Studio Acquisition Desk
+            </p>
+            <h3 id="modal-work-title" class="font-serif text-2xl sm:text-3xl text-gallery-ink mb-2">
+                Inquire About This Work
+            </h3>
+            <p class="text-xs text-gallery-muted leading-relaxed mb-6">
+                Request current original availability, dimensions, or edition details directly from the studio, or visit the online shop to acquire an archival giclée print immediately.
+            </p>
+
+            <form id="modal-inquiry-form" class="space-y-4">
+                <input type="hidden" id="modal-work-input" name="work">
+                <div>
+                    <label class="block text-[10px] tracking-[0.16em] uppercase text-gallery-muted mb-1.5">Your Name *</label>
+                    <input type="text" required placeholder="Full Name"
+                           class="w-full px-3.5 py-2.5 bg-gallery-bg border border-gallery-border rounded text-sm text-gallery-ink focus:outline-none focus:border-gallery-ochre">
+                </div>
+                <div>
+                    <label class="block text-[10px] tracking-[0.16em] uppercase text-gallery-muted mb-1.5">Email Address *</label>
+                    <input type="email" required placeholder="collector@domain.com"
+                           class="w-full px-3.5 py-2.5 bg-gallery-bg border border-gallery-border rounded text-sm text-gallery-ink focus:outline-none focus:border-gallery-ochre">
+                </div>
+                <div>
+                    <label class="block text-[10px] tracking-[0.16em] uppercase text-gallery-muted mb-1.5">Interest</label>
+                    <select id="modal-edition-select"
+                            class="w-full px-3.5 py-2.5 bg-gallery-bg border border-gallery-border rounded text-sm text-gallery-ink focus:outline-none focus:border-gallery-ochre">
+                        <option value="Original Drybrush Watercolor">Original Drybrush Watercolor</option>
+                        <option value="Limited-Edition Archival Giclée Print">Limited-Edition Archival Giclée Print</option>
+                        <option value="Both / Pricing & Dimensions">Both / Pricing &amp; Dimensions</option>
+                    </select>
+                </div>
+                <div>
+                    <label class="block text-[10px] tracking-[0.16em] uppercase text-gallery-muted mb-1.5">Message</label>
+                    <textarea rows="3" placeholder="Optional note regarding framing or shipping destination..."
+                              class="w-full px-3.5 py-2.5 bg-gallery-bg border border-gallery-border rounded text-sm text-gallery-ink focus:outline-none focus:border-gallery-ochre"></textarea>
+                </div>
+
+                <div class="pt-2 flex flex-col sm:flex-row gap-3">
+                    <button type="submit"
+                            class="flex-1 py-3 px-5 text-xs tracking-[0.15em] uppercase font-medium bg-gallery-ink text-gallery-bg rounded hover:bg-gallery-ochreDark transition-colors">
+                        Send Studio Inquiry
+                    </button>
+                    <a href="https://shop.benjaminjyoung.com" target="_blank" rel="noopener noreferrer"
+                       class="py-3 px-5 text-center text-xs tracking-[0.15em] uppercase font-medium border border-gallery-border text-gallery-ink rounded hover:border-gallery-ink transition-colors">
+                        Visit Shop
+                    </a>
+                </div>
+            </form>
+
+            <div id="modal-confirmation" class="hidden py-6 text-center">
+                <p class="font-serif text-2xl text-gallery-ink mb-2">Inquiry Received</p>
+                <p class="text-xs text-gallery-muted leading-relaxed mb-5">
+                    Thank you. Benjamin J. Young’s studio will respond shortly with full provenance and availability details.
+                </p>
+                <button type="button" onclick="closeInquiryModal()"
+                        class="px-6 py-2.5 text-xs tracking-[0.15em] uppercase bg-gallery-ink text-gallery-bg rounded">
+                    Return to Exhibition
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Exact 10-painting narrative sequence in chronological & emotional order
+        const artworks = [
+            {
+                numeral: "I",
+                title: "I'm Sorry, It's Cancer",
+                url: "https://benjaminjyoung.com/story/im-sorry-its-cancer/",
+                chapter: "Chapter One • The Fracture",
+                note: "The genesis of the series. Rendered in stark chiaroscuro, this work captures the exact suspended second when ordinary life ends and an uncertain battle begins—where silence speaks louder than words.",
+                palette: ["#1A1817", "#362F2B", "#6E5D52"],
+                composition: "chiaroscuro-threshold",
+                image: "https://benjaminjyoung.com/story/im-sorry-its-cancer/painting.jpg"
+            },
+            {
+                numeral: "II",
+                title: "Dying in a Snowfall",
+                url: "https://benjaminjyoung.com/story/dying-in-a-snowfall/",
+                chapter: "Chapter Two • Quiet Surrender",
+                note: "A study in wintry solitude and muted mineral grays. Falling snow softens the harsh edges of mortality, inviting quiet contemplation of fragility, cold stillness, and endurance.",
+                palette: ["#252729", "#5C6166", "#B8B6B0"],
+                composition: "snowfall-horizon",
+                image: "https://benjaminjyoung.com/story/dying-in-a-snowfall/painting.jpg"
+            },
+            {
+                numeral: "III",
+                title: "In The Dark",
+                url: "https://benjaminjyoung.com/story/in-the-dark/",
+                chapter: "Chapter Three • The Long Vigil",
+                note: "Deep ivory-black washes meet delicate drybrush highlights. An intimate portrait of midnight uncertainty, isolation, and the faint, stubborn persistence of inner light.",
+                palette: ["#161514", "#2E2925", "#8C7A6B"],
+                composition: "nocturne-beam",
+                image: "https://benjaminjyoung.com/story/in-the-dark/painting.jpg"
+            },
+            {
+                numeral: "IV",
+                title: "Corporate Contempt",
+                url: "https://benjaminjyoung.com/story/corporate-contempt/",
+                chapter: "Chapter Four • The Reckoning",
+                note: "Examining the dissonance between institutional expectation and human frailty. Rigid architectural geometry collides with raw psychological truth—marking the turning point toward a new vocation.",
+                palette: ["#232220", "#4A4640", "#96897B"],
+                composition: "monolith-shadow",
+                image: "https://benjaminjyoung.com/story/corporate-contempt/painting.jpg"
+            },
+            {
+                numeral: "V",
+                title: "Circus Act",
+                url: "https://benjaminjyoung.com/story/circus-act/",
+                chapter: "Chapter Five • The Performance",
+                note: "Warm Venetian red undertones pierce a somber Zorn palette. A poignant reflection on the masks we wear in public while privately navigating upheaval, drama, and reinvention.",
+                palette: ["#261E1C", "#6B3830", "#B89A78"],
+                composition: "spotlight-arc",
+                image: "https://benjaminjyoung.com/story/circus-act/painting.jpg"
+            },
+            {
+                numeral: "VI",
+                title: "Howard's Hills",
+                url: "https://benjaminjyoung.com/story/howards-hills/",
+                chapter: "Chapter Six • Grounding",
+                note: "Stepping out of interior shadow into the weathered topography of rural Ohio. Rolling earth-ochre slopes offer a steadying breath—anchoring the spirit in memory, land, and heritage.",
+                palette: ["#2E2A23", "#6B5D47", "#C2B297"],
+                composition: "rolling-hills",
+                image: "https://benjaminjyoung.com/story/howards-hills/painting.jpg"
+            },
+            {
+                numeral: "VII",
+                title: "Defeat",
+                url: "https://benjaminjyoung.com/story/defeat/",
+                chapter: "Chapter Seven • The Crucible",
+                note: "Unflinching in its vulnerability, Defeat honors the necessity of bowing to exhaustion before genuine renewal can take root. Subtle drybrush textures reveal every hesitant stroke on cotton rag.",
+                palette: ["#1F1D1B", "#47413B", "#8F8275"],
+                composition: "slumped-light",
+                image: "https://benjaminjyoung.com/story/defeat/painting.jpg"
+            },
+            {
+                numeral: "VIII",
+                title: "Coming Home",
+                url: "https://benjaminjyoung.com/story/coming-home/",
+                chapter: "Chapter Eight • Return",
+                note: "A warm threshold emerges from cool twilight umbers. Coming Home marks the emotional pivot from survival to belonging—recognizing grace in familiar shelter and quiet devotion.",
+                palette: ["#282420", "#6E5A47", "#D1BEA3"],
+                composition: "warm-window",
+                image: "https://benjaminjyoung.com/story/coming-home/painting.jpg"
+            },
+            {
+                numeral: "IX",
+                title: "Okay Now",
+                url: "https://benjaminjyoung.com/story/okay-now/",
+                chapter: "Chapter Nine • Equanimity",
+                note: "Balanced light settles across open paper. Without spectacle or sentimentality, Okay Now captures the hard-won peace of acceptance—where melancholy and gratitude coexist in stillness.",
+                palette: ["#36322D", "#7D7366", "#DED6C8"],
+                composition: "balanced-calm",
+                image: "https://benjaminjyoung.com/story/okay-now/painting.jpg"
+            },
+            {
+                numeral: "X",
+                title: "One Last Walk With Izzy",
+                url: "https://benjaminjyoung.com/story/one-last-walk-with-izzy/",
+                chapter: "Chapter Ten • Benediction",
+                note: "The culminating chapter of the retrospective—a tender tribute to unconditional companionship, bittersweet farewell, and the enduring beauty that remains after the storm.",
+                specialNotice: "Edition Notice: The limited-edition giclée print for One Last Walk With Izzy permanently retires on December 31, 2026.",
+                palette: ["#2B2621", "#786652", "#DFD3C0"],
+                composition: "final-path",
+                image: "https://benjaminjyoung.com/story/one-last-walk-with-izzy/painting.jpg"
+            }
+        ];
+
+        // Generate bespoke tonal Zorn-palette museum plate artwork SVG for each painting
+        function createMuseumPlateSVG(art, index) {
+            const [c1, c2, c3] = art.palette;
+            const id = `grad-${index}`;
+            const radialId = `rad-${index}`;
+
+            let geometry = '';
+            if (index % 3 === 0) {
+                geometry = `
+                    <rect width="800" height="600" fill="url(#${id})"/>
+                    <ellipse cx="520" cy="240" rx="260" ry="210" fill="url(#${radialId})" opacity="0.75"/>
+                    <path d="M0 440 Q 320 390 800 470 L 800 600 L 0 600 Z" fill="${c1}" opacity="0.65"/>
+                `;
+            } else if (index % 3 === 1) {
+                geometry = `
+                    <rect width="800" height="600" fill="url(#${id})"/>
+                    <circle cx="290" cy="230" r="240" fill="url(#${radialId})" opacity="0.7"/>
+                    <path d="M0 380 C 240 340, 520 430, 800 360 L 800 600 L 0 600 Z" fill="${c2}" opacity="0.45"/>
+                    <line x1="80" y1="490" x2="720" y2="490" stroke="${c3}" stroke-opacity="0.25" stroke-width="1"/>
+                `;
+            } else {
+                geometry = `
+                    <rect width="800" height="600" fill="url(#${id})"/>
+                    <rect x="240" y="95" width="320" height="410" fill="url(#${radialId})" opacity="0.55"/>
+                    <path d="M0 460 Q 400 410 800 450 L 800 600 L 0 600 Z" fill="${c1}" opacity="0.7"/>
+                `;
+            }
+
+            return `
+                <svg viewBox="0 0 800 600" class="w-full h-full block" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Curatorial tonal study for ${art.title}">
+                    <defs>
+                        <linearGradient id="${id}" x1="0%" y1="0%" x2="100%" y2="100%">
+                            <stop offset="0%" stop-color="${c1}"/>
+                            <stop offset="55%" stop-color="${c2}"/>
+                            <stop offset="100%" stop-color="${c1}"/>
+                        </linearGradient>
+                        <radialGradient id="${radialId}" cx="50%" cy="45%" r="60%">
+                            <stop offset="0%" stop-color="${c3}" stop-opacity="0.9"/>
+                            <stop offset="65%" stop-color="${c2}" stop-opacity="0.35"/>
+                            <stop offset="100%" stop-color="${c1}" stop-opacity="0"/>
+                        </radialGradient>
+                    </defs>
+                    ${geometry}
+                    <image href="${art.image}" x="0" y="0" width="800" height="600" preserveAspectRatio="xMidYMid slice"/>
+                    <!-- Fine museum mat hairline -->
+                    <rect x="28" y="28" width="744" height="544" fill="none" stroke="#FAF9F6" stroke-opacity="0.16" stroke-width="1"/>
+                </svg>
+            `;
+        }
+
+        // Render the 10-painting narrative exhibition walkthrough
+        function renderExhibitionPlates() {
+            const container = document.getElementById('exhibition-plates');
+            if (!container) return;
+
+            container.innerHTML = artworks.map((art, idx) => {
+                const isEven = idx % 2 === 1;
+                const orderClasses = isEven ? 'lg:flex-row-reverse' : 'lg:flex-row';
+                const safeTitle = art.title.replace(/'/g, "\\'");
+
+                return `
+                    <article class="artwork-card flex flex-col ${orderClasses} gap-10 lg:gap-16 items-center">
+                        <!-- Museum Mat & Plate Frame -->
+                        <div class="w-full lg:w-7/12">
+                            <a href="${art.url}" target="_blank" rel="noopener noreferrer" class="block group">
+                                <div class="bg-[#F2EFE9] p-6 sm:p-10 md:p-12 border border-gallery-border rounded museum-frame paper-texture">
+                                    <div class="aspect-[4/3] w-full overflow-hidden rounded-sm relative bg-gallery-zornDark shadow-inner">
+                                        ${createMuseumPlateSVG(art, idx)}
+                                        
+                                        <!-- Subtle Museum Plate Overlay Caption -->
+                                        <div class="absolute inset-0 flex flex-col justify-between p-6 sm:p-8 text-gallery-bg">
+                                            <div class="flex items-center justify-between text-[10px] tracking-[0.22em] uppercase text-gallery-bg/75">
+                                                <span>Plate ${art.numeral} of X</span>
+                                                <span>Drybrush Watercolor</span>
+                                            </div>
+                                            
+                                            <div class="my-auto text-center px-4">
+                                                <p class="font-serif italic text-2xl sm:text-3xl md:text-4xl text-gallery-bg/95 drop-shadow-sm">
+                                                    ${art.title}
+                                                </p>
+                                                <span class="inline-block mt-3 text-[10px] tracking-[0.22em] uppercase text-gallery-bg/80 border-b border-gallery-bg/40 pb-1 group-hover:border-gallery-bg transition-colors">
+                                                    View Painting &amp; Full Story &rarr;
+                                                </span>
+                                            </div>
+
+                                            <div class="flex items-center justify-between text-[10px] tracking-[0.18em] uppercase text-gallery-bg/65">
+                                                <span>Benjamin J. Young</span>
+                                                <span>100% Cotton Paper</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+
+                        <!-- Curatorial Plaque & Acquisition Actions -->
+                        <div class="w-full lg:w-5/12 space-y-5">
+                            <div class="flex items-center gap-3">
+                                <span class="font-serif italic text-xl text-gallery-ochre">No. ${art.numeral}</span>
+                                <span class="w-8 h-px bg-gallery-border"></span>
+                                <span class="text-[11px] tracking-[0.2em] uppercase text-gallery-muted font-medium">
+                                    ${art.chapter}
+                                </span>
+                            </div>
+
+                            <h3 class="font-serif text-3xl sm:text-4xl font-normal text-gallery-ink leading-tight">
+                                <a href="${art.url}" target="_blank" rel="noopener noreferrer" class="hover:text-gallery-ochre transition-colors">
+                                    ${art.title}
+                                </a>
+                            </h3>
+
+                            <p class="text-sm sm:text-base text-gallery-muted leading-relaxed">
+                                ${art.note}
+                            </p>
+
+                            ${art.specialNotice ? `
+                                <div class="p-4 bg-gallery-surface border-l-2 border-gallery-ochre rounded-r text-xs text-gallery-ink leading-relaxed">
+                                    <strong class="font-medium uppercase tracking-wider text-gallery-ochre block mb-1">Archival Edition Retirement</strong>
+                                    ${art.specialNotice}
+                                </div>
+                            ` : ''}
+
+                            <!-- Technical Medium & Edition Specifications -->
+                            <div class="pt-4 border-t border-gallery-border space-y-1.5 text-xs text-gallery-muted">
+                                <p><strong class="font-medium text-gallery-ink">Original:</strong> Drybrush Watercolor on 100% Cotton Archival Paper</p>
+                                <p><strong class="font-medium text-gallery-ink">Limited Edition:</strong> Archival Giclée Print on 200 GSM Museum-Grade Matte Paper</p>
+                            </div>
+
+                            <!-- Action Links -->
+                            <div class="pt-4 flex flex-wrap items-center gap-4">
+                                <a href="${art.url}" target="_blank" rel="noopener noreferrer"
+                                   class="inline-flex items-center justify-center px-5 py-3 text-xs tracking-[0.15em] uppercase font-medium bg-gallery-ink text-gallery-bg rounded hover:bg-gallery-ochreDark transition-colors">
+                                    Read Story &amp; View Plate
+                                </a>
+                                <button type="button" onclick="openInquiryModal('${art.numeral}. ${safeTitle}', 'Original Drybrush Watercolor')"
+                                        class="inline-flex items-center justify-center px-5 py-3 text-xs tracking-[0.15em] uppercase font-medium border border-gallery-border text-gallery-ink rounded hover:border-gallery-ink transition-colors">
+                                    Inquire / Acquire
+                                </button>
+                            </div>
+                        </div>
+                    </article>
+                `;
+            }).join('');
+        }
+
+        // Modal controls for collector inquiries
+        const modal = document.getElementById('collector-modal');
+        const modalTitle = document.getElementById('modal-work-title');
+        const modalWorkInput = document.getElementById('modal-work-input');
+        const modalEditionSelect = document.getElementById('modal-edition-select');
+        const modalForm = document.getElementById('modal-inquiry-form');
+        const modalConfirmation = document.getElementById('modal-confirmation');
+
+        function openInquiryModal(workName, defaultEdition) {
+            modalForm.classList.remove('hidden');
+            modalConfirmation.classList.add('hidden');
+            modalForm.reset();
+
+            if (workName) {
+                modalTitle.textContent = workName;
+                modalWorkInput.value = workName;
+            } else {
+                modalTitle.textContent = "Inquire on Original Availability";
+                modalWorkInput.value = "General Original Inquiry";
+            }
+
+            if (defaultEdition) {
+                modalEditionSelect.value = defaultEdition;
+            }
+
+            modal.classList.remove('hidden');
+            modal.classList.add('flex');
+            document.body.style.overflow = 'hidden';
+        }
+
+        function closeInquiryModal() {
+            modal.classList.add('hidden');
+            modal.classList.remove('flex');
+            document.body.style.overflow = '';
+        }
+
+        // Close modal on backdrop click or Escape key
+        modal.addEventListener('click', (e) => {
+            if (e.target === modal) closeInquiryModal();
+        });
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape' && !modal.classList.contains('hidden')) {
+                closeInquiryModal();
+            }
+        });
+
+        // Handle Modal Form Submission
+        modalForm.addEventListener('submit', (e) => {
+            e.preventDefault();
+            modalForm.classList.add('hidden');
+            modalConfirmation.classList.remove('hidden');
+        });
+
+        // Handle Inline Collector Inquiry Form Submission
+        const inlineForm = document.getElementById('inline-inquiry-form');
+        const inlineConfirmation = document.getElementById('inquiry-confirmation');
+
+        inlineForm.addEventListener('submit', (e) => {
+            e.preventDefault();
+            inlineForm.classList.add('hidden');
+            inlineConfirmation.classList.remove('hidden');
+        });
+
+        // Initialize exhibition plates on DOM load
+        document.addEventListener('DOMContentLoaded', renderExhibitionPlates);
+    </script>
+</body>
+</html>
