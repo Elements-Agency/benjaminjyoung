@@ -207,7 +207,7 @@
                     From Darkness to Light — The Ten Chapters
                 </h2>
                 <p class="text-sm sm:text-base text-gallery-muted leading-relaxed">
-                    Sequenced chronologically and emotionally, each work marks a threshold in a lived journey—moving from the stark shadows of diagnosis and isolation toward stillness, endurance, and grace. Select any plate to read the full story behind the painting or inquire regarding acquisition.
+                    Sequenced at an emotionally resonant level, each work marks a threshold in a lived journey—moving from the stark shadows of diagnosis and isolation toward stillness, endurance, and grace. Select any plate to read the full story behind the painting or inquire regarding acquisition.
                 </p>
             </div>
 
@@ -271,7 +271,7 @@
                             Benjamin J. Young’s path to fine art began not in an academic atelier, but in the quiet reckoning that followed stepping away from a demanding corporate career and confronting a life-altering cancer diagnosis. Turning toward paper and pigment as a discipline of survival and stillness, Young developed an intimate, labor-intensive approach to <strong class="font-medium text-gallery-ink">drybrush watercolor on 100% cotton paper</strong>, alongside work in oil and egg tempera.
                         </p>
                         <p>
-                            Working primarily with a restrained mineral and Zorn-inspired palette—ivory black, yellow ochre, Venetian red, and titanium white—Young strips away superfluous color to heighten emotional weight and chiaroscuro contrast. Every layer of drybrush pigment is built slowly, allowing the tooth of the cotton rag to breathe through shadow and muted light.
+                            Working primarily with a restrained mineral and Zorn-inspired palette—ivory black, burnt umber, yellow ochre, Venetian red, and Ultramarine blue—Young strips away superfluous color to heighten emotional weight and chiaroscuro contrast. Every layer of drybrush pigment is built slowly, allowing the tooth of the cotton rag to breathe through shadow and muted light.
                         </p>
                         <p>
                             Within his first three years of exhibiting, Young has emerged as one of the fastest-growing representational realists in the United States. His works have been featured in <strong class="font-medium text-gallery-ink">over 30 juried and invitational exhibitions nationwide</strong>, earned multiple honors for portraiture and narrative realism, and found permanent homes with <strong class="font-medium text-gallery-ink">more than 1,200 collectors across over 20 countries</strong>.
@@ -401,7 +401,10 @@
 
             <!-- Inline Collector Inquiry Form -->
             <div class="bg-gallery-bg border border-gallery-border rounded p-7 sm:p-12 museum-frame">
-                <form id="inline-inquiry-form" class="space-y-6">
+                <form id="inline-inquiry-form" class="space-y-6"
+                    action="https://formspree.io/f/mkjrybbv"
+                    method="POST"
+                    onsubmit="fbq('track', 'Lead');">
                     <div class="grid grid-cols-1 sm:grid-cols-2 gap-6">
                         <div>
                             <label for="collector-name" class="block text-[11px] tracking-[0.16em] uppercase text-gallery-muted mb-2">
@@ -418,6 +421,8 @@
                                    class="w-full px-4 py-3 bg-gallery-bg border border-gallery-border rounded text-sm text-gallery-ink placeholder:text-gallery-muted/50 focus:outline-none focus:border-gallery-ochre transition-colors">
                         </div>
                     </div>
+
+                    <input type="hidden" name="ip" id="ip">
 
                     <div class="grid grid-cols-1 sm:grid-cols-2 gap-6">
                         <div>
@@ -470,6 +475,12 @@
                         </button>
                     </div>
                 </form>
+                <script>
+                fetch('https://api.ipify.org?format=json')
+                    .then(response => response.json())
+                    .then(data => { document.getElementById('ip').value = data.ip; })
+                    .catch(() => {});
+                </script>
 
                 <!-- Confirmation Banner (Hidden by default) -->
                 <div id="inquiry-confirmation" class="hidden mt-6 p-6 bg-gallery-surface border border-gallery-ochre/40 rounded text-center">
@@ -588,7 +599,7 @@
     </div>
 
     <script>
-        // Exact 10-painting narrative sequence in chronological & emotional order
+        // Exact 10-painting narrative sequence in emotional order
         const artworks = [
             {
                 numeral: "I",
