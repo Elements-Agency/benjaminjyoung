@@ -475,12 +475,6 @@
                         </button>
                     </div>
                 </form>
-                <script>
-                fetch('https://api.ipify.org?format=json')
-                    .then(response => response.json())
-                    .then(data => { document.getElementById('ip').value = data.ip; })
-                    .catch(() => {});
-                </script>
 
                 <!-- Confirmation Banner (Hidden by default) -->
                 <div id="inquiry-confirmation" class="hidden mt-6 p-6 bg-gallery-surface border border-gallery-ochre/40 rounded text-center">
@@ -546,8 +540,12 @@
                 Request current original availability, dimensions, or edition details directly from the studio, or visit the online shop to acquire an archival giclée print immediately.
             </p>
 
-            <form id="modal-inquiry-form" class="space-y-4">
+            <form id="modal-inquiry-form" class="space-y-4"
+                    action="https://formspree.io/f/mkjrybbv"
+                    method="POST"
+                    onsubmit="fbq('track', 'Lead');">
                 <input type="hidden" id="modal-work-input" name="work">
+                <input type="hidden" name="ip2" id="ip2">
                 <div>
                     <label class="block text-[10px] tracking-[0.16em] uppercase text-gallery-muted mb-1.5">Your Name *</label>
                     <input type="text" required placeholder="Full Name"
@@ -584,6 +582,12 @@
                     </a>
                 </div>
             </form>
+            <script>
+            fetch('https://api.ipify.org?format=json')
+                .then(response => response.json())
+                .then(data => { document.getElementById('ip').value = data.ip; document.getElementById('ip2').value = data.ip; })
+                .catch(() => {});
+            </script>
 
             <div id="modal-confirmation" class="hidden py-6 text-center">
                 <p class="font-serif text-2xl text-gallery-ink mb-2">Inquiry Received</p>
